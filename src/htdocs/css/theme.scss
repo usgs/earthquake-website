@@ -1,0 +1,46 @@
+/* ### set template variables */
+
+
+$banner-image: '/theme/images/usgs-banner.jpg' !default;
+$banner-background-color: #000 !default;
+
+
+$site-title: 'Earthquake Hazards Program' !default;
+$site-title-color: #FFF !default;
+$site-title-background-color: #4E7AB9 !default;
+
+
+$spacing: 8px !default;
+$breakpoint-full: 768px;
+$side-column-width: 20%;
+
+$page-footer-color: #999 !default;
+$page-footer-background-color: #FFF !default;
+$page-footer-border-color: #DDD !default;
+
+
+$search-background-color: #EEE !default;
+$search-border-color: #CCC !default;
+
+
+$sitenav-color: #132840 !default;
+$sitenav-background-color: #C9D8E9 !default;
+$sitenav-color-hover: #111 !default;
+$sitenav-background-color-hover: darken($sitenav-background-color, 10%) !default;
+$sitenav-border-color-hover: #111 !default;
+
+$sectionnav-color: $sitenav-color !default;
+$sectionnav-background-color: lighten($sitenav-background-color, 10%) !default;
+$sectionnav-color-hover: $sitenav-color-hover !default;
+$sectionnav-background-color-hover: lighten($sitenav-background-color-hover, 10%) !default;
+$sectionnav-border-color: #CCC !default;
+
+$offcanvas-width: 80% !default;
+
+
+
+/* ### include template css file */
+@import '../../../node_modules/hazdev-template/src/htdocs/css/_template.scss';
+
+
+/* ### include any content module css files */
