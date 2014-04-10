@@ -1,16 +1,19 @@
 /* ### set template variables */
 
+$body-margin: 2px;
 
-$banner-image: '/theme/images/usgs-banner.jpg' !default;
+$banner-image: '/css/images/header.png' !default;
 $banner-background-color: #000 !default;
 
 
 $site-title: 'Earthquake Hazards Program' !default;
 $site-title-color: #FFF !default;
-$site-title-background-color: #4E7AB9 !default;
+$site-title-background-color: #39597F !default;
 
 
 $spacing: 8px !default;
+$horizontal-spacing: 12px;
+$vertical-spacing: 8px;
 $breakpoint-full: 768px;
 $side-column-width: 20%;
 
@@ -44,3 +47,46 @@ $offcanvas-width: 80% !default;
 
 
 /* ### include any content module css files */
+
+
+
+#site-sectionnav {
+	margin: 8px 0px 0px 0px;
+}
+
+#site-sectionnav a {
+	padding: 4px 24px;
+}
+
+.site-sitenav {
+	margin: 0px 0px;
+}
+
+.site-search {
+	margin: 0px 0px 1px 0px;
+}
+
+.page-content {
+	margin: 1em 1em 1em 0em;
+}
+
+.site-sectionnav strong {
+	-webkit-box-shadow: 4px 0 0 inset;
+	box-shadow: 4px 0 0 inset;
+	text-decoration: none;
+	background-color: #fff;
+	margin-left: -1px;
+	position: relative;
+	
+	&:after {
+		content: '';
+		width: 2px;
+		height: 100%;
+		display: block;
+		background-color: #fff;
+		position: absolute;
+		right: 0;
+		top: 0;
+		margin-right: -1px;
+	}
+}
