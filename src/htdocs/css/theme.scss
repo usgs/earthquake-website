@@ -49,6 +49,29 @@ $offcanvas-width: 80% !default;
 /* ### include any content module css files */
 
 
+/* LISA'S STYLES */
+
+h1 {
+	display: block;
+	font-family: arial,helvetica,sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: arial,helvetica,sans-serif;
+	font-size:1.5em;
+	color: #666;
+	padding: 4px 6px 0 0;
+	margin: 0.5em 0 0.2em 0;
+	background: none;
+	border-bottom: 2px solid #666;
+}
+
+h3 {
+	font-family: arial,helvetica,sans-serif;
+	font-size:1.2em;
+}
 
 #site-sectionnav {
 	margin: 8px 0px 0px 0px;
