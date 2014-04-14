@@ -5,20 +5,19 @@ $SITE_URL = 'earthquake.usgs.gov';
 
 // navigation above search, below section navigation
 $SITE_SITENAV =
-        navItem('#earthquakes', 'Earthquakes') .
-        navItem('#hazards', 'Hazards') .
-        navItem('#data', 'Data') .
-        navItem('#learn', 'Learn') .
-        navItem('#monitoring', 'Monitoring') .
-        navItem('#research', 'Research');
+        navItem('earthquakes/', 'Earthquakes') .
+        navItem('hazards/', 'Hazards') .
+        navItem('data/', 'Data &amp; Products') .
+        navItem('learn/', 'Learn') .
+        navItem('monitoring/', 'Monitoring') .
+        navItem('research/', 'Research');
 
 // at bottom of page
 $SITE_COMMONNAV =
-        navItem('#home', 'Home') .
-        navItem('#aboutus', 'About Us') .
-        navItem('#contactus', 'Contact Us') .
-        navItem('#legal', 'Legal') .
-        navItem('#partners', 'Partners');
+        navItem('($SITE_URL)', 'Home') .
+        navItem('aboutus/', 'About Us') .
+        navItem('contactus/regional.php', 'Contact Us') .
+        navItem('http://www.usgs.gov/legal/', 'Legal') .
 
 $HEAD =
         // site theme, should use a site root-relative URL

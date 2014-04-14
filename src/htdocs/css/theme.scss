@@ -2,44 +2,37 @@
 
 $body-margin: 2px;
 
-$banner-image: '/css/images/header.png' !default;
-$banner-background-color: #000 !default;
+$banner-image: '/images/header.png';
+$banner-background-color: #000;
 
+$site-title: 'Earthquake Hazards Program';
+$site-title-color: #FFF;
+$site-title-background-color: #39597F;
 
-$site-title: 'Earthquake Hazards Program' !default;
-$site-title-color: #FFF !default;
-$site-title-background-color: #39597F !default;
-
-
-$spacing: 8px !default;
-$horizontal-spacing: 12px;
-$vertical-spacing: 8px;
+$spacing: 12px;
 $breakpoint-full: 768px;
 $side-column-width: 20%;
 
-$page-footer-color: #999 !default;
-$page-footer-background-color: #FFF !default;
-$page-footer-border-color: #DDD !default;
+$page-footer-color: #999;
+$page-footer-background-color: #FFF;
+$page-footer-border-color: #DDD;
 
+$search-background-color: #EEE;
+$search-border-color: #CCC;
 
-$search-background-color: #EEE !default;
-$search-border-color: #CCC !default;
+$sitenav-color: #132840;
+$sitenav-background-color: #C9D8E9;
+$sitenav-color-hover: #111;
+$sitenav-background-color-hover: darken($sitenav-background-color, 10%);
+$sitenav-border-color-hover: #111;
 
+$sectionnav-color: $sitenav-color;
+$sectionnav-background-color: lighten($sitenav-background-color, 10%);
+$sectionnav-color-hover: $sitenav-color-hover;
+$sectionnav-background-color-hover: lighten($sitenav-background-color-hover, 10%);
+$sectionnav-border-color: #CCC;
 
-$sitenav-color: #132840 !default;
-$sitenav-background-color: #C9D8E9 !default;
-$sitenav-color-hover: #111 !default;
-$sitenav-background-color-hover: darken($sitenav-background-color, 10%) !default;
-$sitenav-border-color-hover: #111 !default;
-
-$sectionnav-color: $sitenav-color !default;
-$sectionnav-background-color: lighten($sitenav-background-color, 10%) !default;
-$sectionnav-color-hover: $sitenav-color-hover !default;
-$sectionnav-background-color-hover: lighten($sitenav-background-color-hover, 10%) !default;
-$sectionnav-border-color: #CCC !default;
-
-$offcanvas-width: 80% !default;
-
+$offcanvas-width: 80%;
 
 
 /* ### include template css file */
@@ -61,11 +54,10 @@ h1 {
 h2 {
 	font-family: arial,helvetica,sans-serif;
 	font-size:1.5em;
-	color: #666;
 	padding: 4px 6px 0 0;
 	margin: 0.5em 0 0.2em 0;
 	background: none;
-	border-bottom: 2px solid #666;
+	border-bottom: 1px solid #666;
 }
 
 h3 {
@@ -73,12 +65,29 @@ h3 {
 	font-size:1.2em;
 }
 
-#site-sectionnav {
-	margin: 8px 0px 0px 0px;
+.page {
+	padding: 12px 12px;
 }
 
-#site-sectionnav a {
-	padding: 4px 24px;
+.site-sectionnav {
+	margin: 8px 0px 0px 0px;
+	border-bottom: none;
+	background-color: #E5ECF5;
+}
+
+
+.site-sectionnav section header {
+	border-bottom: none;
+	padding: 12px 8px 4px 12px;
+}
+
+.site-sectionnav section a {
+	border-bottom: none;
+	padding: 4px 8px 4px 24px;
+}
+
+.site-sectionnav section a:last-child {
+	border-bottom: 1px solid #fff;
 }
 
 .site-sitenav {
@@ -86,7 +95,8 @@ h3 {
 }
 
 .site-search {
-	margin: 0px 0px 1px 0px;
+	margin: 0px 0px 8px 0px;
+	border-top: none;
 }
 
 .page-content {
@@ -94,22 +104,12 @@ h3 {
 }
 
 .site-sectionnav strong {
-	-webkit-box-shadow: 4px 0 0 inset;
-	box-shadow: 4px 0 0 inset;
 	text-decoration: none;
-	background-color: #fff;
-	margin-left: -1px;
-	position: relative;
-	
-	&:after {
-		content: '';
-		width: 2px;
-		height: 100%;
-		display: block;
-		background-color: #fff;
-		position: absolute;
-		right: 0;
-		top: 0;
-		margin-right: -1px;
-	}
+	background-color:#fff; 
+}
+
+.offcanvas-enabled
+.offcanvas-toggle {
+	top: 5px;
+	right: 5px;
 }

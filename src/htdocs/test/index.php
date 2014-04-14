@@ -1,15 +1,22 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-	$TITLE = 'Test Index';
+	$TITLE = 'Test Webpage';
 	$NAVIGATION = true;
-	$FOOT = '<script src="js/index.js"></script>';
+	$FOOT = '<script src="/js/index.js"></script>';
 	include('template.inc.php');
 }
 
 ?>
 
-<h2>Introduction</h2>
+
+<h2>An H2 Header</h2>
+
+<figure>
+  <img height="300px" width="250px" src="image_file"/>
+  <figcaption>The caption is here.</figcaption>
+</figure>
+
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -48,6 +55,7 @@ content
 content
 content
 
+<h4>An H4 Header</h4>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
