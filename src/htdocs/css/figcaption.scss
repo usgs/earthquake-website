@@ -1,0 +1,23 @@
+.figure {
+  width: 30%;
+  border: thin #999 solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+.figure p {
+  text-align: center;
+  font-size: 0.9em;
+  text-indent: 0;
+}
+
+.right {
+	float: right;
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.left {
+	float: left;
+	margin-left: 0;
+	margin-right: 12px;
+}

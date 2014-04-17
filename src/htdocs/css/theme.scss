@@ -37,6 +37,8 @@ $offcanvas-width: 80%;
 
 /* ### include template css file */
 @import '../../../node_modules/hazdev-template/src/htdocs/css/_template.scss';
+@import '../../../node_modules/hazdev-template/src/htdocs/css/flexible-grid';
+/* @import '../../../node_modules/hazdev-template/src/htdocs/css/table'; */
 
 
 /* ### include any content module css files */
@@ -57,7 +59,7 @@ h2 {
 	padding: 4px 6px 0 0;
 	margin: 0.5em 0 0.2em 0;
 	background: none;
-	border-bottom: 1px solid #666;
+	border-bottom: 1px solid #999;
 }
 
 h3 {
@@ -112,4 +114,37 @@ h3 {
 .offcanvas-toggle {
 	top: 5px;
 	right: 5px;
+}
+
+.date {
+	font-size:.9em;
+	color: #777;
+	font-family: Georgia, Times, serif;
+	font-style: normal;
+}
+
+
+
+
+/* Disclaimer text */
+
+#footer .disclaimer {
+	display:block;
+	width: 960px;
+	margin: 0 auto;
+	padding: 6px 0 6px 16px;
+	color:#000;
+}
+
+.disclaimer {
+  font-size: .85em;
+  color: #999;
+}
+
+
+
+
+/* imagelist */
+
+.imagelist {
 }
