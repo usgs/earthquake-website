@@ -25,11 +25,10 @@ if (!isset($TEMPLATE)) {
 
 <h2>An H2 Header</h2>
 
-<div class="figure right">
-  <p><img class="scaled" src="images/st-tropez.jpg" alt="St Tropez"></p>
-  <p>The caption is here.</p>
-</div>
-
+<figure class="right">
+  <img src="images/st-tropez.jpg" alt="St Tropez"/>
+  <figcaption>The caption is here.</figcaption>
+</figure>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -73,10 +72,10 @@ content
 
 <h4>An H4 Header</h4>
 
-<div class="figure left">
-  <p><img class="scaled" src="images/st-tropez.jpg" alt="St Tropez"></p>
-  <p>The caption is here.</p>
-</div>
+<figure>
+  <img src="images/st-tropez.jpg" alt="St Tropez"/>
+  <figcaption>The caption is here.</figcaption>
+</figure>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

@@ -1,23 +1,29 @@
-.figure {
-  width: 30%;
-  border: thin #999 solid;
-  margin: 0.5em;
-  padding: 0.5em;
-}
-.figure p {
-  text-align: center;
-  font-size: 0.9em;
-  text-indent: 0;
-}
+figure {
+	display: block;
+	margin: 1em 0;
 
-.right {
-	float: right;
-	margin-right: 0;
-	margin-left: 12px;
-}
+	> img {
+		border: 1px solid #ddd;
+	}
 
-.left {
-	float: left;
-	margin-left: 0;
-	margin-right: 12px;
+	> figcaption {
+		display: block;
+		margin-top: 0.25em;
+		font-size: 0.8em;
+		font-style: italic;
+	}
+
+	@media screen and (min-width: 400px) {
+		&.right {
+			float: right;
+			margin: 0 0 12px 16px;
+			max-width: 50%;
+		}
+
+		&.left {
+			float: left;
+			margin: 0 16px 12px 0;
+			max-width: 50%;
+		}
+	}
 }

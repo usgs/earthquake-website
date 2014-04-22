@@ -1,12 +1,12 @@
 <?php
 
 // site search url, leave blank for all usgs
-$SITE_URL = 'earthquake.usgs.gov';
+$SITE_URL = 'http://earthquake.usgs.gov';
 
 // navigation above search, below section navigation
 $SITE_SITENAV =
         navItem('/earthquakes/', 'Earthquakes') .
-        navItem('/hazards/', 'Hazards') .
+        navItem('/index.php', 'Hazards') .
         navItem('/data/', 'Data &amp; Products') .
         navItem('/learn/', 'Learn') .
         navItem('/monitoring/', 'Monitoring') .
@@ -14,7 +14,7 @@ $SITE_SITENAV =
 
 // at bottom of page
 $SITE_COMMONNAV =
-        navItem('($SITE_URL)', 'Home') .
+        navItem(($SITE_URL), 'Home') .
         navItem('/aboutus/', 'About Us') .
         navItem('/contactus/regional.php', 'Contact Us') .
         navItem('http://www.usgs.gov/legal/', 'Legal') .

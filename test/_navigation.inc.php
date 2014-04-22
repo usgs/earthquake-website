@@ -1,9 +1,9 @@
 <?php
 
-echo navItem('/', 'Test Webpage') .
+echo navItem('#', 'Test Webpage') .
 		navGroup('Craziness',
 				navItem('#', 'Predicting Earthquakes') .
-				navItem('#', 'Responding to Public')) .
+				navItem('/index.php', 'Responding to Public')) .
 		navGroup('Ski Resorts',
 				navItem('#', 'Breckenridge') .
 				navItem('#', 'Keystone') .
