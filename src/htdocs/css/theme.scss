@@ -7,7 +7,7 @@ $banner-background-color: #000;
 
 $site-title: 'Earthquake Hazards Program';
 $site-title-color: #FFF;
-$site-title-background-color: #39597F;
+$site-title-background-color: #527092;
 
 $spacing: 16px;
 $vertical-spacing: 12px;
@@ -52,12 +52,16 @@ $offcanvas-width: 80%;
 	padding: 12px 0px 12px 16px;
 }
 
-
-
 .site-sectionnav section strong {
-	text-decoration: none;
 	background-color:#fff;
 	padding: 8px 8px 8px 32px;
+	text-decoration: none;
+}
+
+.site-sectionnav > strong {
+	background-color:#fff;
+	padding: 8px;
+	text-decoration: none;
 }
 
 .site-sectionnav {
@@ -66,10 +70,16 @@ $offcanvas-width: 80%;
 
 .site-sectionnav a {
 	padding: 8px;
+	text-decoration: underline;
+}
+
+.site-sectionnav > a {
+	border-bottom: none;
 }
 
 .site-sectionnav section a {
 	padding: 8px 8px 8px 32px;
+	text-decoration: underline;
 }
 
 .site-sectionnav section a:hover {
@@ -78,15 +88,17 @@ $offcanvas-width: 80%;
 
 .site-sectionnav section header {
 	padding: 8px;
-	border-top: 1px solid #ccc;
+	border-top: 1px solid #fff;
 }
 
-
-
 .site-sitenav a {
-	background-color: #39597f;
+	background-color: #527092;
 	color: #fff;
 	padding: 8px;
+}
+
+.site-sitenav a:hover {
+	color: #000;
 }
 
 .site-sitenav strong {
@@ -94,15 +106,15 @@ $offcanvas-width: 80%;
 	text-decoration: none;
 	background-color:#fff;
 	padding: 8px;
-	
 }
 
-
+.site-search {
+	padding: 8px;
+}
 
 .page-content {
 	margin: 1em 0em 1em 0em;
 }
-
 
 .offcanvas-enabled
 .offcanvas-toggle {
@@ -129,7 +141,7 @@ $offcanvas-width: 80%;
 
 /* Disclaimer text */
 
-#footer .disclaimer {
+.footer .disclaimer {
 	display:block;
 	width: 960px;
 	margin: 0 auto;
@@ -138,6 +150,6 @@ $offcanvas-width: 80%;
 }
 
 .disclaimer {
-  font-size: .85em;
-  color: #999;
+	font-size: .85em;
+	color: #999;
 }

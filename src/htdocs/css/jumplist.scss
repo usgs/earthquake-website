@@ -1,9 +1,19 @@
 /* "jumplist" navigation links */
 
-#nav-alpha, #jumpnav, .jumplist {
-  background: #eee;
-  padding: .6em 10px;
-  margin: 0em 0 1em 0;
-  border: 1px solid #ccc;
-  font-size: 1.2em;
+.jumplist {
+	background: #eee;
+	padding: 8px;
+	margin: 0 0 1em 0;
+	border: 1px solid #ccc;
+
+	> a {
+		&:after {
+			display: inline-block;
+			content: '|';
+			padding: 0 8px;
+		}
+		&:last-child:after {
+			display: none;
+		}
+	}
 }

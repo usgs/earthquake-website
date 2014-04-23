@@ -1,6 +1,10 @@
 <?php
 
-echo navItem('#', 'Test Webpage') .
+echo navItem('#', 'Top Level Link') .
+		navItem('/index.php', 'Test Webpage') .
+		navItem('#', 'Another Webpage') .
+		navItem('#', 'And a Third') .
+
 		navGroup('Craziness',
 				navItem('#', 'Predicting Earthquakes') .
 				navItem('/index.php', 'Responding to Public')) .
