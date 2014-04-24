@@ -52,6 +52,25 @@ $offcanvas-width: 80%;
 	padding: 12px 0px 12px 16px;
 }
 
+.site-sectionnav {
+	> a,
+	> strong,
+	> section,
+	> section > a,
+	> section > strong {
+		border-top: 1px solid #fff;
+		border-bottom: none;
+	}
+
+	> :first-child {
+		border-top: none;
+	}
+
+	> section > header {
+		border-bottom: none;
+	}
+}
+
 .site-sectionnav section strong {
 	background-color:#fff;
 	padding: 8px 8px 8px 32px;
@@ -73,10 +92,6 @@ $offcanvas-width: 80%;
 	text-decoration: underline;
 }
 
-.site-sectionnav > a {
-	border-bottom: none;
-}
-
 .site-sectionnav section a {
 	padding: 8px 8px 8px 32px;
 	text-decoration: underline;
@@ -88,7 +103,6 @@ $offcanvas-width: 80%;
 
 .site-sectionnav section header {
 	padding: 8px;
-	border-top: 1px solid #fff;
 }
 
 .site-sitenav a {

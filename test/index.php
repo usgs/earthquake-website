@@ -28,89 +28,69 @@ if (!isset($TEMPLATE)) {
 </figure>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<h3>An H3 Header</h3>
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-content
-
-<a name="aheader"></a>
-
-<h4>An H4 Header</h4>
-
-<figure>
-	<img src="images/st-tropez.jpg" alt="St Tropez"/>
-	<figcaption>The caption is here.</figcaption>
-</figure>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<a name="another"></a>
-
-<h2>Another H2 Header</h2>
-
-<div class="row">
-	<div class="column one-of-two"><p>Lorem ipsum dolor sit amet, consectetur
-	adipisicing elit, sed do eiusmod
 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-	<table class="tabular">
-		<tr>
-			<td>first row, first column</td>
-			<td>first row, second column</td>
-		</tr>
-		<tr>
-			<td>second row, first column</td>
-			<td>second row, second column</td>
-		</tr>
-	</table>
+<h3>An H3 Header</h3>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<h4 id="aheader">An H4 Header</h4>
+
+<figure>
+	<img src="images/st-tropez.jpg" alt="St Tropez"/>
+	<figcaption>The caption is here.</figcaption>
+</figure>
+
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+
+<h2 id="another">Another H2 Header</h2>
+
+<div class="row">
+	<div class="column one-of-two">
+		<p>Lorem ipsum dolor sit amet, consectetur
+			adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+
+		<table class="tabular">
+			<tr>
+				<td>first row, first column</td>
+				<td>first row, second column</td>
+			</tr>
+			<tr>
+				<td>second row, first column</td>
+				<td>second row, second column</td>
+			</tr>
+		</table>
 
 	</div>
 
