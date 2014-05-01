@@ -1,7 +1,8 @@
 /* bibliography-style references */
 
-ul.referencelist li {
+.referencelist > li {
 	border: 1px solid #fff;
+	list-style:none;
 	padding: 0;
 	margin: 1em 0 0 0;
 	color: #555;
