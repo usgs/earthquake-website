@@ -16,7 +16,7 @@
   "devDependencies": {
     "chai": "~1.7.0",
     "connect-livereload": "~0.2.0",
-    "gateway": "~0.1.1",
+    "gateway": "~0.2.1",
     "grunt": "~0.4.1",
     "grunt-concurrent": "~0.3.0",
     "grunt-contrib-clean": "~0.4.1",
