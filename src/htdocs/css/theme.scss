@@ -48,7 +48,7 @@ $offcanvas-width: 80%;
 /* LISA'S STYLES */
 
 .page {
-	padding: 12px 0px 12px 16px;
+	padding: $vertical-spacing 0 $vertical-spacing $horizontal-spacing;
 }
 
 .page-content {
