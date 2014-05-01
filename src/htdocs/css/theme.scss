@@ -39,10 +39,10 @@ $offcanvas-width: 80%;
 
 /* ### include template css file */
 @import '../../../node_modules/hazdev-template/src/htdocs/css/_template.scss';
-@import '../../../node_modules/hazdev-template/src/htdocs/css/flexible-grid';
 
 
 /* ### include any content module css files */
+@import '../../../node_modules/hazdev-template/src/htdocs/css/flexible-grid';
 
 
 /* LISA'S STYLES */
@@ -150,19 +150,4 @@ $offcanvas-width: 80%;
 
 .site-commonnav {
 	margin-bottom: 16px;
-}
-
-/* Disclaimer text */
-
-.footer .disclaimer {
-	display:block;
-	width: 960px;
-	margin: 0 auto;
-	padding: 6px 0 6px 16px;
-	color:#000;
-}
-
-.disclaimer {
-	font-size: .85em;
-	color: #999;
 }
