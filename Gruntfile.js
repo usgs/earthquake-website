@@ -42,18 +42,21 @@ module.exports = function (grunt) {
 		bower: bowerConfig,
 		watch: {
 			scripts: {
-				files: ['<%= app.src %>/htdocs/js/**/*.js'],
+				files: ['<%= app.src %>/htdocs/**/js/**/*.js'],
 				tasks: ['concurrent:scripts'],
 				options: {
 					livereload: LIVE_RELOAD_PORT
 				}
 			},
 			scss: {
-				files: ['<%= app.src %>/htdocs/css/**/*.scss'],
+				files: ['<%= app.src %>/htdocs/**/css/**/*.scss'],
 				tasks: ['compass:dev']
 			},
 			tests: {
-				files: ['<%= app.test %>/*.html', '<%= app.test %>/**/*.js'],
+				files: [
+					'<%= app.test %>/*.html',
+					'<%= app.test %>/**/*.js'
+				],
 				tasks: ['concurrent:tests']
 			},
 			livereload: {
@@ -62,8 +65,8 @@ module.exports = function (grunt) {
 				},
 				files: [
 					'<%= app.src %>/htdocs/**/*.html',
-					'<%= app.src %>/htdocs/css/**/*.css',
-					'<%= app.src %>/htdocs/img/**/*.{png,jpg,jpeg,gif}',
+					'<%= app.src %>/htdocs/**/*.css',
+					'<%= app.src %>/htdocs/**/*.{png,jpg,jpeg,gif}',
 					'.tmp/css/**/*.css'
 				]
 			},
@@ -183,19 +186,6 @@ module.exports = function (grunt) {
 		requirejs: {
 			dist: {
 				options: {
-					name: 'index',
-					baseUrl: appConfig.src + '/htdocs/js',
-					out: appConfig.dist + '/htdocs/js/index.js',
-					optimize: 'uglify2',
-					mainConfigFile: appConfig.src + '/htdocs/js/index.js',
-					useStrict: true,
-					wrap: true,
-					uglify2: {
-						report: 'gzip',
-						mangle: true,
-						compress: true,
-						preserveComments: 'some'
-					}
 				}
 			}
 		},
@@ -231,9 +221,7 @@ module.exports = function (grunt) {
 			dist: {
 				files: {
 					'<%= app.dist %>/htdocs/lib/requirejs/require.js':
-							['<%= bower.directory %>/requirejs/require.js'],
-					'<%= app.dist %>/htdocs/lib/html5shiv/html5shiv.js':
-							['<%= bower.directory %>/html5shiv-dist/html5shiv.js']
+							['<%= bower.directory %>/requirejs/require.js']
 				}
 			}
 		},
@@ -284,10 +272,6 @@ module.exports = function (grunt) {
 					{
 						from: 'requirejs/require.js',
 						to: 'lib/requirejs/require.js'
-					},
-					{
-						from: 'html5shiv-dist/html5shiv.js',
-						to: 'lib/html5shiv/html5shiv.js'
 					}
 				]
 			},
