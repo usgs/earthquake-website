@@ -8,8 +8,6 @@ if (!isset($TEMPLATE)) {
 		<link rel="stylesheet" href="/css/references.css"/>
 		<link rel="stylesheet" href="/css/jumplist.css"/>
 	';
-	$FOOT = '<script src="/js/index.js"></script>';
-	
 
 	include('template.inc.php');
 }
