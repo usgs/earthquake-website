@@ -1,23 +1,10 @@
 /* ### set template variables */
 
-$body-margin: 4px;
-
 $banner-image: '/images/header.png';
 $site-title-background-color: #527092;
 
-$spacing: 16px;
-$vertical-spacing: 12px;
-
-// TODO :: Make colors offsets from some base color
-
 $sitenav-color: #FFF;
-$sitenav-background-color: #527092;
-$sitenav-color-hover: #000;
-$sitenav-background-color-hover: #A5BEDA;
-
-$sectionnav-background-color: #E5ECF5;
-$sectionnav-color-hover: $sitenav-color-hover;
-$sectionnav-background-color-hover: #B2CCE9;
+$sitenav-background-color: $site-title-background-color;
 
 
 /* ### include template css file */
