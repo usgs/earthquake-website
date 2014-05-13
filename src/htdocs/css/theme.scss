@@ -2,6 +2,7 @@
 
 $body-margin: 4px;
 
+$banner-image: '/images/header.png';
 $site-title-background-color: #527092;
 
 $spacing: 16px;
@@ -27,48 +28,10 @@ $sectionnav-background-color-hover: #B2CCE9;
 @import '../../../node_modules/hazdev-template/src/htdocs/css/flexible-grid.scss';
 
 
-/* ### include any content module css files */
-
-.site-sectionnav {
-	> a,
-	> section > a,
-	> section > header,
-	> strong,
-	> section > header > strong,
-	> section > strong {
-		padding:$vertical-spacing/2 $horizontal-spacing/2;
-	}
-
-	> section > a,
-	> section > strong {
-		padding-left:2*$horizontal-spacing;
-	}
-
-	> strong,
-	> .current-page,
-	> section > strong,
-	> section > .current-page {
-		background-color:#fff;
-	}
-}
+/* ### custom styles for this theme */
 
 .site-sitenav {
 	border-color:#81A4CB;
-
-	> a,
-	> strong {
-		padding:$vertical-spacing/2 $horizontal-spacing/2;
-	}
-
-	> strong,
-	> .current-page {
-		color:#000;
-		background-color:#fff;
-	}
-}
-
-.site-search {
-	padding: $horizontal-spacing/2;
 }
 
 .date {
