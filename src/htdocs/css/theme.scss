@@ -2,39 +2,21 @@
 
 $body-margin: 4px;
 
-$banner-image: '/images/header.png';
-$banner-background-color: #000;
-
-$site-title: 'Earthquake Hazards Program';
-$site-title-color: #FFF;
 $site-title-background-color: #527092;
 
 $spacing: 16px;
 $vertical-spacing: 12px;
 
-$breakpoint-full: 768px;
-$side-column-width: 20%;
+// TODO :: Make colors offsets from some base color
 
-$page-footer-color: #999;
-$page-footer-background-color: #FFF;
-$page-footer-border-color: #DDD;
+$sitenav-color: #FFF;
+$sitenav-background-color: #527092;
+$sitenav-color-hover: #000;
+$sitenav-background-color-hover: #A5BEDA;
 
-$search-background-color: #EEE;
-$search-border-color: #CCC;
-
-$sitenav-color: #132840;
-$sitenav-background-color: #C9D8E9;
-$sitenav-color-hover: #111;
-$sitenav-background-color-hover: darken($sitenav-background-color, 10%);
-$sitenav-border-color-hover: #111;
-
-$sectionnav-color: $sitenav-color;
-$sectionnav-background-color: lighten($sitenav-background-color, 10%);
+$sectionnav-background-color: #E5ECF5;
 $sectionnav-color-hover: $sitenav-color-hover;
-$sectionnav-background-color-hover: lighten($sitenav-background-color-hover, 10%);
-$sectionnav-border-color: #CCC;
-
-$offcanvas-width: 80%;
+$sectionnav-background-color-hover: #B2CCE9;
 
 
 /* ### include template css file */
@@ -42,113 +24,56 @@ $offcanvas-width: 80%;
 
 
 /* ### include any content module css files */
-@import '../../../node_modules/hazdev-template/src/htdocs/css/flexible-grid';
+@import '../../../node_modules/hazdev-template/src/htdocs/css/flexible-grid.scss';
 
 
-/* LISA'S STYLES */
-
-.page {
-	padding: $vertical-spacing 0 $vertical-spacing $horizontal-spacing;
-}
-
-.page-footer {
-	border: none;
-	padding-left: 0;
-	padding-right: 0;
-}
-
+/* ### include any content module css files */
 
 .site-sectionnav {
-	background-color: #E5ECF5;
-
 	> a,
+	> section > a,
+	> section > header,
 	> strong,
-	> section,
+	> section > header > strong,
+	> section > strong {
+		padding:$vertical-spacing/2 $horizontal-spacing/2;
+	}
+
 	> section > a,
 	> section > strong {
-		border-top: 1px solid #fff;
-		border-bottom: none;
+		padding-left:2*$horizontal-spacing;
 	}
 
-	> :first-child {
-		border-top: none;
-	}
-
-	> section > header {
-		border-bottom: none;
-	}
-
-	section strong {
+	> strong,
+	> .current-page,
+	> section > strong,
+	> section > .current-page {
 		background-color:#fff;
-		padding: 8px 8px 8px 32px;
-		text-decoration: none;
-	}
-
-	> strong {
-		background-color:#fff;
-		padding: 8px;
-		text-decoration: none;
-	}
-
-	a {
-		padding: 8px;
-		text-decoration: underline;
-	}
-
-	section a {
-		padding: 8px 8px 8px 32px;
-		text-decoration: underline;
-	}
-
-	section a:hover {
-		background-color: #b2cce9;
-	}
-
-	section header {
-		padding: 8px;
 	}
 }
 
 .site-sitenav {
+	border-color:#81A4CB;
 
-	a {
-		background-color: #527092;
-		color: #fff;
-		padding: 8px;
-
-		&:hover {
-		color: #000;
-		}
+	> a,
+	> strong {
+		padding:$vertical-spacing/2 $horizontal-spacing/2;
 	}
 
-	strong {
-		display: block;
-		text-decoration: none;
+	> strong,
+	> .current-page {
+		color:#000;
 		background-color:#fff;
-		padding: 8px;
 	}
 }
 
 .site-search {
-	padding: 8px;
+	padding: $horizontal-spacing/2;
 }
-
-
-.site-commonnav {
-	margin-bottom: 16px;
-}
-
-
-.offcanvas-enabled
-.offcanvas-toggle {
-	top: 5px;
-	right: 5px;
-}
-
 
 .date {
-	font-size:.9em;
-	color: #777;
-	font-family: Georgia, Times, serif;
-	font-style: normal;
+  font-size:.9em;
+  color: #777;
+  font-family: Georgia, Times, serif;
+  font-style: normal;
 }
