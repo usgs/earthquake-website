@@ -88,7 +88,6 @@ module.exports = function (grunt) {
 				'compass'
 			],
 			dist: [
-				'requirejs:dist',
 				'cssmin:dist',
 				'htmlmin:dist',
 				'uglify',
@@ -184,10 +183,6 @@ module.exports = function (grunt) {
 			}
 		},
 		requirejs: {
-			dist: {
-				options: {
-				}
-			}
 		},
 		cssmin: {
 			dist: {
@@ -238,7 +233,7 @@ module.exports = function (grunt) {
 			conf: {
 				expand: true,
 				cwd: '<%= app.src %>/conf',
-				dest: '<%= app.dist/conf',
+				dest: '<%= app.dist %>/conf',
 				src: [
 					'**/*',
 					'!**/*.orig'
