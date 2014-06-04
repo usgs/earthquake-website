@@ -130,7 +130,10 @@ module.exports = function (grunt) {
 					middleware: function (connect, options) {
 						return [
 							mountPHP(options.base),
-							mountFolder(connect, options.base)
+							mountFolder(connect, options.base),
+							rewriteRulesSnippet,
+							mountFolder(connect, 'node_modules'),
+							mountFolder(connect, 'bower_components')
 						];
 					}
 				}
@@ -187,7 +190,7 @@ module.exports = function (grunt) {
 		cssmin: {
 			dist: {
 				files: {
-					'<%= app.dist %>/htdocs/css/index.css': [
+					'<%= app.dist %>/htdocs/css/theme.css': [
 						'<%= app.src %>/htdocs/css/**/*.css',
 						'.tmp/css/**/*.css'
 					]
@@ -226,7 +229,7 @@ module.exports = function (grunt) {
 				cwd: '<%= app.src %>/htdocs',
 				dest: '<%= app.dist %>/htdocs',
 				src: [
-					'img/**/*.{png,gif,jpg,jpeg}',
+					'**/*.{png,gif,jpg,jpeg}',
 					'**/*.php'
 				]
 			},
@@ -324,6 +327,7 @@ module.exports = function (grunt) {
 		'concurrent:predist',
 		'concurrent:dist',
 		'replace',
+		'configureRewriteRules',
 		'open:dist',
 		'connect:dist'
 	]);
