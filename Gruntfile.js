@@ -89,6 +89,7 @@ module.exports = function (grunt) {
 			],
 			dist: [
 				'cssmin:dist',
+				'cssmin:scss',
 				'htmlmin:dist',
 				'uglify',
 				'copy'
@@ -189,12 +190,16 @@ module.exports = function (grunt) {
 		},
 		cssmin: {
 			dist: {
-				files: {
-					'<%= app.dist %>/htdocs/css/theme.css': [
-						'<%= app.src %>/htdocs/css/**/*.css',
-						'.tmp/css/**/*.css'
-					]
-				}
+				expand: true,
+				cwd: '<%= app.src %>/htdocs',
+				dest: '<%= app.dist %>/htdocs',
+				src: ['**/*.css']
+			},
+			scss: {
+				expand: true,
+				cwd: '<%= app.tmp %>',
+				dest: '<%= app.dist %>/htdocs',
+				src: ['**/*.css']
 			}
 		},
 		htmlmin: {
