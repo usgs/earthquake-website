@@ -14,6 +14,10 @@ $sitenav-background-color: $site-title-background-color;
 /* ### include any content module css files */
 @import '../../../node_modules/hazdev-template/src/htdocs/css/flexible-grid.scss';
 
+@import 'figcaption.scss';
+@import 'jumplist.scss';
+@import 'references.scss';
+
 
 /* ### custom styles for this theme */
 
