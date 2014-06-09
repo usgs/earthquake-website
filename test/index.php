@@ -3,7 +3,6 @@
 if (!isset($TEMPLATE)) {
 	$TITLE = 'Test Webpage';
 	$NAVIGATION = true;
-	$HEAD = '';
 
 	include('template.inc.php');
 }
