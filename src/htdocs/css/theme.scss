@@ -1,7 +1,8 @@
 /* ### set template variables */
 
-$banner-image: '/images/header.png';
-$site-title-background-color: #527092;
+$banner-image:'/images/header.png';
+$site-title-background-color:#527092;
+$site-title:'Earthquake Hazards Program';
 
 $sitenav-color: #FFF;
 $sitenav-background-color: $site-title-background-color;
@@ -25,8 +26,8 @@ $sitenav-background-color: $site-title-background-color;
 }
 
 .date {
-  font-size:.9em;
-  color: #777;
-  font-family: Georgia, Times, serif;
-  font-style: normal;
+	font-size:.9em;
+	color:#777;
+	font-family:Georgia, Times, serif;
+	font-style:normal;
 }
