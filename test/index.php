@@ -4,7 +4,6 @@ if (!isset($TEMPLATE)) {
 	$TITLE = 'Test Webpage';
 	$NAVIGATION = true;
 	$HEAD = '
-		<link rel="stylesheet" href="/css/figcaption.css"/>
 		<link rel="stylesheet" href="/css/references.css"/>
 		<link rel="stylesheet" href="/css/jumplist.css"/>
 	';
