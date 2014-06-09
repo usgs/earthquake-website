@@ -3,9 +3,7 @@
 if (!isset($TEMPLATE)) {
 	$TITLE = 'Test Webpage';
 	$NAVIGATION = true;
-	$HEAD = '
-		<link rel="stylesheet" href="/css/references.css"/>
-	';
+	$HEAD = '';
 
 	include('template.inc.php');
 }
