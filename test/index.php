@@ -5,7 +5,6 @@ if (!isset($TEMPLATE)) {
 	$NAVIGATION = true;
 	$HEAD = '
 		<link rel="stylesheet" href="/css/references.css"/>
-		<link rel="stylesheet" href="/css/jumplist.css"/>
 	';
 
 	include('template.inc.php');
