@@ -29,7 +29,8 @@ module.exports = function (grunt) {
 		src: 'src',
 		dist: 'dist',
 		test: 'test',
-		tmp: '.tmp'
+		tmp: '.tmp',
+		hazdev: 'node_modules/hazdev-template'
 	};
 
 	// TODO :: Read this from .bowerrc
@@ -49,7 +50,7 @@ module.exports = function (grunt) {
 				}
 			},
 			scss: {
-				files: ['<%= app.src %>/htdocs/**/css/**/*.scss'],
+				files: ['<%= app.src %>/htdocs/**/css/**/*.scss', '<%= app.hazdev %>/**/css/**/*.scss'],
 				tasks: ['compass:dev']
 			},
 			tests: {

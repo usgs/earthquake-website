@@ -7,4 +7,4 @@ if (!isset($TEMPLATE)) {
 
 ?>
 
-I am the home page.
+I am a home page.
