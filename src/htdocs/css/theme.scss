@@ -1,11 +1,24 @@
+/* compass mixin for transitions */
+@import "compass/css3/transition";
+
 /* ### set template variables */
 
 $banner-image:'/images/header.png';
 $site-title-background-color:#3d5e80;
 $site-title:'Earthquake Hazards Program';
 
-.page a {
+a {
 	color: #306ac2;
+	@include transition(color .5s ease);
+}
+a:hover {
+	color: #c23030;
+}
+a:active {
+	color: #c23030;
+}
+a:visited {
+	color: #b330c2;
 }
 
 /* ### include template css file */
@@ -21,10 +34,6 @@ $site-title:'Earthquake Hazards Program';
 
 
 /* ### custom styles for this theme */
-
-.site-sitenav {
-	/*border-color:#81A4CB*/;
-}
 
 .date {
 	font-size:.9em;
