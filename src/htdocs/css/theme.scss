@@ -1,24 +1,26 @@
-/* compass mixin for transitions */
+// compass mixin for transitions
 @import "compass/css3/transition";
 
-/* ### set template variables */
+// ### set template variables
 
 $banner-image:'/images/header.png';
 $site-title-background-color:#3d5e80;
 $site-title:'Earthquake Hazards Program';
+$link-color: #306ac2;
 
-a {
-	color: #306ac2;
-	@include transition(color .5s ease);
-}
-a:hover {
-	color: #c23030;
-}
-a:active {
-	color: #c23030;
-}
-a:visited {
-	color: #b330c2;
+.page a {
+	color: $link-color;
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: underline;
+	}
+	&:active {
+		color: #c23030;
+	}
+	&:visited {
+		color: $link-color;
+	}
 }
 
 /* ### include template css file */
