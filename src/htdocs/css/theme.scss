@@ -1,12 +1,8 @@
 /* ### set template variables */
 
 $banner-image:'/images/header.png';
-$site-title-background-color:#527092;
+$site-title-background-color:#3d5e80;
 $site-title:'Earthquake Hazards Program';
-
-$sitenav-color: #FFF;
-$sitenav-background-color: $site-title-background-color;
-
 
 /* ### include template css file */
 @import '../../../node_modules/hazdev-template/src/htdocs/css/_template.scss';
@@ -21,10 +17,6 @@ $sitenav-background-color: $site-title-background-color;
 
 
 /* ### custom styles for this theme */
-
-.site-sitenav {
-	border-color:#81A4CB;
-}
 
 .date {
 	font-size:.9em;
