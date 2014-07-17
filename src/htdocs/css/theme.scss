@@ -3,22 +3,6 @@
 $banner-image:'/images/header.png';
 $site-title-background-color:#3d5e80;
 $site-title:'Earthquake Hazards Program';
-$link-color: #306ac2;
-
-a {
-	color: $link-color;
-	text-decoration: none;
-
-	&:hover {
-		text-decoration: underline;
-	}
-	&:active {
-		color: #c23030;
-	}
-	&:visited {
-		color: $link-color;
-	}
-}
 
 /* ### include template css file */
 @import '../../../node_modules/hazdev-template/src/htdocs/css/_template.scss';
