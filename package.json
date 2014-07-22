@@ -1,6 +1,6 @@
 {
   "name": "earthquake-website",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "earthquake hazards program website",
   "repository": {
     "type": "git",
@@ -35,7 +35,7 @@
     "matchdep": "~0.1.2",
     "mocha": "~1.9.0",
     "sinon": "~1.7.3",
-    "hazdev-template": "0.0.14",
+    "hazdev-template": "0.0.16",
     "grunt-connect-rewrite": "~0.2.1"
   },
   "engines": {
