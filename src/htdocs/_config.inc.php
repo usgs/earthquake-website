@@ -21,7 +21,7 @@ $SITE_COMMONNAV =
 
 $HEAD =
 // site theme, should use a site root-relative URL
-	'<link rel="stylesheet" href="/css/theme.css"/>' .
+	'<link rel="stylesheet" href="/theme/index.css"/>' .
 // page head content
 	($HEAD ? $HEAD : '') .
 // description meta
