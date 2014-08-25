@@ -102,7 +102,7 @@ module.exports = function (grunt) {
 			rules: [
 				{
 					from: '^/theme/(.*)$',
-					to: '/hazdev-template/src/htdocs/$1'
+					to: '/hazdev-template/dist/htdocs/$1'
 				}
 			],
 			dev: {
