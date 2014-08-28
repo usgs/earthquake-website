@@ -193,13 +193,13 @@ module.exports = function (grunt) {
 				expand: true,
 				cwd: '<%= app.src %>/htdocs',
 				dest: '<%= app.dist %>/htdocs',
-				src: ['**/*.css']
+				src: ['*.css', '**/*.css']
 			},
 			scss: {
 				expand: true,
 				cwd: '<%= app.tmp %>',
 				dest: '<%= app.dist %>/htdocs',
-				src: ['**/*.css']
+				src: ['*.css', '**/*.css']
 			}
 		},
 		htmlmin: {
