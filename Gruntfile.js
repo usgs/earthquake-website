@@ -223,8 +223,8 @@ module.exports = function (grunt) {
 			},
 			dist: {
 				files: {
-					'<%= app.dist %>/htdocs/lib/requirejs/require.js':
-							['<%= bower.directory %>/requirejs/require.js']
+					//'<%= app.dist %>/htdocs/lib/requirejs/require.js':
+					//		['<%= bower.directory %>/requirejs/require.js']
 				}
 			}
 		},
