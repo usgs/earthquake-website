@@ -13,7 +13,7 @@ var mountPHP = function (dir, options) {
 	options = options || {
 		'.php' : 'php-cgi',
 		'env' : {
-			'PHPRC': process.cwd() + '/node_modules/hazdev-template/src/conf/php.ini'
+			'PHPRC': process.cwd() + '/node_modules/hazdev-template/dist/conf/php.ini'
 		}
 	};
 	return gateway(require('path').resolve(dir), options);
