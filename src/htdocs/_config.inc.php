@@ -6,7 +6,7 @@ $SITE_URL = 'http://earthquake.usgs.gov';
 // navigation above search, below section navigation
 $SITE_SITENAV =
 	navItem('/earthquakes/', 'Earthquakes') .
-	navItem('/index.php', 'Hazards') .
+	navItem('/hazards/', 'Hazards') .
 	navItem('/data/', 'Data &amp; Products') .
 	navItem('/learn/', 'Learn') .
 	navItem('/monitoring/', 'Monitoring') .
