@@ -4,12 +4,9 @@
   padding:16px;
   margin-top:16px;
 }
-.policy h2 {
-  margin-top:0;
-  margin-bottom:16px;
-}
 .policy ol {
   margin:0;
+  padding:0;
 }
 .policy li {
   margin-bottom:8px;
@@ -42,7 +39,10 @@
   margin-top:16px;
 }
 
-.legend {
+.legend,
+.production ul,
+.preview ul,
+.deprecated ul {
   padding-left:0;
 }
 
@@ -79,18 +79,22 @@
   text-decoration:line-through;
 }
 
-.version {
-  margin-left:1.5em;
-}
 .version dt {
   color:#444;
   font-weight:bold;
-  float:left;
-  clear:left;
-  width:144px;
-  margin-right:16px;
   margin-bottom:4px;
 }
 .version dd {
-  margin-bottom:4px;
+  margin-left:1em;
+}
+@media screen and (min-width:764px) {
+  .version dt {
+    float:left;
+    clear:left;
+    width:144px;
+    margin-right:16px;
+  }
+  .version dd {
+    margin-bottom:4px;
+  }
 }
