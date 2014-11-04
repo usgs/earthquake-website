@@ -1,0 +1,24 @@
+{
+  "current": "v1.0",
+  "deprecated": [
+    "v0.1"
+  ],
+  "preview": [
+  ],
+  "settings": {
+    "v0.1": {
+      "version": "v0.1.4",
+      "preview_date": "2013-03-19",
+      "current_date": "2013-03-19",
+      "deprecated_date": "2013-05-22",
+      "eol_date": "2013-11-20"
+    },
+    "v1.0": {
+      "version": "v1.0.13",
+      "preview_date": "2013-05-07",
+      "current_date": "2013-05-22",
+      "deprecated_date": "",
+      "eol_date": ""
+    }
+  }
+}
