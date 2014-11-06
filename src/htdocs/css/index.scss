@@ -1,0 +1,52 @@
+@import '../../node_modules/hazdev-template/src/htdocs/site/earthquake/_variables.scss';
+@import 'css/features.scss';
+@import 'css/quicklinks.scss';
+
+.homepage:after {
+	content: '';
+}
+
+.mobile {
+	width: 14px;
+	height: 26px;
+	margin: 0 5px 2px 0;
+	float: left;
+	display: block;
+}
+.icon-mobile-friendly {
+	background-image: url('/images/mobile-friendly_sm.gif');
+}
+
+.icon-earthquakes {
+	background-image:url('/images/earthquakes_button_square.gif');
+}
+.icon-hazards {
+	background-image:url('/images/hazards_button_square.gif');
+}
+.icon-learn {
+	background-image:url('/images/learn_button_square.gif');
+}
+.icon-prepare {
+	background-image:url('/images/prepare_button_square.png');
+}
+.icon-monitoring {
+	background-image:url('/images/monitoring_button_square.gif');
+}
+.icon-research {
+	background-image:url('/images/research_button_square.jpg');
+}
+
+.nehrp {
+	background-color: #EEE;
+	padding: 2px 2px 2px 5px;
+	margin: auto;
+
+	> img {
+		float: left;
+		padding: 15px 15px 5px 10px;
+	}
+
+	> p {
+		font-size: .75em;
+	}
+}
