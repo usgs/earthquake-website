@@ -1,90 +1,112 @@
 <?php
-
 if (!isset($TEMPLATE)) {
 	$TITLE = 'Home Page';
 	$HEAD = '<link rel="stylesheet" href="index.css"/>';
+	include 'classes/ImageList.class.php';
 	include 'template.inc.php';
 }
-
 ?>
 
-<div class="page-content">
+<div class="row">
+	<div class="one-of-two column">
+		<a href="earthquake/map/" class="earthquake-image">
+				<img src="images/mapinterface.gif"></a>
+		<span class="mobile-text">
+			<img src="images/mobile-friendly_sm.gif"/>
+			View recent events or search for past earthquakes,
+	  	optimized for mobile and desktop.
+	  <a href="/earthquakes/map/doc_whicheqs.php">
+	    Which earthquakes are included on the map?
+	    </a></span>
+	</div>
+
+	<div class="one-of-two column">
 <?php
+		$list = new ImageList();
 
-include_once '_features.inc.php';
-echo $EQ_FEATURES->toHtml(3);
+		$list->addItem(
+			'http://www.shakeout.org', //link
+			'images/the-great-shakeout-oct-16-2014.gif', //image
+			'The Great ShakeOut - Oct 16, 2014', //title
+			'This year\'s edition of The Great ShakeOut is scheduled for
+			 October 16, 2014, at 10:16 AM local time. Participants across
+			 the nation and around the world are encouraged to practice the safety
+			 actions of &ldquo;drop, cover, and hold on&rdquo;, and to explore other
+			 earthquake preparedness steps.'); //content
 
+		$list->addItem(
+			'http://www.usgs.gov/newsroom/article.asp?ID=4028', //link
+			'images/seismometers-to-measure-dc-shaking.jpg', //image
+			'Seismometers to Measure DC Shaking', //title
+			'Thirty seismometers are being installed in the Nation\'s capital this
+			 winter to monitor ground tremors to better estimate the intensity of
+			 ground shaking that can be expected during future earthquakes in the
+			 area.'); //content
+
+		$list->display();
 ?>
+	</div>
 
-	<section class="row">
-		<ul class="quicklinks row">
-			<li class="column one-of-two">
-				<a title="Earthquakes" href="/earthquakes/">
-					<span class="icon icon-earthquakes"></span>
-					<h3>Earthquakes</h3>
-					<p>
-						Information about real-time earthquakes, online catalog search of
-						archives, seismicity maps and statistics.
-					</p>
-				</a>
-			</li>
+</div>
+	<hr/>
+	<div class="row">
 
-			<li class="column one-of-two">
-				<a title="Hazards" href="/hazards/">
-					<span class="icon icon-hazards"></span>
-					<h3>Hazards</h3>
-					<p>
-						US faults, information about seismic hazards in various areas,
-						tools for seismic design values.
-					</p>
-				</a>
-			</li>
+		<div class="one-of-two column">
+<?php
+			$list = new ImageList();
 
-			<li class="column one-of-two">
-				<a title="Learn" href="/learn/">
-					<span class="icon icon-learn"></span>
-					<h3>Learn</h3>
-					<p>
-						The science of earthquakes, FAQ, glossary, links to earthquake
-						topics, Earthquakes for kids.
-					</p>
-				</a>
-			</li>
+			$list->addItem(
+				'/earthquakes/', //link
+				'/images/earthquakes_button_square.gif', //image
+				'Earthquakes', //title
+				'Information about real-time earthquakes, online catalog search of
+				 archives, seismicity maps and statistics.'); //content
 
-			<li class="column one-of-two">
-				<a title="Prepare" href="/prepare/">
-					<span class="icon icon-prepare"></span>
-					<h3>Prepare</h3>
-					<p>
-						What should you do to be prepared for an earthquake?
-					</p>
-				</a>
-			</li>
+			$list->addItem(
+				'/hazards/', //link
+				'/images/hazards_button_square.gif', //image
+				'hazards', //title
+				'US faults, information about seismic hazards in various areas,
+				 tools for seismic design values.'); //content
 
-			<li class="column one-of-two">
-				<a title="Monitoring" href="/monitoring/">
-					<span class="icon icon-monitoring"></span>
-					<h3>Monitoring</h3>
-					<p>
-						Global, national and regional networks recording earthquakes and
-						crustal movements, maps, station information, real-time seismic
-						waveforms.
-					</p>
-				</a>
-			</li>
+			$list->addItem(
+				'/learn/', //link
+				'/images/learn_button_square.gif', //image
+				'Learn', //title
+				'The science of earthquakes, FAQ, glossary, links to earthquake
+				 topics, Earthquakes for kids.'); //content
 
-			<li class="column one-of-two">
-				<a title="Research" href="/research/">
-					<span class="icon icon-research"></span>
-					<h3>Research</h3>
-					<p>
-						Research projects in the Earthquake Hazards Program, external
-						research support, science center activities, software.
-					</p>
-				</a>
-			</li>
-		</ul>
-	</section>
+			$list->display();
+?>
+		</div>
+		<div class="one-of-two column">
+<?php
+			$list = new ImageList();
+
+			$list->addItem(
+				'/prepare/', //link
+				'/images/prepare_button_square.png', //image
+				'Prepare', //title
+				'What should you do to be prepared for an earthquake?'); //content
+
+			$list->addItem(
+				'/monitoring/', //link
+				'/images/monitoring_button_square.gif', //image
+				'Monitoring', //title
+				'Global, national and regional networks recording earthquakes and
+				 crustal movements, maps, station information, real-time seismic
+				 waveforms.'); //content
+
+			$list->addItem(
+				'/research/', //link
+				'/images/research_button_square.jpg', //image
+				'Research', //title
+				'Research projects in the Earthquake Hazards Program, external
+				 research support, science center activities, software.'); //content
+
+			$list->display();
+?>
+		</div>
 
 	<section class="row nehrp">
 		<img src="/images/nehrp.png" alt="NEHRP logo" />
