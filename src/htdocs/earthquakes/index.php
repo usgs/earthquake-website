@@ -27,8 +27,6 @@ if (!isset($TEMPLATE)) {
   include 'template.inc.php';
 }
 
-// $SCRIPTS = 'js/home.js';
-// $SCRIPTS .=',js/require.js';
 ?>
 
 <div class = "row">
@@ -159,6 +157,4 @@ $list->display();
 
   </div>
 </div>
-
-<!-- SCRIPT FOR SIGNIFICANT EQ LIST -->
 

@@ -1,14 +1,8 @@
-// home page css
-
 @import '../../node_modules/hazdev-template/src/htdocs/css/imagelist.scss';
 
 .left {
   float: left;
   margin: 4px 16px 1em 0;
-}
-
-.homepage:after {
-	content: '';
 }
 
 .height_scroll {
