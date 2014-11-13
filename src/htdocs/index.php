@@ -83,7 +83,7 @@ if (!isset($TEMPLATE)) {
       $list = new ImageList();
 
       $list->addItem(
-        '/prepare/', //link
+        '/data/', //link
         '/images/prepare_button_square.png', //image
         'Data & Products', //title
         'Monitoring, station, and other various seismic data available for
