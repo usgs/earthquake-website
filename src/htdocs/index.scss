@@ -1,5 +1,33 @@
-// home page css
+@import '../../node_modules/hazdev-template/src/htdocs/site/earthquake/_variables.scss';
+@import '../../node_modules/hazdev-template/src/htdocs/css/imagelist.scss';
+@import 'css/features.scss';
 
-.homepage:after {
-	content: '';
+.mobile {
+  width: 14px;
+  height: 26px;
+  margin: 0 5px 2px 0;
+  float: left;
+  display: block;
+}
+.icon-mobile-friendly {
+  background-image: url('/images/mobile-friendly_sm.gif');
+}
+
+hr {
+  margin: 1em 0;
+}
+
+.nehrp {
+  background-color: #EEE;
+  margin: auto;
+  padding: 2px 2px 2px 5px;
+
+  > img {
+    float: left;
+    padding: 15px 15px 5px 10px;
+  }
+
+  > p {
+    font-size: .75em;
+  }
 }

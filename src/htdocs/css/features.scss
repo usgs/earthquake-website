@@ -1,0 +1,49 @@
+@import '../../node_modules/hazdev-template/src/htdocs/css/imagelist.scss';
+
+.feature {
+  position: relative;
+}
+
+.feature h3 {
+  position: absolute;
+  top: 20px;
+  left: 5%;
+  margin: 0;
+  text-align: center;
+  width: 90%;
+  z-index: 2;
+  color: #eee;
+  line-height: 1.3;
+  font-size: 22px;
+  text-shadow: -1px 1px 0px #000,
+    -3px 3px 10px #666;
+}
+
+.earthquake-image {
+  > img {
+    display: block;
+    max-width: 560px;
+    width: 100%;
+  }
+}
+
+.image {
+  position: relative;
+  z-index: 1;
+
+  > img {
+    width: 100%;
+  }
+
+  &:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    content: '';
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
+    display: block;
+    width: 100%;
+    height: 70%;
+  }
+}
