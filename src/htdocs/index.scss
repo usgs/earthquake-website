@@ -5,12 +5,12 @@
   content: '';
 }
 
-hr {
-  margin: 1em 0;
-}
-
 .page-header {
   display: none;
+}
+
+hr {
+  margin: 1em 0;
 }
 
 .column {
@@ -19,8 +19,8 @@ hr {
 }
 
 .mobile-text {
-  margin: 16px 0;
   display: block;
+  margin: 16px 0;
 
   > img {
     height: 21px;
@@ -30,16 +30,16 @@ hr {
 
 .earthquake-image {
   > img {
-    width: 100%;
-    max-width: 560px;
     display: block;
+    max-width: 560px;
+    width: 100%;
   }
 }
 
 .nehrp {
   background-color: #EEE;
-  padding: 2px 2px 2px 5px;
   margin: auto;
+  padding: 2px 2px 2px 5px;
 
   > img {
     float: left;
