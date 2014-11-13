@@ -1,6 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Home Page';
+  $TITLE = 'Featured Items';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
   include 'classes/ImageList.class.php';
   include 'template.inc.php';
