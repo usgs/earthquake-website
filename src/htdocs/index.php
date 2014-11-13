@@ -84,7 +84,7 @@ if (!isset($TEMPLATE)) {
 
       $list->addItem(
         '/data/', //link
-        '/images/prepare_button_square.png', //image
+        '/images/data_products.gif', //image
         'Data & Products', //title
         'Monitoring, station, and other various seismic data available for
             download. Data products to view and download.'); //content
