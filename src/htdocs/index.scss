@@ -9,13 +9,12 @@
   display: none;
 }
 
-hr {
-  margin: 1em 0;
-}
-
-.column {
-  margin-bottom: 10px;
-  margin-top: 10px;
+.earthquake-image {
+  > img {
+    display: block;
+    max-width: 560px;
+    width: 100%;
+  }
 }
 
 .mobile-text {
@@ -28,12 +27,13 @@ hr {
   }
 }
 
-.earthquake-image {
-  > img {
-    display: block;
-    max-width: 560px;
-    width: 100%;
-  }
+hr {
+  margin: 1em 0;
+}
+
+.column {
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 .nehrp {
