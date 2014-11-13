@@ -1,39 +1,20 @@
 @import '../../node_modules/hazdev-template/src/htdocs/site/earthquake/_variables.scss';
 @import '../../node_modules/hazdev-template/src/htdocs/css/imagelist.scss';
+@import 'css/features.scss';
 
-.homepage:after {
-  content: '';
-}
-
-.page-header {
-  display: none;
-}
-
-.earthquake-image {
-  > img {
-    display: block;
-    max-width: 560px;
-    width: 100%;
-  }
-}
-
-.mobile-text {
+.mobile {
+  width: 14px;
+  height: 26px;
+  margin: 0 5px 2px 0;
+  float: left;
   display: block;
-  margin: 16px 0;
-
-  > img {
-    height: 21px;
-    vertical-align: middle;
-  }
+}
+.icon-mobile-friendly {
+  background-image: url('/images/mobile-friendly_sm.gif');
 }
 
 hr {
   margin: 1em 0;
-}
-
-.column {
-  margin-bottom: 10px;
-  margin-top: 10px;
 }
 
 .nehrp {
