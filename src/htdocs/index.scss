@@ -24,15 +24,19 @@
 }
 
 .sections {
-
   > ul {
     list-style: none;
     margin-top: 0;
+    padding: 0;
 
     > li {
+      &:nth-child(2n+1) {
+        clear:left;
+      }
       > div {
         > p {
           margin-top: 0;
+          margin-bottom: 0;
         }
       }
     }
