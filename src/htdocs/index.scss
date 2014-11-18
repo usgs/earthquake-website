@@ -6,10 +6,16 @@
   > h2 {
     margin-left: $horizontal-spacing;
   }
+
   > div > p {
     margin-top: 0;
   }
 }
+
+.main-featured-image {
+  width: 100%;
+}
+
 
 .sub-features {
   list-style:none;

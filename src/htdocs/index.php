@@ -8,46 +8,12 @@ if (!isset($TEMPLATE)) {
 
 ?>
 
-<div class="main-featured row two-up">
-  <h2 class>Latest Earthquakes</h2>
-  <div class="column">
-    <img src="/images/mapinterface.gif" alt="Map Interface Icon"/>
-  </div>
-  <div class="column">
-    <p>
-      View recent events or search for past earthquakes.
-      Optimized for mobile and desktop.
-    </p>
-    <a  href="http://earthquake.usgs.gov/earthquakes/map/"><button class="cta">Latest Earthquakes</button></a>
-  </div>
-</div>
+<?php
+  include_once '_features.inc.php';
+  echo $EQ_FEATURES->toHtml();
+?>
 
-<ul class="sub-features">
-  <li>
-    <h2><a href="http://www.seismo.unr.edu/">Ongoing Earthquake Swarm in Northwestern Nevada</a></h2>
-    <p>
-      A swarm of earthquakes in a sparsely populated area of far northwest
-      Nevada that began on July 12, 2014, has increased in intensity over the
-      past several days. This activity is located about 40 miles southeast of
-      Lakeview, OR, and 40 miles northeast of Cedarville, CA.
-    </p>
-    <p>
-      <a href="http://www.seismo.unr.edu/">Nevada Seismological Laboratory News
-      Release</a> - click on link under Seismology Announcements
-    </p>
-    <p>
-      <a href="http://earthquake.usgs.gov/earthquakes/map/#%7B%22feed%22%3A%227day_all%22%2C%22search%22%3Anull%2C%22sort%22%3A%22newest%22%2C%22basemap%22%3A%22terrain%22%2C%22autoUpdate%22%3Atrue%2C%22restrictListToMap%22%3Atrue%2C%22timeZone%22%3A%22utc%22%2C%22mapposition%22%3A%5B%5B41.64777522274766%2C-119.93980407714844%5D%2C%5B42.030424218536325%2C-119.29367065429688%5D%5D%2C%22overlays%22%3A%7B%22plates%22%3Atrue%2C%22faults%22%3Atrue%7D%2C%22viewModes%22%3A%7B%22map%22%3Atrue%2C%22list%22%3Atrue%2C%22settings%22%3Afalse%2C%22help%22%3Afalse%7D%7D">Earthquakes in Last 7 Days in Swarm Area</a>
-    </p>
-  </li>
-  <li>
-    <h2><a href="http://www.usgs.gov/newsroom/article.asp?ID=4028#.VGtzJ_nF8U0">Seismometers to Measure DC Shaking</a></h2>
-    <p>
-      Thirty seismometers are being installed in the Nation’s capital this
-      winter to monitor ground tremors to better estimate the intensity of
-      ground shaking that can be expected during future earthquakes in the area.
-    </p>
-  </li>
-</ul>
+<hr/>
 
 <section class="two-up sections row">
   <ul class="column">
