@@ -1,0 +1,11 @@
+@import '../../node_modules/hazdev-template/src/htdocs/css/imagelist.scss';
+
+.left {
+  float: left;
+  margin: 4px 16px 1em 0;
+}
+
+.height_scroll {
+  max-height:400px;
+  overflow-y:auto;
+}
