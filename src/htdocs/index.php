@@ -8,93 +8,135 @@ if (!isset($TEMPLATE)) {
 
 ?>
 
-<div class="page-content">
-<?php
-
-include_once '_features.inc.php';
-echo $EQ_FEATURES->toHtml(3);
-
-?>
-
-	<section class="row">
-		<ul class="quicklinks row">
-			<li class="column one-of-two">
-				<a title="Earthquakes" href="/earthquakes/">
-					<span class="icon icon-earthquakes"></span>
-					<h3>Earthquakes</h3>
-					<p>
-						Information about real-time earthquakes, online catalog search of
-						archives, seismicity maps and statistics.
-					</p>
-				</a>
-			</li>
-
-			<li class="column one-of-two">
-				<a title="Hazards" href="/hazards/">
-					<span class="icon icon-hazards"></span>
-					<h3>Hazards</h3>
-					<p>
-						US faults, information about seismic hazards in various areas,
-						tools for seismic design values.
-					</p>
-				</a>
-			</li>
-
-			<li class="column one-of-two">
-				<a title="Learn" href="/learn/">
-					<span class="icon icon-learn"></span>
-					<h3>Learn</h3>
-					<p>
-						The science of earthquakes, FAQ, glossary, links to earthquake
-						topics, Earthquakes for kids.
-					</p>
-				</a>
-			</li>
-
-			<li class="column one-of-two">
-				<a title="Prepare" href="/prepare/">
-					<span class="icon icon-prepare"></span>
-					<h3>Prepare</h3>
-					<p>
-						What should you do to be prepared for an earthquake?
-					</p>
-				</a>
-			</li>
-
-			<li class="column one-of-two">
-				<a title="Monitoring" href="/monitoring/">
-					<span class="icon icon-monitoring"></span>
-					<h3>Monitoring</h3>
-					<p>
-						Global, national and regional networks recording earthquakes and
-						crustal movements, maps, station information, real-time seismic
-						waveforms.
-					</p>
-				</a>
-			</li>
-
-			<li class="column one-of-two">
-				<a title="Research" href="/research/">
-					<span class="icon icon-research"></span>
-					<h3>Research</h3>
-					<p>
-						Research projects in the Earthquake Hazards Program, external
-						research support, science center activities, software.
-					</p>
-				</a>
-			</li>
-		</ul>
-	</section>
-
-	<section class="row nehrp">
-		<img src="/images/nehrp.png" alt="NEHRP logo" />
-		<p>
-			The USGS Earthquake Hazards Program is part of the
-			<a href="http://www.nehrp.gov/" target="_blank">National Earthquake
-			Hazards Reduction Program</a> (NEHRP), established by Congress in 1977.
-			We monitor and report earthquakes, assess earthquake impacts and hazards,
-			and research the causes and effects of earthquake.
-		</p>
-	</section>
-
+<div class="main-featured row two-up">
+  <h2 class>Featured Item #1 Title</h2>
+  <div class="column">
+    <img src="http://placehold.it/512x512" alt="Placeholder"/>
+  </div>
+  <div class="column">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi faucibus,
+      sapien ut consectetur dictum, nisl eros scelerisque est, at consectetur
+      odio ipsum nec ante. Integer porta nisi quis pharetra consequat. Nunce
+      lementum risus a facilisis dignissim. Sed euismod ante at nunc sodales
+      sollicitudin. Nunc sodales faucibus nibh, vitae porttitor nibh faucibus
+      nec. Donec auctor imperdiet dui non malesuada. Nulla id dignissim erat.
+    </p>
+    <p>
+      Nullam aliquet massa ut eros iaculis, ac rhoncus velit iaculis.
+      Pellentesque massa nibh, pulvinar sed leo nec, hendrerit vehicula lorem.
+      Suspendisse potenti. Ut porta diam nec facilisis eleifend. Suspendisse eu
+      sem a metus facilisis pulvinar et aliquam ipsum. Nunc bibendum diam ac
+      lectus fermentum, vel eleifend elit congue. Curabitur lacinia sem diam.
+      Ut lacus felis, consectetur vel arcu eget, finibus malesuada nisi. Mauris
+      mattis luctus mi, et vulputate augue condimentum eget. Pellentesque
+      habitant morbi tristique senectus et netus et malesuada fames ac turpis
+      egestas.
+    </p>
+    <button class="cta">Call to Action</button>
+  </div>
 </div>
+
+<ul class="sub-features">
+  <li>
+    <h2><a href="#f2">Sub Featured Item #2</a></h2>
+    <p>
+      Etiam hendrerit facilisis dolor, et molestie nibh commodo consectetur.
+      Maecenas suscipit est nisi, bibendum mollis dolor efficitur id. Integer
+      elementum lacinia urna, a eleifend ex congue vitae. Sed vel cursus mauris.
+      Integer lobortis, erat id mattis venenatis, lorem massa pellentesque enim,
+      quis pharetra ipsum lacus ac justo. Cum sociis natoque penatibus et magnis
+      dis parturient montes, nascetur ridiculus mus. Nulla vitae malesuada erat.
+      Curabitur ut euismod erat, in varius erat. Nunc rutrum sem quam. Sed
+      ullamcorper, nisi ac convallis congue, dui felis elementum lacus, a
+      fringilla lectus urna eget nulla. Class aptent taciti sociosqu ad litora
+      torquent per conubia nostra, per inceptos himenaeos.
+    </p>
+  </li>
+  <li>
+    <h2><a href="#f3">Sub Featured Item #3</a></h2>
+    <p>
+      Ut at dui nisi. Cras non odio sem. Praesent molestie ante vel metus
+      fringilla rutrum. Suspendisse nisi tortor, vehicula in laoreet malesuada,
+      aliquam eget ipsum. Nulla facilisi. Maecenas imperdiet dui est, quis
+      condimentum urna varius vel. Cum sociis natoque penatibus et magnis dis
+      parturient montes, nascetur ridiculus mus. Sed ut dui vitae nisi dignissim
+      placerat. Proin enim lorem, posuere at volutpat non, imperdiet sit amet
+      urna. Proin quis molestie nibh, non pulvinar sem. Proin rutrum nisl eget
+      tellus tempus, pellentesque accumsan tortor rhoncus.
+    </p>
+  </li>
+</ul>
+
+<section class="two-up sections row">
+  <ul class="column">
+    <li>
+      <h3><a href="/earthquakes/">Earthquakes</a></h3>
+      <div class="row">
+        <img src="http://placehold.it/128x128" alt="Placeholder" class="column one-of-four"/>
+        <p class="column three-of-four">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
+          faucibus, sapien ut consectetur dictum, nisl eros scelerisque est, at
+          consectetur odio ipsum nec ante.
+        </p>
+      </a>
+    </li>
+    <li>
+      <h3><a href="/hazards/">Hazards</a></h3>
+      <div class="row">
+        <img src="http://placehold.it/128x128" alt="Placeholder" class="column one-of-four"/>
+        <p class="column three-of-four">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
+          faucibus, sapien ut consectetur dictum, nisl eros scelerisque est, at
+          consectetur odio ipsum nec ante.
+        </p>
+      </a>
+    </li>
+    <li>
+      <h3><a href="/data/">Data &amp; Products</a></h3>
+      <div class="row">
+        <img src="http://placehold.it/128x128" alt="Placeholder" class="column one-of-four"/>
+        <p class="column three-of-four">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
+          faucibus, sapien ut consectetur dictum, nisl eros scelerisque est, at
+          consectetur odio ipsum nec ante.
+        </p>
+      </a>
+    </li>
+  </ul>
+  <ul class="column">
+    <li>
+      <h3><a href="/learn/">Learn</a></h3>
+      <div class="row">
+        <img src="http://placehold.it/128x128" alt="Placeholder" class="column one-of-four"/>
+        <p class="column three-of-four">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
+          faucibus, sapien ut consectetur dictum, nisl eros scelerisque est, at
+          consectetur odio ipsum nec ante.
+        </p>
+      </a>
+    </li>
+    <li>
+      <h3><a href="/monitoring">Monitoring</a></h3>
+      <div class="row">
+        <img src="http://placehold.it/128x128" alt="Placeholder" class="column one-of-four"/>
+        <p class="column three-of-four">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
+          faucibus, sapien ut consectetur dictum, nisl eros scelerisque est, at
+          consectetur odio ipsum nec ante.
+        </p>
+      </a>
+    </li>
+    <li>
+      <h3><a href="/research/">Research</a></h3>
+      <div class="row">
+        <img src="http://placehold.it/128x128" alt="Placeholder" class="column one-of-four"/>
+        <p class="column three-of-four">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
+          faucibus, sapien ut consectetur dictum, nisl eros scelerisque est, at
+          consectetur odio ipsum nec ante.
+        </p>
+      </a>
+    </li>
+  </ul>
+</section>
