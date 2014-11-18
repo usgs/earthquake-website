@@ -88,21 +88,17 @@ class Features {
 		$len = count($items);
 
 		$r = '';
-		$r .= '<div class="features row">';
 		for ($i = 0; $i < $len && $i < $numFeatured; $i++) {
-			$r .= '<div class="feature column one-of-two">' .
-				$this->getFeaturedHtml($items[$i]) .
-			'</div>';
+			$r .= $this->getFeaturedHtml($items[$i]);
 		}
 
-		$r .= '<ul class="column one-of-two">';
+		$r .= '<ul class="sub-features">';
 		for ($i = $numFeatured; $i < $len && $i < $numItems; $i++) {
 			$r .= '<li>' .
 				$this->getItemHtml($items[$i]) .
 				'</li>';
 		}
-		$r .= '</ul>' .
-			'</div>';
+		$r .= '</ul>';
 		return $r;
 	}
 
@@ -113,14 +109,16 @@ class Features {
 	 * @return {String} html formatted item.
 	 */
 	protected function getFeaturedHtml ($item) {
-		$r = '<a href="' . $item['link'] . '">' .
-			'<h3>' . $item['title'] . '</h3>' .
-			'<div class="image" style="background-image:url(' . $item['image'] . ')"></div>' .
-			'</a>' .
-			'<p>' . $item['summary'] . '</p>';
-		if (isset($item['disclaimer'])) {
-			$r .= '<p class="disclaimer">' . $item['disclaimer'] . '</p>';
-		}
+		$r = '<div class="main-featured row">' .
+					'<h2>' .
+						'<a href="' . $item['link'] . '">' . $item['title'] . '</a>' .
+					'</h2>' .
+					'<div class="one-of-four column">' .
+						'<img class="main-featured-image" src="' . $item['image'] .
+								'" alt=""/>' .
+					'</div>' .
+					'<div class="three-of-four column">' . $item['content'] . '</div>' .
+				'</div>';
 		return $r;
 	}
 
@@ -131,11 +129,10 @@ class Features {
 	 * @return {String} html formatted item.
 	 */
 	protected function getItemHtml ($item) {
-		return '<a href="' . $item['link'] . '">' .
-			'<h3>' . $item['title'] . '</h3>' .
-			'<img src="' . $item['thumbnail'] . '" alt="" />' .
-			'</a>' .
-			'<p>' . $item['summary'] . '</p>';
+		return '<h2>' .
+			'<a href="' . $item['link'] . '">'. $item['title'] . '</a>' .
+			'</h2>' .
+			'<div>' . $item['content'] . '</div>';
 	}
 
 	/**
@@ -177,7 +174,7 @@ class Features {
 			'<link rel="alternate" type="text/html" href="' . $this->getLink($item['link']) . '"/>' .
 			'<summary type="html"><![CDATA[' .
 				'<img src="' . $this->getLink($item['thumbnail']) . '" width="100" align="left" hspace="10"/>' .
-				$item['summary'] .
+				$item['content'] .
 			']]></summary>';
 		if (isset($item['tags'])) {
 			foreach ($item['tags'] as $tag) {
