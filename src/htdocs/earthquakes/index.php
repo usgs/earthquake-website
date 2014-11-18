@@ -1,11 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
-  //include_once '../conf/config.inc.php';
   $TITLE = 'Earthquakes';
-  $HEAD = '
-  <link rel="stylesheet" href="../index.css"/>';
-  //<link rel="stylesheet" href="/css/flexible-grid.css"/>;
-  //<link rel="stylesheet" href="/css/imagelist.css"/>';
+  $HEAD = '<link rel="stylesheet" href="index.css" />';
   $FOOT = "<script>
 (function () {
   require.config({
