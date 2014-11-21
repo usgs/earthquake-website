@@ -234,9 +234,8 @@ module.exports = function (grunt) {
 				cwd: '<%= app.src %>/htdocs',
 				dest: '<%= app.dist %>/htdocs',
 				src: [
-					'**/*.{png,gif,jpg,jpeg}',
-					'**/*.php',
-					'**/*.ico'
+					'**/*',
+					'!**/*.scss'
 				]
 			},
 			conf: {
