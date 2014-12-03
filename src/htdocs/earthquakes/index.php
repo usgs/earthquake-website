@@ -1,11 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
-  //include_once '../conf/config.inc.php';
   $TITLE = 'Earthquakes';
-  $HEAD = '
-  <link rel="stylesheet" href="../index.css"/>';
-  //<link rel="stylesheet" href="/css/flexible-grid.css"/>;
-  //<link rel="stylesheet" href="/css/imagelist.css"/>';
+  $HEAD = '<link rel="stylesheet" href="index.css" />';
   $FOOT = "<script>
 (function () {
   require.config({
@@ -46,7 +42,7 @@ if (!isset($TEMPLATE)) {
       Thousands of earthquakes occur every day around the world, although most are so small they can only be detected by sensitive seismographs. As more and more seismographs are installed, more earthquakes can be and have been located. However, the number of large earthquakes (magnitude 6.0 and greater) that occur each year has stayed relatively constant.
     </div>
     <h2>Today in Earthquake History</h2>
-    <img src="/images/calendar.jpg" width="64" height="41" alt="calendar
+    <img src="/earthquakes/images/calendar.jpg" width="64" height="41" alt="calendar
     icon" class="left" />
     <p><strong>November 12, 1999</strong>
       M 7.2, Turkey – At least 894 people killed and 4,948 injured, mostly in the Bolu-Duzce area. Casualties occurred as far as Eskisehir, Yalova and Zonguldak. Extensive…
@@ -72,13 +68,13 @@ $list = new ImageList();
 
 $list->addItem(
   '/earthquakes/map/',
-  '../images/earthquakes.gif',
+  '../earthquakes/images/earthquakes.gif',
   'Latest Earthquakes',
   'View recent events or search for past earthquakes.');
 
 $list->addItem(
   '/earthquakes/feed/',
-  '../images/feeds.gif',
+  '../earthquakes/images/feeds.gif',
   'Real-time Feeds &amp; Notifications',
   'Get real&#45;time earthquake notifications sent to you using a number of
             popular mediums: Feeds, Email, Twitter etc. &hellip;'
@@ -86,7 +82,7 @@ $list->addItem(
 
 $list->addItem(
   '/earthquakes/search/',
-  '../images/search.gif',
+  '../earthquakes/images/search.gif',
   'Search Earthquake Archives',
   'Online catalog search.'
   );
@@ -103,25 +99,25 @@ $list = new ImageList();
 
 $list->addItem(
   '/earthquakes/region.php',
-  '../images/infobyregion.gif',
+  '../earthquakes/images/infobyregion.gif',
   'Info by Region',
   'By state or by country.');
 
 $list->addItem(
   '/earthquakes/states/seismicity/',
-  '../images/seis_us.png',
+  '../earthquakes/images/seis_us.png',
   'US Seismicity Map',
   'Entire US and regional maps.');
 
 $list->addItem(
   '/earthquakes/world/seismicity_maps/',
-  '../images/seis_world.png',
+  '../earthquakes/images/seis_world.png',
   'World Seismicity Maps',
   'Entire world and regional maps.');
 
 $list->addItem(
   '/earthquakes/eqarchives/',
-  '../images/top10.gif',
+  '../earthquakes/images/top10.gif',
   'Earthquake &ldquo;Top 10&rdquo; Lists &amp; Maps',
   'Earthquake lists, maps, and statistics.');
 
@@ -136,19 +132,19 @@ $list = new ImageList();
 
 $list->addItem(
   '/earthquakes/dyfi/',
-  '../images/dyfi.png',
+  '../earthquakes/images/dyfi.png',
   'Did You Feel It?',
   'Feel an earthquake? Report it here.');
 
 $list->addItem(
   '/earthquakes/shakemap/',
-  '../images/shakemap.png',
+  '../earthquakes/images/shakemap.png',
   'ShakeMap',
   'Earthquake shaking maps and data.');
 
 $list->addItem(
   '/earthquakes/pager/',
-  '../images/pager.png',
+  '../earthquakes/images/pager.png',
   'PAGER',
   'Estimates of earthquake impacts, monetary and human losses.');
 
