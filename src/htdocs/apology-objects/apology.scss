@@ -1,0 +1,16 @@
+@import '../../node_modules/hazdev-template/src/htdocs/site/earthquake/index.scss';
+
+[role="banner"] {
+  @media screen and (min-width: $breakpoint-offcanvas) {
+    background-image: url("/apology-objects/banner.png");
+  }
+
+  > .site-logo {
+    background-image: url("/apology-objects/usgs-logo.svg");
+  }
+}
+
+.page {
+  width: 100%;
+  padding: 0 16px;
+}
