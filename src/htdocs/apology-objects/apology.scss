@@ -10,7 +10,14 @@
   }
 }
 
+// this shouldn't be needed, but Chrome doesn't honor sizes on first load
+header,
+main {
+  font-size:1.5rem;
+}
+
 .page {
   width: 100%;
   padding: 0 16px;
+  font-size: 1.5rem;
 }
