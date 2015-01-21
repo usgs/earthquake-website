@@ -39,4 +39,5 @@ $HEAD =
 		'tectonics,tsunami,quake,sismologico,sismologia' .
 '"/>';
 
+$GA_KEY = 'UA-7320779-1';
 ?>
