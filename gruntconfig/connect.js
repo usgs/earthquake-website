@@ -9,7 +9,6 @@ var connect = {
   dev: {
     options: {
       base: [
-        config.build + '/' + config.,
         config.build + '/' + config.src
       ],
       port: 8000
