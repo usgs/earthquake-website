@@ -19,4 +19,4 @@ var htmlmin = {
   }
 };
 
-modeul.exports = htmlmin;
+module.exports = htmlmin;
