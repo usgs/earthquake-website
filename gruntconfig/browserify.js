@@ -25,4 +25,4 @@ var browserify = {
   browserify[bundle].files[targetFile] = [sourceFile];
 });
 
-module.export = browserify;
+module.exports = browserify;
