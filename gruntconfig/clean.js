@@ -8,4 +8,4 @@ var clean = {
   }
 };
 
-module.export = clean;
+module.exports = clean;
