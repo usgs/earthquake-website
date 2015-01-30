@@ -16,7 +16,8 @@ var browserify = {
 //bundles
 
 [
-  ''
+  'test/index',
+  'src/htdocs/EqList'
 ].forEach(function (bundle) {
   var targetFile = config.build + '/' + bundle + '.js';
   var sourceFile = bundle + '.js';

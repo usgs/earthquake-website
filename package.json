@@ -44,6 +44,7 @@
     "grunt-contrib-watch": "~0.4.4",
     "grunt-mocha-phantomjs": "~0.2.8",
     "grunt-open": "~0.2.0",
+    "grunt-replace": "^0.8.0",
     "grunt-text-replace": "~0.3.6",
     "hazdev-template": "usgs/hazdev-template",
     "matchdep": "~0.1.2",
