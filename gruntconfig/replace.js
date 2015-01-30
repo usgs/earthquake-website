@@ -1,12 +1,12 @@
 'use strict';
 
-var config = require('.config');
+var config = require('./config');
 
 var replace = {
   dist: {
     src: [
-      '<%= app.dist %>/htdocs/index.html',
-      '<%= app.dist %>/**/*.php'
+      config.dist + '/htdocs/index.html',
+      config.dist + '/**/*.php'
     ],
     overwrite: true,
     replacements: [
@@ -18,7 +18,7 @@ var replace = {
   },
   templateConfig: {
     src: [
-      '<%= app.test %>/_config.inc.php'
+      config.test + '/_config.inc.php'
     ],
     overwrite: true,
     replacements: [
