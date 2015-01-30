@@ -12,7 +12,7 @@ var config = {
   mocha_phantomjs: require('./mocha_phantomjs'),
   replace: require('./replace'),
   uglify: require('./uglify'),
-  watch: require('./watch')
+  watch: require('./watch'),
 
   tasks: [
     'grunt-browserify',
@@ -24,10 +24,10 @@ var config = {
     'grunt-contrib-htmlmin',
     'grunt-contrib-jshint',
     'grunt-mocha-phantomjs',
-    'grunt-contrib-replace',
+    'grunt-replace',
     'grunt-contrib-uglify',
     'grunt-contrib-watch'
   ]
 };
 
-module.exports = index.js;
+module.exports = config;
