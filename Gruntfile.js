@@ -1,5 +1,41 @@
 'use strict';
 
+module.exports = function (grunt) {
+
+  var gruntConfig = require('./gruntconfig');
+
+  gruntConfig.tasks.forEach(grunt.loadNpmTasks);
+  grunt.initConfig(gruntConfig);
+
+  grunt.reqisterTask('build', [
+    'clean',
+    'browserify',
+    'compass',
+    'copy',
+    'jshint'
+  ]);
+
+  grunt.registerTask('default', [
+    'build',
+    'connect:dev',
+    'connect:test',
+    'mocha_phantomjs',
+    'watch'
+  ]);
+
+  grunt.registerTask('dist', [
+    'build',
+    'cssmin',
+    'htmlmin',
+    'uglify',
+    'connect:dist'
+  ]);
+};
+
+
+
+
+
 var rewriteRulesSnippet = require('grunt-connect-rewrite/lib/utils').rewriteRequest;
 var LIVE_RELOAD_PORT = 35729;
 var lrSnippet = require('connect-livereload')({port: LIVE_RELOAD_PORT});
