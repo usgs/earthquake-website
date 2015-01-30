@@ -10,6 +10,7 @@ var config = {
   htmlmin: require('./htmlmin'),
   jshint: require('./jshint'),
   mocha_phantomjs: require('./mocha_phantomjs'),
+  replace: require('./replace'),
   uglify: require('./uglify'),
   watch: require('./watch')
 
@@ -23,6 +24,7 @@ var config = {
     'grunt-contrib-htmlmin',
     'grunt-contrib-jshint',
     'grunt-mocha-phantomjs',
+    'grunt-contrib-replace',
     'grunt-contrib-uglify',
     'grunt-contrib-watch'
   ]
