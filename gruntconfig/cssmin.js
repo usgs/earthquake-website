@@ -1,4 +1,4 @@
-'use strict':
+'use strict';
 
 var config = require('./config');
 
@@ -6,7 +6,7 @@ var cssmin = {
   test: {
     expand: true,
     cwd: config.build + '/test',
-    src: '**/*.css'
+    src: '**/*.css',
     dest: config.dist
   },
   build: {
