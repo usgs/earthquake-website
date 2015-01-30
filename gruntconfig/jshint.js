@@ -11,7 +11,7 @@ var jshint = {
     'gruntconfig/**/*.js'
   ],
   scripts: [config.src + '/**/*.js'],
-  test: [config.test + '/**/*.js'],
+  test: [config.test + '/**/*.js']
 };
 
 module.exports = jshint;
