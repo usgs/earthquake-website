@@ -25,6 +25,7 @@ module.exports = function (grunt) {
 
   grunt.registerTask('dist', [
     'build',
+    'replace',
     'cssmin',
     'htmlmin',
     'uglify',
