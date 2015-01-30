@@ -7,14 +7,14 @@ var compass = {
     options: {
       sassDir: [config.src + '/htdocs'],
       cssDir: config.build + '/src',
-      enviroment: 'development'
+      environment: 'development'
     }
   },
   test: {
     options: {
       sassDir: config.test,
       cssDir: config.build + '/test',
-      enviroment: 'development'
+      environment: 'development'
     }
   }
 };
