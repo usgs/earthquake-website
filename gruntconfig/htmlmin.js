@@ -11,7 +11,7 @@ var htmlmin = {
     files: [
       {
         expand: true,
-        cwd: config.build + '/example',
+        cwd: config.src,
         src: '**/*.html',
         dest: config.dist
       }
