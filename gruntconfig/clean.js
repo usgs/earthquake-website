@@ -1,6 +1,6 @@
 'use strict';
 
-var confg = require('./config');
+var config = require('./config');
 
 var clean = {
   build: {
