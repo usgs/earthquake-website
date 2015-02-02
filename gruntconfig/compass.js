@@ -9,14 +9,14 @@ var compass = {
       cssDir: config.build + '/src',
       environment: 'development'
     }
-  },
-  test: {
-    options: {
-      sassDir: config.test,
-      cssDir: config.build + '/test',
-      environment: 'development'
-    }
-  }
+   }//,
+  // test: {
+  //   options: {
+  //     sassDir: config.test,
+  //     cssDir: config.build + '/test',
+  //     environment: 'development'
+  //   }
+  // }
 };
 
 module.exports = compass;
