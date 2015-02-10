@@ -1,9 +1,9 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-	$TITLE = 'Earthquake Hazards Program';
-	$HEAD = '<link rel="stylesheet" href="index.css"/>';
-	include 'template.inc.php';
+  $TITLE = 'Earthquake Hazards Program';
+  $HEAD = '<link rel="stylesheet" href="index.css"/>';
+  include 'template.inc.php';
 }
 
 ?>
@@ -80,4 +80,3 @@ if (!isset($TEMPLATE)) {
     </li>
   </ul>
 </section>
-
