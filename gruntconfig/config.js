@@ -1,10 +1,11 @@
 'use strict';
 
 var config = {
-  src: 'src',
-  test: 'test',
   build: '.build',
-  dist: 'dist'
+  dist: 'dist',
+  example: 'example',
+  src: 'src',
+  test: 'test'
 };
 
 module.exports = config;
