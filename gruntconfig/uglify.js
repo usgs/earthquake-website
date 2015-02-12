@@ -11,13 +11,4 @@ var uglify = {
   }
 };
 
-// // uglify from build into dist
-// [
-//   'htdocs/eqlist/EqList.js',
-
-// ].forEach(function (file) {
-//   uglify.dist.files[config.dist + '/' + file] =
-//       config.build + '/' + config.src + '/' + file;
-// });
-
 module.exports = uglify;
