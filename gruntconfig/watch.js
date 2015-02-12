@@ -34,6 +34,15 @@ var watch = {
       'compass:test'
     ]
   },
+  reload: {
+    files: [
+      config.build + '/**/*',
+      config.example + '/**/*'
+    ],
+    options: {
+      livereload: true
+    }
+  },
   gruntfile: {
     files: [
       'Gruntfile.js',
