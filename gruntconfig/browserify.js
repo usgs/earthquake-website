@@ -2,6 +2,12 @@
 
 var config = require('./config');
 
+var EXPORTS = [
+  'htdocs/apology_objects',
+  'htdocs/earthquakes',
+  'htdocs/eqlist'
+];
+
 var browserify = {
   options: {
     browserifyOptions: {
@@ -9,6 +15,22 @@ var browserify = {
       paths: [
         process.cwd() + '/' + config.src
       ]
+    }
+  },
+  source: {
+    src: [],
+    dest: config.build + '/' + config.src + '/earthquake-website.js',
+    options: {
+      alias: EXPORTS.map(function (path) {
+        return './' + config.src + '/' + path + '.js:' + path;
+      })
+    }
+  },
+  test: {
+    src: config.test + '/test.js',
+    dest: config.build + '/' + config.test + '/test.js',
+    options: {
+      external: EXPORTS
     }
   }
 };
