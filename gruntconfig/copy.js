@@ -2,6 +2,7 @@
 
 var config = require('./config');
 
+var copy = {
   build: {
     expand: true,
     cwd: config.src,
