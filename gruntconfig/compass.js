@@ -3,11 +3,11 @@
 var config = require('./config');
 
 var compass = {
-  dev: {
+  src: {
     options: {
-      sassDir: [config.src + '/htdocs'],
-      specify: config.src + '/earthquake-website',
-      cssDir: config.build + config.src,
+      sassDir: config.src,
+      specify: config.src + '**/*.scss',
+      cssDir: config.build + '/' + config.src,
       environment: 'development'
     }
   }
