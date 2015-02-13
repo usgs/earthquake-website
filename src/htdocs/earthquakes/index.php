@@ -1,24 +1,10 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Earthquakes';
-  $HEAD = '<link rel="stylesheet" href="index.css" />';
-  $FOOT = "<script>
-(function () {
-  require.config({
-    baseUrl: '/'
-  });
-
-  require([
-    'eqlist/EqList'
-  ], function (
-    EqList
-  ) {
-    new EqList(document.getElementById('significant-earthquakes'));
-    new EqList(document.getElementById('m2pastDay-earthquakes'),
-      'http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojsonp');
-  });
-})();
-</script>";
+  $HEAD = '<link rel="stylesheet" href="/eqlist/earthquake-list-widget.css"/>' .
+      '<link rel="stylesheet" href="index.css"/>';
+  $FOOT = '<script src="/eqlist/earthquake-list-widget.js"></script>' .
+      '<script src="index.js"></script>';
   include 'classes/ImageList.class.php';
   include 'template.inc.php';
 }
