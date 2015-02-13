@@ -25,7 +25,7 @@ var connect = {
         'node_modules'
       ],
       livereload: true,
-      open: 'http://localhost:8001/example.html',
+      open: 'http://localhost:8001/test.html',
       port: 8001
     }
   },
