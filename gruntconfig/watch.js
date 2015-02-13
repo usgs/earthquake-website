@@ -54,4 +54,4 @@ var watch = {
   }
 };
 
-module.exports = watch.js;
+module.exports = watch;
