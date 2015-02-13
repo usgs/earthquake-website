@@ -3,7 +3,7 @@
 var config = require('./config');
 
 var EXPORTS = [
-  'htdocs/eqlist'
+  'htdocs/eqlist/eqlist'
 ];
 
 var browserify = {
