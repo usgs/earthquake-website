@@ -7,37 +7,66 @@ var connect = {
     hostname: '*'
   },
   dev: {
+     proxies: [{
+      context: '/theme',
+      host: 'localhost',
+      port: '<%= connect.template.options.port %>',
+      rewrite: {'/theme': ''}
+    }],
     options: {
       base: [
-        config.build + '/' + config.test,
-        config.build + '/' + config.src
-      ],
+        config.build + '/' + config.src + '/htdocs'
+       ],
       livereload: true,
-      open: 'http://localhost:8000/example.html',
-      port: 8000
-    }
-  },
-  test: {
-    options: {
-      base: [
-        config.build + '/' + config.test,
-        config.build + '/' + config.src,
-        'node_modules'
-      ],
-      livereload: true,
-      open: 'http://localhost:8001/test.html',
-      port: 8001
+      open: 'http://localhost:8000/',
+      port: 8000,
+      middleware: function (connect, options, middlewares) {
+        middlewares.unshift(
+          require('grunt-connect-proxy/lib/utils').proxyRequest,
+          require('gateway')(options.base[0], {
+            '.php': 'php-cgi',
+            'env': {
+              'PHPRC': 'node_modules/hazdev-template/dist/conf/php.ini'
+            }
+          })
+        );
+        return middlewares;
+      }
     }
   },
   dist: {
+    proxies: [{
+      context: '/theme',
+      host: 'localhost',
+      port: '<%= connect.template.options.port %>',
+      rewrite: {'/theme': ''}
+    }],
     options: {
       keepalive: true,
       base: [
-        config.dist
+        config.dist + '/' + '/htdocs'
       ],
       livereload: true,
-      open: 'http://localhost:8002/example.html',
-      port: 8002
+      open: 'http://localhost:8002/',
+      port: 8002,
+      middleware: function (connect, options, middlewares) {
+        middlewares.unshift(
+          require('grunt-connect-proxy/lib/utils').proxyRequest,
+          require('gateway')(options.base[0], {
+            '.php': 'php-cgi',
+            'env': {
+              'PHPRC': 'node_modules/hazdev-template/dist/conf/php.ini'
+            }
+          })
+        );
+        return middlewares;
+      }
+    }
+  },
+  template: {
+    options: {
+      base: ['node_modules/hazdev-template/dist/htdocs'],
+      port: 8003
     }
   },
 };
