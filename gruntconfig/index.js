@@ -8,7 +8,6 @@ var config = {
   copy: require('./copy'),
   jshint: require('./jshint'),
   mocha_phantomjs: require('./mocha_phantomjs'),
-  uglify: require('./uglify'),
   watch: require('./watch'),
 
   tasks: [
@@ -19,7 +18,6 @@ var config = {
     'grunt-contrib-copy',
     'grunt-contrib-jshint',
     'grunt-mocha-phantomjs',
-    'grunt-contrib-uglify',
     'grunt-contrib-watch'
   ]
 };
