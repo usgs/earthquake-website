@@ -9,26 +9,26 @@ module.exports = function (grunt) {
 
   grunt.registerTask('build', [
     'clean',
-    'browserify',
-    'compass',
-    'copy',
-    'jshint'
+    'concurrent:build'
   ]);
 
   grunt.registerTask('default', [
     'build',
+    'connect:template',
+    'configureProxies:dev',
     'connect:dev',
-    'connect:test',
-    'mocha_phantomjs',
     'watch'
   ]);
 
-  grunt.registerTask('dist', [
+  grunt.registerTask('builddist', [
     'build',
-    'replace',
-    'cssmin',
-    'htmlmin',
-    'uglify',
+    'concurrent:dist'
+  ]);
+
+  grunt.registerTask('dist', [
+    'builddist',
+    'connect:template',
+    'configureProxies:dist',
     'connect:dist'
   ]);
 };
