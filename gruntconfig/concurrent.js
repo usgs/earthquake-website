@@ -7,7 +7,7 @@ var concurrent = {
     'jshint'
   ],
   dist: [
-    //'cssmin',
+    'cssmin',
     'copy:dist'
   ]
 };
