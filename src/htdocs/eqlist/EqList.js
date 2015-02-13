@@ -40,6 +40,85 @@ var EqList = function (container, feed) {
   this._fetchList();
 };
 
+var __register_parser = function (feed, callback) {
+  var parsers = REGISTERED_PARSERS[feed];
+
+  if (typeof parsers === 'undefined' || parsers === null) {
+    parsers = [];
+  }
+
+  parsers.push(callback);
+  REGISTERED_PARSERS[feed] = parsers;
+};
+
+var __notify_parser = function (parsers, data) {
+  var i = 0, len = parsers.length;
+
+  for (; i < len; i++) {
+    parsers[i].call(null, data);
+  }
+};
+
+var __load_css = function (url) {
+  var p = document.querySelector('head'),
+      defaultCssUrl = 'http://earthquake.usgs.gov/eqlist/eqlist.css',
+      cssUrl = null, src = null,
+      scripts = document.querySelectorAll('script[src]');
+
+  if (p) {
+    // Got a head element. Cool.
+
+    // Try to guess where the CSS is...
+    for (var i = 0; (typeof url==='undefined') && i < scripts.length; i++) {
+      src = scripts[i].src;
+      if (src.match(/EqList.js$/)) {
+        cssUrl = src.replace(/\.js$/, '.css');
+      }
+    }
+
+    var style = document.createElement('link');
+    style.setAttribute('rel', 'stylesheet');
+    style.setAttribute('href', url || cssUrl || defaultCssUrl);
+    p.appendChild(style);
+  } else {
+    // No head element. Sucky.
+    // TODO
+    try {
+      console.log('EqList::No head element.');
+    } catch (e) {/*Ignore*/}
+  }
+};
+
+var __get_event_markup = function (e) {
+  var p = e.properties,
+      t = new Date(p.time),
+      y = t.getUTCFullYear(),
+      m = t.getUTCMonth()+1,
+      d = t.getUTCDate(),
+      h = t.getUTCHours(),
+      i = t.getUTCMinutes(),
+      s = t.getUTCSeconds();
+
+  if (m < 10) { m = '0' + m; }
+  if (d < 10) { d = '0' + d; }
+  if (h < 10) { h = '0' + h; }
+  if (i < 10) { i = '0' + i; }
+  if (s < 10) { s = '0' + s; }
+  var dateStamp = ''+y+'-'+m+'-'+d+' '+h+':'+i+':'+s+' UTC';
+
+  return [
+    '<li class="sigeq">',
+      '<span class="mag">', p.mag.toFixed(1), '</span>',
+      '<a class="place" href="', p.url, '">', p.place, '</a>',
+      '<span class="time">', dateStamp, '</span>',
+      '<span class="depth">',
+        e.geometry.coordinates[2].toFixed(1),
+      ' km deep</span>',
+    '</li>'
+  ].join('');
+};
+
+
 EqList.prototype._generateLoading = function () {
   var loading = this._container.appendChild(document.createElement('p'));
   loading.className = 'sigeq-loading';
@@ -134,83 +213,6 @@ window.eqfeed_callback = function (data) {
 
 };
 
-var __register_parser = function (feed, callback) {
-  var parsers = REGISTERED_PARSERS[feed];
-
-  if (typeof parsers === 'undefined' || parsers === null) {
-    parsers = [];
-  }
-
-  parsers.push(callback);
-  REGISTERED_PARSERS[feed] = parsers;
-};
-
-var __notify_parser = function (parsers, data) {
-  var i = 0, len = parsers.length;
-
-  for (; i < len; i++) {
-    parsers[i].call(null, data);
-  }
-};
-
-var __load_css = function (url) {
-  var p = document.querySelector('head'),
-      defaultCssUrl = 'http://earthquake.usgs.gov/eqlist/eqlist.css',
-      cssUrl = null, src = null,
-      scripts = document.querySelectorAll('script[src]');
-
-  if (p) {
-    // Got a head element. Cool.
-
-    // Try to guess where the CSS is...
-    for (var i = 0; (typeof url==='undefined') && i < scripts.length; i++) {
-      src = scripts[i].src;
-      if (src.match(/EqList.js$/)) {
-        cssUrl = src.replace(/\.js$/, '.css');
-      }
-    }
-
-    var style = document.createElement('link');
-    style.setAttribute('rel', 'stylesheet');
-    style.setAttribute('href', url || cssUrl || defaultCssUrl);
-    p.appendChild(style);
-  } else {
-    // No head element. Sucky.
-    // TODO
-    try {
-      console.log('EqList::No head element.');
-    } catch (e) {/*Ignore*/}
-  }
-};
-
-var __get_event_markup = function (e) {
-  var p = e.properties,
-      t = new Date(p.time),
-      y = t.getUTCFullYear(),
-      m = t.getUTCMonth()+1,
-      d = t.getUTCDate(),
-      h = t.getUTCHours(),
-      i = t.getUTCMinutes(),
-      s = t.getUTCSeconds();
-
-  if (m < 10) { m = '0' + m; }
-  if (d < 10) { d = '0' + d; }
-  if (h < 10) { h = '0' + h; }
-  if (i < 10) { i = '0' + i; }
-  if (s < 10) { s = '0' + s; }
-  var dateStamp = ''+y+'-'+m+'-'+d+' '+h+':'+i+':'+s+' UTC';
-
-  return [
-    '<li class="sigeq">',
-      '<span class="mag">', p.mag.toFixed(1), '</span>',
-      '<a class="place" href="', p.url, '">', p.place, '</a>',
-      '<span class="time">', dateStamp, '</span>',
-      '<span class="depth">',
-        e.geometry.coordinates[2].toFixed(1),
-      ' km deep</span>',
-    '</li>'
-  ].join('');
-};
 
 // Add CSS only once
 __load_css();
