@@ -3,8 +3,6 @@
 var config = require('./config');
 
 var EXPORTS = [
-  'htdocs/apology_objects',
-  'htdocs/earthquakes',
   'htdocs/eqlist'
 ];
 
