@@ -6,7 +6,7 @@ var compass = {
   src: {
     options: {
       sassDir: config.src,
-      specify: config.src + '**/*.scss',
+      specify: config.src + '/**/*.scss',
       cssDir: config.build + '/' + config.src,
       environment: 'development'
     }
