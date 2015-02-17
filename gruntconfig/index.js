@@ -6,10 +6,11 @@ var config = {
   concurrent: require('./concurrent'),
   connect: require('./connect'),
   copy: require('./copy'),
-  jshint: require('./jshint'),
-  watch: require('./watch'),
-  uglify: require('./uglify'),
   cssmin: require('./cssmin'),
+  jshint: require('./jshint'),
+  uglify: require('./uglify'),
+  watch: require('./watch'),
+
 
   tasks: [
     'grunt-concurrent',
@@ -18,10 +19,10 @@ var config = {
     'grunt-contrib-compass',
     'grunt-contrib-connect',
     'grunt-contrib-copy',
+    'grunt-contrib-cssmin',
     'grunt-contrib-jshint',
-    'grunt-contrib-watch',
     'grunt-contrib-uglify',
-    'grunt-contrib-cssmin'
+    'grunt-contrib-watch'
   ]
 };
 
