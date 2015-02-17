@@ -8,6 +8,7 @@ var config = {
   copy: require('./copy'),
   jshint: require('./jshint'),
   watch: require('./watch'),
+  uglify: require('./uglify'),
   cssmin: require('./cssmin'),
 
   tasks: [
@@ -19,6 +20,7 @@ var config = {
     'grunt-contrib-copy',
     'grunt-contrib-jshint',
     'grunt-contrib-watch',
+    'grunt-contrib-uglify',
     'grunt-contrib-cssmin'
   ]
 };
