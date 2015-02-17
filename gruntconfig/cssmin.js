@@ -4,8 +4,12 @@ var config = require('./config');
 
 var cssmin = {
   dist: {
-    src: config.build + '/' + 'htdocs/' + '**/*.css',
-    dest: config.dist + '/earthquake-website.css'
+    files: [{
+      expand: true,
+      cwd: config.build + '/' + config.src,
+      src: ['**/*.css'],
+      dest: config.dist
+    }]
   }
 };
 
