@@ -44,7 +44,7 @@ var connect = {
     options: {
       keepalive: true,
       base: [
-        config.dist + '/' + '/htdocs'
+        config.dist + '/' + 'htdocs'
       ],
       livereload: true,
       open: 'http://localhost:8002/',
