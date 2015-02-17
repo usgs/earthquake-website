@@ -8,6 +8,7 @@ var concurrent = {
   ],
   dist: [
     'cssmin',
+    'uglify',
     'copy:dist'
   ]
 };
