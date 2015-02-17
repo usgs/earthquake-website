@@ -8,6 +8,7 @@ var config = {
   copy: require('./copy'),
   jshint: require('./jshint'),
   watch: require('./watch'),
+  cssmin: require('./cssmin'),
 
   tasks: [
     'grunt-concurrent',
@@ -17,7 +18,8 @@ var config = {
     'grunt-contrib-connect',
     'grunt-contrib-copy',
     'grunt-contrib-jshint',
-    'grunt-contrib-watch'
+    'grunt-contrib-watch',
+    'grunt-contrib-cssmin'
   ]
 };
 
