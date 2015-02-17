@@ -7,8 +7,8 @@ var copy = {
     expand: true,
     cwd: config.src,
     src: [
-      'htdocs/**/*',
-      'lib/**/*'
+      '**/*',
+      '!**/*.scss'
     ],
     dest: config.build + '/' + config.src,
     options: {
@@ -19,8 +19,8 @@ var copy = {
     expand: true,
     cwd: config.build + '/' + config.src,
     src: [
-    'htdocs/**/*',
-      'lib/**/*'
+      '**/*',
+      '!**/*.css'
     ],
     dest: config.dist,
     options: {
