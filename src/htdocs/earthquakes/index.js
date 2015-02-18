@@ -4,8 +4,6 @@
 (function () {
   var EqList = require('listwidget/EqList');
 
-
-
   EqList({
     container: document.getElementById('significant-earthquakes')
   });
