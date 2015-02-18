@@ -20,7 +20,8 @@ var copy = {
     cwd: config.build + '/' + config.src,
     src: [
       '**/*',
-      '!**/*.css'
+      '!**/*.css',
+      '!**/*.js'
     ],
     dest: config.dist,
     options: {
