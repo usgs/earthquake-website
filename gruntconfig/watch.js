@@ -9,19 +9,15 @@ var watch = {
     ],
     tasks: [
       'jshint:scripts',
-      'browserify',
-      'mocha_phantomjs'
+      'copy:build'
     ]
   },
-  tests: {
+  php: {
     files: [
-      config.test + '/*.html',
-      config.test + '/**/*.js'
+      config.src + '/**/*.php'
     ],
     tasks: [
-      'jshint:tests',
-      'browserify',
-      'mocha_phantomjs'
+      'copy:build'
     ]
   },
   scss: {
