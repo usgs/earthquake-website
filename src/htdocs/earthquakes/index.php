@@ -80,7 +80,7 @@ if (!isset($TEMPLATE)) {
         </div>
       </li>
       <li>
-        <h3>Search Earthquake Archives</h3>
+        <h3><a href="search/">Search Earthquake Archives</a></h3>
         <div class="row">
           <img src="images/search.gif" alt=""
               class="column mobile-one-of-four" />
