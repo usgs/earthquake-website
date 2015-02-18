@@ -6,8 +6,12 @@ var uglify = {
   options: {
   },
   dist: {
-    src: config.build + '/' + config.src + '/*.js',
-    dest: config.dist + '/**/*.js'
+    files: [{
+      expand: true,
+      cwd: config.build + '/' + config.src,
+      src: '**/*.js',
+      dest: config.dist
+    }]
   }
 };
 
