@@ -26,8 +26,7 @@ var watch = {
       config.test + '/**/*.scss'
     ],
     tasks: [
-      'compass:dev',
-      'compass:test'
+      'compass'
     ]
   },
   reload: {

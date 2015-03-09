@@ -8,7 +8,10 @@ var compass = {
       sassDir: config.src,
       specify: config.src + '/**/*.scss',
       cssDir: config.build + '/' + config.src,
-      environment: 'development'
+      environment: 'development',
+      importPath: [
+        'node_modules/hazdev-template/src/htdocs/'
+      ]
     }
   }
 };

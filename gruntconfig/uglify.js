@@ -4,6 +4,9 @@ var config = require('./config');
 
 var uglify = {
   options: {
+    mangle: true,
+    compress: {},
+    report: 'gzip'
   },
   dist: {
     files: [{

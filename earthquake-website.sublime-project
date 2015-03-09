@@ -9,7 +9,6 @@
       "folder_exclude_patterns": [
         ".sass-cache",
         "node_modules",
-        "bower_components",
         ".tmp"
       ]
     }
@@ -23,6 +22,6 @@
     "indent_to_bracket": false,
     "translate_tabs_to_spaces": false,
     "trim_automatic_white_space": true,
-    "trim_trailing_white_space_one_save": true
+    "trim_trailing_white_space_on_save": true
   }
 }
