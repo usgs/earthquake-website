@@ -1,3 +1,4 @@
+/* jshint ignore:start */
 /*
 				    .ooooo.          ooo. .oo.     .ooooo.    oooo d8b
 				   d88" `88b         `888P"Y88b   d88" `88b   `888""8P
