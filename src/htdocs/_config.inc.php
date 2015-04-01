@@ -29,7 +29,7 @@ $HEAD =
     'USGS Earthquake Hazards Program, responsible for' .
     ' monitoring, reporting, and researching earthquakes and' .
     ' earthquake hazards' .
-'"/>' .
+    '"/>' .
 // keywords meta
   '<meta name="keywords" content="' .
     'aftershock,earthquake,epicenter,fault,foreshock,geologist,' .
@@ -37,7 +37,11 @@ $HEAD =
     'magnitude scale,mercalli,plate,richter,seismic,seismicity,' .
     'seismogram,seismograph,seismologist,seismology,subduction,' .
     'tectonics,tsunami,quake,sismologico,sismologia' .
-'"/>';
+    '"/>' .
+// universal analytics (should be last in $HEAD)
+  '<script id="_fed_an_ua_tag" async="async" src="' .
+      '/lib/Universal-Federated-Analytics-Min.1.0.js' .
+      '?agency=DOI&amp;subagency=USGS&amp;pua=UA-7320779-1' .
+      '"></script>';
 
-$GA_KEY = 'UA-7320779-1';
 ?>
