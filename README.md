@@ -1,4 +1,4 @@
 earthquake-website
 ==============
 
-earthquake hazards program website
+Earthquake Hazards Program website
