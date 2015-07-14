@@ -110,7 +110,7 @@ class Features {
    */
   protected function getFeaturedHtml ($item) {
     $r = '<div class="main-featured">' .
-          '<h2>' .
+          '<h2 style="margin-bottom:.5em;">' .
             '<a href="' . $item['link'] . '">' . $item['title'] . '</a>' .
           '</h2>' .
           '<div class="row">' .
