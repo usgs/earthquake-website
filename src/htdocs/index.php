@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Earthquake Hazards Program';
+  $TITLE = 'Earthquake Hazard Program';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
   include 'template.inc.php';
 }
