@@ -109,15 +109,17 @@ class Features {
    * @return {String} html formatted item.
    */
   protected function getFeaturedHtml ($item) {
-    $r = '<div class="main-featured row">' .
-          '<h2>' .
+    $r = '<div class="main-featured">' .
+          '<h2 style="margin-bottom:.5em;">' .
             '<a href="' . $item['link'] . '">' . $item['title'] . '</a>' .
           '</h2>' .
-          '<div class="one-of-four column">' .
-            '<img class="main-featured-image" src="' . $item['image'] .
-                '" alt=""/>' .
+          '<div class="row">' .
+            '<div class="one-of-four column">' .
+              '<img class="main-featured-image" src="' . $item['image'] .
+                  '" alt=""/>' .
+            '</div>' .
+            '<div class="three-of-four column">' . $item['content'] . '</div>' .
           '</div>' .
-          '<div class="three-of-four column">' . $item['content'] . '</div>' .
         '</div>';
     return $r;
   }
