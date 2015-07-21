@@ -10,7 +10,10 @@ var jshint = {
     'Gruntfile.js',
     'gruntconfig/**/*.js'
   ],
-  scripts: [config.src + '/**/*.js'],
+  scripts: [
+    config.src + '/**/*.js',
+    '!' + config.src + '/htdocs/lib/**/*.js'
+  ],
   test: [config.test + '/**/*.js']
 };
 
