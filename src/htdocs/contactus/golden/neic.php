@@ -1,61 +1,83 @@
 <?php
-	$TITLE = "National Earthquake Information Center (NEIC)";
-	include_once $_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php";
+  // Author: Lisa Wald
+  // Contact: Jill McCarthy
+  // Last modified: 07/21/2015
+  if (!isset($TEMPLATE)) {
+  $TITLE = 'National Earthquake Information Center (NEIC)';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+  }
 ?>
 
-<h2>NEIC Tour Information</h2>
+<div class="row">
+  <div class="column two-of-three">
 
-<img class="right" src="images/neic_bldg.jpg" alt="NEIC building"/>
+    <h2>NEIC Tour Information</h2>
 
-<p>
-The National Earthquake Information Center is located in Golden, CO at:
-</p>
+    <p>
+    The National Earthquake Information Center is located in Golden, CO at:
+    </p>
 
-1711 Illinois Street <br />
-(on the Colorado School of Mines Campus).
-</p>
+    <p>
+    1711 Illinois Street <br />
+    (on the Colorado School of Mines Campus).
+    </p>
 
-<p>
-Our mailing address is:
-<br />
-U.S.Geological Survey
-<br />
-National Earthquake Information Center
-<br />
-Box 25046 MS 966
-<br />
-Denver Federal Center
-<br />
-Denver, Colorado 80225-0046
-</p>
+    <p>
+    Our mailing address is:
+    <br />
+    U.S.Geological Survey
+    <br />
+    National Earthquake Information Center
+    <br />
+    Box 25046 MS 966
+    <br />
+    Denver Federal Center
+    <br />
+    Denver, Colorado 80225-0046
+    </p>
+  </div>
+
+  <div class="column one-of-three">
+      <figure>
+        <img src="images/neic_bldg.jpg" alt="National Earthquake Information Center building">
+        <figcaption>
+          National Earthquake Information Center building
+        </figcaption>
+      </figure>
+  </div>
+</div>
 
 
-<br clear="all" />
+
 
 
 <div style="background-color: #D4E4EF; padding: 1.5em; margin: .5em 0;">
-<img class="left" src="images/waverly_person.gif" alt="Waverly Person in NEIC Recording Room"/>
 
-<p>
-	<big><b>
-	Tours are free, by appointment only.
-	<br />
-	A reservation is required.
-	<br />
-	Please call 303-273-8420 to schedule a tour.
-</p>
-	Because of limited resources and operational constraints, public tours
-	are restricted to Monday (9-10:30am and 2:00pm) and Thursday
-	(9-11:00am and 2:00pm).</b></big>
-</p>
-<p>
-	The NEIC tour consists of a 30 to 45 minute lecture about the
-	NEIC operations, the Earthquake Early Alerting Service, and earthquakes in general.
-</p>
-<p>
-	Tours are conducted in groups of  25 or less, and student groups must be in the 4th
-	grade or higher.
-</p>
+  <figure class="left">
+    <img src="images/waverly_person.gif" alt="Waverly Person in NEIC Recording Room"/>
+  </figure>
+
+  <p>
+    <big><b>
+    Tours are free, by appointment only.
+    <br />
+    A reservation is required.
+    <br />
+    Please call 303-273-8420 to schedule a tour.
+  </p>
+    Because of limited resources and operational constraints, public tours
+    are restricted to Monday (9-10:30am and 2:00pm) and Thursday
+    (9-11:00am and 2:00pm).</b></big>
+  </p>
+  <p>
+    The NEIC tour consists of a 30 to 45 minute lecture about the
+    NEIC operations, the Earthquake Early Alerting Service, and earthquakes in general.
+  </p>
+  <p>
+    Tours are conducted in groups of  25 or less, and student groups must be in the 4th
+    grade or higher.
+  </p>
 
 </div>
 
@@ -68,7 +90,9 @@ Parking is limited so please plan your visit accordingly.  There are 3 visitor a
 <p>
 <h3>Directions</h3>
 
-<img class="right" src="images/directions.gif" alt="Directions to the NEIC"  />
+<figure class="right">
+  <img src="images/directions.gif" alt="Directions to the NEIC"/>
+</figure>
 
 <p>
 From Denver, take 6th Avenue (US Highway 6)
@@ -195,5 +219,4 @@ These research efforts are intended to improve the data service
 provided by the NEIC to the scientific community
 and the general public;
 and, ultimately, to aid in earthquake hazard mitigation.
-
 </p>

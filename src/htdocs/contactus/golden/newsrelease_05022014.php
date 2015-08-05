@@ -1,7 +1,14 @@
 <?php
-	$TITLE = "Record Number of Oklahoma Tremors Raises Possibility of Damaging Earthquakes ";
-	include_once($_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php");
+	// Author: Lisa Wald
+	// Contact: Jill McCarthy
+	// Last modified: 07/21/2015
+	if (!isset($TEMPLATE)) {
+	$TITLE = 'Record Number of Oklahoma Tremors Raises Possibility of Damaging Earthquakes';
+	$NAVIGATION = true;
+	include 'template.inc.php';
+	}
 ?>
+
 
 <p>
 <a href="http://www.okgeosurvey1.gov/">
