@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
 // Contact: Lisa Wald, lisa@usgs.gov
-// Last modified: 07/24/2015
+// Last modified: 08/07/2015
   if (!isset($TEMPLATE)) {
   $TITLE = 'Contact Us';
   $NAVIGATION = false;
@@ -33,7 +33,7 @@
     <h3>Questions About Earthquakes</h3>
     <ul>
       <li><a href="media.php">Contacts and Information for the Media</a></li>
-      <li><a href="mailto:ask@usgs.gov?cc=lisa@usgs.gov">Earthquake Questions and Website Feedback</a></li>
+      <li><a href="mailto:sis_eq_questions@usgs.gov">Earthquake Questions and Website Feedback</a></li>
     </ul>
 
     <h3>Looking for Something Else?</h3>
