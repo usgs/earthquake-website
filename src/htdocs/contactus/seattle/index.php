@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
 // Contact: Joan Gomberg
-// Last modified: 07/21/2015
+// Last modified: 08/14/2015
 	if (!isset($TEMPLATE)) {
 	$TITLE = 'Seattle Field Office, Seattle, WA';
 	$NAVIGATION = true;
@@ -37,7 +37,7 @@
 
 	<div class="column one-of-three">
 		<figure>
-			<img src="images/seattle.jpg" alt="old sketch of Seattle"/>
+			<img src="images/seattle-sketch-2x.jpg" alt="old sketch of Seattle" width="315"/>
 			<figcaption>
 				Old sketch of Seattle. (Courtesy of University of Washington Libraries, Special Collections, UW347.)
 			</figcaption>
@@ -61,7 +61,7 @@
 			<li>
 				<a href="/learn/preparedness.php">
 					<h4>Preparedness</h4>
-					<img src="images/prepareseattle.gif"/>
+					<img src="images/seattle-subduction-2x.gif" alt="cartoon of subduction zone" width="150"/>
 				</a>
 					<p>
 						In Cascadia strain arises from the interaction of three tectonic
@@ -74,7 +74,7 @@
 			<li>
 				<a href="http://www.pnsn.org/">
 					<h4>Additional Information About Pacific Northwest Earthquake Science</h4>
-					<img src="images/CapLakeMan.jpg"/>
+					<img src="images/seattle-pnsn-sign-2x.jpg" alt="PNSN sign" width="150"/>
 				</a>
 					<p>
 						The Pacific Northwest Seismic Network (PNSN) in Seattle is home to USGS and
@@ -86,7 +86,7 @@
 			<li>
 				<a href="/hazards/products/urban/seattle/">
 					<h4>Seattle Hazard Maps</h4>
-					<img src="images/seattlemap.gif"/>
+					<img src="images/seattle-haz-2x.jpg" alt="Seattle hazard map" width="150"/>
 				</a>
 				<p>
 					A high resolution view of the potential for strong earthquake shaking in

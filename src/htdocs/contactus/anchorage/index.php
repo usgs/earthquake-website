@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
 // Contact: Peter Hauessler,
-// Last modified: 07/21/2015
+// Last modified: 08/14/2015
   if (!isset($TEMPLATE)) {
   $TITLE = 'Alaska Science Center';
   $NAVIGATION = true;
@@ -19,9 +19,9 @@
 
   <div class="column one-of-three">
       <figure>
-        <img src="images/AKScienceCenter.jpg" alt="Alaska Science Center">
+        <img src="images/akbldg-2x.jpg" alt="Alaska Science Center" width="315">
         <figcaption>
-          The Alaska Science Center
+          The Alaska Science Center in Anchorage, Alaska.
         </figcaption>
       </figure>
 
@@ -41,7 +41,7 @@
       <li>
         <a href="/learn/preparedness.php">
           <h4>Preparedness</h4>
-          <img src="images/prepare.jpg"/>
+          <img src="images/akpreparedness-2x.jpg" width="150"/>
         </a>
         <p>
           Alaska is the most seismically active region in the country. It has more    earthquakes than any other state, including California.
@@ -51,7 +51,7 @@
       <li>
         <a href="http://alaska.usgs.gov/">
           <h4>Alaska Science Center</h4>
-          <img src="images/akscicenter.jpg"/>
+          <img src="images/akscicenter-2x.jpg" width="150"/>
         </a>
         <p>
           Providing timely, relevant, and impartial study of the landscape, natural resources, and natural hazards for Alaska.
@@ -61,7 +61,7 @@
       <li>
         <a href="http://alaska.usgs.gov/portal/">
           <h4>Alaska Earthquake Science</h4>
-          <img src="images/akscience.gif"/>
+          <img src="images/akeqscience-2x.jpg" width="150"/>
         </a>
         <p>
           The devastating landslides that accompanied the great 1964 Alaska earthquake showed that seismically triggered landslides are one of the greatest geologic hazards in Anchorage.
