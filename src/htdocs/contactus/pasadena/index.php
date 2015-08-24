@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
 // Contact: Rob Graves
-// Last modified: 07/21/2015
+// Last modified: 08/14/2015
   if (!isset($TEMPLATE)) {
   $TITLE = 'Pasadena Office, Pasadena,CA';
   $NAVIGATION = true;
@@ -28,9 +28,9 @@
 
   <div class="column one-of-three">
     <figure>
-      <img src="images/525SWilson.jpg" alt="Pasadena Office"/>
+      <img src="images/pas-525SWilson.jpg" alt="Pasadena Office" width="315"/>
       <figcaption>
-        The Pasadena Office. (Photo by Lisa Wald, USGS.)
+        The Pasadena Office on the Caltech campus. Photo by Lisa Wald, USGS.
       </figcaption>
     </figure>
 
@@ -51,7 +51,7 @@
       <li>
         <a href="http://www.earthquakecountry.info/roots/">
           <h4>Preparedness</h4>
-          <img src="images/sca_roots.jpg"/>
+          <img src="images/pas-roots-2x.jpg" alt="Putting Down Roots handbook cover" width="150"/>
         </a>
         <p>
           USGS handbooks that describe the threat posed by earthquakes in Southern
@@ -64,7 +64,7 @@
       <li>
         <a href="http://www.shakeout.org/california/">
           <h4>The Great California ShakeOut</h4>
-          <img src="images/sca_shakeout.jpg"/>
+          <img src="images/pas-shakeout-2x.jpg" alt="shaking scenario for Southern CA ShakeOut" width="150"/>
         </a>
         <p>
           Millions of people worldwide will practice how to Drop, Cover, and Hold On
@@ -77,7 +77,7 @@
       <li>
         <a href="/research/faults/">
           <h4>Active Faults in Southern California</h4>
-          <img src="images/activefaults.jpg"/>
+          <img src="images/pas-HectorMinefault-2x.jpg" alt="Hector Mine fault" width="150"/>
         </a>
         <p>
           USGS geologists are working to characterize the behavior of major faults
@@ -91,7 +91,7 @@
     <li>
       <a href="/research/earlywarning">
         <h4>Earthquake Early Warning</h4>
-        <img src="images/earlywarning.gif"/>
+        <img src="images/pas-shakealert-2x.jpg" alt="screenshot of ShakeAlert prototype" width="150"/>
       </a>
         <p>
           The objective of earthquake early warning is to rapidly detect the
@@ -105,7 +105,7 @@
       <li>
         <a href="http://www.wgcep.org/">
           <h4>UCERF - Operational Earthquake Forecasting</h4>
-          <img src="images/ucerf.jpg"/>
+          <img src="images/pas-ucerf3-2x.jpg" alt="UCERF3 image" width="150"/>
         </a>
         <p>
           Long-term estimates of seismic hazard are needed to set building codes and
@@ -119,7 +119,7 @@
       <li>
         <a href="/research/groundmotion/">
           <h4>Earthquake Ground Motion</h4>
-          <img src="images/grdmotion.jpg"/>
+          <img src="images/pas-northridgesm-2x.jpg" alt="Northridge ShakeMap" width="150"/>
         </a>
         <p>
           The shaking felt during an earthquake is a combination of many factors,
@@ -135,7 +135,7 @@
       <li>
         <a href="http://www.usgs.gov/natural_hazards/safrr/">
           <h4>SAFRR - Improving Resilience to Natural Hazards</h4>
-          <img src="images/safrr.jpg"/>
+          <img src="images/pas-safrr-2x.jpg" alt="landslide potential after Colby Fire in LA" width="150"/>
         </a>
         <p>
           The SAFRR project is working to build resilience to natural hazards such as

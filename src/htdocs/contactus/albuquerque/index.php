@@ -27,9 +27,9 @@
 
   <div class="column one-of-three">
 		<figure>
-			<img src="images/asl.jpg" alt="Albuquerque Seismo Lab cave"/>
+			<img src="images/asl-tunnel-2x.jpg" alt="Albuquerque Seismo Lab cave" width="315"/>
 			<figcaption>
-        The Albuquerque Seismo Lab cave.
+        The Albuquerque Seismo Lab cave where seismic instruments are tested.
 			</figcaption>
 		</figure>
 
@@ -46,7 +46,7 @@
       <li>
         <a href="history.php">
           <h4>History of the Seismo Lab</h4>
-          <img src="images/asl-photo.jpg"/>
+          <img src="images/asl-aerial-2x.jpg"alt="aerial photo of ASL buildings" width="150"/>
         </a>
         <p>
           The Albuquerque Seismological Laboratory (ASL) was established in 1961 as a quiet site for testing seismometers for the WWSSN, but quickly became the installation and maintenance depot and data collection center as well.
@@ -55,14 +55,14 @@
       <li>
         <a href="/monitoring/gsn/">
           <h4>Global Seismographic Network (GSN)</h4>
-          <img src="images/gsn.jpg"/>
+          <img src="images/asl-gsn-2x.jpg" alt="GSN" width="150"/>
         </a>
         <p>World-wide seismic network.</p>
       </li>
       <li>
         <a href="/monitoring/anss/">
           <h4>Advanced National Seismic System (ANSS)</h4>
-          <img src="images/anss.gif"/>
+          <img src="images/asl-anss-2x.jpg" alt="ANSS" width="150"/>
         </a>
         <p>U.S. seismic network.</p>
       </li>

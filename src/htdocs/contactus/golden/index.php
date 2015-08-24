@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
 // Contact: Jill McCarthy
-// Last modified: 07/21/2015
+// Last modified: 08/14/2015
 if (!isset($TEMPLATE)) {
 $TITLE = 'Geologic Hazards Science Center, Golden, CO';
 $NAVIGATION = true;
@@ -28,9 +28,9 @@ include 'template.inc.php';
 
   <div class="column one-of-three">
       <figure>
-        <img src="images/neic_bldg.jpg" alt="Geologic Hazards Science Center/National Earthquake Information Center">
+        <img src="images/ghsc-neicbldg.jpg" alt="Geologic Hazards Science Center/National Earthquake Information Center">
         <figcaption>
-          Geologic Hazards Science Center/National Earthquake Information Center
+          Geologic Hazards Science Center/National Earthquake Information Center on the School of Mines campus in Golden, Colorado.
         </figcaption>
       </figure>
 
@@ -49,7 +49,7 @@ include 'template.inc.php';
       <li>
         <a href="neic.php">
           <h4>National Earthquake Information Center (NEIC)</h4>
-          <img src="images/NEIC.MediaCenter.jpg"/>
+          <img src="images/ghsc-neic-2x.jpg" alt="NEIC media center" width="150"/>
         </a>
         <p>The NEIC monitors earthquakes around the world in near-real-time.  Tours are available by appointment.</p>
       </li>
@@ -58,16 +58,16 @@ include 'template.inc.php';
       <li>
         <a href="/learn/topics/search.php?sendTopicID=&sendContentID=&sendLevelID=&sendRegionID=26">
           <h4>Intermountain West Earthquake Science</h4>
-          <img src="images/IMWtrench.jpg"/>
+          <img src="images/ghsc-trench-2x.jpg" alt="scientists in trench" width="150"/>
         </a>
-        <p>Almost 75 percent of Utah\'s population lives near the Wasatch Fault.</p>
+        <p>Almost 75 percent of Utah's population lives near the Wasatch Fault.</p>
       </li>
 
 <!-- Central US Education -->
 			<li>
 				<a href="/regional/ceus/workshop_2014feb25.php">
 					<h4>2014 Central and Eastern U.S. Earthquake Hazards Workshop</h4>
-					<img src="images/CEUSseis.gif"/>
+					<img src="images/ghsc-easternus-seis-2x.gif"/ alt="seismicity map of Central and Eastern U.S." width="150">
 				</a>
 				<p>Continuing concern exists for a major destructive earthquake in the New Madrid seismic zone.</p>
 			</li>
@@ -76,7 +76,7 @@ include 'template.inc.php';
 			<li>
 				<a href="/regional/ceus/products/OKeqanimation.php">
 					<h4>Animation of Oklahoma Seismicity</h4>
-					<img src="images/newsrelease_05022014_graph.gif" width="144"/>
+					<img src="images/ghsc-okanim-2x.jpg" alt="screenshot of animation frame" width="150"/>
 				</a>
 				<p>The rate of earthquakes in Oklahoma has increased remarkably since October 2013–by about 50 percent –significantly increasing the chance for a damaging magnitude 5.5 or greater quake in central Oklahoma.</p>
 			</li>
@@ -85,7 +85,7 @@ include 'template.inc.php';
 			<li>
 				<a href="/learn/topics/search.php?sendTopicID=&sendContentID=&sendLevelID=&sendRegionID=32">
 					<h4>Eastern US Earthquake Science</h4>
-					<img src="images/EasternUS.jpg"/>
+					<img src="images/ghsc-easternus-sci-2x.jpg" alt="map of Eastern U.S. showing earthquakes as white circles" width="150"/>
 				</a>
 				<p>In nearly all parts of the northeastern US, we do not yet know how to tell which fault caused an individual earthquake.</p>
 			</li>

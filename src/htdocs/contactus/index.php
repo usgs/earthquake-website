@@ -4,7 +4,6 @@
 // Last modified: 08/07/2015
   if (!isset($TEMPLATE)) {
   $TITLE = 'Contact Us';
-  $NAVIGATION = false;
   include 'template.inc.php';
   }
 ?>
