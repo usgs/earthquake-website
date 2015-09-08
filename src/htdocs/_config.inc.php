@@ -16,7 +16,7 @@ $SITE_SITENAV =
 $SITE_COMMONNAV =
   navItem(($SITE_URL), 'Home') .
   navItem('/aboutus/', 'About Us') .
-  navItem('/contactus/regional.php', 'Contact Us') .
+  navItem('/contactus/', 'Contact Us') .
   navItem('/legal.php', 'Legal');
 
 $HEAD =
@@ -43,5 +43,11 @@ $HEAD =
       '/lib/Universal-Federated-Analytics-Min.1.0.js' .
       '?agency=DOI&amp;subagency=USGS&amp;pua=UA-7320779-1' .
       '"></script>';
+
+// comments and questions default
+if (!isset($CONTACT)) {
+  $CONTACT = 'sis_eq_questions@usgs.gov';
+}
+$CONTACT_URL = 'mailto:{CONTACT}';
 
 ?>
