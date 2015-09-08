@@ -48,6 +48,6 @@ $HEAD =
 $CONTACT =
   'sis_eq_questions@usgs.gov';
 $CONTACT_URL =
-  '<a href="mailto: {CONTACT}"';
+  'mailto:{CONTACT}';
 
 ?>
