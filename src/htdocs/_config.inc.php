@@ -45,9 +45,11 @@ $HEAD =
       '"></script>';
 
 // comments and questions default
+if (!isset($CONTACT) {
 $CONTACT =
   'sis_eq_questions@usgs.gov';
 $CONTACT_URL =
   'mailto:{CONTACT}';
+}
 
 ?>
