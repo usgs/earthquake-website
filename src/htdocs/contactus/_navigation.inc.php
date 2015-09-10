@@ -19,6 +19,6 @@
 );
 
   echo navItem("${section}/media.php", "Media Contacts");
-  echo navItem("mailto:sis_eq_questions@usgs.gov?cc=lisa@usgs.gov", "Earthquake Questions and Website Feedback");
+  echo navItem("mailto:sis_eq_questions@usgs.gov", "Earthquake Questions and Website Feedback");
 
 ?>
