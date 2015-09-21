@@ -67,9 +67,7 @@
           <img src="images/pas-shakeout-2x.jpg" alt="shaking scenario for Southern CA ShakeOut" width="150"/>
         </a>
         <p>
-          Millions of people worldwide will practice how to Drop, Cover, and Hold On
-          at 10:16 a.m. on October 16* during Great ShakeOut Earthquake Drills, which
-          began in California in 2008.
+          Millions of people worldwide practice how to Drop, Cover, and Hold On each October during Great ShakeOut Earthquake Drills, which began in southern California in 2008.
         </p>
       </li>
 
