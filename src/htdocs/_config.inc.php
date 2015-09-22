@@ -48,6 +48,6 @@ $HEAD =
 if (!isset($CONTACT)) {
   $CONTACT = 'sis_eq_questions@usgs.gov';
 }
-$CONTACT_URL = 'mailto:{CONTACT}';
+$CONTACT_URL = 'mailto:{CONTACT}?subject=EHP%20Website%20Email%20';
 
 ?>
