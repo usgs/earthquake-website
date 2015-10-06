@@ -2,59 +2,37 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'Legal';
-  $HEAD = '<link rel="stylesheet" href="index.css"/>';
   include 'template.inc.php';
 }
-
 ?>
-
-<dl class="vertical legal-links">
-  <dt>
-    Accessibility
-  </dt>
-  <dd>
+<ul>
+  <li>
     <a href="http://www.usgs.gov/laws/accessibility.html">
-      http://www.usgs.gov/laws/accessibility.html
+      Accessibility
     </a>
-  </dd>
-  <dt>
-    DOI
-  </dt>
-  <dd>
+  </li>
+  <li>
     <a href="http://www.doi.gov/disclaimer.cfm">
-      http://www.doi.gov/disclaimer.cfm
+      DOI
     </a>
-  </dd>
-  <dt>
-    Freedom of Information Act (FOIA)
-  </dt>
-  <dd>
+  </li>
+  <li>
     <a href="http://www.usgs.gov/foia/">
-      http://www.usgs.gov/foia/
+      Freedom of Information Act (FOIA)
     </a>
-  </dd>
-  <dt>
-    Policies and Notices
-  </dt>
-  <dd>
+  </li>
+  <li>
     <a href="http://www.usgs.gov/laws/policies_notices.html">
-      http://www.usgs.gov/laws/policies_notices.html
+      Policies and Notices
     </a>
-  </dd>
-  <dt>
-    Privacy
-  </dt>
-  <dd>
+  </li>
+  <li>
     <a href="http://www.usgs.gov/laws/privacy.html">
-      http://www.usgs.gov/laws/privacy.html
+      Privacy
     </a>
-  </dd>
-  <dt>
-    USGS
-  </dt>
-  <dd>
+  </li>
+  <li>
     <a href="http://www.usgs.gov/laws/info_policies.html">
-      http://www.usgs.gov/laws/info_policies.html
+      USGS
     </a>
-  </dd>
-</dl>
+  </li>
