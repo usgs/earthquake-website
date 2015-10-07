@@ -7,7 +7,7 @@ $SITE_URL = 'http://earthquake.usgs.gov';
 $SITE_SITENAV =
   '<a href="/earthquakes/">Earthquakes</a>' .
   '<a href="/hazards/">Hazards</a>' .
-  '<a href="/data/">Data</a>' .
+  '<a href="/data/">Data &amp; Products</a>' .
   '<a href="/learn/">Learn</a>' .
   '<a href="/monitoring/">Monitoring</a>' .
   '<a href="/research/">Research</a>';
@@ -16,7 +16,7 @@ $SITE_SITENAV =
 $SITE_COMMONNAV =
   navItem(($SITE_URL), 'Home') .
   navItem('/aboutus/', 'About Us') .
-  navItem('/contactus/regional.php', 'Contact Us') .
+  navItem('/contactus/', 'Contact Us') .
   navItem('/legal.php', 'Legal');
 
 $HEAD =
@@ -43,5 +43,11 @@ $HEAD =
       '/lib/Universal-Federated-Analytics-Min.1.0.js' .
       '?agency=DOI&amp;subagency=USGS&amp;pua=UA-7320779-1' .
       '"></script>';
+
+// comments and questions default
+if (!isset($CONTACT)) {
+  $CONTACT = 'sis_eq_questions@usgs.gov';
+}
+$CONTACT_URL = 'mailto:{CONTACT}?subject=EHP%20Website%20Email%20';
 
 ?>
