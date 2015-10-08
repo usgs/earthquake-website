@@ -24,7 +24,7 @@ include 'template.inc.php';
     National &amp; International Earthquakes - NEIC</a><br/>
     1711 Illinois St., Golden, CO 80401,303-273-8500</li>
 
-  <li><a href="/menlo/">
+  <li><a href="menlo/">
     Western U.S. Earthquakes - USGS Earthquake Science Center</a><br/>
     345 Middlefield Rd. MS-977, Menlo Park, CA 94025 , 800-329-4085 or
     650-329-4668
@@ -34,7 +34,7 @@ include 'template.inc.php';
 <h2>Earthquake Engineering</h2>
 <ul>
   <li>
-    <a href="http://ce.caltech.edu/">
+    <a href="http://www.mce.caltech.edu/">
     Caltech Civil Engineering - Earthquake Engineering Research
     Laboratory</a><br/>
     Caltech Media Relations - 626-395-3227
@@ -102,8 +102,8 @@ include 'template.inc.php';
     500 C Street SW, Washington, DC 20472
   </li>
   <li>
-    <a href="http://www.calema.ca.gov/">
-    State of California Emergency Services (OES)</a><br/>
+    <a href="http://www.caloes.ca.gov/">
+    California Office of Emergency Services (CalOES)</a><br/>
     Southern California Information &amp; Public Affairs - 562-795-2941<br/>
     California Statewide Information &amp; Public Affairs - 916-262-1843
   </li>

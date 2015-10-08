@@ -149,7 +149,6 @@
     <h2>Regional Interest</h2>
     <ul>
       <li><a href="http://www.scsn.org/">Southern California Seismic Network (SCSN)</a></li>
-      <li><a href="http://www.scsn.org/commentary/">SCSN Weekly Seismicity Reports</a></li>
       <li><a href="http://www.cisn.org/">California Integrated Seismic Network (CISN)</a></li>
       <li><a href="http://www.seismolab.caltech.edu/">Caltech Seismo Lab</a></li>
   <li><a href="/research/salton/">Salton Seismic Imaging Project</a></li>
