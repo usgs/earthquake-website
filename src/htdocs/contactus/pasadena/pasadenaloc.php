@@ -14,8 +14,6 @@
 	91106-3212
 </p>
 <p>Main office: 626-583-7811</p>
-<p><a href="/regional/sca/contacts.php">Contact Us</a></p>
-<p><a href="/regional/sca/">Southern California, Pasadena Field Office Webpages </a></p>
 
 <h2>Directions to the Pasadena Office</h2>
 
