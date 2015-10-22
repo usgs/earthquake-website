@@ -35,7 +35,7 @@ var watch = {
       config.example + '/**/*'
     ],
     options: {
-      livereload: true
+      livereload: config.liveReloadPort
     }
   },
   gruntfile: {
