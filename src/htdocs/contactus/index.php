@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
 // Contact: Lisa Wald, lisa@usgs.gov
-// Last modified: 08/07/2015
+// Last modified: 11/24/2015
 if (!isset($TEMPLATE)) {
   $TITLE = 'Contact Us';
   include 'template.inc.php';
