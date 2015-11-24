@@ -1,11 +1,11 @@
 <?php
 // Author: Lisa Wald
 // Contact: Lisa Wald, lisa@usgs.gov
-// Last modified: 08/07/2015
-  if (!isset($TEMPLATE)) {
+// Last modified: 11/24/2015
+if (!isset($TEMPLATE)) {
   $TITLE = 'Contact Us';
   include 'template.inc.php';
-  }
+}
 ?>
 
 <div class="row">
@@ -24,7 +24,7 @@
     <ul>
     	<li><a href="seattle/">Seattle Field Office, Seattle, WA</a></li>
     	<li><a href="pasadena/">Pasadena Field Office, Pasadena, CA</a></li>
-    	<li><a href="aslloc.php">Albuquerque Seismological Laboratory</a></li>
+    	<li><a href="albuquerque/">Albuquerque Seismological Laboratory</a></li>
     </ul>
   </div>
 

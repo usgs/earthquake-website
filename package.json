@@ -1,6 +1,6 @@
 {
   "name": "earthquake-website",
-  "version": "0.0.4",
+  "version": "0.1.1",
   "description": "earthquake hazards program website",
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
     "grunt-contrib-uglify": "^0.9.1",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-mocha-phantomjs": "^0.7.0",
-    "hazdev-template": "usgs/hazdev-template.git",
+    "hazdev-template": "~0.2.0",
     "mocha": "^2.2.5"
   },
   "engines": {
