@@ -2,6 +2,7 @@
 // Author: Lisa Wald
 // Contact: Jill McCarthy
 // Last modified: 08/14/2015
+
 if (!isset($TEMPLATE)) {
 $TITLE = 'Geologic Hazards Science Center, Golden, CO';
 $NAVIGATION = true;
@@ -12,7 +13,7 @@ include 'template.inc.php';
 <!-- Intro, Photo, Directions and Contacts -->
 <div class="row">
   <div class="column two-of-three">
-    <p>
+    <p>This is a test. 
       The Geologic Hazards Science Center (GHSC), on the Colorado School of Mines
       campus, is home to the National Earthquake Information Center (NEIC), as well
       as the Geomagnetism Program staff, and many scientists in the Landslide
