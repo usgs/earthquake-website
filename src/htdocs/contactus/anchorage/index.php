@@ -74,13 +74,13 @@
   <div class="column one-of-three">
     <h2>Regional Interest</h2>
     <ul>
-      <li><a href="http://www.aeic.alaska.edu/">Alaska Earthquake Center (AEC)</a></li>
+      <li><a href="http://earthquake.alaska.edu/">Alaska Earthquake Center (AEC)</a> - Univ. of Alaska, Fairbanks</li>
       <li><a href="http://alaskaquakealliance.org/">Alaska Earthquake Alliance</a></li>
       <li><a href="http://www.avo.alaska.edu/">Alaska Volcano Observatory</a></li>
       <li><a href="http://wcatwc.arh.noaa.gov/">National Tsunami Warning Center</a></li>
       <li><a href="http://seismic.alaska.gov/">Alaska Seismic Hazards Safety Commission</a></li>
       <li><a href="http://www.dggs.alaska.gov/">Division of Geological &amp; Geophysical Surveys</a> - Alaska Department of Natural Resources</li>
-      <li><a href="http://www.gi.alaska.edu/">Geophysical Institute</a> - Iniversity of Alaska, Fairbanks</li>
+      <li><a href="http://www.gi.alaska.edu/">Geophysical Institute</a> - University of Alaska, Fairbanks</li>
     </ul>
 
   </div>
