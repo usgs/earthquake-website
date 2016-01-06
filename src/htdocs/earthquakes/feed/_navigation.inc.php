@@ -1,5 +1,6 @@
-<?php
-  include_once '../conf/config.inc.php';
+<?
+  include_once 'conf/config.inc.php';
+
   print navItem($FEED_URL . '/index.php', 'Feeds and Notifications');
   print navGroup('Real-time Feeds',
     navItem($FEED_URL . '/atom.php', 'ATOM') .
