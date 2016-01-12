@@ -1,8 +1,8 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = "Catalogs";
-
+  $TITLE = 'Catalogs';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 
@@ -11,10 +11,13 @@ include_once '../_functions.inc.php';
 $catalogs = get_json_metadata('.', 'index.json');
 
 echo '<ul>';
-foreach ($catalogs as $id => $metadata) {
+foreach ($catalogs as $catalog) {
+  $id = $catalog['id'];
+  $title = $catalog['title'];
+
   echo '<li>' .
       '<a href="' . $id . '/">' .
-        strtoupper($id) . ' - ' . $metadata['name'] .
+        strtoupper($id) . ' - ' . $title .
       '</a>' .
       '</li>';
 }

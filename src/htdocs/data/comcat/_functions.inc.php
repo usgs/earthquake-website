@@ -24,7 +24,7 @@ function get_json_metadata($dir='.', $metadata_file='index.json') {
     if (!file_exists($index)) {
       continue;
     }
-    $metadata[$f] = json_decode(file_get_contents($index), true);
+    $metadata[] = json_decode(file_get_contents($index), true);
   }
 
   return $metadata;

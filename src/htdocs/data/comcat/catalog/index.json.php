@@ -3,6 +3,11 @@
 include_once '../_functions.inc.php';
 $catalogs = get_json_metadata('.', 'index.json');
 
+
+// one day
+$CACHE_MAXAGE = 86400;
+include '../../../../lib/cache.inc.php';
+
 header('Content-type: application/json');
 
 
@@ -13,7 +18,7 @@ foreach ($catalogs as $id => &$metadata) {
     $metadata['logo'] = $base_url . '/' . $logo;
   }
 
-  $metadata['url'] = $base_url . '/catalogs/' . $id . '/';
+  $metadata['url'] = $base_url . '/catalog/' . $id . '/';
 }
 
 echo json_encode($catalogs);
