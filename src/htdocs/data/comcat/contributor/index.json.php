@@ -11,15 +11,28 @@ include '../../../../lib/cache.inc.php';
 header('Content-type: application/json');
 
 
-$base_url = '/data/comcat';
+$base_url = 'http://earthquake.usgs.gov/data/comcat';
+$output = array();
 foreach ($contributors as $contributor) {
+  // copy selected properties
+  $c = array();
+
   $id = $contributor['id'];
+
+  $c['id'] = $id;
+  $c['title'] = $contributor['title'];
+  $c['aliases'] = $contributor['aliases'];
+
+  // link to contributor page
+  $c['url'] = $base_url . '/contributor/' . $id . '/';
+
+  // logo if it exists
   $logo = 'logos/' . $id . '.svg';
   if (file_exists('../' . $logo)) {
-    $contributor['logo'] = $base_url . '/' . $logo;
+    $c['logo'] = $base_url . '/' . $logo;
   }
 
-  $contributor['url'] = $base_url . '/contributor/' . $id . '/';
+  $output[] = $c;
 }
 
-echo json_encode($contributors);
+echo json_encode($output);
