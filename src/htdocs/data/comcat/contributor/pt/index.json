@@ -4,5 +4,19 @@
   "url": "http://ptwc.weather.gov/",
   "aliases": [
     "ptwc"
+  ],
+  "email": "webmaster@ptwc.noaa.gov",
+  "address": {
+    "org": "U.S. Dept. of Commerce",
+    "street-address": "91-270 Fort Weaver Road",
+    "locality": "EWA Beach",
+    "region": "HI",
+    "postal-code": "96706-2928"
+  },
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-808-689-8207"
+    }
   ]
 }

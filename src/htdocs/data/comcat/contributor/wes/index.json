@@ -1,6 +1,24 @@
 {
   "id": "wes",
   "title": "Weston Observatory, Boston College, Weston, Massachusetts, USA",
-  "url": null,
-  "aliases": null
+  "url": "http://www.bc.edu/bc_org/avp/cas/wesobs/",
+  "aliases": null,
+  "email": "weston.observatory@bc.edu",
+  "address": {
+    "org": "Weston Observatory\nDept. of Geology and Geophysics, Boston College",
+    "street-address": "381 Concord Road",
+    "locality": "Weston",
+    "region": "MA",
+    "postal-code": "02493-1340"
+  },
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-617-552-8300"
+    },
+    {
+      "type": "Fax",
+      "value": "+1-617-552-8388"
+    }
+  ]
 }

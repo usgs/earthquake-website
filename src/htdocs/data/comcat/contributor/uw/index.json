@@ -4,5 +4,31 @@
   "url": "http://www.pnsn.org/",
   "aliases": [
     "pnsn"
+  ],
+  "email": "seis_info@ess.washington.edu",
+  "address": {
+    "org": "University of Washington, Department of Earth and Space Sciences",
+    "street-address": "Box 351310",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal-code": "98195-1310"
+  },
+  "tel": [
+    {
+      "type": "Earthquake Information",
+      "value": "+1-206-543-7010"
+    },
+    {
+      "type": "Voice (lab)",
+      "value": "+1-206-685-8180"
+    },
+    {
+      "type": "Voice (department)",
+      "value": "+1-206-543-1190"
+    },
+    {
+      "type": "Fax",
+      "value": "+1-206-543-0489"
+    }
   ]
 }

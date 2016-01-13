@@ -2,5 +2,23 @@
   "id": "uu",
   "title": "University of Utah Seismograph Stations",
   "url": "http://www.seis.utah.edu/",
-  "aliases": null
+  "aliases": null,
+  "email": "webmaster@seis.utah.edu",
+  "address": {
+    "org": "University of Utah Seismograph Stations",
+    "street-address": "135 South 1460 East",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal-code": "84112-0111"
+  },
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-801-581-6274"
+    },
+    {
+      "type": "Fax",
+      "value": "+1-801-585-5585"
+    }
+  ]
 }

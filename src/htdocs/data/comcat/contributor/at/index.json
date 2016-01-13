@@ -4,5 +4,13 @@
   "url": "http://ntwc.arh.noaa.gov",
   "aliases": [
     "atwc"
-  ]
+  ],
+  "email": "wcatwc@wcatwc.gov",
+  "address": {
+    "org": "National Tsunami Warning Center/NOAA/NWS",
+    "street-address": "910 S. Felton St.",
+    "locality": "Palmer",
+    "region": "AK",
+    "postal-code": "99645"
+  }
 }

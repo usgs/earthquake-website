@@ -15,6 +15,7 @@ if (!isset($TEMPLATE)) {
     $logo = '../../logos/' . $id . '.svg';
 
     $TITLE = strtoupper($id) . ' (Catalog)';
+    $NAVIGATION = true;
 
     if (file_exists($logo)) {
       $COOPERATORS =
