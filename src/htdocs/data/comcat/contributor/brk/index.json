@@ -1,0 +1,28 @@
+{
+  "id": "brk",
+  "title": "University of California, Berkeley, USA",
+  "url": "http://seismo.berkeley.edu/bdsn/",
+  "aliases": null,
+  "email": "www@seismo.berkeley.edu",
+  "address": {
+    "org": "U.C. Berkeley Seismological Laboratory",
+    "street-address": "207 McCone Hall",
+    "locality": "Berkeley",
+    "region": "CA",
+    "postal-code": "94720-4760"
+  },
+  "tel": [
+    {
+      "type": "Earthquake Information",
+      "value": "+1-510-642-2160"
+    },
+    {
+      "type": "Voice",
+      "value": "+1-510-642-3977"
+    },
+    {
+      "type": "Fax",
+      "value": "+1-510-643-5811"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mb",
+  "title": "Montana Bureau of Mines and Geology",
+  "url": "http://www.mbmg.mtech.edu/",
+  "aliases": null,
+  "email": "mstickney@mtech.edu",
+  "address": {
+    "org": "Earthquake Studies Office\nMontana Bureau of Mines and Geology",
+    "street-address": "1300 West Park Street",
+    "locality": "Butte",
+    "region": "MT",
+    "postal-code": "59701-8997"
+  },
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-406-496-4332"
+    },
+    {
+      "type": "Fax",
+      "value": "+1-406-496-4451"
+    }
+  ]
+}

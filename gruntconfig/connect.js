@@ -35,35 +35,12 @@ var connect = {
     ],
     options: {
       base: [
-        config.build + '/' + config.src + '/htdocs'
-       ],
-      livereload: config.liveReloadPort,
-      middleware: addMiddleware,
-      open: true,
-      port: config.srcPort
-    }
-  },
-
-  dist: {
-    proxies: [
-      {
-        context: '/theme',
-        host: 'localhost',
-        port: config.templatePort,
-        rewrite: {
-          '/theme': ''
-        }
-      }
-    ],
-    options: {
-      keepalive: true,
-      base: [
-        config.dist + '/' + 'htdocs'
+        config.src + '/htdocs'
       ],
       livereload: config.liveReloadPort,
       middleware: addMiddleware,
       open: true,
-      port: config.distPort
+      port: config.srcPort
     }
   },
 
@@ -72,9 +49,10 @@ var connect = {
       base: [
         'node_modules/hazdev-template/dist/htdocs'
       ],
+      middleware: addMiddleware,
       port: config.templatePort
     }
-  },
+  }
 };
 
 

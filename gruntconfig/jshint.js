@@ -13,8 +13,7 @@ var jshint = {
   scripts: [
     config.src + '/**/*.js',
     '!' + config.src + '/htdocs/lib/**/*.js'
-  ],
-  test: [config.test + '/**/*.js']
+  ]
 };
 
 module.exports = jshint;
