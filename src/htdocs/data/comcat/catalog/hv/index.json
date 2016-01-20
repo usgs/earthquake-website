@@ -1,0 +1,23 @@
+{
+  "id": "hv",
+  "title": "Hawaii Volcano Observatory",
+  "url": "http://hvo.wr.usgs.gov/",
+  "email": "hvowebmaster@hvo.wr.usgs.gov",
+  "address": {
+    "org": "U.S. Geological Survey\nHawaiian Volcano Observatory",
+    "street-address": "P.O. Box 51",
+    "locality": "Hawaii National Park",
+    "region": "HI",
+    "postal-code": "96718"
+  },
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-808-967-7328"
+    },
+    {
+      "type": "Fax",
+      "value": "+1-808-967-8890"
+    }
+  ]
+}

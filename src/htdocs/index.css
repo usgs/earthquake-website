@@ -1,0 +1,37 @@
+
+.main-featured > h2 {
+  margin-left: 1em;
+}
+
+.main-featured > div > p {
+  margin-top: 0;
+}
+
+.main-featured-image {
+  width: 100%;
+}
+
+.sub-features {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sections > ul {
+    list-style: none;
+    margin-top: 0;
+    padding: 0;
+}
+
+.sections > ul > li:nth-child(2n+1) {
+  clear:left;
+}
+.sections > ul > li > div > p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+dl.legal-links > dt {
+  font-weight: 500;
+  margin: 1em 0 0;
+}

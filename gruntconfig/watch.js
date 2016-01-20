@@ -7,32 +7,18 @@ var watch = {
     files: [
       config.src + '/**/*.js'
     ],
+    options: {
+      livereload: config.liveReloadPort
+    },
     tasks: [
-      'jshint:scripts',
-      'copy:build'
-    ]
-  },
-  php: {
-    files: [
-      config.src + '/**/*.php'
-    ],
-    tasks: [
-      'copy:build'
-    ]
-  },
-  scss: {
-    files: [
-      config.src + '/**/*.scss',
-      config.test + '/**/*.scss'
-    ],
-    tasks: [
-      'compass'
+      'jshint:scripts'
     ]
   },
   reload: {
     files: [
-      config.build + '/**/*',
-      config.example + '/**/*'
+      config.src + '/**/*',
+      // scripts
+      '!' + config.src + '/**/*.js'
     ],
     options: {
       livereload: config.liveReloadPort

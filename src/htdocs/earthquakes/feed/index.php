@@ -13,7 +13,7 @@
   <section class="one-of-two column">
     <h2>Real-time Feeds</h2>
 
-    <ul class="linklist">
+    <ul class="no-style linklist">
       <li>
         <a href="atom.php">
           <h3>ATOM Syndication</h3>

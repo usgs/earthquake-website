@@ -1,0 +1,29 @@
+{
+  "id": "nc",
+  "title": "Northern California Seismic System, UC Berkeley and USGS Menlo Park",
+  "url": "http://www.ncedc.org/",
+  "aliases": null,
+  "email": "ncsn@andreas.wr.usgs.gov",
+  "address": {
+    "org": "U.S. Geological Survey\nSeismology Section",
+    "street-address": "345 Middlefield Road",
+    "extended-address": "MS 977",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal-code": "94025"
+  },
+  "tel": [
+    {
+      "type": "Earthquake Information",
+      "value": "+1-650-329-4025"
+    },
+    {
+      "type": "Voice",
+      "value": "+1-650-329-4085"
+    },
+    {
+      "type": "Fax",
+      "value": "+1-650-329-5163"
+    }
+  ]
+}
