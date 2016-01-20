@@ -1,0 +1,18 @@
+{
+  "id": "nn",
+  "title": "Nevada Seismological Laboratory",
+  "url": "http://www.seismo.unr.edu/",
+  "aliases": null,
+  "email": null,
+  "address": null,
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-775-784-4975"
+    },
+    {
+      "type": "Fax",
+      "value": "+1-775-784-4165"
+    }
+  ]
+}
