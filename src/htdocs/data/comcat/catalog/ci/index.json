@@ -2,9 +2,6 @@
   "id": "ci",
   "title": "Caltech/USGS Southern California Seismic Network",
   "url": "http://scedc.caltech.edu",
-  "aliases": [
-    "pas"
-  ],
   "citation": "doi:10.7909/C3WD3xH1",
   "email": "jrand@gps.caltech.edu",
   "email-name": "Jennifer Andrews",
