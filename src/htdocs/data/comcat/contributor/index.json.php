@@ -11,7 +11,7 @@ include '../../../../lib/cache.inc.php';
 header('Content-type: application/json');
 
 
-$base_url = 'http://earthquake.usgs.gov/data/comcat';
+$base_url = get_host_url_prefix() . '/data/comcat';
 $output = array();
 foreach ($contributors as $contributor) {
   // copy selected properties

@@ -11,7 +11,7 @@ include '../../../../lib/cache.inc.php';
 header('Content-type: application/json');
 
 
-$base_url = '/data/comcat';
+$base_url = get_host_url_prefix() . '/data/comcat';
 foreach ($catalogs as $id => &$metadata) {
   $logo = 'logos/' . $id . '.svg';
   if (file_exists('../' . $logo)) {
