@@ -2,9 +2,6 @@
   "id": "pt",
   "title": "Pacific Tsunami Warning Center",
   "url": "http://ptwc.weather.gov/",
-  "aliases": [
-    "ptwc"
-  ],
   "email": "webmaster@ptwc.noaa.gov",
   "address": {
     "org": "U.S. Dept. of Commerce",

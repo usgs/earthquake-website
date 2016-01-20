@@ -5,6 +5,11 @@ var config = require('./config');
 
 var addMiddleware = function (connect, options, middlewares) {
   middlewares.unshift(
+    function (req, res, next) {
+      res.setHeader('Access-Control-Allow-Origin', '*');
+      res.setHeader('Access-Control-Allow-Methods', '*');
+      return next();
+    },
     require('grunt-connect-proxy/lib/utils').proxyRequest,
     require('gateway')(options.base[0], {
       '.php': 'php-cgi',
