@@ -3,14 +3,6 @@ include '../_catalog.inc.php';
 ?>
 
 
-<h3 id="citation">Citation</h3>
-<p>doi:10.7909/C3WD3xH1</p>
-
-
-<h3 id="contact">Contact</h3>
-<a href="mailto:jrand@gps.caltech.edu">Jennifer Andrews &lt;jrand@gps.caltech.edu&gt;</a>
-
-
 <h3 id="extent">Extent</h3>
 
 <dl>
@@ -32,7 +24,7 @@ include '../_catalog.inc.php';
 
 <h3 id="contributors">Contributors</h3>
 <ul>
-<li><a href="../../contributors/ci/">CI (Contributor)</a></li>
+<li><a href="../../contributor/ci/">CI (Contributor)</a></li>
 </ul>
 
 
