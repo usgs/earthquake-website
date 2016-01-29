@@ -20,22 +20,8 @@ include '../_contributor.inc.php';
   </dd>
 </dl>
 
-
-<h2 id="additional">Additional Information</h2>
+<h3 id="contributors">Contributors</h3>
 <ul>
-<li><a href="http://scedc.caltech.edu/about/BSSA_2010_Hutton_SCSN_cat.pdf">
-    http://scedc.caltech.edu/about/BSSA_2010_Hutton_SCSN_cat.pdf</a></li>
-<li><a href="http://scedc.caltech.edu/about/historic-data.html">
-    http://scedc.caltech.edu/about/historic-data.html</a></li>
-<li><a href="http://scedc.caltech.edu/eq-catalogs/change-history.html">
-    http://scedc.caltech.edu/eq-catalogs/change-history.html</a></li>
+<li><a href="../../catalog/ci/">CI (Catalog)</a></li>
 </ul>
 
-
-<h2>Other Notifications</h2>
-<ul>
-<li>As of 21:30 UTC September 22, 2015, events in the catalog have depths referenced
-to the WGS84 ellipsoid.  Prior to this date depths are referenced to the model
-datum.  We are in the process of migrating past data to the new datum and
-will post an announcement when that effort is finished.</li>
-</ul>
