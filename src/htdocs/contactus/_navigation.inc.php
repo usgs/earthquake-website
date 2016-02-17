@@ -1,6 +1,7 @@
 <?php
   $section = "/contactus";
 
+  echo navItem("${section}/", "Contact Us");
   echo navItem("${section}/headquarters.php", "Headquarters");
 
   echo navGroup(("Science Centers"),
@@ -19,7 +20,5 @@
 
   echo navItem("${section}/media.php", "Media Contacts");
   echo navItem("mailto:sis_eq_questions@usgs.gov", "Earthquake Questions and Website Feedback");
-
-  echo navItem("${section}/", "Contact Us");
 
 ?>
