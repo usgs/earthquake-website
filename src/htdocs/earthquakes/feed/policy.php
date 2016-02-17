@@ -1,11 +1,14 @@
 <?php
-  $TITLE = 'Feed Life Cycle Policy';
-  $HEAD = '
-    <link rel="stylesheet" href="policy.css"/>
-  ';
-
-  include_once 'feedfuncs.inc.php';
-  include_once 'template.inc.php';
+// Author: Lisa Wald
+// Contact: Web Development Team,
+// Last modified: 02/17/2016
+  if (!isset($TEMPLATE)) {
+    $TITLE = 'Feed Life Cycle Policy';
+    $NAVIGATION = true;
+    $HEAD = '<link rel="stylesheet" href="policy.css"/>';
+    include_once 'feedfuncs.inc.php';
+    include 'template.inc.php';
+  }
 ?>
 
 <div class="policy">
@@ -128,7 +131,7 @@
   <h3>Production Version</h3>
   <?php
   if ($CURRENT != '') {
-    print '<ul>' . 
+    print '<ul>' .
         feed_info($CURRENT, $VERSIONS['settings'][$CURRENT]) . '</ul>';
   } else {
     // This won't happen often
