@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
 // Contact: Web Development Team,
-// Last modified: 12/03/2015
+// Last modified: 02/17/2016
   if (!isset($TEMPLATE)) {
   $TITLE = 'Feeds and Notifications';
   $NAVIGATION = true;
@@ -15,7 +15,7 @@
 
     <ul class="no-style linklist">
       <li>
-        <a href="atom.php">
+        <a href="v1.0/atom.php">
           <h3>ATOM Syndication</h3>
           <img src="images/atom.png" alt="ATOM feed icon" width="75"/>
         </a>
@@ -27,7 +27,7 @@
       </li>
 
       <li>
-        <a href="kml.php">
+        <a href="v1.0/kml.php">
           <h3>Google Earth&trade; KML</h3>
           <img src="images/kml.png" alt="Google Earth icon" width="75"/>
         </a>
@@ -45,7 +45,7 @@
       -->
 
       <li>
-        <a href="csv.php">
+        <a href="v1.0/csv.php">
           <h3>Spreadsheet Format</h3>
           <img src="images/csv.png" alt="Spreadsheet icon"  width="75"/>
         </a>
@@ -57,7 +57,7 @@
       </li>
 
       <li>
-        <a href="quakeml.php">
+        <a href="v1.0/quakeml.php">
           <h3>QuakeML</h3>
           <img src="images/quakeml.png" alt="QuakeML icon"  width="75"/>
         </a>
@@ -107,24 +107,24 @@
         <a href="/fdsnws/event/1/">API Documentation - EQ Catalog</a>
       </li>
       <li>
-        <a href="/earthquakes/feed/v1.0/geojson.php">GeoJSON Summary Feed</a>
+        <a href="v1.0/geojson.php">GeoJSON Summary Feed</a>
       </li>
       <li>
-        <a href="/earthquakes/feed/v1.0/geojson_detail.php">
+        <a href="v1.0/geojson_detail.php">
             GeoJSON Detail Feed</a>
       </li>
       <li>
-        <a href="/earthquakes/feed/v1.0/changelog.php">Change Log</a>
+        <a href="v1.0/changelog.php">Change Log</a>
       </li>
       <li>
-        <a href="/earthquakes/feed/v1.0/../policy.php">
+        <a href="policy.php">
             Feed Lifecycle Policy</a>
       </li>
       <li>
         <a href="https://github.com/usgs/devcorner">Developers Corner</a> - tools for obtaining specific products from earthquake catalog
       </li>
       <li>
-        <a href="/earthquakes/feed/v1.0/glossary.php">
+        <a href="v1.0/glossary.php">
             Glossary - Earthquake Catalog Data Terms</a>
       </li>
       <li>
