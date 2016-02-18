@@ -1,0 +1,24 @@
+.pager_alert_pending {
+	background-color: #FFF;
+	color: #000;
+}
+
+.pager_alert_green {
+	background-color:#00b04f !important;
+	color: #fff !important;
+}
+
+.pager_alert_yellow {
+	background-color: #ff0 !important;
+	color: #000 !important;
+}
+
+.pager_alert_orange {
+	background-color: #f90 !important;
+	color: #000 !important;
+}
+
+.pager_alert_red {
+	background-color: #f00 !important;
+	color: #fff !important;
+}
