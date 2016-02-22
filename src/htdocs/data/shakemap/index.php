@@ -93,7 +93,7 @@ if (!isset($TEMPLATE)) {
       </li>
 
       <li>
-        <a href="/earthquakes/shakemap/list.php?s=1&y=2015">
+        <a href="/earthquakes/shakemap/list.php?x=1&s=1">
         <h4>Scenarios</h4>
         <img src="images/scenario-2x.jpg" alt="" width="75"/></a>
         <p>Earthquake Scenarios describe the expected ground motions and effects of specific hypothetical large earthquakes.</p>
