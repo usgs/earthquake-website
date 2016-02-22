@@ -16,7 +16,7 @@
     <ul class="no-style linklist">
       <li>
         <a href="v1.0/atom.php">
-          <h3>ATOM Syndication</h3>
+          <h4>ATOM Syndication</h4>
           <img src="images/atom.png" alt="ATOM feed icon" width="75"/>
         </a>
         <p>
@@ -28,7 +28,7 @@
 
       <li>
         <a href="v1.0/kml.php">
-          <h3>Google Earth&trade; KML</h3>
+          <h4>Google Earth&trade; KML</h4>
           <img src="images/kml.png" alt="Google Earth icon" width="75"/>
         </a>
         <p>
@@ -46,7 +46,7 @@
 
       <li>
         <a href="v1.0/csv.php">
-          <h3>Spreadsheet Format</h3>
+          <h4>Spreadsheet Format</h4>
           <img src="images/csv.png" alt="Spreadsheet icon"  width="75"/>
         </a>
         <p>
@@ -58,7 +58,7 @@
 
       <li>
         <a href="v1.0/quakeml.php">
-          <h3>QuakeML</h3>
+          <h4>QuakeML</h4>
           <img src="images/quakeml.png" alt="QuakeML icon"  width="75"/>
         </a>
         <p>
@@ -77,7 +77,7 @@
     <ul class="no-style linklist">
       <li>
         <a href="https://sslearthquake.usgs.gov/ens/">
-          <h3>Earthquake Notification Service</h3>
+          <h4>Earthquake Notification Service</h4>
           <img src="images/ens-x2.png" class='feeds-list-image'
               alt="Earthquake Notification Service icon"  width="75"/>
         </a>
@@ -90,7 +90,7 @@
 
       <li>
         <a href="/earthquakes/ted/">
-          <h3>Tweet Earthquake Dispatch</h3>
+          <h4>Tweet Earthquake Dispatch</h4>
           <img src="images/ted.png" alt="Tweet Earthquake Dispatch icon"  width="75"/>
         </a>
         <p>

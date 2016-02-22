@@ -1,6 +1,6 @@
 <?php
 
-print navItem('v1.0/index.php', 'Feeds and Notifications');
+print navItem('/earthquakes/feed/', 'Feeds and Notifications');
 
   print navGroup('Real-time Feeds',
     navItem('v1.0/atom.php', 'ATOM') .
