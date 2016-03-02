@@ -23,6 +23,8 @@ Center. Members of the USGS Earthquake Magnitude Working Group were:
 <li>Craig Weaver USGS, Seattle</li>
 </ul>
 
+<p><a href="significant_earthquake_magnitudes.pdf">Magnitudes of Significant Earthquakes</a></p>
+
 <p>
 The USGS Earthquake Magnitude Working Group compiled a list of significant,
 past earthquakes for which reliable magnitude estimates are available.
