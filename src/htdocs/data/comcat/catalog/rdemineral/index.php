@@ -25,23 +25,24 @@ of hypocentral parameters and realistic estimates of their uncertainties. The pr
 MLOC implements this method, which is described here.
 
 <h2 id="data">Data</h2>
-The data set of seismic phase arrival times used in this analysis includes picks from
-temporary seismograph stations that were installed by several research groups around the
-epicentral area; these picks were made by NEIC staff. Phase arrival times from permanent
-seismic stations from the ComCat (http://earthquake.usgs.gov/earthquakes/map/) and the
-bulletin of the International Seismological Centre (ISC) were also used. Arrival time
-picks from the ISC were not reviewed, but all arrival time data was subject to evaluation
-for outlier readings using empirically-derived estimates of reading error, as described
-in the relocation methodology, above.
+The data set of seismic phase arrival times used in this analysis includes
+picks from temporary seismograph stations that were installed by several
+research groups around the epicentral area; these picks were made by NEIC staff.
+Phase arrival times from permanent seismic stations from the ComCat
+(http://earthquake.usgs.gov/earthquakes/map/) and the bulletin of the International
+Seismological Centre (ISC) were also used. Arrival time picks from the ISC were not
+reviewed, but all arrival time data was subject to evaluation for outlier readings
+using empirically-derived estimates of reading error, as described in the
+relocation methodology, above.
 
 <h2 id="velocity-model">Velocity Model</h2>
 
-<p>The global 1-D travel time model ak135 (Kennett et al., 1995) fits the Mineral data well
-at local and near-regional distances, but the predicted travel times of direct crustal phases
-(Pg, Sg) in the distance range 40-60 km are a little late. Travel times for teleseismic
-phases were calculated with ak135 but for local and regional phases we calculated theoretical
-travel times with a model very similar to ak135 but with slightly higher velocities in the
-crust.</p>
+<p>The global 1-D travel time model ak135 (Kennett et al., 1995) fits the Mineral
+data well at local and near-regional distances, but the predicted travel times of
+direct crustal phases (Pg, Sg) in the distance range 40-60 km are a little late.
+Travel times for teleseismic phases were calculated with ak135 but for local and
+regional phases we calculated theoretical travel times with a model very similar
+to ak135 but with slightly higher velocities in the crust.</p>
 
 <table>
   <thead>
@@ -193,8 +194,8 @@ between 5-7 km and a lesser one around 3 km, and with uncertainties of 0.3 to 3.
 (median uncertainty 0.6 km).</p>
 
 <p>Because the focal depths and origin times of the Mineral
-subclusters are considered to be calibrated in addition to the epicenters, the calibration
-class is “CH” and 393 events are classified as CH01 or better</p>
+subclusters are considered to be calibrated in addition to the epicenters,
+the calibration class is “CH” and 393 events are classified as CH01 or better</p>
 
 <h2 id="empirical-reading-error">Empirical Reading Error</h2>
 
@@ -262,21 +263,22 @@ distribution.</p>
 <p>An important aspect of the relocation process consists of multiple cycles in
 which the current estimates of empirical reading error are used to identify
 outlier readings, which are then flagged so that they will not be used in
-subsequent relocations. In the following relocation, the new estimates of empirical
-reading errors will tend to be smaller because of the filtering of outliers
-and improvement in the locations of the clustered events. Therefore the process
-of identifying outliers is iterative and it must be repeated until convergence.
-In this context, "convergence" means that the distribution of residuals for a given
-station-phase is consistent with the current estimate of spread. As outlier
-readings are flagged, the distribution is expected to evolve toward a normal
-distribution with standard deviation σ equal to the empirical reading error.
-We generally continue this "cleaning" process until all readings used in the
-relocation are within 3σ of the mean for that station-phase, where σ is the
-current estimate of empirical reading error for the relevant station-phase.
-The procedures used to construct confidence ellipses and other estimates of
-hypocentral parameter uncertainty in mloc (and most other location algorithms)
-are based on the assumption that the residuals have a normal distribution. In the
-presence of outlier readings, the resulting uncertainty estimates will be
+subsequent relocations. In the following relocation, the new estimates of
+empirical reading errors will tend to be smaller because of the filtering of 
+outliers and improvement in the locations of the clustered events. Therefore
+the process of identifying outliers is iterative and it must be repeated
+until convergence. In this context, "convergence" means that the distribution
+of residuals for a given station-phase is consistent with the current
+estimate of spread. As outlier readings are flagged, the distribution is
+expected to evolve toward a normal distribution with standard deviation σ
+equal to the empirical reading error. We generally continue this "cleaning"
+process until all readings used in the relocation are within 3σ of the mean
+for that station-phase, where σ is the current estimate of empirical reading
+error for the relevant station-phase. The procedures used to construct
+confidence ellipses and other estimates of hypocentral parameter
+uncertainty in mloc (and most other location algorithms) are based on
+the assumption that the residuals have a normal distribution.  
+In the presence of outlier readings, the resulting uncertainty estimates will be
 biased.</p>
 
 <p>Because of inverse weighting in the HD algorithm, it is necessary to impose
@@ -287,10 +289,10 @@ is generally appropriate for the data sets obtained from standard earthquake
 catalogs, but smaller values can be permitted in special circumstances. For
 singlet station-phase arrival time data (only one observation) default values
 that are typical of many earthquake location algorithms (e.g., 0.5 s for
-teleseismic P) are applied. Singlet readings make no contribution to the estimate
-of relative locations in the HD algorithm, but they can be used to estimate
-the hypocentroid, in which case the reasonableness of the default value of
-empirical reading error must be evaluated for the particular data set in
+teleseismic P) are applied. Singlet readings make no contribution to the 
+estimate of relative locations in the HD algorithm, but they can be used to
+estimate the hypocentroid, in which case the reasonableness of the default value
+of empirical reading error must be evaluated for the particular data set in
 order to have confidence in the derived hypocentral parameter uncertainties.</p>
 
 <p>In summary, the use of empirical reading errors in mloc allows us to treat
@@ -319,9 +321,10 @@ the single “class” of the GTX system to four classes that allow an accuracy 
 to be assigned to any hypocenter. A great advantage of this extra complexity is
 the ability to distinguish between the different ways in which constraints on
 location accuracy may have been derived. Moreover we extend the GTX system
-to carry information about the accuracy of the hypocentral parameters focal depth
-and origin time, rather than the epicenter alone. This new classification system
-takes its name “GCNU” from the first letters of the names of the four classes:</p>
+to carry information about the accuracy of the hypocentral parameters focal
+depth and origin time, rather than the epicenter alone. This new classification
+system takes its name “GCNU” from the first letters of the names of the four 
+classes:</p>
 
 <ul>
   <li>G: ground truth</li>
@@ -329,7 +332,6 @@ takes its name “GCNU” from the first letters of the names of the four classe
   <li>N: network geometry criteria</li>
   <li>U: uncalibrated</li>
 </ul>
-
 
 <p>The general form of a location accuracy code in the GCNU system is four
 characters, of which the first is one of the letters indicating accuracy class,
@@ -339,6 +341,36 @@ numeric and together provide a length scale in km for the accuracy of the
 epicenter (equivalent to the “X” term in the GTX system. There are several
 exceptions to these general rules, as noted below.</p>
 
+<h2 id="ground-truth-the-g-class">Ground Truth: the G Class</h2>
+
+<p>This class has only two instances, both of which have only three
+characters. The GT0 nomenclature is reserved for traditional (or literal)
+ground truth, events for which all four hypocenter coordinates are known
+a priori at levels of accuracy which are negligible for the purpose at hand.
+For epicenter and focal depth these uncertainties are typically less than
+about a hundred meters. At a typical crustal P velocity of 6 km/s 100 meters
+represents 0.015 s, so origin time should be known to several hundredths of a
+second in order to be compatible. These limits may not be suitable for some
+engineering purposes or specialized source studies. The designation
+“ground truth” has traditionally been reserved for nuclear tests and carefully
+engineered chemical explosions. It is possible to obtain this level of accuracy
+with natural seismic sources that are especially heavily instrumented at close
+range but it is still preferable to use the C class in such cases.</p>
+
+<p>There is a need for a somewhat relaxed ground truth category, because even
+though the hypocentral parameters of a man-made explosion may be given a priori,
+the uncertainties may not meet the stricter requirements given above. This may
+be the case because of inadequate record keeping or the difficulty in carrying
+out suitably accurate surveying or timing prior to the availability of GPS
+technology. The GT1 category is meant for such cases. This still implies
+near-certain knowledge of location within a kilometer or so, with
+comparable uncertainty in origin time (several tenths of a second). Industrial
+explosions and even some nuclear tests may not meet this standard. Such events
+ought to be treated in the calibrated (C) class of events, as discussed below,
+rather than being assigned ground truth status with inflated scale lengths.</p>
+
+<p>No length scale greater than 1 should be used in this class. If the
+uncertainty is greater than that it is not ground truth.</p>
 
 <h2 id="references">References</h2>
 
