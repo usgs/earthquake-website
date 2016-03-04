@@ -444,6 +444,117 @@ question of bias.</p>
 practical considerations about the calibration of the various hypocentral
 parameters:</p>
 
+<h2 id="epicenter">Epicenter</h2>
+
+<p>Bias in epicentral coordinates can be minimized by means of seismological
+analysis (typically a location analysis), as well as by other means, including
+geological and remote-sensing analyses and a priori knowledge of
+human-engineered sources that may be too weak for ground truth status.
+It is quite common for the epicenter to be the only hypocentral parameter
+of an event that can be usefully constrained with minimal bias.</p>
+
+<h2 id="depth">Depth</h2>
+
+<p>Focal depth is more difficult to constrain than the epicentral coordinates.
+In the location analysis, it requires data at epicentral distances comparable
+to the focal depth itself, a few tens of kilometers for crustal events, a much
+stricter requirement than for the epicenter, which can be usefully constrained
+with stations 100 km or so away. This distance requirement can be ignored
+for waveform modeling, however, as well as for analyses of teleseismic depth phases,
+most famously emphasized by the EHB algorithm (Engdahl et al., 1998). Therefore
+the minimization of bias in focal depth can be part of the general location analysis,
+coupled with the estimate of a minimally-biased epicenter, or it can be constrained
+independently, even when the epicenter may be uncalibrated.</p>
+
+<h2 id="origin-time">Origin Time</h2>
+
+<p>Calibration of origin time is only fully possible when both the epicenter and
+focal depth can be calibrated. Unless it has been specified a priori for a
+human-engineered event it must be estimated from seismic arrival time data at the
+shortest possible epicentral distances, and any bias in the location parameters
+would propagate into origin time. It is quite common, however, to encounter cases
+where the epicenter and origin time of an event can be constrained with near-source
+data (not necessarily for the event in question but through linkage to other events
+in a multiple event analysis), but the focal depth of the event cannot be usefully
+constrained, other than as an average depth for a cluster of events, some of which
+have well-constrained depths, or through regional seismotectonic considerations.
+In this case the origin time itself cannot be considered to be unbiased, but since
+it is reliably coupled to the assumed focal depth, the combined hypocentral
+coordinates can still provide valuable information on empirical travel times
+from a specific point in the Earth.</p>
+
+<p>Given the above considerations there are three cases that need to be distinguished
+in the calibrated class of the nomenclature. In the following table, the asterisk
+indicates parameters that have been calibrated in some manner: </p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Epicenter</th>
+      <th>Focal Depth</th>
+      <th>Origin Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CH</td>
+      <td>*</td>
+      <td>*</td>
+      <td>*</td>
+    </tr>
+    <tr>
+      <td>CT</td>
+      <td>*</td>
+      <td> </td>
+      <td>*</td>
+    </tr>
+    <tr>
+      <td>CF</td>
+      <td>*</td>
+      <td>*</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>CE</td>
+      <td>*</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>CH (“H” refers to hypocenter). All four hypocentral coordinates have either
+been inferred by means that yield minimally-biased estimates or constrained
+a priori (as in some human-engineered events that don’t quite qualify for GT1
+status or better).</p>
+
+<p>CT (“T” refers to travel time). Epicenter has been calibrated; depth has been
+fixed at some assumed value (e.g., the average depth of nearby events with
+constrained depths); the estimate of origin time is based on local-distance
+data, but relative to an uncalibrated depth. Neither the focal depth not origin
+time can be considered calibrated in themselves but the combination can be used
+to estimate empirical travel times from the specific point in the Earth. Such
+events are not quite as valuable as CH events but still have considerable value
+as input to model-building exercises or as validation events.</p>
+
+<p>CF (“F” refers to focal depth). Epicenter and focal depth have been
+calibrated, but not origin time. An example could be an inSAR location for an
+event and depth calibrated either by an additional analysis of surface
+deformation to infer distributed displacement on a fault surface, or through
+waveform analysis. The estimate of origin time is not based on near-source 
+readings. These events can be used in validation exercises where their
+epicenters are compared with locations done with ray-traced travel-times
+through a model.</p>
+
+<p>CE (“E” refers to epicenter). The epicenter is calibrated. As with the
+CT class, depth has been fixed at some assumed (albeit reasonable) value.
+If the calibration of the epicenter has not been based on near-source seismic
+data (e.g., an InSAR location), the estimate of origin time must be based on
+regional or teleseismic arrivals and therefore cannot be considered calibrated
+, nor can it be used for estimate of empirical travel times. These events
+can be used in validation exercises where their epicenters are compared with
+locations done with ray-traced travel-times through a model.</p>
 
 <h2 id="references">References</h2>
 
