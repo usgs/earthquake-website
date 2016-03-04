@@ -5,44 +5,49 @@ include '../_catalog.inc.php';
 
 <h2 id="description">Description</h2>
 
-<p>This catalog of earthquake source parameters was derived by the USGS National
-Earthquake Information Center (NEIC) as part of a relocation study of the Mw 5.8
-Mineral, Virginia earthquake of August 23, 2011 and its aftershocks using a
-calibrated multiple event relocation method (McNamara et al., 2014). The purpose
-of this relocation analysis is to produce a set of reference hypocenters
-(with associated phase arrival times and empirical reading errors) for this source
-region that are especially well constrained, subject to minimal bias from unknown
-velocity structure and having realistic estimates of uncertainty based on the
-measured statistical properties of the data set.</p>
+<p>This catalog of earthquake source parameters was derived by the USGS
+National Earthquake Information Center (NEIC) as part of a relocation
+study of the Mw 5.8 Mineral, Virginia earthquake of August 23, 2011
+and its aftershocks using a calibrated multiple event relocation method
+(McNamara et al., 2014). The purpose of this relocation analysis is to
+produce a set of reference hypocenters (with associated phase arrival times
+and empirical reading errors) for this source region that are especially well
+constrained, subject to minimal bias from unknown velocity structure and having
+realistic estimates of uncertainty based on the measured statistical
+properties of the data set.</p>
+
+
 
 <h2 id="method">Method</h2>
-Refined estimates of the epicenters, focal depths and origin times of earthquakes
-in the Mineral sequence were estimated using a method based on the Hypocentroidal
-Decomposition (HD) algorithm introduced by Jordan and Sverdrup (1981), but
-extensively developed for application in calibrated relocation studies,
-i.e., relocation studies that are specialized to provide minimally biased estimates
-of hypocentral parameters and realistic estimates of their uncertainties. The program
+Refined estimates of the epicenters, focal depths and origin times of
+earthquakes in the Mineral sequence were estimated using a method based
+on the Hypocentroidal Decomposition (HD) algorithm introduced by Jordan
+and Sverdrup (1981), but extensively developed for application in
+calibrated relocation studies, i.e., relocation studies that are
+specialized to provide minimally biased estimates of hypocentral
+parameters and realistic estimates of their uncertainties. The program 
 MLOC implements this method, which is described here.
 
 <h2 id="data">Data</h2>
 The data set of seismic phase arrival times used in this analysis includes
 picks from temporary seismograph stations that were installed by several
-research groups around the epicentral area; these picks were made by NEIC staff.
-Phase arrival times from permanent seismic stations from the ComCat
-(http://earthquake.usgs.gov/earthquakes/map/) and the bulletin of the International
-Seismological Centre (ISC) were also used. Arrival time picks from the ISC were not
-reviewed, but all arrival time data was subject to evaluation for outlier readings
-using empirically-derived estimates of reading error, as described in the
-relocation methodology, above.
+research groups around the epicentral area; these picks were made by NEIC
+staff. Phase arrival times from permanent seismic stations from the ComCat
+(http://earthquake.usgs.gov/earthquakes/map/) and the bulletin of the
+International Seismological Centre (ISC) were also used. Arrival time
+picks from the ISC were not reviewed, but all arrival time data was subject
+to evaluation for outlier readings using empirically-derived estimates of
+reading error, as described in the relocation methodology, above.
 
 <h2 id="velocity-model">Velocity Model</h2>
 
-<p>The global 1-D travel time model ak135 (Kennett et al., 1995) fits the Mineral
-data well at local and near-regional distances, but the predicted travel times of
-direct crustal phases (Pg, Sg) in the distance range 40-60 km are a little late.
-Travel times for teleseismic phases were calculated with ak135 but for local and
-regional phases we calculated theoretical travel times with a model very similar
-to ak135 but with slightly higher velocities in the crust.</p>
+<p>The global 1-D travel time model ak135 (Kennett et al., 1995) fits the
+Mineral data well at local and near-regional distances, but the predicted
+travel times of direct crustal phases (Pg, Sg) in the distance range 40-60 km
+are a little late. Travel times for teleseismic phases were calculated with
+ak135 but for local and regional phases we calculated theoretical travel times
+with a model very similar to ak135 but with slightly higher velocities in the
+crust.</p>
 
 <table>
   <thead>
@@ -71,18 +76,21 @@ to ak135 but with slightly higher velocities in the crust.</p>
   </tbody>
 </table>
 
-<p>The HD algorithm used for the relocation analysis is limited in the number
-of events that can be relocated simultaneously by rapidly increasing computational time. 
-The practical limit is ~200 events, about half the number of events in the Mineral
-sequence that were recorded well enough to be relocated with high accuracy. We therefore 
-divided the sequence chronologically into three subclusters, which were relocated independently.
-Calibration of the Mineral subclusters was accomplished through the method of direct
-calibration, in which the hypocentroid, which establishes the location of the cluster in
-absolute terms, is estimated from arrival time readings at short epicentral distances to
-minimize the biasing effect of unknown velocity structure. For the Mineral subclusters the
-distance limit for data used to estimate the hypocentroid was 0.6°. Basic parameters for the
-three subclusters, including the number of P and S readings used to estimate the four
-hypocentral parameters of the hypocentroid are given in the table.</p>
+<p>The HD algorithm used for the relocation analysis is limited in
+the number of events that can be relocated simultaneously by rapidly
+increasing computational time.  The practical limit is ~200 events,
+about half the number of events in the Mineral sequence that were
+recorded well enough to be relocated with high accuracy. We therefore
+divided the sequence chronologically into three subclusters, which were
+relocated independently. Calibration of the Mineral subclusters was
+accomplished through the method of direct calibration, in which the
+hypocentroid, which establishes  the location of the cluster in absolute terms,
+is estimated from arrival time  readings at short epicentral distances to
+minimize the biasing effect of unknown velocity structure. For the Mineral
+subclusters the distance limit for data used to estimate the hypocentroid
+was 0.6°. Basic parameters for the three subclusters, including the
+number of P and S readings used to estimate the four hypocentral
+parameters of the hypocentroid are given in the table.</p>
 
 <table>
   <thead>
@@ -122,19 +130,20 @@ hypocentral parameters of the hypocentroid are given in the table.</p>
 
 <h2 id="calibrated-relocation-of-the-mineral-cluster">Calibrated Relocation of the Mineral Cluster</h2>
 
-<p>The HD algorithm used for the relocation analysis is limited in the number of
-events that can be relocated simultaneously by rapidly increasing computational
-time. The practical limit is ~200 events, about half the number of events in the
-Mineral sequence that were recorded well enough to be relocated with high accuracy.
-We therefore divided the sequence chronologically into three subclusters, which 
-were relocated independently. Calibration of the Mineral subclusters was accomplished
-through the method of direct calibration, in which the hypocentroid, which establishes
-the location of the cluster in absolute terms, is estimated from arrival time
-readings at short epicentral distances to minimize the biasing effect of unknown
-velocity structure. For the Mineral subclusters the distance limit for data used
-to estimate the hypocentroid was 0.6°. Basic parameters for the three subclusters,
-including the number of P and S readings used to estimate the four hypocentral
-parameters of the hypocentroid are given in the table.</p>
+<p>The HD algorithm used for the relocation analysis is limited in the
+number of events that can be relocated simultaneously by rapidly increasing
+computational time. The practical limit is ~200 events, about half the number
+of events in the Mineral sequence that were recorded well enough to be relocated
+with high accuracy. We therefore divided the sequence chronologically into three
+subclusters, which  were relocated independently. Calibration of the Mineral
+subclusters was accomplished through the method of direct calibration, in which
+the hypocentroid, which establishes the location of the cluster in absolute terms,
+is estimated from arrival time readings at short epicentral distances to minimize
+the biasing effect of unknown velocity structure. For the Mineral subclusters
+the distance limit for data used to estimate the hypocentroid was 0.6°. Basic
+parameters for the three subclusters, including the number of P and S readings
+used to estimate the four hypocentral parameters of the hypocentroid are given
+in the table.</p>
 
 <table>
   <thead>
@@ -171,27 +180,29 @@ parameters of the hypocentroid are given in the table.</p>
   </tbody>
 </table>
 
-<p>Estimates of relative locations (cluster vectors) in each subcluster were determined
-from arrival time data of stations at less than 10° epicentral distance. Only a few
-events in the cluster have significant amounts of data at greater distance, and we found
-that using those data introduced bias in the location of the mainshock epicenter, shifting
-it 1-2 km to the west, away from the aftershock pattern. The number of readings used to
-estimate the cluster vectors in each subcluster is slightly larger than the number of data
-used to estimate the hypocentroid.</p>
+<p>Estimates of relative locations (cluster vectors) in each subcluster
+were determined from arrival time data of stations at less than 10°
+epicentral distance. Only a few events in the cluster have significant
+amounts of data at greater distance, and we found that using those data
+introduced bias in the location of the mainshock epicenter, shifting it 1-2 km
+to the west, away from the aftershock pattern. The number of readings used
+to estimate the cluster vectors in each subcluster is slightly larger than
+the number of data used to estimate the hypocentroid.</p>
 
-<p>The hypocentroid of each subcluster was estimated with readings out to an epicentral 
-distance of 0.6°, to minimize the biasing effect of unmodeled
-crustal velocity variations. The calibration level of the hypocentroids of the subclusters
-is 0.1-0.2 km. The full uncertainty for hypocentral parameters for any given event is
-obtained by adding the uncertainty of the cluster vector for that event to the uncertainty
-of the appropriate hypocentroid. The full epicentral uncertainty, characterized by the longer
-semi-axis of the 90% confidence ellipse, is less than 1.5 km for 393 events out of 397 that
-were relocated.</p>
+<p>The hypocentroid of each subcluster was estimated with readings out to an
+epicentral  distance of 0.6°, to minimize the biasing effect of unmodeled
+crustal velocity variations. The calibration level of the hypocentroids 
+of the subclusters is 0.1-0.2 km. The full uncertainty for hypocentral 
+parameters for any given event is obtained by adding the uncertainty of the
+cluster vector for that event to the  uncertainty of the appropriate hypocentroid.
+The full epicentral uncertainty, characterized by the longer semi-axis of the 90%
+confidence ellipse, is less than 1.5 km for 393 events out of 397 that were
+relocated.</p>
 
-<p>Focal depths for all events were estimated during early runs with free depth
-solutions then held fixed in later relocations. Depths range from 0-11 km with a major peak
-between 5-7 km and a lesser one around 3 km, and with uncertainties of 0.3 to 3.8 km
-(median uncertainty 0.6 km).</p>
+<p>Focal depths for all events were estimated during early runs with
+free depth solutions then held fixed in later relocations. Depths range
+from 0-11 km with a major peak between 5-7 km and a lesser one around 3 km,
+and with uncertainties of 0.3 to 3.8 km (median uncertainty 0.6 km).</p>
 
 <p>Because the focal depths and origin times of the Mineral
 subclusters are considered to be calibrated in addition to the epicenters,
@@ -199,38 +210,41 @@ the calibration class is “CH” and 393 events are classified as CH01 or bette
 
 <h2 id="empirical-reading-error">Empirical Reading Error</h2>
 
-<p>The concept of "reading error" in earthquake location is normally understood as
-an estimate of the uncertainty of the reading of the arrival time ("pick") of a
-specific seismic phase on the seismogram of a specific earthquake. Seismic analysts
-rarely provide their own estimate of that uncertainty beyond a qualitative
-characterization as "emergent" or "impulsive", and earthquake location codes that
-employ a quantitative estimate of reading error, e.g., for inverse weighting,
-normally use an ad hoc value based on phase type. It is very important to realize
-that estimates of hypocenter uncertainty in any earthquake location algorithm
-depend on the accuracy of the uncertainties assumed for the data, as well as the
-proper treatment of other sources of uncertainty in the estimation process. This is
-a significant weakness of most earthquake location analyses.</p>
+<p>The concept of "reading error" in earthquake location is normally
+understood as an estimate of the uncertainty of the reading of the
+arrival time ("pick") of a specific seismic phase on the seismogram
+of a specific earthquake. Seismic analysts rarely provide their own estimate
+of that uncertainty beyond a qualitative characterization as "emergent" or
+"impulsive", and earthquake location codes that employ a quantitative
+estimate of reading error, e.g., for inverse weighting, normally use an
+ad hoc value based on phase type. It is very important to realize that
+estimates of hypocenter uncertainty in any earthquake location algorithm 
+depend on the accuracy of the uncertainties assumed for the data, as well as
+the proper treatment of other sources of uncertainty in the estimation process.
+This is a significant weakness of most earthquake location analyses.</p>
 
-<p>“Empirical reading error” is a related concept, based on multiple event relocation,
-i.e., location analysis of a clustered group of earthquakes. The specific
-implementation discussed here is the one developed for use in the program mloc that
-is based on the Hypocentroidal Decomposition (HD) algorithm of Jordan and
-Sverdrup (1981). Seismic stations often observe the same seismic phase for multiple
-events in such a cluster. The resulting multiple observations of the same
-"station-phase" provide an opportunity to carry out a statistical analysis which
-leads to an estimate of the uncertainty of those readings that is based on the
-readings themselves, thus "empirical". It would be more correct to refer to this
-as an "empirical reading uncertainty" or even “empirical reading consistency”, but
-we follow the traditional seismological terminology. It is also important to note
-that this concept of empirical reading error includes contributions to the scatter
-of readings beyond reading error per se, i.e., i.e., the ability of the analyst
-to specify the “correct” time of onset time of a seismic phase arrival. For example
-it also absorbs differences in travel time to a station through a heterogeneous
-Earth from events that are not exactly co-located, as well as scatter arising from
-the different philosophies of arrival time picking used by different analysts,
-differences caused by picking from different channels or instrument responses,
-changes in station equipment, minor changes in instrument location, irregularities
-in timing systems, differences in the precision to which picks are reported, etc..</p>
+<p>“Empirical reading error” is a related concept, based on multiple event
+relocation, i.e., location analysis of a clustered group of earthquakes.
+The specific implementation discussed here is the one developed for use
+in the program mloc that is based on the Hypocentroidal Decomposition (HD)
+algorithm of Jordan and Sverdrup (1981). Seismic stations often observe the
+same seismic phase for multiple events in such a cluster. The resulting
+multiple observations of the same "station-phase" provide an opportunity to
+carry out a statistical analysis which leads to an estimate of the uncertainty
+of those readings that is based on the readings themselves, thus "empirical".
+It would be more correct to refer to this as an "empirical reading uncertainty"
+or even “empirical reading consistency”, but we follow the traditional
+seismological terminology. It is also important to note that this concept of
+empirical reading error includes contributions to the scatter of readings 
+beyond reading error per se, i.e.,  the ability of the analyst to specify 
+the “correct” time of onset time of a seismic phase arrival. For example 
+it also absorbs differences in travel time to a station through
+a heterogeneous Earth from events that are not exactly co-located, as well
+as scatter arising from the different philosophies of arrival time picking
+used by different analysts, differences caused by picking from different
+channels or instrument responses, changes in station equipment, minor changes
+in instrument location, irregularities in timing systems, differences in the
+precision to which picks are reported, etc..</p>
 
 <p>Empirical reading errors are estimated as the spread of the distribution of
 travel time residuals for a given station-phase (for example, the Pn phase
@@ -254,16 +268,16 @@ i.e., one that is not sensitive to outliers, which are very common in arrival
 time data sets. The familiar statistic standard deviation is a very non-robust
 measure of spread. We employ the estimator Sn proposed by Croux and
 Rousseeuw (1992). Note that this has nothing to do with the seismic phase
-Sn. This measure of scale or spread has three desirable properties, 1) it requires
-no assumptions about the nature of the underlying distribution, 2) it requires no
-estimate of the central tendency (e.g., the mean or median) of the distribution,
-and 3) it reduces to the standard deviation if applied to a Gaussian 
-distribution.</p>
+Sn. This measure of scale or spread has three desirable properties, 1) it
+requires no assumptions about the nature of the underlying distribution,
+2) it requires no estimate of the central tendency (e.g., the mean or median)
+of the distribution, and 3) it reduces to  the standard deviation if applied
+to a Gaussian  distribution.</p>
 
-<p>An important aspect of the relocation process consists of multiple cycles in
-which the current estimates of empirical reading error are used to identify
-outlier readings, which are then flagged so that they will not be used in
-subsequent relocations. In the following relocation, the new estimates of
+<p>An important aspect of the relocation process consists of multiple cycles
+in which the current estimates of empirical reading error are used to
+identify outlier readings, which are then flagged so that they will not be used
+in subsequent relocations. In the following relocation, the new estimates of
 empirical reading errors will tend to be smaller because of the filtering of 
 outliers and improvement in the locations of the clustered events. Therefore
 the process of identifying outliers is iterative and it must be repeated
@@ -278,22 +292,23 @@ error for the relevant station-phase. The procedures used to construct
 confidence ellipses and other estimates of hypocentral parameter
 uncertainty in mloc (and most other location algorithms) are based on
 the assumption that the residuals have a normal distribution.  
-In the presence of outlier readings, the resulting uncertainty estimates will be
-biased.</p>
+In the presence of outlier readings, the resulting uncertainty estimates
+will be biased.</p>
 
-<p>Because of inverse weighting in the HD algorithm, it is necessary to impose
-minimum allowed values for empirical reading errors to prevent unrealistically
-small estimates from arising when the sample size is small and values are very
-near one another, or identical. We normally use 0.15 s as a minimum which
-is generally appropriate for the data sets obtained from standard earthquake
-catalogs, but smaller values can be permitted in special circumstances. For
-singlet station-phase arrival time data (only one observation) default values
-that are typical of many earthquake location algorithms (e.g., 0.5 s for
-teleseismic P) are applied. Singlet readings make no contribution to the 
-estimate of relative locations in the HD algorithm, but they can be used to
-estimate the hypocentroid, in which case the reasonableness of the default value
-of empirical reading error must be evaluated for the particular data set in
-order to have confidence in the derived hypocentral parameter uncertainties.</p>
+<p>Because of inverse weighting in the HD algorithm, it is necessary
+to impose minimum allowed values for empirical reading errors to
+prevent unrealistically small estimates from arising when the sample
+size is small and values are very near one another, or identical. We
+normally use 0.15 s as a minimum which is generally appropriate for the
+data sets obtained from standard earthquake catalogs, but smaller values
+can be permitted in special circumstances. For singlet station-phase arrival
+time data (only one observation) default values that are typical of many
+earthquake location algorithms (e.g., 0.5 s for teleseismic P) are applied.
+Singlet readings make no contribution to the  estimate of relative locations
+in the HD algorithm, but they can be used to estimate the hypocentroid, in
+which case the reasonableness of the default value of empirical reading
+error must be evaluated for the particular data set in order to have confidence
+in the derived hypocentral parameter uncertainties.</p>
 
 <p>In summary, the use of empirical reading errors in mloc allows us to treat
 the derived hypocentral uncertainties with considerable confidence. Althoug
@@ -334,12 +349,13 @@ classes:</p>
 </ul>
 
 <p>The general form of a location accuracy code in the GCNU system is four
-characters, of which the first is one of the letters indicating accuracy class,
-as listed above. The second character carries information on which hypocentral
-parameters can be considered calibrated. The third and fourth characters are
-numeric and together provide a length scale in km for the accuracy of the
-epicenter (equivalent to the “X” term in the GTX system. There are several
-exceptions to these general rules, as noted below.</p>
+characters, of which the first is one of the letters indicating
+accuracy class, as listed above. The second character carries information
+on which hypocentral parameters can be considered calibrated. The third
+and fourth characters are numeric and together provide a length scale in
+km for the accuracy of the epicenter (equivalent to the “X” term in the
+GTX system. There are several exceptions to these general rules, as noted
+below.</p>
 
 <h2 id="ground-truth-the-g-class">Ground Truth: the G Class</h2>
 
@@ -371,6 +387,63 @@ rather than being assigned ground truth status with inflated scale lengths.</p>
 
 <p>No length scale greater than 1 should be used in this class. If the
 uncertainty is greater than that it is not ground truth.</p>
+
+<h2 id="ground-truth-the-C-class">Ground Truth: the C Class</h2>
+<p>In contrast to the ground truth class, where the concern is primarily 
+with the scale of random error in the hypocentral parameters, the class
+of calibrated events is dominated by concern that the estimation process
+which has been used to determine hypocentral parameters may have introduced
+significant bias. Therefore we are very much concerned about minimizing bias
+and understanding which hypocentral parameters may be treated as effectively
+bias-free. Obviously we also desire to estimate the hypocentral parameters
+such that the formal uncertainties (driven by uncertainty in the data), usually
+expressed in Gaussian terms, are as small as possible; this will be handled
+similarly to the “X” in the GTX formulation, discussed below in the
+section “Scale Length”.</p>
+
+<p>A very important point about the calibrated class of events, is that it
+includes only events for which the epicenter (at least) has been determined
+in such a way as to minimize bias. Although a bit unsatisfying in a logical
+sense, this policy reflects the reality that the seismological community
+overwhelmingly thinks of ground truth or GT events (using the popular current
+nomenclature) as referring only to the epicenter. The other important point to
+be made is that this class requires an actual location analysis, not just the
+application of some set of network geometry criteria such as those presented by
+Bondar et al. (2004). In other words, application of network geometry criteria
+to estimate location accuracy may be a precursor to calibration analysis, but
+is not a substitute for it.</p>
+
+<p>Given that we do not know the Earth’s velocity structure to sufficient
+accuracy, the only way to reduce bias for an event that was not engineered
+is to keep path lengths through the unknown Earth structure as short as
+possible. In other words only near-source data should be employed for
+estimating calibrated parameters. “Near source data” is not restricted to
+seismological stations at short epicentral distance, although that is by far
+the most common case. Mapped surface faulting, treated with all due geological
+sensitivity, may serve as near source data for the purpose of constraining an
+epicenter, as may InSAR or other types of remote sensing analyses, since the
+ultimate signal (e.g., surface deformation) is not subject to bias from unknown
+Earth structure. InSAR analysis, through determination of the distribution of
+rupture on a fault plane, may be used to reduce bias in focal depth. Waveform
+modeling (even at regional or teleseismic distances) may similarly provide
+useful near-source constraint on focal depth through analysis of the
+interference of direct and near-source surface-reflected phases.</p>
+
+<p>Unfortunately, there is no methodology for obtaining usefully-calibrated
+hypocenters for deep earthquakes because every available data type must
+propagate through an excessive volume of material with insufficiently
+well-known velocity. The exact definition of “deep” in this context must
+be evaluated on a case-by-case basis, but it probably includes any event
+deeper than about 100 km. If uncertainties in velocity structure
+(and their effect on raypath geometry) are honestly propagated into the
+uncertainties of the derived location parameters, then the issue will be
+resolved by the increasing uncertainty of the location, leaving aside th
+question of bias.</p>
+
+<p>The nomenclature for the calibrated class is based on the following
+practical considerations about the calibration of the various hypocentral
+parameters:</p>
+
 
 <h2 id="references">References</h2>
 
