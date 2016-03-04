@@ -15,21 +15,33 @@ region that are especially well constrained, subject to minimal bias from unknow
 velocity structure and having realistic estimates of uncertainty based on the
 measured statistical properties of the data set.</p>
 
-<p>The hypocentroid is estimated with readings out to 0.6°. The calibration level of the
-hypocentroid is 0.2 km and 134 events qualify as CE01 or better.  Focal depths for
-all events were estimated during early runs with free depth solutions then held
-fixed in later relocations.  Depths range from 0-11 km with a peak between 5-8 km
-and uncertainties of 0.3 to 3.8 km (median 0.6 km).</p>
+<h2 id="method">Method</h2>
+Refined estimates of the epicenters, focal depths and origin times of earthquakes
+in the Mineral sequence were estimated using a method based on the Hypocentroidal
+Decomposition (HD) algorithm introduced by Jordan and Sverdrup (1981), but
+extensively developed for application in calibrated relocation studies,
+i.e., relocation studies that are specialized to provide minimally biased estimates
+of hypocentral parameters and realistic estimates of their uncertainties. The program
+MLOC implements this method, which is described here.
 
+<h2 id="data">Data</h2>
+The data set of seismic phase arrival times used in this analysis includes picks from
+temporary seismograph stations that were installed by several research groups around the
+epicentral area; these picks were made by NEIC staff. Phase arrival times from permanent
+seismic stations from the ComCat (http://earthquake.usgs.gov/earthquakes/map/) and the
+bulletin of the International Seismological Centre (ISC) were also used. Arrival time
+picks from the ISC were not reviewed, but all arrival time data was subject to evaluation
+for outlier readings using empirically-derived estimates of reading error, as described
+in the relocation methodology, above.
 
 <h2 id="velocity-model">Velocity Model</h2>
 
-<p>The global 1-D travel time model ak135 fits the data well at local and near-regional
-distances, but the predicted travel times in the distance range 40-60 km are a little
-late. I am using a model very similar to ak135 but with slightly higher velocities in
-the crust; with those velocities the Pn and Sn readings are fit by a Moho depth of 37
-km. This model fits the data very well out to about 10°, but beyond that distance
-Pn arrivals arrive than predicted.</p>
+<p>The global 1-D travel time model ak135 (Kennett et al., 1995) fits the Mineral data well
+at local and near-regional distances, but the predicted travel times of direct crustal phases
+(Pg, Sg) in the distance range 40-60 km are a little late. Travel times for teleseismic
+phases were calculated with ak135 but for local and regional phases we calculated theoretical
+travel times with a model very similar to ak135 but with slightly higher velocities in the
+crust.</p>
 
 <table>
   <thead>
@@ -41,34 +53,66 @@ Pn arrivals arrive than predicted.</p>
   </thead>
   <tbody>
     <tr>
-      <td>0.000</td>
-      <td>5.950</td>
-      <td>3.600</td>
+      <td>0-20</td>
+      <td>5.95</td>
+      <td>3.60</td>
     </tr>
     <tr>
-      <td>20.000</td>
-      <td>5.950</td>
-      <td>3.600</td>
+      <td>20-37</td>
+      <td>6.45</td>
+      <td>3.85</td>
     </tr>
     <tr>
-      <td>20.000</td>
-      <td>6.450</td>
-      <td>3.850</td>
+      <td>>37</td>
+      <td>8.10</td>
+      <td>4.5</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The HD algorithm used for the relocation analysis is limited in the number
+of events that can be relocated simultaneously by rapidly increasing computational time. 
+The practical limit is ~200 events, about half the number of events in the Mineral
+sequence that were recorded well enough to be relocated with high accuracy. We therefore divided the sequence chronologically into three subclusters, which were relocated independently.
+Calibration of the Mineral subclusters was accomplished through the method of direct
+calibration, in which the hypocentroid, which establishes the location of the cluster in
+absolute terms, is estimated from arrival time readings at short epicentral distances to
+minimize the biasing effect of unknown velocity structure. For the Mineral subclusters the
+distance limit for data used to estimate the hypocentroid was 0.6°. Basic parameters for the
+three subclusters, including the number of P and S readings used to estimate the four
+hypocentral parameters of the hypocentroid are given in the table.</p>
+
+<table>
+  <thead>
+    <tr>
+    	<th> </th>
+      <th># Events</th>
+      <th>Mag Range</th>
+      <th>Dates (2013)</th>
+      <th># Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>minerala</td>
+      <td>135</td>
+      <td>5.8-0.1</td>
+      <td>2013/8/23 - 2013/9/5</td>
+      <td>2610</td>
     </tr>
     <tr>
-      <td>37.000</td>
-      <td>6.450</td>
-      <td>3.850</td>
+      <td>mineralb</td>
+      <td>148</td>
+      <td>3.0-0.2</td>
+      <td>2013/9/5 - 2013/10/31</td>
+      <td>3357</td>
     </tr>
     <tr>
-      <td>37.000</td>
-      <td>8.100</td>
-      <td>4.500</td>
-    </tr>
-    <tr>
-      <td>120.000</td>
-      <td>8.100</td>
-      <td>4.500</td>
+      <td>mineralc</td>
+      <td>114</td>
+      <td>3.8-1.8</td>
+      <td>2013/11/2 - 2012/5/2</td>
+      <td>2085</td>
     </tr>
   </tbody>
 </table>
