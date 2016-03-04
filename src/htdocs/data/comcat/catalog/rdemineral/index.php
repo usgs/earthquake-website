@@ -5,16 +5,15 @@ include '../_catalog.inc.php';
 
 <h2 id="description">Description</h2>
 
-<p>The arrival time readings used in this analysis were made by NEIC, including picking
-of non-real-time temporary seismograph stations that were installed around the
-epicentral area.   Also used were permanent seismic stations at distances less than
-about 1000 km. Additional readings from the USGS/NEIC ComCat and the ISC were
-added.  Earthquake locations were done using Hypocentral Decomposition (Jordan
-and Sverdrup, 1981).   Estimates of relative locations (cluster vectors) were
-restricted to stations at less than 10°.  Only a few events in the cluster have
-significant amounts of data at greater distance, and we found that using those data
-introduced bias in the location of the mainshock epicenter, shifting it 1-2 km to the
-west, away from the aftershock pattern.</p>
+<p>This catalog of earthquake source parameters was derived by the USGS National
+Earthquake Information Center (NEIC) as part of a relocation study of the Mw 5.8
+Mineral, Virginia earthquake of August 23, 2011 and its aftershocks using a
+calibrated multiple event relocation method (McNamara et al., 2014). The purpose
+of this relocation analysis is to produce a set of reference hypocenters
+(with associated phase arrival times and empirical reading errors) for this source
+region that are especially well constrained, subject to minimal bias from unknown
+velocity structure and having realistic estimates of uncertainty based on the
+measured statistical properties of the data set.</p>
 
 <p>The hypocentroid is estimated with readings out to 0.6°. The calibration level of the
 hypocentroid is 0.2 km and 134 events qualify as CE01 or better.  Focal depths for
