@@ -303,6 +303,41 @@ picking process can partially compensate. Failure to adequately characterize
 data uncertainties in the hypocenter estimation process leads to bias in the
 derived parameters and their uncertainties.</p>
 
+<h2 id="earthquake-location-accuracy">Earthquake Location Accuracy</h2>
+
+<p>Here we provide a description of a system of codes used to characterize the
+accuracy of earthquake locations determined with mloc, a multiple event
+relocation program based on the Hypocentroidal Decomposition algorithm of
+Jordan and Sverdrup (1981), but extensively developed for application in
+calibrated relocation studies, i.e., relocation studies that are specialized
+to provide minimally biased estimates of hypocentral parameters and realistic
+estimates of their uncertainties.</p>
+
+<p>The classification system described here is an extension of the well-known
+“GTX” system (e.g., Bondar et al., 2004). The primary extension is to generalize
+the single “class” of the GTX system to four classes that allow an accuracy code
+to be assigned to any hypocenter. A great advantage of this extra complexity is
+the ability to distinguish between the different ways in which constraints on
+location accuracy may have been derived. Moreover we extend the GTX system
+to carry information about the accuracy of the hypocentral parameters focal depth
+and origin time, rather than the epicenter alone. This new classification system
+takes its name “GCNU” from the first letters of the names of the four classes:</p>
+
+<ul>
+  <li>G: ground truth</li>
+  <li>C: calibrated</li>
+  <li>N: network geometry criteria</li>
+  <li>U: uncalibrated</li>
+</ul>
+
+
+<p>The general form of a location accuracy code in the GCNU system is four
+characters, of which the first is one of the letters indicating accuracy class,
+as listed above. The second character carries information on which hypocentral
+parameters can be considered calibrated. The third and fourth characters are
+numeric and together provide a length scale in km for the accuracy of the
+epicenter (equivalent to the “X” term in the GTX system. There are several
+exceptions to these general rules, as noted below.</p>
 
 
 <h2 id="references">References</h2>
