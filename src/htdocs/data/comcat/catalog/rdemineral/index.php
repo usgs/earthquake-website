@@ -556,14 +556,139 @@ regional or teleseismic arrivals and therefore cannot be considered calibrated
 can be used in validation exercises where their epicenters are compared with
 locations done with ray-traced travel-times through a model.</p>
 
+<h2 id="network-geometry-criteria-the-n-class">Network Geometry Criteria:
+The N Class</h2>
+<p>Events in the N class are not considered to be calibrated in the sense
+defined here, but the arrival time data set has been processed with some
+network criteria (e.g., Bondar et al. (2004), but others are developing
+similar criteria for different source regions) based on simple metrics such
+as number of readings and distribution of reporting stations, in order to
+provide an estimate of epicentral accuracy that is expected to account for
+systematic location bias. The assumption here is that 1) the data do not
+permit a calibration analysis because there are insufficient near-source
+data, or 2) that such an analysis has simply not yet been done
+(i.e., a bulletin has simply been scanned for candidate calibration events).
+If a careful relocation analysis has been done to standards that can
+arguably justify classification as a calibrated event, the C class
+should be used.</p>
+
+<p>NE (“E” from epicenter). The epicentral accuracy has been estimated
+with an appropriate network geometry criteria. Focal depth and origin time
+are uncalibrated. Many so-called “GT Catalogs” are dominated by events in
+this category. Requires a scale length.</p>
+
+<p>NF (“F” from focal depth). As NE but focal depth is calibrated. Requires
+a scale length.</p>
+
+<h2 id="everything-else-the-u-class">Everything Else: The U Class</h2>
+<p>All seismic events that do not fit into one of the GT, C or N classifications
+are considered uncalibrated. That does not mean that none of the hypocentral
+coordinates are calibrated, only that the epicenter is not considered to be
+calibrated. The following classifications are defined:
+</p>
+
+<p>UE (“E” from epicenter). No hypocentral parameters are calibrated
+but there is a credible estimate of epicentral accuracy from a location
+analysis (confidence ellipse), leaving aside the question of systematic
+location bias. Requires a scale lengt</p>
+
+<p>UF (“F” from focal depth). As UE, but focal depth is calibrated. The
+subset of events in the EHB catalog (Engdahl et al., 1998) that carries
+depth estimates based on analysis of teleseismic depth phases would fall
+into this category, as would any event that has been the subject of a
+waveform modeling exercise that solves for focal depth. Requires a
+scale length.</p>
+
+<p>U (uncalibrated). Simply a dot on a map. No credible information is
+available on location accuracy, epicentral or otherwise. No scale
+length is used.</p>
+
+<h2 id="scale-length">Scale Length</h2>
+
+<p>With the exception of the “U” category all classifications should
+carry a scale length, equivalent to the “X” in the GTX formulation.
+The ground truth (GT) class categories are defined with specific scale
+lengths, which refer to the uncertainty in both the epicenter and
+focal depth.</p>
+
+<p>For the Calibrated (C) and Network Geometry Criteria (N) classes
+the scale length is related to the uncertainty in epicenter only. For
+the CH class one would have to refer to a more detailed description of
+the data set to learn anything quantitative about the uncertainty in
+focal depth. The scale length is an integer, in kilometers, related
+to the uncertainty of the epicenter. Network geometry criteria always
+yield a single value for scale length. For the C class, as discussed
+above, there is no consensus about how the 2-dimensional uncertainty
+in an epicenter should be reduced to a single number. Three
+possibilities that seem reasonable when dealing with an ellipse
+with semi-minor axis a and semi-major axis b are:</p>
+
+<ul>
+  <li> Nearest integer to the semi-major axis length of the
+  confidence ellipse: nint(b).</li>
+  <li>Nearest integer to the average of the two semi-axis
+  lengths: nint((a+b)/2).</li>
+  <li>Nearest integer to the radius of the circle with the
+  same area as the ellipse: sqrt(ab).</li>
+</ul>
+
+<p>For a circular confidence region all three methods are equal. As
+the ellipticity of the confidence region increases, there will be
+substantial differences between the different scale lengths, but
+the first method will always yield the largest value. For a confidence
+ellipse with semi-axis lengths 1 and 5 km, for example, the scale length
+calculated with the three methods would be 5, 3, and 2 km, respectively.
+In analyses using mloc we use the first method, with the largest
+estimate of uncertainty.</p>
+
+<p>Scale lengths larger than 9 are permitted, but they have rapidly
+diminishing value in the current research environment. When the scale
+length of confidence ellipses moves into double digits, one ought
+to begin to worry about the legitimacy of the assumptions underlying
+the statistical analysis. Such events may better characterized by
+one of the uncalibrated categories.</p>
+
+<h2 id="confidence-levels">Confidence Levels</h2>
+
+<p>As Bondar et al. (2004) pointed out, it is necessary to specify
+the confidence level that has been used in determining epicentral
+uncertainties, e.g., as a subscript in the form “GT905” to indicate
+that the confidence ellipse was calculated for a 90% confidence level.
+The concept of scale length is meaningless without it. Over more than
+a decade since the proposal was made, compliance on this point seems
+to be casual at best. It is admittedly awkward to include the subscript
+in computer output, and since the nomenclature is primarily intended
+to be carried in digital files it may be best to leave it out, but with
+the recommendation to clarify the issue in accompanying documentation.
+In the case of analyses done with mloc, the standard confidence level
+is 90%.
+</p>
+
 <h2 id="references">References</h2>
 
 <ul class="referencelist">
-<li>Jordan, T.H. and K.A. Sverdrup (1981).  Teleseismic location techniques and their
-application to earthquake clusters in the South-central Pacific, Bull. Seism. Soc. Am.,
-71, 1105-1130.</li>
-<li>McNamara, D.E., Benz, H.M., Herrmann, R.B., Bergman, E.A., Earle, P., Meltzer, A.
-Withers, M., and M. Chapman (2014). The Mw 5.8 Mineral, Virginia, earthquake of
-August 2011 and aftershock sequence: Constraints on earthquake source
-parameters and fault geometry, Bull. Seism. Soc. Am., 104, doi 10.1785/0120130058</li>
+<li>Bondar, I. K., Myers, S. C., Engdahl, E. R., & Bergman, E. A. (2004). 
+Epicentre accuracy based on seismic network criteria. Geophysical
+Journal International, 156, 483–496.
+http://doi.org/10.1111/j.1365-246X.2004.02070.x
+</li>
+<li>Croux, C. and Rousseeuw, P.J. (1992). Time-efficient algorithms
+for two highly robust estimators of scale, Computational Statistics,
+1, 411-428</li>
+<li>Engdahl, E. R., van der Hilst, R. D., & Buland, R. P. (1998).
+Global teleseismic earthquake relocation with improved travel
+times and procedures for depth determination. Bulletin of the
+Seismological Society of America, 88(3), 722–743</li>
+
+<li>Jordan, T.H. and K.A. Sverdrup (1981). Teleseismic location
+techniques and their application to earthquake clusters in the
+South-central Pacific, Bull. Seism. Soc. Am., 71,
+1105-1130.</li>
+
+<li>McNamara, D.E., Benz, H.M., Herrmann, R.B., Bergman, E.A.,
+Earle, P., Meltzer, A. Withers, M., and M. Chapman (2014).
+The Mw 5.8 Mineral, Virginia, earthquake of August 2011 and
+aftershock sequence: Constraints on earthquake source parameters
+and fault geometry, Bull. Seism. Soc. Am.,
+104, doi 10.1785/0120130058</li>
 </ul>
