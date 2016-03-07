@@ -19,17 +19,19 @@ properties of the data set.</p>
 
 
 <h2 id="method">Method</h2>
-Refined estimates of the epicenters, focal depths and origin times of
-earthquakes in the Mineral sequence were estimated using a method based
-on the Hypocentroidal Decomposition (HD) algorithm introduced by Jordan
-and Sverdrup (1981), but extensively developed for application in
-calibrated relocation studies, i.e., relocation studies that are
-specialized to provide minimally biased estimates of hypocentral
-parameters and realistic estimates of their uncertainties. The program 
-MLOC implements this method, which is described here.
+<p>
+	Refined estimates of the epicenters, focal depths and origin times of
+	earthquakes in the Mineral sequence were estimated using a method based
+	on the Hypocentroidal Decomposition (HD) algorithm introduced by Jordan
+	and Sverdrup (1981), but extensively developed for application in
+	calibrated relocation studies, i.e., relocation studies that are
+	specialized to provide minimally biased estimates of hypocentral
+	parameters and realistic estimates of their uncertainties. The program 
+	MLOC implements this method, which is described here.
+</p>
 
 <h2 id="data">Data</h2>
-The data set of seismic phase arrival times used in this analysis includes
+<p>The data set of seismic phase arrival times used in this analysis includes
 picks from temporary seismograph stations that were installed by several
 research groups around the epicentral area; these picks were made by NEIC
 staff. Phase arrival times from permanent seismic stations from the ComCat
@@ -37,7 +39,7 @@ staff. Phase arrival times from permanent seismic stations from the ComCat
 International Seismological Centre (ISC) were also used. Arrival time
 picks from the ISC were not reviewed, but all arrival time data was subject
 to evaluation for outlier readings using empirically-derived estimates of
-reading error, as described in the relocation methodology, above.
+reading error, as described in the relocation methodology, above.</p>
 
 <h2 id="velocity-model">Velocity Model</h2>
 
