@@ -1,0 +1,10 @@
+.significant-wrapper {
+  width: 100%;
+  max-width: 768px;
+}
+
+.significant-wrapper > form > .significant-year {
+  width: 100%;
+  max-width: 304px;
+}
+
