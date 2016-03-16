@@ -2,9 +2,7 @@
 include '../_catalog.inc.php';
 ?>
 
-
 <h2 id="description">Description</h2>
-
 <p>
 	This catalog of earthquake source parameters was derived by the USGS
   National Earthquake Information Center (NEIC) as part of a relocation
@@ -12,12 +10,11 @@ include '../_catalog.inc.php';
   and its aftershocks using a calibrated multiple event relocation method
   (McNamara et al., 2014). The purpose of this relocation analysis is to
   produce a set of reference hypocenters (with associated phase arrival times
-  and empirical reading errors) for this source region that are especially well
-  constrained, subject to minimal bias from unknown velocity structure and 
-  having  realistic estimates of uncertainty based on the measured statistical
-  properties of the data set.
+  and empirical reading errors) for this source region that are especially 
+  well constrained, subject to minimal bias from unknown velocity 
+  structure and having  realistic estimates of uncertainty based on the 
+  measured statistical properties of the data set.
 </p>
-
 
 
 <h2 id="method">Method</h2>
@@ -46,7 +43,6 @@ include '../_catalog.inc.php';
 </p>
 
 <h2 id="velocity-model">Velocity Model</h2>
-
 <p>
 	The global 1-D travel time model ak135 (Kennett et al., 1995) fits the
   Mineral data well at local and near-regional distances, but the predicted
@@ -93,13 +89,13 @@ include '../_catalog.inc.php';
   divided the sequence chronologically into three subclusters, which were
   relocated independently. Calibration of the Mineral subclusters was
   accomplished through the method of direct calibration, in which the
-  hypocentroid, which establishes  the location of the cluster in absolute terms,
-  is estimated from arrival time  readings at short epicentral distances to
-  minimize the biasing effect of unknown velocity structure. For the Mineral
-  subclusters the distance limit for data used to estimate the hypocentroid
-  was 0.6°. Basic parameters for the three subclusters, including the
-  number of P and S readings used to estimate the four hypocentral
-  parameters of the hypocentroid are given in the table.
+  hypocentroid, which establishes  the location of the cluster in absolute 
+  terms, is estimated from arrival time  readings at short epicentral 
+  distances to minimize the biasing effect of unknown velocity structure. 
+  For the Mineral subclusters the distance limit for data used to 
+  estimate the hypocentroid was 0.6°. Basic parameters for the three 
+  subclusters, including the number of P and S readings used to estimate 
+  the four hypocentral parameters of the hypocentroid are given in the table.
 </p>
 
 <table>
@@ -139,20 +135,21 @@ include '../_catalog.inc.php';
 
 
 <h2 id="calibrated-relocation-of-the-mineral-cluster">Calibrated Relocation of the Mineral Cluster</h2>
-
 <p>
 	The HD algorithm used for the relocation analysis is limited in the
   number of events that can be relocated simultaneously by rapidly increasing
   computational time. The practical limit is ~200 events, about half the number
-  of events in the Mineral sequence that were recorded well enough to be relocated
-  with high accuracy. We therefore divided the sequence chronologically into three
-  subclusters, which  were relocated independently. Calibration of the Mineral
-  subclusters was accomplished through the method of direct calibration, in which
-  the hypocentroid, which establishes the location of the cluster in absolute terms,
-  is estimated from arrival time readings at short epicentral distances to minimize
-  the biasing effect of unknown velocity structure. For the Mineral subclusters
-  the distance limit for data used to estimate the hypocentroid was 0.6°. Basic
-  parameters for the three subclusters, including the number of P and S readings
+  of events in the Mineral sequence that were recorded well enough to be 
+  relocated with high accuracy. We therefore divided the sequence 
+  chronologically into three subclusters, 
+  which  were relocated independently. Calibration 
+  of the Mineral subclusters was accomplished through the method of direct 
+  calibration, in which the hypocentroid, which establishes the location 
+  of the cluster in absolute terms, is estimated from arrival time readings
+  at short epicentral distances to minimize the biasing effect of unknown 
+  velocity structure. For the Mineral subclusters the distance limit for 
+  data used to estimate the hypocentroid was 0.6°. Basic parameters for 
+  the three subclusters, including the number of P and S readings
   used to estimate the four hypocentral parameters of the hypocentroid are given
   in the table.
 </p>
@@ -209,10 +206,10 @@ include '../_catalog.inc.php';
   crustal velocity variations. The calibration level of the hypocentroids 
   of the subclusters is 0.1-0.2 km. The full uncertainty for hypocentral 
   parameters for any given event is obtained by adding the uncertainty of the
-  cluster vector for that event to the  uncertainty of the appropriate hypocentroid.
-  The full epicentral uncertainty, characterized by the longer semi-axis of the 90%
-  confidence ellipse, is less than 1.5 km for 393 events out of 397 that were
-  relocated.
+  cluster vector for that event to the  uncertainty of the appropriate 
+  hypocentroid. The full epicentral uncertainty, characterized by the 
+  longer semi-axis of the 90% confidence ellipse, is less than 1.5 km
+  for 393 events out of 397 that were relocated.
 </p>
 
 <p>
@@ -229,7 +226,6 @@ include '../_catalog.inc.php';
 </p>
 
 <h2 id="empirical-reading-error">Empirical Reading Error</h2>
-
 <p>
 	The concept of "reading error" in earthquake location is normally
   understood as an estimate of the uncertainty of the reading of the
@@ -241,8 +237,9 @@ include '../_catalog.inc.php';
   ad hoc value based on phase type. It is very important to realize that
   estimates of hypocenter uncertainty in any earthquake location algorithm 
   depend on the accuracy of the uncertainties assumed for the data, as well as
-  the proper treatment of other sources of uncertainty in the estimation process.
-  This is a significant weakness of most earthquake location analyses.
+  the proper treatment of other sources of uncertainty in the estimation 
+  process. This is a significant weakness of most earthquake location 
+  analyses.
 </p>
 
 <p>
@@ -255,9 +252,10 @@ include '../_catalog.inc.php';
   multiple observations of the same "station-phase" provide an opportunity to
   carry out a statistical analysis which leads to an estimate of the uncertainty
   of those readings that is based on the readings themselves, thus "empirical".
-  It would be more correct to refer to this as an "empirical reading uncertainty"
-  or even “empirical reading consistency”, but we follow the traditional
-  seismological terminology. It is also important to note that this concept of
+  It would be more correct to refer to this as an 
+  "empirical reading uncertainty" or even “empirical reading consistency”, 
+  but we follow the traditional seismological terminology. 
+  It is also important to note that this concept of
   empirical reading error includes contributions to the scatter of readings 
   beyond reading error per se, i.e.,  the ability of the analyst to specify 
   the “correct” time of onset time of a seismic phase arrival. For example 
@@ -332,19 +330,20 @@ include '../_catalog.inc.php';
   size is small and values are very near one another, or identical. We
   normally use 0.15 s as a minimum which is generally appropriate for the
   data sets obtained from standard earthquake catalogs, but smaller values
-  can be permitted in special circumstances. For singlet station-phase arrival
-  time data (only one observation) default values that are typical of many
-  earthquake location algorithms (e.g., 0.5 s for teleseismic P) are applied.
-  Singlet readings make no contribution to the  estimate of relative locations
-  in the HD algorithm, but they can be used to estimate the hypocentroid, in
-  which case the reasonableness of the default value of empirical reading
-  error must be evaluated for the particular data set in order to have confidence
-  in the derived hypocentral parameter uncertainties.
+  can be permitted in special circumstances. For singlet station-phase 
+  arrival time data (only one observation) default values that are typical 
+  of many earthquake location algorithms (e.g., 0.5 s for teleseismic P) 
+  are applied.  Singlet readings make no contribution to the  estimate of 
+  relative locations in the HD algorithm, but they can be used to estimate 
+  the hypocentroid, in which case the reasonableness of the default value of 
+  empirical reading error must be evaluated for the particular data set
+  in order to have confidence in the derived hypocentral parameter 
+  uncertainties.
 </p>
 
 <p>
 	In summary, the use of empirical reading errors in mloc allows us to treat
-  the derived hypocentral uncertainties with considerable confidence. Althoug
+  the derived hypocentral uncertainties with considerable confidence. Although
   any multiple event relocation method could implement a similar analysis, we
   are not aware of any that do. Single event location methods are inherently
   handicapped by the lack of any way to investigate data uncertainty in a
@@ -355,7 +354,6 @@ include '../_catalog.inc.php';
 </p>
 
 <h2 id="earthquake-location-accuracy">Earthquake Location Accuracy</h2>
-
 <p>
 	Here we provide a description of a system of codes used to characterize the
   accuracy of earthquake locations determined with mloc, a multiple event
@@ -368,13 +366,14 @@ include '../_catalog.inc.php';
 
 <p>
 	The classification system described here is an extension of the well-known
-  “GTX” system (e.g., Bondar et al., 2004). The primary extension is to generalize
-  the single “class” of the GTX system to four classes that allow an accuracy code
-  to be assigned to any hypocenter. A great advantage of this extra complexity is
-  the ability to distinguish between the different ways in which constraints on
-  location accuracy may have been derived. Moreover we extend the GTX system
-  to carry information about the accuracy of the hypocentral parameters focal
-  depth and origin time, rather than the epicenter alone. This new classification
+  “GTX” system (e.g., Bondar et al., 2004). The primary extension is to 
+  generalize the single “class” of the GTX system to four classes that 
+  allow an accuracy code to be assigned to any hypocenter. 
+  A great advantage of this extra complexity is the ability to distinguish
+  between the different ways in which constraints on location accuracy
+  may have been derived. Moreover we extend the GTX system to carry 
+  information about the accuracy of the hypocentral parameters focal depth and 
+  origin time, rather than the epicenter alone. This new classification
   system takes its name “GCNU” from the first letters of the names of the four 
  classes:
 </p>
@@ -398,7 +397,6 @@ include '../_catalog.inc.php';
 </p>
 
 <h2 id="ground-truth-the-g-class">Ground Truth: the G Class</h2>
-
 <p>
 	This class has only two instances, both of which have only three
   characters. The GT0 nomenclature is reserved for traditional (or literal)
@@ -407,21 +405,23 @@ include '../_catalog.inc.php';
   For epicenter and focal depth these uncertainties are typically less than
   about a hundred meters. At a typical crustal P velocity of 6 km/s 100 meters
   represents 0.015 s, so origin time should be known to several hundredths of a
-  second in order to be compatible. These limits may not be suitable for some
-  engineering purposes or specialized source studies. The designation
-  “ground truth” has traditionally been reserved for nuclear tests and carefully
-  engineered chemical explosions. It is possible to obtain this level of accuracy
-  with natural seismic sources that are especially heavily instrumented at close
-  range but it is still preferable to use the C class in such cases.
+  second in order to be compatible. These limits may not be suitable for 
+  some engineering purposes or specialized source studies. The designation
+  “ground truth” has traditionally been reserved for nuclear tests and
+  carefully engineered chemical explosions. It is possible to obtain 
+  this level of accuracy with natural seismic sources that are especially 
+  heavily instrumented at close range but it is still preferable to use
+  the C class in such cases.
 </p>
 
 <p>
 	There is a need for a somewhat relaxed ground truth category, because even
-  though the hypocentral parameters of a man-made explosion may be given a priori,
-  the uncertainties may not meet the stricter requirements given above. This may
-  be the case because of inadequate record keeping or the difficulty in carrying
-  out suitably accurate surveying or timing prior to the availability of GPS
-  technology. The GT1 category is meant for such cases. This still implies
+  though the hypocentral parameters of a man-made explosion may be given 
+  a priori, the uncertainties may not meet the stricter requirements given 
+  above. This may be the case because of inadequate record keeping or the 
+  difficulty in carrying out suitably accurate surveying or timing prior 
+  to the availability of GPS technology. 
+  The GT1 category is meant for such cases. This still implies
   near-certain knowledge of location within a kilometer or so, with
   comparable uncertainty in origin time (several tenths of a second). Industrial
   explosions and even some nuclear tests may not meet this standard. Such events
@@ -435,7 +435,6 @@ include '../_catalog.inc.php';
 </p>
 
 <h2 id="ground-truth-the-C-class">Ground Truth: the C Class</h2>
-
 <p>
 	In contrast to the ground truth class, where the concern is primarily 
   with the scale of random error in the hypocentral parameters, the class
@@ -444,9 +443,9 @@ include '../_catalog.inc.php';
   significant bias. Therefore we are very much concerned about minimizing bias
   and understanding which hypocentral parameters may be treated as effectively
   bias-free. Obviously we also desire to estimate the hypocentral parameters
-  such that the formal uncertainties (driven by uncertainty in the data), usually
-  expressed in Gaussian terms, are as small as possible; this will be handled
-  similarly to the “X” in the GTX formulation, discussed below in the
+  such that the formal uncertainties (driven by uncertainty in the data),
+  usually expressed in Gaussian terms, are as small as possible; this will be
+  handled similarly to the “X” in the GTX formulation, discussed below in the
   section “Scale Length”.
 </p>
 
@@ -455,13 +454,14 @@ include '../_catalog.inc.php';
   includes only events for which the epicenter (at least) has been determined
   in such a way as to minimize bias. Although a bit unsatisfying in a logical
   sense, this policy reflects the reality that the seismological community
-  overwhelmingly thinks of ground truth or GT events (using the popular current
-  nomenclature) as referring only to the epicenter. The other important point to
-  be made is that this class requires an actual location analysis, not just the
-  application of some set of network geometry criteria such as those presented by
-  Bondar et al. (2004). In other words, application of network geometry criteria
-  to estimate location accuracy may be a precursor to calibration analysis, but
-  is not a substitute for it.
+  overwhelmingly thinks of ground truth or GT events (using the popular
+  current nomenclature) as referring only to the epicenter. The other 
+  important point to be made is that this class requires an actual location
+  analysis, not just the application of some set of network geometry
+  criteria such as those presented by Bondar et al. (2004).
+  In other words, application of network geometry criteria to estimate location
+  accuracy may be a precursor to calibration analysis, but is not a
+  substitute for it.
 </p>
 
 <p>
@@ -471,12 +471,13 @@ include '../_catalog.inc.php';
   possible. In other words only near-source data should be employed for
   estimating calibrated parameters. “Near source data” is not restricted to
   seismological stations at short epicentral distance, although that is by far
-  the most common case. Mapped surface faulting, treated with all due geological
-  sensitivity, may serve as near source data for the purpose of constraining an
-  epicenter, as may InSAR or other types of remote sensing analyses, since the
-  ultimate signal (e.g., surface deformation) is not subject to bias from unknown
-  Earth structure. InSAR analysis, through determination of the distribution of
-  rupture on a fault plane, may be used to reduce bias in focal depth. Waveform
+  the most common case. Mapped surface faulting, treated with all due
+  geological sensitivity, may serve as near source data for the purpose
+  of constraining an epicenter, as may InSAR or other types of remote
+  sensing analyses, since the ultimate signal (e.g., surface deformation)
+  is not subject to bias from unknown Earth structure.
+  InSAR analysis, through determination of the distribution of rupture
+  on a fault plane, may be used to reduce bias in focal depth. Waveform
   modeling (even at regional or teleseismic distances) may similarly provide
   useful near-source constraint on focal depth through analysis of the
   interference of direct and near-source surface-reflected phases.
@@ -491,7 +492,7 @@ include '../_catalog.inc.php';
   deeper than about 100 km. If uncertainties in velocity structure
   (and their effect on raypath geometry) are honestly propagated into the
   uncertainties of the derived location parameters, then the issue will be
-  resolved by the increasing uncertainty of the location, leaving aside th
+  resolved by the increasing uncertainty of the location, leaving aside the
   question of bias.
 </p>
 
@@ -502,7 +503,6 @@ include '../_catalog.inc.php';
 </p>
 
 <h2 id="epicenter">Epicenter</h2>
-
 <p>
 	Bias in epicentral coordinates can be minimized by means of seismological
   analysis (typically a location analysis), as well as by other means, including
@@ -513,43 +513,45 @@ include '../_catalog.inc.php';
 </p>
 
 <h2 id="depth">Depth</h2>
-
 <p>
 	Focal depth is more difficult to constrain than the epicentral coordinates.
   In the location analysis, it requires data at epicentral distances comparable
-  to the focal depth itself, a few tens of kilometers for crustal events, a much
-  stricter requirement than for the epicenter, which can be usefully constrained
-  with stations 100 km or so away. This distance requirement can be ignored
-  for waveform modeling, however, as well as for analyses of teleseismic depth phases,
-  most famously emphasized by the EHB algorithm (Engdahl et al., 1998). Therefore
-  the minimization of bias in focal depth can be part of the general location analysis,
-  coupled with the estimate of a minimally-biased epicenter, or it can be constrained
-  independently, even when the epicenter may be uncalibrated.
+  to the focal depth itself, a few tens of kilometers for crustal events, a 
+  much stricter requirement than for the epicenter, which can be usefully
+  constrained with stations 100 km or so away. This distance requirement
+  can be ignored for waveform modeling, however, as well as for analyses of
+  teleseismic depth phases, most famously emphasized by the EHB algorithm
+  (Engdahl et al., 1998).
+  Therefore the minimization of bias in focal depth can be part of the general
+  location analysis, coupled with the estimate of a minimally-biased epicenter,
+  or it can be constrained independently, even when the epicenter may be
+  uncalibrated.
 </p>
 
 <h2 id="origin-time">Origin Time</h2>
-
 <p>
 	Calibration of origin time is only fully possible when both the epicenter and
   focal depth can be calibrated. Unless it has been specified a priori for a
-  human-engineered event it must be estimated from seismic arrival time data at the
-  shortest possible epicentral distances, and any bias in the location parameters
-  would propagate into origin time. It is quite common, however, to encounter cases
-  where the epicenter and origin time of an event can be constrained with near-source
-  data (not necessarily for the event in question but through linkage to other events
-  in a multiple event analysis), but the focal depth of the event cannot be usefully
-  constrained, other than as an average depth for a cluster of events, some of which
-  have well-constrained depths, or through regional seismotectonic considerations.
-  In this case the origin time itself cannot be considered to be unbiased, but since
-  it is reliably coupled to the assumed focal depth, the combined hypocentral
-  coordinates can still provide valuable information on empirical travel times
-  from a specific point in the Earth.
+  human-engineered event it must be estimated from seismic arrival time data
+  at the shortest possible epicentral distances, and any bias in the location
+  parameters would propagate into origin time. It is quite common, however,
+  to encounter case where the epicenter and origin time of an event can be
+  constrained with near-source data (not necessarily for the event in question
+  but through linkage to other events in a multiple event analysis),
+  but the focal depth of the event cannot be usefully constrained,
+  other than as an average depth for a cluster of events, some of which
+  have well-constrained depths, or through regional seismotectonic
+  considerations. In this case the origin time itself cannot be considered
+  to be unbiased, but since it is reliably coupled to the assumed focal
+  depth, the combined hypocentral coordinates can still provide valuable
+  information on empirical travel times from a specific point in the Earth.
 </p>
 
 <p>
-	Given the above considerations there are three cases that need to be distinguished
-  in the calibrated class of the nomenclature. In the following table, the asterisk
-  indicates parameters that have been calibrated in some manner: 
+	Given the above considerations there are three cases that need to be
+	distinguished in the calibrated class of the nomenclature. In the
+	following table, the asterisk indicates parameters that have been
+	calibrated in some manner: 
 </p>
 
 <table>
@@ -590,21 +592,23 @@ include '../_catalog.inc.php';
 </table>
 
 <p>
-	CH (“H” refers to hypocenter). All four hypocentral coordinates have either
-  been inferred by means that yield minimally-biased estimates or constrained
-  a priori (as in some human-engineered events that don’t quite qualify for GT1
-  status or better).
+	CH (“H” refers to hypocenter). All four hypocentral coordinates
+	have either been inferred by means that yield minimally-biased estimates
+	or constrained a priori (as in some human-engineered events that don’t
+	quite qualify for GT1 status or better).
 </p>
 
 <p>
-	CT (“T” refers to travel time). Epicenter has been calibrated; depth has been
-  fixed at some assumed value (e.g., the average depth of nearby events with
-  constrained depths); the estimate of origin time is based on local-distance
-  data, but relative to an uncalibrated depth. Neither the focal depth not origin
-  time can be considered calibrated in themselves but the combination can be used
-  to estimate empirical travel times from the specific point in the Earth. Such
-  events are not quite as valuable as CH events but still have considerable value
-  as input to model-building exercises or as validation events.
+	CT (“T” refers to travel time). Epicenter has been calibrated;
+	depth has been fixed at some assumed value (e.g., the average depth
+	of nearby events with constrained depths);
+	the estimate of origin time is based on local-distance data, but
+	relative to an uncalibrated depth. Neither the focal depth not origin
+  time can be considered calibrated in themselves but the combination can
+  be used to estimate empirical travel times from the specific point
+  in the Earth. Such events are not quite as valuable as CH events but still
+  have considerable value as input to model-building exercises or as
+  validation events.
 </p>
 
 <p>
@@ -632,7 +636,6 @@ include '../_catalog.inc.php';
 
 <h2 id="network-geometry-criteria-the-n-class">Network Geometry Criteria:
 The N Class</h2>
-
 <p>
 	Events in the N class are not considered to be calibrated in the sense
   defined here, but the arrival time data set has been processed with some
@@ -693,7 +696,6 @@ The N Class</h2>
 </p>
 
 <h2 id="scale-length">Scale Length</h2>
-
 <p>
 	With the exception of the “U” category all classifications should
   carry a scale length, equivalent to the “X” in the GTX formulation.
@@ -746,7 +748,6 @@ The N Class</h2>
 </p>
 
 <h2 id="confidence-levels">Confidence Levels</h2>
-
 <p>
 	As Bondar et al. (2004) pointed out, it is necessary to specify
   the confidence level that has been used in determining epicentral
@@ -763,30 +764,42 @@ The N Class</h2>
 </p>
 
 <h2 id="references">References</h2>
-
 <ul class="referencelist">
-<li>Bondar, I. K., Myers, S. C., Engdahl, E. R., & Bergman, E. A. (2004). 
-Epicentre accuracy based on seismic network criteria. Geophysical
-Journal International, 156, 483–496.
-http://doi.org/10.1111/j.1365-246X.2004.02070.x
+	
+<li>
+	Bondar, I. K., Myers, S. C., Engdahl, E. R., & Bergman, E. A. (2004). 
+  Epicentre accuracy based on seismic network criteria. Geophysical
+  Journal International, 156, 483–496.
+  http://doi.org/10.1111/j.1365-246X.2004.02070.x
 </li>
-<li>Croux, C. and Rousseeuw, P.J. (1992). Time-efficient algorithms
-for two highly robust estimators of scale, Computational Statistics,
-1, 411-428</li>
-<li>Engdahl, E. R., van der Hilst, R. D., & Buland, R. P. (1998).
-Global teleseismic earthquake relocation with improved travel
-times and procedures for depth determination. Bulletin of the
-Seismological Society of America, 88(3), 722–743</li>
 
-<li>Jordan, T.H. and K.A. Sverdrup (1981). Teleseismic location
-techniques and their application to earthquake clusters in the
-South-central Pacific, Bull. Seism. Soc. Am., 71,
-1105-1130.</li>
+<li>
+	Croux, C. and Rousseeuw, P.J. (1992). Time-efficient algorithms
+  for two highly robust estimators of scale, Computational Statistics,
+  1, 411-428
+</li>
+  
+<li>
+	Engdahl, E. R., van der Hilst, R. D., & Buland, R. P. (1998).
+  Global teleseismic earthquake relocation with improved travel
+  times and procedures for depth determination. Bulletin of the
+  Seismological Society of America, 88(3), 722–743
+</li>
 
-<li>McNamara, D.E., Benz, H.M., Herrmann, R.B., Bergman, E.A.,
-Earle, P., Meltzer, A. Withers, M., and M. Chapman (2014).
-The Mw 5.8 Mineral, Virginia, earthquake of August 2011 and
-aftershock sequence: Constraints on earthquake source parameters
-and fault geometry, Bull. Seism. Soc. Am.,
-104, doi 10.1785/0120130058</li>
+<li>
+	Jordan, T.H. and K.A. Sverdrup (1981). Teleseismic location
+  techniques and their application to earthquake clusters in the
+  South-central Pacific, Bull. Seism. Soc. Am., 71,
+  1105-1130.
+</li>
+
+<li>
+	McNamara, D.E., Benz, H.M., Herrmann, R.B., Bergman, E.A.,
+  Earle, P., Meltzer, A. Withers, M., and M. Chapman (2014).
+  The Mw 5.8 Mineral, Virginia, earthquake of August 2011 and
+  aftershock sequence: Constraints on earthquake source parameters
+  and fault geometry, Bull. Seism. Soc. Am.,
+  104, doi 10.1785/0120130058
+  </li>
+  
 </ul>
