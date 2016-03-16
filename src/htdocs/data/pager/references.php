@@ -1,7 +1,8 @@
 <?php
 // Author: Lisa Wald
 // Contact: David Wald, wald@usgs.gov
-// Last modified: 01/27/2016
+// Last modified: 03/16/2016
+
 if (!isset($TEMPLATE)) {
   $TITLE = 'PAGER Data, Products and References';
   $NAVIGATION = true;
@@ -739,7 +740,7 @@ $products['SubductionSlabGeometryDatabase'] = array(
 $products['PAGER-CAT'] = array(
 	'key' => 'PAGER-CAT',
 	'name' => 'PAGER-CAT',
-	'link' => 'data/',
+	'link' => 'catalogs/',
 	'description' => 'Quality composite earthquake catalog (1900-2006)',
 	'use' => 'Source input for ShakeMap Atlas, ExposureCat',
 	'references' => array(
@@ -869,7 +870,7 @@ $products['GMPESelection'] = array(
 $products['EXPO-CAT'] = array(
 	'key' => 'EXPO-CAT',
 	'name' => 'EXPO-CAT',
-	'link' => 'data/expocat.php',
+	'link' => 'catalogs/expocat.php',
 	'description' => 'Population exposure to intensity for each Atlas ' .
 		'ShakeMap',
 	'use' => 'Fatality rates calculations',
