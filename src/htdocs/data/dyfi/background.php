@@ -14,15 +14,15 @@
   <li><a href="#for">What Is DYFI For?</a></li>
   <li><a href="#prod">DYFI Webpages and Products</a></li>
   <li><a href="#intensity">What is Intensity? A Measure of Effects</a></li>
-  <li><a hef="#quest">The DYFI Questionnaire</a></li>
+  <li><a href="#quest">The DYFI Questionnaire</a></li>
   <li><a href="#agg">Aggregation: Combining Users&CloseCurlyQuote; Responses</a></li>
   <li><a href="#maps">The DYFI Maps</a></li>
   <li><a href="#dyfi-sm">DYFI and ShakeMap</li>
   <li><a href="#mmi">DYFI and Modified Mercalli Intensities</a></li>
   <li><a href="#caveat">Importance of Your Contribution and a Caveat</a></li>
-  <li><a href="ack">Acknowledgments</a></li>
-  <li><a href="app1">Appendix I:</a> The DYFI Intensity Algorithm</li>
-  <li><a href="app2">Appendix II:</a> Intensity Prediction Equations and the Distance vs. Intensity Plot</li>
+  <li><a href="#ack">Acknowledgments</a></li>
+  <li><a href="#app1">Appendix I:</a> The DYFI Intensity Algorithm</li>
+  <li><a href="#app2">Appendix II:</a> Intensity Prediction Equations and the Distance vs. Intensity Plot</li>
   <li><a href="#refs">References</a></li>
 </ul>
 
@@ -162,33 +162,33 @@ For every significant or felt earthquake on the USGS Earthquake Program web page
     <td>How would you describe the shaking?</td>
   </tr>
   <tr>
-    <td>x</td>
-    <td>-5</td>
+    <td>1x</td>
+    <td>0-5</td>
     <td>How did you react?</td>
   </tr>
   <tr>
-    <td>x</td>
-    <td>-1</td>
+    <td>2x</td>
+    <td>0-1</td>
     <td>Was it difficult to stand or walk?</td>
   </tr>
   <tr>
-    <td>x</td>
-    <td>-1</td>
+    <td>5x</td>
+    <td>0-1</td>
     <td>Did objects rattle, topple over, or fall off shelves?</td>
   </tr>
   <tr>
-    <td>x</td>
-    <td>-</td>
+    <td>2x</td>
+    <td>0-1</td>
     <td>Did pictures move of get knocked askew?</td>
   </tr>
   <tr>
-    <td>x</td>
-    <td>-</td>
+    <td>3x</td>
+    <td>0-1</td>
     <td>Did furniture slide, topple, or become displaced?</td>
   </tr>
   <tr>
-    <td>x</td>
-    <td>-3</td>
+    <td>5x</td>
+    <td>0-3</td>
     <td>Was there damage to the building?</td>
   </tr>
 </table>
