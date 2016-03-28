@@ -1,4 +1,4 @@
-CEUS catalog emm_pi.c3 (March 2016)
+CEUS catalog emm_pn.c3 (March 2016)
 mining-related eqks deleted
 declustered
 format: emw,lon(dE),lat(dN),dp(km),y,m,d,h,m,s,mwsig,nstar,comment
