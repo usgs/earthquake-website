@@ -1,3 +1,7 @@
+CEUS catalog emm_pi.c3 (March 2016)
+mining-related eqks deleted
+declustered
+format: emw,lon(dE),lat(dN),dp(km),y,m,d,h,m,s,mwsig,nstar,comment
 4.85  -72.500  41.500   0 1568 01 01  0  0  0.  1.00  4.85 1.0   J94|mw,4.85(mwd)(X)
 4.85  -72.500  41.500   0 1574 01 01  0  0  0.  1.00  4.85 1.0   J94|mw,4.85(mwd)(X)
 4.85  -72.500  41.500   0 1584 01 01  0  0  0.  1.00  4.85 1.0   J94|mw,4.85(mwd)(X)
