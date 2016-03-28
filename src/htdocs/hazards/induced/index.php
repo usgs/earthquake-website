@@ -68,11 +68,11 @@
 
     <h2>Maps for Media</h2>
     <ul>
-      <li><a href="images/ProbDamageEQ.pdf">Forecast for Damage from Natural and Induced Earthquakes in 2016</a><br/>(% Chance of Damage)</li>
+      <li><a href="images/ProbDamagEQ.pdf">Forecast for Damage from Natural and Induced Earthquakes in 2016</a><br/>(% Chance of Damage)</li>
       <p></p>
-      <li><a href="MMI.pdf">Forecast for Ground Shaking Intensity from Natural and Induced Earthquakes in 2016</a><br/>(Modified Mercalli Intensity)</li>
+      <li><a href="images/MMI.pdf">Forecast for Ground Shaking Intensity from Natural and Induced Earthquakes in 2016</a><br/>(Modified Mercalli Intensity)</li>
       <p></p>
-      <li><a href="Wells-Seismicity.pdf">Map of 21 Areas Impacted by Induced Earthquakes</a><br/>(Wells and Seismicity)</li>
+      <li><a href="images/Wells-Seismicity.pdf">Map of 21 Areas Impacted by Induced Earthquakes</a><br/>(Wells and Seismicity)</li>
     </ul>
 
     <h2>Scientific Data</h2>
