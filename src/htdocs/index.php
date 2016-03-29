@@ -1,107 +1,82 @@
 <?php
-// Author: Lisa Wald
-// Contact: Lisa Wald, lisa@usgs.gov
-// Last modified: 08/11/2015
+
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Earthquakes';
-  $NAVIGATION = true;
-  $HEAD = '
-    <link rel="stylesheet" href="/theme/css/alert.css"/>
-    <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
-  ';
-  $FOOT = '
-    <script src="/lib/earthquake-list-widget.js"></script>
-    <script src="index.js"></script>
-  ';
+  $TITLE = 'Earthquake Hazards Program';
+  $HEAD = '<link rel="stylesheet" href="index.css"/>';
   include 'template.inc.php';
 }
+
 ?>
 
-<!-- OPTIONAL ANNOUNCEMENT
-<div class="row">
-  <p class="alert info">
-  </p>
-</div>
--->
+<?php
+  include_once '_features.inc.php';
+  echo $EQ_FEATURES->toHtml();
+?>
 
-<!-- FEATURED EARTHQUAKE
-Insert code to display latest really significant EQ
-and a link to Significant Earthquakes, Past 30 Days
--->
+<hr/>
 
-<div class = "row">
-  <div class = "column three-of-five">
-
-    <ul class="no-style linklist">
-      <li>
-        <a href="map/">
-          <h4>Latest Earthquakes</h4>
-          <img src="images/latest-eq-2x.gif" width="150" alt="map of latest earthquakes"/>
-        </a>
-        <p>Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
+<section class="sections">
+  <ul class="row two-up">
+    <li class="column">
+      <h2><a href="/earthquakes/">Earthquakes</a></h2>
+      <div class="row">
+        <img src="/images/earthquakes_button_square.gif" alt="" class="column mobile-one-of-four"/>
+        <p class="column mobile-three-of-four">
+          Information about real-time earthquakes, online catalog search of
+          archives, seismicity maps and statistics.
         </p>
-      </li>
-      <li>
-        <a href="feed/">
-          <h4>Real-time Feeds and Notifications</h4>
-          <img src="images/notif-2x.gif" width="150" alt="screenshot of iphone EQ notification"/>
-        </a>
-        <p>Get real-time earthquake notifications sent to you on your phone or by email. Use real-time web services for your own applications.</p>
-      </li>
-      <li>
-        <a href="lists/">
-          <h4>Earthquake Lists, Maps and Statistics</h4>
-          <img src="/data/images/search-2x.gif" width="150" alt="screenshot of EQ search form"/>
-        </a>
-        <p>10 largest earthquakes, significant events, lists and maps by magnitude, by year, or by location.</p>
-      </li>
-      <li>
-        <a href="byregion/">
-          <h4>Information by Region</h4>
-          <img src="images/byregion-2x.gif" width="150" alt="US map"/>
-        </a>
-        <p>Information by state, and world seismicity maps. Links to earthquake-related information for each state.</p>
-      </li>
-      <li>
-        <a href="search/">
-          <h4>Earthquake Catalog Search</h4>
-          <img src="/data/images/search-2x.gif" width="150" alt="screenshot of EQ search form"/>
-        </a>
-        <p>Find past earthquakes that meet your criteria. Various output  formats, and links to earthquake details.</p>
-      </li>
-    </ul>
-
-  </div>
-
-  <div class = "column two-of-five">
-
-    <h3>
-       <a href="/earthquakes/map/#%7B%22feed%22%3A%2230day_sig%22%2C%22search%22%3Anull%2C%22sort%22%3A%22newest%22%2C%22basemap%22%3A%22grayscale%22%2C%22autoUpdate%22%3Atrue%2C%22restrictListToMap%22%3Atrue%2C%22timeZone%22%3A%22local%22%2C%22mapposition%22%3Anull%2C%22overlays%22%3A%7B%22plates%22%3Atrue%7D%2C%22viewModes%22%3A%7B%22map%22%3Atrue%2C%22list%22%3Atrue%2C%22settings%22%3Atrue%2C%22help%22%3Afalse%7D%7D">
-        Significant Earthquakes, Past 30 Days
       </a>
-    </h3>
-
-    <div id="significant-earthquakes" class="height_scroll" style="overflow:scroll; height:600px; background:#f4f4f4;">
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="/theme/css/alert.css"/>
-        <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
-      ';
-      $FOOT = '
-        <script src="/lib/earthquake-list-widget.js"></script>
-        <script src="index.js"></script>
-      ';
-    </div>
-
-    <h3>Impact Products</h3>
-      <ul>
-        <li><a href="/research/dyfi/">Did You Feel It? Tell Us!</a></li>
-        <li><a href="/research/shakemap/">ShakeMap</a></li>
-        <li><a href="/research/pager">PAGER</a></li>
-      </ul>
-
-    <h3><a href="errata.php">Errata for Latest Earthquakes</a></h3>
-    <p>Mistakes happen. Here are the explanations.</p>
-
-  </div>
-</div>
+    </li>
+    <li class="column">
+      <h2><a href="/hazards/">Hazards</a></h2>
+      <div class="row">
+        <img src="/images/hazards_button_square.gif" alt="" class="column mobile-one-of-four"/>
+        <p class="column mobile-three-of-four">
+          US faults, information about seismic hazards in various areas,
+          tools for seismic design values.
+        </p>
+      </a>
+    </li>
+    <li class="column">
+      <h2><a href="/data/">Data &amp; Products</a></h2>
+      <div class="row">
+        <img src="/images/data_products.jpg" alt="" class="column mobile-one-of-four"/>
+        <p class="column mobile-three-of-four">
+          Monitoring, station, and other various seismic data available for
+          download. Data products to view and download.
+        </p>
+      </a>
+    </li>
+    <li class="column">
+      <h2><a href="/learn/">Learn</a></h2>
+      <div class="row">
+        <img src="/images/learn_button_square.gif" alt="" class="column mobile-one-of-four"/>
+        <p class="column mobile-three-of-four">
+          The science of earthquakes, FAQ, glossary, links to earthquake
+          topics, Earthquakes for kids.
+        </p>
+      </a>
+    </li>
+    <li class="column">
+      <h2><a href="/monitoring">Monitoring</a></h2>
+      <div class="row">
+        <img src="/images/monitoring_button_square.gif" alt="" class="column mobile-one-of-four"/>
+        <p class="column mobile-three-of-four">
+          Global, national and regional networks recording earthquakes and
+          crustal movements, maps, station information, real-time seismic
+          waveforms.
+        </p>
+      </a>
+    </li>
+    <li class="column">
+      <h2><a href="/research/">Research</a></h2>
+      <div class="row">
+        <img src="/images/research_button_square.jpg" alt="" class="column mobile-one-of-four"/>
+        <p class="column mobile-three-of-four">
+          Research projects in the Earthquake Hazards Program, external
+          research support, science center activities, software.
+        </p>
+      </a>
+    </li>
+  </ul>
+</section>
