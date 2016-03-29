@@ -1,7 +1,7 @@
 CEUS catalog emm_pi.c3 (March 2016)
 mining-related eqks deleted
 declustered
-format: emw,lon(dE),lat(dN),dp(km),y,m,d,h,m,s,mwsig,nstar,comment
+format: mw*(mixed moment magnitude; for rates use column 12),lon(dE),lat(dN),dp(km),y,m,d,h,m,s,mwsig,emw,nstar,comment
 2.65 -104.900  39.900   0 1962 01 18 01 28  0.  0.515 2.65 2.020 SSC|TMP05904
 2.78 -104.900  39.900   0 1962 06 18 00 46  0.  0.240 2.78 1.165 SRA|ml,3.10MLGOL
 2.65 -104.900  39.900   0 1962 08 07 04  0  0.  0.515 2.65 2.020 SSC|TMP05943
