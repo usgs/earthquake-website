@@ -1,7 +1,7 @@
 CEUS catalog emm_pn.c2 (March 2016)
 mining-related eqks deleted
 non-declustered
-format: emw,lon(dE),lat(dN),dp(km),y,m,d,h,m,s,mwsig,nstar,comment
+format: mw*(mixed moment magnitude; for rates use column 12),lon(dE),lat(dN),dp(km),y,m,d,h,m,s,mwsig,emw,nstar,comment
 4.85  -72.500  41.500   0 1568 01 01  0  0  0.  1.00  4.85 1.0   J94|mw,4.85(mwd)(X)
 4.85  -72.500  41.500   0 1574 01 01  0  0  0.  1.00  4.85 1.0   J94|mw,4.85(mwd)(X)
 4.85  -72.500  41.500   0 1584 01 01  0  0  0.  1.00  4.85 1.0   J94|mw,4.85(mwd)(X)
