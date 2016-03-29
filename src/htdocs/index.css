@@ -1,37 +1,23 @@
-
-.main-featured > h2 {
-  margin-left: 1em;
+hr {
+  border: 0.5px solid #e8e8e8;
 }
 
-.main-featured > div > p {
-  margin-top: 0;
+.linklist h4 {
+  font-family: Source Sans Pro,Helvetica,Arial,sans-serif;
+  font-size=10px;
+  font-weight:normal;
 }
 
-.main-featured-image {
-  width: 100%;
+.li-img-margin {
+  margin-left: 160px;
 }
 
-.sub-features {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+.left {
+  float: left;
+  margin: 4px 16px 1em 0;
 }
 
-.sections > ul {
-    list-style: none;
-    margin-top: 0;
-    padding: 0;
-}
-
-.sections > ul > li:nth-child(2n+1) {
-  clear:left;
-}
-.sections > ul > li > div > p {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-dl.legal-links > dt {
-  font-weight: 500;
-  margin: 1em 0 0;
+.height_scroll {
+  max-height:800px;
+  overflow-y:auto;
 }
