@@ -1,6 +1,6 @@
 <?php
   if (!isset($TEMPLATE)) {
-    $TITLE = 'ComCat (Earthquake Catalog) Documentation';
+    $TITLE = 'ANSS Comprehensive Earthquake Catalog (ComCat) Documentation';
     $NAVIGATION = true;
 
     include 'template.inc.php';
