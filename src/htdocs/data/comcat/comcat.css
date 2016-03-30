@@ -1,0 +1,62 @@
+.typelist>dt{
+  border-top:1px solid #ddd
+  color:#333;
+  font-size:1.2em;
+  font-weight:700;
+  margin-top:1em;
+  padding-top:1em
+}
+
+.typelist>dd>dl>dt{
+  color:#999;
+  font-size:.8125em;
+  font-weight:400;
+  margin-top:1em
+}
+
+.typelist>dd>dl>dd{
+  margin:0
+}
+
+dd.datatype{
+  font-family:Monaco,Courier,monospace;
+  font-size:.9em
+}
+
+ul.attribute-list>li{
+  margin:1em
+}
+
+ul.attribute-list>li>em{
+  display:block
+}
+
+.vertical > dt {
+  margin: 1em 0;
+}
+
+.modeIcon {
+  background-image: url('data:image/png;base64,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');
+}
+
+.modeIcon.small {
+  background-size: 64px 16px;
+  display: inline-block;
+  height: 16px;
+  margin: 0 2px;
+  text-indent: -9999px;
+  vertical-align: middle;
+  width: 16px;
+}
+
+.modeIcon.help {
+  background-position: 16px 0;
+}
+
+.modeIcon.map {
+  background-position: 48px 0;
+}
+
+.modeIcon.settings {
+  background-position: 32px 0;
+}
