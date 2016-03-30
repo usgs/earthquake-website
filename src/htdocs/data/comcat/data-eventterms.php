@@ -37,6 +37,7 @@
   <li><a href="#magType">magType</a></li>
   <li><a href="#mmi">mmi</a></li>
   <li><a href="#net">net</a></li>
+  <li><a href="#nph">nph</a></li>
   <li><a href="#nst">nst</a></li>
   <li><a href="#place">place</a></li>
   <li><a href="#rms">rms</a></li>
@@ -52,19 +53,6 @@
   <li><a href="#url">url</a></li>
 </ul>
 <!--END TABLE of CONTENTS -->
-
-
-
-<p>Where does this go?</p>
-<a id="nph"></a>
-<h2>Number of Phases Used</h2>
-
-<p>
-  Number of P and S arrival-time observations used to compute the hypocenter
-  location. Increased numbers of arrival-time observations generally result in
-  improved earthquake locations.
-</p>
-
 
 <hr/>
 
@@ -651,6 +639,17 @@
             The ID of a data contributor.
             Identifies the network considered to be the preferred source of
             information for this event.
+          </dd>
+        </dl>
+      </dd>
+
+      <dt id="nph">nph</dt>
+      <dd>
+        <dl>
+          <dt>Number of Phases Used</dt><dd class="datatype">String</dd>
+          <dt>Description</dt>
+          <dd>
+            Number of P and S arrival-time observations used to compute the hypocenter location. Increased numbers of arrival-time observations generally result in improved earthquake locations.
           </dd>
         </dl>
       </dd>
