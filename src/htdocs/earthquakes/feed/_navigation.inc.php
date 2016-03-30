@@ -24,6 +24,6 @@ print navItem('/earthquakes/feed/', 'Feeds and Notifications');
     navItem('https://geohazards.usgs.gov/mailman/listinfo/realtime-feed-users', 'Mailing List-Forum/Questions')
   );
 
-  print navItem('../search/index.php', 'Search Earthquake Archives');
+  print navItem('/earthquakes/search/', 'Search Earthquake Archives');
 
 ?>
