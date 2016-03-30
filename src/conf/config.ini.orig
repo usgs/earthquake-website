@@ -1,2 +1,3 @@
-MOUNT_PATH='/absolute/url/path';
-MOUNT_DIR='/absolute/file_system/path';
+MOUNT_PATH=/absolute/url/path
+MOUNT_DIR=/absolute/file_system/path
+OFFSITE_HOST=earthquake.usgs.gov
