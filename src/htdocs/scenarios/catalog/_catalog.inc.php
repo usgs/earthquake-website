@@ -26,7 +26,8 @@ if (!isset($TEMPLATE)) {
     }
   }
 
-  $HEAD = '<link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>';
+  $HEAD = '<link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>' .
+      '<link rel="stylesheet" href="../catalog.css"/>';
 
   $FOOT = '<script src="/lib/earthquake-list-widget.js"></script>' .
       '<script src="../catalog.js"></script>';

@@ -1,0 +1,8 @@
+@media screen and (min-width: 640px) {
+  .catalog-events {
+    float: right;
+    margin-left: 16px;
+    max-width: 480px;
+    width: 50%;
+  }
+}
