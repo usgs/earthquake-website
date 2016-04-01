@@ -30,42 +30,42 @@
 			<td>Gridded Hazard Map</td>
 			<td>Peak Ground Acceleration</td>
 			<td>1% in 1 year</td>
-			<td><a href="hazardCurve_1YrModel.pga.asc.zip">Text</a> (45.8MB)</td>
+      <td><a href="onePercent_1YrModel.pga.1pc1.zip">Text</a> (3.3MB)</td>
 		</tr>
 
 		<tr>
 			<td>Gridded Hazard Map</td>
 			<td>1 Hz (1 sec)</td>
 			<td>1% in 1 year</td>
-			<td><a href="hazardCurve_1YrModel.1hz.asc.zip">Text</a> (47.8MB)</td>
+      <td><a href="onePercent_1YrModel.1hz.1pc1.zip">Text</a> (3.5MB)</td>
 		</tr>
 
 		<tr>
 			<td>Gridded Hazard Map</td>
 			<td>5 Hz (0.2 sec)</td>
 			<td>1% in 1 year</td>
-			<td><a href="hazardCurve_1YrModel.5hz.asc.zip">Text</a> (43.6MB)</td>
+      <td><a href="onePercent_1YrModel.5hz.1pc1.zip">Text</a> (3.5MB)</td>
 		</tr>
 
 		<tr>
 			<td>Hazard Curve Data</td>
 			<td>Peak Ground Acceleration</td>
 			<td>N/A</td>
-			<td><a href="onePercent_1YrModel.pga.1pc1.zip">Text</a> (3.3MB)</td>
+      <td><a href="hazardCurve_1YrModel.pga.asc.zip">Text</a> (45.8MB)</td>
 		</tr>
 
 		<tr>
 			<td>Hazard Curve Data</td>
 			<td>5 Hz (0.2 sec)</td>
 			<td>N/A</td>
-			<td><a href="onePercent_1YrModel.5hz.1pc1.zip">Text</a> (3.5MB)</td>
+      <td><a href="hazardCurve_1YrModel.5hz.asc.zip">Text</a> (43.6MB)</td>
 		</tr>
 
 		<tr>
 			<td>Hazard Curve Data</td>
 			<td>1 Hz (1 sec)</td>
 			<td>N/A</td>
-			<td><a href="onePercent_1YrModel.1hz.1pc1.zip">Text</a> (3.5MB)</td>
+      <td><a href="hazardCurve_1YrModel.1hz.asc.zip">Text</a> (47.8MB)</td>
 		</tr>
 
 	</tbody>
