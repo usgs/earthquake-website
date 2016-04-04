@@ -1,11 +1,8 @@
 <?php
 
-/*
 include_once '..' . DIRECTORY_SEPARATOR .
     'lib' . DIRECTORY_SEPARATOR .
     'Features.class.php';
-*/
-include_once 'newFeatures.class.php';
 
 date_default_timezone_set('UTC');
 
@@ -64,9 +61,8 @@ $EQ_FEATURES->baseUrl = '';
 $EQ_FEATURES->items[] = array(
   'id' => 'nevada_swarm',
   'title' => 'Ongoing Earthquake Swarm in Northwestern Nevada',
-  'content' => '<p>A swarm of earthquakes in a sparsely populated area of far northwest Nevada that began on July 12, 2014, has increased in intensity over the past several days. This activity is located about 40 miles southeast of Lakeview, OR, and 40 miles northeast of Cedarville, CA.</p>' .
-      '<p><a href="http://www.seismo.unr.edu/">Nevada Seismological Laboratory News Release</a> - click on link under Seismology Announcements</p>' .
-      '<p><a href="http://earthquake.usgs.gov/earthquakes/map/#%7B%22feed%22%3A%227day_all%22%2C%22search%22%3Anull%2C%22sort%22%3A%22newest%22%2C%22basemap%22%3A%22terrain%22%2C%22autoUpdate%22%3Atrue%2C%22restrictListToMap%22%3Atrue%2C%22timeZone%22%3A%22utc%22%2C%22mapposition%22%3A%5B%5B41.64777522274766%2C-119.93980407714844%5D%2C%5B42.030424218536325%2C-119.29367065429688%5D%5D%2C%22overlays%22%3A%7B%22plates%22%3Atrue%2C%22faults%22%3Atrue%7D%2C%22viewModes%22%3A%7B%22map%22%3Atrue%2C%22list%22%3Atrue%2C%22settings%22%3Afalse%2C%22help%22%3Afalse%7D%7D">Earthquakes in Last 7 Days in Swarm Area</a></p>',
+  'content' => '<p>A swarm of earthquakes in a sparsely populated area of far northwest Nevada that began on July 12, 2014, has increased in intensity over the past several days.</p>' .
+      '<p>This activity is located about 40 miles southeast of Lakeview, OR, and 40 miles northeast of Cedarville, CA.</p>',
   'link' => 'http://www.seismo.unr.edu/',
   'modified' => strtotime('2014-11-01'),
   'image' => 'images/ongoing-earthquake-swarm-in-northwestern.png'
@@ -79,8 +75,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'This year\'s edition of The Great ShakeOut is scheduled for October 16, 2014, at 10:16 AM local time. Participants across the nation and around the world are encouraged to practice the safety actions of &ldquo;drop, cover, and hold on&rdquo;, and to explore other earthquake preparedness steps.',
   'link' => 'http://www.shakeout.org',
   'modified' => strtotime('2014-11-01'),
-  'thumbnail' => 'images/the-great-shakeout-oct-16-2014.gif',
-  'image' => 'images/the-great-shakeout-oct-16-2014.gif'
+  'thumbnail' => 'images/image-150for75.gif',
+  'image' => 'images/image-150for75.gif'
 );
 
 $EQ_FEATURES->items[] = array(
@@ -89,6 +85,6 @@ $EQ_FEATURES->items[] = array(
   'content' => 'Thirty seismometers are being installed in the Nation\'s capital this winter to monitor ground tremors to better estimate the intensity of ground shaking that can be expected during future earthquakes in the area.',
   'link' => 'http://www.usgs.gov/newsroom/article.asp?ID=4028',
   'modified' => strtotime('2014-11-01'),
-  'thumbnail' => 'images/seismometers-to-measure-dc-shaking.jpg',
-  'image' => 'images/seismometers-to-measure-dc-shaking.jpg'
+  'thumbnail' => 'images/image-150for75.gif',
+  'image' => 'images/image-150for75.gif'
 );
