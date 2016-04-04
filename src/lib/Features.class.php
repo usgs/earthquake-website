@@ -88,19 +88,28 @@ class Features {
     $len = count($items);
 
     $r = '';
-    for ($i = 0; $i < $len && $i < $numFeatured; $i++) {
-      $r .= $this->getFeaturedHtml($items[$i]);
-    }
+		$r .= '<div class="row">';
 
-    $r .= '<ul class="sub-features">';
-    for ($i = $numFeatured; $i < $len && $i < $numItems; $i++) {
-      $r .= '<li>' .
-        $this->getItemHtml($items[$i]) .
-        '</li>';
-    }
-    $r .= '</ul>';
-    return $r;
-  }
+		for ($i = 0; $i < $len && $i < $numFeatured; $i++) {
+			$r .= '<div class="column one-of-two feature-main">' .
+				$this->getFeaturedHtml($items[$i]) .
+			'</div>';
+
+		}
+
+    $r .= '<div class="column one-of-two">';
+    $r .= '<ul class="no-style linklist feature-subfeatures">';
+		for ($i = $numFeatured; $i < $len && $i < $numItems; $i++) {
+			$r .= '<li class="feature-item">' .
+				$this->getItemHtml($items[$i]) .
+				'</li>';
+		}
+		$r .= '</ul>' .
+        '</div>' .
+		'</div>';
+
+		return $r;
+	}
 
   /**
    * Format a featured item as Html
@@ -108,21 +117,15 @@ class Features {
    * @param item {Item}
    * @return {String} html formatted item.
    */
-  protected function getFeaturedHtml ($item) {
-    $r = '<div class="main-featured">' .
-          '<h2 style="margin-bottom:.5em;">' .
-            '<a href="' . $item['link'] . '">' . $item['title'] . '</a>' .
-          '</h2>' .
-          '<div class="row">' .
-            '<div class="one-of-four column">' .
-              '<img class="main-featured-image" src="' . $item['image'] .
-                  '" alt=""/>' .
-            '</div>' .
-            '<div class="three-of-four column">' . $item['content'] . '</div>' .
-          '</div>' .
-        '</div>';
-    return $r;
-  }
+   protected function getFeaturedHtml ($item) {
+ 		return '<a href="' . $item['link'] . '">' .
+ 			'<h3 class="feature-title">' . $item['title'] . '</h3>' .
+ 			'<div class="feature-image"' .
+          ' style="background-image:url(' . $item['image'] . ')"' .
+          '></div>' .
+ 			'</a>' .
+ 			'<p>' . $item['content'] . '</p>';;
+ 	}
 
   /**
    * Format an item as Html.
@@ -130,12 +133,14 @@ class Features {
    * @param item {Item}
    * @return {String} html formatted item.
    */
-  protected function getItemHtml ($item) {
-    return '<h2>' .
-      '<a href="' . $item['link'] . '">'. $item['title'] . '</a>' .
-      '</h2>' .
-      '<div>' . $item['content'] . '</div>';
-  }
+
+   protected function getItemHtml ($item) {
+ 		return '<a href="' . $item['link'] . '">' .
+ 			'<h3 class="feature-title">' . $item['title'] . '</h3>' .
+ 			'<img class="feature-image" src="' . $item['thumbnail'] . '" alt="" />' .
+ 			'</a>' .
+ 			'<p>' . $item['content'] . '</p>';
+ 	}
 
   /**
    * Format Features list as Atom feed.
@@ -213,4 +218,3 @@ class Features {
   }
 
 }
-
