@@ -1,0 +1,23 @@
+hr {
+  border: 0.5px solid #e8e8e8;
+}
+
+.linklist h4 {
+  font-family: Source Sans Pro,Helvetica,Arial,sans-serif;
+  font-size=10px;
+  font-weight:normal;
+}
+
+.li-img-margin {
+  margin-left: 160px;
+}
+
+.left {
+  float: left;
+  margin: 4px 16px 1em 0;
+}
+
+.height_scroll {
+  max-height:800px;
+  overflow-y:auto;
+}
