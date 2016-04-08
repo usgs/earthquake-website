@@ -36,7 +36,7 @@
           <img src="images/scenario-coll.jpg" width="75px" alt=""/>
         </a>
         <p>
-          Map and list of scenarios determined using the <a href="">2014 National Seismic Hazard fault database</a>.
+          Map and list of scenarios determined using the <a href="/hazards/">2014 National Seismic Hazard fault database</a>.
         </p>
       </li>
     </ul>
@@ -58,7 +58,7 @@
 </div>
 
 <div class="row">
-  
+
 <!-- remove this section when the Search link becomes functional. -->
   <section class="column one-of-two">
     <ul class="no-style linklist">
