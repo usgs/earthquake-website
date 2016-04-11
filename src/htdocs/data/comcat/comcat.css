@@ -60,3 +60,10 @@ ul.attribute-list>li>em{
 .modeIcon.settings {
   background-position: 32px 0;
 }
+
+
+/* used by catalog/contributor pages */
+
+.adr + .adr {
+  margin-top: 1em;
+}
