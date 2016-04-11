@@ -31,14 +31,14 @@ More complete example:
   "title": "Northern California Seismic System, UC Berkeley and USGS Menlo Park",
   "url": "http://www.ncedc.org/",
   "email": "ncsn@andreas.wr.usgs.gov",
-  "address": {
+  "address": [{
     "org": "U.S. Geological Survey\nSeismology Section",
     "street-address": "345 Middlefield Road",
     "extended-address": "MS 977",
     "locality": "Menlo Park",
     "region": "CA",
     "postal-code": "94025"
-  },
+  }],
   "tel": [
     {
       "type": "Earthquake Information",
@@ -55,6 +55,12 @@ More complete example:
   ]
 }
 ```
+
+### NOTES:
+
+- "address" can be an array of addresses.  The "org" address property is output
+as the vcard adr type ( http://microformats.org/wiki/adr ) and as such can be
+either an organization or mailing address type.
 
 
 ## index.php
