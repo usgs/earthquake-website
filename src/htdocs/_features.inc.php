@@ -1,8 +1,6 @@
 <?php
 
-include_once '..' . DIRECTORY_SEPARATOR .
-    'lib' . DIRECTORY_SEPARATOR .
-    'Features.class.php';
+include_once 'Features.class.php';
 
 date_default_timezone_set('UTC');
 
