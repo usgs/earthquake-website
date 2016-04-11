@@ -36,38 +36,38 @@ and a link to Significant Earthquakes, Past 30 Days
       <li>
         <a href="map/">
           <h4>Latest Earthquakes</h4>
-          <img src="images/latest-eq-2x.gif" width="150" alt="map of latest earthquakes"/>
+          <img src="images/latesteqs-300for150.gif" width="150" alt="map of latest earthquakes"/>
         </a>
         <p>Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
         </p>
       </li>
       <li>
-        <a href="feed/">
-          <h4>Real-time Feeds and Notifications</h4>
-          <img src="images/notif-2x.gif" width="150" alt="screenshot of iphone EQ notification"/>
-        </a>
-        <p>Get real-time earthquake notifications sent to you on your phone or by email. Use real-time web services for your own applications.</p>
-      </li>
-      <li>
         <a href="lists/">
           <h4>Earthquake Lists, Maps and Statistics</h4>
-          <img src="/data/images/search-2x.gif" width="150" alt="screenshot of EQ search form"/>
+          <img src="images/lists-300for150.gif" width="150" alt="screenshot of EQ search form"/>
         </a>
         <p>10 largest earthquakes, significant events, lists and maps by magnitude, by year, or by location.</p>
       </li>
       <li>
-        <a href="byregion/">
-          <h4>Information by Region</h4>
-          <img src="images/byregion-2x.gif" width="150" alt="US map"/>
-        </a>
-        <p>Information by state, and world seismicity maps. Links to earthquake-related information for each state.</p>
-      </li>
-      <li>
         <a href="search/">
           <h4>Earthquake Catalog Search</h4>
-          <img src="/data/images/search-2x.gif" width="150" alt="screenshot of EQ search form"/>
+          <img src="images/search-300for150.gif" width="150" alt="screenshot of EQ search form"/>
         </a>
         <p>Find past earthquakes that meet your criteria. Various output  formats, and links to earthquake details.</p>
+      </li>
+      <li>
+        <a href="feed/">
+          <h4>Real-time Feeds and Notifications</h4>
+          <img src="images/feeds-300for150.gif" width="150" alt="screenshot of iphone EQ notification"/>
+        </a>
+        <p>Get real-time earthquake notifications sent to you on your phone or by email. Use real-time web services for your own applications.</p>
+      </li>
+      <li>
+        <a href="byregion/">
+          <h4>Information by Region</h4>
+          <img src="images/byregion-300for150.gif" width="150" alt="US map"/>
+        </a>
+        <p>Information by state, and world seismicity maps. Links to earthquake-related information for each state.</p>
       </li>
     </ul>
 
@@ -81,7 +81,7 @@ and a link to Significant Earthquakes, Past 30 Days
       </a>
     </h3>
 
-    <div id="significant-earthquakes" class="height_scroll" style="overflow:scroll; height:600px; background:#f4f4f4;">
+    <div id="significant-earthquakes" class="height_scroll" style="overflow:scroll; background:#f4f4f4;">
       $NAVIGATION = true;
       $HEAD = '
         <link rel="stylesheet" href="/theme/css/alert.css"/>
@@ -92,13 +92,6 @@ and a link to Significant Earthquakes, Past 30 Days
         <script src="index.js"></script>
       ';
     </div>
-
-    <h3>Impact Products</h3>
-      <ul>
-        <li><a href="/research/dyfi/">Did You Feel It? Tell Us!</a></li>
-        <li><a href="/research/shakemap/">ShakeMap</a></li>
-        <li><a href="/research/pager">PAGER</a></li>
-      </ul>
 
     <h3><a href="errata.php">Errata for Latest Earthquakes</a></h3>
     <p>Mistakes happen. Here are the explanations.</p>
