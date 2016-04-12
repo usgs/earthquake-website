@@ -11,6 +11,19 @@ Each directory must:
   - contain a file named `index.php`
 
 
+## Logos
+
+Catalog logos are in the `src/htdocs/data/comcat/logos` directory, named
+`contributor.svg` (where `contributor` is the lower case contributor code).
+
+- SVG 1.1 format (preferred) or optimized PNG
+- trim to artwork (i.e. not 8.5x11)
+- may use transparency
+- will be displayed
+  - 56px tall
+  - on a dark background
+
+
 ## index.json
 
 File for structured metadata.
@@ -56,11 +69,115 @@ More complete example:
 }
 ```
 
-### NOTES:
 
-- "address" can be an array of addresses.  The "org" address property is output
-as the vcard adr type ( http://microformats.org/wiki/adr ) and as such can be
-either an organization or mailing address type.
+
+### Supported JSON Properties
+
+<dl>
+<dt>`id`</dt>
+<dd>
+  (Required)
+  Catalog code, should match the directory name.
+</dd>
+
+<dt>`title`</dt>
+<dd>
+  (Required)
+  Full name for catalog organization.
+  This title is displayed when linking to this page.
+</dd>
+
+<dt>`url`</dt>
+<dd>URL for catalog home page, or more information about catalog.</dd>
+
+<dt>`citation`</dt>
+<dd>
+  DOI number (preferred),
+  or other citation information for users to reference this catalog.
+</dd>
+
+<dt>`email`</dt>
+<dd>
+  <p>NOTE: contact information is more commonly included on
+  contributor pages, which may be linked in the PHP file.</p>
+
+  Email address to contact catalog.
+</dd>
+
+<dt>`email-name`</dt>
+<dd>
+  Name or text associated with email address (`email`)
+  Only used when `email` is set.
+</dd>
+
+<dt>`address`</dt>
+<dd>
+  <p>NOTE: contact information is more commonly included on
+  contributor pages, which may be linked in the PHP file.</p>
+
+  Mailing address or addresses.
+  May be an array containing multiple addresses.
+  Each address has the following properties:
+
+  <dl>
+  <dt>`org`</dt>
+  <dd>Title or organization for address</dd>
+
+  <dt>`street-address`</dt>
+  <dd>
+    (Required)
+    First line of address
+  </dd>
+
+  <dt>`extended-address`</dt>
+  <dd>Second line of address</dd>
+
+  <dt>`locality`</dt>
+  <dd>
+    (Required)
+    Address city
+  </dd>
+
+  <dt>`region`</dt>
+  <dd>
+    (Required)
+    Address state/region
+  </dd>
+
+  <dt>`postal-code`</dt>
+  <dd>
+    (Required)
+    Address ZIP/postal code
+  </dd>
+
+  <dt>`country`</dt>
+  <dd>Address country</dd>
+  </dl>
+</dd>
+
+
+<dt>`tel`</dt>
+<dd>
+  <p>NOTE: contact information is more commonly included on
+  contributor pages, which may be linked in the PHP file.</p>
+
+  Array of telephone numbers.
+  Each telephone number has the following properties:
+
+  <dl>
+  <dt>`type`</dt>
+  <dd>
+    (Required)
+    Text describing telephone number, e.g. "Earthquake Information".
+  </dd>
+
+  <dt>`value`</dt>
+  <dd>
+    (Required)
+    Phone number with country and area code, e.g. "+1-555-555-5555".
+  </dd>
+  </dl>
+</dd>
 
 
 ## index.php
@@ -94,6 +211,11 @@ include '../_catalog.inc.php';
 
 <h2 id="description">Description</h2>
 <p>This catalog is unique because...</p>
+
+<h2 id="contributors">Contributors</h2>
+<ul>
+  <li><a href="../../contributor/nc/">NC (Contributor)</a></li>
+</ul>
 
 <h2 id="references">References</h2>
 <ul class="referencelist">
