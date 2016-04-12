@@ -74,29 +74,29 @@ More complete example:
 ### Supported JSON Properties
 
 <dl>
-<dt>`id`</dt>
+<dt>id</dt>
 <dd>
   (Required)
   Catalog code, should match the directory name.
 </dd>
 
-<dt>`title`</dt>
+<dt>title</dt>
 <dd>
   (Required)
   Full name for catalog organization.
   This title is displayed when linking to this page.
 </dd>
 
-<dt>`url`</dt>
+<dt>url</dt>
 <dd>URL for catalog home page, or more information about catalog.</dd>
 
-<dt>`citation`</dt>
+<dt>citation</dt>
 <dd>
   DOI number (preferred),
   or other citation information for users to reference this catalog.
 </dd>
 
-<dt>`email`</dt>
+<dt>email</dt>
 <dd>
   <p>NOTE: contact information is more commonly included on
   contributor pages, which may be linked in the PHP file.</p>
@@ -104,13 +104,13 @@ More complete example:
   Email address to contact catalog.
 </dd>
 
-<dt>`email-name`</dt>
+<dt>email-name</dt>
 <dd>
-  Name or text associated with email address (`email`)
-  Only used when `email` is set.
+  Name or text associated with email address (email)
+  Only used when email is set.
 </dd>
 
-<dt>`address`</dt>
+<dt>address</dt>
 <dd>
   <p>NOTE: contact information is more commonly included on
   contributor pages, which may be linked in the PHP file.</p>
@@ -120,43 +120,43 @@ More complete example:
   Each address has the following properties:
 
   <dl>
-  <dt>`org`</dt>
+  <dt>org</dt>
   <dd>Title or organization for address</dd>
 
-  <dt>`street-address`</dt>
+  <dt>street-address</dt>
   <dd>
     (Required)
     First line of address
   </dd>
 
-  <dt>`extended-address`</dt>
+  <dt>extended-address</dt>
   <dd>Second line of address</dd>
 
-  <dt>`locality`</dt>
+  <dt>locality</dt>
   <dd>
     (Required)
     Address city
   </dd>
 
-  <dt>`region`</dt>
+  <dt>region</dt>
   <dd>
     (Required)
     Address state/region
   </dd>
 
-  <dt>`postal-code`</dt>
+  <dt>postal-code</dt>
   <dd>
     (Required)
     Address ZIP/postal code
   </dd>
 
-  <dt>`country`</dt>
+  <dt>country</dt>
   <dd>Address country</dd>
   </dl>
 </dd>
 
 
-<dt>`tel`</dt>
+<dt>tel</dt>
 <dd>
   <p>NOTE: contact information is more commonly included on
   contributor pages, which may be linked in the PHP file.</p>
@@ -165,13 +165,13 @@ More complete example:
   Each telephone number has the following properties:
 
   <dl>
-  <dt>`type`</dt>
+  <dt>type</dt>
   <dd>
     (Required)
     Text describing telephone number, e.g. "Earthquake Information".
   </dd>
 
-  <dt>`value`</dt>
+  <dt>value</dt>
   <dd>
     (Required)
     Phone number with country and area code, e.g. "+1-555-555-5555".
