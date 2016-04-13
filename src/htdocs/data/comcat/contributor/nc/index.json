@@ -12,6 +12,14 @@
     "region": "CA",
     "postal-code": "94025"
   },
+  "address": {
+    "org": "UC Berkeley Seismological Lab",
+    "street-address": "307 McCone Hall",
+    "extended-address": "#4760",
+    "locality": "Berkeley",
+    "region": "CA",
+    "postal-code": "94720-4760"
+  },
   "tel": [
     {
       "type": "USGS",
