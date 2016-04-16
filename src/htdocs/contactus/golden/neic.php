@@ -40,7 +40,7 @@
 
   <div class="column one-of-three">
       <figure>
-        <img src="images/neic_bldg.jpg" alt="National Earthquake Information Center building">
+        <img src="images/ghsc-neicbldg.jpg" alt="National Earthquake Information Center building">
         <figcaption>
           National Earthquake Information Center building
         </figcaption>
