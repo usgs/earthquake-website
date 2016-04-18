@@ -3,7 +3,7 @@
   "title": "New Madrid Seismic Network",
   "url": "http://www.memphis.edu/ceri/seismic/",
   "aliases": null,
-  "email": "withers@ceri.memphis.edu",
+  "email": "mwithers@memphis.edu",
   "address": {
     "org": "Center for Earthquake Research and Information\nThe University of Memphis",
     "street-address": "3890 Central Ave",
@@ -14,7 +14,7 @@
   "tel": [
     {
       "type": "Voice",
-      "value": "+1-901-678-2007"
+      "value": "+1-901-678-4940"
     },
     {
       "type": "Fax",
