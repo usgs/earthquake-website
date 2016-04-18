@@ -42,11 +42,12 @@ and a link to Significant Earthquakes, Past 30 Days
         </p>
       </li>
       <li>
-        <a href="lists/">
+        <!-- <a href="browse/"> -->
+        <a href="/earthquakes/eqarchives/">
           <h4>Earthquake Lists, Maps and Statistics</h4>
           <img src="images/lists-300for150.gif" width="150" alt="screenshot of EQ search form"/>
         </a>
-        <p>10 largest earthquakes, significant events, lists and maps by magnitude, by year, or by location.</p>
+        <p>largest earthquakes, significant events, lists and maps by magnitude, by year, or by location.</p>
       </li>
       <li>
         <a href="search/">
