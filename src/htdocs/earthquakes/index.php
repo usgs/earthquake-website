@@ -64,7 +64,8 @@ and a link to Significant Earthquakes, Past 30 Days
         <p>Get real-time earthquake notifications sent to you on your phone or by email. Use real-time web services for your own applications.</p>
       </li>
       <li>
-        <a href="byregion/">
+        <!-- <a href="byregion/"> -->
+        <a href="/earthquakes/region.php">
           <h4>Information by Region</h4>
           <img src="images/byregion-300for150.gif" width="150" alt="US map"/>
         </a>
