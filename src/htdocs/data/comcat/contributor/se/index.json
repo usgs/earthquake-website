@@ -1,6 +1,18 @@
 {
   "id": "se",
   "title": "Center for Earthquake Research and Information",
-  "url": "http://www.ceri.memphis.edu/seismic/",
+  "url": "http://www.memphis.edu/ceri/seismic/",
   "aliases": null
+  "email": "mwithers@memphis.edu",
+  "email-name": "Mitch Withers",
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "901-678-4940"
+    },
+    {
+      "type": "Fax",
+      "value": "901-678-4734"
+    }
+  ]
 }
