@@ -1,54 +1,23 @@
 
 .sections > ul {
-    list-style: none;
-    margin-top: 0;
-    padding: 0;
+  list-style: none;
+  margin-top: 0;
+  padding: 0;
 }
 
-.sections > ul > li:nth-child(2n+1) {
-  clear:left;
+.sections > ul > li {
+  max-width: 100%;
 }
+
 .sections > ul > li > div > p {
-  margin-top: 0;
   margin-bottom: 0;
-}
-
-.feature-main {
-	position: relative;
-}
-
-.feature-main > a > .feature-title {
-	position: absolute;
-	top: 20px;
-	left: 5%;
-	margin: 0;
-	text-align: center;
-	width: 90%;
-	color: #eee;
-	line-height: 1.3;
-	font-size: 22px;
-	text-shadow: -1px 1px 0px #000,
-	  -3px 3px 10px #666;
-}
-
-.feature-main > a > .feature-image {
-	height: 300px;
-	background-size: 464px;
-}
-.feature-main > a> .feature-image:after {
-	content: '';
-	background: -webkit-linear-gradient(top, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
-	display: block;
-	width: 100%;
-	height: 70%;
-}
-
-.feature-subfeatures,
-.feature-subfeatures > .feature-item {
   margin-top: 0;
-  padding-top: 0;
+  max-width: 100%;
+  padding-left: 16px;
 }
 
-img.feature-image {
-  width: 75px;
+.sections > ul > li > div > img {
+  max-height: 87px;
+  max-width: 100%;
+  padding-left: 16px;
 }
