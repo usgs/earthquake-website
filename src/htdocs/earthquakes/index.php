@@ -43,7 +43,7 @@ and a link to Significant Earthquakes, Past 30 Days
       </li>
       <li>
         <!-- <a href="browse/"> -->
-        <a href="/earthquakes/eqarchives/">
+        <a href="eqarchives/">
           <h4>Earthquake Lists, Maps and Statistics</h4>
           <img src="images/lists-300for150.gif" width="150" alt="screenshot of EQ search form"/>
         </a>
@@ -51,7 +51,7 @@ and a link to Significant Earthquakes, Past 30 Days
       </li>
       <li>
         <a href="search/">
-          <h4>Earthquake Catalog Search</h4>
+          <h4>Search Earthquake Catalog</h4>
           <img src="images/search-300for150.gif" width="150" alt="screenshot of EQ search form"/>
         </a>
         <p>Find past earthquakes that meet your criteria. Various output  formats, and links to earthquake details.</p>
@@ -65,7 +65,7 @@ and a link to Significant Earthquakes, Past 30 Days
       </li>
       <li>
         <!-- <a href="byregion/"> -->
-        <a href="/earthquakes/region.php">
+        <a href="region.php">
           <h4>Information by Region</h4>
           <img src="images/byregion-300for150.gif" width="150" alt="US map"/>
         </a>
@@ -94,6 +94,9 @@ and a link to Significant Earthquakes, Past 30 Days
         <script src="index.js"></script>
       ';
     </div>
+
+    <h3><a href="/data/comcat/">ANSS Comprehensive Earthquake Catalog (ComCat) Documentation</a></h3>
+    <p>Data availability, formats, API, feeds, access, contributors.</p>
 
     <h3><a href="errata.php">Errata for Latest Earthquakes</a></h3>
     <p>Mistakes happen. Here are the explanations.</p>
