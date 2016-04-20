@@ -17,7 +17,7 @@ echo $EQ_FEATURES->toHtml();
     <li class="column">
       <h2><a href="/earthquakes/">Earthquakes</a></h2>
       <div class="row">
-        <img src="/images/home-earthquakes800for400.gif" alt="" />
+        <img src="/images-home/home-earthquakes800for400.gif" alt="" />
         <p>
           Information about real-time earthquakes, online catalog search of
           archives, seismicity maps and statistics.
@@ -27,7 +27,7 @@ echo $EQ_FEATURES->toHtml();
     <li class="column">
       <h2><a href="/hazards/">Hazards</a></h2>
       <div class="row">
-        <img src="/images/home-hazards800for400.gif" alt="" />
+        <img src="/images-home/home-hazards800for400.gif" alt="" />
         <p>
           US faults, information about seismic hazards in various areas,
           tools for seismic design values.
@@ -37,7 +37,7 @@ echo $EQ_FEATURES->toHtml();
     <li class="column">
       <h2><a href="/data/">Data &amp; Products</a></h2>
       <div class="row">
-        <img src="/images/home-data800for400.gif" alt="" />
+        <img src="/images-home/home-data800for400.gif" alt="" />
         <p>
           Monitoring, station, and other various seismic data available for
           download. Data products to view and download.
@@ -47,7 +47,7 @@ echo $EQ_FEATURES->toHtml();
     <li class="column">
       <h2><a href="/learn/">Learn</a></h2>
       <div class="row">
-        <img src="/images/home-learn800for400.jpg" alt="" />
+        <img src="/images-home/home-learn800for400.jpg" alt="" />
         <p>
           The science of earthquakes, FAQ, glossary, links to earthquake
           topics, Earthquakes for kids.
@@ -57,7 +57,7 @@ echo $EQ_FEATURES->toHtml();
     <li class="column">
       <h2><a href="/monitoring">Monitoring</a></h2>
       <div class="row">
-        <img src="/images/home-monitoring800for400.gif" alt="" />
+        <img src="/images-home/home-monitoring800for400.gif" alt="" />
         <p>
           Global, national and regional networks recording earthquakes and
           crustal movements, maps, station information, real-time seismic
@@ -68,7 +68,7 @@ echo $EQ_FEATURES->toHtml();
     <li class="column">
       <h2><a href="/research/">Research</a></h2>
       <div class="row">
-        <img src="/images/home-research800for400.jpg" alt="" />
+        <img src="/images-home/home-research800for400.jpg" alt="" />
         <p>
           Research projects in the Earthquake Hazards Program, external
           research support, science center activities, software.
