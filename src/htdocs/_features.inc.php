@@ -1,8 +1,6 @@
 <?php
 
-include_once '..' . DIRECTORY_SEPARATOR .
-    'lib' . DIRECTORY_SEPARATOR .
-    'Features.class.php';
+include_once 'Features.class.php';
 
 date_default_timezone_set('UTC');
 
@@ -64,7 +62,7 @@ $EQ_FEATURES->items[] = array(
   'content' => 'In the first comprehensive study of its kind for Utah, Earthquake Probabilities for the Wasatch Front Region in Utah, Idaho, and Wyoming forecasts the chances for damaging earthquakes in the Wasatch Front region.',
   'link' => 'http://www.usgs.gov/newsroom/article.asp?ID=4511',
   'modified' => strtotime('2016-04-19'),
-  'thumbnail' => 'images-featured/utah-high.png'
+  'thumbnail' => 'images-featured/utah-high.png',
   'image' => 'images-featured/utah-high.png'
 );
 
