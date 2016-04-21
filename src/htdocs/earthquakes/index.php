@@ -84,15 +84,12 @@ and a link to Significant Earthquakes, Past 30 Days
     </h3>
 
     <div id="significant-earthquakes" class="height_scroll" style="overflow:scroll; background:#f4f4f4;">
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="/theme/css/alert.css"/>
-        <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
-      ';
-      $FOOT = '
-        <script src="/lib/earthquake-list-widget.js"></script>
-        <script src="index.js"></script>
-      ';
+
+      <noscript class="error alert">
+        Javascript is used to load event data. If you can not enable Javascript,
+        you can <a href="feed/v1.0/summary/significant_month.csv">view
+        the raw data here</a>.
+      </noscript>
     </div>
 
     <h3><a href="/data/comcat/">ANSS Comprehensive Earthquake Catalog (ComCat) Documentation</a></h3>
