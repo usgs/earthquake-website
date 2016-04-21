@@ -270,7 +270,7 @@
   <dd>
     <p>
       The data used for these features was acquired from the
-      <a href="https://geohazards.usgs.gov/hazfaults/map2008.php">Hazard Faults
+      <a href="http://geohazards.usgs.gov/cfusion/hazfaults_2014_search/query_main.cfm">Hazard Faults
       Database for the United States</a>. See the <a href="/hazards/qfaults/">
       Quaternary Fault and Fold Database of the United States</a> for more
       information.

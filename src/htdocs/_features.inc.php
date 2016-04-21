@@ -1,8 +1,6 @@
 <?php
 
-include_once '..' . DIRECTORY_SEPARATOR .
-    'lib' . DIRECTORY_SEPARATOR .
-    'Features.class.php';
+include_once 'Features.class.php';
 
 date_default_timezone_set('UTC');
 
@@ -59,32 +57,31 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
-  'id' => 'nevada_swarm',
-  'title' => 'Ongoing Earthquake Swarm in Northwestern Nevada',
-  'content' => '<p>A swarm of earthquakes in a sparsely populated area of far northwest Nevada that began on July 12, 2014, has increased in intensity over the past several days.</p>' .
-      '<p>This activity is located about 40 miles southeast of Lakeview, OR, and 40 miles northeast of Cedarville, CA.</p>',
-  'link' => 'http://www.seismo.unr.edu/',
-  'modified' => strtotime('2014-11-01'),
-  'image' => 'images/ongoing-earthquake-swarm-in-northwestern.png'
-);
-
-
-$EQ_FEATURES->items[] = array(
-  'id' => 'great_shakeout_2014',
-  'title' => 'The Great ShakeOut - Oct 16, 2014',
-  'content' => 'This year\'s edition of The Great ShakeOut is scheduled for October 16, 2014, at 10:16 AM local time. Participants across the nation and around the world are encouraged to practice the safety actions of &ldquo;drop, cover, and hold on&rdquo;, and to explore other earthquake preparedness steps.',
-  'link' => 'http://www.shakeout.org',
-  'modified' => strtotime('2014-11-01'),
-  'thumbnail' => 'images/image-150for75.gif',
-  'image' => 'images/image-150for75.gif'
+  'id' => '2016-utah-high',
+  'title' => 'New Report Forecasts the High Likelihood of Damaging Earthquakes During the Lifetime of Many Utah Residents',
+  'content' => 'In the first comprehensive study of its kind for Utah, Earthquake Probabilities for the Wasatch Front Region in Utah, Idaho, and Wyoming forecasts the chances for damaging earthquakes in the Wasatch Front region.',
+  'link' => 'http://www.usgs.gov/newsroom/article.asp?ID=4511',
+  'modified' => strtotime('2016-04-19'),
+  'thumbnail' => 'images-featured/utah-high.png',
+  'image' => 'images-featured/utah-high.png'
 );
 
 $EQ_FEATURES->items[] = array(
-  'id' => 'measure_dc_shaking',
-  'title' => 'Seismometers to Measure DC Shaking',
-  'content' => 'Thirty seismometers are being installed in the Nation\'s capital this winter to monitor ground tremors to better estimate the intensity of ground shaking that can be expected during future earthquakes in the area.',
-  'link' => 'http://www.usgs.gov/newsroom/article.asp?ID=4028',
-  'modified' => strtotime('2014-11-01'),
-  'thumbnail' => 'images/image-150for75.gif',
-  'image' => 'images/image-150for75.gif'
+  'id' => '2016-campaign-prep-sca',
+  'title' => 'New Campaign Urges Earthquake Preparedness In Quake-Prone Southern California',
+  'content' => 'USGS and Clear Channel Outdoor Americas Partner to Bring Vital Earthquake Safety Information to the Public During this Year’s Earthquake Preparedness Month.',
+  'link' => 'http://www.usgs.gov/newsroom/article.asp?ID=4509',
+  'modified' => strtotime('2016-04-12'),
+  'thumbnail' => 'images-featured/campaign-prep-sca.jpg',
+  'image' => 'images-featured/campaign-prep-sca.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2016-1yr-hazmap',
+  'title' => '2016 One-Year Seismic Hazard Forecast for the Central and Eastern United States from Induced and Natural Earthquakes',
+  'content' => 'The U.S. Geological Survey (USGS) has produced a 1-year seismic hazard forecast for 2016 for the Central and Eastern United States (CEUS) that includes contributions from both induced and natural earthquakes.',
+  'link' => 'hazards/induced/',
+  'modified' => strtotime('2016-04-01'),
+  'thumbnail' => 'images-featured/2016-1yr-hazmap.gif',
+  'image' => 'images-featured/2016-1yr-hazmap.gif'
 );

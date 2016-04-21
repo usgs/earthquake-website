@@ -1,5 +1,6 @@
 <?php
 
+print navItem('/earthquakes/', 'Earthquakes');
 print navItem('/earthquakes/feed/', 'Feeds and Notifications');
 
   print navGroup('Real-time Feeds',
@@ -23,7 +24,5 @@ print navItem('/earthquakes/feed/', 'Feeds and Notifications');
     navItem('https://geohazards.usgs.gov/mailman/listinfo/realtime-feeds', 'Mailing List-Announcements') .
     navItem('https://geohazards.usgs.gov/mailman/listinfo/realtime-feed-users', 'Mailing List-Forum/Questions')
   );
-
-  print navItem('/earthquakes/search/', 'Search Earthquake Archives');
 
 ?>
