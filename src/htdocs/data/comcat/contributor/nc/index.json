@@ -4,7 +4,8 @@
   "url": "http://www.ncedc.org/ncss/",
   "aliases": null,
   "email": "ncssinfo@cisn.org",
-  "address": {
+  "address": [
+  {
     "org": "U.S. Geological Survey",
     "street-address": "345 Middlefield Road",
     "extended-address": "MS 977",
@@ -12,14 +13,15 @@
     "region": "CA",
     "postal-code": "94025"
   },
-  "address": {
+  {
     "org": "UC Berkeley Seismological Lab",
     "street-address": "307 McCone Hall",
     "extended-address": "#4760",
     "locality": "Berkeley",
     "region": "CA",
     "postal-code": "94720-4760"
-  },
+  }
+  ],
   "tel": [
     {
       "type": "USGS",
