@@ -69,7 +69,7 @@ and a link to Significant Earthquakes, Past 30 Days
           <h4>Information by Region</h4>
           <img src="images/byregion-300for150.gif" width="150" alt="US map"/>
         </a>
-        <p>Information by state, and world seismicity maps. Links to earthquake-related information for each state.</p>
+        <p><a href="region.php">Information by state</a>, and <a href="world/seismicity_maps/">world seismicity maps</a>. Links to earthquake-related information for each state.</p>
       </li>
     </ul>
 
