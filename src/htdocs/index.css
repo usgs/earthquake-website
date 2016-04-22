@@ -16,7 +16,7 @@
   padding-left: 16px;
 }
 
-.sections > ul > li > div > img {
+.sections > ul > li > div > a > img {
   max-height: 87px;
   max-width: 100%;
   padding-left: 16px;
