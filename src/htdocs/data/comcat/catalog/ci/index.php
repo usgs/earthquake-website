@@ -42,6 +42,13 @@ include '../_catalog.inc.php';
 <h3>Other Notifications</h3>
 <ul>
 <li>
+As of April 4, 2016, all origins, magnitudes, and associated phases from the 
+SCSN earthquake catalog have been migrated into ComCat. Further work loading
+focal mechanisms and moment tensors will be completed later in 2016.
+If you see any discrepancies with origins and magnitudes, please report to 
+the email contact listed above.
+</li>  
+<li>
 Starting on January 28, 2016, the Southern California Earthquake Data Center 
 (SCEDC) has begun migrating the historical SCSN earthquake catalog into ComCat.
 Prior to this effort ComCat contained SCSN events after 2013.
@@ -49,7 +56,7 @@ This data load will have all depths (1931 to present) referenced to the
 WGS84 ellipsoid.
 This effort is anticipated to require several days. Users should be aware
 that until an announcement is made on this page they may find discrepancies
-between ComCat and the local catalog, especially prior to 2013. 
+between ComCat and the local catalog, especially prior to 2013.</li> 
 <li>As of 21:30 UTC September 22, 2015, events in the catalog have depths referenced
 to the WGS84 ellipsoid.  Prior to this date depths are referenced to the model
 datum.  We are in the process of migrating past data to the new datum and
