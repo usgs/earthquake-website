@@ -15,7 +15,7 @@ if (!isset($TEMPLATE)) {
   $options['year'] = $year;
 
 
-  $TITLE = ' Significant Earthquakes - ' . $year;
+  $TITLE = ' World - M8+ in ' . $year;
   $NAVIGATION = true;
   $HEAD = '<link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>' .
      '<link rel="stylesheet" href="significant.css"/>';
@@ -24,13 +24,13 @@ if (!isset($TEMPLATE)) {
       '<script>' .
       'var options = ' . json_encode($options) . ';' .
       '</script>' .
-      '<script src="significant.js"></script>';
+      '<script src="m8-world.js"></script>';
   include 'template.inc.php';
 }
 
 ?>
 <div class="significant-wrapper">
-  <form action="significant.php?year=<?php echo $year ?>">
+  <form action="m8-world.php?year=<?php echo $year ?>">
     <label for="year" class="significant-year-label">
       Enter a year from <?php echo $min_year ?> to
           <?php echo $current_year ?>
@@ -41,7 +41,7 @@ if (!isset($TEMPLATE)) {
         step="1" value="<?php echo $year ?>" autofocus/>
     <button type="submit" class="significant-year-button">Search</button>
   </form>
-  <p><a href="#sigdef">What makes an earthquake "significant"?</a></p>
+  <!--<p><a href="">What makes an earthquake "significant"?</a></p> -->
   <div id="earthquake-list">
     <noscript>
       This page requires javascript.
@@ -50,21 +50,3 @@ if (!isset($TEMPLATE)) {
     </noscript>
   </div>
 </div>
-
-<hr/>
-<h4 id="sigdef">What makes an earthquake "significant"?</h4>
-
-<p>
-  Events in this list and shown in red on our real-time earthquake map and list are considered “significant events’, and they are determined by a combination of magnitude, number of Did You Feel It responses, and PAGER alert level.
-</p>
-<p>Here is the equation:<p>
-
-<p>
-  <strong>mag_significance</strong> = magnitude * 100 * (magnitude / 6.5);<br/>
-  <strong>pager_significance</strong> = (red) ? 2000 : (orange) ? 1000 : (yellow) ? 500 : 0;<br/>
-  <strong>dyfi_significance</strong> = min(num_responses, 1000) * max_cdi / 10;
-</p>
-
-<p><strong>significance</strong> = max(mag_significance, pager_significance) + dyfi_significance;</p>
-
-<p>Any event with a <strong>significance > 600</strong> is considered a significant event and appears on the list.</p>
