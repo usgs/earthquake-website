@@ -13,7 +13,7 @@
 <div class="row">
 
   <div class="column one-of-three">
-    <h2>1900&ndash;Present</h2>
+    <h2>All Earthquakes</h2>
 
     <div class="alert">
       <h3>United States</h3>
@@ -40,17 +40,18 @@
 
       <h3>United States</h3>
       <ul class="no-style">
-        <li>10 Largest</li>
-        <li><a href="/earthquakes/map/#%7B%22feed%22%3A%221461354892066%22%2C%22search%22%3A%7B%22id%22%3A%221461354892066%22%2C%22name%22%3A%22Search%20Results%22%2C%22isSearch%22%3Atrue%2C%22params%22%3A%7B%22starttime%22%3A%22$current_year-01-01%2000%3A00%3A00%22%2C%22maxlatitude%22%3A72.299%2C%22minlatitude%22%3A18.01%2C%22maxlongitude%22%3A-66.973%2C%22minlongitude%22%3A-195.645%2C%22minmagnitude%22%3A6%2C%22orderby%22%3A%22time%22%7D%7D%2C%22listFormat%22%3A%22default%22%2C%22sort%22%3A%22largest%22%2C%22basemap%22%3A%22grayscale%22%2C%22autoUpdate%22%3Afalse%2C%22restrictListToMap%22%3Atrue%2C%22timeZone%22%3A%22utc%22%2C%22mapposition%22%3A%5B%5B18.01%2C-195.645%5D%2C%5B72.299%2C-66.973%5D%5D%2C%22overlays%22%3A%7B%22plates%22%3Atrue%7D%2C%22viewModes%22%3A%7B%22map%22%3Atrue%2C%22list%22%3Atrue%2C%22settings%22%3Afalse%2C%22help%22%3Afalse%7D%7D">Magnitude 6+</a></li>
+        <li><a href="">10 Largest</a></li>
+        <li><a href="us-m6.php">Magnitude 6+</a></li>
+        <li><a href="us-m5.php">Magnitude 5+</a></li>
         <li><a href="">Significant Earthquakes</a></li>
       </ul>
       <h3>World</h3>
       <ul class="no-style">
-        <li><a href="">10 Largest</a></li>
-        <li><a href="">Magnitude 8+</a></li>
-        <li><a href="">Magnitude 7+</a></li>
-        <li><a href="">Magnitude 6+</a></li>
-        <li><a href="">Significant Earthquakes</a></li>
+        <li><a href="10-largest-byyr-world.php">10 Largest</a></li>
+        <li><a href="m8-world.php">Magnitude 8+</a></li>
+        <li><a href="m7-world.php">Magnitude 7+</a></li>
+        <li><a href="m6-world.php">Magnitude 6+</a></li>
+        <li><a href="significant.php">Significant Earthquakes</a></li>
       </ul>
     </div>
   </div>
@@ -89,7 +90,7 @@ End of By Location section -->
 </div>
 </div>
 
-<p class="alert info">United States earthquake lists (except "10 Largest" also include some earthquakes outside the U.S. since the search area is a rectangle.</p>
+<p class="alert info">United States earthquake lists (except "10 Largest") also include some earthquakes outside the U.S. since the search area is a rectangle.</p>
 
 <h2><a href="stats.php">Statistics</a></h2>
 
