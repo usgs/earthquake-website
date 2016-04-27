@@ -15,7 +15,7 @@ if (!isset($TEMPLATE)) {
   $options['year'] = $year;
 
 
-  $TITLE = ' Testing-World - M6+ in ' . $year;
+  $TITLE = ' World - M6+ in ' . $year;
   $NAVIGATION = true;
   $HEAD = '<link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>' .
      '<link rel="stylesheet" href="significant.css"/>';
