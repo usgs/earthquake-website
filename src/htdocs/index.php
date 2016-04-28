@@ -7,6 +7,10 @@ if (!isset($TEMPLATE)) {
     <link rel="stylesheet" href="/theme/css/alert.css"/>
     <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
   ';
+  $FOOT = '
+    <script src="/lib/earthquake-list-widget.js"></script>
+    <script src="index.js"></script>
+  ';
   include 'template.inc.php';
 }
 include_once '_features.inc.php';
