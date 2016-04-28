@@ -2,7 +2,11 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'Earthquake Hazards Program';
-  $HEAD = '<link rel="stylesheet" href="index.css"/>';
+  $HEAD = '
+    <link rel="stylesheet" href="index.css"/>
+    <link rel="stylesheet" href="/theme/css/alert.css"/>
+    <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
+  ';
   include 'template.inc.php';
 }
 include_once '_features.inc.php';

@@ -6,6 +6,10 @@
   $current_year = intval(date('Y'));
   $TITLE = 'Earthquake Lists, Maps, and Statistics';
   $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="/theme/css/alert.css"/>
+    <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
+  ';
   include 'template.inc.php';
   }
 ?>
