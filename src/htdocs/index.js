@@ -1,14 +1,24 @@
-/* global require */
+/* global options */
 'use strict';
 
-(function () {
-  var EqList = require('listwidget/EqList');
+var EqList = require('listwidget/EqList');
 
-  EqList({
-    container: document.getElementById('significant-earthquakes')
-  });
-  EqList({
-    container: document.getElementById('m2pastDay-earthquakes'),
-    feed: 'http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojsonp'
-  });
-})();
+
+var endtime,
+    starttime,
+    url;
+
+endtime = new Date(Date.UTC(options.year + 1, 0, 1));
+starttime = new Date(Date.UTC(options.year, 0, 1));
+url = 'http://earthquake.usgs.gov/fdsnws/event/1/query.geojson?' +
+    [
+      'callback=eqfeed_callback',
+      'endtime=' + endtime.toISOString(),
+      'minsig=600',
+      'starttime=' + starttime.toISOString()
+    ].join('&');
+
+EqList({
+  container: document.querySelector(options.el),
+  feed: url
+});
