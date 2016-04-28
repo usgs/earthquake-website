@@ -2,23 +2,11 @@
 'use strict';
 
 var EqList = require('listwidget/EqList');
+var url;
 
-
-var endtime,
-    starttime,
-    url;
-
-endtime = new Date(Date.UTC(options.year + 1, 0, 1));
-starttime = new Date(Date.UTC(options.year, 0, 1));
-url = 'http://earthquake.usgs.gov/fdsnws/event/1/query.geojson?' +
-    [
-      'callback=eqfeed_callback',
-      'endtime=' + endtime.toISOString(),
-      'minsig=600',
-      'starttime=' + starttime.toISOString()
-    ].join('&');
+url = 'http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson';
 
 EqList({
-  container: document.querySelector(options.el),
+  container: document.querySelector('#significant-earthquakes'),
   feed: url
 });
