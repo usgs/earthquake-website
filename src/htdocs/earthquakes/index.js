@@ -1,14 +1,11 @@
-/* global require */
 'use strict';
 
-(function () {
-  var EqList = require('listwidget/EqList');
+var EqList = require('listwidget/EqList');
+var url;
 
-  EqList({
-    container: document.getElementById('significant-earthquakes')
-  });
-  EqList({
-    container: document.getElementById('m2pastDay-earthquakes'),
-    feed: 'http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojsonp'
-  });
-})();
+url = '/earthquakes/feed/v1.0/summary/significant_month.geojsonp';
+
+EqList({
+  container: document.querySelector('#significant-earthquakes'),
+  feed: url
+});
