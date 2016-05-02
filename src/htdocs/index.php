@@ -3,9 +3,8 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Earthquake Hazards Program';
   $HEAD = '
-    <link rel="stylesheet" href="index.css"/>
-    <link rel="stylesheet" href="/theme/css/alert.css"/>
     <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
+    <link rel="stylesheet" href="index.css"/>
   ';
   $FOOT = '
     <script src="/lib/earthquake-list-widget.js"></script>
@@ -24,13 +23,13 @@ echo $EQ_FEATURES->toHtml();
 <div class="row">
 
   <div class="column one-of-two">
-    <a href="map/"><h4>Latest Earthquakes</h4>
+    <a href="/earthquakes/map/"><h4>Latest Earthquakes</h4>
       <img src="earthquakes/images/latesteqs-300for150.gif" width="150" alt="map of latest earthquakes"/>
     </a>
   </div>
   <div class="column one-of-two">
     <a href="/earthquakes/map/#%7B%22feed%22%3A%2230day_sig%22%2C%22search%22%3Anull%2C%22listFormat%22%3A%22default%22%2C%22sort%22%3A%22newest%22%2C%22basemap%22%3A%22terrain%22%2C%22autoUpdate%22%3Atrue%2C%22restrictListToMap%22%3Afalse%2C%22timeZone%22%3A%22utc%22%2C%22mapposition%22%3A%5B%5B-78.49055166160312%2C74.8828125%5D%2C%5B78.42019327591201%2C325.1953125%5D%5D%2C%22overlays%22%3A%7B%22plates%22%3Atrue%7D%2C%22viewModes%22%3A%7B%22map%22%3Atrue%2C%22list%22%3Atrue%2C%22settings%22%3Afalse%2C%22help%22%3Afalse%7D%7D">
-     <h4>Significant Earthquakes</h4>
+     <h4>Significant Earthquakes, Past 30 Days</h4>
    </a>
 
     <div id="significant-earthquakes" class="height_scroll" style="overflow:scroll; height:120px; background:#f4f4f4;">
