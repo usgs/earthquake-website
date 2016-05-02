@@ -6,7 +6,6 @@ if (!isset($TEMPLATE)) {
   $TITLE = 'Earthquakes';
   $NAVIGATION = true;
   $HEAD = '
-    <link rel="stylesheet" href="/theme/css/alert.css"/>
     <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
   ';
   $FOOT = '
