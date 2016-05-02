@@ -7,8 +7,7 @@ if (!isset($TEMPLATE)) {
   $TITLE = 'PAGER Data, Products and References';
   $NAVIGATION = true;
   $CONTACT = 'PAGER';
-  $STYLESHEETS = 'references.css';
-  $SCRIPTS = 'references.js';
+  $HEAD = '<link rel="stylesheet" href="references.css"/>';
   include 'template.inc.php';
 }
 
