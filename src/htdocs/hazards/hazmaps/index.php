@@ -102,7 +102,7 @@
   		rectangular region of interest. Provides (optionally) a Vs30 grid
   		in ASCII or GMT grid format, and a JPEG Vs30 map.
   	</p>
-    <p>Versions available: <a href="vs30/">All Editions</a></p>
+    <p>Versions available: <a href="/hazards/apps/vs30/">All Editions</a></p>
 
     <h3>Interactive Deaggregations</h3>
     <figure class="left">
