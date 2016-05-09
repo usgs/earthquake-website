@@ -9,11 +9,14 @@
   }
 ?>
 
+<h2>GIS Data</h2>
+<a href="https://www.sciencebase.gov/catalog/item/571a8e0ee4b071321fe22e7a">USGS ScienceBase-Catalog GIS Downloads</a>
+
+<h2>Download Data Files</h2>
+
 <p>
 	These files contain space-delimited, rectangular gridded data over the Conterminous 48 States in 0.05 degree increments in longitude (x-value) and latitude (y-value). See below for more information about the <ahref="#fileformat">format of these data files</a>.
 </p>
-
-<h2>Download Data Files</h2>
 
 <table cellpadding="0" cellspacing="0" border="0" class="tabular" id="tbldata">
 	<thead>
