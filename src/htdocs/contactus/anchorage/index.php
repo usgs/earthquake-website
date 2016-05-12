@@ -81,6 +81,7 @@
       <li><a href="http://seismic.alaska.gov/">Alaska Seismic Hazards Safety Commission</a></li>
       <li><a href="http://www.dggs.alaska.gov/">Division of Geological &amp; Geophysical Surveys</a> - Alaska Department of Natural Resources</li>
       <li><a href="http://www.gi.alaska.edu/">Geophysical Institute</a> - University of Alaska, Fairbanks</li>
+      <li><a href="https://www.youtube.com/watch?v=Nt0m5JWa62w">Shaking in the Atwood Building in Anchorage, Alaska</a></li>
     </ul>
 
   </div>
