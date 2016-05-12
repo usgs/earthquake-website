@@ -1,7 +1,7 @@
 <?php
   // Author: Lisa Wald
   // Contact: Mark Peterson
-  // Last modified: 03/21/2016
+  // Last modified: 05/12/2016, Lisa Wald
   if (!isset($TEMPLATE)) {
   $TITLE = '2016 One-Year Model';
   $NAVIGATION = true;
@@ -60,7 +60,7 @@
     <h2>USGS Open-File Report</h2>
     <p>
       <a href="https://pubs.er.usgs.gov/publication/ofr20161035">
-      2016 One-Year Seismic Hazard Forecast for the Central and Eastern United States from Induced and Natural Earthquakes</a> - OFR-2106-1035
+      2016 One-Year Seismic Hazard Forecast for the Central and Eastern United States from Induced and Natural Earthquakes</a> - OFR-2016-1035
     </p>
 
     <h2>USGS News Release</h2>
