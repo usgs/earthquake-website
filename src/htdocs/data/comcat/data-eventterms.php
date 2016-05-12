@@ -363,7 +363,7 @@
           <dt>Typical Values</dt><dd>[-1.0, 10.0]</dd>
           <dt>Description</dt>
           <dd>
-            The magnitude for the event.
+            The magnitude for the event. See also <a href="#magType">magType</a>.
           </dd>
           <dt>Additional Information</dt>
           <dd>
@@ -499,9 +499,7 @@
           <dt>Description</dt>
           <dd>
             The method or algorithm used to calculate the preferred magnitude
-            for the event. <a
-            href="http://earthquake.usgs.gov/earthquakes/map/doc_aboutdata.php#magnitudes"
-            >Learn more about magnitude types.</a>
+            for the event.
           </dd>
           <dt>Additional Information</dt>
           <dd>
