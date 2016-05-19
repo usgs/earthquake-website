@@ -51,12 +51,13 @@ include '../_catalog.inc.php';
   The 2014 USGS seismic hazard maps do not account for site response directly.
   Site conditions are accounted for in the building code separately. However,
   the scenarios in this catalog include site response in the maps, based on
-  maps of the time-averaged shear-wave velocity in the upper 30 m (V<sub>S30</sub>). 
-  The input V<sub>S30</sub> grids are a combination of regionally variable models
-  that are available at the USGS Global V<sub>S30</sub> 
+  maps of the time-averaged shear-wave velocity in the upper 30 m (Vs30). 
+  The
   <a href="https://github.com/usgs/earthquake-global_vs30">
-    GitHub repository
-  </a>.
+    input Vs30 grids
+  </a>
+  are a combination of regionally variable models
+  that are available at the USGS Global Vs30 GitHub repository.
 </p>
 
 <p>
