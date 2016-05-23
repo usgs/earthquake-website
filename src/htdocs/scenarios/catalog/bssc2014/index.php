@@ -13,8 +13,14 @@ include '../_catalog.inc.php';
   analysis only considers a representative subset of ruptures that are based on
   the same models of earthquake sources as the probabilistic analysis. The
   deterministic subset of ruptures are characteristic earthquakes on all known
-  actives faults. This catalog includes the deterministic ruptures from the
+  active faults. This catalog includes the deterministic ruptures from the
   2014 version of the USGS national seismic hazard maps.
+</p>
+
+<p>
+  Note that the events in this catalog are being added gradually. Currently, all
+  of the events for California are available. We will be adding the rest of the
+  BSSC events soon. 
 </p>
 
 <h3 id="ground-motion-models">Ground Motion Models</h3>
@@ -22,7 +28,22 @@ include '../_catalog.inc.php';
   For a given rupture, the ground motion shaking intensity parameters are
   computed using a weighted combination of ground motion models for reference
   rock conditions that is consistent with the 2014 version of the USGS national
-  seismic hazard maps.
+  seismic hazard maps. More details are available in the 
+  <a href="http://dx.doi.org/10.3133/ofr20141091">
+    documentation
+  </a> for the 2014 update of the United States national seismic hazard maps.
+</p>
+
+<p>
+  The ground motion parameters in ShakeMap are converted from the average horizontal
+  component, which is given by most ground motion models, to the peak horizontal
+  component.
+  This is necessary for consistency with real-time ShakeMaps.
+  Additional details are discussed in 
+  <a href="http://usgs.github.io/shakemap/tg_choice_of_parameters.html#use-of-peak-values-rather-than-mean">
+    this section
+  </a>
+  of the ShakeMap manual. 
 </p>
 
 <h3 id="site-response">Site Response</h3>
@@ -30,18 +51,25 @@ include '../_catalog.inc.php';
   The 2014 USGS seismic hazard maps do not account for site response directly.
   Site conditions are accounted for in the building code separately. However,
   the scenarios in this catalog include site response in the maps, based on
-  maps of the time-averaged shear-wave velocity in the upper 30 m (VS30). The
-  input VS30 grids are a combination of regionally variable models that are
-  available at
+  maps of the time-averaged shear-wave velocity in the upper 30 m (Vs30). 
+  The
   <a href="https://github.com/usgs/earthquake-global_vs30">
-    https://github.com/usgs/earthquake-global_vs30
+    input Vs30 grids
   </a>
+  are a combination of regionally variable models
+  that are available at the USGS Global Vs30 GitHub repository.
 </p>
 
+<p>
+  We have employed the OpenQuake hazard library 
+  (<a href="http://docs.openquake.org/oq-hazardlib/master/">hazardlib</a>)
+  implementation of the ground motion models. OpenQuake hazardlib provides a broad
+  range of well-tested open-source models. 
+</p>
 
 <h3 id="extent">Extent</h3>
 
-<p>This catalog includes ruptures in the conterminous US.</p>
+<p>This catalog includes ruptures in the coterminous US.</p>
 
 
 <h3 id="contributors">Contributors</h3>
