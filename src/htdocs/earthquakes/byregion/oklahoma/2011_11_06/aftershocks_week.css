@@ -1,0 +1,42 @@
+#map {
+	border:1px solid #000;
+	padding:0;
+	height:475px;
+	width:798px;
+	position:relative;
+}
+
+#legend {
+	position:absolute;
+	z-Index:998;
+	top:1px;
+	right:1px;
+}
+
+#kml {
+	position:absolute;
+	z-Index:998;
+	bottom:1px;
+	right:1px;
+}
+
+#anno {
+	position:absolute;
+	z-Index:998;
+	top:245px;
+	left:400px;
+}
+
+.esriScalebar {
+	position:absolute;
+	bottom:1px; 
+	left:15px;
+}
+
+#timelabels {
+	margin-left:40px;
+}
+
+#mapInfo {
+	position:relative;
+}

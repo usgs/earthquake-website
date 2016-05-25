@@ -302,3 +302,469 @@
   </tr>
 
 </table>
+
+<h2>Earthquake Counts by State 2010-2015</h2>
+
+<table>
+  <thead>
+   <tr>
+    <th>States</th>
+    <th>2010</th>
+    <th>2011</th>
+    <th>2012</th>
+    <th>2013</th>
+    <th>2014</th>
+    <th>2015</th>
+   </tr>
+ </thead>
+ <tr>
+  <td>Alabama</td>
+  <td align=right>1</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>2</td>
+  <td align=right>6</td>
+ </tr>
+ <tr>
+  <td>Alaska</td>
+  <td align=right>2245</td>
+  <td align=right>1409</td>
+  <td align=right>1166</td>
+  <td align=right>1329</td>
+  <td align=right>1296</td>
+  <td align=right>1576</td>
+ </tr>
+ <tr>
+  <td>Arizona</td>
+  <td align=right>6</td>
+  <td align=right>7</td>
+  <td align=right>4</td>
+  <td align=right>3</td>
+  <td align=right>31</td>
+  <td align=right>10</td>
+ </tr>
+ <tr>
+  <td>Arkansas</td>
+  <td align=right>15</td>
+  <td align=right>44</td>
+  <td align=right>4</td>
+  <td align=right>4</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>California</td>
+  <td align=right>550</td>
+  <td align=right>192</td>
+  <td align=right>241</td>
+  <td align=right>238</td>
+  <td align=right>192</td>
+  <td align=right>130</td>
+ </tr>
+ <tr>
+  <td>Colorado</td>
+  <td align=right>4</td>
+  <td align=right>23</td>
+  <td align=right>7</td>
+  <td align=right>2</td>
+  <td align=right>13</td>
+  <td align=right>7</td>
+ </tr>
+ <tr>
+  <td>Connecticut</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+ </tr>
+ <tr>
+  <td>Delaware</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Florida</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Georgia.</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Hawaii</td>
+  <td align=right>17</td>
+  <td align=right>34</td>
+  <td align=right>40</td>
+  <td align=right>30</td>
+  <td align=right>26</td>
+  <td align=right>53</td>
+ </tr>
+ <tr>
+  <td>Idaho</td>
+  <td align=right>7</td>
+  <td align=right>4</td>
+  <td align=right>4</td>
+  <td align=right>11</td>
+  <td align=right>31</td>
+  <td align=right>38</td>
+ </tr>
+ <tr>
+  <td>Illinois</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>2</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+ </tr>
+ <tr>
+  <td>Indiana</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>3</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Iowa</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Kansas</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>2</td>
+  <td align=right>42</td>
+  <td align=right>60</td>
+ </tr>
+ <tr>
+  <td>Kentucky</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>2</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Louisiana</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Maine</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Maryland</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Massachusetts</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Michigan</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>2</td>
+ </tr>
+ <tr>
+  <td>Minnesota</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Mississippi</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>3</td>
+ </tr>
+ <tr>
+  <td>Missouri</td>
+  <td align=right>2</td>
+  <td align=right>3</td>
+  <td align=right>2</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+  <td align=right>5</td>
+ </tr>
+ <tr>
+  <td>Montana</td>
+  <td align=right>7</td>
+  <td align=right>11</td>
+  <td align=right>9</td>
+  <td align=right>14</td>
+  <td align=right>29</td>
+  <td align=right>19</td>
+ </tr>
+ <tr>
+  <td>Nebraska</td>
+  <td align=right>2</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>3</td>
+ </tr>
+ <tr>
+  <td>Nevada</td>
+  <td align=right>39</td>
+  <td align=right>88</td>
+  <td align=right>22</td>
+  <td align=right>36</td>
+  <td align=right>161</td>
+  <td align=right>173</td>
+ </tr>
+ <tr>
+  <td>New Hampshire</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>New Jersey</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>New Mexico</td>
+  <td align=right>7</td>
+  <td align=right>7</td>
+  <td align=right>3</td>
+  <td align=right>6</td>
+  <td align=right>3</td>
+  <td align=right>12</td>
+ </tr>
+ <tr>
+  <td>New York</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>2</td>
+ </tr>
+ <tr>
+  <td>North Carolina</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>North Dakota</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Ohio</td>
+  <td align=right>1</td>
+  <td align=right>3</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Oklahoma</td>
+  <td align=right>41</td>
+  <td align=right>63</td>
+  <td align=right>34</td>
+  <td align=right>103</td>
+  <td align=right>585</td>
+  <td align=right>888</td>
+ </tr>
+ <tr>
+  <td>Oregon</td>
+  <td align=right>4</td>
+  <td align=right>0</td>
+  <td align=right>4</td>
+  <td align=right>2</td>
+  <td align=right>4</td>
+  <td align=right>3</td>
+ </tr>
+ <tr>
+  <td>Pennsylvania</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Rhode Island</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>South Carolina</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>3</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>South Dakota</td>
+  <td align=right>0</td>
+  <td align=right>3</td>
+  <td align=right>1</td>
+  <td align=right>1</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Tennessee</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>4</td>
+  <td align=right>1</td>
+  <td align=right>1</td>
+  <td align=right>1</td>
+ </tr>
+ <tr>
+  <td>Texas</td>
+  <td align=right>9</td>
+  <td align=right>18</td>
+  <td align=right>11</td>
+  <td align=right>16</td>
+  <td align=right>8</td>
+  <td align=right>21</td>
+ </tr>
+ <tr>
+  <td>Utah</td>
+  <td align=right>17</td>
+  <td align=right>16</td>
+  <td align=right>16</td>
+  <td align=right>6</td>
+  <td align=right>10</td>
+  <td align=right>4</td>
+ </tr>
+ <tr>
+  <td>Vermont</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Virginia</td>
+  <td align=right>1</td>
+  <td align=right>7</td>
+  <td align=right>4</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Washington</td>
+  <td align=right>5</td>
+  <td align=right>14</td>
+  <td align=right>6</td>
+  <td align=right>18</td>
+  <td align=right>6</td>
+  <td align=right>11</td>
+ </tr>
+ <tr>
+  <td>West Virginia</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>1</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Wisconsin</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+  <td align=right>0</td>
+ </tr>
+ <tr>
+  <td>Wyoming</td>
+  <td align=right>43</td>
+  <td align=right>6</td>
+  <td align=right>9</td>
+  <td align=right>73</td>
+  <td align=right>179</td>
+  <td align=right>198</td>
+ </tr>
+</table>
