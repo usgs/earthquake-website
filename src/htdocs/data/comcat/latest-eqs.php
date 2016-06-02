@@ -490,9 +490,9 @@
   <li>
     <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie"
         target="_blank">
-        Internet Explorer</a>
+        Edge</a>
     <a href="#compatibility_disclaimer"
-        title="Internet Explorer Compatibility View Disclaimer">
+        title="Edge Compatibility View Disclaimer">
         *</a>
   </li>
   <li><a href="http://www.apple.com/support/safari/" target="_blank">
@@ -504,7 +504,7 @@
   <li>Opera</li>
 </ul>
 <p class="disclaimer" id="compatibility_disclaimer">
-  * Internet Explorer is only tested in standards mode; compatibility view is
+  * Edge is only tested in standards mode; compatibility view is
   not supported. If your browser has rendered the application in compatibility
   view, you will need to
   <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-10"
