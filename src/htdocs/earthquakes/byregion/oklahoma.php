@@ -21,7 +21,6 @@
   <li><a href="oklahoma-haz.php">2014 Seismic Hazard Map of Oklahoma</a> - Does not include hazard from induced seismicity</li>
   <li><a href="http://ogs.ou.edu/docs/openfile/OF3-2015.pdf">Preliminary Fault Map of Oklahoma - Oklahoma Geological Survey (PDF)</a></li>
   <li><a href="oklahoma/OKeqanimation.php">Animation of Oklahoma Seismicity</a></li>
-  <li><a href="oklahoma/2011_11_06/">Animation of M5.6 Foreshocks and Aftershocks-Nov 5, 2011 to July 31, 2012</a></li>
   <li><a href="/contactus/golden/newsrelease_05022014.php">USGS News Release (May 2, 2014)</a>: Record Number of Oklahoma Tremors Raises Possibility of Damaging Earthquakes</li>
   <li><a href="oklahoma/OklahomaEQsBarGraph.png">Graph of the Number of Oklahoma earthquakes 1978 to Present</a></li>
   <li><a href="http://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> (OFR 2015-1070)</li>
