@@ -19,7 +19,6 @@
 <h2>Topics of Interest</h2>
 <ul>
   <li><a href="http://earthquake.usgs.gov/earthquakes/events/2011virginia/">M5.8 August 23, 2011 Mineral, Virginia Earthquake</a></li>
-  <li><a href="virginia/2011_08_23/">Animation of Aftershocks of Mainshock - Aug 23, 2011 to Dec 31, 2011</a></li>
   <li><a href="http://www.magma.geos.vt.edu/vtso/va_quakes.html#history">A Brief History of Virginia Earthquakes</a> - Virginia Tech Seismological Observatory</li>
 </ul>
 
