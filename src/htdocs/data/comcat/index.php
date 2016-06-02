@@ -150,7 +150,7 @@
           <li><a href="/earthquakes/feed/v1.0/changelog.php">Change Log</a></li>
         </ul>
       </li>
-      <li><a href="/fdsnws/events/1/">Web Service API</a></li>
+      <li><a href="/fdsnws/event/1/">Web Service API</a></li>
       <li><a href="/earthquakes/search/">Search Earthquake Catalog</a></li>
       <li><a href="https://github.com/usgs/devcorner">Python Scripts for Bulk Products</a></li>
       <li><a href="https://github.com/usgs/earthquake-event-ws">Web Service and Data Feeds</a> (GitHub)</li>
