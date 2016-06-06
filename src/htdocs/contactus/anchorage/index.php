@@ -82,6 +82,7 @@
       <li><a href="http://www.dggs.alaska.gov/">Division of Geological &amp; Geophysical Surveys</a> - Alaska Department of Natural Resources</li>
       <li><a href="http://www.gi.alaska.edu/">Geophysical Institute</a> - University of Alaska, Fairbanks</li>
       <li><a href="https://www.youtube.com/watch?v=Nt0m5JWa62w">Shaking in the Atwood Building in Anchorage, Alaska</a></li>
+      <li><a href="https://www.usgs.gov/media/videos/shaking-frontier-building-anchorage-alaska-during-mw71-earthquake-january-24-2016">Shaking of Frontier Building&endash;Anchorage, Alaska, During Mw7.1 Earthquake, January 24, 2016</a></li>
     </ul>
 
   </div>
