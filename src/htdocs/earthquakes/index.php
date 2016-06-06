@@ -37,7 +37,7 @@ and a link to Significant Earthquakes, Past 30 Days
           <h4>Latest Earthquakes</h4>
           <img src="images/latesteqs-300for150.gif" width="150" alt="map of latest earthquakes"/>
         </a>
-        <p>Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
+        <p>Latest earthquakes map and list. Tap/click on "gear icon" for options and settings.
         </p>
       </li>
       <li>
@@ -46,7 +46,7 @@ and a link to Significant Earthquakes, Past 30 Days
           <h4>Earthquake Lists, Maps and Statistics</h4>
           <img src="images/lists-300for150.gif" width="150" alt="screenshot of EQ search form"/>
         </a>
-        <p>largest earthquakes, significant events, lists and maps by magnitude, by year, or by location.</p>
+        <p>Largest earthquakes, significant events, lists and maps by magnitude, by year, or by location.</p>
       </li>
       <li>
         <a href="search/">
