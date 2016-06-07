@@ -1,7 +1,6 @@
 <?php
 
-print navItem('/earthquakes/', 'Earthquakes');
-print navItem('/earthquakes/feed/', 'Feeds and Notifications');
+echo "<a href='/earthquakes/feed/' class='up-one-level'>Feeds and Notifications</a>";
 
   print navGroup('Real-time Feeds',
     navItem('v1.0/atom.php', 'ATOM') .
