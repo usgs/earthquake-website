@@ -4,7 +4,7 @@
 // Last modified: 08/11/2015
 if (!isset($TEMPLATE)) {
   $TITLE = 'Earthquakes';
-  $NAVIGATION = true;
+  $NAVIGATION = false;
   $HEAD = '
     <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
   ';
@@ -29,7 +29,7 @@ and a link to Significant Earthquakes, Past 30 Days
 -->
 
 <p class="alert info">
-  We're improving Latest Earthquakes. Try out our <a href="/beta/map/">Beta version</a>, and <a href="mailto:llastowka@usgs.gov?subject=feedback">send us your feedback</a>. (Fixes Android "scrolling bug".)
+  We're improving Latest Earthquakes. Try out our <a href="/beta/map/">Beta version</a>, and <a href="mailto:sis_eq_questions@usgs.gov?subject=beta">send us your feedback</a>. (Fixes Android "scrolling bug".)
 </p>
 
 <div class = "row">
