@@ -37,13 +37,11 @@
           Earth&trade;
         </p>
       </li>
-
       <!--
         Icon Source: www.iconspedia.com
         Author: Tempest, http://tempest.deviantart.com/
         License: CC Attribution Non-Commercial No Derivatives
       -->
-
       <li>
         <a href="v1.0/csv.php">
           <h4>Spreadsheet Format</h4>
