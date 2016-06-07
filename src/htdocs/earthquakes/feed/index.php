@@ -4,7 +4,7 @@
 // Last modified: 02/17/2016
   if (!isset($TEMPLATE)) {
   $TITLE = 'Feeds and Notifications';
-  $NAVIGATION = false;
+  $NAVIGATION = true;
   include 'template.inc.php';
   }
 ?>
