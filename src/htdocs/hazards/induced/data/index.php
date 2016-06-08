@@ -9,9 +9,6 @@
   }
 ?>
 
-<h2>GIS Data</h2>
-<a href="https://www.sciencebase.gov/catalog/item/571a8e0ee4b071321fe22e7a">USGS ScienceBase-Catalog GIS Downloads</a>
-
 <h2>Download Data Files</h2>
 
 <p>
