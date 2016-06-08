@@ -4,7 +4,13 @@
 // Last modified: 02/17/2016
   if (!isset($TEMPLATE)) {
   $TITLE = 'Feeds and Notifications';
-  $NAVIGATION = true;
+
+// Use Earthquake level nav file
+  include_once 'functions.inc.php';
+  ob_start();
+  include '../_navigation.inc.php';
+  $NAVIGATION = ob_get_clean();
+
   include 'template.inc.php';
   }
 ?>
