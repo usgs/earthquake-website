@@ -15,7 +15,7 @@ var config = {
     // apps that should proxy to config.ini's OFFSITE_HOST
     '/fdsnws/',
     '/earthquakes/eventpage/',
-    '/earthquakes/feed/',
+    '/earthquakes/feed/v1.0/',
     '/earthquakes/map/',
     '/scenarios/eventpage/',
     '/scenarios/feed/',
