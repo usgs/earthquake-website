@@ -1,0 +1,30 @@
+{
+  "id": "ak",
+  "title": "Alaska Earthquake Center",
+  "url": "http://www.aeic.alaska.edu/",
+  "aliases": [
+    "aei",
+    "aeic"
+  ],
+  "email": "webmaster@giseis.alaska.edu",
+  "email-name": null,
+  "address": {
+    "org": "Alaska Earthquake Center\nGeophysical Institute\nUniversity of Alaska Fairbanks",
+    "street-address": "903 Koyukuk Drive",
+    "extended-address": null,
+    "locality": "Fairbanks",
+    "region": "AK",
+    "postal-code": "99775-7320",
+    "country-name": null
+  },
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-907-474-7320"
+    },
+    {
+      "type": "Fax",
+      "value": "+1-907-474-7125"
+    }
+  ]
+}
