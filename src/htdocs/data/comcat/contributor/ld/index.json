@@ -3,7 +3,7 @@
   "title": "Lamont-Doherty Cooperative Seismographic Network",
   "url": "http://www.ldeo.columbia.edu/LCSN/",
   "aliases": null,
-  "email": "jha@ldeo.columbia.edu",
+  "email": "goldm@ldeo.columbia.edu",
   "address": {
     "org": "Lamont-Doherty Cooperative Seismographic Network\nLamont-Doherty Earth Observatory of Columbia University",
     "locality": "Palisades",
@@ -13,7 +13,7 @@
   "tel": [
     {
       "type": "Voice",
-      "value": "+1-845-365-8365"
+      "value": "+1-845-365-8583"
     },
     {
       "type": "Fax",
