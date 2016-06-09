@@ -1,7 +1,9 @@
 <?php
   $section = "/earthquakes";
 
-  echo navGroup(navItem("${section}/", "Earthquakes"),
+  echo "<a href='/earthquakes' class='up-one-level'>Earthquakes</a>",
+
+  "<section>",
 
     navItem("${section}/map/", "Latest Earthquakes") .
     navItem("${section}/eqarchives/", "Earthquake Lists, Maps & Statistics") .
@@ -9,7 +11,9 @@
     navItem("${section}/feed/", "Real-time Feeds & Notifications") .
     navItem("${section}/region.php", "Information by Region") .
     navItem("/data/comcat/", "ANSS ComCat Documentation") .
-    navItem("${section}/errata.php", "Errata for Latest Earthquakes")
-  );
+    navItem("${section}/errata.php", "Errata for Latest Earthquakes") ,
+
+  "</section>"
+  ;
 
 ?>
