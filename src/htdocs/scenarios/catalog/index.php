@@ -17,7 +17,7 @@ foreach ($catalogs as $catalog) {
 
   echo '<li>' .
       '<a href="' . $id . '/">' .
-        strtoupper($id) . ' - ' . $title .
+        $id . ' - ' . $title .
       '</a>' .
       '</li>';
 }

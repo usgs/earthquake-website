@@ -3,6 +3,7 @@
   "title": "University of Utah Seismograph Stations",
   "url": "http://www.seis.utah.edu/",
   "aliases": null,
+  "email": "webmaster@seis.utah.edu",
   "address": {
     "org": "University of Utah Seismograph Stations",
     "street-address": "135 South 1460 East",
@@ -19,6 +20,5 @@
       "type": "Fax",
       "value": "+1-801-585-5585"
     }
-  ], 
-  "Email": "webmaster@seis.utah.edu"
+  ]
 }
