@@ -12,9 +12,11 @@ if (!isset($TEMPLATE)) {
     $id = $json['id'];
     $title = $json['title'];
     $url = $json['url'];
-    $logo = '../logos/' . $id . '.svg';
+    $logo = '../../logos/' . $id . '.svg';
 
-    $TITLE = strtoupper($id) . ' (Scenario Contributor)';
+    $TITLE = strtoupper($id) . ' (Contributor)';
+    $HEAD = ($HEAD ? $HEAD : '') .
+        '<link rel="stylesheet" href="../../comcat.css"/>';
     $NAVIGATION = true;
 
     if (file_exists($logo)) {
@@ -50,24 +52,34 @@ if ($address || $email || $tel) {
 
   if ($address) {
     echo '<h3 id="mailing-address">Mailing Address</h3>';
-    echo '<div class="adr">';
-    if (isset($address['org'])) {
-      echo '<div>' . str_replace("\n", '<br/>', $address['org']) . '</div>';
+
+    if (!isset($address[0])) {
+      // convert non-numerically indexed array
+      $address = array($address);
     }
-    echo '<div class="street-address">' . $address['street-address'] . '</div>';
-    if (isset($address['extended-address'])
-        && $address['extended-address'] !== null) {
-      echo '<div class="extended-address">' .
-          $address['extended-address'] .
-          '</div>';
+    foreach ($address as $adrNum => $adr) {
+      echo '<div class="adr">';
+
+      if (isset($adr['org'])) {
+        echo '<div class="type">' .
+            str_replace("\n", '<br/>', $adr['org']) .
+            '</div>';
+      }
+      echo '<div class="street-address">' . $adr['street-address'] . '</div>';
+      if (isset($adr['extended-address'])
+          && $adr['extended-address'] !== null) {
+        echo '<div class="extended-address">' .
+            $adr['extended-address'] .
+            '</div>';
+      }
+      echo '<span class="locality">' . $adr['locality'] . '</span>';
+      echo ', <span class="region">' . $adr['region'] . '</span>';
+      echo ' <span class="postal-code">' . $adr['postal-code'] . '</span>';
+      if (isset($adr['country'])) {
+        echo '<div class="country">' . $adr['country'] . '</div>';
+      }
+      echo '</div>'; // class="adr"
     }
-    echo '<span class="locality">' . $address['locality'] . '</span>';
-    echo ', <span class="region">' . $address['region'] . '</span>';
-    echo ' <span class="postal-code">' . $address['postal-code'] . '</span>';
-    if (isset($address['country'])) {
-      echo '<div class="country">' . $address['country'] . '</div>';
-    }
-    echo '</div>'; // class="adr"
   }
 
   if ($tel !== null) {

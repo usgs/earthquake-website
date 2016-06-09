@@ -5,3 +5,4 @@ node_modules
 *.sublime-workspace
 src/conf/httpd.conf
 src/conf/config.ini
+*~
