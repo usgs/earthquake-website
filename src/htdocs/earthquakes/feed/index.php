@@ -128,10 +128,6 @@
         <a href="https://github.com/usgs/devcorner">Developers Corner</a> - tools for obtaining specific products from earthquake catalog
       </li>
       <li>
-        <a href="v1.0/glossary.php">
-            Glossary - Earthquake Catalog Data Terms</a>
-      </li>
-      <li>
         <a href="https://geohazards.usgs.gov/mailman/listinfo/realtime-feeds">
             Mailing List - Announcements</a>
       </li>
