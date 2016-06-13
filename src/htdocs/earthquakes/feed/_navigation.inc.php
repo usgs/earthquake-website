@@ -19,7 +19,6 @@ echo "<a href='/earthquakes/feed/' class='up-one-level'>Feeds and Notifications<
     navItem('v1.0/changelog.php', 'Change Log') .
     navItem('policy.php', 'Feed Lifecycle Policy') .
     navItem('https://github.com/usgs/devcorner', 'Developers Corner') .
-    navItem('v1.0/glossary.php', 'Glossary') .
     navItem('https://geohazards.usgs.gov/mailman/listinfo/realtime-feeds', 'Mailing List-Announcements') .
     navItem('https://geohazards.usgs.gov/mailman/listinfo/realtime-feed-users', 'Mailing List-Forum/Questions')
   );
