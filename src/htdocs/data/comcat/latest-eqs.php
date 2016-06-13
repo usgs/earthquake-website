@@ -530,7 +530,6 @@
 </ul>
 
     <h2 id="bugs" class="section-header">Known Bugs</h2>
-    <p>There are a few bugs that we are currently aware of:</p>
     <dl class="vertical">
       <dt>Browser Crashes</dt>
       <dd>
@@ -538,17 +537,12 @@
         many earthquakes. See our <a href="#disclaimer">disclaimers</a> for tips
         on how to avoid crashing a resource strapped device.
       </dd>
-      <dt>Box Zoom</dt>
-      <dd>
-        If you are using the box zoom tool in IE10, the crosshair cursor will
-        remain after zooming until you click again.
+      <dt>Issues Reported in GitHub</dt>
+      <dd>See USGS <a href="https://github.com/usgs/earthquake-latest-earthquakes/issues">earthquake-latest-earthquakes</a> issues.
       </dd>
-    </dl>
     <p>
-      Please report any other problems that you experience,
-      <a href="/contactus/">click here</a>
+      Report other problems that you experience by entering a GitHub issue or by <a href="/contactus/">sending us a message</a>.
     </p>
-
 
     <h2 id="disclaimer" class="section-header">Disclaimer</h2>
     <p>The new Earthquake Map/List pages are slower than the older generation
