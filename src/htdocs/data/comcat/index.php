@@ -29,7 +29,7 @@
 
 <h2>Table of Contents</h2>
 <ol>
-  <li>Data Types, Definitions, Format
+  <li id="1"><strong>Data Types, Definitions, Format, Availability</strong>
     <ul>
       <li><a href="data-availability.php">Data Availability</a> - Date Ranges and Magnitude Thresholds</li>
       <li><a href="data-products.php">Data Products</a>
@@ -106,7 +106,7 @@
       </li>
     </ul>
   </li>
-  <li>Data Access
+  <li id="2">Data Access
     <ul>
       <li><a href="latest-eqs.php">Latest Earthquakes</a>
         <ul>
@@ -156,14 +156,14 @@
       <li><a href="https://github.com/usgs/earthquake-event-ws">Web Service and Data Feeds</a> (GitHub)</li>
     </ul>
   </li>
-  <li><a href="https://github.com/usgs/pdl">Contribute and Receive Data - PDL</a> (GitHub)</li>
-  <li>Sources of Data - Catalogs and Real-time
+  <li id="3"><a href="https://github.com/usgs/pdl">Contribute and Receive Data - PDL</a> (GitHub)</li>
+  <li id="4">Sources of Data - Catalogs and Real-time
     <ul>
       <li><a href="catalog/">Catalogs</a></li>
       <li><a href="contributor/">Real-time</a></li>
     </ul>
 
   </li>
-  <li>Event Association</li>
-  <li><a href="references.php">References</a></li>
+  <li id="5">Event Association</li>
+  <li id="6"><a href="references.php">References</a></li>
 </ol>
