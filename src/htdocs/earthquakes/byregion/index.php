@@ -16,7 +16,9 @@
 
 <h2>Seismicity of the Earth Maps 1900-2013</h2>
 
-<p>Click an outlined area on the map or a link below the map to see the map and report for that area.</p>
+<p>
+  Click an outlined area on the map or a link below the map to see the map and report for that area.
+</p>
 
 <div class="worldmap"></div>
 
@@ -49,7 +51,12 @@
 
 
 <h2>Information by State/Territory</h2>
-<p>Click a state on the map or a state link below the map to view state-specific earthquake, fault, and seismicity information and links to additional state resources.</p>
+<p>
+  Click a state on the map or a state link below the map to view state-specific earthquake, fault, and seismicity information and links to additional state resources.
+</p>
+<p class="alert warning">
+  Be aware that earthquake lists for states include earthquakes in adjacent states since the search area is a rectangle.
+</p>
 
 <div class="usmap"></div>
 
