@@ -100,4 +100,6 @@ End of By Location section -->
 
 <h2><a href="stats.php">Statistics</a></h2>
 
-<p>World-wide, United States, and average annual statistics for earthquake counts.</p>
+<p>
+  Worldwide, United States, and average annual statistics for earthquake counts. U.S. and worldwide deaths per year. Earthquake counts by U.S. State.
+</p>
