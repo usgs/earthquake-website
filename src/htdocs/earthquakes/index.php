@@ -46,7 +46,7 @@ and a link to Significant Earthquakes, Past 30 Days
       </li>
       <li>
         <!-- <a href="browse/"> -->
-        <a href="eqarchives/">
+        <a href="browse/">
           <h4>Earthquake Lists, Maps and Statistics</h4>
           <img src="images/lists-300for150.gif" width="150" alt="screenshot of EQ search form"/>
         </a>
@@ -68,7 +68,7 @@ and a link to Significant Earthquakes, Past 30 Days
       </li>
       <li>
         <!-- <a href="byregion/"> -->
-        <a href="region.php">
+        <a href="byregion/">
           <h4>Information by Region</h4>
           <img src="images/byregion-300for150.gif" width="150" alt="US map"/>
         </a>
