@@ -51,21 +51,21 @@
 			<td>Hazard Curve Data</td>
 			<td>Peak Ground Acceleration</td>
 			<td>N/A</td>
-      <td><a href="hazardCurve_1YrModel.pga.asc.zip">Text</a> (45.8MB)</td>
+      <td><a href="hazardCurve_1YrModel.pga.truncated.asc.zip">Text</a> (24.4MB)</td>
 		</tr>
 
 		<tr>
 			<td>Hazard Curve Data</td>
 			<td>5 Hz (0.2 sec)</td>
 			<td>N/A</td>
-      <td><a href="hazardCurve_1YrModel.5hz.asc.zip">Text</a> (43.6MB)</td>
+      <td><a href="hazardCurve_1YrModel.5hz.truncated.asc.zip">Text</a> (24.4MB)</td>
 		</tr>
 
 		<tr>
 			<td>Hazard Curve Data</td>
 			<td>1 Hz (1 sec)</td>
 			<td>N/A</td>
-      <td><a href="hazardCurve_1YrModel.1hz.asc.zip">Text</a> (47.8MB)</td>
+      <td><a href="hazardCurve_1YrModel.1hz.truncated.asc.zip">Text</a> (22.6MB)</td>
 		</tr>
 
 	</tbody>
