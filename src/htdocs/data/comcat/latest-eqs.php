@@ -259,11 +259,9 @@
 
   <dt>Plate Boundaries</dt>
   <dd>
-    <p>
-      This data was acquired from the <a href="http://peterbird.name/publications/2003_PB2002/2003_PB2002.htm"  target="_blank">
-      Peter Bird Plate Boundary Dataset</a>. NOTE: Included plate boundaries
-      were chosen appropriately based on scale.
-    </p>
+  <p>
+    This data was constructed as part of the USGS <a href="/earthquakes/byregion/">Seismicity of the Earth Map Series</a>,  modified from the <a href="http://peterbird.name/publications/2003_PB2002/2003_PB2002.htm">Peter Bird Plate Boundary Model</a> (Bird, G^3, 2003).
+  </p>
   </dd>
 
   <dt>U.S. Faults</dt>
