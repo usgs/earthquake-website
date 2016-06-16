@@ -19,12 +19,14 @@
 
 <h2>Real-time Notifications</h2>
 <div class="row">
+  <section class="three-of-three column">
+    <p class="alert info">
+      Know about earthquakes just after they happen. The ENS and TED services each offer something different, depending on your interests.
+    </p>
+  </section>
+</div>
 
-<section class="one-of-three column">
-  <p class="alert info">
-    Know about earthquakes just after they happen. The ENS and TED services each offer something different, depending on your interests.
-  </p>
-</section>
+<div class="row">
 
   <section class="one-of-three column">
     <ul class="no-style linklist">
@@ -61,13 +63,14 @@
 
 <h2>Real-time Feeds</h2>
 <div class="row">
+  <section class="three-of-three column">
+      <p class="alert info">
+        To subscribe to a real-time feed, select a format (ATOM is the best choice for most), then select which feed you want from the list on that page, and copy the URL into your feed reader of choice.
+      </p>
+    </section>
+</div>
 
-  <section class="one-of-three column">
-    <p class="alert info">
-      To subscribe to a real-time feed, select a format (ATOM is the best choice for most), then select which feed you want from the list on that page, and copy the URL into your feed reader of choice.
-    </p>
-  </section>
-
+<div class="row">
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
@@ -105,9 +108,6 @@
         Author: Tempest, http://tempest.deviantart.com/
         License: CC Attribution Non-Commercial No Derivatives
       -->
-</div>
-
-<div class="row">
 
   <section class="one-of-three column">
     <ul class="no-style linklist">
@@ -124,6 +124,9 @@
       </li>
     </ul>
   </section>
+</div>
+
+<div class="row">
 
   <section class="one-of-three column">
     <ul class="no-style linklist">
@@ -157,6 +160,7 @@
 
 </div>
 
+<hr/>
 <h2>For Developers</h2>
 
     <ul>

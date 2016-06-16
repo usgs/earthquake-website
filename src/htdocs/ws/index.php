@@ -9,7 +9,12 @@
   }
 ?>
 
+<figure class="right">
+  <img src="images/webservices-150.gif" alt=""/>
+</figure>
+
 <h2>GIS Services</h2>
+
 <ul>
   <li><a href="https://github.com/usgs/hazdev-gis/blob/master/documentation.md#httpearthquakeusgsgovarcgisrestservices">GIS Services Documentation</a></li>
   <li><a href="/arcgis/rest/services/eq">Earthquakes</a> - slabs, ShakeMaps, Tweet Earthquake Dispatch, and more.</li>
