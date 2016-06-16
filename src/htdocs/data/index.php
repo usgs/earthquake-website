@@ -32,6 +32,9 @@
 <!-- end of Jumplist navigation -->
 
     <div class="alert" style="margin-bottom:16px">
+      <figure class="right">
+        <img src="/ws/images/webservices-150.gif" width="75" alt=""/>
+      </figure>
       <h3 id="eq">Web Services</h3>
       <p><a href="/ws/">Web Services</a> for real-time and catalog earthquakes, hazard maps, slabs, and more.
       </p>
