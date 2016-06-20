@@ -9,10 +9,6 @@
   }
 ?>
 
-<figure class="right">
-  <img src="images/webservices-150.gif" alt=""/>
-</figure>
-
 <h2>GIS Services</h2>
 
 <ul>
