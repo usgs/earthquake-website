@@ -152,7 +152,7 @@
           <img src="images/geojson.jpg" alt="GeoJSON icon" width="75"/>
         </a>
         <p>
-          A format for encoding a variety of geographic data structures. This feed contains a subset of the event data. If you prefer the full suite of event data, use the <a href="v1.0/geojson_detail.php">GeoJSON Detail Feed</a>.
+          A format for encoding a variety of geographic data structures. This feed contains a subset of the event data for the event lists. If you prefer the full suite of event data for a single event, use the <a href="v1.0/geojson_detail.php">GeoJSON Detail Feed</a>.
         </p>
       </li>
     </ul>
