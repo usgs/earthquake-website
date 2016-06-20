@@ -17,7 +17,7 @@
 
 <ul>
   <li><a href="https://github.com/usgs/hazdev-gis/blob/master/documentation.md#httpearthquakeusgsgovarcgisrestservices">GIS Services Documentation</a></li>
-  <li><a href="/arcgis/rest/services/eq">Earthquakes</a> - slabs, ShakeMaps, Tweet Earthquake Dispatch, and more.</li>
+  <li><a href="/arcgis/rest/services/eq">Earthquake Models and Products</a> - slabs, ShakeMaps, Tweet Earthquake Dispatch, and more.</li>
   <li><a href="/arcgis/rest/services/haz">Earthquake Hazards</a> - National Hazard Maps, faults, and more.</li>
 </ul>
 
