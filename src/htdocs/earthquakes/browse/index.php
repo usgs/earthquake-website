@@ -74,9 +74,9 @@
   </p>
 
   <p>
-    <button>
+    <strong>
       <a href="/earthquakes/search/">Search Earthquake Catalog</a>
-    </button>
+    </strong>
   </p>
 </div>
     <!-- Beginning of By Location section
