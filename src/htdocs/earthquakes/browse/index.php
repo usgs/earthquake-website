@@ -70,13 +70,13 @@
 
 <div class="alert">
   <p>
-    Use the Eearthquake Catalog Search to find earthquakes within a certain distance of any location. Expand "Advanced Options" and fill in the "Circle" fields.
+    Use the Earthquake Catalog Search to find earthquakes within a certain distance of any location. Expand "Advanced Options" and fill in the "Circle" fields.
   </p>
 
   <p>
-    <button>
+    <strong>
       <a href="/earthquakes/search/">Search Earthquake Catalog</a>
-    </button>
+    </strong>
   </p>
 </div>
     <!-- Beginning of By Location section

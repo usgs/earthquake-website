@@ -9,51 +9,68 @@
   }
 ?>
 
-<h2>Data Availability as of 2015-03-19:</h2>
+<h2>Data Availability as of 2016-06-16</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Catalog</th>
+      <th>Time Period</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Realtime Earthquake Data Sources and Contributing Networks</td>
+      <td>2013-02-02 to present</td>
+    </tr>
+    <tr>
+      <td>NEIC <a href="/data/pde.php">PDE Preliminary Determination of Epicenters Bulletin</a></td>
+      <td>
+        <ul>
+          <li>
+            Monthly from 1973-01-01 to 2011-03-31
+          </li>
+          <li>
+            Weekly from 2011-04-01 to 2012-10-13
+          </li>
+          <li>
+            Daily from 2012-10-14 to 2013-02-08
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="/earthquakes/shakemap/atlas.php">Shakemap Atlas</a></td>
+      <td>1923 to 2011</td>
+    </tr>
+    <tr>
+      <td>Wphase (<a href="catalog/duputel/">Duputel</a>)</td>
+      <td>1990 to 2012</td>
+    </tr>
+    <tr>
+      <td><a href="catalog/iscgem/">ISCGEM</a></td>
+      <td>1900 to 2012</td>
+    </tr>
+    <tr>
+      <td><a href="catalog/gcmt/">GCMT (Global Centroid-Moment-Tensor)</a></td>
+      <td>1976 to present</td>
+    </tr>
+    <tr>
+      <td><a href="comcat/catalog/ci/">CI</a></td>
+      <td>1932 to present</td>
+    </tr>
+    <tr>
+      <td><a href="catalog/nm/">NM</a>/<a href="catalog/se/">SE</a></td>
+      <td>2002 to present</td>
+    </tr>
+
+  </tbody>
+</table>
+
+<h2>Currently loading (available soon)</h2>
 
 <ul>
-  <li>
-    Realtime Earthquake Data Sources &amp; Contributing Networks from 2013-02-02
-    to present
-  </li>
-  <li>
-    NEIC <a href="/data/pde.php">PDE Preliminary Determination of Epicenters
-    Bulletin</a>
-    <ul>
-      <li>
-        Monthly from 1973-01-01 to 2011-03-31
-      </li>
-      <li>
-        Weekly from 2011-04-01 to 2012-10-13
-      </li>
-      <li>
-        Daily from 2012-10-14 to 2013-02-08
-      </li>
-    </ul>
-  </li>
-  <li>
-    <a href="/earthquakes/shakemap/atlas.php">Shakemap Atlas</a> from 1923 to
-    2011
-  </li>
-  <li>
-    Wphase (Duputel) from 1990 to 2012
-  </li>
-  <li>
-    ISCGEM
-  </li>
-  <li>
-    GCMT (Global Centroid-Moment-Tensor)
-  </li>
-</ul>
-
-<p>
-  Currently loading (available soon):
-</p>
-
-<ul>
-  <li>
-    &ldquo;Official&rdquo; magnitudes
-  </li>
+  <li>&ldquo;Official&rdquo; magnitudes</li>
 </ul>
 
 <h2>"Missing" Earthquakes</h2>
@@ -62,7 +79,6 @@
 	<li>Why are there &ldquo;missing&rdquo; earthquakes?</li>
 	<li>There is an earthquake on another website; why is it not here?</li>
 </ul>
-
 
 <p>
 The maps and lists show events which have been located by the USGS and
@@ -81,7 +97,7 @@ in the world.
 <p>There are many regional networks around the world that can record smaller earthquakes in their region than the NEIC global network can, and in many cases these regional networks do not share their data with the NEIC.  So if you think there is a missing earthquake on our maps and lists, please see the national and regional links for the area of interest on these webpages:</p>
 
 <ul>
-	<li><a href="/earthquakes/states/">Earthquake Info by State/Territory</a></li>
+	<li><a href="/earthquakes/byregion/">Earthquake Info by State/Territory</a></li>
 	<li><a href="/monitoring/institutions.php">Geophysics Institutions Throughout the World</a></li>
 </ul>
 

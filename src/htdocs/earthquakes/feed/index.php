@@ -1,10 +1,12 @@
 <?php
 // Author: Lisa Wald
 // Contact: Web Development Team,
-// Last modified: 02/17/2016
+// Last modified: 06/14/2016
   if (!isset($TEMPLATE)) {
-  $TITLE = 'Feeds and Notifications';
-
+  $TITLE = 'Real-time Feeds and Notifications';
+  $HEAD = '
+    <link rel="stylesheet" href="index.css"/>
+  ';
 // Use Earthquake level nav file
   include_once 'functions.inc.php';
   ob_start();
@@ -15,10 +17,61 @@
   }
 ?>
 
+<h2>Real-time Notifications</h2>
 <div class="row">
-  <section class="one-of-two column">
-    <h2>Real-time Feeds</h2>
+  <section class="three-of-three column">
+    <p class="alert info">
+      Know about earthquakes just after they happen. The ENS and TED services each offer something different, depending on your interests.
+    </p>
+  </section>
+</div>
 
+<div class="row">
+
+  <section class="one-of-three column">
+    <ul class="no-style linklist">
+      <li>
+        <a href="https://sslearthquake.usgs.gov/ens/">
+          <h4>Earthquake Notification Service (ENS)</h4>
+          <img src="images/ens-x2.png" class='feeds-list-image'
+              alt="Earthquake Notification Service icon"  width="75"/>
+        </a>
+        <p>
+          The Earthquake Notification Service (ENS) is a free service that
+          sends you automated notifications to your email or cell phone when
+          earthquakes happen.
+        </p>
+      </li>
+    </ul>
+  </section>
+
+    <section class="one-of-three column">
+      <ul class="no-style linklist">
+      <li>
+        <a href="/earthquakes/ted/">
+          <h4>Tweet Earthquake Dispatch (TED)</h4>
+          <img src="images/ted.png" alt="Tweet Earthquake Dispatch icon"  width="75"/>
+        </a>
+        <p>
+          Tweet Earthquake Dispatch (TED) offers two Twitter accounts. On
+          average, each account will produce about one tweet per day.
+        </p>
+      </li>
+    </ul>
+  </section>
+</div>
+
+<h2>Real-time Feeds</h2>
+<div class="row">
+  <section class="three-of-three column">
+      <p class="alert info">
+        To subscribe to a real-time feed, select a format (ATOM is the best choice for most), then select which feed you want from the list on that page, and copy the URL into your feed reader of choice.
+      </p>
+    </section>
+</div>
+
+<div class="row">
+  <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
         <a href="v1.0/atom.php">
@@ -31,7 +84,11 @@
           information.
         </p>
       </li>
+    </ul>
+  </section>
 
+  <section class="one-of-three column">
+    <ul class="no-style linklist">
       <li>
         <a href="v1.0/kml.php">
           <h4>Google Earth&trade; KML</h4>
@@ -43,11 +100,17 @@
           Earth&trade;
         </p>
       </li>
+    </ul>
+  </section>
+
       <!--
         Icon Source: www.iconspedia.com
         Author: Tempest, http://tempest.deviantart.com/
         License: CC Attribution Non-Commercial No Derivatives
       -->
+
+  <section class="one-of-three column">
+    <ul class="no-style linklist">
       <li>
         <a href="v1.0/csv.php">
           <h4>Spreadsheet Format</h4>
@@ -59,7 +122,14 @@
           manual scientific analysis.
         </p>
       </li>
+    </ul>
+  </section>
+</div>
 
+<div class="row">
+
+  <section class="one-of-three column">
+    <ul class="no-style linklist">
       <li>
         <a href="v1.0/quakeml.php">
           <h4>QuakeML</h4>
@@ -72,51 +142,28 @@
         </p>
       </li>
     </ul>
-
   </section>
 
-  <section class="one-of-two column">
-    <h2>Real-time Notifications</h2>
-
+  <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
-        <a href="https://sslearthquake.usgs.gov/ens/">
-          <h4>Earthquake Notification Service</h4>
-          <img src="images/ens-x2.png" class='feeds-list-image'
-              alt="Earthquake Notification Service icon"  width="75"/>
+        <a href="v1.0/geojson.php">
+          <h4>GeoJSON Summary Feed</h4>
+          <img src="images/geojson.jpg" alt="GeoJSON icon" width="75"/>
         </a>
         <p>
-          The Earthquake Notification Service (ENS) is a free service that
-          sends you automated notifications to your email or cell phone when
-          earthquakes happen.
-        </p>
-      </li>
-
-      <li>
-        <a href="/earthquakes/ted/">
-          <h4>Tweet Earthquake Dispatch</h4>
-          <img src="images/ted.png" alt="Tweet Earthquake Dispatch icon"  width="75"/>
-        </a>
-        <p>
-          Tweet Earthquake Dispatch (TED) offers two Twitter accounts. On
-          average, each account will produce about one tweet per day.
+          A format for encoding a variety of geographic data structures. This feed contains a subset of the event data for the event lists. If you prefer the full suite of event data for a single event, use the <a href="v1.0/geojson_detail.php">GeoJSON Detail Feed</a>.
         </p>
       </li>
     </ul>
+  </section>
 
-    <h2>For Developers</h2>
+</div>
+
+<hr/>
+<h2>For Developers</h2>
 
     <ul>
-      <li>
-        <a href="/fdsnws/event/1/">API Documentation - EQ Catalog</a>
-      </li>
-      <li>
-        <a href="v1.0/geojson.php">GeoJSON Summary Feed</a>
-      </li>
-      <li>
-        <a href="v1.0/geojson_detail.php">
-            GeoJSON Detail Feed</a>
-      </li>
       <li>
         <a href="v1.0/changelog.php">Change Log</a>
       </li>
@@ -128,6 +175,9 @@
         <a href="https://github.com/usgs/devcorner">Developers Corner</a> - tools for obtaining specific products from earthquake catalog
       </li>
       <li>
+        <a href="/ws/">Web Services</a>
+      </li>
+      <li>
         <a href="https://geohazards.usgs.gov/mailman/listinfo/realtime-feeds">
             Mailing List - Announcements</a>
       </li>
@@ -136,5 +186,3 @@
             Mailing List - Forum/Questions</a>
       </li>
     </ul>
-  </section>
-</div>
