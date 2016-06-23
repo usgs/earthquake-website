@@ -35,6 +35,12 @@ if (!isset($TEMPLATE)) {
       <li><a href="mailto:sis_eq_questions@usgs.gov">Earthquake Questions and Website Feedback</a></li>
     </ul>
 
+    <div class="column one-of-two">
+      <h3>Web Team</h3>
+      <ul>
+        <li><a href="webteam.php">Web Team</a></li>
+      </ul>
+
     <h3>Looking for Something Else?</h3>
     <ul>
       <li><a href="http://store.usgs.gov/">USGS Maps and Publications</a></li>
