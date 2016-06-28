@@ -28,10 +28,6 @@ Insert code to display latest really significant EQ
 and a link to Significant Earthquakes, Past 30 Days
 -->
 
-<p class="alert info">
-  We're improving Latest Earthquakes. Try out our <a href="/beta/earthquakes/map/">Beta version</a>, and <a href="mailto:sis_eq_questions@usgs.gov?subject=beta">send us your feedback</a>. (Fixes Android "scrolling bug".)
-</p>
-
 <div class = "row">
   <div class = "column three-of-five">
 
