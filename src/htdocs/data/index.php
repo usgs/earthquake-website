@@ -15,7 +15,7 @@
 <div class="row">
 
 <!-- Data -->
-  <section class="column one-of-two">
+  <section class="column three-of-five">
     <figure class="right">
       <img src="images/webservices-150.gif" width="150" alt=""/>
     </figure>
@@ -30,14 +30,10 @@
       <li><a href="data.php#earth">Earth Structure and Site Response</a></li>
       <li><a href="data.php#site">Ground Motion and Site Conditions</a></li>
       <li><a href="data.php#model">Hazard Assessment Data and Models</a></li>
-      <li><a href="data.php#other">Other Data Sources</a></li>
-      <li><a href="data.php#info">Information and Data Outside of USGS</a></li>
     </ul>
-  </section>
 
 
 <!-- Products -->
-  <section class="column one-of-two">
     <figure class="right">
     <img src="/scenarios/images/scenario.jpg" width="150" alt=""/>
   </figure>
@@ -49,10 +45,22 @@
       <li><a href="products.php#haz">Hazard Maps</a></li>
       <li><a href="products.php#kml">Google Earth/KML Files</a></li>
       <li><a href="products.php#sfbay">San Francisco Bay Area Maps</a></li>
-      <li><a href="products.php#sigeq">Special Earthquake Collections</a></li>
       <li><a href="products.php#pubs">Publications</a></li>
       <li><a href="products.php#soft">Software</a></li>
     </ul>
   </section>
 
+  <section class="column two-of-five">
+    <div class="alert" style="margin-bottom:16px">
+
+      <p><img src="images/sf1906-2x.jpg" width="384"/></p>
+      <h3>See Also</h3>
+
+    <ul>
+      <li><a href="products.php#sigeq">Special Earthquake Collections</a></li>
+      <li><a href="data.php#other">Other Data Sources</a></li>
+      <li><a href="data.php#info">Information and Data Outside of USGS</a></li>
+    </ul>
+  </div>
+  </section>
 </div>
