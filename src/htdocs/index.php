@@ -84,7 +84,7 @@ echo $EQ_FEATURES->toHtml();
             <li>
               <h2><a href="/data/">Data &amp; Products</a></h2>
                   <a href="/data/">
-                    <img src="/images-home/home-data800for400.gif" alt="" />
+                    <img src="/images-home/home-data400for200.gif" alt="" />
                   </a>
                 <p>
                   Monitoring, station, and other various seismic data available for
