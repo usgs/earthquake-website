@@ -55,6 +55,16 @@ $EQ_FEATURES->baseUrl = '';
  *
  */
 
+ $EQ_FEATURES->items[] = array(
+   'id' => 'latest-eqs',
+   'title' => 'Latest Earthquakes',
+   'content' => 'Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.',
+   'link' => '/earthquakes/map/',
+   'modified' => strtotime('2016-06-01'),
+   'thumbnail' => '/earthquakes/images/latesteqs-300for150.gif',
+   'image' => '/earthquakes/images/latesteqs-300for150.gif'
+ );
+
 
 $EQ_FEATURES->items[] = array(
   'id' => '2016-utah-high',
@@ -74,14 +84,4 @@ $EQ_FEATURES->items[] = array(
   'modified' => strtotime('2016-04-12'),
   'thumbnail' => 'images-featured/campaign-prep-sca.jpg',
   'image' => 'images-featured/campaign-prep-sca.jpg'
-);
-
-$EQ_FEATURES->items[] = array(
-  'id' => '2016-1yr-hazmap',
-  'title' => '2016 One-Year Seismic Hazard Forecast for the Central and Eastern United States from Induced and Natural Earthquakes',
-  'content' => 'The U.S. Geological Survey (USGS) has produced a 1-year seismic hazard forecast for 2016 for the Central and Eastern United States (CEUS) that includes contributions from both induced and natural earthquakes.',
-  'link' => 'hazards/induced/',
-  'modified' => strtotime('2016-04-01'),
-  'thumbnail' => 'images-featured/2016-1yr-hazmap.gif',
-  'image' => 'images-featured/2016-1yr-hazmap.gif'
 );
