@@ -1,7 +1,7 @@
 <?php
 $section = "/data/comcat";
 
-echo "<a href='/data' class='up-one-level'>Data</a>";
+echo "<a href='/data' class='up-one-level'>Data &amp; Products</a>";
 
 echo navGroup(("ComCat Documentation") ,
 
