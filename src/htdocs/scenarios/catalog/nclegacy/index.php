@@ -7,10 +7,9 @@ include '../_catalog.inc.php';
 
 <h3 id="event-selection">Event Selection</h3>
 <p>
-  This catalog is a place holder for scenarios created for Northern California around 2012.
+  This catalog is an archive of scenarios created for Northern California around 2012.
   The rupture definitions are based on version 2 of the Uniform California Earthquake Rupture
   Forecast (Field and others, 2009). 
-  This catalog is maintained for archival purposes.
 </p>
 
 <h3 id="ground-motion-models">Ground Motion Models</h3>
