@@ -35,6 +35,13 @@ include '../_catalog.inc.php';
 </p>
 
 <p>
+  We have employed the OpenQuake hazard library 
+  (<a href="http://docs.openquake.org/oq-hazardlib/master/">hazardlib</a>)
+  implementation of the ground motion models. OpenQuake hazardlib provides a broad
+  range of well-tested open-source models. 
+</p>
+
+<p>
   The ground motion parameters in ShakeMap are converted from the average horizontal
   component, which is given by most ground motion models, to the peak horizontal
   component.
@@ -58,13 +65,6 @@ include '../_catalog.inc.php';
   </a>
   are a combination of regionally variable models
   that are available at the USGS Global Vs30 GitHub repository.
-</p>
-
-<p>
-  We have employed the OpenQuake hazard library 
-  (<a href="http://docs.openquake.org/oq-hazardlib/master/">hazardlib</a>)
-  implementation of the ground motion models. OpenQuake hazardlib provides a broad
-  range of well-tested open-source models. 
 </p>
 
 <h3 id="extent">Extent</h3>
