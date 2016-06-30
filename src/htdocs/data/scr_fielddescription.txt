@@ -1,0 +1,178 @@
+Description of the Updated Earthquake Catalog for Stable Continental Regions
+
+The database is organized as an ASCII table. The following is a description 
+of the 36 fields of the database.
+
+Field 1:
+Date, consisting of 8 characters: year, month, day.
+Example: An event that occurred on January 26th, 2002 is indicated as 
+20020126
+
+Field 2:
+Field indicating whether an event was recorded instrumentally or derived 
+from historical documents
+hist = historical event
+instr = instrumentally recorded event
+hist/instr or instr/hist = event parameters determined from combination of 
+instrumental recording and historical documentation
+
+Field 3:
+Lattitude (degrees north of equator)
+
+Field 4:
+Longitude (degrees east of Greenwich)
+
+Field 5:
+Origin time, consisting of max 8 characters: hour, min, sec.
+Example: If an event occurred at 08:52:24, its origin time is indicated as 
+85224
+
+Field 6:
+Continent (Stable Continental Region) in which event occurred. One of the 
+following:
+
+AF = Africa
+AU = Australia
+CH = China
+EU = Eurasia (Europe and Russia)
+IN = India
+NA = North America
+SA = South America
+
+Field 7:
+Depth in km
+
+Field 8:
+Moment Magnitude estimate
+
+Field 9:
+Uncertainty estimate for Moment Magnitude
+
+Field 10:
+Body wave Magnitude estimate (mb)
+
+Field 11:
+Surface wave Magnitude estimate (Ms)
+
+Field 12:
+Local Magnitude estimate (ML)
+
+Field 13:
+factor a of the Seismic Moment expression: Mo = a x 10**b Nm
+
+Field 14:
+factor b of the Seismic Moment expression: Mo = a x 10**b Nm
+
+Field 15:
+Quality estimate of seismic moment
+A, B, C, D, or - (no quality estimate).
+
+Field 16:
+Calculated Seismic Moment in Nm. Calculated either from Moment Magnitude 
+estimate, or taken from Fields 13 and 14 if assigned relatively good quality 
+(Field 15)
+
+Field 17:
+Strike of nodal plane 1 (degrees)
+
+Field 18:
+Dip of nodal plane 1 (degrees)
+
+Field 19:
+Rake of nodal plane 1 (degrees)
+
+Field 20:
+Strike of nodal plane 2 (degrees)
+
+Field 21:
+Dip of nodal plane 2 (degrees)
+
+Field 22:
+Rake of nodal plane 2 (degrees)
+
+Field 23:
+Quality estimate of focal mechanism
+A, B, C, D, or - (no quality estimate).
+
+Field 24:
+Dip direction P-axis
+
+Field 25:
+Dip P-axis
+
+Field 26:
+Dip direction T-axis
+
+Field 27:
+Dip T-axis
+
+Field 28:
+Dip direction B-axis
+
+Field 29:
+Dip B-axis
+
+Field 30:
+Stress regime according to Zoback [1992] classification
+
+Field 31:
+azimuth Shmax according to Zoback [1992] classification
+
+Field 32:
+I = independent event (mainshock)
+D = dependent event (either fore- or aftershock)
+P = possibly dependent event
+
+Field 33:
+date main event associated with this dependent event
+
+Field 34:
+type of event (tectonic or non-tectonic)
+tect. = tectonic event
+deep min. = event associated with deep mining
+mining = event associated with mining
+reservoir = event associated with water reservoir
+oil field = event associated with activity oil field
+
+Field 35:
+Tectonic association:
+r = rifts
+pm = rifted continental margins (passive margins)
+not = non rifted crust
+pr = possible rifts
+e = Europe, outside rifts but likely to be rifted crust (part of pr 
+category)
+ppm = possible rifted continental margins
+
+Field 36:
+* = event taken from Centennial catalog [Engdahl and Villasenor, 2002]
+** = event time, location and depth taken from Centennial catalog [Engdahl 
+and Villasenor, 2002]
+*** = changes in location/ depth/ magnitude/ seismic moment/ focal mechanism 
+taken from EPRI [1994] that were not yet included in Triep and Sykes [1996]
+^ = focal mechanism taken from Bent [2002, pers. comm]
+^^ = magnitude taken from Bakun and Hopper [2003]
+~ = magnitude and seismic moment taken from Johnston [1996]
+
+Fields 1, 3-5, 7, 10-14, 17-22 were taken directly from source catalogs, 
+which were:
+events historical through 1994: Triep and Sykes [1996], unless indicated 
+otherwise in field 36
+1994 -2000: ISC bulletin [2001], unless indicated otherwise in field 36
+2001-2002: NEIC bulletin
+1990-2002: Harvard CMT catalog (focal mechanisms, seismic moment)
+
+Quality assigments (fields 15 and 23) were taken directly from (or for more 
+recent events according to criteria given in) Triep and Sykes [1996]
+
+Information for fields 2, 9, 24-29, 32, 33, and 34 was taken directly from 
+the EPRI [1994] earthquake datasheets or determined in this study for the 
+more recent events.
+In field 9, uncertainty estimate was altered for historical events (now 
+often estimated 1.0 M units), based on recent studies (see accompanying 
+paper [Schulte and Mooney, 2004] for discussion)
+
+Moment Magnitude (field 8) taken from source catalogs if available, or 
+calculated from regressions EPRI [1994] and Johnston [1996].
+
+For references see accompanying text.
