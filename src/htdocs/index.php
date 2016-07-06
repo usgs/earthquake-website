@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Earthquake Hazards Program';
+  $TITLE = '';
   $HEAD = '
     <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
     <link rel="stylesheet" href="index.css"/>
@@ -16,10 +16,10 @@ include_once '_features.inc.php';
 echo $EQ_FEATURES->toHtml();
 ?>
 
-<a href="atom.php"><img style="padding-right:16px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe to Earthquake Highlights</a>
+<a href="atom.php"><img style="padding-right:16px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe to Earthquake Hazards Program Highlights</a>
 
 <p class="alert">
-  <img src="images-home/nehrp.png">
+  <img class="nehrp" src="images-home/nehrp.png">
   The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977. We monitor and report earthquakes, assess earthquake impacts and hazards, and research the causes and effects of earthquakes.
 </p>
 
@@ -50,11 +50,11 @@ echo $EQ_FEATURES->toHtml();
 
       <div class="row">
         <div class="column one-of-two">
-          <ul>
-            <li>
+          <ul class="sections-list">
+            <li class="sections-listitem">
               <a href="/earthquakes/">
                 <h2>Earthquakes</h2>
-                <img src="/images-home/home-earthquakes800for400.gif" alt="" />
+                <img class="sections-img" src="/images-home/home-earthquakes800for400.gif" alt="" />
               </a>
                 <p>
                   Information about real-time earthquakes, online catalog search of archives, seismicity maps and statistics.
@@ -63,11 +63,11 @@ echo $EQ_FEATURES->toHtml();
           </ul>
         </div>
         <div class="column one-of-two">
-          <ul>
-            <li>
+          <ul class="sections-list">
+            <li class="sections-listitem">
               <a href="/hazards/">
                 <h2>Hazards</a></h2>
-                <img src="/images-home/home-hazards800for400.gif" alt="" />
+                <img class="sections-img" src="/images-home/home-hazards800for400.gif" alt="" />
                 <p>
                   US faults, information about seismic hazards in various areas,
                   tools for seismic design values.
@@ -80,11 +80,11 @@ echo $EQ_FEATURES->toHtml();
 
       <div class="row">
         <div class="column one-of-two">
-          <ul>
-            <li>
+          <ul class="sections-list">
+            <li class="sections-listitem">
               <h2><a href="/data/">Data &amp; Products</a></h2>
                   <a href="/data/">
-                    <img src="/images-home/home-data400for200.gif" alt="" />
+                    <img class="sections-img" src="/images-home/home-data800for400.gif" alt="" />
                   </a>
                 <p>
                   Monitoring, station, and other various seismic data available for
@@ -95,11 +95,11 @@ echo $EQ_FEATURES->toHtml();
           </ul>
         </div>
         <div class="column one-of-two">
-          <ul>
+          <ul class="sections-list">
             <li>
               <h2><a href="/learn/">Learn</a></h2>
                   <a href="/learn/">
-                    <img src="/images-home/home-learn800for400.jpg" alt="" />
+                    <img class="sections-img" src="/images-home/home-learn800for400.jpg" alt="" />
                   </a>
                 <p>
                   The science of earthquakes, FAQ, glossary, links to earthquake
@@ -113,11 +113,11 @@ echo $EQ_FEATURES->toHtml();
 
       <div class="row">
         <div class="column one-of-two">
-          <ul>
-            <li>
+          <ul class="sections-list">
+            <li class="sections-listitem">
               <h2><a href="/monitoring">Monitoring</a></h2>
                 <a href="/monitoring">
-                  <img src="/images-home/home-monitoring800for400.gif" alt="" />
+                  <img class="sections-img" src="/images-home/home-monitoring800for400.jpg" alt="" />
                 </a>
                 <p>
                   Global, national and regional networks recording earthquakes and
@@ -129,11 +129,11 @@ echo $EQ_FEATURES->toHtml();
           </ul>
         </div>
         <div class="column one-of-two">
-          <ul>
-            <li>
+          <ul class="sections-list">
+            <li class="sections-listitem">
               <h2><a href="/research/">Research</a></h2>
                   <a href="/research/">
-                    <img src="/images-home/home-research800for400.jpg" alt="" />
+                    <img class="sections-img" src="/images-home/home-research800for400.jpg" alt="" />
                   </a>
                 <p>
                   Research projects in the Earthquake Hazards Program, external
