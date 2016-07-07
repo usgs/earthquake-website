@@ -1,7 +1,7 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Walter Mooney, mooney@usgs.gov
-  // Last modified: 06/30/2016, Lisa Wald
+  // Contact: Bill Leith, leith@usgs.gov
+  // Last modified: 07/07/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
       $TITLE = 'Seismicity of Russia and the Former Soviet Union';
       $NAVIGATION = true;
