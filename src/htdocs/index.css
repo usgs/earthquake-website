@@ -6,13 +6,18 @@ section.site-sitenav {
   width: 100%;
 }
 
-.sections ul {
+img.nehrp {
+  float: left;
+  margin-right: 5px
+}
+
+.sections-list {
   list-style: none;
-  margin-top: 0;
+  margin;-top: 0;
   padding: 0;
 }
 
-.sections > ul > li {
+.sections-listitem {
   max-width: 100%;
 }
 
@@ -22,8 +27,7 @@ section.site-sitenav {
   max-width: 100%;
 }
 
-.sections > ul > li > div > a > img {
+.sections-img {
   max-height: 87px;
   max-width: 100%;
-  padding-left: 16px;
 }
