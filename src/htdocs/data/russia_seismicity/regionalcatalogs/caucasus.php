@@ -1,7 +1,7 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Walter Mooney, mooney@usgs.gov
-  // Last modified:
+  // Contact: Bill Leith, leith@usgs.gov
+  // Last modified: 07/07/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
       $TITLE = 'Regional Catalogs';
       $NAVIGATION = true;
