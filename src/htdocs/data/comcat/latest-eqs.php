@@ -1,7 +1,7 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Jeremy Fee,
-  // Last modified: 03/03/2016
+  // Contact: Jeremy Fee, jmfee@usgs.gov
+  // Last modified: 07/08/2016
   if (!isset($TEMPLATE)) {
   $TITLE = 'ComCat Documentation - Latest Earthquakes';
   $HEAD = '
