@@ -303,7 +303,8 @@
 
 </table>
 
-<h2>Earthquake Counts by State 2010-2015</h2>
+<h2>Earthquake Counts by State 2010-2015 (M3+)</h2>
+<p>Counts are as of July 10, 2016</p>
 
 <table>
   <thead>
@@ -333,7 +334,7 @@
   <td align=right>1166</td>
   <td align=right>1329</td>
   <td align=right>1296</td>
-  <td align=right>1576</td>
+  <td align=right>1575</td>
  </tr>
  <tr>
   <td>Arizona</td>
@@ -355,11 +356,11 @@
  </tr>
  <tr>
   <td>California</td>
-  <td align=right>550</td>
-  <td align=right>192</td>
-  <td align=right>241</td>
-  <td align=right>238</td>
-  <td align=right>192</td>
+  <td align=right>546</td>
+  <td align=right>195</td>
+  <td align=right>243</td>
+  <td align=right>240</td>
+  <td align=right>191</td>
   <td align=right>130</td>
  </tr>
  <tr>
@@ -399,7 +400,7 @@
   <td align=right>0</td>
  </tr>
  <tr>
-  <td>Georgia.</td>
+  <td>Georgia</td>
   <td align=right>0</td>
   <td align=right>0</td>
   <td align=right>0</td>
@@ -562,12 +563,12 @@
  </tr>
  <tr>
   <td>Nevada</td>
-  <td align=right>39</td>
-  <td align=right>88</td>
+  <td align=right>38</td>
+  <td align=right>86</td>
   <td align=right>22</td>
-  <td align=right>36</td>
+  <td align=right>34</td>
   <td align=right>161</td>
-  <td align=right>173</td>
+  <td align=right>172</td>
  </tr>
  <tr>
   <td>New Hampshire</td>
