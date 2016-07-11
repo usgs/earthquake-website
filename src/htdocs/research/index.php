@@ -79,10 +79,6 @@ if (!isset($TEMPLATE)) {
     </div>
 
     <div class="alert" style="margin-bottom:16px">
-      <a href="/data/">
-        <h3>Data and Products</h3>
-        <img src="images/scenario.jpg" alt="scenario">
-      </a>
       <a href="/contactus/">
         <h3>Regional Science Activities</h3>
         <img src="images/regional.jpg" alt="Menlo Park Science Center building">
@@ -108,8 +104,9 @@ if (!isset($TEMPLATE)) {
       <h3><a href="external/">External Grants</a></h3>
       <img src="images/grants.jpg" alt="3d image of fault segments in southern California">
     </a>
+    <p>See also:<br/>
+      <a href="/data/"><strong>Data and Products</strong></a>
+    </p>
     </div>
-
   </div>
-
 </div>
