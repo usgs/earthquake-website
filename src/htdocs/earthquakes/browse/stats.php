@@ -304,7 +304,7 @@
 </table>
 
 <h2>Earthquake Counts by State 2010-2015 (M3+)</h2>
-<p>Counts are as of July 10, 2016</p>
+<p>Counts are as of March 10, 2016</p>
 
 <table>
   <thead>
