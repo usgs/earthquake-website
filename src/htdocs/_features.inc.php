@@ -65,23 +65,22 @@ $EQ_FEATURES->baseUrl = '';
    'image' => '/earthquakes/images/latesteqs-300for150.gif'
  );
 
-
-$EQ_FEATURES->items[] = array(
-  'id' => '2016-utah-high',
-  'title' => 'New Report Forecasts the High Likelihood of Damaging Earthquakes During the Lifetime of Many Utah Residents',
-  'content' => 'In the first comprehensive study of its kind for Utah, Earthquake Probabilities for the Wasatch Front Region in Utah, Idaho, and Wyoming forecasts the chances for damaging earthquakes in the Wasatch Front region.',
-  'link' => 'http://www.usgs.gov/newsroom/article.asp?ID=4511',
-  'modified' => strtotime('2016-04-19'),
-  'thumbnail' => 'images-featured/utah-high.png',
-  'image' => 'images-featured/utah-high.png'
-);
-
 $EQ_FEATURES->items[] = array(
   'id' => '2016-campaign-prep-sca',
   'title' => 'New Campaign Urges Earthquake Preparedness In Quake-Prone Southern California',
   'content' => 'USGS and Clear Channel Outdoor Americas Partner to Bring Vital Earthquake Safety Information to the Public During this Year’s Earthquake Preparedness Month.',
-  'link' => 'http://www.usgs.gov/newsroom/article.asp?ID=4509',
+  'link' => 'https://www.usgs.gov/news/new-campaign-urges-earthquake-preparedness-quake-prone-southern-california',
   'modified' => strtotime('2016-04-12'),
   'thumbnail' => 'images-featured/campaign-prep-sca.jpg',
   'image' => 'images-featured/campaign-prep-sca.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2016-utah-high',
+  'title' => 'Rodgers Creek Fault Traced through Santa Rosa',
+  'content' => 'For the first time, scientists at the U.S. Geological Survey have mapped the active surface trace of the Rodgers Creek Fault through the central part of the northern California city of Santa Rosa. Urban development has, until now, obscured its exact location.',
+  'link' => 'https://www.usgs.gov/news/rodgers-creek-fault-traced-through-santa-rosa',
+  'modified' => strtotime('2016-04-19'),
+  'thumbnail' => '',
+  'image' => ''
 );
