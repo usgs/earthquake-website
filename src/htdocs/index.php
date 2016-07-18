@@ -66,8 +66,9 @@ echo $EQ_FEATURES->toHtml();
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/hazards/">
-                <h2>Hazards</a></h2>
+                <h2>Hazards</h2>
                 <img class="sections-img" src="/images-home/home-hazards800for400.gif" alt="" />
+              </a>
                 <p>
                   US faults, information about seismic hazards in various areas,
                   tools for seismic design values.
