@@ -6,7 +6,8 @@
       $TITLE = 'The &quot;Snow Plow Theory&quot;* of Early-Arriving Tsunamis';
       $NAVIGATION = true;
       $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
+        <link rel="stylesheet" href="splays.css"/>
+        <link rel="stylesheet" href="../styles.css"/>
       ';
       include 'template.inc.php';
     }
@@ -61,6 +62,10 @@ They found uplifted blocks consist of <a href="/learn/glossary/?term=accretionar
 
 <p class="sm">-written by Lisa Wald, U.S. Geological Survey</p>
 
-<p class="left">
-  <a href="ak.php">< PREVIOUS</a>
+<!-- NAVIGATION at bottom for ARTICLE -->
+<p>
+  <a class='prev' href="ak.php">
+    <span class='material-icons prev'>&#xe5c4;</span>
+    <strong>PREV</strong>
+  </a>
 </p>
