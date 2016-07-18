@@ -6,7 +6,7 @@
       $TITLE = 'The &quot;Snow Plow Theory&quot;* of Early-Arriving Tsunamis';
       $NAVIGATION = true;
       $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
+        <link rel="stylesheet" href="../styles.css"/>
       ';
       include 'template.inc.php';
     }
@@ -32,11 +32,15 @@
 What causes displacement of the seafloor during an earthquake?  We know that both large-scale and small-scale sudden uplift of the crust can occur in large earthquakes along <a href="/learn/glossary/?term=subduction%20zone">subduction zone</a> boundaries where an oceanic <a href="/learn/glossary/?term=tectonic%20plates">tectonic plate</a> is subducting, or diving, under a continental plate.  But if we want to understand the hazards in a particular location, and have a better idea of what to expect when there is a large earthquake in these places, we need to learn more.
 </p>
 
-  <p>
-    <a class='material-icons next' href="ak.php">NEXT</a>
-  </p>
-
 <h2>Scientific Staff</h2>
 <ul>
 	<li>Peter Haeussler</li>
 </ul>
+
+<!-- NAVIGATION at bottom for ARTICLE -->
+<p>
+  <a class='next' href="ak.php">
+    <strong>NEXT</strong>
+  <span class='material-icons next'>&#xe5c8;</span>
+  </a>
+</p>
