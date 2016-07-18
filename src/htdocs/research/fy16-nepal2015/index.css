@@ -1,16 +1,16 @@
 figure.bricks {
   max-width: 450px;
-  margin-left: 16px;
+  margin-left: 1em;
 }
 figure.map {
   max-width: 450px;
-  margin-right: 16px;
+  margin-right: 1em;
 }
 figure.photos {
   max-width: 375px;
-  margin-right: 16px;
+  margin-right: 1em;
 }
 figure.photo2 {
   max-width: 375px;
-  margin-left: 16px;
+  margin-left: 1em;
 }
