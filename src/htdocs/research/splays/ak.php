@@ -6,7 +6,7 @@
       $TITLE = 'The &quot;Snow Plow Theory&quot;* of Early-Arriving Tsunamis';
       $NAVIGATION = true;
       $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
+        <link rel="stylesheet" href="../styles.css"/>
       ';
       include 'template.inc.php';
     }
@@ -30,9 +30,14 @@
   Montague Island is the southernmost island in Prince William Sound, and it lies 140km inland from the subduction zone boundary &ndash; a perfect place to look for clues to what happened. Shortly after the earthquake, scientists discovered 9m of unexpected uplift along the Montague Island shoreline caused by slip on the Patton Bay Fault.  This location was farther from the coast than the landslide, but closer than the subduction zone boundary far offshore near the oceanic trench.  They concluded that the Patton Bay fault was the source of the uplift that produced the tsunami that reached the shore so quickly.  Subsequent investigations identified local underwater landslides as the source of the first tsunami that arrived at Seward within just a few minutes after the earthquakes started.  Later research clarified that the Patton Bay Fault was the first documented example of a &quot;megathrust splay fault&quot;, or a fault that connects to the subduction boundary but provides a shortcut for sudden plate motion to reach the surface. Why was the fault motion and uplift occurring on these splay faults rather than the subduction boundary?
 </p>
 
-<p class="left">
-  <a href="index.php">< PREVIOUS</a>
-</p>
-<p class="right">
-  <a href="splays.php">NEXT ></a>
+<!-- NAVIGATION at bottom for ARTICLE -->
+<p>
+  <a class='prev' href="index.php">
+    <span class='material-icons prev'>&#xe5c4;</span>
+    <strong>PREV</strong>
+  </a>
+  <a class='next' href="splays.php">
+    <strong>NEXT</strong>
+  <span class='material-icons next'>&#xe5c8;</span>
+  </a>
 </p>
