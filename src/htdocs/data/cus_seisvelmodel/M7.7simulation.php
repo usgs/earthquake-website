@@ -10,5 +10,5 @@
 ?>
 
 <p>
-  <video src="media/M7.7simulation-south.mp4" poster="images/M7.7simulation.gif" width="834" height="884" controls></video>
+  <video src="M7.7simulation-south.mp4" poster="images/M7.7simulation.gif" width="834" height="884" controls></video>
 </p>
