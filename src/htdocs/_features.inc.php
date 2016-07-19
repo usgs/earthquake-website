@@ -61,8 +61,8 @@ $EQ_FEATURES->baseUrl = '';
    'content' => 'Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.',
    'link' => '/earthquakes/map/',
    'modified' => strtotime('2016-06-01'),
-   'thumbnail' => '/earthquakes/images/latesteqs-300for150.gif',
-   'image' => '/earthquakes/images/latesteqs-300for150.gif'
+   'thumbnail' => '/earthquakes/images/latesteqs.jpg',
+   'image' => '/earthquakes/images/latesteqs.jpg'
  );
 
 $EQ_FEATURES->items[] = array(
