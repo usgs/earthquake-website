@@ -71,8 +71,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'USGS and Clear Channel Outdoor Americas Partner to Bring Vital Earthquake Safety Information to the Public During this Year’s Earthquake Preparedness Month.',
   'link' => 'https://www.usgs.gov/news/new-campaign-urges-earthquake-preparedness-quake-prone-southern-california',
   'modified' => strtotime('2016-04-12'),
-  'thumbnail' => 'images-featured/campaign-prep-sca.jpg',
-  'image' => 'images-featured/campaign-prep-sca.jpg'
+  'thumbnail' => 'images-featured/campaign-prep-sca.gif',
+  'image' => 'images-featured/campaign-prep-sca.gif'
 );
 
 $EQ_FEATURES->items[] = array(
@@ -81,6 +81,6 @@ $EQ_FEATURES->items[] = array(
   'content' => 'For the first time, scientists at the U.S. Geological Survey have mapped the active surface trace of the Rodgers Creek Fault through the central part of the northern California city of Santa Rosa. Urban development has, until now, obscured its exact location.',
   'link' => 'https://www.usgs.gov/news/rodgers-creek-fault-traced-through-santa-rosa',
   'modified' => strtotime('2016-04-19'),
-  'thumbnail' => '',
-  'image' => ''
+  'thumbnail' => 'images-featured/rodgers-creek.gif',
+  'image' => 'images-featured/rodgers-creek.gif'
 );
