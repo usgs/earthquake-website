@@ -224,7 +224,7 @@
     	<ul>
     		<li><a href="slab/">Slab Models for Subduction Zones</a></li>
     		<li><a href="http://www.data.scec.org/research-tools/3d-velocity.html">SCEC Community Velocity Model</a></li>
-    		<li><a href="/research/cus_seisvelmodel/">New Madrid Velocity Model</a></li>
+    		<li><a href="/data/cus_seisvelmodel/">Central US Seismic Velocity Model and M7.7 Simulation</a></li>
     		<li><a href="3dgeologic/">3D Geologic and Seismic Velocity Models of the San Francisco Bay Region</a></li>
     	</ul>
     </div>
