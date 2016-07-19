@@ -15,3 +15,6 @@ figure.timeline {
   max-width: 464px;
   margin-bottom: 1em;
 }
+figure.model {
+  float: left;
+}
