@@ -66,13 +66,13 @@ $EQ_FEATURES->baseUrl = '';
  );
 
 $EQ_FEATURES->items[] = array(
-  'id' => '2016-campaign-prep-sca',
-  'title' => 'New Campaign Urges Earthquake Preparedness In Quake-Prone Southern California',
-  'content' => 'USGS and Clear Channel Outdoor Americas Partner to Bring Vital Earthquake Safety Information to the Public During this Year’s Earthquake Preparedness Month.',
-  'link' => 'https://www.usgs.gov/news/new-campaign-urges-earthquake-preparedness-quake-prone-southern-california',
-  'modified' => strtotime('2016-04-12'),
-  'thumbnail' => 'images-featured/campaign-prep-sca.gif',
-  'image' => 'images-featured/campaign-prep-sca.gif'
+  'id' => 'NCAprob',
+  'title' => 'Earthquake outlook for the San Francisco Bay region 2014–2043',
+  'content' => 'Using information from recent earthquakes, improved mapping of active faults, and a new model for estimating earthquake probabilities, the 2014 Working Group on California Earthquake Probabilities updated the 30-year earthquake forecast for California.',
+  'link' => 'https://pubs.er.usgs.gov/publication/fs20163020',
+  'modified' => strtotime('2016-07-22'),
+  'thumbnail' => 'images-featured/NCAprob.gif',
+  'image' => 'images-featured/NCAprobgif'
 );
 
 $EQ_FEATURES->items[] = array(
