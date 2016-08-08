@@ -1,7 +1,7 @@
 <?php
   // Author: Lisa Wald
   // Contact: Peter Haeussler,
-  // Last modified: Lisa Wald, 07/13/2016
+  // Last modified: Lisa Wald, 08/08/2016
     if (!isset($TEMPLATE)) {
       $TITLE = 'The &quot;Snow Plow Theory&quot;* of Early-Arriving Tsunamis';
       $NAVIGATION = true;
@@ -60,7 +60,7 @@ They found uplifted blocks consist of <a href="/learn/glossary/?term=accretionar
   Splay faults above subduction megathrusts are present around the world.  Scientists know this same situation must be present in other subduction zone areas; they just don’t know where all those areas are yet.  But now they know what to look for.  The tsunamis caused by the splay faults can reach the shoreline quickly, reach great heights, and travel inland farther than other types of tsunamis. The identification of megathrust splay faults near populated shorelines and the education of nearby residents could help those communities be prepared for a future potential tsunami.
 </p>
 
-<p class="sm">-written by Lisa Wald, U.S. Geological Survey</p>
+<p class='sm'>-written by Lisa Wald, U.S. Geological Survey</p>
 
 <!-- NAVIGATION at bottom for ARTICLE -->
 <p>
