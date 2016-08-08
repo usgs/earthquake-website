@@ -14,8 +14,7 @@
 
   	navItem("$section/wasatch/select.php", "Selecting &amp; Preparing the Site") .
   	navItem("$section/wasatch/collect.php", "Down in the Trenches &amp; Up in the Air-Collecting Data") .
-  	navItem("$section/wasatch/process.php", "Back at the Computer-Processing &amp; Analyzing the Data") .
-  	navItem("$section/wasatch/meet.php", "Meet the Scientist")
+  	navItem("$section/wasatch/process.php", "Back at the Computer-Processing &amp; Analyzing the Data")
   );
 
   print	navItem("$section/wasatch/resources.php", "Additional Resources");

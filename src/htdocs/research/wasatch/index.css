@@ -18,3 +18,7 @@ figure.timeline {
 figure.model {
   float: left;
 }
+figure.offvideo {
+  float: left;
+  max-width: 304px;
+}
