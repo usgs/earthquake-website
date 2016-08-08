@@ -3,7 +3,7 @@
   // Contact: Scott Bennett, Ryan Gold
   // Last modified: 07/18/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
-      $TITLE = 'How Big and How Frequent Are Earthquakes on the Wasatch Fault?';
+      $TITLE = 'In the Trenches on a Paleoseismology Project';
       $NAVIGATION = true;
       $HEAD = '
         <link rel="stylesheet" href="index.css"/>
