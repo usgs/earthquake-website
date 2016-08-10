@@ -51,7 +51,7 @@ if (!isset($TEMPLATE)) {
       <li>
         <a href="eqproc/">
           <h4>Earthquake Processes and Effects</h4>
-          <img src="images/topic-eqproc.jpg" width="150" alt="thumbnail of 3d model"/>
+          <img src="images/topic-eqproc.jpg" width="150" alt="thumbnail of SAFZ in SCA"/>
         </a>
         <p>
           Crustal deformation, ground motion, ground failure, and the effects of earthquakes.
