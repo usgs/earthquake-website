@@ -79,7 +79,7 @@
     <ul>
       <li><a href="data/">Data</a></li>
       <li><a href="catalogs/">Catalogs</a></li>
-      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/hazards/induced/sourceCode_USGS_OFR_2016-1035.zip">Source Code</a></li>
+      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/induced/sourceCode_USGS_OFR_2016-1035.zip">Source Code</a></li>
       <li><a href="https://www.sciencebase.gov/catalog/item/571a8e0ee4b071321fe22e7a">GIS Data</a></li>
     </ul>
 
