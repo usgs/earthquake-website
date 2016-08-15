@@ -1,5 +1,22 @@
 {
   "id": "atlas",
   "title": "ShakeMap Atlas",
-  "aliases": null
+  "url": "http://earthquake.usgs.gov/data/shakemap/",
+  "address": {
+    "org": "U.S. Geological Survey\nNational Earthquake Information Center",
+    "street-address": "Box 25046, MS 967",
+    "locality": "Denver",
+    "region": "CO",
+    "postal-code": "80225"
+  },
+  "tel": [
+    {
+      "type": "Earthquake Information",
+      "value": "+1-303-273-8500"
+    },
+    {
+      "type": "Fax",
+      "value": "+1-303-273-8450"
+    }
+  ]
 }
