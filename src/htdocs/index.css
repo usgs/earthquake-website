@@ -1,3 +1,7 @@
+h1 {
+  display:none;
+}
+
 section.site-sitenav {
   display: none;
 }
