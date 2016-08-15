@@ -9,7 +9,7 @@
   }
 ?>
 
-<h2>Data Availability as of 2016-06-16</h2>
+<h2>Data Availability as of 2016-08-15</h2>
 <table>
   <thead>
     <tr>
@@ -23,8 +23,41 @@
       <td>Realtime Earthquake Data Sources and Contributing Networks</td>
       <td>2013-02-02 to present</td>
     </tr>
+
     <tr>
-      <td>NEIC <a href="/data/pde.php">PDE Preliminary Determination of Epicenters Bulletin</a></td>
+      <td><a href="catalog/atlas/">ATLAS</a> - Shakemap Atlas</td>
+      <td>1923 to 2011</td>
+    </tr>
+    <tr>
+      <td><a href="comcat/catalog/ci/">CI</a></td>
+      <td>1932 to present</td>
+    </tr>
+    <tr>
+      <td><a href="catalog/duputel/">DUPUTEL</a> - Wphase</td>
+      <td>1990 to 2012</td>
+    </tr>
+    <tr>
+      <td><a href="catalog/gcmt/">GCMT</a> - Global Centroid-Moment-Tensor</td>
+      <td>1976 to present</td>
+    </tr>
+    <tr>
+      <td><a href="catalog/iscgem/">ISCGEM</a></td>
+      <td>1900 to 2012</td>
+    </tr>
+    <tr>
+      <td><a href="catalog/ld/">LD</a></td>
+      <td>1970 to present</td>
+    </tr>
+    <tr>
+      <td><a href="catalog/nm/">NM</a></td>
+      <td>2002 to present</td>
+    </tr>
+    <tr>
+      <td><a href="catalog/se/">SE</a></td>
+      <td>2002 to present</td>
+    </tr>
+    <tr>
+      <td><a href="catalog/us">US</a> - NEIC PDE Preliminary Determination of Epicenters Bulletin</td>
       <td>
         <ul>
           <li>
@@ -40,28 +73,8 @@
       </td>
     </tr>
     <tr>
-      <td><a href="/earthquakes/shakemap/atlas.php">Shakemap Atlas</a></td>
-      <td>1923 to 2011</td>
-    </tr>
-    <tr>
-      <td>Wphase (<a href="catalog/duputel/">Duputel</a>)</td>
-      <td>1990 to 2012</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/iscgem/">ISCGEM</a></td>
-      <td>1900 to 2012</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/gcmt/">GCMT (Global Centroid-Moment-Tensor)</a></td>
-      <td>1976 to present</td>
-    </tr>
-    <tr>
-      <td><a href="comcat/catalog/ci/">CI</a></td>
-      <td>1932 to present</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/nm/">NM</a>/<a href="catalog/se/">SE</a></td>
-      <td>2002 to present</td>
+      <td><a href="catalog/nm/">UW</a></td>
+      <td>1969 to present</td>
     </tr>
 
   </tbody>
