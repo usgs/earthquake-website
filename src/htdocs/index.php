@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = '';
+  $TITLE = 'USGS Earthquake Hazards Program';
   $HEAD = '
     <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
     <link rel="stylesheet" href="index.css"/>
