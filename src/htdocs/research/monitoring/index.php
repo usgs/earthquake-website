@@ -9,6 +9,54 @@
     }
 ?>
 
+<div class="row">
+  <section class="one-of-three column">
+    <ul class="no-style linklist">
+      <li>
+        <a href="overview.php">
+          <h4>Overview</h4>
+          <img src="images/" alt="" width="75"/>
+        </a>
+        <p>
+          USGS scientists are conducting research in a number of areas to help improve instrumentation and data quality.
+        </p>
+      </li>
+    </ul>
+  </section>
+
+  <section class="one-of-three column">
+    <ul class="no-style linklist">
+      <li>
+        <a href="slowslip.php">
+          <h4>Monitoring Slow Slip</h4>
+          <img src="images/" alt="" width="75"/>
+        </a>
+        <p>
+          Recognition of the phenomena of slow slip is perhaps one of the most exciting discoveries in geophysics in the last decade.
+        </p>
+      </li>
+    </ul>
+  </section>
+
+  <section class="one-of-three column">
+    <ul class="no-style linklist">
+      <li>
+        <a href="realtime.php">
+          <h4>Realjtime Information</h4>
+          <img src="images/" alt=""  width="75"/>
+        </a>
+        <p>
+          Research to improve the timeliness, scope, and reliability of authoritative earthquake information, reducing the impact to life and property.
+        </p>
+      </li>
+    </ul>
+  </section>
+</div>
+
+
+
+
+
 <figure class='right'>
 	<img src="images/colocatedseis.jpg" alt="">
 	<figcaption>
@@ -85,6 +133,10 @@
   	<li>Moment Tensors (RMT/MT/CMT) - Automated computation of source duration and source-time function for all M6+ earthquakes.</li>
   </ul>
 </p>
+
+<h2>See also:</h2>
+<!-- The new link will be /monitoring/asl/ -->
+<a href="/regional/asl/">Albuquerque Seismological Laboratory (ASL)</a>
 
 <h2>Scientific Staff</h2>
 <ul>
