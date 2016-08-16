@@ -79,7 +79,7 @@ if (!isset($TEMPLATE)) {
   <div class = "column two-of-five">
     <div class="alert" style="margin-bottom:16px">
 
-      <h3>Research Articles for the Non-Scientist</h3>
+      <h3>Research Articles for the General Public</h3>
       <a href="maine2012/">
         <h3>Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012</h3>
         <img src="images/feat-seis.gif" width="384"/>
