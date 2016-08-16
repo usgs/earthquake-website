@@ -13,7 +13,7 @@
     navItem("${section}/grdmotion.php", "Ground Motion") .
     navItem("${section}/grdshaking.php", "Ground Shaking") .
     navItem("${section}/grdfailure.php", "Ground Failure") .
-    navItem("${section}/rockphysics.php", "Rock Physics Labs") ,
+    navItem("${section}/rockphysics/", "Rock Physics Labs") ,
 
   "</section>"
   ;
