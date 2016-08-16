@@ -148,7 +148,7 @@
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
-        <a href="rockphysics.php">
+        <a href="rockphysics/">
           <h4>Rock Physics Labs</h4>
           <img src="images/noelbartlow150.gif" class='feeds-list-image'
               alt=" icon"  width="75"/>
