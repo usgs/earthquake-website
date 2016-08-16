@@ -6,9 +6,15 @@
       $TITLE = 'Earthquake Processes and Effects';
       $NAVIGATION = true;
       $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
+        <link rel="stylesheet" href="../index.css"/>
       ';
-      include 'template.inc.php';
+      // Use Earthquake level nav file
+        include_once 'functions.inc.php';
+        ob_start();
+        include '../_navigation.inc.php';
+        $NAVIGATION = ob_get_clean();
+
+        include 'template.inc.php';
     }
 ?>
 
@@ -33,3 +39,15 @@
 <p>
   Information on rock properties is combined with other geophysical observations to improve our models of the earthquake process, such as the timing and magnitude of earthquakes, earthquake triggering, recurrence, rupture propagation, and ground motion. This in turn is necessary to understand earthquake hazards and risk in earthquake-prone areas.
 </p>
+
+<ul>
+  <li>
+    <a href="why.php">Why Study the Friction of Rock?</a> - A Primer on Laboratory Friction Studies
+  </li>
+  <li>
+    <a href="history.php">History of the Rock Physics Laboratories</a>
+  </li>
+  <li><a href="machines.php">Test Apparatus</a></li>
+  <li><a href="current.php">Current Projects</a></li>
+  <li><a href="pubs.php">Publications by Topic</a></li>
+</ul>
