@@ -3,7 +3,7 @@
   // Contact: Jeanne Hardebeck,
   // Last modified: Lisa Wald, 2016/08/10
     if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquake Processes';
+      $TITLE = 'Earthquake Processes and Effects';
       $NAVIGATION = true;
       $HEAD = '
         <link rel="stylesheet" href="index.css"/>
@@ -381,12 +381,15 @@ earthquake.
   <li>Rufus Catchings</li>
   <li>Mehmet Celebi</li>
   <li>John Evans</li>
+  <li>Jon Fletcher</li>
   <li>Tom Hanks</li>
 	<li><a href="https://profile.usgs.gov/jhardebeck">Jeanne Hardebeck</a></li>
 	<li><a href="https://profile.usgs.gov/harris">Ruth Harris</a></li>
   <li>Steve Hartzell</li>
 	<li>Steve Hickman</li>
+  <li><a href="https://profile.usgs.gov/tholzer">Tom Holzer</a></li>
   <li>Sue Hough</li>
+  <li>Randy Jibson</li>
   <li>Erol Kalkan</li>
 	<li>Brian Kilgore</li>
 	<li>Steve Kirby</li>
@@ -405,7 +408,3 @@ earthquake.
   <li>Bill Stephenson</li>
 	<li>Roland von Huene</li>
 </ul>
-
-<li>Jon Fletcher</li>
-<li><a href="https://profile.usgs.gov/tholzer">Tom Holzer</a></li>
-<li>Randy Jibson</li>
