@@ -34,11 +34,17 @@
   In the laboratory, however, we are able to recreate the conditions of high pressure, high temperature and slow stress buildup that faults undergo in the months to years before earthquakes. We also have specialized testing machines that slide rocks against each other at the high speeds (meters per second) that occur during earthquakes. Because testing is carried out in a controlled environment, relevant properties are measured before, during and after the occurrence of laboratory earthquakes. These include strength and frictional behavior of rocks and fault zone materials, the velocity of seismic waves through rock, electrical resistivity measurements, as well as the role of fluids and fluid flow in fault zones.
 </p>
 
+<figure class='left'>
+  <img src="images/rocklab.jpg" alt="sheared column of rock">
+</figure>
+
 <h3>How is this Data Used?</h3>
 
 <p>
   Information on rock properties is combined with other geophysical observations to improve our models of the earthquake process, such as the timing and magnitude of earthquakes, earthquake triggering, recurrence, rupture propagation, and ground motion. This in turn is necessary to understand earthquake hazards and risk in earthquake-prone areas.
 </p>
+
+<br style="clear:left;"/>
 
 <ul>
   <li>
@@ -50,4 +56,14 @@
   <li><a href="machines.php">Test Apparatus</a></li>
   <li><a href="current.php">Current Projects</a></li>
   <li><a href="pubs.php">Publications by Topic</a></li>
+</ul>
+
+<h2 class="researcher">Scientific Staff</h2>
+<ul>
+	<li>Nick Beeler</li>
+	<li>Lee-Gray Boze</li>
+	<li>Brian Kilgore</li>
+	<li>David Lockner</li>
+	<li>Diane Moore</li>
+	<li>Carolyn Morrow</li>
 </ul>

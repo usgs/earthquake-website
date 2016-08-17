@@ -33,7 +33,7 @@
   </li>
   <li>
     <a href="creeping.php">
-      <h4>Earthquake Nucleation</h4>
+      <h4>Mineralogy of Creeping Faults</h4>
       <img src="images/tn-CreepingFaults1.jpg" width="150" alt=""/>
     </a>
     <p>Why are some earthquake faults locked while others slowly creep?  The mineralogy of the fault plays an important role in fault strength.
