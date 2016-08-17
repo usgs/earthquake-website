@@ -21,35 +21,27 @@
 <h2>Membership:</h2>
 
 <ul class='no-style separator'>
-  <li>Ralph Archuleta, Chairman<br />
+  <li>Dr. Ralph Archuleta (Chair)<br />
   University of California, Santa Barbara</li>
-
-  <li>John Anderson, Ex Officio<br/>
-  University of Nevada, Reno</li>
-
-  <li>Greg Beroza, Ex Officio<br />
-  Stanford University</li>
-
-  <li>Julie Furr<br />
-  Chad Stewart and Associates, Inc.</li>
 
   <li>Dr. William Leith,  Designated Federal Official (DFO)<br />
   Senior Science Advisor for Earthquake and Geologic Hazards<br />
   and Coordinator, Earthquake Hazards Program<br />
   USGS, Reston, Virginia</li>
 
-  <li>Janiele Maffei <br/>
+  <li>Dr. John Anderson<br/>
+  University of Nevada, Reno</li>
+
+  <li>Ms. Janiele Maffei <br/>
   California Earthquake Authority</li>
 
-  <li>Timothy Melbourne <br/>
+  <li>Dr. Timothy Melbourne <br/>
   Central Washington University</li>
 
-  <li>John Parrish<br />
-    State Geologist, California</li>
-
-  <li>David Simpson<br />
-  Incorporated Research Institutions for Seismology</li>
-
-  <li>Terry Tullis, Ex Officio<br />
-  Brown University</li>
+  <li>Dr. Roland Burgmann, ex officio<sup>*</sup><br />
+  University of California, Berkeley </li>
 </ul>
+
+<p>
+  <sup>*</sup> Per the committee charter, Dr. Burgmann serves as an ex offcio member in his capacity as Chair of the National Earthquake Prediction Evaluation Council (NEPEC).
+</p>
