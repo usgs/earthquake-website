@@ -12,7 +12,7 @@
     navItem("${section}/eqproc/", "Earthquake Processes &amp; Effects") .
     navItem("${section}/monitoring/", "Monitoring Improvements") .
     navItem("/contactus/", "Regional Science Activities") .
-    navItem("${section}/eqproc/", "External Grants") ,
+    navItem("${section}/external/", "External Grants") ,
 
   "</section>"
   ;
