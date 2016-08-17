@@ -12,6 +12,8 @@
     }
 ?>
 
+<h2>East Bay Seismic Experiment</h2>
+
 <figure>
 	<img src="images/warrenhall-pano_2x.jpg" alt="Panorama photo of Warren Hall"/>
 	<figcaption>
