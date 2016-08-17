@@ -52,3 +52,10 @@
     <a href="http://geopubs.wr.usgs.gov/fact-sheet/fs028-03/">USGS Factsheet: Subsurface Exploration with the Cone Penetration Testing Truck</a>
   </li>
 </ul>
+
+<h2 class="researcher">Scientific Staff</h2>
+<ul>
+	<li>Jon Fletcher</li>
+	<li><a href="https://profile.usgs.gov/tholzer">Tom Holzer</a></li>
+	<li>Randy Jibson</li>
+</ul>
