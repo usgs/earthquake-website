@@ -20,28 +20,8 @@
 
 <h2>Membership:</h2>
 <ul class='no-style separator'>
-  <li>Dr. Terry Tullis, Chair<br />
-Brown University</li>
-  <li>Dr. Ramon Arrowsmith<br />
-    Arizona State University</li>
-  <li>Dr. Evelyn Roeloffs<br />
-    USGS, Vancouver, Washington</li>
-  <li>Dr. John Vidale<br />
-    University of Washington</li>
-  <li>Dr. Andrew Michael <br />
-  USGS, Menlo Park, California</li>
-  <li>Dr. Allan Rubin <br />
-    Princeton University</li>
-  <li>Roland Burgmann  <br />
+  <li>Dr. Roland Burgmann, Chair<br />
     University of California, Berkeley</li>
-  <li>Sue Hough<br/>
-    USGS, Pasadena, California</li>
-  <li>Dr. Peter Shearer <br />
-    University of California, San Diego</li>
-  <li>Dr. Clifford Frohlich <br />
-    University of Texas, Austin</li>
-  <li>Dr. Gail Atkinson <br />
-    University of Western Ontario</li>
   <li>Dr. Bill Leith, Co-chair, <em>ex officio</em> <br />
     Senior Science Advisor for Earthquake and Geologic Hazards<br />
 and Coordinator, Earthquake Hazards Program<br />
@@ -49,4 +29,23 @@ and Coordinator, Earthquake Hazards Program<br />
   <li>Dr. Michael Blanpied, Designated Federal Official (DFO)<br />
     Associate Coordinator, Earthquake Hazards Program<br />
     USGS, Reston, Virginia </li>
+
+  <li>Dr. Ramon Arrowsmith<br />
+    Arizona State University</li>
+  <li>Dr. Gail Atkinson <br />
+    University of Western Ontario</li>
+  <li>Dr. Clifford Frohlich <br />
+    University of Texas, Austin</li>
+  <li>Dr. Susan Hough <br />
+  USGS, Pasadena, CA</li>
+  <li>Dr. Andrew Michael <br />
+  USGS, Menlo Park, California</li>
+  <li>Dr. Evelyn Roeloffs<br />
+    USGS, Vancouver, Washington</li>
+  <li>Dr. Allan Rubin <br />
+    Princeton University</li>
+  <li>Dr. Peter Shearer <br />
+    University of California, San Diego</li>
+  <li>Dr. John Vidale<br />
+    University of Washington</li>
 </ul>
