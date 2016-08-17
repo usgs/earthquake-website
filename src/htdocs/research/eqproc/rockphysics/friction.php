@@ -17,6 +17,7 @@
         include 'template.inc.php';
     }
 ?>
+
 <h2>Rate- and State-Dependent Friction</h2>
 
 <figure class='right'>

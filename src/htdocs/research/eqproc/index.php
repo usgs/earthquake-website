@@ -148,6 +148,37 @@
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
+        <a href="sfbarrays.php">
+          <h4>San Francisco Bay Area Arrays</h4>
+          <img src="images/arrays150.jpg" class='feeds-list-image'
+              alt=" icon"  width="75"/>
+        </a>
+        <p>
+          Seismologists have observed that both topographic highs and basins have complex and varying effects on seismic waves. By deploying arrays of seismic recorders our understanding is improved of what specific features have what specific effects on the seismic waves.
+        </p>
+      </li>
+    </ul>
+  </section>
+</div>
+
+<div class='row'>
+  <section class="one-of-three column">
+    <ul class="no-style linklist">
+      <li>
+        <a href="ebse.php">
+          <h4>East Bay Seismic Experiment</h4>
+          <img src="images/tn-ebse-11_2x.jpg" class='feeds-list-image'
+              alt=" icon"  width="75"/>
+        </a>
+        <p>
+          The implosion of the Warren Hall building on California State University East Bay (CSU-EB) campus in August of 2013 provided an excellent opportunity to use a “free” seismic source that was practically located on the Hayward Fault.
+        </p>
+      </li>
+    </ul>
+  </section>
+  <section class="one-of-three column">
+    <ul class="no-style linklist">
+      <li>
         <a href="rockphysics/">
           <h4>Rock Physics Labs</h4>
           <img src="images/noelbartlow150.gif" class='feeds-list-image'
@@ -162,7 +193,7 @@
 
 </div>
 
-<h2 class="researcher" style="clear:left;">Scientific Staff</h2>
+<h2 class="researcher">Scientific Staff</h2>
 <ul>
   <li><a href="https://profile.usgs.gov/baagaard">Brad Aagaard</a></li>
 	<li>Nick Beeler</li>

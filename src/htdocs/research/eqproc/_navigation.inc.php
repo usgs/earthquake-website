@@ -13,6 +13,8 @@
     navItem("${section}/grdmotion.php", "Ground Motion") .
     navItem("${section}/grdshaking.php", "Ground Shaking") .
     navItem("${section}/grdfailure.php", "Ground Failure") .
+    navItem("${section}/sfbarrays.php", "San Francisco Bay Area Arrays") .
+    navItem("${section}/ebse.php", "East Bay Seismic Experiment") .
     navItem("${section}/rockphysics/", "Rock Physics Labs") ,
 
   "</section>"
