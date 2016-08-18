@@ -32,7 +32,7 @@ if (!isset($TEMPLATE)) {
       </li>
       <li>
         <a href="faults/">
-          <h4>Earthquake Geology and Specific Earthquakes</h4>
+          <h4>Faults, Earthquake Geology, and Special Earthquake Studies</h4>
           <img src="images/topic-eqgeology.jpg" width="150" alt="thumbnail photo of Denali fault offsetting snow"/>
         </a>
         <p>
