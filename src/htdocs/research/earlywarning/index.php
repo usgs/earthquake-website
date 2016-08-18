@@ -1,6 +1,6 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
+  // Contact: Elizabeth Cochran
   // Last modified: Lisa Wald, 2016/08/10
     if (!isset($TEMPLATE)) {
       $TITLE = 'Earthquake Early Warning';
