@@ -5,7 +5,6 @@
     if (!isset($TEMPLATE)) {
       $TITLE = 'Rock Physics Labs';
       $NAVIGATION = true;
-      $WIDGETS = 'shadowbox';
       $HEAD = '
         <link rel="stylesheet" href="../index.css"/>
       ';
