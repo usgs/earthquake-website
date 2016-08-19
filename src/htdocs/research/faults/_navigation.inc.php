@@ -12,7 +12,7 @@
     navItem("${section}/geodesy.php", "Near-Field Geodesy") .
     navItem("${section}/response.php", "Earthquake Resonse") .
     navItem("${section}/salton.php", "Salton Seismic Imaging") .
-    navItem("${section}/specialeq.php", "Special Earthquake Studies") ,
+    navItem("${section}/specialeqs.php", "Special Earthquake Studies") ,
 
   "</section>"
   ;
