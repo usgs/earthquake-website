@@ -116,5 +116,11 @@ if (!isset($TEMPLATE)) {
         </li>
       </ul>
     </div>
+
+    <div class="alert" style="margin-bottom:16px">
+      <h3>See also:</h3>
+      <p><a href="/data/software/">Software</a> for Research</p>
+    </div>
+
   </div>
 </div>
