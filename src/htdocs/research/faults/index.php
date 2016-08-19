@@ -133,7 +133,7 @@
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
-        <a href="special-eqs.php">
+        <a href="specialeqs.php">
           <h4>Special Earthquake Studies</h4>
           <img src="images/specialeq150.gif" class='feeds-list-image'
               alt="icon"  width="75"/>
