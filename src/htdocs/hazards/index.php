@@ -9,9 +9,9 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <div class="alert info">
-  <h3>2016 One-Year Seismic Hazard Forecast for the Central and Eastern United States</h3>
+  <h3><a href="contributions.php">Request for Hazard Modeling Contributions</a></h3>
   <p>
-    The USGS has recently released a <a href="induced/">2016 one-year seismic hazard forecast for the Central and Eastern United States</a>. This forecast includes seismic hazard from induced and natural earthquakes. Maps, documentation, and data will be posted here, at the Induced Earthquakes link below as they become available.
+    The USGS requests that the earthquake hazard community bring to our attention new earthquake source and ground motion data or models that could be included in the NSHM updates. In addition, workshops are held for feedback and comments. The National Seismic Hazard Model will be updated twice over the next 6 years since the 2014 update.
   </p>
 </div>
 
