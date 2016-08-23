@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
-// Contact: Lisa Wald, lisa@usgs.gov
-// Last modified: 10/05/2015
+// Contact: Mark Peterson
+// Last modified: 08/23/2016
 if (!isset($TEMPLATE)) {
   $TITLE = 'Hazards';
   include 'template.inc.php';
