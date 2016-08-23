@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
-// Contact: Lisa Wald, lisa@usgs.gov
-// Last modified: 10/05/2015
+// Contact: Mark Peterson
+// Last modified: 08/23/2016
 if (!isset($TEMPLATE)) {
   $TITLE = 'Hazards';
   include 'template.inc.php';
@@ -11,7 +11,7 @@ if (!isset($TEMPLATE)) {
 <div class="alert info">
   <h3>2016 One-Year Seismic Hazard Forecast for the Central and Eastern United States</h3>
   <p>
-    The USGS has recently released a <a href="induced/">2016 one-year seismic hazard forecast for the Central and Eastern United States</a>. This forecast includes seismic hazard from induced and natural earthquakes. Maps, documentation, and data will be posted here, at the Induced Earthquakes link below as they become available.
+    The USGS has recently released a <a href="induced/">2016 one-year seismic hazard forecast for the Central and Eastern United States</a>. This forecast includes seismic hazard from induced and natural earthquakes. Maps, documentation, and data will be posted here, at the Induced Earthquakes link below as they become available. <a href="images/contrib-sched.png">View NSHM Schedule 2016-2021</a>.
   </p>
 </div>
 
