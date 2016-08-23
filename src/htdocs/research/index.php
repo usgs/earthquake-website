@@ -32,7 +32,7 @@ if (!isset($TEMPLATE)) {
       </li>
       <li>
         <a href="faults/">
-          <h4>Earthquake Geology and Specific Earthquakes</h4>
+          <h4>Faults, Earthquake Geology, and Special Earthquake Studies</h4>
           <img src="images/topic-eqgeology.jpg" width="150" alt="thumbnail photo of Denali fault offsetting snow"/>
         </a>
         <p>
@@ -79,7 +79,7 @@ if (!isset($TEMPLATE)) {
   <div class = "column two-of-five">
     <div class="alert" style="margin-bottom:16px">
 
-      <h3>Research Articles for the General Public</h3>
+      <h3>Science for the General Public</h3>
       <a href="maine2012/">
         <h3>Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012</h3>
         <img src="images/feat-seis.gif" width="384"/>
@@ -116,5 +116,11 @@ if (!isset($TEMPLATE)) {
         </li>
       </ul>
     </div>
+
+    <div class="alert" style="margin-bottom:16px">
+      <h3>See also:</h3>
+      <p><a href="/data/software/">Software</a> for Research</p>
+    </div>
+
   </div>
 </div>

@@ -51,7 +51,7 @@
       <li>
         <a href="slowslip.php">
           <h4>Monitoring Slow Slip</h4>
-          <img src="images/slowslip150.gif" alt="" width="75"/>
+          <img src="images/slowslip300.jpg" alt="" width="75"/>
         </a>
         <p>
           Recognition of the phenomena of slow slip is perhaps one of the most exciting discoveries in geophysics in the last decade.
