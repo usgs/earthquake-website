@@ -1,7 +1,7 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Bill Leith, leith@usgs.gov
-  // Last modified: 06/23/2016, Lisa Wald
+  // Contact: Linda Huey, lhuey@usgs.gov
+  // Last modified: 08/23/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
       $TITLE = 'SESAC Meetings';
       $NAVIGATION = true;
@@ -9,10 +9,28 @@
     }
 ?>
 
+<h2>2016</h2>
+
+<p>
+  February 2-4, 2016, Utah Geological Survey, Salt Lake City, Utah <a href="docs/sesac_agenda2016-0202.pdf">Agenda</a> | <a href= "docs/sesac_fedreg2016_0202.pdf">Federal Register Notice</a><br/>
+  -The Committee reviewed reports on the status of activities of the Program and progress toward Program goals and objectives.  Committee assessed information and provided guidance on the future undertakings and direction of the Earthquake Hazards Program.
+</p>
+
+<h2>2015</h2>
+
+<p>
+  January 28-29, 2015, Southern California Earthquake Center (SCEC), Los Angeles, CA <a href="docs/sesac_agenda2015-0128.pdf">Agenda</a> | <a href="docs/sesac_fedreg2015-0128.pdf">Federal Register Notice</a><br/>
+  -Committee received reports on the status of activities of the Program and progress toward Program goals and objectives.  Committee assessed information and provided guidance on the future undertakings and direction of the Earthquake Hazards Program.  Focus topics for the meeting included a program review and strategic planning for 2016-2018.
+</p>
+<p>
+  September 1-2, 2015, Southern Methodist University, Dallas, Texas <a href="docs/sesac_agenda2015-0901.pdf">Agenda</a> | <a href="docs/sesac_fedreg2015-0901.pdf">Federal Register Notice</a><br/>
+  -Committee reviewed the research and monitoring activities supported by the USGS Earthquake Hazards Program that are focused on the Central and Eastern U.S.
+</p>
+
 <h2>2014</h2>
 
 <p>
-  May 29-30, 2014, Golden, CO <a href="docs/sesac_agenda0529.pdf">Agenda</a> | <a href="docs/sesac_fedreg0529.pdf">Federal Register Notice</a><br/>
+  May 29-30, 2014, Golden, CO <a href="docs/sesac_agenda0529.pdf">Agenda</a> | <a href="docs/sesac_fedreg2014-0529.pdf">Federal Register Notice</a><br/>
     - Briefings on Science Centers, National Maps, ANSS, GSN, NEIC, UCERF3, earthquake likelihood forecasting, and NEHRP.
   </p>
 
