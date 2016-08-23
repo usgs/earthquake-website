@@ -9,6 +9,18 @@
   }
 ?>
 
+<h2>2016</h2>
+
+<h3>September 1, 2016, by phone</h3>
+
+<p>In this brief meeting by phone, the Council will receive updates on
+the status of pertinent activities of the USGS Earthquake Hazards
+Program, and will deliver its recommendations on the proper posing of
+earthquake predictions and testing of earthquake prediction methods.<br/>
+Federal Register Notice
+</p>
+<a href="https://www.federalregister.gov/articles/2016/08/19/2016-19804/announcement-of-national-earthquake-prediction-evaluation-council">Federal Register Notice</a>
+
 <h2>2015</h2>
 
 <h3>September 2-3, 2015, Dallas, Texas</h3>
