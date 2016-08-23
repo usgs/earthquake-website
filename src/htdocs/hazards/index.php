@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
-// Contact: Lisa Wald, lisa@usgs.gov
-// Last modified: 10/05/2015
+// Contact: Mark Peterson
+// Last modified: 08/23/2016
 if (!isset($TEMPLATE)) {
   $TITLE = 'Hazards';
   include 'template.inc.php';
@@ -11,7 +11,7 @@ if (!isset($TEMPLATE)) {
 <div class="alert info">
   <h3><a href="contributions.php">Request for Hazard Modeling Contributions</a></h3>
   <p>
-    The USGS requests that the earthquake hazard community bring to our attention new earthquake source and ground motion data or models that could be included in the NSHM updates. In addition, workshops are held for feedback and comments. The National Seismic Hazard Model will be updated twice over the next 6 years since the 2014 update.
+    The USGS requests that the earthquake hazard community bring to our attention new earthquake source and ground motion data or models that could be included in the NSHM updates. In addition, workshops are held for feedback and comments. The National Seismic Hazard Model will be updated twice over the next 6 years since the 2014 update. <a href="images/contrib-sched.png">View NSHM Schedule 2016-2021</a>.
   </p>
 </div>
 
