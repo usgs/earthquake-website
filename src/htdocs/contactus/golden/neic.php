@@ -5,6 +5,9 @@
   if (!isset($TEMPLATE)) {
   $TITLE = 'National Earthquake Information Center (NEIC)';
   $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="styles.css"/>
+  ';
   include 'template.inc.php';
   }
 ?>
@@ -12,11 +15,7 @@
 <div class="row">
   <div class="column two-of-three">
 
-    <h2>NEIC Tour Information</h2>
-
-    <p>
-    The National Earthquake Information Center is located in Golden, CO at:
-    </p>
+    <h2>NEIC Location</h2>
 
     <p>
     1711 Illinois Street <br />
@@ -48,66 +47,14 @@
   </div>
 </div>
 
-
-
-
-
-<div style="background-color: #D4E4EF; padding: 1.5em; margin: .5em 0;">
-
-  <figure class="left">
-    <img src="images/waverly_person.gif" alt="Waverly Person in NEIC Recording Room"/>
-  </figure>
-
-  <p>
-    <big><b>
-    Tours are free, by appointment only.
-    <br />
-    A reservation is required.
-    <br />
-    Please call 303-273-8420 to schedule a tour.
-  </p>
-    Because of limited resources and operational constraints, public tours
-    are restricted to Monday (9-10:30am and 2:00pm) and Thursday
-    (9-11:00am and 2:00pm).</b></big>
-  </p>
-  <p>
-    The NEIC tour consists of a 30 to 45 minute lecture about the
-    NEIC operations, the Earthquake Early Alerting Service, and earthquakes in general.
-  </p>
-  <p>
-    Tours are conducted in groups of  25 or less, and student groups must be in the 4th
-    grade or higher.
-  </p>
-
-</div>
-
-
-<h3>Parking</h3>
-<p>
-Parking is limited so please plan your visit accordingly.  There are 3 visitor and 4 handicap-accessible spots available in our lot on a first-come, first-served basis.  Our lot is located off of 18th street on the east side of our building.  Additional parking is available on the Colorado School of Mines campus - please see the detailed <a href="http://inside.mines.edu/Parking">CSM Parking Information</a>.
-</p>
-
-<p>
-<h3>Directions</h3>
-
-<figure class="right">
-  <img src="images/directions.gif" alt="Directions to the NEIC"/>
-</figure>
-
-<p>
-From Denver, take 6th Avenue (US Highway 6)
-west to Golden.
-<br />
-Turn right at the traffic light on 19th Street.
-<br />
-Turn left at the traffic light on Illinois Street.
-<br />
-Our building is on the northeast corner of 18th and Illinois.
-<br />
-Please call 273-8500 when you arrive for admittance to the building.
-</p>
-
 <h2>About the NEIC</h2>
+
+<figure class="left w322">
+  <img src="images/waverly_person.gif" alt="Waverly Person in NEIC Recording Room"/>
+  <figcaption>
+    Waverly J. Person - first spokesperson for NEIC, starting with Great Alaska Earthquake in 1964 and continuing for more than 40 years. Known by many people in the news media as Mr. Earthquake.
+  </figcaption>
+</figure>
 
 <p>
 The National Earthquake Information Center (NEIC),
