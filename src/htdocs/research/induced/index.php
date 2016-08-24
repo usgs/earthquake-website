@@ -44,7 +44,7 @@ And what should be done in the future?
       <li>
         <a href="myths.php">
           <h4>Myths and Misconceptions</h4>
-          <img src="images/" class='feeds-list-image'
+          <img src="images/myths100.gif" class='feeds-list-image'
               alt="icon"  width="75"/>
         </a>
         <p>
