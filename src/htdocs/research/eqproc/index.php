@@ -102,7 +102,7 @@
     <ul class="no-style linklist">
       <li>
         <a href="grdmotion.php">
-          <h4>Ground Motion</h4>
+          <h4>Ground Movements</h4>
           <img src="images/rupture150.gif" class='feeds-list-image'
               alt=" icon"  width="75"/>
         </a>
@@ -134,8 +134,8 @@
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
-        <a href="grdfailure.php">
-          <h4>Ground Failure</h4>
+        <a href="/research/cpt/">
+          <h4>Cone Penetration Testing (CPT)</h4>
           <img src="images/grdfailure150.gif" class='feeds-list-image'
               alt=" icon"  width="75"/>
         </a>
