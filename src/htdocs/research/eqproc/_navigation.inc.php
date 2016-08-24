@@ -10,9 +10,9 @@
     navItem("${section}/deformation.php", "Crustal Deformation") .
     navItem("${section}/sliprates.php", "Fault Slip Rates") .
     navItem("${section}/posteqmotions.php", "Post-Earthquake Motions") .
-    navItem("${section}/grdmotion.php", "Ground Motion") .
+    navItem("${section}/grdmotion.php", "Ground Movements") .
     navItem("${section}/grdshaking.php", "Ground Shaking") .
-    navItem("${section}/grdfailure.php", "Ground Failure") .
+    navItem("/research/cpt/", "Cone Penetration Testing") .
     navItem("${section}/sfbarrays.php", "San Francisco Bay Area Arrays") .
     navItem("${section}/ebse.php", "East Bay Seismic Experiment") .
     navItem("${section}/rockphysics/", "Rock Physics Labs") ,
