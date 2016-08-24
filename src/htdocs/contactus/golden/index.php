@@ -52,7 +52,7 @@ include 'template.inc.php';
           <h4>National Earthquake Information Center (NEIC)</h4>
           <img src="images/ghsc-neic-2x.jpg" alt="NEIC media center" width="150"/>
         </a>
-        <p>The NEIC monitors earthquakes around the world in near-real-time.  Tours are available by appointment.</p>
+        <p>The NEIC monitors earthquakes around the world in near-real-time.</p>
       </li>
 
 <!-- IMW Education -->
