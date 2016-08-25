@@ -8,3 +8,8 @@
   font-size: 1.25em;
   margin-left: 0.25em;
 }
+
+.software {
+  float: left;
+  margin-right: 1em;
+}
