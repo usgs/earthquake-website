@@ -50,10 +50,7 @@
 <h2>About the NEIC</h2>
 
 <figure class="left w322">
-  <img src="images/waverly_person.gif" alt="Waverly Person in NEIC Recording Room"/>
-  <figcaption>
-    Waverly J. Person - first spokesperson for NEIC, starting with Great Alaska Earthquake in 1964 and continuing for more than 40 years. Known by many people in the news media as Mr. Earthquake.
-  </figcaption>
+  <img src="images/neic.jpg" alt="media room at NEIC"/>
 </figure>
 
 <p>
@@ -120,6 +117,14 @@ approximately 30,000 earthquakes on a yearly basis.
 These are the most important of the many million earthquakes
 which are estimated to occur each year.
 </p>
+
+<figure class="left w322">
+  <img src="images/waverly_person.gif" alt="Waverly Person in NEIC Recording Room"/>
+  <figcaption>
+    Waverly J. Person - first spokesperson for NEIC, starting with Great Alaska Earthquake in 1964 and continuing for more than 40 years. Known by many people in the news media as Mr. Earthquake.
+  </figcaption>
+</figure>
+
 <p>
 The NEIC collects data through the operation of national and global networks,
 and through cooperative agreements.
