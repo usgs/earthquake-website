@@ -281,7 +281,7 @@ See how our applications work and collaborate with us at <a href="http://github.
       </tr>
       <tr>
         <th>Download:</th>
-        <td><a href="coulomb/support/download.php">See online documentation</a></td>
+        <td><a href="coulomb/">See online documentation</a></td>
       </tr>
     </table>
     <p>
