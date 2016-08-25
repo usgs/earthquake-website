@@ -65,6 +65,17 @@ $EQ_FEATURES->baseUrl = '';
    'image' => '/images-home/latesteqs.jpg'
  );
 
+ $EQ_FEATURES->items[] = array(
+   'id' => 'sjsoccer',
+   'title' => 'San Jose Earthquakes Major League Soccer Team Highlights Top 10
+"Seismic Moments"',
+   'content' => 'In collaboration with the San Jose Earthquakes Major League Soccer team, USGS seismologist, Brad Aagaard used data from the NetQuakes instrument installed at their Avaya Stadium to determine the top 10 largest ground motions recorded on the instrument following goals scored by the team so far in the 2015 and 2016 seasons.',
+   'link' => 'http://www.sjearthquakes.com/avayastadium/seismicmoments',
+   'modified' => strtotime('2016-08-25'),
+   'thumbnail' => '/images-featured/sj-seismic-moment.jpg',
+   'image' => '/images-featured/sj-seismic-moment.jpg'
+ );
+
 $EQ_FEATURES->items[] = array(
   'id' => 'NCAprob',
   'title' => 'Earthquake outlook for the San Francisco Bay region 2014–2043',
