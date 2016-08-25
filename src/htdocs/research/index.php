@@ -4,6 +4,9 @@
 // Last modified: 07/08/2016
 if (!isset($TEMPLATE)) {
   $TITLE = 'Research';
+  $HEAD = '
+    <link rel="stylesheet" href="styles.css"/>
+  ';
   include 'template.inc.php';
 }
 ?>
@@ -119,7 +122,13 @@ if (!isset($TEMPLATE)) {
 
     <div class="alert" style="margin-bottom:16px">
       <h3>See also:</h3>
-      <p><a href="/data/software/">Software</a> for Research</p>
+      <p>
+        <a href="software/">
+          <img src="software/images/3DFM.jpg" class="software">
+          Software
+        </a>
+        to Download for Research
+      </p>
     </div>
 
   </div>

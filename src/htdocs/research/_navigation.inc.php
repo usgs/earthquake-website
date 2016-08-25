@@ -13,6 +13,7 @@
     navItem("${section}/monitoring/", "Monitoring Improvements") .
     navItem("/contactus/", "Regional Science Activities") .
     navItem("${section}/external/", "External Grants") ,
+    navItem("${section}/software/", "Software") ,
 
   "</section>"
   ;
