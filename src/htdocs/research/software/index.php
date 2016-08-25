@@ -60,7 +60,7 @@ See how our applications work and collaborate with us at <a href="http://github.
   <li class="first">
     <h2 id="3DFM">3D focal mechanisms</h2>
     <a href="http://pubs.usgs.gov/ds/2007/241/">
-      <img src="images/3DFM.jpg" alt="3DFM Logo" width="146" height="75"/>
+      <img src="images/3DFM.jpg" alt="3DFM Logo" width="146" height="100"/>
     </a>
     <table>
       <tr>
@@ -251,7 +251,7 @@ See how our applications work and collaborate with us at <a href="http://github.
   <li>
     <h2 id="Coulomb">Coulomb 3</h2>
     <a href="coulomb/">
-      <img src="images/coulomb3.jpg" alt="Coulomb Logo" width="150" height="99" />
+      <img src="images/coulomb3.jpg" alt="Coulomb Logo" width="150" height="110" />
     </a>
     <table>
       <tr>
@@ -399,223 +399,231 @@ into illustration or animation programs for further enhancements.
 -->
 
   <li>
-    <a name="EIDS" id="EIDS"></a>
-    <h2>EIDS - Earthquake Information Distribution System</h2>
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Contacts:</th>
-      <td><a href="mailto:jmfee@usgs.gov">Jeremy Fee</a> and <a href="mailto:oppen@usgs.gov">Dave Oppenheimer</a></td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Distribution of earthquake data over the Internet</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Any O/S that supports Java</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Runs in background</td>
-    </tr>
-    <tr>
-      <th>Output:</th>
-      <td>Files containing information about earthquakes</td>
-    </tr>
-    <tr>
-      <th>Download:</th>
-      <td><a href="/research/software/eids/">See online documentation</a></td>
-    </tr>
-  </table>
-<p>NOTE: EIDS has been replaced by <a href="#PDL">PDL</a>.  EIDS is only needed as a component of PDL for advanced users who are running a PDL hub.</p>
-
-  <p>The Earthquake Information Distribution System (EIDS) provides a method
-        for receiving earthquake data over the Internet in near-real
-        time.  EIDS replaces the Quake Data Distribution System (QDDS) and
-        provides either CUBE or EQXML formatted output messages.</p>
-</li>
-
-<li>
-<a name="est_noise" id="est_noise"></a>
-<h2>est_noise</h2>
-<a href="http://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">
-<img class="left" src="images/est_noise.png" alt="Logo" width="150" />
-</a>
-<table cellspacing="1" class="tabular">
-<tr>
-<th>Author:</th>
-<td>John Langbein</td>
-</tr>
-<tr>
-<th>Usage:</th>
-<td>Analyze time-series data to quantify temporal correlations and
-simultaneously estimate rates, offsets, and other functional dependencies.</td>
-</tr>
-<tr>
-<th>Platform:</th>
-<td>Unix or Mac. Requires a Fortran compiler
-</td>
-</tr>
-<tr>
-<th>Interface:</th>
-<td>Command line</td>
-</tr>
-<tr>
-<th>Input:</th>
-<td>Time series data</td>
-</tr>
-<tr>
-<th>Output:</th>
-<td>Measures of power-law noise, white noise, and more.
-Estimates of rates, offsets, and more, along with their standard errors.</td>
-</tr>
-<tr>
-<th>Docs:</th>
-<td>Included in the tar-file</td>
-</tr>
-<tr>
-<th>Download</th>
-<td><a href="http://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">est_noise.tar.gz</a></td>
-</tr>
-</table>
-<p>est_noise is a time-series analysis program that allows the
-user to fit various, standard functions to their data (rates, offsets, rate-changes, sinusoidals,
-exponentials, and/or user-defined functions) and simultaneously quantifies the
-amount of temporal correlation in the time-series data. Importantly, the presence of
-temporal correlations in data can significantly impact the estimates of standard errors of the parameters
-that define the functions describing the time-variations in the data. est_noise is bundled
-with other programs that can help the user to clean up their data prior to analysis,
-and assess the quality of the estimates of noise from est_noise. est_noise has
-been used to analyze GPS and borehole strainmeter data, and it can be applied to
-other data types.</p>
-</li>
-
-<li><a name="FPFIT, FPPLOT and FPPAGE" id="FPFIT, FPPLOT and FPPAGE"></a>
-<h2>FPFIT, FPPLOT and FPPAGE</h2>
-  <a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/fpfit.txt"><img class="left" src="images/beach_ball.gif" alt="Logo" width="100" height="101" /></a>
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Authors:</th>
-      <td>Paul Reasenberg and <a href="mailto:oppen@usgs.gov">David Oppenheimer</a></td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Calculate and plotfault-plane solutions from first-motion
-        data</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Unix</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Command line</td>
-    </tr>
-    <tr>
-      <th>Output:</th>
-      <td>Grahics and text</td>
-    </tr>
-    <tr>
-      <th>Examples:</th>
-      <td>Included in dowload file</td>
-    </tr>
-    <tr>
-      <th>Manual:</th>
-      <td>Online <a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/fpfit.txt">documentation</a> and <a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/OFR_85-739.doc">USGS Open-File report</a></td>
-    </tr>
-    <tr>
-      <th>Tutorial:</th>
-      <td>Included in dowload file</td>
-    </tr>
-   <tr>
-      <th>Download:</th>
-      <td><a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/fpfit_source.tar">fpfit_source.tar</a> (1.3 MB)</td>
-    </tr>
-  </table>
-  <p>FPFIT is a Fortran program that computes double-couple fault
+    <h2 id="EIDS">EIDS - Earthquake Information Distribution System</h2>
+    <table>
+      <tr>
+        <th>Contacts:</th>
+        <td><a href="mailto:jmfee@usgs.gov">Jeremy Fee</a> and <a href="mailto:oppen@usgs.gov">Dave Oppenheimer</a></td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Distribution of earthquake data over the Internet</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Any O/S that supports Java</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Runs in background</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Files containing information about earthquakes</td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="/research/software/eids/">See online documentation</a></td>
+      </tr>
+    </table>
+    <p>
+      NOTE: EIDS has been replaced by <a href="#PDL">PDL</a>.  EIDS is only needed as a component of PDL for advanced users who are running a PDL hub.
+    </p>
+    <p>
+      The Earthquake Information Distribution System (EIDS) provides a method for receiving earthquake data over the Internet in near-real time.  EIDS replaces the Quake Data Distribution System (QDDS) and provides either CUBE or EQXML formatted output messages.
+    </p>
+  </li>
+  <li>
+    <h2 id="est_noise">est_noise</h2>
+    <a href="http://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">
+      <img src="images/est_noise.png" alt="Logo" width="150"/>
+    </a>
+    <table>
+      <tr>
+        <th>Author:</th>
+        <td>John Langbein</td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Analyze time-series data to quantify temporal correlations and
+      simultaneously estimate rates, offsets, and other functional dependencies.</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Unix or Mac. Requires a Fortran compiler
+      </td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line</td>
+      </tr>
+      <tr>
+        <th>Input:</th>
+        <td>Time series data</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Measures of power-law noise, white noise, and more.
+      Estimates of rates, offsets, and more, along with their standard errors.</td>
+      </tr>
+      <tr>
+        <th>Docs:</th>
+        <td>Included in the tar-file</td>
+      </tr>
+      <tr>
+        <th>Download</th>
+        <td><a href="http://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">est_noise.tar.gz</a></td>
+      </tr>
+    </table>
+    <p>
+      est_noise is a time-series analysis program that allows the user to fit
+      various, standard functions to their data (rates, offsets, rate-changes,
+      sinusoidals, exponentials, and/or user-defined functions) and
+      simultaneously quantifies the amount of temporal correlation in the
+      time-series data. Importantly, the presence of temporal correlations in
+      data can significantly impact the estimates of standard errors of the
+      parameters that define the functions describing the time-variations in the
+      data. est_noise is bundled with other programs that can help the user to
+      clean up their data prior to analysis, and assess the quality of the
+      estimates of noise from est_noise. est_noise has been used to analyze GPS
+      and borehole strainmeter data, and it can be applied to other data types.
+    </p>
+  </li>
+  <li>
+    <h2 id="FPFIT, FPPLOT and FPPAGE">FPFIT, FPPLOT and FPPAGE</h2>
+    <a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/fpfit.txt">
+      <img src="images/beach_ball.gif" alt="Logo" width="100" height="120" />
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td>Paul Reasenberg and <a href="mailto:oppen@usgs.gov">David Oppenheimer</a></td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Calculate and plotfault-plane solutions from first-motion
+          data</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Unix</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Grahics and text</td>
+      </tr>
+      <tr>
+        <th>Examples:</th>
+        <td>Included in dowload file</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>Online <a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/fpfit.txt">documentation</a> and <a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/OFR_85-739.doc">USGS Open-File report</a></td>
+      </tr>
+      <tr>
+        <th>Tutorial:</th>
+        <td>Included in dowload file</td>
+      </tr>
+     <tr>
+        <th>Download:</th>
+        <td><a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/fpfit_source.tar">fpfit_source.tar</a> (1.3 MB)</td>
+      </tr>
+    </table>
+    <p>
+      FPFIT is a Fortran program that computes double-couple fault
         plane solutions from P-wave first motion data using a grid
         search method. The companion programs FPPLOT and FPPAGE plot
         the results on stereo nets for interactive viewing or for
         printing. There are additional programs in the package to
         create summary tables and to plot P&amp;T axes for suites
-        of mechanisms on stereo nets.</p>
-</li>
+        of mechanisms on stereo nets.
+    </p>
+  </li>
+  <li>
+    <h2 id="gmpe">Graizer-Kalkan (2015) Ground-Motion Prediction Equation</h2>
+    <a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-GK2015.zip">
+      <img src="images/gmpe.png" alt="logo" width="150"/>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td>Vladimir Graizer, <a href="mailto:ekalkan@usgs.gov">Erol Kalkan</a></td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Ground motion predictions for engineering applications</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>MatLAB on Windows, Mac or Linux</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Graphics and text</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>Comments in source code; <a href="http://pubs.usgs.gov/of/2015/1009/">Open-File Report</a> and <a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-2016_Graizer_Kalkan_BSSA.pdf">BSSA article</a></td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-GK2015.zip"</a> (7.1 Kb)</td>
+      </tr>
+    </table>
+    <p>
+      Graizer-Kalkan (2015) ground motion prediction equation (GMPE) is designed to predict peak-ground acceleration and 5% damped pseudo-spectral acceleration response ordinates for shallow-crustal continental earthquakes to be used in earthquake-engineering applications including probabilistic and deterministic seismic hazard analyses. The GK15 can be used for earthquakes with moment magnitudes 5.0&ndash;8.0, distances 0&ndash;250 km, average shear-wave velocities 200&ndash;1,300 m/s, and spectral periods 0.01&ndash;5 s.  The GK15 GMPE is coded as a MatLAB function (titled &ldquo;GK15.m&rdquo;) in the zip file. An example MatLAB code (&ldquo;runGK15.m&rdquo;) to generate a 5% damped pseudo-spectral acceleration response spectrum for a given hazard condition is also provided. The user can change the input parameters to construct a site-specific response spectrum considering different hazard conditions.
+    </p>
+  </li>
 
-<li>
-<a name="gmpe"></a>
-<h2>Graizer-Kalkan (2015) Ground-Motion Prediction Equation</h2>
-<a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-GK2015.zip"><img src="gmpe/gmpe.png" alt="logo" class="left" width="150" /></a>
-<table cellspacing="1" class="tabular">
-<tr>
-<th>Authors:</th>
-<td>Vladimir Graizer, <a href="mailto:ekalkan@usgs.gov">Erol Kalkan</a></td>
-</tr>
-<tr>
-<th>Usage:</th>
-<td>Ground motion predictions for engineering applications</td>
-</tr>
-<tr>
-<th>Platform:</th>
-<td>MatLAB on Windows, Mac or Linux</td>
-</tr>
-<tr>
-<th>Interface:</th>
-<td>Command line</td>
-</tr>
-<tr>
-<th>Output:</th>
-<td>Graphics and text</td>
-</tr>
-<tr>
-<th>Manual:</th>
-<td>Comments in source code; <a href="http://pubs.usgs.gov/of/2015/1009/">Open-File Report</a> and <a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-2016_Graizer_Kalkan_BSSA.pdf">BSSA article</a></td>
-</tr>
-<tr>
-<th>Download:</th>
-<td><a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-GK2015.zip"</a> (7.1 Kb)</td>
-</tr>
-</table>
-<p>Graizer-Kalkan (2015) ground motion prediction equation (GMPE) is designed to predict peak-ground acceleration and 5% damped pseudo-spectral acceleration response ordinates for shallow-crustal continental earthquakes to be used in earthquake-engineering applications including probabilistic and deterministic seismic hazard analyses. The GK15 can be used for earthquakes with moment magnitudes 5.0&ndash;8.0, distances 0&ndash;250 km, average shear-wave velocities 200&ndash;1,300 m/s, and spectral periods 0.01&ndash;5 s.  The GK15 GMPE is coded as a MatLAB function (titled &ldquo;GK15.m&rdquo;) in the zip file. An example MatLAB code (&ldquo;runGK15.m&rdquo;) to generate a 5% damped pseudo-spectral acceleration response spectrum for a given hazard condition is also provided. The user can change the input parameters to construct a site-specific response spectrum considering different hazard conditions</p>
-</li>
-
-<li><a name="HASH" id="HASH"></a>
-<h2>HASH 1.2</h2>
-  <img class="left" src="images/HASH.gif" alt="Hash Logo" width="120" height="128" />
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Authors:</th>
-      <td><a href="mailto:jhardebeck@usgs.gov">Jeanne Hardebeck</a> and Peter Shearer</td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Calculates earthquake focal mechanisms</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Unix</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Command line / text input files</td>
-    </tr>
-    <tr>
-      <th>Output:</th>
-      <td>Text files</td>
-    </tr>
-    <tr>
-      <th>Examples:</th>
-      <td>Included in download file</td>
-    </tr>
-    <tr>
-      <th>Manual:</th>
-      <td>PDF included in download file</td>
-    </tr>
-   <tr>
-      <th>Download:</th>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/software/hash.v1.2.tar.gz">hash.v1.2.tar.gz</a> (1.1 MB)</td>
-    </tr>
-  </table>
-  <p>HASH is a Fortran 77 code that computes double-couple earthquake
+  <li>
+    <h2 id="HASH">HASH 1.2</h2>
+    <a href="ftp://hazards.cr.usgs.gov/web/software/hash.v1.2.tar.gz">
+      <img src="images/HASH.gif" alt="Hash Logo" width="120" height="145"/>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td><a href="mailto:jhardebeck@usgs.gov">Jeanne Hardebeck</a> and Peter Shearer</td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Calculates earthquake focal mechanisms</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Unix</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line / text input files</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Text files</td>
+      </tr>
+      <tr>
+        <th>Examples:</th>
+        <td>Included in download file</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>PDF included in download file</td>
+      </tr>
+     <tr>
+        <th>Download:</th>
+        <td><a href="ftp://hazards.cr.usgs.gov/web/software/hash.v1.2.tar.gz">hash.v1.2.tar.gz</a> (1.1 MB)</td>
+      </tr>
+    </table>
+    <p>
+      HASH is a Fortran 77 code that computes double-couple earthquake
         focal mechanisms from P-wave first motion polarity observations,
         and optionally S/P amplitude ratios. HASH is designed to produce
         stable high-quality focal mechanisms, and tests the solution sensitivity
@@ -624,108 +632,116 @@ other data types.</p>
         (BSSA 92, pp. 2264-2276, 2002.) Examples are provided for data in FPFIT
         input format. The code is designed to be as input-format independent
         as possible, so only minor editing is needed to use data in
-      other formats.</p>
-</li>
-<li><a name="hypoDD" id="hypoDD"></a>
-<h2>hypoDD</h2>
-  <img class="left" src="images/doublediff2_sm.gif" alt="HypoDD Logo" width="120" height="206" />
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Author:</th>
-      <td><a href="mailto:felixw@ldeo.columbia.edu">Felix Waldhauser</a></td>
-    </tr>
-    <tr>
-      <th>Maintenance:</th>
-      <td><a href="mailto:felixw@ldeo.columbia.edu">Felix Waldhauser</a>, <a href="mailto:julian@usgs.gov">Bruce Julian</a>, <a href="mailto:ellsworth@usgs.gov">Bill Ellsworth</a>, Keith Richards-Dinger </td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Implements the double-difference earthquake location algorithm</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Unix</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Command line / text input files</td>
-    </tr>
-    <tr>
-      <th>Output:</th>
-      <td>Text files</td>
-    </tr>
-    <tr>
-      <th>Examples:</th>
-      <td>Examples available on hipoDD webpage.</td>
-    </tr>
-    <tr>
-      <th>Manual:</th>
-      <td>PDF and PostScript files in tar file</td>
-    </tr>
-   <tr>
-      <th>Download:</th>
-      <td><a href="http://www.ldeo.columbia.edu/~felixw/hypoDD.html">hypoDD</a></td>
-    </tr>
-  </table>
-  <p>HypoDD is a Fortran computer program package for relocating
+      other formats.
+    </p>
+  </li>
+  <li>
+    <h2 id="hypoDD">hypoDD</h2>
+    <a href="http://www.ldeo.columbia.edu/~felixw/hypoDD.html">
+      <img src="images/doublediff2_sm.gif" alt="HypoDD Logo" width="120" height="206"/>
+    </a>
+    <table>
+      <tr>
+        <th>Author:</th>
+        <td><a href="mailto:felixw@ldeo.columbia.edu">Felix Waldhauser</a></td>
+      </tr>
+      <tr>
+        <th>Maintenance:</th>
+        <td><a href="mailto:felixw@ldeo.columbia.edu">Felix Waldhauser</a>, <a href="mailto:julian@usgs.gov">Bruce Julian</a>, <a href="mailto:ellsworth@usgs.gov">Bill Ellsworth</a>, Keith Richards-Dinger </td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Implements the double-difference earthquake location algorithm</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Unix</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line / text input files</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Text files</td>
+      </tr>
+      <tr>
+        <th>Examples:</th>
+        <td>Examples available on hipoDD webpage.</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>PDF and PostScript files in tar file</td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="http://www.ldeo.columbia.edu/~felixw/hypoDD.html">hypoDD</a></td>
+      </tr>
+    </table>
+    <p>
+      HypoDD is a Fortran computer program package for relocating
         earthquakes with the double-difference (DD) algorithm of Waldhauser
         and Ellsworth (2000). The DD technique takes advantage of
         the fact that if the hypocentral separation between two earthquakes
         is small compared to the event-station distance and the scale
         length of velocity heterogeneity, then the ray paths between
         the source region and a common station are similar along almost
-        the entire ray path (Frechet, 1985; Got et al., 1994).</p>
-</li>
-<li><a name="HYPOINVERSE" id="HYPOINVERSE"></a>
-<h2>HYPOINVERSE Earthquake Location</h2>
-  <img class="left" src="images/hypo.gif" alt="Logo" width="119" height="127" />
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Author:</th>
-      <td><a href="mailto:klein@usgs.gov">Fred Klein</a></td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Locate earthquakes and determine magnitudes in a local
-        or regional seismic network</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Unix or Vax, Fortran source code</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Command line, files or keyboard</td>
-    </tr>
-    <tr>
-      <th>Input:</th>
-      <td>ASCII text</td>
-    </tr>
-    <tr>
-      <th>Output:</th>
-      <td>ASCII text</td>
-    </tr>
-    <tr>
-      <th>Examples:</th>
-      <td>Sample runs in distribution directory</td>
-    </tr>
-    <tr>
-      <th>Manual:</th>
-      <td>Extensive open-file document, in Microsoft Word and
-        postscript formats</td>
-    </tr>
-    <tr>
-      <th>Tutorial:</th>
-      <td>Simple examples included in manual </td>
-    </tr>
-   <tr>
-      <th>Download:</th>
-      <td>
+        the entire ray path (Frechet, 1985; Got et al., 1994).
+    </p>
+  </li>
+  <li>
+    <h2 id="HYPOINVERSE">HYPOINVERSE Earthquake Location</h2>
+    <a href="ftp://ehzftp.wr.usgs.gov/klein/hyp1.40">
+      <img src="images/hypo.gif" alt="Logo" width="119" height="127"/>
+    </a>
+    <table>
+      <tr>
+        <th>Author:</th>
+        <td><a href="mailto:klein@usgs.gov">Fred Klein</a></td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Locate earthquakes and determine magnitudes in a local
+          or regional seismic network</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Unix or Vax, Fortran source code</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line, files or keyboard</td>
+      </tr>
+      <tr>
+        <th>Input:</th>
+        <td>ASCII text</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>ASCII text</td>
+      </tr>
+      <tr>
+        <th>Examples:</th>
+        <td>Sample runs in distribution directory</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>Extensive open-file document, in Microsoft Word and
+          postscript formats</td>
+      </tr>
+      <tr>
+        <th>Tutorial:</th>
+        <td>Simple examples included in manual </td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td>
           <a href="ftp://ehzftp.wr.usgs.gov/klein/hyp1.40">version 1.4</a> (9.0 MB)<br />
-      </td>
-    </tr>
-  </table>
-  <p>HYPOINVERSE2000 determines earthquake locations and magnitudes
+        </td>
+      </tr>
+    </table>
+    <p>
+      HYPOINVERSE2000 determines earthquake locations and magnitudes
 from seismic network data like first-arrival P and S arrival
 times, amplitudes and coda durations. The present versions
 HYPOINVERSE2000 (version 1.2 or 1.3) are in routine use by many networks. Hypoinverse version 1.3 is the standard
@@ -733,266 +749,297 @@ location program supplied with the Earthworm seismic acquisition
 and processing system (AQMS) and has thus gotten wide use. Crustal
 models can be multiple to cover different regions, and either
 flat layer or flat layer with linear velocity gradients. Version 1.3
-also supports negative magnitudes, independent S models, and crustal models from the HYPOELLIPSE program, including layer models, gradient over halfspace models, depths relative to sea level, negative depths above sea level, and use of station elevations. It
-is Y2000 compatible.</p>
-</li>
+also supports negative magnitudes, independent S models, and crustal models from the HYPOELLIPSE program, including layer models, gradient over halfspace models, depths relative to sea level, negative depths above sea level, and use of station elevations. It is Y2000 compatible.
+    </p>
+  </li>
+  <li>
+    <h2 id="MacR1D">MacR1D</h2>
+    <a href="ftp://hazards.cr.usgs.gov/web/software/MacR1D-V1.17-Executables.tar.gz">
+      <img src="images/MacR1D.gif" alt="Ray Tracing Logo" width="120" height="140"/>
+    </a>
+    <table>
+      <tr>
+        <th>Author:</th>
+        <td><a href="mailto:luetgert@usgs.gov">Jim Luetgert</a></td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>1-D travel time calculation</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Mac OS X</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Menu driven</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>PICT file</td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="ftp://hazards.cr.usgs.gov/web/software/MacR1D-V1.17-Executables.tar.gz">MacR1D V1.17</a> (1.6 MB)</td>
+      </tr>
+    </table>
 
-<li><a name="MacR1D" id="MacR1D"></a>
-<h2>MacR1D</h2>
-<img class="left" src="images/MacR1D.gif" alt="Ray Tracing Logo" width="120" height="119" />
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Author:</th>
-      <td><a href="mailto:luetgert@usgs.gov">Jim Luetgert</a></td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>1-D travel time calculation</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Mac OS X</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Menu driven</td>
-    </tr>
-    <tr>
-      <th>Output:</th>
-      <td>PICT file</td>
-    </tr>
-    <tr>
-      <th>Download:</th>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/software/MacR1D-V1.17-Executables.tar.gz">MacR1D V1.17</a> (1.6 MB)</td>
-    </tr>
-  </table>
+    <p>
+      MacR1D is a one-dimensional seismic travel-time calculator for Macintosh.
+      Travel-times vs distance are calculated for P and S arrivals (sorry, no
+      converted phases or multiples) for sources at any depth. These may be
+      compared to observed travel-times. This is a very quick way to define 1-d
+      velocity models from observed arrival pics.
+    </p>
+  </li>
+  <li>
+    <h2 id="Ray">MacRay</h2>
+    <a href="ftp://hazards.cr.usgs.gov/web/software/MacRay-V2.29-Executables.tar.gz">
+      <img src="images/MacRay.gif" alt="Ray Tracing Logo" width="100" height="80"/>
+    </a>
+    <table cellspacing="1" class="tabular">
+      <tr>
+        <th>Author:</th>
+        <td><a href="mailto:luetgert@usgs.gov">Jim Luetgert</a></td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>General purpose 2-D seismic seismic ray tracer</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Mac OS X or PC</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Menu driven</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>PICT file</td>
+      </tr>
+      <tr>
+        <th>Examples:</th>
+        <td>Included in download file</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>MS Word document included in download file</td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td>Mac OS X - <a href="ftp://hazards.cr.usgs.gov/web/software/MacRay-V2.29-Executables.tar.gz">MacRay V2.29</a> (3.5 MB); PC - <a HREF="ftp://ehzftp.wr.usgs.gov/luetgert/software/Macintosh_Software/RAY84PC.zip">RAY84PC</a> (1.2 MB)</td>
+      </tr>
+    </table>
+    <p>
+      MacRay is a general purpose two-dimensional seismic ray-tracer for
+      Macintosh. Originally written to trace rays through 2-dimensional p-wave
+      models, MacRay has grown to support 2-d models defined in Vp, Vs and
+      density.  In addition to being able to model the full range of simple to
+      complex raypaths, the 2-d gravity response of the model may also be
+      calculated. For surveys providing seismic P, S and converted wave arrivals
+      in addition to gravity measurements, the full suite of physical properties
+      may be modeled; Vp, Vs, density, Poisson's ratio, Vp/Vs, Shear modulus,
+      Bulk modulus, Young's modulus, Lame's parameter, lithostatic pressure.
+    </p>
+    <p>
+      With the addition of an assumed or measured geothermal gradient, we can model the pressure and temperature conditions at any point in our earth model.  A recent addition to MacRay allows you to define the features of a pressure-temperature diagram (e.g. metamorphic grade, solidus) and map those P-T regions back into the earth model.
+    </p>
+    <p>
+      The PC version is a port of Ray84 written for Vax. It was ported by <a HREF="mailto:ht@seis.geol.ku.dk">Hans Thybo</a> of Copenhagen University, Denmark.
+    </p>
+  </li>
+  <li>
+    <h2 id="OpenSHA">OpenSHA</h2>
+    <a href="http://www.opensha.org/">
+      <img src="images/OpenSHA_logo_sm.jpg" alt="OpenSHA Logo" width="120" height="92"/>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td><a href="mailto:field@usgs.gov">Ned Field (USGS/SCEC)</a>,
+  Nitin Gupta (USC/SCEC), Vipin Gupta (USC/SCEC), Peter Powers, Kevin Miner, and others.</td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Open-source seismic hazard analysis</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Any O/S that supports Java</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td><a href="http://www.opensha.org/">See online documentation</a></td>
+      </tr>
+     <tr>
+        <th>Download:</th>
+        <td><a href="http://www.opensha.org/">See online documentation</a></td>
+      </tr>
+    </table>
+    <p>
+      OpenSHA is an effort to develop object-oriented, web- & GUI-enabled, open-source, and freely available code for conducting Seismic Hazard Analyses (SHA).  Our goal is to provide a framework where any arbitrarily complex (e.g., physics based) earthquake-rupture forecast, ground-motion, or engineering-response model can &ldquo;plug in&rdquo; for analysis without having to change what&rsquo;s being plugged into.
+    </p>
+  </li>
+  <li>
+    <h2 id="PPHASEPICKER">P-Phase Picker</h2>
+    <a href="ftp://hazards.cr.usgs.gov/web/software/PPhasePicker.zip">
+      <img src="images/logo.png" alt="phasepicker logo" width="150"/>
+    </a>
+    <table>
+     <tr>
+       <th>Author:</th>
+       <td><a href="https://profile.usgs.gov/ekalkan">Erol Kalkan</a></td>
+     </tr>
+     <tr>
+       <th>Usage:</th>
+       <td>Automatic P-phase arrival time picker</td>
+     </tr>
+     <tr>
+       <th>Platform:</th>
+       <td>Windows, Mac or Linux</td>
+     </tr>
+     <tr>
+       <th>Interface:</th>
+       <td>MatLAB command line</td>
+     </tr>
+     <tr>
+       <th>Output:</th>
+       <td>Graphics and text</td>
+     </tr>
+     <tr>
+       <th>Manual:</th>
+       <td>Comments in source code; and BSSA article in zip file</td>
+     </tr>
+     <tr>
+       <th>Download:</th>
+       <td><a href="ftp://hazards.cr.usgs.gov/web/software/PPhasePicker.zip">PphasePicker.zip</a> (8.2 MB)</td>
+     </tr>
+    </table>
+    <p>
+       P<sub>PHASE</sub>P<sub>ICKER</sub> is a powerful tool for automatically picking P-phase onsets with high precision without requiring detection interval or threshold settings. The algorithm detects P-phase onset in single-component acceleration or broadband velocity records using the histogram method. P<sub>PHASE</sub>P<sub>ICKER</sub> has been integrated into the &ldquo;Automated Processing and Review Interface for Strong Motion Data (PRISM)&rdquo; software of the U.S. Geological Survey in order to identify the pre-event time-window for systematic and automated processing of large numbers of accelerograms. P<sub>PHASE</sub>P<sub>ICKER</sub> is written in Java and MatLAB. An example MatLAB code is provided in zip file to show how to run P<sub>PHASE</sub>P<sub>ICKER</sub> using a sample waveform. Its MatLAB version requires MatLAB&rsquo;s signal processing toolbox.
+    </p>
+  </li>
+  <li>
+    <h2 id="PDL">PDL - Product Distribution Layer</h2>
+    <table>
+      <tr>
+        <th>Author:</th>
+        <td><a href="mailto:jmfee@usgs.gov">Jeremy Fee</a></td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Distribution of earthquake data over the Internet</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Any O/S that supports Java</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Runs in background</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td></td>
+      </tr>
+      <tr>
+        <th>Examples:</th>
+        <td><a href="https://github.com/jmfee-usgs/pdl-client-examples">Configuration examples</a></td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="http://ehppdl1.cr.usgs.gov/">See online documentation</a></td>
+      </tr>
+    </table>
+    <p>
+      The Product Distribution Layer (PDL) is a USGS platform for receiving earthquake data over the Internet in near-real time.  PDL provides standard solutions for distribution, cataloging, and triggered processing, of earthquake information.  It is cross platform, and integrates with external systems using Command Line or Java APIs.
+    </p>
+    <p>
+      PDL replaces the Earthquake Information Distribution System (EIDS) and Quake Data Merge (QDM) applications.
+    </p>
+  </li>
+  <li>
+    <h2 id="PQLX">PQLX</h2>
+    <a href="pqlx.php">
+      <img src="images/pqlx_sm.jpg" alt="PQLX"/>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td>
+          <a href="mailto:mcnamara@usgs.gov">Dan McNamara</a>, Richard Boaz
+        </td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Evaluate seismic station performance</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Unix</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>GUI</td>
+      </tr>
+      <tr>
+        <th>Input:</th>
+        <td>standard seismic data formats</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>MySQL database, images, plots</td>
+      </tr>
+      <tr>
+        <th>Examples:</th>
+        <td><a href="pqlx.php">See sample data and response file</a></td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="pqlx.php">See online documentation</a></td>
+      </tr>
+    </table>
+    <p>
+      PQLX  is open-source software system for evaluating seismic station
+      performance and data quality. The software consists of a server and
+      client but also includes data extraction and manipulation tools. Given
+      waveform data and instrument response files, PQLX server calculates trace
+      statistics, Power Spectral Densities (PSD), and Probability Density
+      Functions (PDF) and writes the results to a MySQL database for quick
+      access.
+    </p>
+  </li>
+  <li>
+    <h2 id="probab">Probabilistic Seismic Hazard Calculation Software</h2>
+    <a href="/hazards/">
+      <img src="images/probseishaz.jpg" alt="Logo" width="120" height="77" />
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td><a href="mailto:mpeterson@usgs.gov">Mark Peterson</a> and others</td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Programs used to construct the National Seismic Hazard Maps</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Unix, Fortran source codes, some C subroutines</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>command line</td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="/hazards/" >See online documentation</a></td>
+      </tr>
+    </table>
+    <p>Computer codes used to construct the U.S. National Seismic Hazard Maps.</p>
+  </li>
 
-<p>MacR1D is a one-dimensional seismic travel-time calculator for Macintosh.
-Travel-times vs distance are calculated for P and S arrivals (sorry,
-no converted phases or multiples) for sources at any depth. These may be compared
-to observed travel-times. This is a very quick way to define 1-d
-velocity models from observed arrival pics.</p>
-
-</li>
-
-<li><a name="Ray" id="Ray"></a>
-<h2>MacRay</h2>
-  <img class="left" src="images/MacRay.gif" alt="Ray Tracing Logo" width="100" height="60" />
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Author:</th>
-      <td><a href="mailto:luetgert@usgs.gov">Jim Luetgert</a></td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>General purpose 2-D seismic seismic ray tracer</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Mac OS X or PC</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Menu driven</td>
-    </tr>
-    <tr>
-      <th>Output:</th>
-      <td>PICT file</td>
-    </tr>
-    <tr>
-      <th>Examples:</th>
-      <td>Included in download file</td>
-    </tr>
-    <tr>
-      <th>Manual:</th>
-      <td>MS Word document included in download file</td>
-    </tr>
-    <tr>
-      <th>Download:</th>
-      <td>Mac OS X - <a href="ftp://hazards.cr.usgs.gov/web/software/MacRay-V2.29-Executables.tar.gz">MacRay V2.29</a> (3.5 MB); PC - <a HREF="ftp://ehzftp.wr.usgs.gov/luetgert/software/Macintosh_Software/RAY84PC.zip">RAY84PC</a> (1.2 MB)</td>
-    </tr>
-  </table>
-<p>MacRay is a general purpose two-dimensional seismic ray-tracer for Macintosh.
-Originally written to trace rays through 2-dimensional p-wave models, MacRay has grown to support 2-d models
-defined in Vp, Vs and density.  In addition to being able to model the full range of simple to complex raypaths,
-the 2-d gravity response of the model may also be calculated.
-For surveys providing seismic P, S and converted wave arrivals in addition to gravity measurements, the full suite of physical properties may be modeled; Vp, Vs, density, Poisson's ratio, Vp/Vs, Shear modulus, Bulk modulus, Young's modulus, Lame's parameter, lithostatic pressure.</p>
-<p>With the addition of an assumed or measured geothermal gradient, we can model the pressure and temperature
-conditions at any point in our earth model.  A recent addition to MacRay allows you to define the
-features of a pressure-temperature diagram (e.g. metamorphic grade, solidus) and map those P-T regions
-back into the earth model.</p>
-
-<p>The PC version is a port of Ray84 written for Vax. It was ported by <a HREF="mailto:ht@seis.geol.ku.dk">Hans Thybo</a> of Copenhagen University, Denmark. </p>
-</li>
-<li><a name="OpenSHA" id="OpenSHA"></a>
-<h2>OpenSHA</h2>
-  <a href="http://www.opensha.org/"><img class="left" src="images/OpenSHA_logo_sm.jpg" alt="OpenSHA Logo" width="120" height="92" /></a>
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Authors:</th>
-      <td><a href="mailto:field@usgs.gov">Ned Field (USGS/SCEC)</a>,
-Nitin Gupta (USC/SCEC), Vipin Gupta (USC/SCEC), Peter Powers, Kevin Miner, and others.</td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Open-source seismic hazard analysis</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Any O/S that supports Java</td>
-    </tr>
-    <tr>
-      <th>Manual:</th>
-      <td><a href="http://www.opensha.org/">See online documentation</a></td>
-    </tr>
-   <tr>
-      <th>Download:</th>
-      <td><a href="http://www.opensha.org/">See online documentation</a></td>
-    </tr>
-  </table>
-  <p>OpenSHA is an effort to develop object-oriented, web- & GUI-enabled, open-source, and freely available code for conducting Seismic Hazard Analyses (SHA).  Our goal is to provide a framework where any arbitrarily complex (e.g., physics based) earthquake-rupture forecast, ground-motion, or engineering-response model can &ldquo;plug in&rdquo; for analysis without having to change what&rsquo;s being plugged into.</p>
-</li>
-<li>
- <a name="PPHASEPICKER" id="PPHASEPICKER"></a>
- <h2>P<sub>PHASE</sub>P<sub>ICKER</sub></h2>
- <img src="phasepicker/logo.png" class="left" alt="phasepicker logo" width="150" />
- <table cellspacing="1" class="tabular">
-   <tr>
-     <th>Author:</th>
-     <td><a href="https://profile.usgs.gov/ekalkan">Erol Kalkan</a></td>
-   </tr>
-   <tr>
-     <th>Usage:</th>
-     <td>Automatic P-phase arrival time picker</td>
-   </tr>
-   <tr>
-     <th>Platform:</th>
-     <td>Windows, Mac or Linux</td>
-   </tr>
-   <tr>
-     <th>Interface:</th>
-     <td>MatLAB command line</td>
-   </tr>
-   <tr>
-     <th>Output:</th>
-     <td>Graphics and text</td>
-   </tr>
-   <tr>
-     <th>Manual:</th>
-     <td>Comments in source code; and BSSA article in zip file</td>
-   </tr>
-   <tr>
-     <th>Download:</th>
-     <td><a href="ftp://hazards.cr.usgs.gov/web/software/PPhasePicker.zip">PphasePicker.zip</a> (8.2 MB)</td>
-   </tr>
- </table>
- <p>P<sub>PHASE</sub>P<sub>ICKER</sub> is a powerful tool for automatically picking P-phase onsets with high precision without requiring detection interval or threshold settings. The algorithm detects P-phase onset in single-component acceleration or broadband velocity records using the histogram method. P<sub>PHASE</sub>P<sub>ICKER</sub> has been integrated into the &ldquo;Automated Processing and Review Interface for Strong Motion Data (PRISM)&rdquo; software of the U.S. Geological Survey in order to identify the pre-event time-window for systematic and automated processing of large numbers of accelerograms. P<sub>PHASE</sub>P<sub>ICKER</sub> is written in Java and MatLAB. An example MatLAB code is provided in zip file to show how to run P<sub>PHASE</sub>P<sub>ICKER</sub> using a sample waveform. Its MatLAB version requires MatLAB&rsquo;s signal processing toolbox.</p>
-</li>
-
-<li>
-<a name="PDL" id="PDL"></a>
-<h2>PDL - Product Distribution Layer</h2>
-<table cellspacing="1" class="tabular">
-<tr>
-<th>Author:</th>
-<td><a href="mailto:jmfee@usgs.gov">Jeremy Fee</a></td>
-</tr>
-<tr>
-<th>Usage:</th>
-<td>Distribution of earthquake data over the Internet</td>
-</tr>
-<tr>
-<th>Platform:</th>
-<td>Any O/S that supports Java</td>
-</tr>
-<tr>
-<th>Interface:</th>
-<td>Runs in background</td>
-</tr>
-<tr>
-<th>Output:</th>
-<td></td>
-</tr>
-<tr>
-<th>Examples:</th>
-<td><a href="https://github.com/jmfee-usgs/pdl-client-examples">Configuration examples</a></td>
-</tr>
-<tr>
-<th>Download:</th>
-<td><a href="http://ehppdl1.cr.usgs.gov/">See online documentation</a></td>
-</tr>
-</table>
-
-<p>The Product Distribution Layer (PDL) is a USGS platform for receiving earthquake data over the Internet in near-real time.  PDL provides standard solutions for distribution, cataloging, and triggered processing, of earthquake information.  It is cross platform, and integrates with external systems using Command Line or Java APIs.</p>
-
-<p>PDL replaces the Earthquake Information Distribution System (EIDS) and Quake Data Merge (QDM) applications.</p>
-</li>
-
-<li><a name="PQLX" id="PQLX"></a>
-<h2>PQLX</h2>
-<a href="pqlx.php"><img class="left" src="images/pqlx_sm.jpg" alt="PQLX"
-style="width;150px;height:123px;" /></a>
-<table cellspacing="1" class="tabular">
-<tr>
-<th>Authors:</th>
-<td>
-<a href="mailto:mcnamara@usgs.gov">Dan McNamara</a>, Richard Boaz
-</td>
-</tr>
-<tr><th>Usage:</th><td>Evaluate seismic station performance</td></tr>
-<tr><th>Platform:</th><td>Unix</td></tr>
-<tr><th>Interface:</th><td>GUI</td></tr>
-<tr><th>Input:</th><td>standard seismic data formats</td></tr>
-<tr><th>Output:</th><td>MySQL database, images, plots</td></tr>
-<tr>
-<th>Examples:</th>
-<td><a href="pqlx.php">See sample data and response file</a></td>
-</tr>
-<tr>
-<th>Download:</th>
-<td><a href="pqlx.php">See online documentation</a></td>
-</tr>
-</table>
-<p>
-PQLX  is open-source software system for evaluating seismic station
-performance and data quality. The software consists of a server and
-client but also includes data extraction and manipulation tools. Given
-waveform data and instrument response files, PQLX server calculates trace
-statistics, Power Spectral Densities (PSD), and Probability Density
-Functions (PDF) and writes the results to a MySQL database for quick
-access.
-</p>
-</li>
-
-
-
-<li><a name="probab" id="probab"></a>
-<h2>Probabilistic Seismic Hazard Calculation Software</h2>
-  <a href="/hazards/"><img class="left" src="images/probseishaz.jpg" alt="Logo" width="120" height="77" /></a>
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Authors:</th>
-      <td><a href="mailto:mpeterson@usgs.gov">Mark Peterson</a> and others</td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Programs used to construct the National Seismic Hazard Maps</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Unix, Fortran source codes, some C subroutines</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>command line</td>
-    </tr>
-    <tr>
-      <th>Download:</th>
-      <td><a href="/hazards/" >See online documentation</a></td>
-    </tr>
-  </table>
-  <p>Computer codes used to construct the U.S. National Seismic Hazard Maps.</p>
-</li>
 <!-- commented out with permission of Paul Earle on 08/08/2012
 
 <li><a name="QDDS" id="QDDS"></a>
@@ -1133,308 +1180,339 @@ access.
         calculated values in a log.</p>
 </li>
 -->
-<li><a name="SATSI" id="SATSI"></a>
-<h2>SATSI</h2>
-  <img class="left" src="images/satsi.jpg" alt="SATSI Logo" width="120" height="111" />
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Authors:</th>
-      <td><a href="mailto:jhardebeck@usgs.gov">Jeanne Hardebeck</a> and Andy Michael</td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Spatially and/or temporally varying stress field from focal mechanisms</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Unix (or any platform with C)</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Command line / text input files</td>
-    </tr>
-    <tr>
-      <th>Output:</th>
-      <td>Text files</td>
-    </tr>
-    <tr>
-      <th>Examples:</th>
-      <td>Included in download file</td>
-    </tr>
-   <tr>
-      <th>Download:</th>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/software/SATSI_140818.tar.gz">SATSI_140818.tar.gz</a> (63kB)</td>
-    </tr>
-  </table>
-  <p>SATSI (Spatial And Temporal Stress Inversion) is a modified version of Michael's (JGR 1984, 1987) code that inverts focal mechanism data for a spatially and/or temporally varying stress field.  The inversion finds the least complex stress field model that is consistent with the data.  It uses an adaptive smoothing method that discriminates between variations that are or aren't strongly required by the data and retains only variations that are well-resolved.  The technique is described and validated in Hardebeck and Michael (JGR 111, B11310, doi:10.1029/2005JB004144, 2006.)  The tar file contains C codes implementing the inversion method for 2D and 4D stress fields (1D and 3D fields can be treated as simplified cases), and example input data and Perl scripts.</p>
-</li>
-<li><a name="shake" id="shake"></a>
-<h2>ShakeCast &ndash; ShakeMap RSS Reader</h2>
-  <a href="shakecast/"><img class="left" src="images/ShakeCast.Icon.jpg" alt="ShakeCast Logo" width="120" height="99" /></a>
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Authors:</th>
-      <td><a href="mailto:klin@usgs.gov">Kuo-Wan Lin</a> and David Wald</td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Automated ShakeMap delivery to users, facilitating use of ShakeMap products and post-download post-commands (script startup)</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>MS Windows operating system (XP, 7/8 Server); Linux. ShakeCast AMI (CentOS-6) using Amazon Web Services (AWS) & VM (Linux, Win Server) Interface PERL, MySQL, Apache, HTML5; responsive web</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Scripts / text configuration files</td>
-    </tr>
-    <tr>
-      <th>Output:</th>
-      <td>Email & txt messaging, PDF facility report, Web-based GUI using Google Maps.</td>
-    </tr>
-    <tr>
-      <th>Examples:</th>
-      <td>Available at website</td>
-    </tr>
-    <tr>
-      <th>Manual:</th>
-      <td>Included in download file</td>
-    </tr>
-      <th>Download:</th>
-      <td><a href="shakecast/" >See online documentation</a></td>
-    </tr>
-  </table>
-  <p>Delivers maps of areas affected by an earthquake.  Areas of interest can be defined, and shaking thresholds can be set to trigger automatic notifications.  Easy to integrate with in-house systems.</p>
-</li>
-<li><a name="Slick" id="Slick"></a>
-<h2>Slick Package</h2>
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Author:</th>
-      <td><a href="mailto:michael@usgs.gov">Andy Michael</a></td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Stress inversion from slip data</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Unix, PC (or any platform with C)</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Command line, can be run as batch mode</td>
-    </tr>
-    <tr>
-      <th>Bound Program:</th>
-      <td><a href="ftp://ehzftp.wr.usgs.gov/michael/software/onnet">Onnet</a>, Stereonet
-        plotting package</td>
-    </tr>
-    <tr>
-      <th>Output:</th>
-      <td>Text, graphics via onnet stereonet plotting program</td>
-    </tr>
-    <tr>
-      <th>Examples:</th>
-      <td>Included in download file</td>
-    </tr>
-    <tr>
-      <th>Manual:</th>
-      <td>ASCII Text and Postscript files in included in download
-        file</td>
-    </tr>
-    <tr>
-      <th>Tutorial:</th>
-      <td>Included in download file</td>
-    </tr>
-   <tr>
-      <th>Download:</th>
-      <td>Unix - <a href="ftp://ehzftp.wr.usgs.gov/michael/software/stress.tar.Z">stress.tar.Z</a> (41k); PC - <a href="ftp://ehzftp.wr.usgs.gov/michael/software/stresspc.zip">stresspc.zip</a> (160k)</td>
-    </tr>
-  </table>
-  <p>The slick package uses fault slip data (either field observations
+
+  <li>
+    <h2 id="SATSI">SATSI</h2>
+    <a href="ftp://hazards.cr.usgs.gov/web/software/SATSI_140818.tar.gz">
+      <img src="images/satsi.jpg" alt="SATSI Logo" width="120" height="111"/>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td><a href="mailto:jhardebeck@usgs.gov">Jeanne Hardebeck</a> and Andy Michael</td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Spatially and/or temporally varying stress field from focal mechanisms</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Unix (or any platform with C)</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line / text input files</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Text files</td>
+      </tr>
+      <tr>
+        <th>Examples:</th>
+        <td>Included in download file</td>
+      </tr>
+     <tr>
+        <th>Download:</th>
+        <td><a href="ftp://hazards.cr.usgs.gov/web/software/SATSI_140818.tar.gz">SATSI_140818.tar.gz</a> (63kB)</td>
+      </tr>
+    </table>
+    <p>
+      SATSI (Spatial And Temporal Stress Inversion) is a modified version of Michael's (JGR 1984, 1987) code that inverts focal mechanism data for a spatially and/or temporally varying stress field.  The inversion finds the least complex stress field model that is consistent with the data.  It uses an adaptive smoothing method that discriminates between variations that are or aren't strongly required by the data and retains only variations that are well-resolved.  The technique is described and validated in Hardebeck and Michael (JGR 111, B11310, doi:10.1029/2005JB004144, 2006.)  The tar file contains C codes implementing the inversion method for 2D and 4D stress fields (1D and 3D fields can be treated as simplified cases), and example input data and Perl scripts.
+    </p>
+  </li>
+  <li>
+    <h2 id="shake">ShakeCast &ndash; ShakeMap RSS Reader</h2>
+    <a href="shakecast/">
+      <img src="images/ShakeCast.Icon.jpg" alt="ShakeCast Logo" width="120" height="99"/>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td><a href="mailto:klin@usgs.gov">Kuo-Wan Lin</a> and David Wald</td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Automated ShakeMap delivery to users, facilitating use of ShakeMap products and post-download post-commands (script startup)</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>MS Windows operating system (XP, 7/8 Server); Linux. ShakeCast AMI (CentOS-6) using Amazon Web Services (AWS) & VM (Linux, Win Server) Interface PERL, MySQL, Apache, HTML5; responsive web</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Scripts / text configuration files</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Email & txt messaging, PDF facility report, Web-based GUI using Google Maps.</td>
+      </tr>
+      <tr>
+        <th>Examples:</th>
+        <td>Available at website</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>Included in download file</td>
+      </tr>
+        <th>Download:</th>
+        <td><a href="shakecast/" >See online documentation</a></td>
+      </tr>
+    </table>
+    <p>
+      Delivers maps of areas affected by an earthquake.  Areas of interest can be defined, and shaking thresholds can be set to trigger automatic notifications.  Easy to integrate with in-house systems.
+    </p>
+  </li>
+  <li>
+    <h2 id="Slick">Slick Package</h2>
+    <table>
+      <tr>
+        <th>Author:</th>
+        <td><a href="mailto:michael@usgs.gov">Andy Michael</a></td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Stress inversion from slip data</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Unix, PC (or any platform with C)</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line, can be run as batch mode</td>
+      </tr>
+      <tr>
+        <th>Bound Program:</th>
+        <td><a href="ftp://ehzftp.wr.usgs.gov/michael/software/onnet">Onnet</a>, Stereonet
+          plotting package</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Text, graphics via onnet stereonet plotting program</td>
+      </tr>
+      <tr>
+        <th>Examples:</th>
+        <td>Included in download file</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>ASCII Text and Postscript files in included in download
+          file</td>
+      </tr>
+      <tr>
+        <th>Tutorial:</th>
+        <td>Included in download file</td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td>Unix - <a href="ftp://ehzftp.wr.usgs.gov/michael/software/stress.tar.Z">stress.tar.Z</a> (41k); PC - <a href="ftp://ehzftp.wr.usgs.gov/michael/software/stresspc.zip">stresspc.zip</a> (160k)</td>
+      </tr>
+    </table>
+    <p>The slick package uses fault slip data (either field observations
         or from focal mechamism) to find the stress tensor that best
         explains the observations. Inputs are the orientation and
         slip direction of a set of fault planes. Outputs are the oreintation
         and shape of the stress ellipsoid, including confidence regions,
         and statistics used to judge the success of the inversion.
         This method uses the linear inversion agorithm and non-parametric
-        bootstrap statistics.</p>
-      <p>Unix: The code to invert fault slip data for the stress tensor.
+        bootstrap statistics.
+    </p>
+    <p>
+        Unix: The code to invert fault slip data for the stress tensor.
         format is compressed tar. To extract on a Unix system use
         the command % zcat stress.tar.Z | tar xf - It will expand
         into a number of files in your current directory. You also
         need to get the <a href="ftp://ehzftp.wr.usgs.gov/michael/software/onnet">onnet
-        plotting package</a>.</p>
-      <p>PC:<b> </b> Same as stress.tar.Z but containing Leigh House
+        plotting package</a>.
+    </p>
+    <p>
+        PC:Same as stress.tar.Z but containing Leigh House
         of Los Alamos' conversion of the software to PC compatibility.
-        The zip was done with Zip 1.0 (29 September 1991).</p>
-</li>
-<li><a name="SLAMMER" id="SLAMMER"></a>
-<h2>SLAMMER - Seismic Landslide Movement Modeled using Earthquake Records</h2>
-  <a href="http://pubs.usgs.gov/tm/12b1/"><img class="left" src="images/SLAMMERicon.jpg" alt="Logo" width="120" height="114" /></a>
-  <table cellspacing="1" class="tabular">
-    <tr>
-      <th>Authors:</th>
-      <td><a href="mailto:jibson@usgs.gov">Randall W. Jibson</a>, Ellen M. Rathje, Matthew W. Jibson and Yong W. Lee</td>
-    </tr>
-    <tr>
-      <th>Usage:</th>
-      <td>Estimate co-seismic landslide displacement using rigid and flexible sliding-block analyses</td>
-    </tr>
-    <tr>
-      <th>Platform:</th>
-      <td>Any O/S that supports Java (version 7 or later)</td>
-    </tr>
-    <tr>
-      <th>Interface:</th>
-      <td>Java GUI</td>
-    </tr>
-    <tr>
-      <th>Manual:</th>
-      <td>Available from within the program after download</td>
-    </tr>
-    <tr>
-      <th>Download:</th>
-      <td><a href="http://pubs.usgs.gov/tm/12b1/">http://pubs.usgs.gov/tm/12b1/</a></td>
-    </tr>
-  </table>
-  <p>SLAMMER is a Java program that facilitates performing a variety of sliding-block analyses to evaluate
-    seismic slope performance. Functionalities include both rigorous and simplified analyses of rigid sliding
-    blocks (i.e. Newmark analysis) and flexible sliding blocks (i.e. decoupled and fully coupled approaches).
-     Both rigorous and empirical simplified methods are included in the program. More than 2,100 recorded
-     ground motions from the PEER Ground Motion Database are included with the program, and users can import
-     their own ground-motion records for analysis.</p>
-</li>
-
-<li>
- <a name="STATIC1D" id="STATIC1D"></a>
- <h2>STATIC1D</h2>
-<a href="ftp://hazards.cr.usgs.gov/web/software/STATIC1D.tar.gz"><img class="left" src="STATIC1D/STATIC1D.png" width="144" height="131" alt="icon" /></a>
- <table cellspacing="1" class="tabular">
-   <tr>
-     <th>Author:</th>
-     <td><a href="mailto:fpollitz@usgs.gov">Fred Pollitz</a></td>
-   </tr>
-   <tr>
-     <th>Usage:</th>
-     <td>Calculate static displacements and gravity change from earthquake faulting on a radially stratified model</td>
-   </tr>
-   <tr>
-     <th>Platform:</th>
-     <td>Unix, Fortran source codes</td>
-   </tr>
-   <tr>
-     <th>Input:</th>
-     <td>Elastic parameters, density, finite fault parameters</td>
-   </tr>
-   <tr>
-     <th>Output:</th>
-     <td>Displacements and gravity anomaly at Earth&rsquo;s surface or specified depth</td>
-   </tr>
-   <tr>
-     <th>Examples:</th>
-     <td>Contained in downloadable file</td>
-   </tr>
-   <tr>
-     <th>Download:</th>
-     <td><a href="ftp://hazards.cr.usgs.gov/web/software/STATIC1D.tar.gz">STATIC1D.tar.gz</a> (3 MB)</td>
-   </tr>
- </table>
- <p>These programs solve the equations of static equilibrium in a spherically
-layered isotropic medium using a decomposition into spheroidal and toroidal
-motions.  For each spherical harmonic degree l and azimuthal order number
-m, the (l,m) response function is deternined subject to jumps in the
-displacement-stress vector at the source radius, a zero-traction boundary
-condition at Earth&rsquo;s surface, and a homogeneous isotropic elastic solid at
-the base of the specified Earth model. The programs are flexible, being
-suitable for calculations of the static displacement field at
-distances ranging from local to global.</p>
-</li>
-
-<li>
- <a name="strainz17" id="strainz17"></a>
- <h2>strainz17: Earthquake strains and rotations</h2>
- <a href="./strainz17/"><img class="left" src="images/strainz17.gif" width="144" alt="plot" /></a>
- <table cellspacing="1" class="tabular">
-   <tr>
-     <th>Author:</th>
-     <td><a href="mailto:spudich@usgs.gov">Paul Spudich</a></td>
-   </tr>
-   <tr>
-     <th>Usage:</th>
-     <td>Calculate strains and rotations of an array</td>
-   </tr>
-   <tr>
-     <th>Platform:</th>
-     <td>Any platform running MATLAB</td>
-   </tr>
-   <tr>
-     <th>Interface:</th>
-     <td>MATLAB command line</td>
-   </tr>
-   <tr>
-     <th>Input:</th>
-     <td>Seismograms from several stations, via function&rsquo;s calling arguments</td>
-   </tr>
-   <tr>
-     <th>Output:</th>
-     <td>.txt, .mat, and .pdf files</td>
-   </tr>
-   <tr>
-     <th>Examples:</th>
-     <td>Contained in downloadable file</td>
-   </tr>
-   <tr>
-     <th>Download:</th>
-     <td><a href="./strainz17/">See online documentation</a></td>
-   </tr>
- </table>
- <p>Strainz17.m is a MATLAB-language function for deriving the best-fitting uniform strain tensor and rigid body rotation as functions of time, based on ground displacement or velocity recordings made on an array of sensors.  Strainz17.m implements the theory in Spudich et al. (J. Geophys. Res., 1995) and Spudich and Fletcher (Bull. Seismol. Soc. Am., 2008).  In addition to the strainz1717.m function, the downloadable file provides sample input and output data, and it provides functions for running the sample test cases.</p>
-</li>
-
-<li>
- <a name="VISCO1D" id="VISCO1D"></a>
- <h2>VISCO1D</h2>
- <a href="./VISCO1D/VISCO1D-v3.zip"><img class="left" src="VISCO1D/VISCO1D.jpg" width="144" alt="plot" /></a>
- <table cellspacing="1" class="tabular">
-   <tr>
-     <th>Author:</th>
-     <td><a href="mailto:fpollitz@usgs.gov">Fred Pollitz</a></td>
-   </tr>
-   <tr>
-     <th>Usage:</th>
-     <td>Calculate displacements/velocities and strain/strain rates</td>
-   </tr>
-   <tr>
-     <th>Platform:</th>
-     <td>Unix, Fortran source codes</td>
-   </tr>
-   <tr>
-     <th>Interface:</th>
-     <td>Command line</td>
-   </tr>
-   <tr>
-     <th>Input:</th>
-     <td>Viscoelastic model parameters, finite-fault source parameters</td>
-   </tr>
-   <tr>
-     <th>Output:</th>
-     <td>Viscoelastic-relaxation deformation fields at earth&rsquo;s surface or at depth</td>
-   </tr>
-    <tr>
-      <th>Manual:</th>
-      <td><a href="./VISCO1D/manual.pdf">1.3 MB .pdf file</a></td>
-    </tr>
-   <tr>
-     <th>Download:</th>
-     <td><a href="./VISCO1D/VISCO1D-v3.zip">2.1 MB .zip file</a></td>
-   </tr>
- </table>
- <p>VISCO1D-v3 is a program package to calculate quasi-static deformation on a layered spherical Earth from a specified input source (fault plane parameters) at specified points on the surface or at depth.</p>
- <p>It uses a spherical harmonic expansion of the global deformation field and evaluates a sum of viscoelastic normal modes in a semi-analytic computation.</p>
- <p>Version 3 of VISCO1D-v3 is now available (updated on Jan. 29, 2007).</p>
-</li>
+        The zip was done with Zip 1.0 (29 September 1991).
+    </p>
+  </li>
+  <li>
+    <h2 id="SLAMMER">SLAMMER - Seismic Landslide Movement Modeled using Earthquake Records</h2>
+    <a href="http://pubs.usgs.gov/tm/12b1/">
+      <img src="images/SLAMMERicon.jpg" alt="Logo" width="120" height="120"/>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td><a href="mailto:jibson@usgs.gov">Randall W. Jibson</a>, Ellen M. Rathje, Matthew W. Jibson and Yong W. Lee</td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Estimate co-seismic landslide displacement using rigid and flexible sliding-block analyses</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Any O/S that supports Java (version 7 or later)</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Java GUI</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>Available from within the program after download</td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="http://pubs.usgs.gov/tm/12b1/">http://pubs.usgs.gov/tm/12b1/</a></td>
+      </tr>
+    </table>
+    <p>
+      SLAMMER is a Java program that facilitates performing a variety of
+      sliding-block analyses to evaluate seismic slope performance.
+      Functionalities include both rigorous and simplified analyses of rigid
+      sliding blocks (i.e. Newmark analysis) and flexible sliding blocks (i.e.
+      decoupled and fully coupled approaches). Both rigorous and empirical
+      simplified methods are included in the program. More than 2,100 recorded
+      ground motions from the PEER Ground Motion Database are included with
+      the program, and users can import their own ground-motion records for
+      analysis.
+    </p>
+  </li>
+  <li>
+    <h2 id="STATIC1D">STATIC1D</h2>
+    <a href="ftp://hazards.cr.usgs.gov/web/software/STATIC1D.tar.gz">
+      <img src="images/static1d.png" width="144" height="144" alt="icon"/>
+    </a>
+    <table>
+     <tr>
+       <th>Author:</th>
+       <td><a href="mailto:fpollitz@usgs.gov">Fred Pollitz</a></td>
+     </tr>
+     <tr>
+       <th>Usage:</th>
+       <td>Calculate static displacements and gravity change from earthquake faulting on a radially stratified model</td>
+     </tr>
+     <tr>
+       <th>Platform:</th>
+       <td>Unix, Fortran source codes</td>
+     </tr>
+     <tr>
+       <th>Input:</th>
+       <td>Elastic parameters, density, finite fault parameters</td>
+     </tr>
+     <tr>
+       <th>Output:</th>
+       <td>Displacements and gravity anomaly at Earth&rsquo;s surface or specified depth</td>
+     </tr>
+     <tr>
+       <th>Examples:</th>
+       <td>Contained in downloadable file</td>
+     </tr>
+     <tr>
+       <th>Download:</th>
+       <td><a href="ftp://hazards.cr.usgs.gov/web/software/STATIC1D.tar.gz">STATIC1D.tar.gz</a> (3 MB)</td>
+     </tr>
+   </table>
+   <p>
+     These programs solve the equations of static equilibrium in a spherically
+     layered isotropic medium using a decomposition into spheroidal and toroidal
+     motions.  For each spherical harmonic degree l and azimuthal order number
+     m, the (l,m) response function is deternined subject to jumps in the
+     displacement-stress vector at the source radius, a zero-traction boundary
+     condition at Earth&rsquo;s surface, and a homogeneous isotropic elastic
+     solid at the base of the specified Earth model. The programs are flexible,
+     being suitable for calculations of the static displacement field at
+     distances ranging from local to global.
+    </p>
+  </li>
+  <li>
+    <h2 id="strainz17">strainz17: Earthquake strains and rotations</h2>
+    <a href="strainz17/">
+      <img src="images/strainz17.gif" width="144" alt="plot"/>
+    </a>
+    <table>
+      <tr>
+       <th>Author:</th>
+       <td><a href="mailto:spudich@usgs.gov">Paul Spudich</a></td>
+      </tr>
+      <tr>
+       <th>Usage:</th>
+       <td>Calculate strains and rotations of an array</td>
+      </tr>
+      <tr>
+       <th>Platform:</th>
+       <td>Any platform running MATLAB</td>
+      </tr>
+      <tr>
+       <th>Interface:</th>
+       <td>MATLAB command line</td>
+      </tr>
+      <tr>
+       <th>Input:</th>
+       <td>Seismograms from several stations, via function&rsquo;s calling arguments</td>
+      </tr>
+      <tr>
+       <th>Output:</th>
+       <td>.txt, .mat, and .pdf files</td>
+      </tr>
+      <tr>
+       <th>Examples:</th>
+       <td>Contained in downloadable file</td>
+      </tr>
+      <tr>
+       <th>Download:</th>
+       <td><a href="./strainz17/">See online documentation</a></td>
+      </tr>
+    </table>
+    <p>
+      Strainz17.m is a MATLAB-language function for deriving the best-fitting uniform strain tensor and rigid body rotation as functions of time, based on ground displacement or velocity recordings made on an array of sensors.  Strainz17.m implements the theory in Spudich et al. (J. Geophys. Res., 1995) and Spudich and Fletcher (Bull. Seismol. Soc. Am., 2008).  In addition to the strainz1717.m function, the downloadable file provides sample input and output data, and it provides functions for running the sample test cases.
+    </p>
+  </li>
+  <li>
+    <h2 id="VISCO1D">VISCO1D</h2>
+    <a href="visco1d/">
+      <img src="images/visco1d.jpg" width="144" alt="plot"/>
+    </a>
+    <table>
+      <tr>
+       <th>Author:</th>
+       <td><a href="mailto:fpollitz@usgs.gov">Fred Pollitz</a></td>
+      </tr>
+      <tr>
+       <th>Usage:</th>
+       <td>Calculate displacements/velocities and strain/strain rates</td>
+      </tr>
+      <tr>
+       <th>Platform:</th>
+       <td>Unix, Fortran source codes</td>
+      </tr>
+      <tr>
+       <th>Interface:</th>
+       <td>Command line</td>
+      </tr>
+      <tr>
+       <th>Input:</th>
+       <td>Viscoelastic model parameters, finite-fault source parameters</td>
+      </tr>
+      <tr>
+       <th>Output:</th>
+       <td>Viscoelastic-relaxation deformation fields at earth&rsquo;s surface or at depth</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td><a href="./VISCO1D/manual.pdf">1.3 MB .pdf file</a></td>
+      </tr>
+      <tr>
+       <th>Download:</th>
+       <td><a href="./VISCO1D/VISCO1D-v3.zip">2.1 MB .zip file</a></td>
+      </tr>
+    </table>
+    <p>
+      VISCO1D-v3 is a program package to calculate quasi-static deformation on a layered spherical Earth from a specified input source (fault plane parameters) at specified points on the surface or at depth.
+    </p>
+    <p>
+      It uses a spherical harmonic expansion of the global deformation field and evaluates a sum of viscoelastic normal modes in a semi-analytic computation.
+    </p>
+    <p>
+      Version 3 of VISCO1D-v3 is now available (updated on Jan. 29, 2007).
+    </p>
+  </li>
 
 <!-- Commented out until an OSX port is ready (at Luetgert&rsquo;s request)
 <li><a name="UTM" id="UTM"></a>
