@@ -1423,7 +1423,7 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
   <li>
     <h2 id="strainz17">strainz17: Earthquake strains and rotations</h2>
-    <a href="strainz17/">
+    <a href="strainz17.php">
       <img src="images/strainz17.gif" width="144" alt="plot"/>
     </a>
     <table>
@@ -1457,7 +1457,7 @@ also supports negative magnitudes, independent S models, and crustal models from
       </tr>
       <tr>
        <th>Download:</th>
-       <td><a href="./strainz17/">See online documentation</a></td>
+       <td><a href="strainz17.php">See online documentation</a></td>
       </tr>
     </table>
     <p>
@@ -1496,11 +1496,11 @@ also supports negative magnitudes, independent S models, and crustal models from
       </tr>
       <tr>
         <th>Manual:</th>
-        <td><a href="./VISCO1D/manual.pdf">1.3 MB .pdf file</a></td>
+        <td><a href="ftp://hazards.cr.usgs.gov/web/software/VISCO1D-v3-manual.pdf">VISCO1D Manual</a> (1.3 MB PDF), <a href="ftp://hazards.cr.usgs.gov/web/software/VISCO1D-v3-tutorial.pdf">VISCO1D Tutorial</a> (3.4 MB PDF)</td>
       </tr>
       <tr>
        <th>Download:</th>
-       <td><a href="./VISCO1D/VISCO1D-v3.zip">2.1 MB .zip file</a></td>
+       <td><a href="ftp://hazards.cr.usgs.gov/web/software/VISCO1D-v3.zip">VISCO1D Software </a>(1.5 MB ZIP)</td>
       </tr>
     </table>
     <p>
