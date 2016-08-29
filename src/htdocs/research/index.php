@@ -125,9 +125,11 @@ if (!isset($TEMPLATE)) {
       <p>
         <a href="software/">
           <img src="software/images/3DFM.jpg" class="software">
-          Software
         </a>
-        to Download for Research
+        <br style="clear:left;"/>
+        <a href="software/">
+          Software
+        </a> to Download for Research
       </p>
     </div>
 
