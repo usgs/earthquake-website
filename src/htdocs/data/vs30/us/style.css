@@ -1,0 +1,52 @@
+#map {
+	width: 784px;
+	height: 600px;
+}
+
+.scale li {
+	list-style: none;
+	margin: 0 12px 0 0;
+	display: inline-block;
+}
+.scale svg {
+	width: 18px;
+	height: 18px;
+	float: left;
+}
+.scale span {
+	margin-left: 3px;
+	display: block;
+	float: left;
+}
+
+.popup h1 {
+	margin: .75em 0;
+}
+.popup table {
+	line-height: 1.5;
+}
+.popup td, .popup th {
+	border-bottom: 1px solid #EFEFEF;
+	padding: 4px 0;
+}
+.popup tr:last-child th, .popup tr:last-child td {
+	border: 0;
+}
+.popup th {
+	padding-right: 1em;
+	white-space: nowrap;
+	font-weight: 500;
+}
+
+/* override markerclusterer colors b/c they conflict with vs30 colors */
+.marker-cluster-small, .marker-cluster-medium, .marker-cluster-large {
+	background-color: rgba(212, 223, 255, 0.6) !important;
+}
+.marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-large div {
+	background-color: rgba(187, 174, 255, 0.6) !important;
+}
+
+/* not sure why this is necessary to prevent a gap in popup and tip on e.g. Chrome */
+.leaflet-popup-tip-container {
+	margin-top: -1px !important;
+}
