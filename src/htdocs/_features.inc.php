@@ -66,6 +66,16 @@ $EQ_FEATURES->baseUrl = '';
  );
 
  $EQ_FEATURES->items[] = array(
+   'id' => 'news-aug29',
+   'title' => 'Preventing Human-Caused Earthquakes',
+   'content' => 'New research from the USGS and Univ. of Colorado shows actions taken by drillers and regulators can lessen risk in the case of earthquakes likely caused by the injection of industrial wastewater deep underground.',
+   'link' => 'https://www.usgs.gov/news/preventing-human-caused-earthquakes',
+   'modified' => strtotime('2016-08-29'),
+   'thumbnail' => '/images-featured/news-aug29.jpg',
+   'image' => '/images-featured/news-aug29.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => 'sjsoccer',
    'title' => 'San Jose Earthquakes Major League Soccer Team Highlights Top 10
 "Seismic Moments"',
