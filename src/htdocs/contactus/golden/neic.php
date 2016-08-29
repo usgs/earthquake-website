@@ -49,7 +49,7 @@
 
 <h2>About the NEIC</h2>
 
-<figure class="left w322">
+<figure class="left">
   <img src="images/neic.jpg" alt="media room at NEIC"/>
 </figure>
 
