@@ -79,20 +79,6 @@
       </p>
     </div>
 
-
-    <div class="alert" style="margin-bottom:16px">
-      <figure class="right">
-        <img src="images/sf1906-2x.jpg" width="75" alt=""/>
-      </figure>
-    	<h3 id="sigeq">Special Earthquake Collections</h3>
-
-      <ul>
-        <li><a href="/regional/nca/1868/">1868 Hayward Fault, CA Earthquake</a></li>
-        <li><a href="/regional/nca/1906/">1906 San Francisco, CA Earthquake</a></li>
-        <li><a href="/regional/nca/1989/">1989 Loma Prieta, CA Earthquake</a></li>
-      </ul>
-    </div>
-
     <div class="alert" style="margin-bottom:16px">
       <figure class="right">
         <img src="images/publications.jpg" width="75" alt=""/>
