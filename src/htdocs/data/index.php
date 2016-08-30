@@ -57,7 +57,7 @@
       <h3>See Also</h3>
 
     <ul>
-      <li><a href="products.php#sigeq">Special Earthquake Collections</a></li>
+      <li><a href="/earthquakes/events/">Special Earthquake Studies</a></li>
       <li><a href="data.php#other">Other Data Sources</a></li>
       <li><a href="data.php#info">Information and Data Outside of USGS</a></li>
     </ul>
