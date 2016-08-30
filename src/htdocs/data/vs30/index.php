@@ -9,24 +9,26 @@
     }
 ?>
 
-<h2></h2>
-
-<p>
-  Wald et al. (2004) first, and Wald and Allen (BSSA, 2007, in press), more fully, describe a methodology for deriving maps of seismic site conditions using topographic slope as a proxy. Vs30 measurements (the average shear-velocity down to 30 m) are correlated against topographic slope to develop two sets of coefficients for deriving Vs30: one for active tectonic regions that possess dynamic topographic relief, and one for stable continental regions where changes in topography are more subdued. These coefficients have been applied to continental U.S. by Wald and Allen, and in other regions around the world by Allen and Wald (USGS Open File Report, 2007, in review). They also compared topographic slope-based Vs30 maps to existing site condition maps based on geology and observed Vs30 measurements, where they were available, and found favorable results.
-</p>
-<p>
-  Having a first-order assessment of seismic site conditions anywhere in the world provides a valuable tool in the prediction of ground-motions following a global earthquake, the primary motivation for this research. These Vs30 maps will enable us to better quantify possible ground-shaking and rapidly deliver these predictions to emergency managers and responders. However, the Vs30 maps for the Globe will also have practical applications for numerous related probabilistic- and scenario-based studies, hence this Web delivery service allows users to download maps and grids of seismic site conditions for specified regions.
-</p>
-
 <p>
   <strong>The following resources are available for V<sub>s</sub><sup>30</sup> data:</strong>
 </p>
-<ul>
-  <li>
-    <a href="https://github.com/usgs/earthquake-global_vs30">Global Vs30 model</a> based on topographic slope, with custom embedded maps - GitHub (for technical users, GMT required)
-  </li>
-  <li><a href="ftp://hazards.cr.usgs.gov/web/data/???">Global V<sub>s</sub><sup>30</sup> Data</a> (?? MB ZIP)</li>
-  <li>
-    <a href="/research/vs30/">Compilation of V<sub>s</sub><sup>30</sup> Values in the United States</a>
-  </li>
-</ul>
+
+  <h2><a href="https://github.com/usgs/earthquake-global_vs30">Global Vs30 Model</a></h2>
+  <p>
+    Based on topographic slope, with custom embedded maps - GitHub (for technical users, GMT required)
+  </p>
+  <p>
+    V<sub>s</sub><sup>30</sup> measurements (the average shear-velocity down to 30 m) are correlated against topographic slope to develop two sets of coefficients for deriving Vs30: one for active tectonic regions that possess dynamic topographic relief, and one for stable continental regions where changes in topography are more subdued. These coefficients have been applied to continental U.S. by Wald and Allen, and in other regions around the world by Allen and Wald (USGS Open File Report, 2007, in review).
+  </p>
+  <p>
+    <a href="ftp://hazards.cr.usgs.gov/web/data/???">Download Global V<sub>s</sub><sup>30</sup> Data</a> (?? MB ZIP)
+  </p>
+
+  <h2><a href="us/">Compilation of V<sub>s</sub><sup>30</sup> Values in the United States</a></h2>
+
+  <p>
+    Compiled V<sub>s</sub><sup>30</sup> measurements obtained by studies funded by the U.S. Geological Survey (USGS) and other governmental agencies. Thus far, there are 2,997 sites in the United States, along with metadata for each measurement from government-sponsored reports, Web sites, and scientific and engineering journals. Most of the data originated from publications directly reporting the work of field investigators. A small subset (less than 20 percent) of V<sub>s</sub><sup>30</sup> values was previously compiled by the USGS and other research institutions. Whenever possible, V<sub>s</sub><sup>30</sup> originating from these earlier compilations were crosschecked against published reports.
+  </p>
+  <p>
+    Both downhole and surface-based V<sub>s</sub><sup>30</sup> estimates are represented. Most of the VS30 data are for sites in the western contiguous United States (2,141 sites), whereas 786 V<sub>s</sub><sup>30</sup> values are for sites in the Central and Eastern United States; 70 values are for sites in other parts of the United States, including Alaska (15 sites), Hawaii (30 sites), and Puerto Rico (25 sites).
+  </p>
