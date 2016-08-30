@@ -1,14 +1,11 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Mark Goldman
-  // Last modified: Lisa Wald, 2016/08/18
+  // Contact: Lisa Wald,
+  // Last modified:
     if (!isset($TEMPLATE)) {
-      $TITLE = 'Faults, Earthquake Geology, and Special Earthquake Studies';
+      $TITLE = 'Special Earthquake Studies';
       $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-        include 'template.inc.php';
+      include 'template.inc.php';
     }
 ?>
 
