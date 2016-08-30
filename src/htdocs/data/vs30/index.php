@@ -1,7 +1,7 @@
 <?php
   // Author: Lisa Wald
   // Contact: Dave Wald, wald@usgs.gov
-  // Last modified:
+  // Last modified: 08/30/2016, Tiffany Kalin
     if (!isset($TEMPLATE)) {
       $TITLE = 'V<sub>s</sub><sup>30</sup> Data';
       $NAVIGATION = true;
