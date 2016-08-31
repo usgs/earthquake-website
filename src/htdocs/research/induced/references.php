@@ -1,15 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Justin Rubenstein
-  // Last modified: Lisa Wald, 2016/08/22
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Induced Earthquakes';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Justin Rubenstein
+// Last modified: Lisa Wald, 2016/08/22
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Induced Earthquakes';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <h2>USGS Publications</h2>

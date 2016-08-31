@@ -1,15 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Justin Rubenstein
-  // Last modified: Lisa Wald, 2016/08/20
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Induced Earthquakes';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="styles.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Justin Rubenstein
+// Last modified: Lisa Wald, 2016/08/20
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Induced Earthquakes';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <p>The June issue of <a href="http://library.seg.org/journal/tle">The Leading Edge</a> features a special section on Injection-induced seismicity. Four USGS studies were included as part of this issue:</p>

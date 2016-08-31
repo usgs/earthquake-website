@@ -1,13 +1,10 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
+  // Contact: Nick Beeler
   // Last modified: Lisa Wald, 2016/08/10
     if (!isset($TEMPLATE)) {
       $TITLE = 'Rock Physics Labs';
       $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="../index.css"/>
-      ';
         include 'template.inc.php';
     }
 ?>

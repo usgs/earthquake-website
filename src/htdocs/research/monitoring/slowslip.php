@@ -1,12 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Dave Wilson,
-  // Last modified: 2016/08/09, Lisa Wald
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Monitoring Improvments';
-      $NAVIGATION = true;
-      include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Dave Wilson,
+// Last modified: 2016/08/09, Lisa Wald
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Monitoring Improvments';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <figure class='right'>

@@ -1,16 +1,16 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Peter Haeussler,
-  // Last modified: Lisa Wald, 08/08/2016
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'The &quot;Snow Plow Theory&quot;* of Early-Arriving Tsunamis';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="splays.css"/>
-        <link rel="stylesheet" href="../styles.css"/>
-      ';
-      include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Peter Haeussler,
+// Last modified: Lisa Wald, 08/08/2016
+if (!isset($TEMPLATE)) {
+  $TITLE = 'The &quot;Snow Plow Theory&quot;* of Early-Arriving Tsunamis';
+  $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="splays.css"/>
+    <link rel="stylesheet" href="../styles.css"/>
+  ';
+  include 'template.inc.php';
+}
 ?>
 
 <p>* completely contrived term by this author, not a scientific term or theory</p>

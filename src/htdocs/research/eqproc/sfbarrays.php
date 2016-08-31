@@ -1,22 +1,19 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquake Processes and Effects';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-      include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Brad Aagaard and Dave Wald
+// Last modified: Lisa Wald, 2016/08/10
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Earthquake Processes and Effects';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <h2>San Francisco Bay Area Arrays</h2>
 <h4>Portable Seismograph Deployments to Research the Effects of Basins, Topography, and Fault Zones on Seismic Waves</h4>
 
 <figure class='right'>
-	<img src='images/arrays.jpg' alt="" />
+	<img src='images/arrays.jpg' alt=""/>
 	<figcaption>
     Portable arrays of seismometers across the San Ramon, <br /> Pleasanton, and Livermore Valleys.
   </figcaption>

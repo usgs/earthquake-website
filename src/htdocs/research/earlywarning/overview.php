@@ -1,15 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Elizabeth Cochran
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquake Early Warning';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Elizabeth Cochran
+// Last modified: Lisa Wald, 2016/08/10
+  if (!isset($TEMPLATE)) {
+  $TITLE = 'Earthquake Early Warning';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <h2>Overview</h2>

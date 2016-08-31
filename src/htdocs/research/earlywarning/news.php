@@ -1,20 +1,22 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Elizabeth Cochran
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquake Early Warning';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="styles.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Elizabeth Cochran
+// Last modified: Lisa Wald, 2016/08/10
+  if (!isset($TEMPLATE)) {
+    $TITLE = 'Earthquake Early Warning';
+    $NAVIGATION = true;
+    $HEAD = '
+      <link rel="stylesheet" href="styles.css"/>
+    ';
+      include 'template.inc.php';
+  }
 ?>
+
+<h2>News</h2>
 
 <ul class='no-style'>
   <li>
-    <h2>Funding from the Gordon and Betty Moore Foundation</h2>
+    <h3>Funding from the Gordon and Betty Moore Foundation</h3>
     <figure class='left w150'>
       <img src="images/moorefound.JPG" alt="Gordon and Betty Moore Foundation logo"/>
     </figure>
@@ -27,7 +29,7 @@
   <br style="clear:left;"/>
 
   <li>
-    <h2>National Earthquake Conference Presentation</h2>
+    <h3>National Earthquake Conference Presentation</h3>
     <figure class='left w150'>
       <img src="images/dgiven.JPG" alt="Doug given at podium"/>
     </figure>
@@ -40,7 +42,7 @@
   <br style="clear:left;"/>
 
   <li>
-    <h2>SCSN Upgrading Equipment</h2>
+    <h3>SCSN Upgrading Equipment</h3>
     <figure class='left w150'>
       <img src="images/station.JPG" alt="a seismic instrument with solar panel and tower in a field"/>
     </figure>

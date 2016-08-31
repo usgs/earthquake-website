@@ -2,14 +2,14 @@
 // Author: Lisa Wald
 // Contact: Jack Boatwright
 // Last modified: 06/23/2016, Lisa Wald
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-      include 'template.inc.php';
-    }
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012';
+  $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="index.css"/>
+  ';
+  include 'template.inc.php';
+}
 ?>
 
 <figure class='right map'>

@@ -10,7 +10,7 @@
     navItem("${section}/paleo.php", "Paleoseismology") .
     navItem("${section}/geomorphology.php", "Tectonic Geomorphology") .
     navItem("${section}/geodesy.php", "Near-Field Geodesy") .
-    navItem("${section}/response.php", "Earthquake Resonse") .
+    navItem("${section}/response.php", "Earthquake Response") .
     navItem("${section}/salton.php", "Salton Seismic Imaging") .
     navItem("${section}/specialeqs.php", "Special Earthquake Studies") ,
 

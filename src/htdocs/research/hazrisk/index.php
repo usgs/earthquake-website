@@ -1,18 +1,18 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Mark pspell_add_to_personal,
-  // Last modified: 2016/08/08, Lisa Wald
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Hazard and Risk Assessment';
-      $NAVIGATION = true;
-      // Use Earthquake level nav file
-        include_once 'functions.inc.php';
-        ob_start();
-        include '../_navigation.inc.php';
-        $NAVIGATION = ob_get_clean();
+// Author: Lisa Wald
+// Contact: Mark pspell_add_to_personal,
+// Last modified: 2016/08/08, Lisa Wald
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Hazard and Risk Assessment';
+  $NAVIGATION = true;
+  // Use Earthquake level nav file
+  include_once 'functions.inc.php';
+  ob_start();
+  include '../_navigation.inc.php';
+  $NAVIGATION = ob_get_clean();
 
-        include 'template.inc.php';
-    }
+  include 'template.inc.php';
+}
 ?>
 
 <p>

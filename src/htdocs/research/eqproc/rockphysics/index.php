@@ -1,21 +1,21 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquake Processes and Effects';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="../index.css"/>
-      ';
-      // Use Earthquake level nav file
-        include_once 'functions.inc.php';
-        ob_start();
-        include '../_navigation.inc.php';
-        $NAVIGATION = ob_get_clean();
+// Author: Lisa Wald
+// Contact: Nick Beeler
+// Last modified: Lisa Wald, 2016/08/10
+  if (!isset($TEMPLATE)) {
+    $TITLE = 'Earthquake Processes and Effects';
+    $NAVIGATION = true;
+    $HEAD = '
+      <link rel="stylesheet" href="../index.css"/>
+    ';
+    // Use Earthquake level nav file
+    include_once 'functions.inc.php';
+    ob_start();
+    include '../_navigation.inc.php';
+    $NAVIGATION = ob_get_clean();
 
-        include 'template.inc.php';
-    }
+    include 'template.inc.php';
+  }
 ?>
 
 <h2>Rock Physics Labs</h2>

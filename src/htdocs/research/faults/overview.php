@@ -1,15 +1,15 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Faults, Earthquake Geology, and Special Earthquake Studies';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="styles.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Kate Scharer
+// Last modified: Lisa Wald, 2016/08/10
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Faults, Earthquake Geology, and Special Earthquake Studies';
+  $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="styles.css"/>
+  ';
+    include 'template.inc.php';
+}
 ?>
 
 <figure class='right'>
