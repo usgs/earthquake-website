@@ -1,13 +1,10 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
+  // Contact: Nick Beeler
   // Last modified: Lisa Wald, 2016/08/10
   if (!isset($TEMPLATE)) {
     $TITLE = 'Rock Physics Labs - Current Projects';
     $NAVIGATION = true;
-    $HEAD = '
-      <link rel="stylesheet" href="../index.css"/>
-    ';
   // Use Earthquake level nav file
     include_once 'functions.inc.php';
     ob_start();
