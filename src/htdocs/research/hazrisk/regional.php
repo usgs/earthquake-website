@@ -1,12 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Mark pspell_add_to_personal,
-  // Last modified: 2016/08/08, Lisa Wald
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Hazard and Risk Assessment';
-      $NAVIGATION = true;
-      include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Mark pspell_add_to_personal,
+// Last modified: 2016/08/08, Lisa Wald
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Hazard and Risk Assessment';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <h2>Regional and Urban Hazards</h2>
