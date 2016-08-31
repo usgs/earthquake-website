@@ -1,12 +1,14 @@
 <?php
-// Author: Lisa Wald
-// Contact: Tom Brocher, brocher@usgs.gov
-// Last modified: 11/25/2015
-$TITLE = 'M6 South Napa, California Earthquake &ndash; August 24, 2014';
-$STYLESHEETS = "/research/style.css";
-
-include_once $_SERVER['DOCUMENT_ROOT'] . '/template/template.inc.php';
+      //	Author:	Tiffany Kalin
+      //	Contact:	Tom Brocher, brocher@usgs.gov
+      //	Last	modified:	08/31/2016
+      if	(!isset($TEMPLATE))	{
+      $TITLE	=	''M6 South Napa, California Earthquake &ndash; August 24, 2014'';
+      $NAVIGATION	= true;
+      include	'template.inc.php';
+      }
 ?>
+
 <h2><i>What We Know After One Year</i></h2>
 
 <div class='align-right six'>
