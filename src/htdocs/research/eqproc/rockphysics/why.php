@@ -1,15 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Rock Physics Labs';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="../index.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Jeanne Hardebeck,
+// Last modified: Lisa Wald, 2016/08/10
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Rock Physics Labs';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <h2>Why study the friction of rock? - A Primer on Laboratory Friction Studies</h2>

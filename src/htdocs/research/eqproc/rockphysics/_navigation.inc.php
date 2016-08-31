@@ -9,7 +9,7 @@
     navItem("${section}/history.php", "History") .
     navItem("${section}/machines.php", "Test Apparatus") .
     navItem("${section}/current.php", "Current Projects") .
-    navItem("${section}/pubs.php/", "Publications") ,
+    navItem("${section}/pubs.php", "Publications") ,
 
   "</section>"
   ;

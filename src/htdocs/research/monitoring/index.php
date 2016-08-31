@@ -1,18 +1,18 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Dave Wilson,
-  // Last modified: 2016/08/09, Lisa Wald
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Monitoring Improvments';
-      $NAVIGATION = true;
-      // Use Earthquake level nav file
-        include_once 'functions.inc.php';
-        ob_start();
-        include '../_navigation.inc.php';
-        $NAVIGATION = ob_get_clean();
+// Author: Lisa Wald
+// Contact: Dave Wilson,
+// Last modified: 2016/08/09, Lisa Wald
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Monitoring Improvments';
+  $NAVIGATION = true;
+  // Use Earthquake level nav file
+  include_once 'functions.inc.php';
+  ob_start();
+  include '../_navigation.inc.php';
+  $NAVIGATION = ob_get_clean();
 
-        include 'template.inc.php';
-    }
+  include 'template.inc.php';
+}
 ?>
 
 <p>

@@ -1,22 +1,22 @@
 <?php
-	// Webpage contact - Lisa Wald
-	// Content contact/SME - Peter Haeussler
-	// Created June 2015
-	// Last updated 06/23/2015
-
-	$TITLE = "The &quot;Snow Plow Theory&quot;* of Early-Arriving Tsunamis";
-
-	$STYLESHEETS = "/research/style.css"; 
-	// $SCRIPTS = "/js/ibox.js";
-	
-	include_once $_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php";
+// Author: Lisa Wald
+// Contact: Peter Haeussler,
+// Last modified: Lisa Wald, 07/13/2016
+if (!isset($TEMPLATE)) {
+  $TITLE = 'The &quot;Snow Plow Theory&quot;* of Early-Arriving Tsunamis';
+  $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="../styles.css"/>
+  ';
+  include 'template.inc.php';
+}
 ?>
 
 <p>* completely contrived term by this author, not a scientific term or theory</p>
 
 <h2>Additional Resources</h2>
 
-<ul class="references">
+<ul class="referencelist">
   <li>
   <a href="http://earthquake.usgs.gov/earthquakes/events/alaska1964/">
   The Great Alaska Earthquake and Tsunami of March 27, 1964</a>

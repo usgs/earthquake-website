@@ -1,12 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jill Franks, jfranks@usgs.gov
-  // Last modified: Lisa Wald, 2016/08/22
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'External Grants';
-      $NAVIGATION = true;
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Jill Franks, jfranks@usgs.gov
+// Last modified: Lisa Wald, 2016/08/22
+if (!isset($TEMPLATE)) {
+  $TITLE = 'External Grants';
+  $NAVIGATION = true;
+    include 'template.inc.php';
+}
 ?>
 
 <h2>Contacts</h2>

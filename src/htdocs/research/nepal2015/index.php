@@ -1,15 +1,15 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Sue Hough, hough@usgs.gov
-  // Last modified: 07/12/2016, Lisa Wald
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'The M7.8 Nepal Earthquake, 2015 &ndash; A Small Push to Mt. Everest';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-      include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Sue Hough, hough@usgs.gov
+// Last modified: 07/12/2016, Lisa Wald
+if (!isset($TEMPLATE)) {
+  $TITLE = 'The M7.8 Nepal Earthquake, 2015 &ndash; A Small Push to Mt. Everest';
+  $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="index.css"/>
+  ';
+  include 'template.inc.php';
+}
 ?>
 
 <figure class="right bricks">
