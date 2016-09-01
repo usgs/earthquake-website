@@ -9,15 +9,16 @@
       }
 ?>
 
-<h2><i>What We Know After One Year</i></h2>
+<h2>What We Know After One Year</h2>
 
-<div class='align-right six'>
-	<a href="images/tectonic-setting-lg.jpg">
-	<img src="images/tectonic-setting-sm.jpg" alt="regional map"/></a>
-	<p class="figcaption">
-		Mapped faults and seismicity (magnitude 3+, 1947-2007) prior to the August 24, 2014 South Napa earthquake. The 2000 M4.9 earthquake near Yountville is shown as a white star, and the South Napa earthquake is shown as a yellow star. <strong>Click image for larger version.</strong>
-	</p>
-</div>
+<figure class="right">
+  <a href="images/tectonic-setting-lg.jpg">
+  <img src="images/tectonic-setting-sm.jpg" alt="regional map"/></a>
+  <figcaption>
+  		Mapped faults and seismicity (magnitude 3+, 1947-2007) prior to the August 24, 2014 South Napa earthquake. The 2000 M4.9 earthquake near Yountville is shown as a white star, and the South Napa earthquake is shown as a yellow star. <strong>Click image for larger version.</strong>
+  </figcaption>
+</figure>
+
 <p>
   In the wee hours of Sunday morning at 3:20am, the residents and wineries of Napa Valley were shaken by a magnitude 6.0 earthquake, the largest in the San Francisco Bay Area in over 25 years, and the first since the <a href-"/regional/nca/1906/">M7.9 1906 earthquake</a> to rupture on the surface. Residents in this area feel small earthquakes often, and they generally pause for a moment and then go back to whatever they were doing. But this was no small earthquake, and as the small representative sample of <a href="https://jawbone.com/blog/napa-earthquake-effect-on-sleep/">Jawbone&copy; data</a> shows, many residents had trouble going back to sleep after this one.
 </p>
@@ -26,13 +27,13 @@
 </p>
 
 <h2>Tectonic Setting</h2>
-<div class='align-left four'>
-	<a href="images/Napa-seis-lg.jpg">
-	<img src="images/Napa-seis-sm.gif" alt="Napa seismicity 1973-2015" width=300/></a>
-	<p class="figcaption">
-		Seismicity in the Napa area 1973-2015, all magnitudes.<strong>Click image for larger version.</strong>
-	</p>
-</div>
+<figure class="left">
+  <a href="images/Napa-seis-lg.jpg">
+  <img src="images/Napa-seis-sm.gif" alt="Napa seismicity 1973-2015" width=300/></a>
+  <figcaption>
+    Seismicity in the Napa area 1973-2015, all magnitudes.<strong>Click image for larger version.</strong>
+  </figcaption>
+</figure>
 
 <p>
   First, to put the South Napa earthquake in context, the West Napa fault, which was the causative fault, is part of the large San Andreas Fault Zone (SAFZ) system. The West Napa fault extends along the western margin of the basin that underlies much of Napa Valley. The relative motion on this fault is not well known but thought to be about 1 mm/yr (0.04 in/yr). The SAFZ is not a simple, single fault, but rather a complex collection of smaller fault segments that collectively accommodate the horizontal movement between the North American Plate and the Pacific Plate.
@@ -43,13 +44,14 @@
 
 <h2 style="clear:left;">Immediate Impact</h2>
 
-<div class='align-left four'>
-	<a href="images/dyfi-geocode-lg.jpg">
-	<img src="images/dyfi-geocode-sm.gif" alt="DYFI map" width=300/></a>
-	<p class="figcaption">
-		The Did You Feel It? map with 41,356 responses as of this writing. <strong>Click image for larger version.</strong>
-	</p>
-</div>
+<figure class="left">
+  <a href="images/dyfi-geocode-lg.jpg">
+  <img src="images/dyfi-geocode-sm.gif" alt="DYFI map" width=300/></a>
+  <figcaption>
+    The Did You Feel It? map with 41,356 responses as of this writing. <strong>Click image for larger version.</strong>
+  </figcaption>
+</figure>
+
 <p>
   Many California residents have the <a href="/earthquakes/dyfi/">Did You Feel It? (DYFI) webpage</a> bookmarked, so as soon as the shaking stopped, they started reporting their experience of the shaking on DYFI.  Within 1 hour after the earthquake, over 25,000 citizen scientists entered their data on the website, creating a <a href="/earthquakes/eventpage/nc72282711#impact_dyfi">map of the distribution of shaking that they felt</a>.  The highest intensities were <a href="/learn/topics/mercalli.php">MMI VII-VIII</a> in the city of Napa and extending a littler farther north.  A shaking intensity of VII-VIII is described as strong to severe, and very likely woke up all but the most heavy of sleepers. Ultimately 41,000+ citizens shared their experiences, with the farthest felt report 300 km (186 mi) to the east in Reno, NV. The <a href="/earthquakes/eventpage/nc72282711#impact_shakemap">computed instrumental intensities</a> agreed well with those reported by residents.
 </p>
@@ -59,10 +61,12 @@
 <p>
   Some residents noticed a difference in the amount of water being discharged from natural springs. The change occurred within 1 hour after earthquake, but the discharge amount returned to normal within a few days. This is not an unusual phenomenon in areas with natural springs and geothermal features. The shaking causes the shifting of below-surface features that may temporarily (and sometimes permanently) change the flow from a spring or even stop the flow. When the pressure adjusts and equilibrates with the water table, the flow will often return. For further details, see <a href="/learn/topics/groundwater.php">Groundwater Effects from Earthquakes</a>.
 </p>
-<div class='align-right four'>
-	<img src="images/aftershocks.gif" alt="aftershocks"/>
-	<p class="figcaption">Aftershocks during the first week after the mainshock. Symbol size represents earthquake magnitude, and fill color represents depth. The crosses and letters indicated cross-sections not shown in this image.</p>
-</div>
+
+<figure>
+  <img src="images/aftershocks.gif" alt="aftershocks"/>
+  <figcaption>Aftershocks during the first week after the mainshock. Symbol size represents earthquake magnitude, and fill color represents depth. The crosses and letters indicated cross-sections not shown in this image.</figcaption>
+</figure>
+
 <p>
   In the month after the mainshock, there were 80 aftershocks of magnitude greater than or equal to 1.8. The three largest were a M3.9 on August 26, a M3.2 a week after the mainshock on August 31, and then a M4.1 10 months later on May 22, 2015. The number of aftershocks was less than usual for an earthquake of this size, 80 during the first month following the mainshock, compared to 320 following the M6.0 in Parkfield in 2006.
 </p>
@@ -75,27 +79,27 @@
   Shallow slipping across the fault, known as afterslip, continued after the mainshock and lasted for several months.  Afterslip is a slow movement on the fault, and it is yet unclear whether it is associated with, or independent of, the aftershocks. An additional 14+ cm (5.5+ in) of slip was measured during the first 24 hours, and up to 20 cm (8 in) after 48 hours, mainly on southern half of the main fault strand.  Afterslip causes additional damage to manmade structures, such as roads, but does not release seismic waves and cause shaking.
 </p>
 
-<div class='align-left six'>
-	<img src="images/surface-fault.jpg" alt="surface fault"/>
-	<p class="figcaption">The South Napa earthquake caused this ground surface rupture running through a viineyard near Buhman Road, Napa Valley, California.</p>
-</div>
+<figure class="left">
+  <img src="images/surface-fault.jpg" alt="surface fault"/>
+  <figcaption>The South Napa earthquake caused this ground surface rupture running through a viineyard near Buhman Road, Napa Valley, California.</figcaption>
+</figure>
 
-<div class='align-left four'>
-	<a href="images/Fig13.pdf"><img src="images/mapped-fault-sm-Fig13.jpg" alt="mapped fault segments" height="336"/></a>
-	<p class="figcaption">Locations of the traces of tectonic surface faulting produced by the South Napa earthquake overlain on an aerial photograph.  The six traces are labeled A-F.  The red star is the location of the mainshock. <strong>Click image for larger version.</strong></p>
-</div>
+<figure class="left">
+  <a href="images/Fig13.pdf"><img src="images/mapped-fault-sm-Fig13.jpg" alt="mapped fault segments" height="336"/></a>
+  <figcaption>Locations of the traces of tectonic surface faulting produced by the South Napa earthquake overlain on an aerial photograph.  The six traces are labeled A-F.  The red star is the location of the mainshock. <strong>Click image for larger version.</strong></figcaption>
+</figure>
 
-<div class='align-left four'>
-	<a href="images/Fig1.pdf"><img src="images/redtags-Fig1-sm.gif" alt="map with symbols for structure that were red-tagged" width="304"/></a>
-	<p class="figcaption">Napa Valley area red- and yellow-tagged structures shown as red and yellow squares.  Also shown are locations of the mainshock (red dot), aftershocks (other dots), surface ruptures (red lines), locations of permanent (unfilled triangles) and temporary (filled triangles) seismic stations. <strong>Click image for larger version.</strong></p>
-</div>
+<figure class="left">
+  <a href="images/Fig1.pdf"><img src="images/redtags-Fig1-sm.gif" alt="map with symbols for structure that were red-tagged" width="304"/></a>
+  <figcaption>Napa Valley area red- and yellow-tagged structures shown as red and yellow squares.  Also shown are locations of the mainshock (red dot), aftershocks (other dots), surface ruptures (red lines), locations of permanent (unfilled triangles) and temporary (filled triangles) seismic stations. <strong>Click image for larger version.</strong></figcaption>
+</figure>
 
-<div class='align-left six'>
-	<img src="images/afterslip.jpg" alt="offset asphalt" width="464"/>
-	<p class="figcaption">These two photos showing evidence of afterslip were taken where the fault crosses Highway 12 (south side of the highway) at Cuttings Wharf Road.  The first offset measurement was taken the day of the earthquake - about 6 cm (2 in) of right-lateral offset.  The following day (almost 24 hrs later), the same feature had 11 cm (4 in) of offset. These measurements are probably minimums for the zone since the deformation was probably distributed over an area of several meters wide. (Photos courtesy of Tim Dawson, California Geological Survey)</p>
-</div>
+<figure class="left">
+  <img src="images/afterslip.jpg" alt="offset asphalt" width="464"/>
+  <figcaption>These two photos showing evidence of afterslip were taken where the fault crosses Highway 12 (south side of the highway) at Cuttings Wharf Road.  The first offset measurement was taken the day of the earthquake - about 6 cm (2 in) of right-lateral offset.  The following day (almost 24 hrs later), the same feature had 11 cm (4 in) of offset. These measurements are probably minimums for the zone since the deformation was probably distributed over an area of several meters wide. (Photos courtesy of Tim Dawson, California Geological Survey)</figcaption>
+</figure>
 
-<p style="clear:left;">
+<p>
   Inspection of the buildings after the earthquake yielded 100+ red-tagged structures, meaning immediate rehabitation is too dangerous.  Engineers and scientists determined that the worst-damaged buildings resulted from a combination of:
 <ul>
   <li>the rupture direction along the fault - to the north and updip towards Napa. (see <a href="/learn/glossary/?term=directivity">directivity</a>)</li>
@@ -105,27 +109,28 @@
 </ul>
 </p>
 
-<p class="sm">-written by Lisa Wald, U.S. Geological Survey</p>
+<p>-written by Lisa Wald, U.S. Geological Survey</p>
 
-<div class='five column'>
-	<h2 style="clear:left";>Concluding Thoughts</h2>
-	<p>
-	  This earthquake was unusual for its size, because it had a relatively long surface rupture of 12.5 km (8 mi) with a significant amount of surface slip (up to 46 cm; or 18 in). It also had a large amount of afterslip, and fewer aftershocks than average for an earthquake of its size. However, knowledge gained provides new insights into the influence of the sedimentary basin under the Napa area, which can be used in future hazard maps to more accurately forecast earthquake hazards in the area.
-	</p>
+<div class="row">
+  <div class="column one-of-two">
+    <h2>Concluding Thoughts</h2>
+  	<p>
+  	  This earthquake was unusual for its size, because it had a relatively long surface rupture of 12.5 km (8 mi) with a significant amount of surface slip (up to 46 cm; or 18 in). It also had a large amount of afterslip, and fewer aftershocks than average for an earthquake of its size. However, knowledge gained provides new insights into the influence of the sedimentary basin under the Napa area, which can be used in future hazard maps to more accurately forecast earthquake hazards in the area.
+  	</p>
+  </div>
+  <div class="column one-of-two">
+    <h2>Additional Resources</h2>
+  	<ul>
+  	  <li><a href="http://www.usgs.gov/blogs/features/usgs_top_story/south-napa-earthquake-one-year-later/">USGS News Release</a> - South Napa Earthquake - One Year Later</li>
+  	  <li><a href= "/earthquakes/eventpage/nc72282711">Event page</a></li>
+  	  <li><a href="/earthquakes/eqarchives/poster/2014/20140824.php">Summary poster</a></li>
+  	  <li><a href="http://www.fema.gov/media-library-data/1439242021425-3b4c44f900c8893449327f0e764ef849/FEMAP-1024RA2.pdf">Earthquake Strengthening of Cripple Walls in Wood-Frame Dwellings</a> - FEMA</li>
+  	  <li><a href="http://www.earthquakecountry.info/roots/step4.html">Putting  Down Roots in Earthquake Country</a> – retrofitting cripple wall</li>
+  	</ul>
+  </div>
 </div>
 
-<div class='five column'>
-	<h2>Additional Resources</h2>
-	<ul>
-	  <li><a href="http://www.usgs.gov/blogs/features/usgs_top_story/south-napa-earthquake-one-year-later/">USGS News Release</a> - South Napa Earthquake - One Year Later</li>
-	  <li><a href= ""/earthquakes/eventpage/nc72282711">Event page</a></li>
-	  <li><a href="/earthquakes/eqarchives/poster/2014/20140824.php">Summary poster</a></li>
-	  <li><a href="http://www.fema.gov/media-library-data/1439242021425-3b4c44f900c8893449327f0e764ef849/FEMAP-1024RA2.pdf">Earthquake Strengthening of Cripple Walls in Wood-Frame Dwellings</a> - FEMA</li>
-	  <li><a href="http://www.earthquakecountry.info/roots/step4.html">Putting  Down Roots in Earthquake Country</a> – retrofitting cripple wall</li>
-	</ul>
-</div>
-
-<h2 class="clear" style="margin-top: 1em; padding-top: 1em; border-top: 1px dotted #ccc">Scientific Staff</h2>
+<h2>Scientific Staff</h2>
 <ul>
 	<li>Earthquake Science Center, Menlo Park, California</li>
 	<li>Geologic Hazards Science Center, Golden, Colorado.</li>
