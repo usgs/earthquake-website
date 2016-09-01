@@ -3,7 +3,10 @@
       //	Contact:	Tom Brocher, brocher@usgs.gov
       //	Last	modified:	08/31/2016
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	''M6 South Napa, California Earthquake &ndash; August 24, 2014'';
+      $TITLE	=	'M6 South Napa, California Earthquake &ndash; August 24, 2014';
+      $HEAD = '
+        <link rel="stylesheet" href="/earthquakes/events/2014napa/styles.css"/>
+      ';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
@@ -11,7 +14,7 @@
 
 <h2>What We Know After One Year</h2>
 
-<figure class="right">
+<figure class="right w450">
   <a href="images/tectonic-setting-lg.jpg">
   <img src="images/tectonic-setting-sm.jpg" alt="regional map"/></a>
   <figcaption>
@@ -27,7 +30,7 @@
 </p>
 
 <h2>Tectonic Setting</h2>
-<figure class="left">
+<figure class="left w300">
   <a href="images/Napa-seis-lg.jpg">
   <img src="images/Napa-seis-sm.gif" alt="Napa seismicity 1973-2015" width=300/></a>
   <figcaption>
@@ -44,7 +47,7 @@
 
 <h2 style="clear:left;">Immediate Impact</h2>
 
-<figure class="left">
+<figure class="left w300">
   <a href="images/dyfi-geocode-lg.jpg">
   <img src="images/dyfi-geocode-sm.gif" alt="DYFI map" width=300/></a>
   <figcaption>
@@ -62,7 +65,7 @@
   Some residents noticed a difference in the amount of water being discharged from natural springs. The change occurred within 1 hour after earthquake, but the discharge amount returned to normal within a few days. This is not an unusual phenomenon in areas with natural springs and geothermal features. The shaking causes the shifting of below-surface features that may temporarily (and sometimes permanently) change the flow from a spring or even stop the flow. When the pressure adjusts and equilibrates with the water table, the flow will often return. For further details, see <a href="/learn/topics/groundwater.php">Groundwater Effects from Earthquakes</a>.
 </p>
 
-<figure>
+<figure class="right w275">
   <img src="images/aftershocks.gif" alt="aftershocks"/>
   <figcaption>Aftershocks during the first week after the mainshock. Symbol size represents earthquake magnitude, and fill color represents depth. The crosses and letters indicated cross-sections not shown in this image.</figcaption>
 </figure>
@@ -79,25 +82,33 @@
   Shallow slipping across the fault, known as afterslip, continued after the mainshock and lasted for several months.  Afterslip is a slow movement on the fault, and it is yet unclear whether it is associated with, or independent of, the aftershocks. An additional 14+ cm (5.5+ in) of slip was measured during the first 24 hours, and up to 20 cm (8 in) after 48 hours, mainly on southern half of the main fault strand.  Afterslip causes additional damage to manmade structures, such as roads, but does not release seismic waves and cause shaking.
 </p>
 
-<figure class="left">
-  <img src="images/surface-fault.jpg" alt="surface fault"/>
-  <figcaption>The South Napa earthquake caused this ground surface rupture running through a viineyard near Buhman Road, Napa Valley, California.</figcaption>
-</figure>
+<div class="row">
+  <div class="column one-of-one">
+    <figure class="left w450">
+      <img src="images/surface-fault.jpg" alt="surface fault"/>
+      <figcaption>The South Napa earthquake caused this ground surface rupture running through a viineyard near Buhman Road, Napa Valley, California.</figcaption>
+    </figure>
 
-<figure class="left">
-  <a href="images/Fig13.pdf"><img src="images/mapped-fault-sm-Fig13.jpg" alt="mapped fault segments" height="336"/></a>
-  <figcaption>Locations of the traces of tectonic surface faulting produced by the South Napa earthquake overlain on an aerial photograph.  The six traces are labeled A-F.  The red star is the location of the mainshock. <strong>Click image for larger version.</strong></figcaption>
-</figure>
+    <figure class="left w224">
+      <a href="images/Fig13.pdf"><img src="images/mapped-fault-sm-Fig13.jpg" alt="mapped fault segments" height="336"/></a>
+      <figcaption>Locations of the traces of tectonic surface faulting produced by the South Napa earthquake overlain on an aerial photograph.  The six traces are labeled A-F.  The red star is the location of the mainshock. <strong>Click image for larger version.</strong></figcaption>
+    </figure>
+  </div>
+</div>
 
-<figure class="left">
-  <a href="images/Fig1.pdf"><img src="images/redtags-Fig1-sm.gif" alt="map with symbols for structure that were red-tagged" width="304"/></a>
-  <figcaption>Napa Valley area red- and yellow-tagged structures shown as red and yellow squares.  Also shown are locations of the mainshock (red dot), aftershocks (other dots), surface ruptures (red lines), locations of permanent (unfilled triangles) and temporary (filled triangles) seismic stations. <strong>Click image for larger version.</strong></figcaption>
-</figure>
+<div class="row">
+  <div class="column one-of-one">
+    <figure class="left w304">
+      <a href="images/Fig1.pdf"><img src="images/redtags-Fig1-sm.gif" alt="map with symbols for structure that were red-tagged" width="304"/></a>
+      <figcaption>Napa Valley area red- and yellow-tagged structures shown as red and yellow squares.  Also shown are locations of the mainshock (red dot), aftershocks (other dots), surface ruptures (red lines), locations of permanent (unfilled triangles) and temporary (filled triangles) seismic stations. <strong>Click image for larger version.</strong></figcaption>
+    </figure>
 
-<figure class="left">
-  <img src="images/afterslip.jpg" alt="offset asphalt" width="464"/>
-  <figcaption>These two photos showing evidence of afterslip were taken where the fault crosses Highway 12 (south side of the highway) at Cuttings Wharf Road.  The first offset measurement was taken the day of the earthquake - about 6 cm (2 in) of right-lateral offset.  The following day (almost 24 hrs later), the same feature had 11 cm (4 in) of offset. These measurements are probably minimums for the zone since the deformation was probably distributed over an area of several meters wide. (Photos courtesy of Tim Dawson, California Geological Survey)</figcaption>
-</figure>
+    <figure class="left w464">
+      <img src="images/afterslip.jpg" alt="offset asphalt" width="464"/>
+      <figcaption>These two photos showing evidence of afterslip were taken where the fault crosses Highway 12 (south side of the highway) at Cuttings Wharf Road.  The first offset measurement was taken the day of the earthquake - about 6 cm (2 in) of right-lateral offset.  The following day (almost 24 hrs later), the same feature had 11 cm (4 in) of offset. These measurements are probably minimums for the zone since the deformation was probably distributed over an area of several meters wide. (Photos courtesy of Tim Dawson, California Geological Survey)</figcaption>
+    </figure>
+  </div>
+</div>
 
 <p>
   Inspection of the buildings after the earthquake yielded 100+ red-tagged structures, meaning immediate rehabitation is too dangerous.  Engineers and scientists determined that the worst-damaged buildings resulted from a combination of:
@@ -125,7 +136,7 @@
   	  <li><a href= "/earthquakes/eventpage/nc72282711">Event page</a></li>
   	  <li><a href="/earthquakes/eqarchives/poster/2014/20140824.php">Summary poster</a></li>
   	  <li><a href="http://www.fema.gov/media-library-data/1439242021425-3b4c44f900c8893449327f0e764ef849/FEMAP-1024RA2.pdf">Earthquake Strengthening of Cripple Walls in Wood-Frame Dwellings</a> - FEMA</li>
-  	  <li><a href="http://www.earthquakecountry.info/roots/step4.html">Putting  Down Roots in Earthquake Country</a> – retrofitting cripple wall</li>
+  	  <li><a href="http://www.earthquakecountry.info/roots/step4.html">Putting Down Roots in Earthquake Country</a> – retrofitting cripple wall</li>
   	</ul>
   </div>
 </div>
