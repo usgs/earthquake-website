@@ -132,7 +132,7 @@ if (!isset($TEMPLATE)) {
       <li>
         <a href="/earthquakes/events/">
           <h4>Special Earthquake Studies</h4>
-          <img src="images/specialeq150.gif" class='feeds-list-image'
+          <img src="images/Loma-Prieta-sm.jpg" class='feeds-list-image'
               alt="icon"  width="75"/>
         </a>
         <p>

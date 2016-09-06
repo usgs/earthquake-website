@@ -37,18 +37,3 @@ if (!isset($TEMPLATE)) {
   	<li>Moment Tensors (RMT/MT/CMT) - Automated computation of source duration and source-time function for all M6+ earthquakes.</li>
   </ul>
 </p>
-
-<h2>Scientific Staff</h2>
-<ul>
-	<li>Harley Benz</li>
-	<li>George Choy</li>
-	<li>Elizabeth Cochran</li>
-	<li>Paul Earle</li>
-	<li>Jeremy Fee</li>
-	<li>Doug Given</li>
-	<li>Michelle Guy</li>
-	<li>Gavin Hayes</li>
-	<li><a href="https://profile.usgs.gov/hudnut">Ken Hudnut</a></li>
-	<li>John Patton</li>
-	<li><a href="https://profile.usgs.gov/wald">David Wald</a></li>
-</ul>

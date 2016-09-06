@@ -66,11 +66,3 @@ Seismic Waves: San Francisco Bay Area Portable Seismograph Deployments</a>
 </figure>
 
 <a href="volunteer.php">Volunteer Monitoring - Walnut Creek/Pleasant Hill/Concord, CA, Area Seismograph Array</a>
-
-<br style="clear:left;"/>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li>Stephen Hartzell</li>
-	<li>Alena Leeds</li>
-</ul>

@@ -253,9 +253,3 @@ if (!isset($TEMPLATE)) {
 	<li><a href="http://www.livescience.com/37617-building-demolition-hayward-fault-study.html">LiveScience: Building Explosion Will Shed Light on Nearby Earthquake Fault</a></li>
 	<li><a href="http://storify.com/stanfordbabs/opportunity-to-study-hayward-fault-comes-with-cal">Barbara Wilcox&rsquo;s Storify feed</a></li>
 </ul>
-
-<h2>Scientific Staff</h2>
-<ul>
-	<li>Rufus Catchings</li>
-	<li>Mark Goldman</li>
-</ul>

@@ -49,25 +49,3 @@ if (!isset($TEMPLATE)) {
 
 <h3>See also:</h3>
 <p><a href="/monitoring/deformation/">Crustal Deformation Monitoring</a></p>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li>Aris Aspiotes</li>
-	<li>Dan Determan</li>
-	<li>Christian Guillemot</li>
-	<li><a href="https://profile.usgs.gov/hudnut">Ken Hudnut</a></li>
-	<li>Nancy King</li>
-	<li>John Langbein</li>
-	<li><a href="https://profile.usgs.gov/jrmurray">Jessica Murray</a></li>
-	<li>Eleyne Phillips</li>
-	<li><a href="https://profile.usgs.gov/fpollitz">Fred Pollitz</a></li>
-	<li>Evelyn Roeloffs</li>
-	<li>James Savage</li>
-	<li>Deborah Smith</li>
-	<li>Andy Snyder</li>
-	<li>Jim Sutton</li>
-	<li>Jerry Svarc</li>
-	<li>Wayne Thatcher</li>
-	<li>Yuehua Zeng</li>
-	<li>Chuck Wicks</li>
-</ul>

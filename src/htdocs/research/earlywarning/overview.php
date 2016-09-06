@@ -57,9 +57,3 @@
 	</li>
 </ul>
 </div>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li>
-    <a href="mailto:ecochran@usgs.gov">Elizabeth Cochran</a>, Research Geophysicist
-  </li>

@@ -57,13 +57,3 @@
   <li><a href="current.php">Current Projects</a></li>
   <li><a href="pubs.php">Publications by Topic</a></li>
 </ul>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li>Nick Beeler</li>
-	<li>Lee-Gray Boze</li>
-	<li>Brian Kilgore</li>
-	<li>David Lockner</li>
-	<li>Diane Moore</li>
-	<li>Carolyn Morrow</li>
-</ul>
