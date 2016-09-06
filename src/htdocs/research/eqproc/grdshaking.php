@@ -34,22 +34,3 @@ if (!isset($TEMPLATE)) {
 	<li>investigation of the effect on seismic waves of traveling long distances through the earth’s crust, sedimentary basins, mountains, and other crustal features.</li>
 	<li>development of better imaging methods for identifying faults and crustal structure.</li>
 </ul>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li><a href="https://profile.usgs.gov/baagaard">Brad Aagaard</a></li>
-	<li>Jack Boatwright</li>
-	<li>Dave Boore</li>
-	<li>Rufus Catchings</li>
-	<li>Mehmet Celebi</li>
-	<li>John Evans</li>
-	<li>Tom Hanks</li>
-	<li>Ruth Harris</li>
-	<li>Steve Hartzell</li>
-	<li>Sue Hough</li>
-	<li>Erol Kalkan</li>
-	<li>Alena Leeds</li>
-	<li>Morgan Moschetti</li>
-	<li>Jack Odum</li>
-	<li>Bill Stephenson</li>
-</ul>
