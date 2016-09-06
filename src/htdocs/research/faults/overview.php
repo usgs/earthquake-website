@@ -119,20 +119,3 @@ if (!isset($TEMPLATE)) {
 <p>
   <strong>Earthquakes in the Central and Eastern US are low probability, high impact events on enigmatic sources.</strong> They can cause widespread damage because of low attenuation rates and an aging building stock not designed to withstand strong earthquake shaking. When coupled with the large population centers in the CEUS (e.g., Memphis, St. Louis, Boston, Charleston, Washington D.C.), these low probability events could possibly result in substantial losses – often as high or higher than in portions of the seismically active West.  Scientists are trying to improve our understanding of earthquakes in these areas, such as when have they happened in the past, where and when are they likely to happen in the future, and what will be the effects?
 </p>
-
-<h2 class="researcher" style="clear: left;">Scientific Staff</h2>
-<ul>
-  <li><a href="https://profile.usgs.gov/sekbennett">Scott Bennett</a></li>
-  <li><a href="https://profile.usgs.gov/rbriggs">Rich Briggs</a></li>
-  <li>Ben Brooks</li>
-  <li><a href="https://profile.usgs.gov/sdelong">Stephen DeLong</a></li>
-  <li><a href="https://profile.usgs.gov/rgold">Ryan Gold</a></li>
-  <li><a href="http://alaska.usgs.gov/staff/staffbio.php?employeeid=25">Peter Haeusller</a></li>
-  <li>Kathy Haller</li>
-  <li>Katherine Kendrick</li>
-  <li>Pat McCrory</li>
-  <li>Alan Nelson</li>
-  <li>Carol Prentice</li>
-  <li><a href="https://profile.usgs.gov/kscharer">Katherine Scharer</a></li>
-  <li>David Schwartz</li>
-  <li>Brian Sherrod</li>
