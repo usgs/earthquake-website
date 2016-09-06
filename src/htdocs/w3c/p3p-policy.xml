@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<POLICIES xmlns="http://www.w3.org/2000/12/P3Pv1">
+	<POLICY name="overall" discuri="http://www.usgs.gov/privacy.html">
+	
+		<ENTITY>
+			<DATA-GROUP>
+				<DATA ref="#business.name">U.S. Geological Survey</DATA>
+				<DATA ref="#business.contact-info.postal.name">USGS Privacy Officer</DATA>
+				<DATA ref="#business.contact-info.postal.street">12201 Sunrise Valley Drive MS 807</DATA>
+				<DATA ref="#business.contact-info.postal.city">Reston</DATA>
+				<DATA ref="#business.contact-info.postal.stateprov">VA</DATA>
+				<DATA ref="#business.contact-info.postal.postalcode">20192</DATA>
+				<DATA ref="#business.contact-info.postal.country">USA</DATA>
+				<DATA ref="#business.contact-info.online.email">privacy@usgs.gov</DATA>
+				<DATA ref="#business.contact-info.online.uri">http://www.usgs.gov/</DATA>
+			</DATA-GROUP>
+		</ENTITY>
+		
+		<ACCESS>
+			<none/>
+		</ACCESS>
+		
+		<DISPUTES-GROUP>
+			<DISPUTES resolution-type="law" service="http://www.usdoj.gov/04foia/privstat.htm" short-description="The Privacy Act of 1974 as amended, 5 U.S.C. &#167; 552a">
+				<REMEDIES>
+					<correct/>
+					<law/>
+				</REMEDIES>
+			</DISPUTES>
+		</DISPUTES-GROUP>
+		
+		<STATEMENT>
+			<CONSEQUENCE>
+				Data collected from all Web users: access logs.
+			</CONSEQUENCE>
+			<PURPOSE>
+				<current/>
+				<admin/>
+				<develop/>
+			</PURPOSE>
+			<RECIPIENT>
+				<ours/>
+			</RECIPIENT>
+			<RETENTION>
+				<stated-purpose/>
+			</RETENTION>
+			<DATA-GROUP>
+				<DATA ref="#dynamic.clickstream"/>
+				<DATA ref="#dynamic.http"/>
+			</DATA-GROUP>
+		</STATEMENT>
+		
+	</POLICY>
+</POLICIES>
