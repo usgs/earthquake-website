@@ -79,29 +79,3 @@ if (!isset($TEMPLATE)) {
     USGS Energy Program: <a href="http://energy.usgs.gov/EnvironmentalAspects/EnvironmentalAspectsofEnergyProductionandUse/GeologicCO2Sequestration.aspx">Geologic Carbon Sequestration</a>
   </li>
 </ul>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li><a href="https://profile.usgs.gov/abarbour">Andrew Barbour</a></li>
-	<li>Harley Benz</li>
-	<li><a href="https://profile.usgs.gov/olboyd">Oliver Boyd</a></li>
-	<li>Rufus Catchings</li>
-	<li>George Choy</li>
-	<li><a href="https://profile.usgs.gov/ecochran">Elizabeth Cochran</a></li>
-	<li>Sara Dougherty</li>
-	<li>Bill Ellsworth</li>
-	<li>Jonathon Godt</li>
-	<li>Steve Hickman</li>
-	<li>Susan Hough</li>
-	<li><a href="https://profile.usgs.gov/okaven">J. Ole Kaven</a></li>
-	<li><a href="https://profile.usgs.gov/allenos">Andrea Llenos</a></li>
-	<li><a href="https://profile.usgs.gov/mcnamara">Dan McNamara</a></li>
-	<li>Art McGarr</li>
-	<li><a href="https://profile.usgs.gov/michael">Andrew Michael</a></li>
-	<li>Chuck Mueller</li>
-	<li>Mark Petersen</li>
-	<li>Evelyn Roeloffs</li>
-	<li><a href="https://profile.usgs.gov/jrubinstein">Justin Rubinstein</a></li>
-	<li>Fabia Terra</li>
-	<li>Rob Williams</li>
-</ul>

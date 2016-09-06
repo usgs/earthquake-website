@@ -45,14 +45,6 @@ if (!isset($TEMPLATE)) {
   These preliminary results have not received Director&rsquo;s approval and as such are provisional and subject to revision. The data are released on the condition that neither the USGS nor the United States Government may be held liable for any damages resulting from authorized or unauthorized use.
 </p>
 
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li>Rufus Catchings</li>
-	<li>Gary Fuis</li>
-	<li>Mark Goldman</li>
-	<li>Michael Rymer</li>
-</ul>
-
 <h3 id="collaborators">In Collaboration With</h3>
 <ul>
   <li id="caltech"><a href="http://www.caltech.edu/">California Institute of Technology</a></li>
