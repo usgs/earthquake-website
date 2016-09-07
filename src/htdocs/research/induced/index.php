@@ -34,7 +34,7 @@ And what should be done in the future?
               alt=" icon"  width="75"/>
         </a>
         <p>
-          Between the years 1973&ndash;2008, there was an average of 21 earthquakes of magnitude three and larger in the central and eastern United States. This rate jumped to an average of 99 M3+ earthquakes per year in 2009&ndash;2013, and the rate continues to rise.
+          Between the years 1973&ndash;2008, there was an average of 21 earthquakes of magnitude three and larger in the central and eastern United States. This rate has ballooned to over 600 M3+ earthquakes in 2014 and over 1000 in 2015. Through August 2016, over 500 M3+ earthquakes have occurred in 2016.
         </p>
       </li>
     </ul>

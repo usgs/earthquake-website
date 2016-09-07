@@ -1,3 +1,7 @@
 a img {
   border: 1px solid #ddd;
 }
+
+figure.hockeystick {
+  max-width: 650px;
+}
