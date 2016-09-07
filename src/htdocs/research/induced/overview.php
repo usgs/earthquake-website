@@ -5,6 +5,9 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Induced Earthquakes';
   $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="styles.css"/>
+  ';
   include 'template.inc.php';
 }
 ?>
@@ -31,8 +34,8 @@ if (!isset($TEMPLATE)) {
 
 <h3>Increasing Rate of Earthquakes Beginning in 2009</h3>
 
-<figure>
-  <img src="images/hockey-stick.png" src=""alt="graph showing the increased rate of earthquakes since 2009"/>
+<figure class='hockeystick'>
+  <img src="images/hockey-stick.gif" alt="graph showing the increased rate of earthquakes since 2009"/>
   <figcaption>
     Cumulative number of earthquakes with a magnitude of 3.0 or larger in the central and eastern United States, 1970&ndash;2016. The long-term rate of approximately 29 earthquakes per year increased sharply starting around 2009.
   </figcaption>
