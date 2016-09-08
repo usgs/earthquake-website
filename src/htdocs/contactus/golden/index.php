@@ -50,7 +50,7 @@ include 'template.inc.php';
       <li>
         <a href="neic.php">
           <h4>National Earthquake Information Center (NEIC)</h4>
-          <img src="images/neic.jpg" alt="NEIC media center"/>
+          <img src="images/neic-media.jpg" alt="NEIC media center" width="150"/>
         </a>
         <p>The NEIC monitors earthquakes around the world in near-real-time.</p>
       </li>
