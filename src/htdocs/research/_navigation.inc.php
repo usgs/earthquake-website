@@ -7,7 +7,7 @@
 
     navItem("${section}/induced/", "Induced Earthquakes") .
     navItem("${section}/earlywarning/", "Earthquake Early Warning") .
-    navItem("${section}/faults/", "Faults, Earthquake Geology &amp; Special Earthquake Studies") .
+    navItem("${section}/faults/", "Faults and Earthquake Geology") .
     navItem("${section}/hazrisk/", "Hazard and Risk") .
     navItem("${section}/eqproc/", "Earthquake Processes &amp; Effects") .
     navItem("${section}/monitoring/", "Monitoring Improvements") .
