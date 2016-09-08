@@ -3,7 +3,7 @@
 // Contact: Jeanne Hardebeck,
 // Last modified: Lisa Wald, 2016/08/10
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Faults, Earthquake Geology, and Special Earthquake Studies';
+  $TITLE = 'Faults and Earthquake Geology';
   $NAVIGATION = true;
   // Use Earthquake level nav file
   include_once 'functions.inc.php';
@@ -127,6 +127,8 @@ if (!isset($TEMPLATE)) {
       </li>
     </ul>
   </section>
+
+<!--
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
@@ -141,4 +143,6 @@ if (!isset($TEMPLATE)) {
       </li>
     </ul>
   </section>
+ -->
+
 </div>

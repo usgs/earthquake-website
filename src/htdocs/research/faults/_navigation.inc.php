@@ -11,8 +11,8 @@
     navItem("${section}/geomorphology.php", "Tectonic Geomorphology") .
     navItem("${section}/geodesy.php", "Near-Field Geodesy") .
     navItem("${section}/response.php", "Earthquake Response") .
-    navItem("${section}/salton.php", "Salton Seismic Imaging") .
-    navItem("/earthquakes/events/", "Special Earthquake Studies") ,
+    navItem("${section}/salton.php", "Salton Seismic Imaging") ,
+    /* navItem("/earthquakes/events/", "Special Earthquake Studies") , */
 
   "</section>"
   ;
