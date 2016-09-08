@@ -1,15 +1,15 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquake Processes and Effects';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-      include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Brad Aagaard and Dave Wald
+// Last modified: Lisa Wald, 2016/08/10
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Earthquake Processes and Effects';
+  $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="index.css"/>
+  ';
+  include 'template.inc.php';
+}
 ?>
 
 <h2>Ground Shaking</h2>
@@ -33,23 +33,4 @@
 	<li>investigation of the ground beneath high-impact areas to understand the shaking that would occur in a large earthquake.</li>
 	<li>investigation of the effect on seismic waves of traveling long distances through the earth’s crust, sedimentary basins, mountains, and other crustal features.</li>
 	<li>development of better imaging methods for identifying faults and crustal structure.</li>
-</ul>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li><a href="https://profile.usgs.gov/baagaard">Brad Aagaard</a></li>
-	<li>Jack Boatwright</li>
-	<li>Dave Boore</li>
-	<li>Rufus Catchings</li>
-	<li>Mehmet Celebi</li>
-	<li>John Evans</li>
-	<li>Tom Hanks</li>
-	<li>Ruth Harris</li>
-	<li>Steve Hartzell</li>
-	<li>Sue Hough</li>
-	<li>Erol Kalkan</li>
-	<li>Alena Leeds</li>
-	<li>Morgan Moschetti</li>
-	<li>Jack Odum</li>
-	<li>Bill Stephenson</li>
 </ul>

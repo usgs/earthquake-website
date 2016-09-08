@@ -1,21 +1,18 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jill Franks, jfranks@usgs.gov
-  // Last modified: Lisa Wald, 2016/08/22
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'External Grants';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-      // Use Earthquake level nav file
-        include_once 'functions.inc.php';
-        ob_start();
-        include '../_navigation.inc.php';
-        $NAVIGATION = ob_get_clean();
+// Author: Lisa Wald
+// Contact: Jill Franks, jfranks@usgs.gov
+// Last modified: Lisa Wald, 2016/08/22
+if (!isset($TEMPLATE)) {
+  $TITLE = 'External Grants';
+  $NAVIGATION = true;
+  // Use Earthquake level nav file
+  include_once 'functions.inc.php';
+  ob_start();
+  include '../_navigation.inc.php';
+  $NAVIGATION = ob_get_clean();
 
-        include 'template.inc.php';
-    }
+  include 'template.inc.php';
+}
 ?>
 
 <div class='row'>

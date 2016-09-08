@@ -1,15 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Volunteer Monitoring - Walnut Creek/Pleasant Hill/Concord, CA, Area Seismograph Array';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-      include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Alena Leeds
+// Last modified: Lisa Wald, 2016/08/10
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Volunteer Monitoring - Walnut Creek/Pleasant Hill/Concord, CA, Area Seismograph Array';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <p>

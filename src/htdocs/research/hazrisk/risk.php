@@ -1,12 +1,11 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Mark pspell_add_to_personal,
-  // Last modified: 2016/08/08, Lisa Wald
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Hazard and Risk Assessment';
-      $NAVIGATION = true;
-      include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Nico Luco, nluco@usgs.gov
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Hazard and Risk Assessment';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <h2>Risk</h2>
@@ -33,3 +32,9 @@
 <p>
 	Furthermore, this task aims to increase the percent completion of earthquake hazard assessments for moderate to high hazard areas, by increasing the use of such assessments for mitigation.
 </p>
+
+<h3>See also:</h3>
+<p><a href="https://geohazards.usgs.gov/trac/wiki/risk">Engineering Risk Assessment Project Wiki</a></p>
+
+<h3>Contact</h3>
+<a href="mailto:nlocu@usgs.gov">Nico Luco</a>

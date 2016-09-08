@@ -1,15 +1,15 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Justin Rubenstein
-  // Last modified: Lisa Wald, 2016/08/20
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Induced Earthquakes';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="styles.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Justin Rubenstein
+// Last modified: Lisa Wald, 2016/08/20
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Induced Earthquakes';
+  $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="styles.css"/>
+  ';
+  include 'template.inc.php';
+}
 ?>
 
 <figure class='right'>
@@ -34,8 +34,8 @@
 
 <h3>Increasing Rate of Earthquakes Beginning in 2009</h3>
 
-<figure>
-  <img src="images/hockey-stick.png" src=""alt="graph showing the increased rate of earthquakes since 2009"/>
+<figure class='hockeystick'>
+  <img src="images/hockey-stick.gif" alt="graph showing the increased rate of earthquakes since 2009"/>
   <figcaption>
     Cumulative number of earthquakes with a magnitude of 3.0 or larger in the central and eastern United States, 1970&ndash;2016. The long-term rate of approximately 29 earthquakes per year increased sharply starting around 2009.
   </figcaption>
@@ -81,30 +81,4 @@
   <li>
     USGS Energy Program: <a href="http://energy.usgs.gov/EnvironmentalAspects/EnvironmentalAspectsofEnergyProductionandUse/GeologicCO2Sequestration.aspx">Geologic Carbon Sequestration</a>
   </li>
-</ul>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li><a href="https://profile.usgs.gov/abarbour">Andrew Barbour</a></li>
-	<li>Harley Benz</li>
-	<li><a href="https://profile.usgs.gov/olboyd">Oliver Boyd</a></li>
-	<li>Rufus Catchings</li>
-	<li>George Choy</li>
-	<li><a href="https://profile.usgs.gov/ecochran">Elizabeth Cochran</a></li>
-	<li>Sara Dougherty</li>
-	<li>Bill Ellsworth</li>
-	<li>Jonathon Godt</li>
-	<li>Steve Hickman</li>
-	<li>Susan Hough</li>
-	<li><a href="https://profile.usgs.gov/okaven">J. Ole Kaven</a></li>
-	<li><a href="https://profile.usgs.gov/allenos">Andrea Llenos</a></li>
-	<li><a href="https://profile.usgs.gov/mcnamara">Dan McNamara</a></li>
-	<li>Art McGarr</li>
-	<li><a href="https://profile.usgs.gov/michael">Andrew Michael</a></li>
-	<li>Chuck Mueller</li>
-	<li>Mark Petersen</li>
-	<li>Evelyn Roeloffs</li>
-	<li><a href="https://profile.usgs.gov/jrubinstein">Justin Rubinstein</a></li>
-	<li>Fabia Terra</li>
-	<li>Rob Williams</li>
 </ul>

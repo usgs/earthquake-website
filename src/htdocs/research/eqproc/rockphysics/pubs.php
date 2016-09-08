@@ -1,15 +1,15 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Rock Physics Labs';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="../index.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Nick Beeler
+// Last modified: Lisa Wald, 2016/08/10
+  if (!isset($TEMPLATE)) {
+  $TITLE = 'Rock Physics Labs';
+  $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="../index.css"/>
+  ';
+    include 'template.inc.php';
+  }
 ?>
 
 <h2>Publications</h2>
@@ -162,10 +162,7 @@
   <li class="strong acoustic"><a name="W" id="W"></a>Weeks, J. D., D. A. Lockner, and Byerlee, J.D., <a href="papers/Weeks_bval_BSSA78.pdf">Changes in b-value during movement on cut surfaces in granite</a>, Bull. of the Seismological Society of Amer., 68, 333-341, 1978.</li>
 </ul>
 
-<!-- Code for filtering reference list by topic -->
-
-<?php
-/*
+<!-- Code for filtering reference list by topic
 
 $topics_hash = array(
 	'strong' => 'Friction - strong materials',
@@ -237,10 +234,10 @@ $nav_alpha_html = sprintf('<div id="nav-alpha">%s</div>', substr($nav_alpha_html
 
 ?>
 
-  <!--<h2>All Publications</h2>-->
+<h2>All Publications</h2>
 <?php print $topics_html; ?>
     <ul class="referencelist">
 <?php print $ref_list_html; ?>
     </ul>
 
-    */
+-->

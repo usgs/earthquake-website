@@ -1,7 +1,8 @@
 <?php
-  $section = "/contactus";
+$section = "/contactus";
 
-  echo navItem("${section}/", "Contact Us");
+  echo "<a href='/contactus' class='up-one-level'>Contact Us</a>";
+
   echo navItem("${section}/headquarters.php", "Headquarters");
 
   echo navGroup(("Science Centers"),

@@ -1,12 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Dave Wilson,
-  // Last modified: 2016/08/09, Lisa Wald
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Monitoring Improvments';
-      $NAVIGATION = true;
-      include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Dave Wilson,
+// Last modified: 2016/08/09, Lisa Wald
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Monitoring Improvments';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <h2>Real-time Information</h2>
@@ -37,18 +37,3 @@
   	<li>Moment Tensors (RMT/MT/CMT) - Automated computation of source duration and source-time function for all M6+ earthquakes.</li>
   </ul>
 </p>
-
-<h2>Scientific Staff</h2>
-<ul>
-	<li>Harley Benz</li>
-	<li>George Choy</li>
-	<li>Elizabeth Cochran</li>
-	<li>Paul Earle</li>
-	<li>Jeremy Fee</li>
-	<li>Doug Given</li>
-	<li>Michelle Guy</li>
-	<li>Gavin Hayes</li>
-	<li><a href="https://profile.usgs.gov/hudnut">Ken Hudnut</a></li>
-	<li>John Patton</li>
-	<li><a href="https://profile.usgs.gov/wald">David Wald</a></li>
-</ul>

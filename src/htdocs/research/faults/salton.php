@@ -1,15 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Mark Goldman
-  // Last modified: Lisa Wald, 2016/08/18
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Faults, Earthquake Geology, and Special Earthquake Studies';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Mark Goldman
+// Last modified: Lisa Wald, 2016/08/18
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Faults, Earthquake Geology, and Special Earthquake Studies';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
 ?>
 
 <h2>Salton Seismic Imaging</h2>
@@ -47,14 +44,6 @@
 <p class="small">
   These preliminary results have not received Director&rsquo;s approval and as such are provisional and subject to revision. The data are released on the condition that neither the USGS nor the United States Government may be held liable for any damages resulting from authorized or unauthorized use.
 </p>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li>Rufus Catchings</li>
-	<li>Gary Fuis</li>
-	<li>Mark Goldman</li>
-	<li>Michael Rymer</li>
-</ul>
 
 <h3 id="collaborators">In Collaboration With</h3>
 <ul>

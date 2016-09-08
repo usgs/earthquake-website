@@ -1,15 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Kate Scharer
-  // Last modified: Lisa Wald, 2016/08/18
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Faults, Earthquake Geology, and Special Earthquake Studies';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Kate Scharer
+// Last modified: Lisa Wald, 2016/08/18
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Faults, Earthquake Geology, and Special Earthquake Studies';
+  $NAVIGATION = true;
+    include 'template.inc.php';
+}
 ?>
 
 <figure class='right'>
@@ -34,16 +31,3 @@
 <p>
   Understanding a fault&rsquo;s slip behavior, as well as its length and connectivity, is important for constraining the magnitude range and frequency of earthquakes that a particular fault is likely to produce. Some faults that pose significant earthquake hazard may not have a clear expression on the Earth&rsquo;s surface, but may have vertical motion that over time leads to creation of mountains and valleys.
 </p>
-
-<h2 class="researcher clear">Scientific Staff</h2>
-<ul>
-  <li><a href="https://profile.usgs.gov/sekbennett">Scott Bennett</a></li>
-  <li>Ben Brooks</li>
-  <li><a href="https://profile.usgs.gov/sdelong">Stephen DeLong</a></li>
-  <li>Suzanne Hecker</li>
-  <li><a href="https://profile.usgs.gov/hudnut">Ken Hudnut</a></li>
-  <li>Jim Lienkaemper</li>
-  <li>Carol Prentice</li>
-  <li><a href="https://profile.usgs.gov/kscharer">Kate Scharer</a></li>
-  <li>David Schwartz</li>
-</ul>

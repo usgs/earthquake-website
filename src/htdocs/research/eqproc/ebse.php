@@ -1,15 +1,12 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquake Processes and Effects';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="style.css"/>
-      ';
-        include 'template.inc.php';
-    }
+// Author: Lisa Wald
+// Contact: Brad Aagaard and Dave Wald
+// Last modified: Lisa Wald, 2016/08/10
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Earthquake Processes and Effects';
+  $NAVIGATION = true;
+    include 'template.inc.php';
+}
 ?>
 
 <h2>East Bay Seismic Experiment</h2>
@@ -255,10 +252,4 @@
 	<li><a href="http://www20.csueastbay.edu/news/2013/01/WarrenHallDemo-013013.html">California State University East Bay: CSU trustees earmark $50M to remove, replace Warren Hall</a></li>
 	<li><a href="http://www.livescience.com/37617-building-demolition-hayward-fault-study.html">LiveScience: Building Explosion Will Shed Light on Nearby Earthquake Fault</a></li>
 	<li><a href="http://storify.com/stanfordbabs/opportunity-to-study-hayward-fault-comes-with-cal">Barbara Wilcox&rsquo;s Storify feed</a></li>
-</ul>
-
-<h2>Scientific Staff</h2>
-<ul>
-	<li>Rufus Catchings</li>
-	<li>Mark Goldman</li>
 </ul>

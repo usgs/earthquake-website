@@ -1,21 +1,18 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquake Processes and Effects';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
-      ';
-      // Use Earthquake level nav file
-        include_once 'functions.inc.php';
-        ob_start();
-        include '../_navigation.inc.php';
-        $NAVIGATION = ob_get_clean();
+// Author: Lisa Wald
+// Contact: Brad Aagaard and Dave Wald
+// Last modified: Lisa Wald, 2016/08/10
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Earthquake Processes and Effects';
+  $NAVIGATION = true;
+  // Use Earthquake level nav file
+  include_once 'functions.inc.php';
+  ob_start();
+  include '../_navigation.inc.php';
+  $NAVIGATION = ob_get_clean();
 
-        include 'template.inc.php';
-    }
+  include 'template.inc.php';
+}
 ?>
 
 <p>
@@ -192,40 +189,3 @@
   </section>
 
 </div>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-  <li><a href="https://profile.usgs.gov/baagaard">Brad Aagaard</a></li>
-	<li>Nick Beeler</li>
-  <li>Jack Boatwright</li>
-  <li>Dave Boore</li>
-  <li>Rufus Catchings</li>
-  <li>Mehmet Celebi</li>
-  <li>John Evans</li>
-  <li>Jon Fletcher</li>
-  <li>Tom Hanks</li>
-	<li><a href="https://profile.usgs.gov/jhardebeck">Jeanne Hardebeck</a></li>
-	<li><a href="https://profile.usgs.gov/harris">Ruth Harris</a></li>
-  <li>Steve Hartzell</li>
-	<li>Steve Hickman</li>
-  <li><a href="https://profile.usgs.gov/tholzer">Tom Holzer</a></li>
-  <li>Sue Hough</li>
-  <li>Randy Jibson</li>
-  <li>Erol Kalkan</li>
-	<li>Brian Kilgore</li>
-	<li>Steve Kirby</li>
-	<li><a href="https://profile.usgs.gov/whklee">Willie Lee</a></li>
-  <li>Alena Leeds</li>
-	<li>Dave Lockner</li>
-	<li>Patricia McCrory</li>
-	<li><a href="https://profile.usgs.gov/michael">Andy Michael</a></li>
-  <li>Morgan Moschetti</li>
-	<li><a href="https://profile.usgs.gov/mooney">Walter Mooney</a></li>
-	<li>Diane Moore</li>
-	<li>Carolyn Morrow</li>
-  <li>Jack Odum</li>
-	<li>George Plafker</li>
-	<li>Evelyn Roeloffs</li>
-  <li>Bill Stephenson</li>
-	<li>Roland von Huene</li>
-</ul>

@@ -1,21 +1,21 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Jeanne Hardebeck,
-  // Last modified: Lisa Wald, 2016/08/10
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquake Processes and Effects';
-      $NAVIGATION = true;
-      $HEAD = '
-        <link rel="stylesheet" href="../index.css"/>
-      ';
-      // Use Earthquake level nav file
-        include_once 'functions.inc.php';
-        ob_start();
-        include '../_navigation.inc.php';
-        $NAVIGATION = ob_get_clean();
+// Author: Lisa Wald
+// Contact: Nick Beeler
+// Last modified: Lisa Wald, 2016/08/10
+  if (!isset($TEMPLATE)) {
+    $TITLE = 'Earthquake Processes and Effects';
+    $NAVIGATION = true;
+    $HEAD = '
+      <link rel="stylesheet" href="../index.css"/>
+    ';
+    // Use Earthquake level nav file
+    include_once 'functions.inc.php';
+    ob_start();
+    include '../_navigation.inc.php';
+    $NAVIGATION = ob_get_clean();
 
-        include 'template.inc.php';
-    }
+    include 'template.inc.php';
+  }
 ?>
 
 <h2>Rock Physics Labs</h2>
@@ -56,14 +56,4 @@
   <li><a href="machines.php">Test Apparatus</a></li>
   <li><a href="current.php">Current Projects</a></li>
   <li><a href="pubs.php">Publications by Topic</a></li>
-</ul>
-
-<h2 class="researcher">Scientific Staff</h2>
-<ul>
-	<li>Nick Beeler</li>
-	<li>Lee-Gray Boze</li>
-	<li>Brian Kilgore</li>
-	<li>David Lockner</li>
-	<li>Diane Moore</li>
-	<li>Carolyn Morrow</li>
 </ul>

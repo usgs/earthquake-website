@@ -1,18 +1,18 @@
 <?php
-  // Author: Lisa Wald
-  // Contact: Mark pspell_add_to_personal,
-  // Last modified: 2016/08/08, Lisa Wald
-    if (!isset($TEMPLATE)) {
-      $TITLE = 'Hazard and Risk Assessment';
-      $NAVIGATION = true;
-      // Use Earthquake level nav file
-        include_once 'functions.inc.php';
-        ob_start();
-        include '../_navigation.inc.php';
-        $NAVIGATION = ob_get_clean();
+// Author: Lisa Wald
+// Contact: Mark pspell_add_to_personal,
+// Last modified: 2016/08/08, Lisa Wald
+if (!isset($TEMPLATE)) {
+  $TITLE = 'Hazard and Risk Assessment';
+  $NAVIGATION = true;
+  // Use Earthquake level nav file
+  include_once 'functions.inc.php';
+  ob_start();
+  include '../_navigation.inc.php';
+  $NAVIGATION = ob_get_clean();
 
-        include 'template.inc.php';
-    }
+  include 'template.inc.php';
+}
 ?>
 
 <p>
@@ -68,29 +68,4 @@
 	<li><a href="/hazards/apps/">Custom Hazard &amp; Analysis Tools</a></li>
 	<li><a href="/hazards/designmaps/">Seismic Design Tools</a></li>
 	<li><a href="/hazards/qfaults/">Faults</a></li>
-</ul>
-
-<h2 class="researcher" style="clear: left;">Scientific Staff</h2>
-<ul>
-	<li>Oliver Boyd</li>
-	<li>Bill Ellsworth</li>
-	<li>Karen Felzer</li>
-	<li>Ned Field</li>
-	<li>Art Frankel</li>
-	<li>Kathy Haller</li>
-	<li>Tom Hanks</li>
-	<li>Jeanne Hardebeck</li>
-	<li>Kuo-wan Lin</li>
-	<li>Andrea Llenos</li>
-	<li>Nico Luco</li>
-	<li>Sean McGowan</li>
-	<li>Andy Michael</li>
-	<li>Chuck Mueller</li>
-	<li>Morgan Page</li>
-	<li>Mark Petersen</li>
-	<li>Peter Powers</li>
-	<li>Sanaz Rezaeian</li>
-	<li><a href="https://profile.usgs.gov/wald">David Wald</a></li>
-	<li>Craig Weaver</a></li>
-	<li>Rob Williams</li>
 </ul>
