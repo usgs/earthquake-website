@@ -66,7 +66,7 @@
     			<ul>
     				<li><a href="/monitoring/operations/heliplots_gsn.php">GSN Stations</a></li>
     				<li><a href="/monitoring/operations/heliplots_anss.php">ANSS Backbone Stations</a></li>
-    				<li><a href="monitoring/netquakes/map/">Netquake Volunteer Stations</a></li>
+    				<li><a href="/monitoring/netquakes/map/">Netquake Volunteer Stations</a></li>
     				<li><a href="/monitoring/spectrograms/">Spectrograms</a></li>
     			</ul>
     		</li>
