@@ -66,6 +66,26 @@ $EQ_FEATURES->baseUrl = '';
  );
 
  $EQ_FEATURES->items[] = array(
+   'id' => 'news-pawnee',
+   'title' => 'Magnitudes for Oklahoma Earthquakes Shift Upward',
+   'content' => 'The U.S. Geological Survey is updating the official magnitude of the September 3, 2016 Pawnee, Oklahoma earthquake to Mw 5.8 (from 5.6), making it Oklahoma’s largest recorded earthquake to date.',
+   'link' => 'https://www.usgs.gov/news/magnitudes-oklahoma-earthquakes-shift-upward',
+   'modified' => strtotime('2016-09-08'),
+   'thumbnail' => '/images-featured/pawnee.jpg',
+   'image' => '/images-featured/pawnee.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => 'news-sep7',
+   'title' => 'Photo Opportunity: Scientists Prepare for Seismic Study in East Bay',
+   'content' => 'An experiment to visualize the subsurface in and around the Hayward Fault and measure how the ground in different neighborhoods responds to earthquake shaking.',
+   'link' => 'https://www.usgs.gov/news/photo-opportunity-scientists-prepare-seismic-study-east-bay',
+   'modified' => strtotime('2016-09-08'),
+   'thumbnail' => '/images-featured/news-sep7.jpg',
+   'image' => '/images-featured/news-sep7.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => 'news-aug29',
    'title' => 'Preventing Human-Caused Earthquakes',
    'content' => 'New research from the USGS and Univ. of Colorado shows actions taken by drillers and regulators can lessen risk in the case of earthquakes likely caused by the injection of industrial wastewater deep underground.',
