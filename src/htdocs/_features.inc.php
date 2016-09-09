@@ -11,100 +11,56 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'http://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
-/**
- * Items at top of list are featured
- *
- * Each Item is an array with the following keys:
- *   id {String}
- *      unique identifier without spaces.
- *      for example:
- *         'induced'
- *
- *   title {String|HTML}
- *         item title.
- *
- *   content {String|HTML}
- *           item summary.
- *
- *   link {String}
- *        relative item link.
- *
- *   modified {Integer}
- *            unix epoch timestamp.
- *            for example:
- *                filemtime('induced/index.php')
- *                strtotime('2014-10-01')
- *
- *   thumbnail {String}
- *             relative path to thumbnail image.
- *             Used by items in atom format.
- *
- *   image {String}
- *         relative path to full size image.
- *         Only used by "featured" items in html format.
- *
- *   tags {Array<String>} optional.
- *        Array of categories for item.
- *        Only used by atom format.
- *
- *   publish {Integer} optional.
- *           a time when item should be "published".
- *           if no publish time is specified, or the time is in the past, the item will be shown.
- *           for example:
- *               strtotime('2014-10-31')
- *
- */
+$EQ_FEATURES->items[] = array(
+ 'id' => 'latest-eqs',
+ 'title' => 'Latest Earthquakes',
+ 'content' => 'Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.',
+ 'link' => 'earthquakes/map/',
+ 'modified' => strtotime('2016-06-01'),
+ 'thumbnail' => '/images-home/latesteqs.jpg',
+ 'image' => '/images-home/latesteqs.jpg'
+);
 
- $EQ_FEATURES->items[] = array(
-   'id' => 'latest-eqs',
-   'title' => 'Latest Earthquakes',
-   'content' => 'Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.',
-   'link' => 'earthquakes/map/',
-   'modified' => strtotime('2016-06-01'),
-   'thumbnail' => '/images-home/latesteqs.jpg',
-   'image' => '/images-home/latesteqs.jpg'
- );
+$EQ_FEATURES->items[] = array(
+ 'id' => 'news-pawnee',
+ 'title' => 'Magnitudes for Oklahoma Earthquakes Shift Upward',
+ 'content' => 'The U.S. Geological Survey is updating the official magnitude of the September 3, 2016 Pawnee, Oklahoma earthquake to Mw 5.8 (from 5.6), making it Oklahoma’s largest recorded earthquake to date.',
+ 'link' => 'https://www.usgs.gov/news/magnitudes-oklahoma-earthquakes-shift-upward',
+ 'modified' => strtotime('2016-09-08'),
+ 'thumbnail' => '/images-featured/pawnee.jpg',
+ 'image' => '/images-featured/pawnee.jpg'
+);
 
- $EQ_FEATURES->items[] = array(
-   'id' => 'news-pawnee',
-   'title' => 'Magnitudes for Oklahoma Earthquakes Shift Upward',
-   'content' => 'The U.S. Geological Survey is updating the official magnitude of the September 3, 2016 Pawnee, Oklahoma earthquake to Mw 5.8 (from 5.6), making it Oklahoma’s largest recorded earthquake to date.',
-   'link' => 'https://www.usgs.gov/news/magnitudes-oklahoma-earthquakes-shift-upward',
-   'modified' => strtotime('2016-09-08'),
-   'thumbnail' => '/images-featured/pawnee.jpg',
-   'image' => '/images-featured/pawnee.jpg'
- );
+$EQ_FEATURES->items[] = array(
+ 'id' => 'news-sep7',
+ 'title' => 'Photo Opportunity: Scientists Prepare for Seismic Study in East Bay',
+ 'content' => 'An experiment to visualize the subsurface in and around the Hayward Fault and measure how the ground in different neighborhoods responds to earthquake shaking.',
+ 'link' => 'https://www.usgs.gov/news/photo-opportunity-scientists-prepare-seismic-study-east-bay',
+ 'modified' => strtotime('2016-09-08'),
+ 'thumbnail' => '/images-featured/news-sep7.jpg',
+ 'image' => '/images-featured/news-sep7.jpg'
+);
 
- $EQ_FEATURES->items[] = array(
-   'id' => 'news-sep7',
-   'title' => 'Photo Opportunity: Scientists Prepare for Seismic Study in East Bay',
-   'content' => 'An experiment to visualize the subsurface in and around the Hayward Fault and measure how the ground in different neighborhoods responds to earthquake shaking.',
-   'link' => 'https://www.usgs.gov/news/photo-opportunity-scientists-prepare-seismic-study-east-bay',
-   'modified' => strtotime('2016-09-08'),
-   'thumbnail' => '/images-featured/news-sep7.jpg',
-   'image' => '/images-featured/news-sep7.jpg'
- );
+$EQ_FEATURES->items[] = array(
+ 'id' => 'news-aug29',
+ 'title' => 'Preventing Human-Caused Earthquakes',
+ 'content' => 'New research from the USGS and Univ. of Colorado shows actions taken by drillers and regulators can lessen risk in the case of earthquakes likely caused by the injection of industrial wastewater deep underground.',
+ 'link' => 'https://www.usgs.gov/news/preventing-human-caused-earthquakes',
+ 'modified' => strtotime('2016-08-29'),
+ 'thumbnail' => '/images-featured/news-aug29.jpg',
+ 'image' => '/images-featured/news-aug29.jpg'
+);
 
- $EQ_FEATURES->items[] = array(
-   'id' => 'news-aug29',
-   'title' => 'Preventing Human-Caused Earthquakes',
-   'content' => 'New research from the USGS and Univ. of Colorado shows actions taken by drillers and regulators can lessen risk in the case of earthquakes likely caused by the injection of industrial wastewater deep underground.',
-   'link' => 'https://www.usgs.gov/news/preventing-human-caused-earthquakes',
-   'modified' => strtotime('2016-08-29'),
-   'thumbnail' => '/images-featured/news-aug29.jpg',
-   'image' => '/images-featured/news-aug29.jpg'
- );
-
- $EQ_FEATURES->items[] = array(
-   'id' => 'sjsoccer',
-   'title' => 'San Jose Earthquakes Major League Soccer Team Highlights Top 10
+$EQ_FEATURES->items[] = array(
+ 'id' => 'sjsoccer',
+ 'title' => 'San Jose Earthquakes Major League Soccer Team Highlights Top 10
 "Seismic Moments"',
-   'content' => 'In collaboration with the San Jose Earthquakes Major League Soccer team, USGS seismologist, Brad Aagaard used data from the NetQuakes instrument installed at their Avaya Stadium to determine the top 10 largest ground motions recorded on the instrument following goals scored by the team so far in the 2015 and 2016 seasons.',
-   'link' => 'http://www.sjearthquakes.com/avayastadium/seismicmoments',
-   'modified' => strtotime('2016-08-25'),
-   'thumbnail' => '/images-featured/sj-seismic-moment.jpg',
-   'image' => '/images-featured/sj-seismic-moment.jpg'
- );
+ 'content' => 'In collaboration with the San Jose Earthquakes Major League Soccer team, USGS seismologist, Brad Aagaard used data from the NetQuakes instrument installed at their Avaya Stadium to determine the top 10 largest ground motions recorded on the instrument following goals scored by the team so far in the 2015 and 2016 seasons.',
+ 'link' => 'http://www.sjearthquakes.com/avayastadium/seismicmoments',
+ 'modified' => strtotime('2016-08-25'),
+ 'thumbnail' => '/images-featured/sj-seismic-moment.jpg',
+ 'image' => '/images-featured/sj-seismic-moment.jpg'
+);
 
 $EQ_FEATURES->items[] = array(
   'id' => 'NCAprob',
