@@ -35,7 +35,7 @@ and a link to Significant Earthquakes, Past 30 Days
       <li>
         <a href="map/">
           <h4>Latest Earthquakes</h4>
-          <img src="images/latesteqs-300for150.gif" width="150" alt="map of latest earthquakes"/>
+          <img src="images/latesteqs-300for150.gif" width="150" alt="screenshot of latest earthquakes interface"/>
         </a>
         <p>Latest earthquakes map and list. Tap/click on "gear icon" for options and settings.
         </p>

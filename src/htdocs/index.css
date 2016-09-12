@@ -2,6 +2,14 @@ h1 {
   display:none;
 }
 
+h2.section-eqs {
+  height: 68px;
+  text-align: center;
+  background-image: url("images-home/home-earthquakes800for400.gif");
+  background-color: #ccc;
+  }
+
+
 section.site-sitenav {
   display: none;
 }

@@ -53,8 +53,7 @@ if (!isset($TEMPLATE)) {
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/earthquakes/">
-                <h2>Earthquakes</h2>
-                <img class="sections-img" src="/images-home/home-earthquakes800for400.gif" alt="" />
+                <h2 class='section-eqs'>Earthquakes</h2>
               </a>
                 <!--<p>
                   Information about real-time earthquakes, online catalog search of archives, seismicity maps and statistics.
@@ -157,7 +156,7 @@ if (!isset($TEMPLATE)) {
     <a href="atom.php"><img style="padding-right:16px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe to Earthquake Hazards Program Highlights</a>
     </div>
 
-    <p class="alert">
+    <p>
       <img class="nehrp" src="images-home/nehrp.png">
       The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977. We monitor and report earthquakes, assess earthquake impacts and hazards, and research the causes and effects of earthquakes.
     </p>
