@@ -28,7 +28,7 @@
     <p>Earthquakes in the eastern U.S., what happened, and what we&rsquo;ve learned.</p>
   </li>
   <li>
-    <a href="/earthquakes/eventpage/usp000j6xc#general_summary">
+    <a href="http://earthquake.usgs.gov/earthquakes/eventpage/se609212#executive">
       <h4>Eventpage</h4>
       <img src="images/geology.gif" alt="geological map" width="150px"/>
     </a>
@@ -42,14 +42,14 @@
     <p>USGS tectonic summary poster.</p>
   </li>
   <li>
-    <a href="/earthquakes/eventpage/usp000j6xc#impact_dyfi">
+    <a href="http://earthquake.usgs.gov/earthquakes/eventpage/se609212#dyfi">
       <h4>Did You Feel It? Map</h4>
       <img src="images/dyfi.jpg" alt="" width="150px"/>
     </a>
     <p>Shaking from the earthquake reported by citizen scientists.</p>
   </li>
   <li>
-    <a href="/earthquakes/eventpage/usp000j6xc#impact_shakemap">
+    <a href="http://earthquake.usgs.gov/earthquakes/eventpage/se609212#shakemap">
       <h4>ShakeMap</h4>
       <img src="images/shakemap.jpg" alt="" width="150px">
     </a>
@@ -60,47 +60,40 @@
 <h2 class="clear">News & Media</h2>
 
 <ul class="no-style linklist">
-  <li>
+  <!--<li>
     <a href="http://gallery.usgs.gov/sets/2011_Virginia_Earthquake">
       <h4>Photos - USGS Image Gallery</h4>
       <img src="images/cathedral.jpg" alt="Photo of earthquake damage" width="150px"/>
     </a>
     <p>USGS photos of earthquake damage and effects.</p>
-  </li>
+  </li>-->
   <li>
-    <a href="http://gallery.usgs.gov/videos/566">
-      <h4>USGS Video: Living Near the Epicenter</h4>
+    <a href="https://www.usgs.gov/products/multimedia-gallery/videos">
+      <h4>USGS Videos</h4>
       <img src="images/video.jpg" alt="" width="150px"/>
     </a>
-    <p>Watch video interviews with four people discussing their experiences near the epicenter of the magnitude 5.8 earthquake in central Virginia on August 23, 2011.</p>
-  </li>
-  <li>
-    <a href="http://gallery.usgs.gov/">
-      <h4>USGS PodCasts</h4>
-      <img src="images/podcast_icon.jpg" alt="" width="150px"/>
-    </a>
     <p>
-      <ul>
-        <li><a href="http://gallery.usgs.gov/audios/419">East Coast Earthquakes</a></li>
-        <li><a href="http://gallery.usgs.gov/audios/445">
-          A Year After the 2011 Virginia Earthquake: Will Shaking Continue?</a>
-        </li>
-        <li><a href="http://gallery.usgs.gov/audios/444">
-          A Year After the 2011 Virginia Earthquake: What More Do We Know?</a></li>
+      <ul class="no-style">
+        <li><a href="https://www.usgs.gov/media/videos/living-near-epicenter">Living Near the Epicenter</a></li>
+        <li><a href="https://www.usgs.gov/media/videos/live-chat-east-coast-earthquakes">Live Chat: East Coast Earthquakes</a></li>
       </ul>
     </p>
   </li>
   <li>
-    <a href="http://www.usgs.gov/newsroom/">
-      <h4>USGS News Releases</h4>
-      <img src="images/newspaper.jpg" alt="" width="150px"/>
+    <a href="https://www.usgs.gov/products/multimedia-gallery/audio">
+      <h4>USGS PodCasts</h4>
+      <img src="images/podcast_icon.jpg" alt="" width="150px"/>
     </a>
     <p>
-      <ul>
-        <li><a href="http://www.usgs.gov/newsroom/article.asp?ID=4028">Seismometers to Measure DC Shaking</a></li>
-        <li><a href="http://www.usgs.gov/blogs/features/usgs_top_story/one-year-anniversary-magnitude-5-8-virginia-earthquake/">One Year Anniversary: Magnitude 5.8 Virginia Earthquake</a>
-        <li><a href="http://www.usgs.gov/newsroom/article.asp?ID=4073">Fault &ldquo;Crossroads&rdquo; May Have Been Origin Point for 2011 Virginia Earthquake</a></li>
-        <li><a href="http://www.usgs.gov/newsroom/article.asp?ID=40120">Virginia Earthquake Aftershocks Identify Previously Unknown Fault Zone</a></li>
+      <ul class="no-style">
+        <li><a href="https://www.usgs.gov/media/audio/east-coast-earthquakes">East Coast Earthquakes</a></li>
+        <li><a href="https://www.usgs.gov/media/audio/year-after-2011-virginia-earthquake-will-shaking-continue">
+          A Year After the 2011 Virginia Earthquake: Will Shaking Continue?</a>
+        </li>
+        <li><a href="https://www.usgs.gov/media/audio/year-after-2011-virginia-earthquake-what-more-do-we-know">
+          A Year After the 2011 Virginia Earthquake: What More Do We Know?</a></li>
+        <li><a href="https://cms.usgs.gov/media/audio/november-public-lecture-did-you-feel-it-virginia-earthquake-august-23-2011">
+          November Public Lecture: Did You Feel It? The Virginia Earthquake of August 23, 2011</a></li>
       </ul>
     </p>
   </li>
