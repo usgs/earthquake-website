@@ -3,7 +3,7 @@
       //	Contact:
       //	Last	modified:	9/1/2016
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'The Great M~8.0 1857 Fort Tejon Earthquake';
+      $TITLE	=	'The Great M7.9 1857 Fort Tejon Earthquake';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
@@ -20,7 +20,7 @@
         </tr>
         <tr>
           <td>Magnitude</td>
-          <td>M<sub>w</sub> 8.0 approximately</td>
+          <td>M<sub>w</sub> 7.9*</td>
         </tr>
         <tr>
           <td>Location/Depth:</td>
@@ -43,10 +43,11 @@
           <td>about 225 miles (360 km)</td>
         </tr>
         <tr>
-          <td>Maximum surface offset:/td>
+          <td>Maximum surface offset:</td>
           <td>about 30 ft (9 meters)</td>
         </tr>
       </tbody>
+      <caption style="caption-side:bottom;text-align:left">*Kerry Sieh</caption>
     </table>
   </div>
   <div class="column one-of-two">
