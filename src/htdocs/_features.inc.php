@@ -76,6 +76,16 @@ $EQ_FEATURES->baseUrl = '';
  );
 
  $EQ_FEATURES->items[] = array(
+ 'id' => 'news-sep14',
+ 'title' => 'Uncharted: Exploring one of America’s fastest faults',
+ 'content' => 'A team of USGS scientists spent 10 days in the wilderness, exploring one of the fastest-moving faults in America.',
+ 'link' => 'https://www.usgs.gov/news/uncharted-exploring-one-america-s-fastest-faults',
+ 'modified' => strtotime('2016-09-14'),
+ 'thumbnail' => '/images-featured/news-sep14.jpg',
+ 'image' => '/images-featured/news-sep14.jpg'
+);
+
+ $EQ_FEATURES->items[] = array(
    'id' => 'news-sep7',
    'title' => 'Photo Opportunity: Scientists Prepare for Seismic Study in East Bay',
    'content' => 'An experiment to visualize the subsurface in and around the Hayward Fault and measure how the ground in different neighborhoods responds to earthquake shaking.',
