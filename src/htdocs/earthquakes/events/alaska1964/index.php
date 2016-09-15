@@ -47,14 +47,22 @@
 
 	<!--<li>
 		<a href="/earthquakes/states/events/1964_03_28.php">
-			<h4>Historic Earthquakes&mdash;1964 Great Alaska Earthquake</h4>
+			<h4>Earthquake Impact Summary</h4>
 			<img src="img/usgs-summary.jpg" alt="Prince William Sound map" width="150px">
 		</a>
 		<p>This USGS summary of the earthquake examines the geologic setting and effects, including landslides, the tsunami, and structural damage.</p>
 	</li>-->
 
+  <li>
+    <a href="http://earthquake.usgs.gov/earthquakes/eventpage/iscgem869809#executive">
+      <h4>Event Page</h4>
+      <img src="img/event-page.jpg" alt="Regional information image" width="150px"/>
+    </a>
+    <p>Tetonic summary, data, and maps.</p>
+  </li>
+
 	<li>
-		<a href="/earthquakes/eventpage/iscgem869809#shakemap">
+		<a href="http://earthquake.usgs.gov/earthquakes/eventpage/iscgem869809#shakemap">
 			<h4>ShakeMap</h4>
 			<img src="img/shakemap.jpg" alt="ShakeMap" width="150px">
 		</a>
@@ -75,12 +83,13 @@
 
 <ul class="no-style linklist">
 	<li>
-		<a href="http://gallery.usgs.gov/videos/748">
+		<a href="http://www.usgs.gov/media/videos/magnitude-92-1964-great-alaska-earthquake">
 			<h4>Magnitude 9.2: The 1964 Great Alaska Earthquake</h4>
 			<img src="img/magnitude92.png" alt="screenshot of video" width="150px"/>
 		</a>
-		<p>Short video (4 min) by Stephen Wessells, USGS relating how the largest quake in U.S. history had profound and lasting impacts on our lives. The video features USGS geologist George Plafker who, in the 1960&rsquo;s, correctly interpreted the quake as a subduction zone event. This was a great leap forward in resolving key mechanisms of the developing theory of plate tectonics. <a href="http://www.usgs.gov/newsroom/article.asp?ID=3842">USGS News Release</a> announcing these videos.</p>
-		<p>An expanded version (11 min) is also available: <a href="http://gallery.usgs.gov/videos/755">1964 Quake: The Great Alaska Earthquake</a> (<a href="https://www.youtube.com/watch?v=yXQqHS5lGXQ">en Espa&ntilde;ol</a>).</p>
+		<p>Short video (4 min) by Stephen Wessells, USGS relating how the largest quake in U.S. history had profound and lasting impacts on our lives. The video features USGS geologist George Plafker who, in the 1960&rsquo;s, correctly interpreted the quake as a subduction zone event. This was a great leap forward in resolving key mechanisms of the developing theory of plate tectonics.</p>
+		<p>An expanded version (11 min) is also available: <a href="https://www.usgs.gov/media/videos/1964-quake-great-alaska-earthquake">1964 Quake: The Great Alaska Earthquake</a>
+      (<a href="https://www.usgs.gov/media/videos/1964-quake-great-alaska-earthquake-spanish">en Espa&ntilde;ol</a>).</p>
 	</li>
 
 	<li>
@@ -174,13 +183,13 @@
 		<p>Ned Rozell&rsquo;s personal account of his meeting with George Plafker, one of three USGS Geologists who responded to the Great Alaska quake a few days after event. Plafker spent most of the summer in Alaska researching and documenting the earthquake.</p>
 	</li>
 
-	<li>
+	<!--<li>
 		<a href="http://www.usgs.gov/newsroom/article.asp?ID=3854">
 			<h4>Prior Great Earthquakes Unveiled at the Western Edge of the 1964 Alaska Rupture</h4>
 			<img src="img/Sitkinak-Island.jpg" alt="Photo of geologists extracting a core sample" width="150px"/>
 		</a>
 		<p>Scientists working on Sitkinak Island, 15 miles southwest of Kodiak Island, unearthed geologic records from the last 1,000 years of at least three large subduction ruptures that broke through the western edge of the 1964 Alaska earthquake.</p>
-	</li>
+	</li>-->
 
 	<li>
 		<a href="http://srl.geoscienceworld.org/content/85/2/245.full">
@@ -191,20 +200,12 @@
 	</li>
 
 	<!--<li>
-		<a href="http://www.alaskamagazine.com/index.php/november-2012-summary/362-tim-wright">
-			<h4>Preparing Alaska for the Next Big Earthquake</h4>
-			<img src="img/alaska-mag.jpg" alt="Alaska Magazine cover" width="150px"/>
-		</a>
-		<p>Article by Tim Wright examining the scientific insights as well as the establishment of the National Tsunami Warning Center that resulted from the earthquake, and the importance of preparing for the next disaster.</p>
-	</li>-->
-
-	<li>
 		<a href="http://www.usgs.gov/newsroom/article.asp?ID=3840">
 			<h4>Historic Reports Reissued for Great Alaska Quake 50th Anniversary</h4>
 			<img src="img/historic-reports.jpg" alt="aerial photo of uplifted sea floor" width="150px"/>
 		</a>
 		<p>To commemorate the 50th anniversary of the largest earthquake ever recorded in the United States, the U.S. Geological Survey has reissued a series of landmark reports covering the results of investigations of the Great Alaska Earthquake of March 27, 1964.</p>
-	</li>
+	</li>-->
 
 </ul>
 
@@ -310,14 +311,6 @@
       <img src="img/alliance.png" alt="Alliance logo" width="150px"/>
     </a>
 		<p>The Alaska Earthquake Alliance coordinates earthquake awareness and preparedness activities throughout Alaska. The purpose of the group is to bring together both institutions and individuals who have an interest in reducing earthquake hazards in Alaska.</p>
-	</li>
-
-	<li>
-		<a href="https://consortiumlibrary.org/blogs/64akquake/">
-      <h4>Great Alaska Earthquake of 1964&mdash;A Guide to Resources</h4>
-      <img src="img/64akquake.jpg" alt="thumbnail image of web page" width="150px"/>
-    </a>
-		<p>March 27, 2014 marks the fiftieth anniversary of the Great Alaska Earthquake of 1964. To mark the event, a number of Alaskan repositories have come together to create this guide to information resources related to the earthquake.</p>
 	</li>
 
 </ul>
