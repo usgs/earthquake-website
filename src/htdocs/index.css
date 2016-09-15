@@ -35,3 +35,16 @@ img.nehrp {
   max-height: 87px;
   max-width: 100%;
 }
+
+ul.feature, li.feature-item {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h3.feature-title {
+
+}
+
+img.feature-image {
+  width: 150px;
+}
