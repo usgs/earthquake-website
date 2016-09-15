@@ -49,111 +49,87 @@ if (!isset($TEMPLATE)) {
 
     <!-- 6 Sections of Website -->
     <div class="sections">
-      <div class="row">
 
-        <div class="column one-of-two">
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/earthquakes/">
-                <!-- <h2>Earthquakes</h2> -->
-                <img class="sections-img" src="/images-home/home-earthquakes400.jpg" alt="" />
+                <img class="sections-img" src="/images-home/home-earthquakes150x150.gif" alt="" />
+                <h2>Earthquakes</h2>
               </a>
-                <!--<p>
+                <p>
                   Information about real-time earthquakes, online catalog search of archives, seismicity maps and statistics.
-                </p>-->
+                </p>
             </li>
           </ul>
-        </div>
-        <div class="column one-of-two">
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/hazards/">
-                <!-- <h2>Hazards</h2> -->
-                <img class="sections-img" src="/images-home/home-hazards400.jpg" alt="" />
+                <img class="sections-img" src="/images-home/home-hazards150x150.gif" alt="" />
+                <h2>Hazards</h2>
               </a>
-                <!--<p>
+                <p>
                   US faults, information about seismic hazards in various areas,
                   tools for seismic design values.
-                </p>-->
+                </p>
             </li>
           </ul>
-        </div>
-      </div>
-
-      <div class="row">
-
-        <div class="column one-of-two">
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/data/">
-                <!-- <h2>Data &amp; Products</h2> -->
-                <img class="sections-img" src="/images-home/home-data400.jpg" alt="" />
+                <img class="sections-img" src="/images-home/home-data150x150.jpg" alt="" />
+                <h2>Data &amp; Products</h2>
               </a>
-                <!--<p>
+                <p>
                   Monitoring, station, and other various seismic data available for
                   download. Data products to view and download.
-                </p>-->
+                </p>
             </li>
           </ul>
-        </div>
-        <div class="column one-of-two">
           <ul class="sections-list">
             <li>
               <a href="/learn/">
-                <!-- <h2>Learn</h2> -->
-                <img class="sections-img" src="/images-home/home-learn400.jpg" alt="" />
+                <img class="sections-img" src="/images-home/home-learn150x150.jpg" alt="" />
+                <h2>Learn</h2>
               </a>
-                <!--<p>
+                <p>
                   The science of earthquakes, FAQ, glossary, links to earthquake
                   topics, Earthquakes for kids.
-                </p>-->
+                </p>
             </li>
           </ul>
-        </div>
-      </div>
-
-      <div class="row">
-
-        <div class="column one-of-two">
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/monitoring">
-                <!-- <h2>Monitoring</h2> -->
-                  <img class="sections-img" src="/images-home/home-monitoring400.jpg" alt="" />
+                  <img class="sections-img" src="/images-home/home-monitoring150x150.jpg" alt="" />
+                  <h2>Monitoring</h2>
                 </a>
-                <!--<p>
+                <p>
                   Global, national and regional networks recording earthquakes and crustal movements, maps, station information, real-time seismic waveforms.
-                </p>-->
+                </p>
             </li>
           </ul>
-        </div>
-        <div class="column one-of-two">
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/research/">
-                <!-- <h2>Research</a></h2>-->
-                    <img class="sections-img" src="/images-home/home-research400.jpg" alt="" />
+                    <img class="sections-img" src="/images-home/home-research150x150.jpg" alt="" />
+                    <h2>Research</h2>
                   </a>
-                <!--<p>
+                <p>
                   Research projects in the Earthquake Hazards Program, external
                   research support, science center activities, software.
-                </p>-->
+                </p>
             </li>
           </ul>
-        </div>
-      </div>
-
     </div>
 
 
     <div class='alert'>
+      <?php
+      include_once '_features.inc.php';
+      echo $EQ_FEATURES->toHtml();
+      ?>
 
-    <?php
-    include_once '_features.inc.php';
-    echo $EQ_FEATURES->toHtml();
-    ?>
-
-    <a href="atom.php"><img style="padding-right:16px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe to Earthquake Hazards Program Highlights</a>
+      <a href="atom.php"><img style="padding-right:16px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe to Earthquake Hazards Program Highlights</a>
     </div>
 
     <p>
@@ -162,5 +138,4 @@ if (!isset($TEMPLATE)) {
     </p>
 
   </div>
-
 </div>
