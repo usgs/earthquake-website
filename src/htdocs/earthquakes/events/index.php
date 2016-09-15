@@ -21,5 +21,5 @@
   <li><a href="/earthquakes/events/alaska1964/">The Great M9.2 Alaska Earthquake and Tsunami of March 27, 1964</a></li>
   <li><a href="/regional/nca/1906/">M7.9 April 18, 1906 San Francisco Earthquake</a></li>
   <li><a href="/regional/nca/1868/">M6.8 October 21, 1868 Hayward Fault Earthquake</a></li>
-  <li><a href="/earthquakes/events/1857sca/">The Great M~8.0 1857 Fort Tejon Earthquake</a></li>
+  <li><a href="/earthquakes/events/1857sca/">The Great M7.9 1857 Fort Tejon Earthquake</a></li>
 </ul>
