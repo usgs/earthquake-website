@@ -1,0 +1,81 @@
+Shallow Background Seismicity Models
+
+hazgridXnga.samoa input files to use corresponding to Open-File Report2012-1087 and Their Weights
+File Name				Weight
+amsam12s.agrid.0-50.nga.in		0.5
+amsam12s.agrid.0-50.zhaoc.in		0.5
+amsam12s.agrid.fiji.nga.in		0.5
+amsam12s.agrid.fiji.zhaoc.in		0.5
+amsam12s.agrid.nh.nga.in		0.5
+amsam12s.agrid.nh.zhaoc.in		0.5
+amsam12s.agrid.nhor.nga.in		0.5
+amsam12s.agrid.nhor.zhaoc.in		0.5	
+amsam12s.agrid.t.nga.in			0.5
+amsam12s.agrid.t.zhaoc.in		0.5
+amsam12s.agrid.tor.nga.in		0.5
+amsam12s.agrid.tor.zhaoc.in		0.5
+
+hazgridXnga.samoa input files to use corresponding to Uniform American Samoa Zone of Hazard (Aug 2012 update)
+noamsam12s.agrid.0-50.nga.in		0.5
+noamsam12s.agrid.0-50.zhaoc.in		0.5
+amsam12n.agrid.uniform8.2.zhaoc.in	0.1
+amsam12n.agrid.uniform8.2.nga.in	0.1
+amsam12n.agrid.uniform.zhaoc.in		0.4
+amsam12n.agrid.uniform.nga.in		0.4
+amsam12s.agrid.fiji.nga.in		0.5
+amsam12s.agrid.fiji.zhaoc.in		0.5
+amsam12s.agrid.nh.nga.in		0.5
+amsam12s.agrid.nh.zhaoc.in		0.5
+amsam12s.agrid.nhor.nga.in		0.5
+amsam12s.agrid.nhor.zhaoc.in		0.5	
+amsam12s.agrid.t.nga.in			0.5
+amsam12s.agrid.t.zhaoc.in		0.5
+amsam12s.agrid.tor_gaus35.nga.in	0.5
+amsam12s.agrid.tor_gaus35.zhaoc.in	0.5
+
+hazgridXnga.samoa input files corresponding to Deep Background Seismicity Models (common to both shallow-hazard models above). Zhaop and zp files use the shifted-GMPE-median model.
+amsam11.agrid.50-100.zhao.in		0.8
+amsam11.agrid.50-100.zhaop.in		0.2
+amsam11.agrid.100-200.zhao.in		0.8
+amsam11.agrid.100-200.zhaop.in		0.2
+amsam11.agrid.200-300z.in		0.8
+amsam11.agrid.200-300zp.in		0.2
+amsam11.agrid.300-400z.in		0.8
+amsam11.agrid.300-400zp.in		0.2
+amsam11.agrid.400-500z.in		0.8
+amsam11.agrid.400-500zp.in		0.2
+amsam11.agrid.500-600z.in		0.8
+amsam11.agrid.500-600zp.in		0.2
+amsam11.agrid.600-723z.in		0.8
+amsam11.agrid.600-723zp.in		0.2
+
+hazSUBXnga.samoa input files corresponding to Subduction Source Models. 9p0 in file name have M9.0 Mmax. 8p5 in file name have M8.5 Mmax.	
+amsam11.samoa9p0z.in			0.5
+amsam11.samoa8p5z.in			0.5
+amsam11.van9p0z.in			0.5
+amsam11.van8p5z.in			0.5
+
+Scripts to combine hazard curves:
+For the OFR version of logic tree:
+combine.all.nga12s.csh
+combine.all.zhao12s.csh
+combine.final.2pc50.csh
+
+For the American Samoa Zone version of logic tree:
+combine.uniform.nga12s.csh
+combine.uniform.zhao12s.csh
+
+For just the American Samoa region, blending (50%wt to each) the OFR and Zone versions of logic tree:
+combine.these.csh
+interp_map.csh
+For other parts of the South Pacific Study area, we recommend that you just use the OFR version of the 
+hazard curve.
+
+The last cshell script above, interp_map.csh, interpolates a 1/10 degree sampled set to a 1/20 degree sampled set of sites or receivers.
+
+Reference:
+Petersen, M.D., Harmsen, S.C., Rukstales, K.S., Mueller, C.S., McNamara, D.E., Luco, Nicolas, and Walling, Melanie, 2012, Seismic hazard of American Samoa and neighboring South Pacific Islands?Methods, data, parameters, and results: U.S. Geological Survey Open-File Report 2012?1087, 98 p.
+
+
+
+
