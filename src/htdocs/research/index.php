@@ -89,7 +89,7 @@ if (!isset($TEMPLATE)) {
       </a>
       <ul class='no-style separator articles'>
         <li><a href="nepal2015/">The M7.8 Nepal Earthquake, 2015 – A Small Push to Mt. Everest</a></li>
-        <li><a href="napa2014/">M6 South Napa, California Earthquake – August 24, 2014: What We Know After One Year</a></li>
+        <li><a href="/earthquakes/events/2014napa/">M6 South Napa, California Earthquake – August 24, 2014: What We Know After One Year</a></li>
         <li><a href="splays/">The "Snow Plow Theory"* of Early-Arriving Tsunamis</a></li>
         <li><a href="/earthquakes/events/2011virginia/overview.php">Scientific Overview of the M5.8 Earthquake in Central Virginia on August 23, 2011</a></li>
       </ul>
