@@ -3,7 +3,7 @@
 // Contact: Lisa Wald, lisa@usgs.gov
 // Last modified: 11/24/2015
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Contact Us';
+  $TITLE = 'Contact Us/Regional Science Activities';
   $HEAD = '<link rel="stylesheet" href="/lib/hazdev-svgimagemap.css"></script>' .
   $FOOT = '<script src="/lib/hazdev-svgimagemap.js"></script>' .
       '<script src="index.js"></script>';
