@@ -47,6 +47,16 @@ if (!isset($TEMPLATE)) {
 <!-- LEFT COLUMN: WEBSITE SECTIONS and HIGHLIGHTS -->
   <div class="column one-of-two">
 
+    <!-- Featured Items -->
+    <div class='alert'>
+      <?php
+      include_once '_features.inc.php';
+      echo $EQ_FEATURES->toHtml();
+      ?>
+
+      <a href="atom.php"><img style="padding-right:16px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe to Earthquake Hazards Program Highlights</a>
+    </div>
+
     <!-- 6 Sections of Website -->
     <div class="sections">
 
@@ -122,17 +132,7 @@ if (!isset($TEMPLATE)) {
           </ul>
     </div>
 
-
-    <div class='alert'>
-      <?php
-      include_once '_features.inc.php';
-      echo $EQ_FEATURES->toHtml();
-      ?>
-
-      <a href="atom.php"><img style="padding-right:16px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe to Earthquake Hazards Program Highlights</a>
-    </div>
-
-    <p>
+    <p class='alert'>
       <img class="nehrp" src="images-home/nehrp.png">
       The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977. We monitor and report earthquakes, assess earthquake impacts and hazards, and research the causes and effects of earthquakes.
     </p>
