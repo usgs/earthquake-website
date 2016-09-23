@@ -13,17 +13,17 @@ if (!isset($TEMPLATE)) {
 <div class="row">
   <div class="column">
     <p>
-      The USGS is offering earthquake alerts via two twitter accounts @USGSted and
-      @USGSBigQuakes.
+      The USGS is offering earthquake alerts via two twitter accounts @USGSted
+      and @USGSBigQuakes.
     </p>
 
     <p>
       On average, @USGSted and @USGSBigQuakes will produce about one tweet per
       day, however, aftershocks following major earthquakes can greatly increase
-      this number. Users interested in custom alerts based on specific geographic
-      regions and magnitude thresholds should sign up for e-mail alerts
-      distributed by our <a href="https://sslearthquake.usgs.gov/ens/">Earthquake
-      Notification Service (ENS)</a>.
+      this number. Users interested in custom alerts based on specific
+      geographic regions and magnitude thresholds should sign up for e-mail
+      alerts distributed by our <a href="https://sslearthquake.usgs.gov/ens/">
+      Earthquake Notification Service (ENS)</a>.
     </p>
   </div>
 </div>
@@ -34,17 +34,18 @@ if (!isset($TEMPLATE)) {
   <div class="two-of-three column">
     <p>
       <a href="https://twitter.com/USGSted">@USGSted</a> (USGS Tweet Earthquake
-      Dispatch) distributes alerts for earthquakes worldwide with magnitudes of 5.5
-      and above. We may modify this criteria in the future to tweet alerts for more
-      earthquakes of potential interest. @USGSted earthquake tweets contain a
-      magnitude descriptor,location, origin time, and a link to the USGS webpage
-      with the most recent information about the event. In addition to the
-      seismically derived parameters, the alerts also include the frequency of
-      tweets in a region surrounding the event that contain the word &ldquo;
-      earthquake&rdquo; or its equivalent in several languages. Our observations
-      show these tweets often originate from people who have experienced the
-      shaking effects of the earthquake. After some significant earthquakes,
-      @USGSted will also tweet supplementary information about the event.
+      Dispatch) distributes alerts for earthquakes worldwide with magnitudes of
+      5.5 and above. We may modify this criteria in the future to tweet alerts
+      for more earthquakes of potential interest. @USGSted earthquake tweets
+      contain a magnitude descriptor, location, origin time, and a link to the
+      USGS webpage with the most recent information about the event. In addition
+      to the seismically derived parameters, the alerts also include the
+      frequency of tweets in a region surrounding the event that contain the
+      word &ldquo; earthquake&rdquo; or its equivalent in several languages.
+      Our observations show these tweets often originate from people who have
+      experienced the shaking effects of the earthquake. After some significant
+      earthquakes, @USGSted will also tweet supplementary information about the
+      event.
     </p>
     <a href="https://twitter.com/USGSted" class="twitter-follow-button">
       Follow @USGSted
@@ -64,10 +65,10 @@ if (!isset($TEMPLATE)) {
   <div class="two-of-three column">
     <p>
       <a href="https://twitter.com/USGSBigQuakes">@USGSBigQuakes</a> (USGS Big
-      Quakes) is for users who are only interested in seismically derived content.
-      @USGSBigQuakes distributes alerts for earthquakes worldwide with magnitudes
-      of 5.5 and above. The tweets do not include the frequency of tweets
-      containing the word &ldquo;earthquake&rdquo;.
+      Quakes) is for users who are only interested in seismically derived
+      content. @USGSBigQuakes distributes alerts for earthquakes worldwide with
+      magnitudes of 5.5 and above. The tweets do not include the frequency of
+      tweets containing the word &ldquo;earthquake&rdquo;.
     </p>
     <a href="https://twitter.com/USGSBigQuakes" class="twitter-follow-button">
       Follow @USGSBigQuakes
