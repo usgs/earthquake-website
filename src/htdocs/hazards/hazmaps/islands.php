@@ -31,7 +31,7 @@
   <li><a href="prvi/2003/maps/">Maps</a></li>
   <li><a href="prvi/2003/data/">Data</a></li>
   <li><a href="prvi/2003/software/">Software</a></li>
-  <li><a href="prvi/2003/documentation/">Documentation</a></li>
+  <li><a href="https://pubs.er.usgs.gov/publication/70034189">Documentation</a></li>
 </ul>
 
 <h2 id='samoapacific'>Samoa and the Pacific Islands</h2>
