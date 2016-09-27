@@ -1,13 +1,19 @@
+/* global $, L */
 'use strict';
-var VS30 = function() {
+
+/* jshint unused:false */
+var VS30 = (function () {
+/* jshint unused:true */
 
   var map, bounds, ctrl_layers, points;
 
-  $(document).ready(function() {
-    initMap();
-  });
+  var addBaseLayers,
+      addMarkersLayer,
+      initDownloadLink,
+      initMap,
+      getQueryString;
 
-  function initMap() {
+  initMap = function () {
     var ctrl_scale;
 
     map = L.map('map', {
@@ -19,9 +25,9 @@ var VS30 = function() {
 
     addBaseLayers();
     addMarkersLayer();
-  }
+  };
 
-  function addBaseLayers() {
+  addBaseLayers = function () {
     var mapq_osm, mapq_sat, greyscale_base, greyscale_ref, greyscale, terrain;
 
     // Mapquest base layers
@@ -55,9 +61,9 @@ var VS30 = function() {
       .addBaseLayer(mapq_osm, 'Street (Mapquest)')
       .addBaseLayer(greyscale, 'Greyscale')
       .addBaseLayer(mapq_sat, 'Satellite');
-  }
+  };
 
-  function addMarkersLayer() {
+  addMarkersLayer = function () {
     var cluster, markers, marker, popup, count = points.metadata.count;
 
     cluster = new L.MarkerClusterGroup({
@@ -110,10 +116,10 @@ var VS30 = function() {
       map.addLayer(markers);
     }
     initDownloadLink();
-  }
+  };
 
   // create / update link to download only points visible on map
-  function initDownloadLink() {
+  initDownloadLink = function () {
     var uri = './vs30.csv.php',
       querystring = getQueryString();
 
@@ -124,9 +130,9 @@ var VS30 = function() {
 
       $('.extent').attr('href', href);
     });
-  }
+  };
 
-  function getQueryString() {
+  getQueryString = function () {
     var mapextent = map.getBounds(),
       qs = [
         '?latmin=', Math.round(mapextent.getSouth() * 1000) / 1000,
@@ -135,13 +141,17 @@ var VS30 = function() {
         '&lngmax=', Math.round(mapextent.getEast() * 1000) / 1000,
       ].join('');
     return qs;
-  }
+  };
 
   // expose public methods, etc outside protected 'VS30' namespace
   var pub = {};
-  pub.storepoints = function(geojson) { // called via jsonp callback in HTML source
+  pub.storepoints = function (geojson) { // called via jsonp callback in HTML source
     points = geojson;
   };
-  return pub;
 
-}();
+  $(document).ready(function() {
+    initMap();
+  });
+
+  return pub;
+})();
