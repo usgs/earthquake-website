@@ -9,46 +9,46 @@
       }
 ?>
 <p>
-The effect of an earthquake on the Earth's
-surface is called the intensity. The intensity
-scale consists of a series of certain key
-responses such as people awakening, movement
-of furniture, damage to chimneys, and
-finally - total destruction. Although numerous
-<i> intensity scales</i> have been developed over
-the last several hundred years to evaluate
-the effects of earthquakes, the one currently
-used in the United States is the Modified
-Mercalli (MM) Intensity Scale. It was developed
-in 1931 by the American seismologists
-Harry Wood and Frank Neumann. This scale,
-composed of increasing levels of intensity
-that range from imperceptible shaking to
-catastrophic destruction, is designated by
-Roman numerals. It does not have a mathematical
-basis; instead it is an arbitrary
-ranking based on observed effects.
+  The effect of an earthquake on the Earth's
+  surface is called the intensity. The intensity
+  scale consists of a series of certain key
+  responses such as people awakening, movement
+  of furniture, damage to chimneys, and
+  finally - total destruction. Although numerous
+  <i> intensity scales</i> have been developed over
+  the last several hundred years to evaluate
+  the effects of earthquakes, the one currently
+  used in the United States is the Modified
+  Mercalli (MM) Intensity Scale. It was developed
+  in 1931 by the American seismologists
+  Harry Wood and Frank Neumann. This scale,
+  composed of increasing levels of intensity
+  that range from imperceptible shaking to
+  catastrophic destruction, is designated by
+  Roman numerals. It does not have a mathematical
+  basis; instead it is an arbitrary
+  ranking based on observed effects.
 </p>
 <p>
-The Modified Mercalli Intensity value
-assigned to a specific site after an earthquake
-has a more meaningful measure of
-severity to the nonscientist than the magnitude
-because intensity refers to the effects
-actually experienced at that place.
+  The Modified Mercalli Intensity value
+  assigned to a specific site after an earthquake
+  has a more meaningful measure of
+  severity to the nonscientist than the magnitude
+  because intensity refers to the effects
+  actually experienced at that place.
 </p>
 <p>
-The <strong>lower</strong> numbers of the intensity scale
-generally deal with the manner in which the
-earthquake is felt by people. The <b>higher</b>
-numbers of the scale are based on observed
-structural damage. Structural engineers
-usually contribute information for assigning
-intensity values of VIII or above.
+  The <strong>lower</strong> numbers of the intensity scale
+  generally deal with the manner in which the
+  earthquake is felt by people. The <b>higher</b>
+  numbers of the scale are based on observed
+  structural damage. Structural engineers
+  usually contribute information for assigning
+  intensity values of VIII or above.
 </p>
 <p>
-The following is an abbreviated description of
-the levels of Modified Mercalli intensity.
+  The following is an abbreviated description of
+  the levels of Modified Mercalli intensity.
 </p>
 
 <table>
@@ -150,8 +150,5 @@ the levels of Modified Mercalli intensity.
 <HR>
 
 <p>
-Abridged from <i><a href="http://pubs.usgs.gov/gip/earthq4/severitygip.html">The Severity of an Earthquake</a></i>, a U. S. Geological Survey General Interest Publication. U.S. GOVERNMENT PRINTING OFFICE: 1989-288-913
-</p>
-<p>
-This publication is one of a series of <a href="http://pubs.er.usgs.gov/browse/usgs-publications/GIP">general interest publications</a> prepared by the U.S. Geological Survey to provide information about the earth sciences, natural resources, and the environment.
+  Abridged from <i><a href="http://pubs.usgs.gov/gip/earthq4/severitygip.html">The Severity of an Earthquake</a></i>, USGS General Interest Publication 1989-288-913
 </p>

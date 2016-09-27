@@ -104,12 +104,10 @@
 </p>
 <h3>See also:</h3>
 <ul>
-  <li>
-    <strong><a href="megaqk_facts_fantasy.php">Earthquake Facts &amp; Earthquake Fantasy</a></strong> - Fact or Fiction?</li>
-    <li><a href="http://www.earthquakecountry.org/">Earthquake Country Alliance</a></li>
-  <li>
-    <a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/10.aspx">Commentary on "10.5 Apocalypse" Movie</a> - California Geological Survey</li>
-    <li><a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/NBC-10.aspx">Commentary on NBC's "10.5" Miniseries</a> - California Geological Survey</li>
-    <li><a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/Earthquake!-(1974).aspx">Commentary on the 1974 Movie "Earthquake"</a> - California Geological Survey</li>
+  <li><strong><a href="megaqk_facts_fantasy.php">Earthquake Facts &amp; Earthquake Fantasy</a></strong> - Fact or Fiction?</li>
+  <li><a href="http://www.earthquakecountry.org/">Earthquake Country Alliance</a></li>
+  <li><a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/10.aspx">Commentary on "10.5 Apocalypse" Movie</a> - California Geological Survey</li>
+  <li><a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/NBC-10.aspx">Commentary on NBC's "10.5" Miniseries</a> - California Geological Survey</li>
+  <li><a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/Earthquake!-(1974).aspx">Commentary on the 1974 Movie "Earthquake"</a> - California Geological Survey</li>
 
 </ul>
