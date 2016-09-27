@@ -35,7 +35,7 @@
 </p>
 
 <figure class="left">
-	<img src="/learn/glossary/images/ringoffire.gif" alt="Ring of Fire" width="194px"/>
+	<img src="/learn/glossary/images/ringoffire.gif" alt="Ring of Fire"/>
 </figure>
 
 <h3>FICTION: Earthquakes only occur on the West Coast in the United States.</h3>
@@ -79,7 +79,7 @@
 </p>
 
 <figure class="left">
-	<img src="images/calif.gif" alt="California & San Andreas Fault" width="200"/>
+	<img src="images/calif.gif" alt="California & San Andreas Fault"/>
 </figure>
 
 <h3>FICTION: California will eventually fall into the ocean.</h3>
@@ -89,12 +89,12 @@
 
 <h3>FICTION: An earthquake on the San Andreas fault can cause a large tsunami.</h3>
 <p>
-The San Andreas fault cannot create a big tsunami like the ones that happened in Sumatra in 2004 or Japan in 2011.  Those earthquakes happened on subduction zone faults, on which fault slip caused vertical uplift of the sea floor.  While a part of the San Andreas fault near and north of San Francisco is offshore, the motion is mostly horizontal, so it will not cause large vertical motions of the ocean floor that would generate a tsunami. Earthquakes on other faults offshore California as well as underwater landslides triggered by strong shaking can create local tsunamis, some of which may be locally damaging.
+  The San Andreas fault cannot create a big tsunami like the ones that happened in Sumatra in 2004 or Japan in 2011.  Those earthquakes happened on subduction zone faults, on which fault slip caused vertical uplift of the sea floor.  While a part of the San Andreas fault near and north of San Francisco is offshore, the motion is mostly horizontal, so it will not cause large vertical motions of the ocean floor that would generate a tsunami. Earthquakes on other faults offshore California as well as underwater landslides triggered by strong shaking can create local tsunamis, some of which may be locally damaging.
 </p>
 
 <h3>PARTIALLY FACT: An &#8220;Aftershock&#8221; can be greater than the initial earthquake.</h3>
 <p>
-&#8220;Foreshock&#8221;, &#8220;mainshock&#8221;, and &#8220;aftershock&#8221; are relative terms, all of which describe earthquakes.  Aftershocks are smaller earthquakes that occur in the same general area during the days to years following a larger event or &#8220;mainshock&#8221;. They mostly occur within 1-2 fault lengths of the mainshock.  For the largest earthquakes, this is a long distance; it is thought that the 1906 San Francisco earthquake triggered events in southern California, western Nevada, southern central Oregon, and western Arizona, all within 2 days of the mainshock.
+  &#8220;Foreshock&#8221;, &#8220;mainshock&#8221;, and &#8220;aftershock&#8221; are relative terms, all of which describe earthquakes.  Aftershocks are smaller earthquakes that occur in the same general area during the days to years following a larger event or &#8220;mainshock&#8221;. They mostly occur within 1-2 fault lengths of the mainshock.  For the largest earthquakes, this is a long distance; it is thought that the 1906 San Francisco earthquake triggered events in southern California, western Nevada, southern central Oregon, and western Arizona, all within 2 days of the mainshock.
 </p>
 <p>
   As a general rule, aftershocks represent readjustments in the vicinity of a fault that slipped at the time of the mainshock. The frequency of these aftershocks decreases with time. If an aftershock is larger than the first earthquake then we call it the mainshock and the previous earthquakes in a sequence become foreshocks. About 5% to 10% of earthquakes in California are followed by a larger one within a week and then are considered a foreshock.
@@ -123,7 +123,7 @@ The San Andreas fault cannot create a big tsunami like the ones that happened in
 </p>
 
 <figure class="left">
-	<img src="images/instrument.jpg" alt="seismic instrument" width="216"/>
+	<img src="images/instrument.jpg" alt="seismic instrument"/>
 </figure>
 
 <h3>FICTION: People can stop earthquakes.</h3>
@@ -139,7 +139,7 @@ The San Andreas fault cannot create a big tsunami like the ones that happened in
   Scientists agree that even large nuclear explosions have little effect on seismicity outside the area of the blast itself. The largest underground thermonuclear tests conducted by the United States were detonated in Amchitka at the western end of the Aleutian Islands, and the largest of these was the 5 megaton test code-named Cannikin that occurred on November 6, 1971 that did not trigger any earthquakes in the seismically active Aleutian Islands.
 </p>
 <p>
-On January 19, 1968, a thermonuclear test, code-named Faultless, took place in central Nevada. The code-name turned out to be a poor choice because a fresh fault rupture some 4,000 feet long was produced. Seismograph records showed that the seismic waves produced by the fault movement were much less energetic than those produced directly by the nuclear explosion. Locally, there were some minor earthquakes surrounding the blasts that released small amounts of energy. Scientists looked at the rate of earthquake occurrence in northern California, not far from the test site, at the times of the tests and found nothing to connect the testing with earthquakes in the area.
+  On January 19, 1968, a thermonuclear test, code-named Faultless, took place in central Nevada. The code-name turned out to be a poor choice because a fresh fault rupture some 4,000 feet long was produced. Seismograph records showed that the seismic waves produced by the fault movement were much less energetic than those produced directly by the nuclear explosion. Locally, there were some minor earthquakes surrounding the blasts that released small amounts of energy. Scientists looked at the rate of earthquake occurrence in northern California, not far from the test site, at the times of the tests and found nothing to connect the testing with earthquakes in the area.
 </p>
 <h3>FICTION: You can prevent large earthquakes by making lots of small ones, or by &#8220;lubricating&#8221; the fault with water.</h3>
 <p>
@@ -150,7 +150,7 @@ On January 19, 1968, a thermonuclear test, code-named Faultless, took place in c
 </p>
 
 <figure class="left">
-	<img src="images/hazmap2014.gif" alt="2014 U.S. Earthquake Hazard map" width="280"/>
+	<img src="images/hazmap2014.gif" alt="2014 U.S. Earthquake Hazard map"/>
 </figure>
 
 <h3>FICTION: We can predict earthquakes.</h3>
@@ -174,7 +174,7 @@ On January 19, 1968, a thermonuclear test, code-named Faultless, took place in c
 </p>
 
 <figure class="left">
-	<img src="images/statue.jpg" alt="fallen statue" width="128"/>
+	<img src="images/statue.jpg" alt="fallen statue"/>
 </figure>
 
 <h3>NOT LIKELY: The Golden Gate Bridge, Seattle Space Needle and other buildings will all eventually fall during an earthquake.</h3>
@@ -182,7 +182,7 @@ On January 19, 1968, a thermonuclear test, code-named Faultless, took place in c
   Damage in earthquakes depends on the strength of the ground shaking and the ability of a structure to accommodate this shaking.  Building codes define the guidelines for how strong structures need to be to perform well in earthquakes and continue to evolve as engineers and scientists better understand earthquakes and how structures respond to ground shaking.
 </p>
 <p>
-  Based on the type of construction and the building code at the time when they were built, we have a pretty good understanding of what buildings are likely to be damaged in future earthquakes. A detailed scientific assessment of the likely damage in a big San Andreas earthquake in southern California (<a href="http://pubs.er.usgs.gov/publication/cir1324)">The ShakeOut Earthquake Scenario - A Story That Southern Californians Are Writing</a>) estimated that 300,000 buildings in southern California would be damaged at a moderate level (losing at least 10% the value of the building) as modeled in the M7.8 ShakeOut scenario earthquake. Although this is a large number, it is only 1 out of every 16 buildings in the region.  Most buildings will not have significant damage.  Moreover, only 1,500 of those buildings will actually collapse.  That is less than 1 out of 30,000 buildings in southern California.  Widespread collapse of many buildings is not realistic.
+  Based on the type of construction and the building code at the time when they were built, we have a pretty good understanding of what buildings are likely to be damaged in future earthquakes. A detailed scientific assessment of the likely damage in a big San Andreas earthquake in southern California (<a href="http://pubs.er.usgs.gov/publication/cir1324">The ShakeOut Earthquake Scenario - A Story That Southern Californians Are Writing</a>) estimated that 300,000 buildings in southern California would be damaged at a moderate level (losing at least 10% the value of the building) as modeled in the M7.8 ShakeOut scenario earthquake. Although this is a large number, it is only 1 out of every 16 buildings in the region.  Most buildings will not have significant damage.  Moreover, only 1,500 of those buildings will actually collapse.  That is less than 1 out of 30,000 buildings in southern California.  Widespread collapse of many buildings is not realistic.
 </p>
 
 <h3>FACT: Earthquakes don&#8217;t kill people, buildings and their contents do.</h3>
@@ -205,7 +205,7 @@ On January 19, 1968, a thermonuclear test, code-named Faultless, took place in c
 </p>
 
 <figure class="left">
-	<img src="images/redcross.jpg" alt="Red Cross truck" width="275"/>
+	<img src="images/redcross.jpg" alt="Red Cross truck"/>
 </figure>
 
 <h3>FICTION: Everyone will panic during the Big One.</h3>
@@ -241,26 +241,23 @@ On January 19, 1968, a thermonuclear test, code-named Faultless, took place in c
 <h3>FACT: The U.S. Geological Survey is conducting research to better forecast the effects of potentially damaging earthquakes throughout the United States and mitigate their effects.</h3>
 <p>
   Basic and applied scientific research is being carried out to predict the types of ground shaking expected from future large earthquakes based upon the probabilities (or likelihoods) of those earthquakes occurring, the physics of the earthquake source, the propagation of seismic waves through the Earth&#8217;s crust and local site effects. Together with rupture scenarios for specific faults, these hazard assessments are essential for multiple applications, including:
+  <ul>
+    <li>
+      Probabilistic seismic hazard assessments such as the National Seismic Hazard Map that underlie seismic provisions of building and other regulatory codes; as well as detailed urban seismic hazard maps that include the effects of rupture directivity, 3D basin response and soil nonlinearity. These urban hazard maps will be included in code updates for selected regions.
+    </li>
+    <li>
+      Development of credible earthquake scenarios for specific faults with synthetic ground-motion time histories for evaluating current engineering design practice, improving building codes and for emergency planning and public education.
+    </li>
+    <li>
+      Other uses of these hazard products include: 1) site-specific designs and retrofits of critical and major facilities such as bridges, hospitals, nuclear power reactors, dams and tall buildings, 2) modeling damage patterns and damage to specific structures after earthquakes, 3) assessing secondary earthquake hazards such as liquefaction and landslides and 4) computing actuarially sound earthquake insurance premiums.
+    </li>
+  </ul>
+</p>
+<h2>See also:</h2>
 <ul>
-  <li>
-    Probabilistic seismic hazard assessments such as the National Seismic Hazard Map that underlie seismic provisions of building and other regulatory codes; as well as detailed urban seismic hazard maps that include the effects of rupture directivity, 3D basin response and soil nonlinearity. These urban hazard maps will be included in code updates for selected regions.
-  </li>
-  <li>
-    Development of credible earthquake scenarios for specific faults with synthetic ground-motion time histories for evaluating current engineering design practice, improving building codes and for emergency planning and public education.
-  </li>
-  <li>
-    Other uses of these hazard products include: 1) site-specific designs and retrofits of critical and major facilities such as bridges, hospitals, nuclear power reactors, dams and tall buildings, 2) modeling damage patterns and damage to specific structures after earthquakes, 3) assessing secondary earthquake hazards such as liquefaction and landslides and 4) computing actuarially sound earthquake insurance premiums.
-  </li>
-</ul>
-<h2>
-	See also:
-</h2>
-<ul>
-	<li>
-		<strong><a href="megaquakes.php">Earthquakes, Megaquakes, and the Movies </a></strong></li>
-    <li><a href="http://www.earthquakecountry.org/">Earthquake Country Alliance</a></li>
-	<li>
-		<a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/10.aspx">Commentary on "10.5 Apocalypse" Movie</a> - California Geological Survey</li>
-		<li><a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/NBC-10.aspx">Commentary on NBC's "10.5" Miniseries</a> - California Geological Survey</li>
-		<li><a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/Earthquake!-(1974).aspx">Commentary on the 1974 Movie "Earthquake"</a> - California Geological Survey</li>
+	<li><strong><a href="megaquakes.php">Earthquakes, Megaquakes, and the Movies </a></strong></li>
+  <li><a href="http://www.earthquakecountry.org/">Earthquake Country Alliance</a></li>
+	<li><a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/10.aspx">Commentary on "10.5 Apocalypse" Movie</a> - California Geological Survey</li>
+	<li><a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/NBC-10.aspx">Commentary on NBC's "10.5" Miniseries</a> - California Geological Survey</li>
+	<li><a href="http://www.conservation.ca.gov/cgs/EarthquakeDOC/EQ-Movie_Reviews/Pages/Earthquake!-(1974).aspx">Commentary on the 1974 Movie "Earthquake"</a> - California Geological Survey</li>
 </ul>

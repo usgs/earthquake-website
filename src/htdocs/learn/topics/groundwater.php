@@ -8,20 +8,27 @@
       include	'template.inc.php';
       }
 ?>
-<p><strong>Note:</strong> Some of the explanations below are speculative and should not be relied upon for decision-making. Please see the reference articles (below) for published results. </p>
-<p>Seismic waves have <strong>two main types of effects</strong> on groundwater levels:
+<p>
+  <strong>Note:</strong> Some of the explanations below are speculative and should not be relied upon for decision-making. Please see the reference articles (below) for published results.
+</p>
+<p>
+  Seismic waves have <strong>two main types of effects</strong> on groundwater levels:
   <strong>oscillations</strong>, and <strong>&quot;permanent&quot; offsets</strong>. Muddy or turbid water at long distances from the
-  epicenter are most likely  an aftereffect of oscillations.</p>
+  epicenter are most likely  an aftereffect of oscillations.
+</p>
 <h2>Oscillations</h2>
-<p>Oscillations have been known for decades (see papers by Rexin below).
+<p>
+  Oscillations have been known for decades (see papers by Rexin below).
   The oscillations are rarely recorded with a short enough sampling period
   to see details of the wave train. On chart recorders they show up as
   vertical lines and on digital data sampled every few minutes they show up
   as a few errant data points. When they are recorded with a sampling interval
   of about 1 sec, they generally look like low-pass-filtered seismograms. Dominant
   periods are about 20 sec, consistent with the idea that the water level changes
-  are predominantly caused by long-period surface waves.</p>
-<p>A <strong>theory</strong> for the oscillations was developed by <cite>Cooper et al.</cite> and refined by <cite>Liu et al.</cite> This theory is based on the idea that seismic waves cause
+  are predominantly caused by long-period surface waves.
+</p>
+<p>
+  A <strong>theory</strong> for the oscillations was developed by <cite>Cooper et al.</cite> and refined by <cite>Liu et al.</cite> This theory is based on the idea that seismic waves cause
   expansion and contraction of the aquifer tapped by the well, in turn causing oscillatory
   pore pressure changes. If the aquifer has high enough transmissivity, then
   these pressure changes cause flow into and out of the well. The flow in turn
@@ -29,19 +36,24 @@
   the theoretical dominant frequency is around 10-30 sec based on the height of
   the water column. Following this theory, the head changes in the aquifer
   induced by the seismic waves are actually only a fraction of the water-level changes in the
-  well.</p>
-<p>The theory is only now being rigourously tested by quantitatively comparing
+  well.
+</p>
+<p>
+  The theory is only now being rigourously tested by quantitatively comparing
   seismograms with the &quot;hydroseismograms&quot;, and so far the  conclusion is that the resonance
   effect is not actually that important. This implies that
   the pore pressure changes in the aquifer are about the same size as the water level
   fluctuations in the well. If this holds true for additional sites, it means that seismic waves
-  induce bigger pore pressure changes in subsurface formations than previously thought.</p>
+  induce bigger pore pressure changes in subsurface formations than previously thought.
+</p>
 <h2>Offsets</h2>
-<p>The &quot;offsets&quot; are harder to explain. They have also been known for
+<p>
+  The &quot;offsets&quot; are harder to explain. They have also been known for
   decades (eg., the 1964 Alaska quake papers). We do expect offsets in the
   &quot;near field&quot; of an earthquake because the fault offset produces permanent expansion and
   contraction of the surrounding rocks. At distances of 100's or 1000's of km, however,
-  the permanent ground deformation is negligible. </p>
+  the permanent ground deformation is negligible.
+</p>
 <h3>Some observations about the steps:</h3>
 <ul>
   <li>Certain wells exhibit the offsets; most do not.</li>
@@ -90,12 +102,15 @@
     pinned down, but the circumstantial evidence for a connection is rather compelling.</li>
 </ul>
 <h2>Further Details </h2>
-<p>Confined vs. unconfined aquifers: In the &quot;near field&quot; of an earthquake
-(say 10-20 km), confined aquifers are more likely to show a response to
-permanent deformation caused by the fault offset. However, seismic waves
-seem to be able to cause groundwater level changes in other ways, and these
-changes can show up in either confined or unconfined aquifers.</p>
-<p>Changes caused by permanent deformation
+<p>
+  Confined vs. unconfined aquifers: In the &quot;near field&quot; of an earthquake
+  (say 10-20 km), confined aquifers are more likely to show a response to
+  permanent deformation caused by the fault offset. However, seismic waves
+  seem to be able to cause groundwater level changes in other ways, and these
+  changes can show up in either confined or unconfined aquifers.
+</p>
+<p>
+  Changes caused by permanent deformation
   (strain) only last until the pressure equilibrates with the water table. This can
   happen in minutes or may take months. The time scale is approximately given by the
   square of the aquifer depth divided by the vertical hydraulic diffusivity
@@ -104,19 +119,24 @@ changes can show up in either confined or unconfined aquifers.</p>
   The mechanisms of most of these changes are unknown, so the mechanism of their recovery is
   unknown. The recovery may take place by flow to the boundaries of the
   hydrologic system, so the time scale is governed by the distance to the boundaries and the
-  hydraulic diffusivity.</p>
-<p>Could water levels be affected several times per year? If a well
+  hydraulic diffusivity.
+</p>
+<p>
+  Could water levels be affected several times per year? If a well
   exhibits seismic oscillations, then it could potentially have oscillations for many
   earthquakes of M7 occurring within a distance of 3000-4000 km. However, the water level
   usually comes back to the pre-earthquake value within minutes or tens of minutes after
   the earthquake, so this should not pose a problem in a remediation scheme.
   Wells that exhibit &quot;long-term&quot; offsets tend to do so for larger, nearer
   earthquakes. So such a well could be affected several times a year if it's in a
-  seismically active area.</p>
-<p>When an earthquake in Alaska changes water levels in the midwest US, for example, producing
+  seismically active area.
+</p>
+<p>
+  When an earthquake in Alaska changes water levels in the midwest US, for example, producing
   a &quot;step-like&quot; change, we don't really know the reason. So, we also don't
   know how the aquifer pressures are affected away from the wells, and we don't know the
-  types of flow that would be set up by these effects.</p>
+  types of flow that would be set up by these effects.
+</p>
 <h2>References</h2>
 <ul class="referencelist">
 	<li>Cooper, H. H. Jr,J. D. Bredehoeft, I.S. Papadopulos, R. R. Bennett, The
@@ -150,4 +170,6 @@ changes can show up in either confined or unconfined aquifers.</p>
 	  58 (2), 27-33, 1996</li>
 </ul>
 <h2>Acknowledgments</h2>
-<p>Thank you to Evelyn Roeloffs for providing the information for this webpage. </p>
+<p>
+  Thank you to Evelyn Roeloffs for providing the information for this webpage.
+</p>

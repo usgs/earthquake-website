@@ -9,7 +9,7 @@
       }
 ?>
 <SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
+// Begin
 function calc_mag_nrg(form) {
 var i=0;
 var maga=0;
@@ -75,45 +75,56 @@ form.magmin.value = " ";
 
 <style type="text/css">
 
-<!--
 input {
 	font-size: large;
 	text-align: center;
 }
--->
 
 </style>
 
-<div class="calc" style="font-size: medium">
-<FORM name="calculator">
+<h2>How much bigger is a...</h2>
+<form>
+  <label>
+    <input type="number" size="4" value="8.7" name="mag1" min="-3" max="10" size="4" style="width:100px">
+    larger magnitude earthquake (range is -3.0 to 10.0)
+  </label>
 
-<h2>Larger Magnitude:</h2>
-<p><input type="number" style="width:66px" value="8.7" name="mag1" min="-3" max="10">Range is -3. to 10.</p>
+  <h2>than a...</h2>
+  <label>
+    <input type="number" value="5.8" name="mag2" min="-3" max="10" style="width:100px">
+    smaller magnitude earthquake(range is -3.0 to 10.0)
+  </label>
 
-<h2>Smaller Magnitude:</h2>
-<p><input type="number" size="4" value="5.8" name="mag2" min="-3" max="10">
-Range is -3. to 10.</p>
+  <h2>?</h2>
+  <input type="button" value="Calculate" style="background-color:#D4E4F0" onClick="calc_mag_nrg(this.form)">
+  <input type="button" value="Reset" onClick="calc_reset(this.form)">
 
-<input type="button" value="Calculate" style="background-color:#D4E4F0" onClick="calc_mag_nrg(this.form)">
-<input type="button" value="Reset" onClick="calc_reset(this.form)">
+  <hr/>
+  <label>
+    <h2>The difference between these two magnitudes is...
+    <input type="text" name="diff" value=" " size="10" style="width:100px"></h2>
+  </label>
 
-<hr/>
-<h2>Magnitude Difference: <input type="text" name="diff" value=" " size="10"></h2>
+  <label>
+    A magnitude
+    <input type="text" name="magmax" value=" " size="4" style="width:100px">
+    earthquake<br/>
+  </label>
 
-A magnitude
-<input type="text" name="magmax" value=" " size="4">
-earthquake<br/>
+  <label>
+    is
+    <input type="text" name="bigger" value=" " size="10" style="width:200px">
+    times <strong>bigger</strong> than<br/>
+  </label>
 
-is
-<input type="text" name="bigger" value=" " size="10">
-times <strong>bigger</strong> than<br/>
+  <label>
+    a magnitude
+    <input type="text" name="magmin" value=" " size="4" style="width:100px">
+    earthquake, <br/>
+  </label>
 
-a magnitude
-<input type="text" name="magmin" value=" " size="4">
-earthquake on a seismogram, <br/>
-
-but is <input type="text" name="stronger" value=" " size="10">
-times <b>stronger</b> (energy release).
-
-</FORM>
-</div>
+  <label>
+    but it is <input type="text" name="stronger" value=" " size="10" style="width:200px">
+    times <b>stronger</b> (energy release).
+  </label>
+</form>

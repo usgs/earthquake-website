@@ -1026,19 +1026,19 @@
 	<div class="column one-of-two">
 		<h2>Key</h2>
 		<p>
-		<span style="color:red">&#043;</span> <small>New Geographical Region</small>
+		  <span style="color:red">&#043;</span> <small>New Geographical Region</small>
 		</p>
 		<p>
-		<span style="color:red">&lt;</span> <small>Geographical Region Reduced in Size</small>
+		  <span style="color:red">&lt;</span> <small>Geographical Region Reduced in Size</small>
 		</p>
 		<p>
-		<span style="color:red">&not;</span> <small>Geographical Region No Longer in Use</small>
+		  <span style="color:red">&not;</span> <small>Geographical Region No Longer in Use</small>
 		</p>
 
 		<hr />
 
 		<p>
-		<a href="flinn_engdahl.php">F-E Regions Summary</a>
+		  <a href="flinn_engdahl.php">F-E Regions Summary</a>
 		</p>
 	</div>
 </div>
