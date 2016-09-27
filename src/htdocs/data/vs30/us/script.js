@@ -1,3 +1,4 @@
+'use strict';
 var VS30 = function() {
 
 	var map, bounds, ctrl_layers, points;
