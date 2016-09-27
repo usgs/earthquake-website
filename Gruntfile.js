@@ -15,6 +15,8 @@ module.exports = function (grunt) {
 
   grunt.registerTask('default', [
     'connect:template',
+    'configureProxies:example',
+    'connect:example',
     'configureProxies:dev',
     'connect:dev',
     'watch'
