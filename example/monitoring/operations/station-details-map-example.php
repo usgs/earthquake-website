@@ -28,19 +28,7 @@ if (!isset($TEMPLATE)) {
     <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
     <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
     <script src="js/station-details-map.js"></script>
-    <script>
-      StationDetailsMap({
-        el: document.querySelector(\'#map-container\'),
-        station: {
-          network_code: \'US\',
-          station_code: \'ISCO\',
-          name: \'Idaho Springs, Colorado, USA\',
-          latitude: 39.8,
-          longitude: -105.613,
-          telemetry: 3
-        }
-      })
-    </script>
+    <script src="js/station-details-map-example.js"></script>
   ';
 
   include 'template.inc.php';

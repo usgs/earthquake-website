@@ -42,12 +42,35 @@ var connect = {
     ],
     options: {
       base: [
-        config.src + '/htdocs'
+        config.src + '/htdocs',
+        config.example
       ],
       livereload: config.liveReloadPort,
       middleware: addMiddleware,
       open: true,
       port: config.srcPort
+    }
+  },
+
+  example: {
+    proxies: [
+      {
+        context: '/theme',
+        hort: 'localhost',
+        port: config.templatePort,
+        rewrite: {
+          '/theme': ''
+        }
+      }
+    ],
+    options: {
+      base: [
+        config.example,
+        config.src + '/htdocs'
+      ],
+      middleware: addMiddleware,
+      open: false,
+      port: config.examplePort
     }
   },
 
