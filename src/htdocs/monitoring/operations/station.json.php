@@ -1,53 +1,8 @@
 <?php
-/**
- * Safely json_encode values.
- *
- * Handles malformed UTF8 characters better than normal json_encode.
- * from http://stackoverflow.com/questions/10199017/how-to-solve-json-error-utf8-error-in-php-json-decode
- *
- * @param $value {Mixed}
- *        value to encode as json.
- * @return {String}
- *         json encoded value.
- * @throws Exception when unable to json encode.
- */
-function safe_json_encode ($value) {
-  $encoded = json_encode($value);
-  $lastError = json_last_error();
-  switch ($lastError) {
-    case JSON_ERROR_NONE:
-      return $encoded;
-    case JSON_ERROR_UTF8:
-      return safe_json_encode(utf8_encode_array($value));
-    default:
-      throw new Exception('json_encode error (' . $lastError . ')');
-  }
-}
+  include_once './inc/functions.inc.php';
 
-/**
- * UTF8 encode a data structure.
- *
- * from http://stackoverflow.com/questions/10199017/how-to-solve-json-error-utf8-error-in-php-json-decode
- *
- * @param $mixed {Mixed}
- *        value to utf8 encode.
- * @return {Mixed}
- *         utf8 encoded value.
- */
-function utf8_encode_array($mixed) {
-  if (is_array($mixed)) {
-      foreach ($mixed as $key => $value) {
-          $mixed[$key] = utf8_encode_array($value);
-      }
-  } else if (is_string ($mixed)) {
-      return utf8_encode($mixed);
-  }
-  return $mixed;
-}
-
-
-try {
   $feed = array(
+    'errors' => array(),
     'features' => array(),
     'type' => 'FeatureCollection'
   );
@@ -62,32 +17,33 @@ try {
       // Find station files
       $stationFile = "stations/${network}/${station}/index.json";
 
-      if (!file_exists($stationFile)) {
-        throw new Exception('Could not find station information for ' .
-          $network . '_' . $station);
+      try {
+        // Validate file content
+        if (!file_exists($stationFile)) {
+          throw new Exception('Could not find station information for ' .
+            "${network}_${station}");
+        }
+
+        $stationJson = json_decode(file_get_contents($stationFile));
+
+        if (json_last_error() != JSON_ERROR_NONE || $stationJson == null) {
+          throw new Exception("Failed to parse JSON for ${network}_${station}");
+        }
+
+        if ($stationJson->id != "${network}_${station}") {
+          throw new Exception("ID mismatch for ${network}_${station}");
+        }
+
+        // Passed validation, add this station to the feed
+        array_push($feed['features'], $stationJson);
+      } catch (Exception $ex) {
+        // Failed validation, add this error to the feed
+        array_push($feed['errors'], $ex->getMessage());
       }
 
-      // Validate file content
-      $stationJson = json_decode(file_get_contents($stationFile));
-
-      if (json_last_error() != JSON_ERROR_NONE || $stationJson == null) {
-        throw new Exception("Failed to parse JSON for ${network}_${station}");
-      }
-
-      if ($stationJson->id != "${network}_${station}") {
-        throw new Exception("ID mismatch for ${network}_${station}");
-      }
-
-      // Output the feed
-      array_push($feed['features'], $stationJson);
     }
   }
 
+  // Output the feed
   header('Content-Type: application/json');
   print str_replace('\/', '/', safe_json_encode($feed));
-} catch (Exception $ex) {
-  header('HTTP/1.0 500 Internal Server Error');
-  print str_replace('\/', '/', safe_json_encode(array(
-    'error' => $ex->getMessage()
-  )));
-}
