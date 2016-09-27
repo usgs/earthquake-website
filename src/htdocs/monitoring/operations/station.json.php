@@ -24,15 +24,21 @@
             "${network}_${station}");
         }
 
-        $stationJson = json_decode(file_get_contents($stationFile));
+        $stationJson = json_decode(file_get_contents($stationFile), true);
 
         if (json_last_error() != JSON_ERROR_NONE || $stationJson == null) {
           throw new Exception("Failed to parse JSON for ${network}_${station}");
         }
 
-        if ($stationJson->id != "${network}_${station}") {
+        if ($stationJson['id'] != "${network}_${station}") {
           throw new Exception("ID mismatch for ${network}_${station}");
         }
+
+        $stationJson['properties']['url'] =
+          ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'On') ?
+              'https://' : 'http://') .
+          $_SERVER['SERVER_NAME'] . dirname($_SERVER['REQUEST_URI']) .
+          "/stations/${network}/${station}/";
 
         // Passed validation, add this station to the feed
         array_push($feed['features'], $stationJson);
