@@ -51,6 +51,9 @@ var StationDetailsMap = function (options) {
     _this.station = options.station || {};
     _this.el = options.el || document.createElement('div');
 
+    _this.telemetryIcons = options.telemetryIcons || _TELEMETRY_ICONS;
+    _this.shadowIcon = options.shadowIcon || 'images/station-shadow.png';
+
     _this._createMap();
   };
 
@@ -129,7 +132,7 @@ var StationDetailsMap = function (options) {
   _this._createStationMarkerIcon = function () {
     var iconUrl;
 
-    iconUrl = _TELEMETRY_ICONS[_this.station.telemetry || 0];
+    iconUrl = _this.telemetryIcons[_this.station.telemetry || 0];
 
     return L.icon({
       iconUrl: iconUrl,
@@ -137,8 +140,8 @@ var StationDetailsMap = function (options) {
       iconSize: [16, 14],
       iconAnchor: [8, 7],
       popupAnchor: [0, -10],
-      shadowUrl: 'images/station-shadow.png',
-      shadowRetinaUrl: 'images/station-shadow@2x.png',
+      shadowUrl: _this.shadowIcon,
+      shadowRetinaUrl: _this.shadowIcon.replace('.png', '@2x.png'),
       shadowSize: [23, 20]// ,
       // shadowAnchor: [0, 0] // TODO
     });
