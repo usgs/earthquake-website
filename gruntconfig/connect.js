@@ -42,8 +42,7 @@ var connect = {
     ],
     options: {
       base: [
-        config.src + '/htdocs',
-        config.example
+        config.src + '/htdocs'
       ],
       livereload: config.liveReloadPort,
       middleware: addMiddleware,
