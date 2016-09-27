@@ -5,7 +5,10 @@ if (!isset($TEMPLATE)) {
   $HEAD = '<meta name="twitter:widgets:csp" content="on">';
   $FOOT = '<script src="/lib/hazdev-webutils.js"></script>' .
           '<script src="index.js"></script>';
-  $NAVIGATION = true;
+  include_once 'functions.inc.php';
+  ob_start();
+  include '../feed/_navigation.inc.php';
+  $NAVIGATION = ob_get_clean();
   include_once 'template.inc.php';
 }
 ?>
