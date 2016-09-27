@@ -1,4 +1,6 @@
 <?php
+
+if (!function_exists('safe_json_encode')) {
   /**
    * Safely json_encode values.
    *
@@ -23,7 +25,9 @@
         throw new Exception('json_encode error (' . $lastError . ')');
     }
   }
+}
 
+if (!function_exists('utf8_encode_array')) {
   /**
    * UTF8 encode a data structure.
    *
@@ -44,3 +48,4 @@
     }
     return $mixed;
   }
+}
