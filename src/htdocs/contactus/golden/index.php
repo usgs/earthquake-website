@@ -66,16 +66,16 @@ include 'template.inc.php';
 
 <!-- Central US Education -->
 			<li>
-				<a href="/regional/ceus/workshop_2014feb25.php">
-					<h4>2014 Central and Eastern U.S. Earthquake Hazards Workshop</h4>
+				<a href="/hazards/about/workshops/">
+					<h4>National Seismic Hazard Mapping Workshops</h4>
 					<img src="images/ghsc-easternus-seis-2x.gif"/ alt="seismicity map of Central and Eastern U.S." width="150">
 				</a>
-				<p>Continuing concern exists for a major destructive earthquake in the New Madrid seismic zone.</p>
+				<p>Workshops for user input and feedback to inform the next version of the national seismic hazard maps.</p>
 			</li>
 
 <!-- Oklahoma Seismicity Animation -->
 			<li>
-				<a href="/regional/ceus/products/OKeqanimation.php">
+				<a href="/earthquakes/byregion/oklahoma/OKeqanimation.php">
 					<h4>Animation of Oklahoma Seismicity</h4>
 					<img src="images/ghsc-okanim-2x.jpg" alt="screenshot of animation frame" width="150"/>
 				</a>
