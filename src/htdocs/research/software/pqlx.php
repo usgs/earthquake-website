@@ -22,11 +22,6 @@
       password: getPQLX
     </p>
   </li>
-  <li>
-    <a href="ftp://hazards.cr.usgs.gov/web/mcnamara/PQLX/pqlx.sampdata.tar.gz">
-      Sample Dataset
-    </a>
-  </li>
   <li><a href="http://pubs.usgs.gov/of/2010/1292/">User Manual</a></li>
 </ul>
 
