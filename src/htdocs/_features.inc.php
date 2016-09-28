@@ -66,13 +66,13 @@ $EQ_FEATURES->baseUrl = '';
  );
 
  $EQ_FEATURES->items[] = array(
-   'id' => 'news-pawnee',
-   'title' => 'Magnitudes for Oklahoma Earthquakes Shift Upward',
-   'content' => 'The U.S. Geological Survey is updating the official magnitude of the September 3, 2016 Pawnee, Oklahoma earthquake to Mw 5.8 (from 5.6), making it Oklahoma’s largest recorded earthquake to date.',
-   'link' => 'https://www.usgs.gov/news/magnitudes-oklahoma-earthquakes-shift-upward',
-   'modified' => strtotime('2016-09-08'),
-   'thumbnail' => '/images-featured/pawnee.jpg',
-   'image' => '/images-featured/pawnee.jpg'
+   'id' => '2016-09-27brawley',
+   'title' => 'USGS Summary for Swarm Activity Near Bombay Beach',
+   'content' => 'An earthquake swarm near Bombay Beach, California, started on 2016 Sept. 26 at 4:03 am (PDT) in the Brawley Seismic Zone, which lies near the southern terminus of the San Andreas Fault.',
+   'link' => 'https://earthquake.usgs.gov/misc/2016-09-27.php',
+   'modified' => strtotime('2016-09-27'),
+   'thumbnail' => '/misc/images/2016-09-27.gif',
+   'image' => '/misc/images/2016-09-27.gif'
  );
 
  $EQ_FEATURES->items[] = array(
@@ -84,6 +84,16 @@ $EQ_FEATURES->baseUrl = '';
  'thumbnail' => '/images-featured/news-sep14.jpg',
  'image' => '/images-featured/news-sep14.jpg'
 );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => 'news-pawnee',
+   'title' => 'Magnitudes for Oklahoma Earthquakes Shift Upward',
+   'content' => 'The U.S. Geological Survey is updating the official magnitude of the September 3, 2016 Pawnee, Oklahoma earthquake to Mw 5.8 (from 5.6), making it Oklahoma’s largest recorded earthquake to date.',
+   'link' => 'https://www.usgs.gov/news/magnitudes-oklahoma-earthquakes-shift-upward',
+   'modified' => strtotime('2016-09-08'),
+   'thumbnail' => '/images-featured/pawnee.jpg',
+   'image' => '/images-featured/pawnee.jpg'
+ );
 
  $EQ_FEATURES->items[] = array(
    'id' => 'news-sep7',
