@@ -1,5 +1,6 @@
 <?php
-  include_once './inc/functions.inc.php';
+  include_once __DIR__ . '/conf/config.inc.php';
+  include_once __DIR__ . '/inc/functions.inc.php';
 
   $feed = array(
     'errors' => array(),
@@ -15,7 +16,7 @@
 
     foreach ($stations as $station) {
       // Find station files
-      $stationFile = "stations/${network}/${station}/index.json";
+      $stationFile = __DIR__ . "/stations/${network}/${station}/index.json";
 
       try {
         // Validate file content
@@ -35,10 +36,7 @@
         }
 
         $stationJson['properties']['url'] =
-          ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'On') ?
-              'https://' : 'http://') .
-          $_SERVER['SERVER_NAME'] . dirname($_SERVER['REQUEST_URI']) .
-          "/stations/${network}/${station}/";
+          $NETOPS_WEBSITE_BASEURL . "/stations/${network}/${station}/";
 
         // Passed validation, add this station to the feed
         array_push($feed['features'], $stationJson);
