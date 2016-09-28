@@ -19,6 +19,9 @@
   $NETOPS_BASEPATH = isset($_SERVER['SCRIPT_NAME']) ?
       dirname($_SERVER['SCRIPT_NAME']) : '';
 
+  $NETOPS_BASEPATH = dirname(
+      str_replace($_SERVER['DOCUMENT_ROOT'], '', __DIR__));
+
   $NETOPS_WEBSITE_BASEURL = $NETOPS_PROTOCOL . $NETOPS_HOST . ':' .
       $NETOPS_PORT . $NETOPS_BASEPATH;
 
