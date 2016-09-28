@@ -7,14 +7,14 @@ if (!isset($TEMPLATE)) {
     exit(0);
   }
 
-
   $json = json_decode(file_get_contents($jsonFile), true);
+
+  include_once __DIR__ . '/conf/config.inc.php';
 
   $id = $json['id'];
   $properties = $json['properties'];
 
-  $heliplotUrl = 'ftp://hazards.cr.usgs.gov' .
-      '/web/earthquake-network-operations/Seismic_Data/telemetry_data/' .
+  $heliplotUrl = $NETOPS_HELIPLOT_URL . '/' .
       $properties['station_code'] . '.png';
 
   $TITLE = 'Seismic Network Operations';
@@ -22,18 +22,22 @@ if (!isset($TEMPLATE)) {
   $HEAD = (isset($HEAD) ? $HEAD : '') . '
     <link rel="stylesheet" href="/lib/leaflet-0.7.7/leaflet.css"/>
     <link rel="stylesheet" href="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.css"/>
-    <link rel="stylesheet" href="../../../css/station-details-map.css"/>
-    <link rel="stylesheet" href="../../../css/_station-details.template.css"/>
+    <link rel="stylesheet" href="' . $NETOPS_WEBSITE_BASEURL .
+        '/css/station-details-map.css"/>
+    <link rel="stylesheet" href="' . $NETOPS_WEBSITE_BASEURL .
+        '/css/_station-details.template.css"/>
   ';
 
   $FOOT = (isset($FOOT) ? $FOOT : '') . '
     <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
     <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
-    <script src="../../../js/station-details-map.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL .
+        '/js/station-details-map.js"></script>
     <script>
       var STATION = ' . json_encode($properties) . '
     </script>
-    <script src="../../../js/_station-details.template.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL .
+        '/js/_station-details.template.js"></script>
   ';
 
   $PLACEHOLDER_VALUE = '&ndash;';
