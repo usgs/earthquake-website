@@ -12,7 +12,7 @@ section.site-sitenav {
 
 img.nehrp {
   float: left;
-  margin-right: 5px
+  margin: 0.4em 1em 1em 0;
 }
 
 .sections-list {
