@@ -51,6 +51,28 @@ var connect = {
     }
   },
 
+  example: {
+    proxies: [
+      {
+        context: '/theme',
+        hort: 'localhost',
+        port: config.templatePort,
+        rewrite: {
+          '/theme': ''
+        }
+      }
+    ],
+    options: {
+      base: [
+        config.example,
+        config.src + '/htdocs'
+      ],
+      middleware: addMiddleware,
+      open: false,
+      port: config.examplePort
+    }
+  },
+
   template: {
     options: {
       base: [

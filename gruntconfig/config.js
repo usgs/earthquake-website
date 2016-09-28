@@ -9,6 +9,8 @@ var iniConfig = ini.parse(fs.readFileSync('./src/conf/config.ini', 'utf-8'));
 var BASE_PORT = 8080;
 
 var config = {
+  example: 'example',
+  examplePort: BASE_PORT + 4,
   ini: iniConfig,
   liveReloadPort: BASE_PORT + 9,
   offsitePaths: [
