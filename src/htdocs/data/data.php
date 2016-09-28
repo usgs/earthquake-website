@@ -146,7 +146,7 @@
 
       <ul>
     		<li><a href="crust/database.php">Global Crustal Database</a></li>
-    		<li><a href="/hazards/apps/vs30/">USGS Global Vs30 Server</a></li>
+    		<li><a href="vs30/">Vs30 Data</a></li>
     		<li><a href="https://www.sciencebase.gov/catalog/item/57c8269fe4b0f2f0cec02347?community=Geologic+Hazards+Science+Center">USGS Vibroseis Seismic Reflection Data</a></li>
     		<li><a href="http://walrus.wr.usgs.gov/infobank/">USGS Marine Seismic Reflection Data</a></li>
     		<li>Maps of Quaternary Deposits:
