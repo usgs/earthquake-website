@@ -8,6 +8,10 @@ if (!isset($TEMPLATE)) {
 
   $STATION_FEED = $NETOPS_WEBSITE_BASEURL . '/station.json.php';
 
+  if ($virtualNetwork != null) {
+    $STATION_FEED .= '?virtual_network=' . $virtualNetwork;
+  }
+
   $stations = json_decode(@file_get_contents($STATION_FEED), true);
 
   if ($stations == '' || !isset($stations['features'])) {
@@ -16,23 +20,6 @@ if (!isset($TEMPLATE)) {
   }
 
   $stations = $stations['features'];
-
-  // Filter stations down to only those that are part of the requested
-  // virtual network.
-  if ($virtualNetwork != null) {
-    $stations = array_filter($stations, function ($feature) {
-      global $virtualNetwork;
-
-      if ($virtualNetwork)
-      $virtualNetworks = $feature['properties']['virtual_networks'];
-
-      if (is_array($virtualNetworks)) {
-        return in_array($virtualNetwork, $virtualNetworks);
-      }
-
-      return false;
-    });
-  }
 
   /**
    * Generates markup for the heliplot list item.
