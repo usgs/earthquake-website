@@ -1,6 +1,12 @@
 'use strict';
 
 
+/**
+ * Factory for fetching telemetry information from a web service.
+ *
+ * @param options {Object}
+ *     Configuration options for this factory. See `_initialize` for details.
+ */
 var TelemetryFactory = function (options) {
   var _this,
       _initialize;
@@ -8,24 +14,49 @@ var TelemetryFactory = function (options) {
 
   _this = {};
 
+  /**
+   * Constructor. Initializes a new factory.
+   *
+   * @param options.url {String}
+   *     The URL for the telemetry web service endpoint.
+   */
   _initialize = function (options) {
     _this.url = options.url || '/telemetry.json';
-    _this.pendingRequests = [];
+    _this.pendingRequests = {};
   };
 
 
+  /**
+   * Builds the request URL using the configured url and information from
+   * the given `station`.
+   *
+   * @param station {Object}
+   *     An object with `network_code` and `station_code` parameters.
+   *
+   * @return {String}
+   *     The request URL to get telemetry information for the given `station`.
+   */
   _this.buildRequestUrl = function (station) {
     return _this.url +
         '?network_code=' + encodeURIComponent(station.network_code) +
         '&station_code=' + encodeURIComponent(station.station_code);
   };
 
+  /**
+   * Frees resources associated with this factory. Aborts any pending
+   * requests for telemetry information.
+   *
+   */
   _this.destroy = function () {
     if (_this === null) {
       return;
     }
 
-    _this.pendingRequests.forEach(function (request) {
+    Object.keys(_this.pendingRequests).forEach(function (url) {
+      var request;
+
+      request = _this.pendingRequests[url];
+
       try {
         request.abort();
         request = null;
@@ -36,6 +67,20 @@ var TelemetryFactory = function (options) {
     _this = null;
   };
 
+  /**
+   * Fetches telemetry information. This method runs _asynchronously_ and calls
+   * `options.onError` or `options.onSuccess` appropriately.
+   *
+   * @param options.onError {Function}
+   *     A callback function that is executed if an error occurs. This method
+   *     is invoked with a single parameter, the error message.
+   * @param options.onSuccess {Function}
+   *     A callback function that is executed upon success. This method
+   *     is invoked with a single parameter, the telemetry value {Integer}.
+   * @param options.station {Object}
+   *     An object with station information. Namely `network_code` and
+   *     `station_code` properties.
+   */
   _this.getTelemetry = function (options) {
     var onError,
         onSuccess,
@@ -51,6 +96,7 @@ var TelemetryFactory = function (options) {
 
     xhr.onreadystatechange = function () {
       if (xhr.readyState === 4) {
+        delete _this.pendingRequests[url];
         if (xhr.status === 200) {
           try {
             onSuccess(JSON.parse(xhr.responseText).telemetry);
@@ -65,6 +111,8 @@ var TelemetryFactory = function (options) {
 
     xhr.open('GET', url);
     xhr.send();
+
+    _this.pendingRequests[url] = xhr;
   };
 
 
