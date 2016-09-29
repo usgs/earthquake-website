@@ -1,14 +1,17 @@
 .heliplot-list {
   overflow: hidden;
 }
+
 .heliplot-list-item {
   float: left;
   margin-right: 1em;
 }
+
 .heliplot-figcaption {
   font-weight: bold;
   margin-bottom: 1em;
 }
+
 .heliplot-image {
   border: 1px solid #ccc;
   padding: 1em 0;

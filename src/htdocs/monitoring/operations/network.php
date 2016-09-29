@@ -1,8 +1,8 @@
 <?php
 if (!isset($TEMPLATE)) {
-  include_once 'functions.inc.php'; // provides `param` function
-  include_once './conf/config.inc.php';
-  include_once './inc/functions.inc.php'; // provides `get_stations` function
+  include_once 'functions.inc.php'; // provides `param`
+  include_once __DIR__ . '/conf/config.inc.php';
+  include_once __DIR__ . '/inc/functions.inc.php'; // provides `get_stations`
 
   $virtualNetwork = param('virtual_network');
   $stations = null;
@@ -11,7 +11,7 @@ if (!isset($TEMPLATE)) {
     $stations = get_stations($virtualNetwork)['features'];
   } catch (Exception $ex) {
     http_response_code(500);
-    exit();
+    exit(0);
   }
 
   function getTableRow ($station) {
@@ -68,8 +68,10 @@ if (!isset($TEMPLATE)) {
     <script src="' . $NETOPS_WEBSITE_BASEURL . '/js/config.js"></script>
     <script src="' . $NETOPS_WEBSITE_BASEURL .
         '/js/telemetry-factory.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL . '/js/network-map.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL . '/js/network.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL .
+        '/js/network-map.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL .
+        '/js/network.js"></script>
   ';
 
   include 'template.inc.php';
