@@ -45,7 +45,7 @@ if (!isset($TEMPLATE)) {
       TELEMETRY_URL = \'' . $TELEMETRY_URL . '\';
     </script>
     <script src="' . $NETOPS_WEBSITE_BASEURL .
-        '/js/_station-details.template.js"></script>
+        '/js/_station.js"></script>
   ';
 
   $PLACEHOLDER_VALUE = '&ndash;';
