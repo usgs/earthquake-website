@@ -33,4 +33,4 @@
   // $NETOPS_HELIPLOT_URL . '/{station_code}_24hr.html' --> heliplot markup
   $NETOPS_HELIPLOT_URL = $NETOPS_DATA_BASEURL . '/Seismic_Data/telemetry_data';
 
-  $TELEMETRY_URL = $NETOPS_WEBSITE_BASEURL . '/telemetry.json';
+  $TELEMETRY_URL = $NETOPS_WEBSITE_BASEURL . '/telemetry.json.php';

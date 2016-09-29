@@ -1,20 +1,10 @@
-/* global L */
+/* global L, TELEMETRY_ICONS, TELEMETRY_SHADOW_ICON */
 'use strict';
 
 
 var HazDevLayers = require('leaflet/control/HazDevLayers'),
     Satellite = require('leaflet/layer/Satellite'),
     Street = require('leaflet/layer/Street');
-
-
-var _TELEMETRY_ICONS = [
-  '/images/station-gray.png',   // 0 => Telemetry undefined/unavailable
-  '/images/station-red.png',    // 1 => Telemetry > 24 hours
-  '/images/station-yellow.png', // 2 => 10 minutes < Telemetry <= 24 hours
-  '/images/station-green.png'   // 3 => Telemetry < 10 minutes
-];
-
-var _TELEMETRY_SHADOW_ICON = 'images/station-shadow.png';
 
 
 /**
@@ -48,19 +38,11 @@ var StationDetailsMap = function (options) {
    *       - telemetry {Integer}
    */
   _initialize = function (options) {
-    options = options || {};
-
     _this.station = options.station || {};
     _this.el = options.el || document.createElement('div');
 
-    _this.baseUrl = options.hasOwnProperty('baseUrl') ? options.baseUrl : '.';
-    _this.telemetryIcons = options.telemetryIcons || _TELEMETRY_ICONS;
-    _this.shadowIcon = _this.baseUrl +
-        (options.shadowIcon || '/images/station-shadow.png');
-
-    _this.telemetryIcons = _this.telemetryIcons.map(function (icon) {
-      return _this.baseUrl + icon;
-    });
+    _this.telemetryIcons = options.telemetryIcons || TELEMETRY_ICONS;
+    _this.shadowIcon = options.shadowIcon || TELEMETRY_SHADOW_ICON;
 
     _this._createMap();
   };
@@ -71,15 +53,21 @@ var StationDetailsMap = function (options) {
    *
    */
   _this._createMap = function () {
+    var latitude,
+        longitude;
+
     _this.el.innerHTML = '';
     _this.mapEl = _this.el.appendChild(document.createElement('div'));
     _this.mapEl.classList.add('station-details-map');
+
+    latitude = _this.station.geometry.coordinates[1];
+    longitude = _this.station.geometry.coordinates[0];
 
     _this.satelliteLayer = Satellite();
     _this.streetLayer = Street();
 
     _this.map = L.map(_this.mapEl, {
-      center: [_this.station.latitude, _this.station.longitude],
+      center: [latitude, longitude],
       layers: [
         // Base layer
         _this.streetLayer,
@@ -104,26 +92,31 @@ var StationDetailsMap = function (options) {
    *     The marker to use for the station.
    */
   _this._createStationMarker = function () {
-    _this.stationMarker = L.marker([
-      _this.station.latitude,
-      _this.station.longitude
-    ], {
+    var latitude,
+        longitude,
+        properties;
+
+    latitude = _this.station.geometry.coordinates[1];
+    longitude = _this.station.geometry.coordinates[0];
+    properties = _this.station.properties;
+
+    _this.stationMarker = L.marker([latitude, longitude], {
       icon: _this._createStationMarkerIcon(),
       clickable: true,
       draggable: false,
       keyboard: false,
-      alt: _this.station.name,
+      alt: properties.name,
     });
 
     _this.stationMarker.bindPopup([
       '<div class="station-details-map-popup">',
         '<h2 class="station-details-map-popup-title">',
-          _this.station.network_code, ' ', _this.station.station_code,
+          properties.network_code, ' ', properties.station_code,
         '</h2>',
         '<p class="station-details-map-popup-content">',
-          _this.station.name,
+          properties.name,
           '<br/>',
-          '(', _this.station.latitude, ', ', _this.station.longitude, ')',
+          '(', latitude, ', ', longitude, ')',
         '</p>',
       '<div>'
     ].join(''));
@@ -143,7 +136,7 @@ var StationDetailsMap = function (options) {
 
     // Choose the icon to use. If telemetry does not correspond to an icon
     // then use the undefined icon (0).
-    iconIndex = _this.station.telemetry || 0;
+    iconIndex = _this.station.properties.telemetry || 0;
     if (iconIndex > _this.telemetryIcons.length - 1) {
       iconIndex = 0;
     }
@@ -178,14 +171,10 @@ var StationDetailsMap = function (options) {
   };
 
 
-  _initialize(options);
+  _initialize(options || {});
   options = null;
   return _this;
 };
-
-
-StationDetailsMap.TELEMETRY_ICONS = _TELEMETRY_ICONS;
-StationDetailsMap.TELEMETRY_SHADOW_ICON = _TELEMETRY_SHADOW_ICON;
 
 
 try {
