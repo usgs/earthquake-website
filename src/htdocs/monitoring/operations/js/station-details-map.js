@@ -152,12 +152,12 @@ var StationDetailsMap = function (options) {
 
     return L.icon({
       iconUrl: iconUrl,
-      iconRetina: iconUrl.replace('.png', '@2x.png'),
+      // iconRetina: iconUrl.replace('.png', '@2x.png'),
       iconSize: [16, 14],
       iconAnchor: [8, 7],
       popupAnchor: [0, -10],
       shadowUrl: _this.shadowIcon,
-      shadowRetinaUrl: _this.shadowIcon.replace('.png', '@2x.png'),
+      // shadowRetinaUrl: _this.shadowIcon.replace('.png', '@2x.png'),
       shadowSize: [23, 20]// ,
       // shadowAnchor: [0, 0] // TODO
     });

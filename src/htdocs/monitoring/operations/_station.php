@@ -25,7 +25,7 @@ if (!isset($TEMPLATE)) {
     <link rel="stylesheet" href="' . $NETOPS_WEBSITE_BASEURL .
         '/css/station-details-map.css"/>
     <link rel="stylesheet" href="' . $NETOPS_WEBSITE_BASEURL .
-        '/css/_station-details.template.css"/>
+        '/css/_station.css"/>
   ';
 
   $FOOT = (isset($FOOT) ? $FOOT : '') . '
