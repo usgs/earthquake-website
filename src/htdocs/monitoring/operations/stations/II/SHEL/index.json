@@ -1,0 +1,1 @@
+{"type":"Feature","id":"II_SHEL","geometry":{"type":"Point","coordinates":[-15.959,-5.746,537]},"properties":{"accelerometer":"FBA-23","broadband":"KS-54000","datalogger":"--","host":null,"name":"Horse Pasture, St. Helena Island","network_code":"II","start_date":"1995,170","station_code":"SHEL","virtual_networks":["GSN"]}}

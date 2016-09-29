@@ -1,0 +1,1 @@
+{"type":"Feature","id":"US_MSO","geometry":{"type":"Point","coordinates":[46.829,-113.941,1264]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Missoula, Montana, USA","network_code":"US","start_date":"2002,235","station_code":"MSO","virtual_networks":["ANSS"]}}

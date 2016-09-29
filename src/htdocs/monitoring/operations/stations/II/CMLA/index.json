@@ -1,0 +1,1 @@
+{"type":"Feature","id":"II_CMLA","geometry":{"type":"Point","coordinates":[37.764,-25.524,429]},"properties":{"accelerometer":"Episensor_ES-T","broadband":"KS-54000","datalogger":"--","host":null,"name":"Cha de Macela, Sao Miguel Island, Azores","network_code":"II","start_date":"1996,070","station_code":"CMLA","virtual_networks":["GSN"]}}

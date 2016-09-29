@@ -1,0 +1,1 @@
+{"type":"Feature","id":"II_PALK","geometry":{"type":"Point","coordinates":[7.273,80.702,460]},"properties":{"accelerometer":"Episensor_ES-T","broadband":"KS-54000","datalogger":"--","host":null,"name":"Pallekele, Sri Lanka","network_code":"II","start_date":"2000,235","station_code":"PALK","virtual_networks":["GSN"]}}

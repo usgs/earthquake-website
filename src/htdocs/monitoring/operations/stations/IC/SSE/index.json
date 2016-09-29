@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IC_SSE","geometry":{"type":"Point","coordinates":[31.095,121.191,40]},"properties":{"accelerometer":"FBA-23","broadband":"STS-1V\/VBB","datalogger":"Q330","host":"Institute of Geophysics and China Earthquake Administration","name":"Shanghai, China","network_code":"IC","start_date":"1996,263","station_code":"SSE","virtual_networks":["GSN"]}}

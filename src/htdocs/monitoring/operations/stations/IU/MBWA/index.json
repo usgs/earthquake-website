@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_MBWA","geometry":{"type":"Point","coordinates":[-21.159,119.731,190]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"KS-54000","datalogger":"Q330","host":"Geoscience Australia","name":"Marble Bar, Western Australia","network_code":"IU","start_date":"2001,237","station_code":"MBWA","virtual_networks":["GSN"]}}

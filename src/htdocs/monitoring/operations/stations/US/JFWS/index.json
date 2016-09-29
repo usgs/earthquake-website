@@ -1,0 +1,1 @@
+{"type":"Feature","id":"US_JFWS","geometry":{"type":"Point","coordinates":[42.914,-90.248,335]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Jewell Farm, Wisconsin, USA","network_code":"US","start_date":"1992,211","station_code":"JFWS","virtual_networks":["ANSS"]}}

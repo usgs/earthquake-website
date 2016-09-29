@@ -1,0 +1,1 @@
+{"type":"Feature","id":"CU_MTDJ","geometry":{"type":"Point","coordinates":[18.226,-77.535,925]},"properties":{"accelerometer":"FBA","broadband":"STS-2","datalogger":"Q330","host":"Mininstry of Local Government and Environment","name":"Mount Denham, Jamaica","network_code":"CU","start_date":"2007,342","station_code":"MTDJ","virtual_networks":["GSN"]}}

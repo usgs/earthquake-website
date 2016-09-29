@@ -1,0 +1,1 @@
+{"type":"Feature","id":"US_AMTX","geometry":{"type":"Point","coordinates":[34.884,-101.681,1010]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Amarillo, Texas, USA","network_code":"US","start_date":"2004,274","station_code":"AMTX","virtual_networks":["ANSS"]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"II_TLY","geometry":{"type":"Point","coordinates":[51.681,103.644,579]},"properties":{"accelerometer":"FBA-23","broadband":"STS-1V\/VBB","datalogger":"--","host":null,"name":"Talaya, Russia","network_code":"II","start_date":"1990,285","station_code":"TLY","virtual_networks":["GSN"]}}

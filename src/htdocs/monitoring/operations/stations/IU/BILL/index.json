@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_BILL","geometry":{"type":"Point","coordinates":[68.065,166.453,320]},"properties":{"accelerometer":"none","broadband":"STS-1V\/VBB","datalogger":"Q680","host":"Geophysical Survey, Russian Academy of Sciences","name":"Bilibino, Russia","network_code":"IU","start_date":"1995,228","station_code":"BILL","virtual_networks":["GSN"]}}

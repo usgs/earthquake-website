@@ -1,0 +1,1 @@
+{"type":"Feature","id":"LD_PAL","geometry":{"type":"Point","coordinates":[41.006,-73.908,66]},"properties":{"accelerometer":"","broadband":"STS-2_Q380_BH","datalogger":"--","host":null,"name":"Palisades, New York","network_code":"LD","start_date":"1949,001","station_code":"PAL","virtual_networks":["ANSS"]}}

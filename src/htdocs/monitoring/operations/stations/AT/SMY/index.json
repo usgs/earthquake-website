@@ -1,0 +1,1 @@
+{"type":"Feature","id":"AT_SMY","geometry":{"type":"Point","coordinates":[52.731,174.103,58]},"properties":{"accelerometer":"","broadband":"STS-2","datalogger":"--","host":null,"name":"Shemya, Alaska","network_code":"AT","start_date":"2000,046","station_code":"SMY","virtual_networks":["ANSS"]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"II_RAYN","geometry":{"type":"Point","coordinates":[23.523,45.503,631]},"properties":{"accelerometer":"FBA-23","broadband":"STS-2","datalogger":"--","host":null,"name":"Ar Rayn, Saudi Arabia","network_code":"II","start_date":"1996,001","station_code":"RAYN","virtual_networks":["GSN"]}}
