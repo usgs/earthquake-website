@@ -37,9 +37,25 @@ var TelemetryFactory = function (options) {
    *     The request URL to get telemetry information for the given `station`.
    */
   _this.buildRequestUrl = function (station) {
-    return _this.url +
-        '?network_code=' + encodeURIComponent(station.network_code) +
-        '&station_code=' + encodeURIComponent(station.station_code);
+    var params,
+        url;
+
+    params = [];
+    url = _this.url;
+
+    if (station.properties.network_code) {
+      params.push('network_code=' + station.properties.network_code);
+    }
+
+    if (station.properties.station_code) {
+      params.push('station_code=' + station.properties.station_code);
+    }
+
+    if (params.length) {
+      url += '?' + params.join('&');
+    }
+
+    return url;
   };
 
   /**
@@ -76,7 +92,7 @@ var TelemetryFactory = function (options) {
    *     is invoked with a single parameter, the error message.
    * @param options.onSuccess {Function}
    *     A callback function that is executed upon success. This method
-   *     is invoked with a single parameter, the telemetry value {Integer}.
+   *     is invoked with a single parameter, object form of the JSON response.
    * @param options.station {Object}
    *     An object with station information. Namely `network_code` and
    *     `station_code` properties.
@@ -99,9 +115,10 @@ var TelemetryFactory = function (options) {
         delete _this.pendingRequests[url];
         if (xhr.status === 200) {
           try {
-            onSuccess(JSON.parse(xhr.responseText).telemetry);
+            onSuccess(JSON.parse(xhr.responseText));
           } catch (e) {
-            onError('Parsing telemetry failed');
+            console.error(e.stack);
+            onError('Parsing telemetry failed' + e.message);
           }
         } else {
           onError('Fetching telemetry failed');

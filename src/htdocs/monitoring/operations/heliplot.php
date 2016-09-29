@@ -1,25 +1,18 @@
 <?php
 if (!isset($TEMPLATE)) {
+  include_once 'functions.inc.php'; // provides `param` function
   include_once './conf/config.inc.php';
-  include_once 'functions.inc.php'; // provides `param` method
+  include_once './inc/functions.inc.php'; // provides `get_stations` function
 
-  $lastUpdated = 0; // last update time
-  $virtualNetwork = param('virtual_network'); // which network should we use
+  $virtualNetwork = param('virtual_network');
+  $stations = null;
 
-  $STATION_FEED = $NETOPS_WEBSITE_BASEURL . '/station.json.php';
-
-  if ($virtualNetwork != null) {
-    $STATION_FEED .= '?virtual_network=' . $virtualNetwork;
-  }
-
-  $stations = json_decode(@file_get_contents($STATION_FEED), true);
-
-  if ($stations == '' || !isset($stations['features'])) {
+  try {
+    $stations = get_stations($virtualNetwork)['features'];
+  } catch (Exception $ex) {
     http_response_code(500);
     exit();
   }
-
-  $stations = $stations['features'];
 
   /**
    * Generates markup for the heliplot list item.
@@ -32,7 +25,6 @@ if (!isset($TEMPLATE)) {
    */
   function getHeliplot ($station) {
     global $NETOPS_HELIPLOT_URL;
-    global $lastUpdated;
 
     $properties = $station['properties'];
     $heliplot = $NETOPS_HELIPLOT_URL . '/' . $properties['station_code'];

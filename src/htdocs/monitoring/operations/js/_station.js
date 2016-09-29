@@ -1,16 +1,7 @@
-/* global NETOPS_WEBSITE_BASEURL, STATION, TELEMETRY_URL */
+/* global STATION, TELEMETRY_URL */
+/* global TELEMETRY_DESCRIPTIONS, TELEMETRY_ICONS */
 /* global StationDetailsMap, TelemetryFactory */
 'use strict';
-
-
-var TELEMETRY_DESCRIPTIONS;
-
-TELEMETRY_DESCRIPTIONS = [
-  'Telemetry Undefined',
-  'No data in more than 24 hours',
-  'Last data in less than 24 hours and more than 10 minutes',
-  'Last data in less than 10 minutes'
-];
 
 
 var _createStationMap,
@@ -26,7 +17,6 @@ telemetryEl = document.querySelector('.station-details-telemetry');
  */
 _createStationMap = function (station) {
   StationDetailsMap({
-    baseUrl: NETOPS_WEBSITE_BASEURL,
     el: document.querySelector('.station-details-map-container'),
     station: station
   });
@@ -35,15 +25,15 @@ _createStationMap = function (station) {
 
 TelemetryFactory({url: TELEMETRY_URL}).getTelemetry({
   station: STATION,
-  onSuccess: function (telemetry) {
-    STATION.telemetry = telemetry;
+  onSuccess: function (response) {
+    var telemetry = response.telemetry;
+
+    STATION.properties.telemetry = telemetry;
     _createStationMap(STATION);
 
     telemetryEl.innerHTML = [
-      '<img src="',
-          NETOPS_WEBSITE_BASEURL,
-          StationDetailsMap.TELEMETRY_ICONS[telemetry],
-        '" alt="Telemetry = ', telemetry, '"/> ',
+      '<img src="', TELEMETRY_ICONS[telemetry],
+          '" alt="Telemetry = ', telemetry, '"/> ',
       TELEMETRY_DESCRIPTIONS[telemetry]
     ].join('');
   },
