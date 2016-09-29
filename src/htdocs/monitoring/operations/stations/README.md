@@ -120,6 +120,9 @@ When properties are not known, they should be set to `null`.
 
 
 ### Example
+This Station JSON example is for the `IU` `ANMO` station, and would be placed
+in the file `IU/ANMO/index.json`.
+
 ```json
 {
   "type": "Feature",
