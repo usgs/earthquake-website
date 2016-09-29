@@ -93,16 +93,14 @@
    	</p>
     <p>Version available: <a href="http://geohazards.usgs.gov/hazardtool/">2008</a></p>
 
-    <h3>V<sub>S</sub><sup>30</sup></h3>
+    <h3>Vs30</h3>
     <figure class="left">
       <img src="images/vs30.gif" width="75" alt=""/>
     </figure>
     <p>
-  		Allows a user to select from a map or input a
-  		rectangular region of interest. Provides (optionally) a Vs30 grid
-  		in ASCII or GMT grid format, and a JPEG Vs30 map.
+  		Global and US data.
   	</p>
-    <p>Versions available: <a href="/hazards/apps/vs30/">All Editions</a></p>
+    <p>Versions available: <a href="/data/vs30/">All Editions</a></p>
 
     <h3>Interactive Deaggregations</h3>
     <figure class="left">
