@@ -131,7 +131,7 @@ if (!isset($TEMPLATE)) {
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
-        <a href="/earthquakes/events/">
+        <a href="/earthquakes/browse/specialstudies.php">
           <h4>Special Earthquake Studies</h4>
           <img src="images/Loma-Prieta-sm.jpg" class='feeds-list-image'
               alt="icon"  width="75"/>
