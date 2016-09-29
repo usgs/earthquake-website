@@ -2,6 +2,7 @@
 /* global StationDetailsMap, TelemetryFactory */
 'use strict';
 
+
 var TELEMETRY_DESCRIPTIONS;
 
 TELEMETRY_DESCRIPTIONS = [
@@ -11,20 +12,32 @@ TELEMETRY_DESCRIPTIONS = [
   'Last data in less than 10 minutes'
 ];
 
-var telemetryEl;
+
+var _createStationMap,
+    telemetryEl;
 
 telemetryEl = document.querySelector('.station-details-telemetry');
+
+/**
+ * Create a station map for the given station.
+ *
+ * @param station {Object}
+ *     An object containing station information.
+ */
+_createStationMap = function (station) {
+  StationDetailsMap({
+    baseUrl: NETOPS_WEBSITE_BASEURL,
+    el: document.querySelector('.station-details-map-container'),
+    station: station
+  });
+};
+
 
 TelemetryFactory({url: TELEMETRY_URL}).getTelemetry({
   station: STATION,
   onSuccess: function (telemetry) {
     STATION.telemetry = telemetry;
-
-    StationDetailsMap({
-      baseUrl: NETOPS_WEBSITE_BASEURL,
-      el: document.querySelector('.station-details-map-container'),
-      station: STATION
-    });
+    _createStationMap(STATION);
 
     telemetryEl.innerHTML = [
       '<img src="',
@@ -36,6 +49,8 @@ TelemetryFactory({url: TELEMETRY_URL}).getTelemetry({
   },
   onError: function (message) {
     STATION.telemetry = 0; // Undefined
+    _createStationMap(STATION);
+
     telemetryEl.innerHTML = message;
   }
 });
