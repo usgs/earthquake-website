@@ -1,5 +1,9 @@
 <?php
 if (!isset($TEMPLATE)) {
+  include_once __DIR__ . '/conf/config.inc.php';
+  include_once __DIR__ . '/inc/functions.inc.php';
+
+  $placeholderValue = '&ndash;';
   $jsonFile = 'index.json';
 
   if (!file_exists($jsonFile)) {
@@ -7,14 +11,16 @@ if (!isset($TEMPLATE)) {
     exit(0);
   }
 
-
   $json = json_decode(file_get_contents($jsonFile), true);
+
 
   $id = $json['id'];
   $properties = $json['properties'];
+  $coordinates = isset($json['geometry']['coordinates']) ?
+      $json['geometry']['coordinates'] :
+      [$placeholderValue, $placeholderValue, $placeholderValue];
 
-  $heliplotUrl = 'ftp://hazards.cr.usgs.gov' .
-      '/web/earthquake-network-operations/Seismic_Data/telemetry_data/' .
+  $heliplotUrl = $NETOPS_HELIPLOT_URL . '/' .
       $properties['station_code'] . '.png';
 
   $TITLE = 'Seismic Network Operations';
@@ -22,21 +28,33 @@ if (!isset($TEMPLATE)) {
   $HEAD = (isset($HEAD) ? $HEAD : '') . '
     <link rel="stylesheet" href="/lib/leaflet-0.7.7/leaflet.css"/>
     <link rel="stylesheet" href="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.css"/>
-    <link rel="stylesheet" href="../../../css/station-details-map.css"/>
-    <link rel="stylesheet" href="../../../css/_station-details.template.css"/>
+    <link rel="stylesheet" href="' . $NETOPS_WEBSITE_BASEURL .
+        '/css/station-details-map.css"/>
+    <link rel="stylesheet" href="' . $NETOPS_WEBSITE_BASEURL .
+        '/css/_station.css"/>
   ';
 
   $FOOT = (isset($FOOT) ? $FOOT : '') . '
+    <script>
+      var NETOPS_WEBSITE_BASEURL,
+          STATION,
+          TELEMETRY_URL;
+
+      NETOPS_WEBSITE_BASEURL = \'' . $NETOPS_WEBSITE_BASEURL . '\';
+      STATION = ' . safe_json_encode($json) . '
+      TELEMETRY_URL = \'' . $TELEMETRY_URL . '\';
+    </script>
     <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
     <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
-    <script src="../../../js/station-details-map.js"></script>
-    <script>
-      var STATION = ' . json_encode($properties) . '
-    </script>
-    <script src="../../../js/_station-details.template.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL . '/js/config.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL .
+        '/js/telemetry-factory.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL .
+        '/js/station-details-map.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL .
+        '/js/_station.js"></script>
   ';
 
-  $PLACEHOLDER_VALUE = '&ndash;';
 
   include 'template.inc.php';
 }
@@ -53,7 +71,7 @@ if (!isset($TEMPLATE)) {
     <?php
       echo $properties['network_code'] . ' ' . $properties['station_code'];
     ?>
-    commences operations on: <?php $properties['start_date']; ?>
+    commences operations on: <?php echo $properties['start_date']; ?>
   </p>
 </header>
 
@@ -69,38 +87,21 @@ if (!isset($TEMPLATE)) {
                 $properties['host'] !== null) {
               echo $properties['host'];
             } else {
-              echo $PLACEHOLDER_VALUE;
+              echo $placeholderValue;
             }
           ?></td>
         </tr>
         <tr>
           <th scope="row">Latitude</th>
-          <td><?php
-            echo (isset($properties['latitude']) && $properties['latitude'] == null) ?
-                '&ndash;' : $properties['latitude'];
-          ?></td>
+          <td><?php echo $coordinates[1]; ?></td>
         </tr>
         <tr>
           <th scope="row">Longitude</th>
-          <td><?php
-            if (isset($properties['longitude']) &&
-                $properties['longitude'] !== null) {
-              echo $properties['longitude'];
-            } else {
-              echo $PLACEHOLDER_VALUE;
-            }
-          ?></td>
+          <td><?php echo $coordinates[0]; ?></td>
         </tr>
         <tr>
           <th scope="row">Elevation</th>
-          <td><?php
-            if (isset($properties['elevation']) &&
-                $properties['elevation'] !== null) {
-              echo $properties['elevation'];
-            } else {
-              echo $PLACEHOLDER_VALUE;
-            }
-          ?></td>
+          <td><?php echo $coordinates[2]; ?></td>
         </tr>
         <tr>
           <th scope="row">Datalogger</th>
@@ -109,7 +110,7 @@ if (!isset($TEMPLATE)) {
                 $properties['datalogger'] !== null) {
               echo $properties['datalogger'];
             } else {
-              echo $PLACEHOLDER_VALUE;
+              echo $placeholderValue;
             }
           ?></td>
         </tr>
@@ -120,7 +121,7 @@ if (!isset($TEMPLATE)) {
                 $properties['broadband'] !== null) {
               echo $properties['broadband'];
             } else {
-              echo $PLACEHOLDER_VALUE;
+              echo $placeholderValue;
             }
           ?></td>
         </tr>
@@ -131,7 +132,7 @@ if (!isset($TEMPLATE)) {
                 $properties['accelerometer'] !== null) {
               echo $properties['accelerometer'];
             } else {
-              echo $PLACEHOLDER_VALUE;
+              echo $placeholderValue;
             }
           ?></td>
         </tr>

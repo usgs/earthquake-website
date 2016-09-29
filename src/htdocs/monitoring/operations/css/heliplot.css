@@ -1,0 +1,25 @@
+.heliplot-list {
+  overflow: hidden;
+}
+
+.heliplot-list-item {
+  float: left;
+  margin-right: 1em;
+}
+
+.heliplot-figure {
+  width: 350px;
+}
+
+.heliplot-figcaption {
+  font-weight: bold;
+  margin-bottom: 1em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.heliplot-image {
+  border: 1px solid #ccc;
+  padding: 1em 0;
+}

@@ -1,0 +1,36 @@
+<?php
+  date_default_timezone_set('UTC');
+
+  // Build URL for station feed
+  if (isset($_SERVER['HTTPS']) && strtolower($_SERVER['HTTPS']) == 'on') {
+    $NETOPS_PROTOCOL = 'https://';
+    $NETOPS_PORT = '443';
+  } else {
+    $NETOPS_PROTOCOL = 'http://';
+    $NETOPS_PORT = '80';
+  }
+
+  $NETOPS_HOST = isset($_SERVER['SERVER_NAME']) ?
+      $_SERVER['SERVER_NAME'] : 'localhost';
+
+  $NETOPS_PORT = isset($_SERVER['SERVER_PORT']) ?
+      $_SERVER['SERVER_PORT'] : $NETOPS_PORT;
+
+  $NETOPS_BASEPATH = isset($_SERVER['SCRIPT_NAME']) ?
+      dirname($_SERVER['SCRIPT_NAME']) : '';
+
+  $NETOPS_BASEPATH = dirname(
+      str_replace($_SERVER['DOCUMENT_ROOT'], '', __DIR__));
+
+  $NETOPS_WEBSITE_BASEURL = $NETOPS_PROTOCOL . $NETOPS_HOST . ':' .
+      $NETOPS_PORT . $NETOPS_BASEPATH;
+
+  $NETOPS_DATA_BASEURL = 'ftp://hazards.cr.usgs.gov' .
+      '/web/earthquake-network-operations';
+
+  // $NETOPS_HELIPLOT_URL . '/{station_code}.png' --> large heliplot image
+  // $NETOPS_HELIPLOT_URL . '/{station_code}_24hr.png' --> small heliplot image
+  // $NETOPS_HELIPLOT_URL . '/{station_code}_24hr.html' --> heliplot markup
+  $NETOPS_HELIPLOT_URL = $NETOPS_DATA_BASEURL . '/Seismic_Data/telemetry_data';
+
+  $TELEMETRY_URL = $NETOPS_WEBSITE_BASEURL . '/telemetry.json.php';

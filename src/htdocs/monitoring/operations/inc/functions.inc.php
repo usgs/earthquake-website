@@ -1,4 +1,5 @@
 <?php
+include_once dirname(__DIR__) . '/conf/config.inc.php';
 
 if (!function_exists('safe_json_encode')) {
   /**
@@ -47,5 +48,39 @@ if (!function_exists('utf8_encode_array')) {
         return utf8_encode($mixed);
     }
     return $mixed;
+  }
+}
+
+if (!function_exists('get_stations')) {
+  /**
+   * Gets stations from the web service. Throws an exception if anything
+   * fails.
+   *
+   * @param $virtualNetwork {String}
+   *     The virtual network for which to fetch stations. If not provided,
+   *     fetches all available stations.
+   *
+   * @return {FeatureCollection}
+   *     A feature collection containing station information.
+   *
+   * @throws {Exception}
+   *     If anything goes awry.
+   */
+  function get_stations ($virtualNetwork = null) {
+    global $NETOPS_WEBSITE_BASEURL;
+
+    $url = $NETOPS_WEBSITE_BASEURL . '/station.json.php';
+
+    if ($virtualNetwork != null) {
+      $url .= '?virtual_network=' . $virtualNetwork;
+    }
+
+    $stations = json_decode(@file_get_contents($url), true);
+
+    if ($stations == '' || !isset($stations['features'])) {
+      throw new Exception('Failed to get sation information');
+    }
+
+    return $stations;
   }
 }
