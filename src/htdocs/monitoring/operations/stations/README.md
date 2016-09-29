@@ -31,7 +31,7 @@ Each station has a Station JSON file named `index.json` within its folder.
 Station JSON extends a GeoJSON Feature
   ( http://geojson.org/geojson-spec.html#feature-objects )
 
-```json
+```
 {
   "type": "Feature",
   "id": "{NETWORK_CODE}_{STATION_CODE}",
