@@ -8,11 +8,13 @@ var HazDevLayers = require('leaflet/control/HazDevLayers'),
 
 
 var _TELEMETRY_ICONS = [
-  'images/station-gray.png',   // 0 => Telemetry undefined/unavailable
-  'images/station-red.png',    // 1 => Telemetry > 24 hours
-  'images/station-yellow.png', // 2 => 10 minutes < Telemetry <= 24 hours
-  'images/station-green.png'   // 3 => Telemetry < 10 minutes
+  '/images/station-gray.png',   // 0 => Telemetry undefined/unavailable
+  '/images/station-red.png',    // 1 => Telemetry > 24 hours
+  '/images/station-yellow.png', // 2 => 10 minutes < Telemetry <= 24 hours
+  '/images/station-green.png'   // 3 => Telemetry < 10 minutes
 ];
+
+var _TELEMETRY_SHADOW_ICON = 'images/station-shadow.png';
 
 
 /**
@@ -51,8 +53,14 @@ var StationDetailsMap = function (options) {
     _this.station = options.station || {};
     _this.el = options.el || document.createElement('div');
 
+    _this.baseUrl = options.hasOwnProperty('baseUrl') ? options.baseUrl : '.';
     _this.telemetryIcons = options.telemetryIcons || _TELEMETRY_ICONS;
-    _this.shadowIcon = options.shadowIcon || 'images/station-shadow.png';
+    _this.shadowIcon = _this.baseUrl +
+        (options.shadowIcon || '/images/station-shadow.png');
+
+    _this.telemetryIcons = _this.telemetryIcons.map(function (icon) {
+      return _this.baseUrl + icon;
+    });
 
     _this._createMap();
   };
@@ -130,9 +138,17 @@ var StationDetailsMap = function (options) {
    *     The marker icon to use for the station.
    */
   _this._createStationMarkerIcon = function () {
-    var iconUrl;
+    var iconIndex,
+        iconUrl;
 
-    iconUrl = _this.telemetryIcons[_this.station.telemetry || 0];
+    // Choose the icon to use. If telemetry does not correspond to an icon
+    // then use the undefined icon (0).
+    iconIndex = _this.station.telemetry || 0;
+    if (iconIndex > _this.telemetryIcons.length - 1) {
+      iconIndex = 0;
+    }
+
+    iconUrl = _this.telemetryIcons[iconIndex];
 
     return L.icon({
       iconUrl: iconUrl,
@@ -166,6 +182,11 @@ var StationDetailsMap = function (options) {
   options = null;
   return _this;
 };
+
+
+StationDetailsMap.TELEMETRY_ICONS = _TELEMETRY_ICONS;
+StationDetailsMap.TELEMETRY_SHADOW_ICON = _TELEMETRY_SHADOW_ICON;
+
 
 try {
   module.exports = StationDetailsMap;
