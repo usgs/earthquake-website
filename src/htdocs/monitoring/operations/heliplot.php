@@ -31,7 +31,7 @@ if (!isset($TEMPLATE)) {
 
     return "
       <li class=\"heliplot-list-item\" id=\"station-${station['id']}\">
-        <figure>
+        <figure class=\"heliplot-figure\">
           <figcaption class=\"heliplot-figcaption\">
             ${properties['network_code']}/${properties['station_code']}
             ${properties['name']}

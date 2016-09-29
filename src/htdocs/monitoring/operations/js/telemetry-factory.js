@@ -38,17 +38,19 @@ var TelemetryFactory = function (options) {
    */
   _this.buildRequestUrl = function (station) {
     var params,
+        properties,
         url;
 
     params = [];
+    properties = station.properties || {};
     url = _this.url;
 
-    if (station.properties.network_code) {
-      params.push('network_code=' + station.properties.network_code);
+    if (properties.network_code) {
+      params.push('network_code=' + properties.network_code);
     }
 
-    if (station.properties.station_code) {
-      params.push('station_code=' + station.properties.station_code);
+    if (properties.station_code) {
+      params.push('station_code=' + properties.station_code);
     }
 
     if (params.length) {
