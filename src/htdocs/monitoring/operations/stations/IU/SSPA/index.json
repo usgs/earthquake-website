@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "IU_SSPA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.636,
+            -77.888,
+            270
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-36000-I",
+        "datalogger": "Q330",
+        "host": "Pennsylvania State University",
+        "name": "Standing Stone, Pennsylvania",
+        "network_code": "IU",
+        "start_date": "1994,335",
+        "station_code": "SSPA",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

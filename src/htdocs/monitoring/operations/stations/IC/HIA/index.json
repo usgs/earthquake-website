@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IC_HIA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.27,
+            119.741,
+            620
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Institute of Geophysics and China Earthquake Administration",
+        "name": "Hailar, Neimenggu Autonomous Region, China",
+        "network_code": "IC",
+        "start_date": "1994,338",
+        "station_code": "HIA",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

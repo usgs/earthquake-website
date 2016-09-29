@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IC_XAN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.031,
+            108.924,
+            630
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Institute of Geophysics and China Earthquake Administration",
+        "name": "Xi'an, China",
+        "network_code": "IC",
+        "start_date": "1992,334",
+        "station_code": "XAN",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

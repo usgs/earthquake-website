@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "id": "US_LTX",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            29.334,
+            -103.667,
+            1013
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "CMG3T-N",
+        "datalogger": "Q680N",
+        "host": null,
+        "name": "Lajitas, Texas, USA",
+        "network_code": "US",
+        "start_date": null,
+        "station_code": "LTX",
+        "virtual_networks": []
+    }
+}

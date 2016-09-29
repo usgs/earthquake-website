@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_RAO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -29.245,
+            -177.929,
+            60
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Institute of Geological and Nuclear Sciences",
+        "name": "Raoul, Kermadec Islands",
+        "network_code": "IU",
+        "start_date": "2004,200",
+        "station_code": "RAO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

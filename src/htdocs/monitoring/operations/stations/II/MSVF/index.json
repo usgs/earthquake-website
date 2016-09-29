@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_MSVF",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -17.745,
+            178.053,
+            801.1
+        ]
+    },
+    "properties": {
+        "accelerometer": "Episensor_ES-T",
+        "broadband": "KS-54000",
+        "datalogger": "--",
+        "host": null,
+        "name": "Monasavu, Fiji",
+        "network_code": "II",
+        "start_date": "1994,144",
+        "station_code": "MSVF",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

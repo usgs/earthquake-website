@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_KSU1",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.101,
+            -96.609,
+            317
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S4G",
+        "broadband": "CMG3TB",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Kansas State University--Konza Prairie, Kansas, USA",
+        "network_code": "US",
+        "start_date": "2003,148",
+        "station_code": "KSU1",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

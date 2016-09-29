@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_NLWA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.392,
+            -123.869,
+            640
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Neilton Lookout, Washington, USA",
+        "network_code": "US",
+        "start_date": "2006,186",
+        "station_code": "NLWA",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

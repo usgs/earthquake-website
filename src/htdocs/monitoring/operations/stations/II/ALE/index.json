@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_ALE",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            82.503,
+            -62.35,
+            60
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Alert, N.W.T., Canada",
+        "network_code": "II",
+        "start_date": "1990,050",
+        "station_code": "ALE",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

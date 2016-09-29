@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_GLMI",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.825,
+            -84.618,
+            387
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-IHG",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Grayling, Michigan, USA",
+        "network_code": "US",
+        "start_date": "2006,222",
+        "station_code": "GLMI",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

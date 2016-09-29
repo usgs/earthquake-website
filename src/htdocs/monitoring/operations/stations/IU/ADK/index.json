@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "IU_ADK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.882,
+            -176.684,
+            130
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Aleut Enterprises",
+        "name": "Adak, Aleutian Islands, Alaska",
+        "network_code": "IU",
+        "start_date": "1993,264",
+        "station_code": "ADK",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

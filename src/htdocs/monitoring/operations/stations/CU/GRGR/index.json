@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "CU_GRGR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.132,
+            -61.654,
+            195
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA",
+        "broadband": "STS-2",
+        "datalogger": "Q330",
+        "host": "Natural Disaster Management Agency",
+        "name": "Grenville, Grenada",
+        "network_code": "CU",
+        "start_date": "2006,346",
+        "station_code": "GRGR",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

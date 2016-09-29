@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "AT_SDPT",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.349,
+            -160.477,
+            74
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-2",
+        "datalogger": "--",
+        "host": null,
+        "name": "Sand Point, Alaska",
+        "network_code": "AT",
+        "start_date": "2002,240",
+        "station_code": "SDPT",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_PKME",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.264,
+            -69.292,
+            108.5
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Peaks-Kenny State Park, Maine, USA",
+        "network_code": "US",
+        "start_date": "2006,187",
+        "station_code": "PKME",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

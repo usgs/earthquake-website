@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "IU_RSSD",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.121,
+            -104.036,
+            2090
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "US Forest Service",
+        "name": "Black Hills, South Dakota, USA",
+        "network_code": "IU",
+        "start_date": "1999,267",
+        "station_code": "RSSD",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

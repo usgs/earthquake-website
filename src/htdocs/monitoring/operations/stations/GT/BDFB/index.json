@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "GT_BDFB",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -15.642,
+            -48.015,
+            1195
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "",
+        "datalogger": "--",
+        "host": null,
+        "name": "Brasilia, Brazil",
+        "network_code": "GT",
+        "start_date": "1993,203",
+        "station_code": "BDFB",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

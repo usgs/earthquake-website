@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "CI_ISA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.663,
+            -118.474,
+            873
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-1",
+        "datalogger": "--",
+        "host": null,
+        "name": "Isabella",
+        "network_code": "CI",
+        "start_date": "1991,038",
+        "station_code": "ISA",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

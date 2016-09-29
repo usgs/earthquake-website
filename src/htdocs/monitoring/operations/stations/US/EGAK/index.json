@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_EGAK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.777,
+            -141.158,
+            296.6
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Eagle, Central Alaska, Alaska, USA",
+        "network_code": "US",
+        "start_date": "2006,230",
+        "station_code": "EGAK",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

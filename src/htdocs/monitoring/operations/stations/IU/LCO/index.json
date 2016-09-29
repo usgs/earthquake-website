@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_LCO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -29.011,
+            -70.7,
+            2300
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q680",
+        "host": "Carnegie Institution Washington",
+        "name": "Las Campanas Astronomical Observatory, Chile",
+        "network_code": "IU",
+        "start_date": "1998,354",
+        "station_code": "LCO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

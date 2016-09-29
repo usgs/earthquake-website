@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_SBA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.849,
+            166.757,
+            50
+        ]
+    },
+    "properties": {
+        "accelerometer": "n\/a",
+        "broadband": "CMG3-T",
+        "datalogger": "Q680",
+        "host": "Institute of Geological and Nuclear Sciences",
+        "name": "Scott Base, Antarctica",
+        "network_code": "IU",
+        "start_date": "1998,301",
+        "station_code": "SBA",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}
