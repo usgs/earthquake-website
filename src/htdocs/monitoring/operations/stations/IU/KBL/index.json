@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_KBL",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.541,
+            69.043,
+            1920
+        ]
+    },
+    "properties": {
+        "accelerometer": "n\/a",
+        "broadband": "STS-2\/VBB",
+        "datalogger": "Q330",
+        "host": "Kabul University",
+        "name": "Kabul, Afghanistan",
+        "network_code": "IU",
+        "start_date": "2006,313",
+        "station_code": "KBL",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

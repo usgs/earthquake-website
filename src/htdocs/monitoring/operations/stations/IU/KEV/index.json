@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_KEV",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.757,
+            27.003,
+            100
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Institute of Seismology, Univ. of Helsinki",
+        "name": "Kevo, Finland",
+        "network_code": "IU",
+        "start_date": "1993,158",
+        "station_code": "KEV",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

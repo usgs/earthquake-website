@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_YSS",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.959,
+            142.76,
+            150
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Geophysical Survey, Russian Academy of Sciences",
+        "name": "Yuzhno Sakhalinsk, Russia",
+        "network_code": "IU",
+        "start_date": "1992,152",
+        "station_code": "YSS",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

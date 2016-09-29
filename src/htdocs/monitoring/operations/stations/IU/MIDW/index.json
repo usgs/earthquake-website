@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_MIDW",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            28.216,
+            -177.37,
+            20
+        ]
+    },
+    "properties": {
+        "accelerometer": "none",
+        "broadband": "STS-2_High-gain",
+        "datalogger": "Q330",
+        "host": "US Fish and Wildlife Service",
+        "name": "Midway Island, USA",
+        "network_code": "IU",
+        "start_date": "1999,296",
+        "station_code": "MIDW",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_BRAL",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.169,
+            -87.051,
+            61
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Brewton, Alabama, USA",
+        "network_code": "US",
+        "start_date": "2006,195",
+        "station_code": "BRAL",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

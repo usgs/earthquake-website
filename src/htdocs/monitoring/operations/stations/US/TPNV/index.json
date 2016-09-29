@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_TPNV",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.949,
+            -116.249,
+            1600
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Topopah Spring, Nevada, USA",
+        "network_code": "US",
+        "start_date": "1992,167",
+        "station_code": "TPNV",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

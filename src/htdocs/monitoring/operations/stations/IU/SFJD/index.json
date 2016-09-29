@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_SFJD",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.996,
+            -50.621,
+            330
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "National Survey and Cadastre",
+        "name": "Sondre Stromfjord, Greenland",
+        "network_code": "IU",
+        "start_date": "2005,031",
+        "station_code": "SFJD",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

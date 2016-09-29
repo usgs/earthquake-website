@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IC_QIZ",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            19.029,
+            109.844,
+            240
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-2_High-gain",
+        "datalogger": "Q330",
+        "host": "Institute of Geophysics and China Earthquake Administration",
+        "name": "Qiongzhong, Hainan Province, China",
+        "network_code": "IC",
+        "start_date": "2001,049",
+        "station_code": "QIZ",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

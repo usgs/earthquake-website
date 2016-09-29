@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_ACSO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.232,
+            -82.982,
+            288
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Alum Creek State Park, Ohio, USA",
+        "network_code": "US",
+        "start_date": "2000,135",
+        "station_code": "ACSO",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

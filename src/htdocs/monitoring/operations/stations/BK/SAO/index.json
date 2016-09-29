@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "BK_SAO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.764,
+            -121.447,
+            317.2
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-1_VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "San Andreas Geophysical Obs., Hollister, CA, USA",
+        "network_code": "BK",
+        "start_date": "1988,028",
+        "station_code": "SAO",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

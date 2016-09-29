@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "GT_LPAZ",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.288,
+            -68.131,
+            4817
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "KS-54000",
+        "datalogger": "--",
+        "host": null,
+        "name": "La Paz , Bolivia",
+        "network_code": "GT",
+        "start_date": "1993,232",
+        "station_code": "LPAZ",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

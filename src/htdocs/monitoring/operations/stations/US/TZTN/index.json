@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_TZTN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.544,
+            -83.549,
+            394
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "RT-130-01\/6",
+        "host": null,
+        "name": "Tazewell, Tennessee, USA",
+        "network_code": "US",
+        "start_date": "2005,054",
+        "station_code": "TZTN",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

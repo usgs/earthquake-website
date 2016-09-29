@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_GOGA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.411,
+            -83.467,
+            116.5
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "CMG3TB",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Godfrey, Georgia, USA",
+        "network_code": "US",
+        "start_date": "1993,068",
+        "station_code": "GOGA",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_OGNE",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.945,
+            -102.033,
+            1054
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Ogallala, Nebraska, USA",
+        "network_code": "US",
+        "start_date": "2007,179",
+        "station_code": "OGNE",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

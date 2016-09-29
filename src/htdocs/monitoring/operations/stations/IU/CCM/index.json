@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "IU_CCM",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.056,
+            -91.245,
+            222
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "St. Louis University",
+        "name": "Cathedral Cave, Missouri, USA",
+        "network_code": "IU",
+        "start_date": "1989,209",
+        "station_code": "CCM",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

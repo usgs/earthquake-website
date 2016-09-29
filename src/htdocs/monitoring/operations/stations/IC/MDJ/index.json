@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IC_MDJ",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.617,
+            129.591,
+            270
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Institute of Geophysics and China Earthquake Administration",
+        "name": "Mudanjiang, Heilongjiang Province, China",
+        "network_code": "IC",
+        "start_date": "1996,314",
+        "station_code": "MDJ",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

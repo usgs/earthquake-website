@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_ANTO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.868,
+            32.793,
+            1090
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-36000-I",
+        "datalogger": "Q330",
+        "host": "General Directorate of Disaster Affairs",
+        "name": "Ankara, Turkey",
+        "network_code": "IU",
+        "start_date": "1992,269",
+        "station_code": "ANTO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

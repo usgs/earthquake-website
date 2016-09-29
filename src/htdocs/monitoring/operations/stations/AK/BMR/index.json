@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "AK_BMR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.968,
+            -144.603,
+            842
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "CMG3T\/Guralp_DM24",
+        "datalogger": "--",
+        "host": null,
+        "name": "Bremner River",
+        "network_code": "AK",
+        "start_date": "1979,231",
+        "station_code": "BMR",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

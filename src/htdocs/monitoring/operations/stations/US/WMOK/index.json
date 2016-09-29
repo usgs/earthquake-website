@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_WMOK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.738,
+            -98.781,
+            486
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Wichita Mountains, Oklahoma, USA",
+        "network_code": "US",
+        "start_date": "1992,317",
+        "station_code": "WMOK",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

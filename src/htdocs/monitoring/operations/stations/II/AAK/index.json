@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_AAK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.639,
+            74.494,
+            1645
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Ala Archa, Kyrgyzstan",
+        "network_code": "II",
+        "start_date": "1990,285",
+        "station_code": "AAK",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

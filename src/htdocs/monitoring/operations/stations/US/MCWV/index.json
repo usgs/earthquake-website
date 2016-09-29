@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_MCWV",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.658,
+            -79.846,
+            280
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Mont Chateau, West Virginia, USA",
+        "network_code": "US",
+        "start_date": "1991,087",
+        "station_code": "MCWV",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}
