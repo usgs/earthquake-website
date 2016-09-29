@@ -1,5 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
+  $PLACEHOLDER_VALUE = '&ndash;';
   $jsonFile = 'index.json';
 
   if (!file_exists($jsonFile)) {
@@ -13,6 +14,9 @@ if (!isset($TEMPLATE)) {
 
   $id = $json['id'];
   $properties = $json['properties'];
+  $coordinates = isset($json['geometry']['coordinates']) ?
+      $json['geometry']['coordinates'] :
+      [$PLACEHOLDER_VALUE, $PLACEHOLDER_VALUE, $PLACEHOLDER_VALUE];
 
   $heliplotUrl = $NETOPS_HELIPLOT_URL . '/' .
       $properties['station_code'] . '.png';
@@ -29,26 +33,26 @@ if (!isset($TEMPLATE)) {
   ';
 
   $FOOT = (isset($FOOT) ? $FOOT : '') . '
-    <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
-    <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL .
-        '/js/telemetry-factory.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL .
-        '/js/station-details-map.js"></script>
     <script>
       var NETOPS_WEBSITE_BASEURL,
           STATION,
           TELEMETRY_URL;
 
       NETOPS_WEBSITE_BASEURL = \'' . $NETOPS_WEBSITE_BASEURL . '\';
-      STATION = ' . json_encode($properties) . '
+      STATION = ' . json_encode($json) . '
       TELEMETRY_URL = \'' . $TELEMETRY_URL . '\';
     </script>
+    <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
+    <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL . '/js/config.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL .
+        '/js/telemetry-factory.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL .
+        '/js/station-details-map.js"></script>
     <script src="' . $NETOPS_WEBSITE_BASEURL .
         '/js/_station.js"></script>
   ';
 
-  $PLACEHOLDER_VALUE = '&ndash;';
 
   include 'template.inc.php';
 }
@@ -65,7 +69,7 @@ if (!isset($TEMPLATE)) {
     <?php
       echo $properties['network_code'] . ' ' . $properties['station_code'];
     ?>
-    commences operations on: <?php $properties['start_date']; ?>
+    commences operations on: <?php echo $properties['start_date']; ?>
   </p>
 </header>
 
@@ -87,32 +91,15 @@ if (!isset($TEMPLATE)) {
         </tr>
         <tr>
           <th scope="row">Latitude</th>
-          <td><?php
-            echo (isset($properties['latitude']) && $properties['latitude'] == null) ?
-                '&ndash;' : $properties['latitude'];
-          ?></td>
+          <td><?php echo $coordinates[1]; ?></td>
         </tr>
         <tr>
           <th scope="row">Longitude</th>
-          <td><?php
-            if (isset($properties['longitude']) &&
-                $properties['longitude'] !== null) {
-              echo $properties['longitude'];
-            } else {
-              echo $PLACEHOLDER_VALUE;
-            }
-          ?></td>
+          <td><?php echo $coordinates[0]; ?></td>
         </tr>
         <tr>
           <th scope="row">Elevation</th>
-          <td><?php
-            if (isset($properties['elevation']) &&
-                $properties['elevation'] !== null) {
-              echo $properties['elevation'];
-            } else {
-              echo $PLACEHOLDER_VALUE;
-            }
-          ?></td>
+          <td><?php echo $coordinates[2]; ?></td>
         </tr>
         <tr>
           <th scope="row">Datalogger</th>
