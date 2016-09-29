@@ -1,5 +1,9 @@
 <?php
-  include_once './inc/functions.inc.php';
+  include_once 'functions.inc.php'; // provides `param`
+  include_once __DIR__ . '/conf/config.inc.php';
+  include_once __DIR__ . '/inc/functions.inc.php';
+
+  $virtualNetwork = param('virtual_network');
 
   $feed = array(
     'errors' => array(),
@@ -15,33 +19,36 @@
 
     foreach ($stations as $station) {
       // Find station files
-      $stationFile = "stations/${network}/${station}/index.json";
+      $stationFile = __DIR__ . "/stations/${network}/${station}/index.json";
 
       try {
         // Validate file content
         if (!file_exists($stationFile)) {
           throw new Exception('Could not find station information for ' .
-            "${network}_${station}");
+              "${network}_${station}");
         }
 
         $stationJson = json_decode(file_get_contents($stationFile), true);
 
         if (json_last_error() != JSON_ERROR_NONE || $stationJson == null) {
-          throw new Exception("Failed to parse JSON for ${network}_${station}");
+          throw new Exception(
+              "Failed to parse JSON for ${network}_${station}");
         }
 
         if ($stationJson['id'] != "${network}_${station}") {
           throw new Exception("ID mismatch for ${network}_${station}");
         }
 
-        $stationJson['properties']['url'] =
-          ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'On') ?
-              'https://' : 'http://') .
-          $_SERVER['SERVER_NAME'] . dirname($_SERVER['REQUEST_URI']) .
-          "/stations/${network}/${station}/";
+        if ($virtualNetwork == null // Include all virtual networks
+            || in_array($virtualNetwork, // Station in virtual network
+                $stationJson['properties']['virtual_networks'])) {
+          $stationJson['properties']['url'] =
+            $NETOPS_WEBSITE_BASEURL . "/stations/${network}/${station}/";
 
-        // Passed validation, add this station to the feed
-        array_push($feed['features'], $stationJson);
+          // Passed validation, add this station to the feed
+          array_push($feed['features'], $stationJson);
+        }
+
       } catch (Exception $ex) {
         // Failed validation, add this error to the feed
         array_push($feed['errors'], $ex->getMessage());
