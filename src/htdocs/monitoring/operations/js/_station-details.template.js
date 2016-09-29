@@ -1,68 +1,41 @@
-/* global STATION, StationDetailsMap */
+/* global NETOPS_WEBSITE_BASEURL, STATION, TELEMETRY_URL */
+/* global StationDetailsMap, TelemetryFactory */
 'use strict';
 
-(function () {
-  var TELEMETRY,
-      TELEMETRY_DESCRIPTIONS,
-      TELEMETRY_URL;
+var TELEMETRY_DESCRIPTIONS;
 
+TELEMETRY_DESCRIPTIONS = [
+  'Telemetry Undefined',
+  'No data in more than 24 hours',
+  'Last data in less than 24 hours and more than 10 minutes',
+  'Last data in less than 10 minutes'
+];
 
-  TELEMETRY = [
-    '../../../images/station-gray.png',
-    '../../../images/station-red.png',
-    '../../../images/station-yellow.png',
-    '../../../images/station-green.png'
-  ];
+var telemetryEl;
 
-  TELEMETRY_DESCRIPTIONS = [
-    'Telemetry Undefined',
-    'No data in more than 24 hours',
-    'Last data in less than 24 hours and more than 10 minutes',
-    'Last data in less than 10 minutes'
-  ];
+telemetryEl = document.querySelector('.station-details-telemetry');
 
-  TELEMETRY_URL = '../../../telemetry.json';
+TelemetryFactory({url: TELEMETRY_URL}).getTelemetry({
+  station: STATION,
+  onSuccess: function (telemetry) {
+    STATION.telemetry = telemetry;
 
+    StationDetailsMap({
+      baseUrl: NETOPS_WEBSITE_BASEURL,
+      el: document.querySelector('.station-details-map-container'),
+      station: STATION
+    });
 
-  StationDetailsMap({
-    el: document.querySelector('.station-details-map-container'),
-    telemetryIcons: TELEMETRY,
-    shadowIcon: '../../../images/station-shadow.png',
-    station: STATION
-  });
-
-  var telemetryEl,
-      xhr;
-
-  telemetryEl = document.querySelector('.station-details-telemetry');
-  xhr = new XMLHttpRequest();
-
-  xhr.onreadystatechange = function () {
-    var response,
-        telemetry;
-
-    if (xhr.readyState === 4) {
-      // done
-      if (xhr.success !== null) {
-        try {
-          response = JSON.parse(xhr.response);
-          telemetry = response.telemetry || 0;
-          telemetryEl.innerHTML = '<img src="' + TELEMETRY[telemetry] +
-              '" alt="Telemetry = ' + telemetry + '"/> ' +
-              TELEMETRY_DESCRIPTIONS[telemetry];
-        } catch (e) {
-          telemetryEl.innerHTML = 'Error Fetching Telemetry';
-        }
-      } else {
-        telemetryEl.innerHTML = 'Fetching Telemetry Failed';
-      }
-    }
-  };
-
-  xhr.open('GET', TELEMETRY_URL +
-    '?network_code=' + encodeURIComponent(STATION.network_code) +
-    '&station_code=' + encodeURIComponent(STATION.station_code)
-  );
-
-  xhr.send();
-})();
+    telemetryEl.innerHTML = [
+      '<img src="',
+          NETOPS_WEBSITE_BASEURL,
+          StationDetailsMap.TELEMETRY_ICONS[telemetry],
+        '" alt="Telemetry = ', telemetry, '"/> ',
+      TELEMETRY_DESCRIPTIONS[telemetry]
+    ].join('');
+  },
+  onError: function (message) {
+    STATION.telemetry = 0; // Undefined
+    telemetryEl.innerHTML = message;
+  }
+});
