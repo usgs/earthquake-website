@@ -32,9 +32,17 @@ if (!isset($TEMPLATE)) {
     <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
     <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
     <script src="' . $NETOPS_WEBSITE_BASEURL .
+        '/js/telemetry-factory.js"></script>
+    <script src="' . $NETOPS_WEBSITE_BASEURL .
         '/js/station-details-map.js"></script>
     <script>
-      var STATION = ' . json_encode($properties) . '
+      var NETOPS_WEBSITE_BASEURL,
+          STATION,
+          TELEMETRY_URL;
+
+      NETOPS_WEBSITE_BASEURL = \'' . $NETOPS_WEBSITE_BASEURL . '\';
+      STATION = ' . json_encode($properties) . '
+      TELEMETRY_URL = \'' . $TELEMETRY_URL . '\';
     </script>
     <script src="' . $NETOPS_WEBSITE_BASEURL .
         '/js/_station-details.template.js"></script>
