@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_XMAS",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            2.045,
+            -157.446,
+            20
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-2\/VBB",
+        "datalogger": "Q680",
+        "host": "Japan Aerospace Exploration Agency",
+        "name": "Kiritimati Island, Republic of Kiribati",
+        "network_code": "IU",
+        "start_date": "1997,234",
+        "station_code": "XMAS",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

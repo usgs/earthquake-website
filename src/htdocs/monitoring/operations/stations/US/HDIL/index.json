@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_HDIL",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.556,
+            -89.294,
+            219.4
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Hopedale, Illinois, USA",
+        "network_code": "US",
+        "start_date": "2006,236",
+        "station_code": "HDIL",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

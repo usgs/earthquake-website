@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_KVTX",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            27.546,
+            -97.893,
+            14.6
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Kingsville, Texas, USA",
+        "network_code": "US",
+        "start_date": "2006,171",
+        "station_code": "KVTX",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

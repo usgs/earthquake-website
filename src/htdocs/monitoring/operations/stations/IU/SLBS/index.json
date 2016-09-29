@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_SLBS",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            23.686,
+            -109.944,
+            825
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Center for Scientific Investigation and Higher Education of Ensenada",
+        "name": "Sierra la Laguna Baja California Sur, Mexico",
+        "network_code": "IU",
+        "start_date": "2008,350",
+        "station_code": "SLBS",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

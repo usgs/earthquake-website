@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_BMO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.852,
+            -117.306,
+            1154
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Blue Mountains Array (Baker), Oregon, USA",
+        "network_code": "US",
+        "start_date": "2004,328",
+        "station_code": "BMO",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

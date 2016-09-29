@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_AAM",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.301,
+            -83.657,
+            172
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Ann Arbor, Michigan, USA",
+        "network_code": "US",
+        "start_date": "1994,171",
+        "station_code": "AAM",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

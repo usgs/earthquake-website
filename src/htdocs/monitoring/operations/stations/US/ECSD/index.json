@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_ECSD",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.734,
+            -96.614,
+            478
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "CMG3TB",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "EROS Data Center, Sioux Falls, South Dakota, USA",
+        "network_code": "US",
+        "start_date": "2006,137",
+        "station_code": "ECSD",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

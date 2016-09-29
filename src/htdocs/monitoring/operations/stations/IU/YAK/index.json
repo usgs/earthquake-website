@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_YAK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            62.031,
+            129.68,
+            110
+        ]
+    },
+    "properties": {
+        "accelerometer": "none",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Geophysical Survey, Russian Academy of Sciences",
+        "name": "Yakutsk, Russia",
+        "network_code": "IU",
+        "start_date": "1993,243",
+        "station_code": "YAK",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

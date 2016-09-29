@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "II_KDAK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.783,
+            -152.583,
+            152
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "KS-54000",
+        "datalogger": "--",
+        "host": null,
+        "name": "Kodiak Island, Alaska, USA",
+        "network_code": "II",
+        "start_date": "1997,160",
+        "station_code": "KDAK",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

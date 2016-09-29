@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "BK_MCCM",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.145,
+            -122.88,
+            -7.7
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-2_VBB_Tri-Axial",
+        "datalogger": "--",
+        "host": null,
+        "name": "Marconi Conference Center, Marshall, CA, USA",
+        "network_code": "BK",
+        "start_date": "2006,034",
+        "station_code": "MCCM",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

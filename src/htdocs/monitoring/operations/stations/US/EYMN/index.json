@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_EYMN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.946,
+            -91.495,
+            475
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Ely, Minnesota, USA",
+        "network_code": "US",
+        "start_date": "1994,269",
+        "station_code": "EYMN",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

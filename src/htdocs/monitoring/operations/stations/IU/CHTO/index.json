@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_CHTO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.814,
+            98.944,
+            420
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "Geo-Informatics and Space Technology Development Agency",
+        "name": "Chiang Mai, Thailand",
+        "network_code": "IU",
+        "start_date": "1992,244",
+        "station_code": "CHTO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

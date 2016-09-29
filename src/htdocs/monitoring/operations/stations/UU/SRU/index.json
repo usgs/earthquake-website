@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "UU_SRU",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.111,
+            -110.524,
+            1804
+        ]
+    },
+    "properties": {
+        "accelerometer": "Episensor",
+        "broadband": "",
+        "datalogger": "--",
+        "host": null,
+        "name": "San Rafael Swell, UT, USA",
+        "network_code": "UU",
+        "start_date": "1990,324",
+        "station_code": "SRU",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

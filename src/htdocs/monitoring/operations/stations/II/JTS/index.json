@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_JTS",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.291,
+            -84.953,
+            340
+        ]
+    },
+    "properties": {
+        "accelerometer": "Episensor_ES-T",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Las Juntas de Abangares, Costa Rica",
+        "network_code": "II",
+        "start_date": "1995,113",
+        "station_code": "JTS",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

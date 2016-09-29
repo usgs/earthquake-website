@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_RCBR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.827,
+            -35.901,
+            400
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "University of Rio Grande do Norte",
+        "name": "Riachuelo, Brazil",
+        "network_code": "IU",
+        "start_date": "1999,060",
+        "station_code": "RCBR",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}
