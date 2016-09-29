@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_WVT","geometry":{"type":"Point","coordinates":[36.13,-87.83,170]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"St. Louis University","name":"Waverly, Tennessee, USA","network_code":"IU","start_date":"1997,106","station_code":"WVT","virtual_networks":["GSN","ANSS"]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"US_HAWA","geometry":{"type":"Point","coordinates":[46.392,-119.533,364]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Hanford, Washington, USA","network_code":"US","start_date":"1999,113","station_code":"HAWA","virtual_networks":["ANSS"]}}

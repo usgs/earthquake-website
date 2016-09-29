@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_TRQA","geometry":{"type":"Point","coordinates":[-38.057,-61.979,540]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"KS-54000","datalogger":"Q330","host":"University of La Plata","name":"Tornquist, Argentina","network_code":"IU","start_date":"2000,302","station_code":"TRQA","virtual_networks":["GSN"]}}

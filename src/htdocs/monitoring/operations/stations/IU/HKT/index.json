@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_HKT","geometry":{"type":"Point","coordinates":[29.962,-95.838,-413]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"University of Texas Austin","name":"Hockley, Texas","network_code":"IU","start_date":"1995,192","station_code":"HKT","virtual_networks":["GSN","ANSS"]}}

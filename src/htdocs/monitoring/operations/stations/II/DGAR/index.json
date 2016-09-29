@@ -1,0 +1,1 @@
+{"type":"Feature","id":"II_DGAR","geometry":{"type":"Point","coordinates":[-7.412,72.453,1]},"properties":{"accelerometer":"Episensor_ES-T","broadband":"STS-1V\/VBB","datalogger":"--","host":null,"name":"Diego Garcia, Chagos Islands, Indian Ocean","network_code":"II","start_date":"2004,022","station_code":"DGAR","virtual_networks":["GSN"]}}

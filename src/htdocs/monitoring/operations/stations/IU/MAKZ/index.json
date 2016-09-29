@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_MAKZ","geometry":{"type":"Point","coordinates":[46.808,81.977,600]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-2_Standard-gain","datalogger":"Q330","host":"National Nuclear Center ","name":"Makanchi, Kazakhstan","network_code":"IU","start_date":"1996,258","station_code":"MAKZ","virtual_networks":["GSN"]}}

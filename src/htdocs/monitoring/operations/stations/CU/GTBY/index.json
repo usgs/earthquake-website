@@ -1,0 +1,1 @@
+{"type":"Feature","id":"CU_GTBY","geometry":{"type":"Point","coordinates":[19.927,-75.111,79]},"properties":{"accelerometer":"FBA","broadband":"STS-2","datalogger":"Q330","host":"US Navy","name":"Guantanamo Bay, Cuba","network_code":"CU","start_date":"2007,239","station_code":"GTBY","virtual_networks":["GSN"]}}

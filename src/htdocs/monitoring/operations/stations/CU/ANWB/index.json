@@ -1,0 +1,1 @@
+{"type":"Feature","id":"CU_ANWB","geometry":{"type":"Point","coordinates":[17.669,-61.786,39]},"properties":{"accelerometer":"FBA","broadband":"STS-2","datalogger":"Q330","host":"National Office of Disaster Services","name":"Willy Bob, Antigua and Barbuda","network_code":"CU","start_date":"2007,250","station_code":"ANWB","virtual_networks":["GSN"]}}

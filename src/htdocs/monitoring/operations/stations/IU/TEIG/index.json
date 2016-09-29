@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_TEIG","geometry":{"type":"Point","coordinates":[20.226,-88.276,40]},"properties":{"accelerometer":"FBA-23","broadband":"KS-36000-I","datalogger":"Q680","host":"National Autonomous University of Mexico","name":"Tepich, Yucatan, Mexico","network_code":"IU","start_date":"1996,306","station_code":"TEIG","virtual_networks":["GSN"]}}

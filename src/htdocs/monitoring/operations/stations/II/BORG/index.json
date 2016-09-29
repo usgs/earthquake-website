@@ -1,0 +1,1 @@
+{"type":"Feature","id":"II_BORG","geometry":{"type":"Point","coordinates":[64.747,-21.327,110]},"properties":{"accelerometer":"FBA-23","broadband":"KS-54000","datalogger":"--","host":null,"name":"Borgarfjordur, Asbjarnarstadir, Iceland","network_code":"II","start_date":"1994,211","station_code":"BORG","virtual_networks":["GSN"]}}

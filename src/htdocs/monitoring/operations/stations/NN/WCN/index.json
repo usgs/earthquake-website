@@ -1,0 +1,1 @@
+{"type":"Feature","id":"NN_WCN","geometry":{"type":"Point","coordinates":[39.302,-119.756,1704]},"properties":{"accelerometer":"","broadband":"CMG3T\/Reftek_72A-08","datalogger":"--","host":null,"name":"Washoe City, NV, USA","network_code":"NN","start_date":"2000,275","station_code":"WCN","virtual_networks":["ANSS"]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"US_LRAL","geometry":{"type":"Point","coordinates":[33.035,-86.998,130]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Lakeview Retreat, Alabama, USA","network_code":"US","start_date":"2001,183","station_code":"LRAL","virtual_networks":["ANSS"]}}

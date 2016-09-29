@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_KONO","geometry":{"type":"Point","coordinates":[59.649,9.598,216]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"University of Bergen","name":"Kongsberg, Norway","network_code":"IU","start_date":"1991,171","station_code":"KONO","virtual_networks":["GSN"]}}

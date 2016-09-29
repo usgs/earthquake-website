@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_PTGA","geometry":{"type":"Point","coordinates":[-0.731,-59.967,237]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"KS-54000","datalogger":"Q330","host":"University of Brasilia","name":"Pitinga, Brazil","network_code":"IU","start_date":"1995,319","station_code":"PTGA","virtual_networks":["GSN"]}}

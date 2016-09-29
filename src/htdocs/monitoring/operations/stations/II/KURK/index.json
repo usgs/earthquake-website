@@ -1,0 +1,1 @@
+{"type":"Feature","id":"II_KURK","geometry":{"type":"Point","coordinates":[50.715,78.62,184]},"properties":{"accelerometer":"FBA-23","broadband":"STS-1V\/VBB","datalogger":"--","host":null,"name":"Kurchatov, Kazakhstan","network_code":"II","start_date":"1995,085","station_code":"KURK","virtual_networks":["GSN"]}}

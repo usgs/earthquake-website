@@ -1,0 +1,1 @@
+{"type":"Feature","id":"US_EGMT","geometry":{"type":"Point","coordinates":[48.024,-109.755,1055]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Eagleton, Montana, USA","network_code":"US","start_date":"2005,321","station_code":"EGMT","virtual_networks":["ANSS"]}}

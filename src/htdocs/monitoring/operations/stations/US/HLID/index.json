@@ -1,0 +1,1 @@
+{"type":"Feature","id":"US_HLID","geometry":{"type":"Point","coordinates":[43.562,-114.414,1772]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Hailey, Idaho, USA","network_code":"US","start_date":"1998,222","station_code":"HLID","virtual_networks":["ANSS"]}}

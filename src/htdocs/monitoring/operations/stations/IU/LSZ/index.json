@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_LSZ","geometry":{"type":"Point","coordinates":[-15.278,28.188,1200]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1H\/VBB","datalogger":"Q330","host":"Zambia Geological Survey","name":"Lusaka, Zambia","network_code":"IU","start_date":"1994,217","station_code":"LSZ","virtual_networks":["GSN"]}}

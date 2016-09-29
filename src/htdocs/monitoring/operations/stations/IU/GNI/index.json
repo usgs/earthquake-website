@@ -1,0 +1,1 @@
+{"type":"Feature","id":"IU_GNI","geometry":{"type":"Point","coordinates":[40.148,44.741,1609]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"National Survey for Seismic Protection","name":"Garni, Armenia","network_code":"IU","start_date":"1991,191","station_code":"GNI","virtual_networks":["GSN"]}}

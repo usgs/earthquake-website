@@ -1,0 +1,1 @@
+{"type":"Feature","id":"US_JCT","geometry":{"type":"Point","coordinates":[30.479,-99.802,591]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Junction, Texas, USA","network_code":"US","start_date":"2000,034","station_code":"JCT","virtual_networks":["ANSS"]}}
