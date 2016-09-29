@@ -1,6 +1,8 @@
 <?php
 if (!isset($TEMPLATE)) {
-  $PLACEHOLDER_VALUE = '&ndash;';
+  include_once __DIR__ . '/conf/config.inc.php';
+
+  $placeholderValue = '&ndash;';
   $jsonFile = 'index.json';
 
   if (!file_exists($jsonFile)) {
@@ -10,13 +12,12 @@ if (!isset($TEMPLATE)) {
 
   $json = json_decode(file_get_contents($jsonFile), true);
 
-  include_once __DIR__ . '/conf/config.inc.php';
 
   $id = $json['id'];
   $properties = $json['properties'];
   $coordinates = isset($json['geometry']['coordinates']) ?
       $json['geometry']['coordinates'] :
-      [$PLACEHOLDER_VALUE, $PLACEHOLDER_VALUE, $PLACEHOLDER_VALUE];
+      [$placeholderValue, $placeholderValue, $placeholderValue];
 
   $heliplotUrl = $NETOPS_HELIPLOT_URL . '/' .
       $properties['station_code'] . '.png';
@@ -39,7 +40,7 @@ if (!isset($TEMPLATE)) {
           TELEMETRY_URL;
 
       NETOPS_WEBSITE_BASEURL = \'' . $NETOPS_WEBSITE_BASEURL . '\';
-      STATION = ' . json_encode($json) . '
+      STATION = ' . safe_json_encode($json) . '
       TELEMETRY_URL = \'' . $TELEMETRY_URL . '\';
     </script>
     <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
@@ -85,7 +86,7 @@ if (!isset($TEMPLATE)) {
                 $properties['host'] !== null) {
               echo $properties['host'];
             } else {
-              echo $PLACEHOLDER_VALUE;
+              echo $placeholderValue;
             }
           ?></td>
         </tr>
@@ -108,7 +109,7 @@ if (!isset($TEMPLATE)) {
                 $properties['datalogger'] !== null) {
               echo $properties['datalogger'];
             } else {
-              echo $PLACEHOLDER_VALUE;
+              echo $placeholderValue;
             }
           ?></td>
         </tr>
@@ -119,7 +120,7 @@ if (!isset($TEMPLATE)) {
                 $properties['broadband'] !== null) {
               echo $properties['broadband'];
             } else {
-              echo $PLACEHOLDER_VALUE;
+              echo $placeholderValue;
             }
           ?></td>
         </tr>
@@ -130,7 +131,7 @@ if (!isset($TEMPLATE)) {
                 $properties['accelerometer'] !== null) {
               echo $properties['accelerometer'];
             } else {
-              echo $PLACEHOLDER_VALUE;
+              echo $placeholderValue;
             }
           ?></td>
         </tr>

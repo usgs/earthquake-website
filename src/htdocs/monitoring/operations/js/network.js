@@ -1,13 +1,15 @@
 /* global STATIONS, TELEMETRY_URL */
-/* global TELEMETRY_ICONS, TELEMETRY_DESCRIPTIONS */
+/* global TELEMETRY_DESCRIPTIONS, TELEMETRY_ICONS */
 /* global NetworkMap, TelemetryFactory */
 'use strict';
+
 
 var legendEl,
     mapEl;
 
 legendEl = document.querySelector('.network-map-legend');
 mapEl = document.querySelector('.network-map-container');
+
 
 TelemetryFactory({url: TELEMETRY_URL}).getTelemetry({
   onSuccess: function (allTelemetry) {
