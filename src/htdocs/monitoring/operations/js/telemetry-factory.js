@@ -38,9 +38,11 @@ var TelemetryFactory = function (options) {
    */
   _this.buildRequestUrl = function (station) {
     var params,
+        properties,
         url;
 
     params = [];
+    properties = station.properties || {};
     url = _this.url;
 
     if (station.properties.network_code) {
