@@ -27,15 +27,8 @@ var StationDetailsMap = function (options) {
    *
    * @param options.el {HTMLElement}
    *     The container element into which the map will be rendered.
-   * @param options.station {Object}
-   *     The station object information. Must container at least the
-   *     following keys:
-   *       - latitude {Double}
-   *       - longitude {Double}
-   *       - name {String}
-   *       - network_code {String}
-   *       - station_code {String}
-   *       - telemetry {Integer}
+   * @param options.station {Feature}
+   *     The station object information as a GeoJSON Feature.
    */
   _initialize = function (options) {
     _this.station = options.station || {};
@@ -179,6 +172,4 @@ var StationDetailsMap = function (options) {
 
 try {
   module.exports = StationDetailsMap;
-} catch (e) {
-  // Ignore
-}
+} catch (e) { /* Ignore */ }

@@ -1,8 +1,8 @@
 <?php
 if (!isset($TEMPLATE)) {
-  include_once 'functions.inc.php'; // provides `param` function
-  include_once './conf/config.inc.php';
-  include_once './inc/functions.inc.php'; // provides `get_stations` function
+  include_once 'functions.inc.php'; // provides `param`
+  include_once __DIR__ . '/conf/config.inc.php';
+  include_once __DIR__ . '/inc/functions.inc.php'; // provides `get_stations`
 
   $virtualNetwork = param('virtual_network');
   $stations = null;
