@@ -1,0 +1,11 @@
+.narrower {
+  max-width: 50px;
+}
+
+.wider {
+  min-width: 300px;
+}
+
+.network-map-legend > h3 {
+  margin-top: 0;
+}
