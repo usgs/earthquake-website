@@ -1,6 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   include_once __DIR__ . '/conf/config.inc.php';
+  include_once __DIR__ . '/inc/functions.inc.php';
 
   $placeholderValue = '&ndash;';
   $jsonFile = 'index.json';
