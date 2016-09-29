@@ -173,7 +173,7 @@ Any valid HTML markup may follow the PHP template preamble.
 ```php
 <?php
 // Station template that uses Station JSON content
-include '../../_station-details.template.php';
+include '../../../_station.php';
 ?>
 ```
 
@@ -182,7 +182,7 @@ include '../../_station-details.template.php';
 ```php
 <?php
 // Station template that uses Station JSON content
-include '../../_station-details.template.php';
+include '../../../_station.php';
 ?>
 
 <!-- additional HTML for station-specific information -->
