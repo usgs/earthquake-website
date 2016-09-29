@@ -235,9 +235,6 @@
       <ul>
         <li><a href="/regional/nca/maps/">San Francisco Bay Area Data &amp; Maps</a></li>
         <li><a href="/research/parkfield/livedata.php">Parkfield Geophysical Data</a></li>
-        <li><a href="/regional/nca/1868/">1868 Hayward Fault Data &amp; Products</a></li>
-        <li><a href="/regional/nca/1906/">1906 San Francisco Earthquake Data &amp; Products</a></li>
-        <li><a href="/regional/nca/1989/">1989 Loma Prieta, CA Earthquake Data &amp; Products</a></li>
         <li><a href="/research/parkfield/2003site.php">SAFOD Data</a></li>
         <li><a href="/learn/topics/flinn_engdahl.php">Flinn-Engdahl Regionalization Files</a></li>
         <li><a href="/research/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>

@@ -128,7 +128,6 @@ if (!isset($TEMPLATE)) {
     </ul>
   </section>
 
-<!--
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
@@ -143,6 +142,5 @@ if (!isset($TEMPLATE)) {
       </li>
     </ul>
   </section>
- -->
 
 </div>
