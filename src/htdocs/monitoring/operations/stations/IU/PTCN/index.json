@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_PTCN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.095,
+            -25.071,
+            220
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-2\/VBB",
+        "datalogger": "Q680",
+        "host": "British Geological Survey",
+        "name": "Pitcairn Island, South Pacific",
+        "network_code": "IU",
+        "start_date": "1996,364",
+        "station_code": "PTCN",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

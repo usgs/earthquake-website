@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_CBN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.373,
+            38.205,
+            70
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Corbin (Fredericksburg Observatory), Virginia, USA",
+        "network_code": "US",
+        "start_date": "2001,166",
+        "station_code": "CBN",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

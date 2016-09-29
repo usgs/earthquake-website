@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_FFC",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -101.978,
+            54.725,
+            338
+        ]
+    },
+    "properties": {
+        "accelerometer": "Episensor_ES-T",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Flin Flon, Canada",
+        "network_code": "II",
+        "start_date": "1993,240",
+        "station_code": "FFC",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

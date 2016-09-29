@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_DUG",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.813,
+            40.195,
+            1477
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Dugway, Tooele County, Utah, USA",
+        "network_code": "US",
+        "start_date": "1993,049",
+        "station_code": "DUG",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

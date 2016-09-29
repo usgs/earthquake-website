@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_DGMT",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -104.196,
+            48.47,
+            646
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Dagmar, Montana, USA",
+        "network_code": "US",
+        "start_date": "2004,197",
+        "station_code": "DGMT",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_ULN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.053,
+            47.865,
+            1610
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Mongolia Academy of Science",
+        "name": "Ulaanbaatar, Mongolia",
+        "network_code": "IU",
+        "start_date": "1994,304",
+        "station_code": "ULN",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

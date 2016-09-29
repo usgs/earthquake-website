@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IC_ENH",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            109.494,
+            30.276,
+            500
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Institute of Geophysics and China Earthquake Administration",
+        "name": "Enshi, Hubei Province, China",
+        "network_code": "IC",
+        "start_date": "1997,263",
+        "station_code": "ENH",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

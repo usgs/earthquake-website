@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_OBN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.567,
+            55.115,
+            160
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Obninsk, Russia",
+        "network_code": "II",
+        "start_date": "1988,258",
+        "station_code": "OBN",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

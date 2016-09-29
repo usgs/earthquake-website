@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "BK_CMB",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.387,
+            38.035,
+            697
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-1_VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Columbia College, Columbia, CA, USA",
+        "network_code": "BK",
+        "start_date": "1986,298",
+        "station_code": "CMB",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

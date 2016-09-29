@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "IU_KIP",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -158.011,
+            21.42,
+            110
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Pacific Tsunami Warning Center",
+        "name": "Kipapa, Hawaii, USA",
+        "network_code": "IU",
+        "start_date": "1988,228",
+        "station_code": "KIP",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

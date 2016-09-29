@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_VBMS",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -90.518,
+            32.219,
+            16
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Vicksburg, Mississippi",
+        "network_code": "US",
+        "start_date": "2007,116",
+        "station_code": "VBMS",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

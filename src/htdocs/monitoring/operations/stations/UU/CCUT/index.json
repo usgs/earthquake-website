@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "UU_CCUT",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.363,
+            37.551,
+            2127
+        ]
+    },
+    "properties": {
+        "accelerometer": "Applied_MEMS_SF3000L",
+        "broadband": "",
+        "datalogger": "--",
+        "host": null,
+        "name": "Cedar City, UT, USA",
+        "network_code": "UU",
+        "start_date": "2006,009",
+        "station_code": "CCUT",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

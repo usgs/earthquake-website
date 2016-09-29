@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_MAJO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            138.204,
+            36.546,
+            405
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Japan Meteorological Agency",
+        "name": "Matsushiro, Japan",
+        "network_code": "IU",
+        "start_date": "1990,230",
+        "station_code": "MAJO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

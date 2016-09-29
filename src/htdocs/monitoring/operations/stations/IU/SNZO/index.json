@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_SNZO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            174.704,
+            -41.309,
+            120
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "Institute of Geological and Nuclear Sciences",
+        "name": "South Karori, New Zealand",
+        "network_code": "IU",
+        "start_date": "1992,098",
+        "station_code": "SNZO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

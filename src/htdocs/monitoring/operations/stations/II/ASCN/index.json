@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_ASCN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -14.36,
+            -7.933,
+            173
+        ]
+    },
+    "properties": {
+        "accelerometer": "Episensor_ES-T",
+        "broadband": "KS-54000",
+        "datalogger": "--",
+        "host": null,
+        "name": "Butt Crater, Ascension Island",
+        "network_code": "II",
+        "start_date": "1994,274",
+        "station_code": "ASCN",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

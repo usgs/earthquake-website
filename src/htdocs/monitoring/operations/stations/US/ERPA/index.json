@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_ERPA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -79.989,
+            42.117,
+            306.3
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Erie, Pennsylvania, USA",
+        "network_code": "US",
+        "start_date": "2004,079",
+        "station_code": "ERPA",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

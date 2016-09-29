@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_PMSA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -64.049,
+            -64.774,
+            40
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "US National Science Foundation",
+        "name": "Palmer Station, Antarctica",
+        "network_code": "IU",
+        "start_date": "1993,062",
+        "station_code": "PMSA",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

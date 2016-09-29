@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "ET_SWET",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -85.932,
+            35.216,
+            581
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "",
+        "datalogger": "--",
+        "host": null,
+        "name": "Sewanee, TN",
+        "network_code": "ET",
+        "start_date": null,
+        "station_code": "SWET",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_ERM",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            143.157,
+            42.015,
+            40
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Erimo, Hokkaido Island, Japan",
+        "network_code": "II",
+        "start_date": "1990,141",
+        "station_code": "ERM",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

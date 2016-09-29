@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "IU_ANMO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.457,
+            34.946,
+            1820
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "US Geological Survey",
+        "name": "Albuquerque, New Mexico, USA",
+        "network_code": "IU",
+        "start_date": "1989,241",
+        "station_code": "ANMO",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

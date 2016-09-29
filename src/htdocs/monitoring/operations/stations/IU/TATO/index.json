@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_TATO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.497,
+            24.974,
+            160
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "Institute of Earth Science, Academia Sinica",
+        "name": "Taipei, Taiwan",
+        "network_code": "IU",
+        "start_date": "1992,270",
+        "station_code": "TATO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

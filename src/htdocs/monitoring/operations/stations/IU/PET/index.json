@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_PET",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            158.65,
+            53.023,
+            110
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q680",
+        "host": "Geophysical Survey, Russian Academy of Sciences",
+        "name": "Petropavlovsk, Russia",
+        "network_code": "IU",
+        "start_date": "1993,240",
+        "station_code": "PET",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

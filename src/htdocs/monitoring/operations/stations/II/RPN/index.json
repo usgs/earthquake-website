@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_RPN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -109.334,
+            -27.127,
+            110
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Rapanui, Easter Island, Chile",
+        "network_code": "II",
+        "start_date": "1987,166",
+        "station_code": "RPN",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

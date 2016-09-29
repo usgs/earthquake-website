@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_NHSC",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.178,
+            33.107,
+            11
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "New Hope, South Carolina, USA",
+        "network_code": "US",
+        "start_date": "2001,121",
+        "station_code": "NHSC",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

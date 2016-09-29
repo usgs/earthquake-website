@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "IU_WCI",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -86.294,
+            38.229,
+            210
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "St. Louis University",
+        "name": "Wyandotte Cave, Indiana, USA",
+        "network_code": "IU",
+        "start_date": "1997,198",
+        "station_code": "WCI",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_NWAO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            117.239,
+            -32.928,
+            380
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "Geoscience Australia",
+        "name": "Narrogin, Australia",
+        "network_code": "IU",
+        "start_date": "1991,329",
+        "station_code": "NWAO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}
