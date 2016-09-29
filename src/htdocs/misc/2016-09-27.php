@@ -31,5 +31,5 @@
   Swarm-like activity in this region has occurred in the past, so this week’s activity, in and of itself, is not necessarily cause for alarm.
 </p>
 <p>
-  Preliminary calculations indicate that, as of 10:00 am (PDT) Sept. 27, 2016, there is a 0.03%-1% chance (1 in 3000 to 1 in 100) of a magnitude 7 or greater earthquake being triggered on the Southern San Andreas fault within the next next seven days through October 4, with the likelihood decreasing over time. This probability range is estimated using several models developed in California to assess foreshock/aftershock probabilities.
+  Preliminary calculations indicate that, as of 10:00 am (PDT) Sept. 27, 2016, there is a 0.03%-1% chance (1 in 3000 to 1 in 100) of a magnitude 7 or greater earthquake being triggered on the Southern San Andreas fault within the next seven days through October 4, with the likelihood decreasing over time. This probability range is estimated using several models developed in California to assess foreshock/aftershock probabilities.
 </p>
