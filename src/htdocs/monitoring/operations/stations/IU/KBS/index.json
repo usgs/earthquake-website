@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_KBS","geometry":{"type":"Point","coordinates":[78.915,11.938,90]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"University of Bergen","name":"Ny-Alesund, Spitzbergen, Norway","network_code":"IU","start_date":"1994,309","station_code":"KBS","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_KBS",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            78.915,
+            11.938,
+            90
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "University of Bergen",
+        "name": "Ny-Alesund, Spitzbergen, Norway",
+        "network_code": "IU",
+        "start_date": "1994,309",
+        "station_code": "KBS",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

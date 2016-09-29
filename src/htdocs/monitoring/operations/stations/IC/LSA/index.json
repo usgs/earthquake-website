@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IC_LSA","geometry":{"type":"Point","coordinates":[29.703,91.127,3660]},"properties":{"accelerometer":"FBA-23","broadband":"STS-1V\/VBB","datalogger":"Q330","host":"Institute of Geophysics and China Earthquake Administration","name":"Tibet, China","network_code":"IC","start_date":"1995,215","station_code":"LSA","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IC_LSA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            29.703,
+            91.127,
+            3660
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Institute of Geophysics and China Earthquake Administration",
+        "name": "Tibet, China",
+        "network_code": "IC",
+        "start_date": "1995,215",
+        "station_code": "LSA",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

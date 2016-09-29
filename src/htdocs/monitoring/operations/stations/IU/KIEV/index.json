@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_KIEV","geometry":{"type":"Point","coordinates":[50.701,29.224,180]},"properties":{"accelerometer":"FBA-23","broadband":"STS-1V\/VBB","datalogger":"Q680","host":"Institute of Geophysics, National Academy of Sciences","name":"Kiev, Ukraine","network_code":"IU","start_date":"1995,030","station_code":"KIEV","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_KIEV",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            50.701,
+            29.224,
+            180
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q680",
+        "host": "Institute of Geophysics, National Academy of Sciences",
+        "name": "Kiev, Ukraine",
+        "network_code": "IU",
+        "start_date": "1995,030",
+        "station_code": "KIEV",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

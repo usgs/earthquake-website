@@ -1,1 +1,25 @@
-{"type":"Feature","id":"UO_PINE","geometry":{"type":"Point","coordinates":[43.792,-120.941,1916]},"properties":{"accelerometer":"ES-T-3340=RT130-AB1C","broadband":"TR120-915=RT130-AB1C","datalogger":"--","host":null,"name":"Pine Mountain Observatory, OR","network_code":"UO","start_date":"2010,270","station_code":"PINE","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "UO_PINE",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.792,
+            -120.941,
+            1916
+        ]
+    },
+    "properties": {
+        "accelerometer": "ES-T-3340=RT130-AB1C",
+        "broadband": "TR120-915=RT130-AB1C",
+        "datalogger": "--",
+        "host": null,
+        "name": "Pine Mountain Observatory, OR",
+        "network_code": "UO",
+        "start_date": "2010,270",
+        "station_code": "PINE",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

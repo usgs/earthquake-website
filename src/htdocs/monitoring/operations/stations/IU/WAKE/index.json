@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_WAKE","geometry":{"type":"Point","coordinates":[19.283,166.652,20]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"KS-54000","datalogger":"Q330","host":"US Air Force","name":"Wake Island","network_code":"IU","start_date":"1997,126","station_code":"WAKE","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_WAKE",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            19.283,
+            166.652,
+            20
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "US Air Force",
+        "name": "Wake Island",
+        "network_code": "IU",
+        "start_date": "1997,126",
+        "station_code": "WAKE",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

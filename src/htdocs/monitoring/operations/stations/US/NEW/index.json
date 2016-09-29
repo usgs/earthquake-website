@@ -1,1 +1,25 @@
-{"type":"Feature","id":"US_NEW","geometry":{"type":"Point","coordinates":[48.264,-117.123,760]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Newport, Washington, USA","network_code":"US","start_date":"1993,317","station_code":"NEW","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "US_NEW",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.264,
+            -117.123,
+            760
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Newport, Washington, USA",
+        "network_code": "US",
+        "start_date": "1993,317",
+        "station_code": "NEW",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_TSUM","geometry":{"type":"Point","coordinates":[-19.202,17.584,1260]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1H\/VBB","datalogger":"Q330","host":"Ministry of Mines and Energy","name":"Tsumeb, Namibia","network_code":"IU","start_date":"1994,231","station_code":"TSUM","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_TSUM",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -19.202,
+            17.584,
+            1260
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1H\/VBB",
+        "datalogger": "Q330",
+        "host": "Ministry of Mines and Energy",
+        "name": "Tsumeb, Namibia",
+        "network_code": "IU",
+        "start_date": "1994,231",
+        "station_code": "TSUM",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

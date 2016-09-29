@@ -1,1 +1,25 @@
-{"type":"Feature","id":"II_BRVK","geometry":{"type":"Point","coordinates":[53.058,70.283,330]},"properties":{"accelerometer":"FBA-23","broadband":"STS-1V\/VBB","datalogger":"--","host":null,"name":"Borovoye, Kazakhstan","network_code":"II","start_date":"1994,244","station_code":"BRVK","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "II_BRVK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            53.058,
+            70.283,
+            330
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Borovoye, Kazakhstan",
+        "network_code": "II",
+        "start_date": "1994,244",
+        "station_code": "BRVK",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IC_WMQ","geometry":{"type":"Point","coordinates":[43.814,87.705,850]},"properties":{"accelerometer":"FBA-23","broadband":"STS-1V\/VBB","datalogger":"Q330","host":"Institute of Geophysics and China Earthquake Administration","name":"Urumqi, Xinjiang Province, China","network_code":"IC","start_date":"1995,266","station_code":"WMQ","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IC_WMQ",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.814,
+            87.705,
+            850
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Institute of Geophysics and China Earthquake Administration",
+        "name": "Urumqi, Xinjiang Province, China",
+        "network_code": "IC",
+        "start_date": "1995,266",
+        "station_code": "WMQ",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

@@ -1,1 +1,25 @@
-{"type":"Feature","id":"US_MIAR","geometry":{"type":"Point","coordinates":[34.545,-93.576,207]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Mount Ida, Arkansas, USA","network_code":"US","start_date":"1992,267","station_code":"MIAR","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "US_MIAR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.545,
+            -93.576,
+            207
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Mount Ida, Arkansas, USA",
+        "network_code": "US",
+        "start_date": "1992,267",
+        "station_code": "MIAR",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

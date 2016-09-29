@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_FUNA","geometry":{"type":"Point","coordinates":[-8.526,179.197,20]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-2_Standard-gain","datalogger":"Q330","host":"Meteorological Department","name":"Funafuti, Tuvalu","network_code":"IU","start_date":"2004,021","station_code":"FUNA","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_FUNA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -8.526,
+            179.197,
+            20
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-2_Standard-gain",
+        "datalogger": "Q330",
+        "host": "Meteorological Department",
+        "name": "Funafuti, Tuvalu",
+        "network_code": "IU",
+        "start_date": "2004,021",
+        "station_code": "FUNA",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

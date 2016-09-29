@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_OTAV","geometry":{"type":"Point","coordinates":[0.238,-78.451,3510]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"Escuela Politecnica Nacional","name":"Otavalo, Ecuador","network_code":"IU","start_date":"2000,251","station_code":"OTAV","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_OTAV",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            0.238,
+            -78.451,
+            3510
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Escuela Politecnica Nacional",
+        "name": "Otavalo, Ecuador",
+        "network_code": "IU",
+        "start_date": "2000,251",
+        "station_code": "OTAV",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

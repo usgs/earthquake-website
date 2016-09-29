@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_MA2","geometry":{"type":"Point","coordinates":[59.576,150.77,339]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1\/VBB","datalogger":"Q330","host":"Geophysical Survey, Russian Academy of Sciences","name":"Magadan, Russia","network_code":"IU","start_date":"1993,260","station_code":"MA2","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_MA2",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            59.576,
+            150.77,
+            339
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1\/VBB",
+        "datalogger": "Q330",
+        "host": "Geophysical Survey, Russian Academy of Sciences",
+        "name": "Magadan, Russia",
+        "network_code": "IU",
+        "start_date": "1993,260",
+        "station_code": "MA2",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_FURI","geometry":{"type":"Point","coordinates":[8.895,38.68,2570]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"Addis Ababa University","name":"Mt. Furi, Ethiopia","network_code":"IU","start_date":"1997,244","station_code":"FURI","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_FURI",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.895,
+            38.68,
+            2570
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Addis Ababa University",
+        "name": "Mt. Furi, Ethiopia",
+        "network_code": "IU",
+        "start_date": "1997,244",
+        "station_code": "FURI",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

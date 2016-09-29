@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_KNTN","geometry":{"type":"Point","coordinates":[-2.774,-171.719,20]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-2_Standard-gain","datalogger":"Q330","host":"Kiribati Weather Service","name":"Kanton, Kiritibati","network_code":"IU","start_date":"2007,338","station_code":"KNTN","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_KNTN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.774,
+            -171.719,
+            20
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-2_Standard-gain",
+        "datalogger": "Q330",
+        "host": "Kiribati Weather Service",
+        "name": "Kanton, Kiritibati",
+        "network_code": "IU",
+        "start_date": "2007,338",
+        "station_code": "KNTN",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

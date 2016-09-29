@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_AFI","geometry":{"type":"Point","coordinates":[-13.909,-171.777,706]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"Ministry of Natural Resources and Environment","name":"Afiamalu, Samoa","network_code":"IU","start_date":"1993,236","station_code":"AFI","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_AFI",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -13.909,
+            -171.777,
+            706
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Ministry of Natural Resources and Environment",
+        "name": "Afiamalu, Samoa",
+        "network_code": "IU",
+        "start_date": "1993,236",
+        "station_code": "AFI",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

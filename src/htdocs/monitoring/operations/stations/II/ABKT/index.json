@@ -1,1 +1,25 @@
-{"type":"Feature","id":"II_ABKT","geometry":{"type":"Point","coordinates":[37.93,58.119,678]},"properties":{"accelerometer":"FBA-23","broadband":"STS-1V\/VBB","datalogger":"--","host":null,"name":"Alibek, Turkmenistan","network_code":"II","start_date":"1993,115","station_code":"ABKT","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "II_ABKT",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.93,
+            58.119,
+            678
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Alibek, Turkmenistan",
+        "network_code": "II",
+        "start_date": "1993,115",
+        "station_code": "ABKT",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

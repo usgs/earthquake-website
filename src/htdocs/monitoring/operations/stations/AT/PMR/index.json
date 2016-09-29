@@ -1,1 +1,25 @@
-{"type":"Feature","id":"AT_PMR","geometry":{"type":"Point","coordinates":[61.592,-149.131,100]},"properties":{"accelerometer":"","broadband":"STS-2","datalogger":"--","host":null,"name":"Palmer, AK, USA","network_code":"AT","start_date":"1999,223","station_code":"PMR","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "AT_PMR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.592,
+            -149.131,
+            100
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-2",
+        "datalogger": "--",
+        "host": null,
+        "name": "Palmer, AK, USA",
+        "network_code": "AT",
+        "start_date": "1999,223",
+        "station_code": "PMR",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

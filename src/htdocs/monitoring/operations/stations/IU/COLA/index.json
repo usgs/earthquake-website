@@ -1,1 +1,26 @@
-{"type":"Feature","id":"IU_COLA","geometry":{"type":"Point","coordinates":[64.874,-147.862,200]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"KS-54000","datalogger":"Q330","host":"University of Alaska","name":"College Outpost, Alaska, USA","network_code":"IU","start_date":"1996,166","station_code":"COLA","virtual_networks":["GSN","ANSS"]}}
+{
+    "type": "Feature",
+    "id": "IU_COLA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            64.874,
+            -147.862,
+            200
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "University of Alaska",
+        "name": "College Outpost, Alaska, USA",
+        "network_code": "IU",
+        "start_date": "1996,166",
+        "station_code": "COLA",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

@@ -1,1 +1,25 @@
-{"type":"Feature","id":"II_BFO","geometry":{"type":"Point","coordinates":[48.332,8.331,589]},"properties":{"accelerometer":"","broadband":"STS-1V\/VBB","datalogger":"--","host":null,"name":"Black Forest Observatory, Schiltach, Germany","network_code":"II","start_date":"1996,150","station_code":"BFO","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "II_BFO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.332,
+            8.331,
+            589
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Black Forest Observatory, Schiltach, Germany",
+        "network_code": "II",
+        "start_date": "1996,150",
+        "station_code": "BFO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

@@ -1,1 +1,25 @@
-{"type":"Feature","id":"II_SUR","geometry":{"type":"Point","coordinates":[-32.38,20.812,1770]},"properties":{"accelerometer":"","broadband":"STS-1V\/VBB","datalogger":"--","host":null,"name":"Sutherland, South Africa","network_code":"II","start_date":"1990,303","station_code":"SUR","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "II_SUR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -32.38,
+            20.812,
+            1770
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Sutherland, South Africa",
+        "network_code": "II",
+        "start_date": "1990,303",
+        "station_code": "SUR",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}
