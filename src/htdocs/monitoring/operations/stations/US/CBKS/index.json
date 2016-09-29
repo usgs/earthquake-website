@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_CBKS",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -99.737,
+            38.814,
+            677
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Cedar Bluff, Kansas, USA",
+        "network_code": "US",
+        "start_date": "1994,255",
+        "station_code": "CBKS",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

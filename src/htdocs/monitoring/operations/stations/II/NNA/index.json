@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_NNA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -76.842,
+            -11.988,
+            575
+        ]
+    },
+    "properties": {
+        "accelerometer": "Episensor_ES-T",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Nana, Peru",
+        "network_code": "II",
+        "start_date": "1988,174",
+        "station_code": "NNA",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

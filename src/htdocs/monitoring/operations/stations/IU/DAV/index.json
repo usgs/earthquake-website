@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_DAV",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            125.579,
+            7.07,
+            150
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-2_High-gain",
+        "datalogger": "Q330",
+        "host": "Philippine Institute of Volcanology and Seismology",
+        "name": "Davao, Philippines",
+        "network_code": "IU",
+        "start_date": "1994,352",
+        "station_code": "DAV",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

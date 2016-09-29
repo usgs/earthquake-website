@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_CASY",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.535,
+            -66.279,
+            10
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Geoscience Australia",
+        "name": "Casey, Antarctica",
+        "network_code": "IU",
+        "start_date": "1996,050",
+        "station_code": "CASY",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

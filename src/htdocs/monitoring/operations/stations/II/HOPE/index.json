@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_HOPE",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -36.488,
+            -54.284,
+            20
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "",
+        "datalogger": "--",
+        "host": null,
+        "name": "Hope Point, South Georgia Island",
+        "network_code": "II",
+        "start_date": "1996,345",
+        "station_code": "HOPE",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

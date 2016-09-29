@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "BK_HUMO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.957,
+            42.607,
+            554.9
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-2_VBB_Tri-Axial",
+        "datalogger": "--",
+        "host": null,
+        "name": "Hull Mountain, OR, USA",
+        "network_code": "BK",
+        "start_date": "2002,169",
+        "station_code": "HUMO",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

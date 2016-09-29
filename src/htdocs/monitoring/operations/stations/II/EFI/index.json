@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_EFI",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -58.064,
+            -51.675,
+            110
+        ]
+    },
+    "properties": {
+        "accelerometer": "Episensor_ES-T",
+        "broadband": "KS-54000",
+        "datalogger": "--",
+        "host": null,
+        "name": "Mount Kent, East Falkland Island",
+        "network_code": "II",
+        "start_date": "1996,047",
+        "station_code": "EFI",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

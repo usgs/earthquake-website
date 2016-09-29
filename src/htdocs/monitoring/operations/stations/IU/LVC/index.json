@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_LVC",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -68.911,
+            -22.613,
+            2960
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1H\/VBB",
+        "datalogger": "Q330",
+        "host": "University of Chile",
+        "name": "Limon Verde, Chile",
+        "network_code": "IU",
+        "start_date": "1996,337",
+        "station_code": "LVC",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

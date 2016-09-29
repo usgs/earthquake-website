@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_SDCO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -105.501,
+            37.746,
+            2569
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Great Sand Dunes National Park, Colorado, USA",
+        "network_code": "US",
+        "start_date": "2002,192",
+        "station_code": "SDCO",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

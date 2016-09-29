@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_SAML",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -63.183,
+            -8.949,
+            120
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "University of Brasilia",
+        "name": "Samuel, Brazil",
+        "network_code": "IU",
+        "start_date": "2003,125",
+        "station_code": "SAML",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

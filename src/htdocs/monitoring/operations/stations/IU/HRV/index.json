@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "IU_HRV",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.558,
+            42.506,
+            200
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Harvard Dept. of Earth and Planetary Sciences",
+        "name": "Adam Dziewonski Observatory (Oak Ridge), Massachusetts, USA",
+        "network_code": "IU",
+        "start_date": "1988,001",
+        "station_code": "HRV",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

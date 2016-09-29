@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_HNR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            159.947,
+            -9.439,
+            100
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-2_High-gain",
+        "datalogger": "Q330",
+        "host": "Dept. of Mines, Energy, and Water",
+        "name": "Honiara, Solomon Islands",
+        "network_code": "IU",
+        "start_date": "1993,295",
+        "station_code": "HNR",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

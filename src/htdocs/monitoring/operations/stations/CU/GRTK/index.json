@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "CU_GRTK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.133,
+            21.511,
+            12
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA",
+        "broadband": "STS-2",
+        "datalogger": "Q330",
+        "host": "Dept. of Disaster Preparedness",
+        "name": "Grand Turk, Turks and Caicos Islands",
+        "network_code": "CU",
+        "start_date": "2007,352",
+        "station_code": "GRTK",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

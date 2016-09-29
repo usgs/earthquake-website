@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "IU_DWPF",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.433,
+            28.11,
+            30
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "The Nature Conservancy",
+        "name": "Disney Wilderness Preserve, Florida, USA",
+        "network_code": "IU",
+        "start_date": "1998,214",
+        "station_code": "DWPF",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

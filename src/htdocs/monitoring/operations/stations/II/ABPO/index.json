@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "II_ABPO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.229,
+            -19.018,
+            1528
+        ]
+    },
+    "properties": {
+        "accelerometer": "Episensor_ES-T",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Ambohimpanompo, Madagascar",
+        "network_code": "II",
+        "start_date": "2007,094",
+        "station_code": "ABPO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

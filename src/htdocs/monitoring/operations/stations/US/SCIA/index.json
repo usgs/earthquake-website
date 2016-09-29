@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_SCIA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -93.215,
+            41.907,
+            311.5
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "State Center, Iowa, USA",
+        "network_code": "US",
+        "start_date": "2006,153",
+        "station_code": "SCIA",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

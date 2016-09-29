@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "CU_BCIP",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -79.837,
+            9.166,
+            61
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA",
+        "broadband": "STS-2",
+        "datalogger": "Q330",
+        "host": "Smithsonian Tropical Research Institute",
+        "name": "Isla Barro Colorado, Panama",
+        "network_code": "CU",
+        "start_date": "2006,336",
+        "station_code": "BCIP",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "id": "US_LKWY",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.4,
+            44.565,
+            2424
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS2-I",
+        "datalogger": "Q680N",
+        "host": null,
+        "name": "Lake (Yellowstone--Lake), Yellowstone National Park, Wyoming",
+        "network_code": "US",
+        "start_date": null,
+        "station_code": "LKWY",
+        "virtual_networks": []
+    }
+}

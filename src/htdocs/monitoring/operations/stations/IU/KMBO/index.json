@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "IU_KMBO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.252,
+            -1.127,
+            1950
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "University of Nairobi",
+        "name": "Kilima Mbogo, Kenya",
+        "network_code": "IU",
+        "start_date": "1995,260",
+        "station_code": "KMBO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

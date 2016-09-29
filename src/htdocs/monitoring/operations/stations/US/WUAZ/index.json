@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_WUAZ",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.374,
+            35.517,
+            1592
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Wupatki, Arizona, USA",
+        "network_code": "US",
+        "start_date": "1998,132",
+        "station_code": "WUAZ",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

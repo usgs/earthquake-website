@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "US_ISCO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -105.613,
+            39.8,
+            2743
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Idaho Springs, Colorado, USA",
+        "network_code": "US",
+        "start_date": "1996,299",
+        "station_code": "ISCO",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}
