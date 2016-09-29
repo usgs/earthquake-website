@@ -4,8 +4,8 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -37.068,
             -12.315,
+            -37.068,
             60
         ]
     },
