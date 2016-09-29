@@ -1,1 +1,25 @@
-{"type":"Feature","id":"US_LBNH","geometry":{"type":"Point","coordinates":[44.24,-71.926,367]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Lisbon, New Hampshire, USA","network_code":"US","start_date":"1993,226","station_code":"LBNH","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "US_LBNH",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.24,
+            -71.926,
+            367
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Lisbon, New Hampshire, USA",
+        "network_code": "US",
+        "start_date": "1993,226",
+        "station_code": "LBNH",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

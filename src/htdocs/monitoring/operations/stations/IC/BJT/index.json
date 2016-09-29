@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IC_BJT","geometry":{"type":"Point","coordinates":[40.018,116.168,197]},"properties":{"accelerometer":"FBA-23","broadband":"STS-1V\/VBB","datalogger":"Q330","host":"Institute of Geophysics and China Earthquake Administration","name":"Baijiatuan, Beijing, China","network_code":"IC","start_date":"1994,145","station_code":"BJT","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IC_BJT",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.018,
+            116.168,
+            197
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q330",
+        "host": "Institute of Geophysics and China Earthquake Administration",
+        "name": "Baijiatuan, Beijing, China",
+        "network_code": "IC",
+        "start_date": "1994,145",
+        "station_code": "BJT",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

@@ -1,1 +1,25 @@
-{"type":"Feature","id":"AK_TNA","geometry":{"type":"Point","coordinates":[65.561,-167.924,74]},"properties":{"accelerometer":"","broadband":"CMG3T\/Guralp_DM24","datalogger":"--","host":null,"name":"Tin City Broadband","network_code":"AK","start_date":"1998,297","station_code":"TNA","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "AK_TNA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            65.561,
+            -167.924,
+            74
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "CMG3T\/Guralp_DM24",
+        "datalogger": "--",
+        "host": null,
+        "name": "Tin City Broadband",
+        "network_code": "AK",
+        "start_date": "1998,297",
+        "station_code": "TNA",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

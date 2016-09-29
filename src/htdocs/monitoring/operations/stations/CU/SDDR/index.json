@@ -1,1 +1,25 @@
-{"type":"Feature","id":"CU_SDDR","geometry":{"type":"Point","coordinates":[18.982,-71.288,589]},"properties":{"accelerometer":"FBA","broadband":"STS-2","datalogger":"Q330","host":"Dept. of Environment and Natural Resources","name":"Presa de Sabenta, Dominican Republic","network_code":"CU","start_date":"2006,242","station_code":"SDDR","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "CU_SDDR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.982,
+            -71.288,
+            589
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA",
+        "broadband": "STS-2",
+        "datalogger": "Q330",
+        "host": "Dept. of Environment and Natural Resources",
+        "name": "Presa de Sabenta, Dominican Republic",
+        "network_code": "CU",
+        "start_date": "2006,242",
+        "station_code": "SDDR",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

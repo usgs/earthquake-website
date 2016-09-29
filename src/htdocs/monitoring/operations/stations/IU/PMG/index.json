@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_PMG","geometry":{"type":"Point","coordinates":[-9.405,147.16,90]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"Port Moresby Geophysical Observatory","name":"Port Moresby, New Guinea","network_code":"IU","start_date":"1993,253","station_code":"PMG","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_PMG",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -9.405,
+            147.16,
+            90
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Port Moresby Geophysical Observatory",
+        "name": "Port Moresby, New Guinea",
+        "network_code": "IU",
+        "start_date": "1993,253",
+        "station_code": "PMG",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_SDV","geometry":{"type":"Point","coordinates":[8.884,-70.634,1620]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"Venezuelan Foundation for Seismological Investigations","name":"Santo Domingo, Venezuela","network_code":"IU","start_date":"1994,231","station_code":"SDV","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_SDV",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.884,
+            -70.634,
+            1620
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Venezuelan Foundation for Seismological Investigations",
+        "name": "Santo Domingo, Venezuela",
+        "network_code": "IU",
+        "start_date": "1994,231",
+        "station_code": "SDV",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

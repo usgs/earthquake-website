@@ -1,1 +1,25 @@
-{"type":"Feature","id":"US_LONY","geometry":{"type":"Point","coordinates":[44.62,-74.583,440]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Lake Ozonia, New York, USA","network_code":"US","start_date":"2005,279","station_code":"LONY","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "US_LONY",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.62,
+            -74.583,
+            440
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Lake Ozonia, New York, USA",
+        "network_code": "US",
+        "start_date": "2005,279",
+        "station_code": "LONY",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

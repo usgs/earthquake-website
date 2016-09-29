@@ -1,1 +1,25 @@
-{"type":"Feature","id":"CU_BBGH","geometry":{"type":"Point","coordinates":[13.143,-59.559,180]},"properties":{"accelerometer":"FBA","broadband":"STS-2","datalogger":"Q330","host":"Government of Barbados","name":"Gun Hill, Barbados","network_code":"CU","start_date":"2006,249","station_code":"BBGH","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "CU_BBGH",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.143,
+            -59.559,
+            180
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA",
+        "broadband": "STS-2",
+        "datalogger": "Q330",
+        "host": "Government of Barbados",
+        "name": "Gun Hill, Barbados",
+        "network_code": "CU",
+        "start_date": "2006,249",
+        "station_code": "BBGH",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

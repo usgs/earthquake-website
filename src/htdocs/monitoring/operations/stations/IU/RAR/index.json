@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_RAR","geometry":{"type":"Point","coordinates":[-21.212,-159.773,28]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"KS-54000","datalogger":"Q330","host":"Institute of Geological and Nuclear Sciences","name":"Rarotonga, Cook Islands","network_code":"IU","start_date":"1992,067","station_code":"RAR","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_RAR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -21.212,
+            -159.773,
+            28
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "Institute of Geological and Nuclear Sciences",
+        "name": "Rarotonga, Cook Islands",
+        "network_code": "IU",
+        "start_date": "1992,067",
+        "station_code": "RAR",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

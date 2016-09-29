@@ -1,1 +1,25 @@
-{"type":"Feature","id":"II_MBAR","geometry":{"type":"Point","coordinates":[-0.602,30.738,1390]},"properties":{"accelerometer":"FBA-23","broadband":"KS-54000","datalogger":"--","host":null,"name":"Mbarara, Uganda","network_code":"II","start_date":"1999,265","station_code":"MBAR","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "II_MBAR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.602,
+            30.738,
+            1390
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "KS-54000",
+        "datalogger": "--",
+        "host": null,
+        "name": "Mbarara, Uganda",
+        "network_code": "II",
+        "start_date": "1999,265",
+        "station_code": "MBAR",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

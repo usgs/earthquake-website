@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_MSKU","geometry":{"type":"Point","coordinates":[-1.656,13.612,312]},"properties":{"accelerometer":"FBA-23","broadband":"STS-1V\/VBB","datalogger":"Q680","host":"Masuku University of Science and Technology","name":"Masuku, Gabon","network_code":"IU","start_date":"1999,058","station_code":"MSKU","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_MSKU",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.656,
+            13.612,
+            312
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA-23",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "Q680",
+        "host": "Masuku University of Science and Technology",
+        "name": "Masuku, Gabon",
+        "network_code": "IU",
+        "start_date": "1999,058",
+        "station_code": "MSKU",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

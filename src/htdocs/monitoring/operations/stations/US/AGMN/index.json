@@ -1,1 +1,25 @@
-{"type":"Feature","id":"US_AGMN","geometry":{"type":"Point","coordinates":[48.298,-95.862,351]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Agassiz National Wildlife Refuge, Minnesota, USA","network_code":"US","start_date":"2006,263","station_code":"AGMN","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "US_AGMN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.298,
+            -95.862,
+            351
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Agassiz National Wildlife Refuge, Minnesota, USA",
+        "network_code": "US",
+        "start_date": "2006,263",
+        "station_code": "AGMN",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

@@ -1,1 +1,26 @@
-{"type":"Feature","id":"IU_POHA","geometry":{"type":"Point","coordinates":[19.757,-155.533,1990]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"KS-54000","datalogger":"Q330","host":"US Army","name":"Pohakuloa, Hawaii, USA","network_code":"IU","start_date":"1999,317","station_code":"POHA","virtual_networks":["GSN","ANSS"]}}
+{
+    "type": "Feature",
+    "id": "IU_POHA",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            19.757,
+            -155.533,
+            1990
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "KS-54000",
+        "datalogger": "Q330",
+        "host": "US Army",
+        "name": "Pohakuloa, Hawaii, USA",
+        "network_code": "IU",
+        "start_date": "1999,317",
+        "station_code": "POHA",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

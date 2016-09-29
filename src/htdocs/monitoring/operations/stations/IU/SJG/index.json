@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_SJG","geometry":{"type":"Point","coordinates":[18.109,-66.15,420]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"US Geological Survey","name":"San Juan, Puerto Rico","network_code":"IU","start_date":"1993,146","station_code":"SJG","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_SJG",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.109,
+            -66.15,
+            420
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "US Geological Survey",
+        "name": "San Juan, Puerto Rico",
+        "network_code": "IU",
+        "start_date": "1993,146",
+        "station_code": "SJG",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

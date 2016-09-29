@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_JOHN","geometry":{"type":"Point","coordinates":[16.733,-169.529,2]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-2_Standard-gain","datalogger":"Q330","host":"US Fish and Wildlife Service","name":"Johnston Island, USA","network_code":"IU","start_date":"1998,205","station_code":"JOHN","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_JOHN",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.733,
+            -169.529,
+            2
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-2_Standard-gain",
+        "datalogger": "Q330",
+        "host": "US Fish and Wildlife Service",
+        "name": "Johnston Island, USA",
+        "network_code": "IU",
+        "start_date": "1998,205",
+        "station_code": "JOHN",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

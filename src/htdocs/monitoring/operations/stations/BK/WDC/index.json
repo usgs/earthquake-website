@@ -1,1 +1,25 @@
-{"type":"Feature","id":"BK_WDC","geometry":{"type":"Point","coordinates":[40.58,-122.541,268.3]},"properties":{"accelerometer":"","broadband":"STS-2_VBB_Tri-Axial","datalogger":"--","host":null,"name":"Whiskeytown Dam, Whiskeytown, CA, USA","network_code":"BK","start_date":"1992,261","station_code":"WDC","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "BK_WDC",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.58,
+            -122.541,
+            268.3
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-2_VBB_Tri-Axial",
+        "datalogger": "--",
+        "host": null,
+        "name": "Whiskeytown Dam, Whiskeytown, CA, USA",
+        "network_code": "BK",
+        "start_date": "1992,261",
+        "station_code": "WDC",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

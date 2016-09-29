@@ -1,1 +1,23 @@
-{"type":"Feature","id":"US_AHID","geometry":{"type":"Point","coordinates":[42.765,-111.1,1960]},"properties":{"accelerometer":"CMG5TEX-N","broadband":"CMG3V-N","datalogger":"Q680N","host":null,"name":"Auburn Hatchery, Idaho, USA","network_code":"US","start_date":null,"station_code":"AHID","virtual_networks":[]}}
+{
+    "type": "Feature",
+    "id": "US_AHID",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.765,
+            -111.1,
+            1960
+        ]
+    },
+    "properties": {
+        "accelerometer": "CMG5TEX-N",
+        "broadband": "CMG3V-N",
+        "datalogger": "Q680N",
+        "host": null,
+        "name": "Auburn Hatchery, Idaho, USA",
+        "network_code": "US",
+        "start_date": null,
+        "station_code": "AHID",
+        "virtual_networks": []
+    }
+}

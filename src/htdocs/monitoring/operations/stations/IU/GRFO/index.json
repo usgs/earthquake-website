@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IU_GRFO","geometry":{"type":"Point","coordinates":[49.691,11.22,384]},"properties":{"accelerometer":"n\/a","broadband":"KS-36000-I","datalogger":"Q330","host":"Federal Institute of Geosciences & Natural Resources","name":"Grafenberg, Germany","network_code":"IU","start_date":"1994,026","station_code":"GRFO","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "IU_GRFO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.691,
+            11.22,
+            384
+        ]
+    },
+    "properties": {
+        "accelerometer": "n\/a",
+        "broadband": "KS-36000-I",
+        "datalogger": "Q330",
+        "host": "Federal Institute of Geosciences & Natural Resources",
+        "name": "Grafenberg, Germany",
+        "network_code": "IU",
+        "start_date": "1994,026",
+        "station_code": "GRFO",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

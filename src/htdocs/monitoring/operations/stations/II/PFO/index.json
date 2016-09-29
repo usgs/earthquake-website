@@ -1,1 +1,26 @@
-{"type":"Feature","id":"II_PFO","geometry":{"type":"Point","coordinates":[33.611,-116.456,1280]},"properties":{"accelerometer":"Episensor_ES-T","broadband":"STS-1V\/VBB","datalogger":"--","host":null,"name":"Pinon Flat, California, USA","network_code":"II","start_date":"1986,297","station_code":"PFO","virtual_networks":["GSN","ANSS"]}}
+{
+    "type": "Feature",
+    "id": "II_PFO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.611,
+            -116.456,
+            1280
+        ]
+    },
+    "properties": {
+        "accelerometer": "Episensor_ES-T",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Pinon Flat, California, USA",
+        "network_code": "II",
+        "start_date": "1986,297",
+        "station_code": "PFO",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

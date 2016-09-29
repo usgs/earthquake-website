@@ -1,1 +1,26 @@
-{"type":"Feature","id":"IU_COR","geometry":{"type":"Point","coordinates":[44.586,-123.305,110]},"properties":{"accelerometer":"FBA_ES-T_EpiSensor_Accelerometer","broadband":"STS-1VBB_w\/E300","datalogger":"Q330","host":"Oregon State University","name":"Corvallis, Oregon, USA","network_code":"IU","start_date":"1989,299","station_code":"COR","virtual_networks":["GSN","ANSS"]}}
+{
+    "type": "Feature",
+    "id": "IU_COR",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.586,
+            -123.305,
+            110
+        ]
+    },
+    "properties": {
+        "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+        "broadband": "STS-1VBB_w\/E300",
+        "datalogger": "Q330",
+        "host": "Oregon State University",
+        "name": "Corvallis, Oregon, USA",
+        "network_code": "IU",
+        "start_date": "1989,299",
+        "station_code": "COR",
+        "virtual_networks": [
+            "GSN",
+            "ANSS"
+        ]
+    }
+}

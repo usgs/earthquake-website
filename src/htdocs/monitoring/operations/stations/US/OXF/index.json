@@ -1,1 +1,25 @@
-{"type":"Feature","id":"US_OXF","geometry":{"type":"Point","coordinates":[34.512,-89.409,101]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Oxford, Mississippi, USA","network_code":"US","start_date":"1993,260","station_code":"OXF","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "US_OXF",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.512,
+            -89.409,
+            101
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Oxford, Mississippi, USA",
+        "network_code": "US",
+        "start_date": "1993,260",
+        "station_code": "OXF",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

@@ -1,1 +1,25 @@
-{"type":"Feature","id":"II_NRIL","geometry":{"type":"Point","coordinates":[69.505,88.441,92]},"properties":{"accelerometer":"","broadband":"STS-1V\/VBB","datalogger":"--","host":null,"name":"Norilsk, Russia","network_code":"II","start_date":"1992,350","station_code":"NRIL","virtual_networks":["GSN"]}}
+{
+    "type": "Feature",
+    "id": "II_NRIL",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.505,
+            88.441,
+            92
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-1V\/VBB",
+        "datalogger": "--",
+        "host": null,
+        "name": "Norilsk, Russia",
+        "network_code": "II",
+        "start_date": "1992,350",
+        "station_code": "NRIL",
+        "virtual_networks": [
+            "GSN"
+        ]
+    }
+}

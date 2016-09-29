@@ -1,1 +1,25 @@
-{"type":"Feature","id":"IM_NV31","geometry":{"type":"Point","coordinates":[38.432,-118.155,1509]},"properties":{"accelerometer":"n\/a","broadband":"CMG-3T","datalogger":"n\/a","host":null,"name":"Mina Array Site 31, Nevada, USA","network_code":"IM","start_date":null,"station_code":"NV31","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "IM_NV31",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.432,
+            -118.155,
+            1509
+        ]
+    },
+    "properties": {
+        "accelerometer": "n\/a",
+        "broadband": "CMG-3T",
+        "datalogger": "n\/a",
+        "host": null,
+        "name": "Mina Array Site 31, Nevada, USA",
+        "network_code": "IM",
+        "start_date": null,
+        "station_code": "NV31",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

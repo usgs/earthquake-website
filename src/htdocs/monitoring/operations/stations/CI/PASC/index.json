@@ -1,1 +1,25 @@
-{"type":"Feature","id":"CI_PASC","geometry":{"type":"Point","coordinates":[34.171,-118.185,341]},"properties":{"accelerometer":"","broadband":"STS-2","datalogger":"--","host":null,"name":"Pasadena Art Center, College of Design, , ,","network_code":"CI","start_date":"2006,278","station_code":"PASC","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "CI_PASC",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.171,
+            -118.185,
+            341
+        ]
+    },
+    "properties": {
+        "accelerometer": "",
+        "broadband": "STS-2",
+        "datalogger": "--",
+        "host": null,
+        "name": "Pasadena Art Center, College of Design, , ,",
+        "network_code": "CI",
+        "start_date": "2006,278",
+        "station_code": "PASC",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

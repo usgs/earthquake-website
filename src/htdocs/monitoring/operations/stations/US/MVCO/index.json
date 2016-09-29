@@ -1,1 +1,25 @@
-{"type":"Feature","id":"US_MVCO","geometry":{"type":"Point","coordinates":[37.21,-108.499,2169.9]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Mesa Verde, Colorado, USA","network_code":"US","start_date":"2006,108","station_code":"MVCO","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "US_MVCO",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.21,
+            -108.499,
+            2169.9
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Mesa Verde, Colorado, USA",
+        "network_code": "US",
+        "start_date": "2006,108",
+        "station_code": "MVCO",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}

@@ -1,1 +1,25 @@
-{"type":"Feature","id":"US_RLMT","geometry":{"type":"Point","coordinates":[45.122,-109.267,2086]},"properties":{"accelerometer":"EST-S","broadband":"STS2-I","datalogger":"Q330","host":null,"name":"Red Lodge, Montana, USA","network_code":"US","start_date":"2006,255","station_code":"RLMT","virtual_networks":["ANSS"]}}
+{
+    "type": "Feature",
+    "id": "US_RLMT",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.122,
+            -109.267,
+            2086
+        ]
+    },
+    "properties": {
+        "accelerometer": "EST-S",
+        "broadband": "STS2-I",
+        "datalogger": "Q330",
+        "host": null,
+        "name": "Red Lodge, Montana, USA",
+        "network_code": "US",
+        "start_date": "2006,255",
+        "station_code": "RLMT",
+        "virtual_networks": [
+            "ANSS"
+        ]
+    }
+}
