@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Bill Leith
-  // Last modified: 06/21/2016
   if (!isset($TEMPLATE)) {
   $TITLE = 'National Earthquake Prediction Evaluation Council (NEPEC)';
   $NAVIGATION = true;
