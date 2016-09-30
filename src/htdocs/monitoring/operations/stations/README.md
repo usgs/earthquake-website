@@ -50,7 +50,7 @@ Station JSON extends a GeoJSON Feature
     "host": "name of host institution",
     "name": "station name",
     "network_code": "{NETWORK_CODE}",
-    "start_time": "{YEAR},{JULIAN_DAY}",
+    "start_date": "{YEAR},{JULIAN_DAY}",
     "station_code": "{STATION_CODE}",
     "virtual_networks": [
       "ANSS",
@@ -100,7 +100,7 @@ When properties are not known, they should be set to `null`.
 
   FDSN network code.
 
-- `start_time` {String} optional
+- `start_date` {String} optional
 
   When station became operational.
   A combination of Year and Julian Day separated by a comma.
@@ -142,7 +142,7 @@ in the file `IU/ANMO/index.json`.
     "host": "US Geological Survey",
     "name": "Albuquerque, New Mexico, USA",
     "network_code": "IU",
-    "start_time": "1989,241",
+    "start_date": "1989,241",
     "station_code": "ANMO",
     "virtual_networks": [
       "ANSS",
