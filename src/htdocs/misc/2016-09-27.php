@@ -2,7 +2,8 @@
   // Author: Lisa Wald
   // Contact: Donyelle Davis
     if (!isset($TEMPLATE)) {
-      $TITLE = 'USGS Summary for Swarm Activity Near Bombay Beach';
+      $TITLE = 'Earthquakes in the Brawley Seismic Zone: Updated 09/30/2016
+';
       $NAVIGATION = true;
       include 'template.inc.php';
     }
@@ -16,20 +17,20 @@
 </figure>
 
 <p>
-  An earthquake swarm near Bombay Beach, California, started on 2016 Sept. 26 at 4:03 am (PDT)  in the Brawley Seismic Zone, which lies near the southern terminus of the San Andreas Fault.
+  An earthquake swarm near Bombay Beach, California, started on Sept. 26, 2016, in the Brawley Seismic Zone, which lies near the southern terminus of the San Andreas Fault.
 </p>
 <p>
-  The swarm includes 142 events so far (as of 26 Sep 2016, 11:31PM PDT) in the magnitude range M1.4 to M4.3. Relocations of these events show that they are occurring in the depth range 4 to 9 km.
+  The swarm includes 96 earthquakes above magnitude 2 so far (as of 12:00 pm PDT on Sept. 30, 2016). Relocations of these events show that they are occurring in the depth range 4 to 9 km.  The largest of these events were two M4.3 earthquakes and a M4.1 earthquake on Sept. 26.
 </p>
 <p>
-  The earthquakes are occurring near a set of north-northeast trending cross-faults in the Salton Sea. The cross-faults are part of a fault network that connect the southernmost end of the San Andreas fault with the Imperial fault. Some of the cross-faults are oriented such that they add stress to the San Andreas fault and the San Jacinto fault system when they rupture in small earthquakes like those in the ongoing swarm.
+  The earthquakes are occurring near a set of north-northeast trending cross-faults beneath the Salton Sea. The cross-faults are part of a fault network that connect the southernmost end of the San Andreas Fault with the Imperial Fault. Some of the cross-faults are oriented such that they add stress to the San Andreas Fault and the San Jacinto Fault system when they rupture in small earthquakes like those in the ongoing swarm.
 </p>
-
-<h2>Earthquake Swarms and Probabilities</h2>
-
 <p>
   Swarm-like activity in this region has occurred in the past, so this week’s activity, in and of itself, is not necessarily cause for alarm.
 </p>
 <p>
-  Preliminary calculations indicate that, as of 10:00 am (PDT) Sept. 27, 2016, there is a 0.03%-1% chance (1 in 3000 to 1 in 100) of a magnitude 7 or greater earthquake being triggered on the Southern San Andreas fault within the next next seven days through October 4, with the likelihood decreasing over time. This probability range is estimated using several models developed in California to assess foreshock/aftershock probabilities.
+  Preliminary calculations indicate that, as of 12:00 pm (PDT) on Sept. 30, 2016, there is 0.006% to 0.2% chance (less than 1 in 10,000 to 1 in 500) of a magnitude 7 or greater earthquake being triggered on the Southern San Andreas Fault within the next seven days through October 7, with the likelihood decreasing over time. This range is estimated using several models developed in California to assess foreshock/aftershock probabilities, and the lower bound is about equal to the average chance of a magnitude 7 earthquake occurring on the Southern San Andreas Fault in any given week.
+</p>
+<p>
+  These revised probabilities are lower than those made earlier this week, due to decreasing swarm activity. The probabilities may change if the swarm activity increases or decreases.
 </p>
