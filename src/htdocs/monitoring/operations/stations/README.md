@@ -1,5 +1,5 @@
 Seismic Network Monitoring Stations
------------------------------------
+===================================
 
 Metadata for ANSS/GSN (so far) seismic stations.
 
@@ -9,7 +9,7 @@ Metadata for ANSS/GSN (so far) seismic stations.
 Each station has its own folder, which is largely freeform to hold any station
 specific content.  Station folders are organized based on FDSN `network_code` and `station_code`.
 ```
-`network_code`/`station_code`/
+{NETWORK_CODE}/{STATION_CODE}/
 ```
 
 Within each station folder there are two required files:
@@ -33,14 +33,14 @@ Station JSON extends a GeoJSON Feature
 
 ```
 {
-  "type": "Feature"
-  "id": "`network_code`_`station_code`",
+  "type": "Feature",
+  "id": "{NETWORK_CODE}_{STATION_CODE}",
   "geometry": {
     "type": "Point",
     "coordinates": [
-      `longitude`,
-      `latitude`,
-      `elevation`
+      LONGITUDE,
+      LATITUDE,
+      ELEVATION
     ]
   },
   "properties": {
@@ -49,8 +49,9 @@ Station JSON extends a GeoJSON Feature
     "datalogger": "datalogger type",
     "host": "name of host institution",
     "name": "station name",
-    "network_code": "`network_code`",
-    "station_code": "`station_code`",
+    "network_code": "{NETWORK_CODE}",
+    "start_time": "{YEAR},{JULIAN_DAY}",
+    "station_code": "{STATION_CODE}",
     "virtual_networks": [
       "ANSS",
       "GSN"
@@ -61,64 +62,142 @@ Station JSON extends a GeoJSON Feature
 
 ### Feature `id`
 
-  A unique identifier for the station.
-  A combination of FDSN `network_code` and `station_code` separated by an
-  underscore.
+A unique identifier for the station.
+A combination of FDSN `network_code` and `station_code` separated by an
+underscore.
 
 ### Feature `geometry`
 
-  The station location and elevation.
-  Longitude and latitude units are decimal degrees.
-  Elevation units are meters.
+The station location and elevation.
+Longitude and latitude units are decimal degrees.
+Elevation units are meters.
 
 ### Feature `properties`
 
-- `accelerometer` {String|null}
+When properties are not known, they should be set to `null`.
+
+- `accelerometer` {String} optional
 
   description of accelerometer.
 
-- `broadband` {String|null}
+- `broadband` {String} optional
 
   description of broadband.
 
-- `datalogger` {String|null}
+- `datalogger` {String} optional
 
   description of datalogger.
 
-- `host` {String|null}
+- `host` {String} optional
 
   human readable name of host institution.
 
-- `name` {String}
+- `name` {String} required
 
   human readable station name.
 
-- `network_code` {String}
+- `network_code` {String} required
 
   FDSN network code.
 
-- `station_code` {String}
+- `start_time` {String} optional
+
+  When station became operational.
+  A combination of Year and Julian Day separated by a comma.
+
+- `station_code` {String} required
 
   FDSN station code.
 
 - `virtual_networks` {Array<String>}
 
   Array of virtual networks, of which station is a member.
+  If not a member of any virtual networks, use an empty array (`[]`)
+  instead of null.
 
   Current valid values are `ANSS` and `GSN`.
-  Station may be member of multiple virtual networks.
+  Stations may be members of multiple virtual networks.
+
+
+### Example
+This Station JSON example is for the `IU` `ANMO` station, and would be placed
+in the file `IU/ANMO/index.json`.
+
+```json
+{
+  "type": "Feature",
+  "id": "IU_ANMO",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.457,
+      34.946,
+      1820
+    ]
+  },
+  "properties": {
+    "accelerometer": "FBA_ES-T_EpiSensor_Accelerometer",
+    "broadband": "KS-54000",
+    "datalogger": "Q330",
+    "host": "US Geological Survey",
+    "name": "Albuquerque, New Mexico, USA",
+    "network_code": "IU",
+    "start_time": "1989,241",
+    "station_code": "ANMO",
+    "virtual_networks": [
+      "ANSS",
+      "GSN"
+    ]
+  }
+}
+```
 
 
 ## Station Landing Page
 
-Each station has a Station Landing Page file named `index.php` within its
-folder.
+File for metadata that doesn't have a place in `index.json`.
+Any valid HTML markup may follow the PHP template preamble.
 
-```
+- The first heading level that should be used is `<h2>`.
+- PHP template classes and styles are available, and are described at
+  http://earthquake.usgs.gov/theme/
+- Please use well-formed markup.
+- When using images or other content:
+  - optimize images for the web
+  - use relative `src` attribute urls
+  - ensure accessibility by using `alt` attributes, and/or
+    `figure`/`figcaption` elements.
+
+### Minimal example
+
+```php
 <?php
 // Station template that uses Station JSON content
-include '../../_station-details.template.php';
+include '../../../_station.php';
+?>
+```
+
+### More complete example
+
+```php
+<?php
+// Station template that uses Station JSON content
+include '../../../_station.php';
 ?>
 
 <!-- additional HTML for station-specific information -->
+<h2>Station Issues</h2>
+<ul>
+<li>
+  <strong>2016-01-01</strong> - something happened at this station.
+</li>
+</ul>
+
+<h2>Station Photos</h2>
+<figure>
+  <img src="relative/path/to/image.png" alt="terse description"/>
+  <figcaption>
+    description of photo
+  </figcaption>
+</figure>
 ```
