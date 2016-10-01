@@ -10,7 +10,7 @@
 ?>
 
 <figure class="right">
-  <img src="images/2016-09-27.gif">
+  <img src="images/2016-09-30.gif">
   <figcaption>
     Earthquakes in the Brawley seismic zone as of the evening of 09/27/2016.
   </figcaption>
