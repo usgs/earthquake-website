@@ -173,7 +173,7 @@ if (!isset($TEMPLATE)) {
   <?php if (count($photos) > 0) : ?>
     <section class="panel station-details-photos"
         data-title="Site">
-      <noframes><h2>Site</h2></noframes>
+      <h2>Site</h2>
       <?php foreach ($photos as $photo) : ?>
         <a class="station-details-photo-link"
             href="<?php echo str_replace('_sm', '', $photo); ?>">
@@ -185,7 +185,7 @@ if (!isset($TEMPLATE)) {
 
   <section class="panel station-details-heliplot"
       data-title="Heliplot">
-    <noscript><h2>Heliplot</h2></noscript>
+    <h2>Heliplot</h2>
     <a class="station-details-heliplot-link"
         href="<?php echo $heliplotThumb; ?>">
       <img class="station-details-heliplot-image"
@@ -196,7 +196,7 @@ if (!isset($TEMPLATE)) {
 
   <section class="panel station-details-latency"
       data-title="Latency">
-    <noscript><h2>Latency</h2></noscript>
+    <h2>Latency</h2>
     <a class="station-details-latency-link"
         href="<?php echo $latencyUrl; ?>">
       <img class="station-details-latency-image"
@@ -207,7 +207,7 @@ if (!isset($TEMPLATE)) {
 
   <section class="panel station-details-availability"
       data-title="Availability">
-    <noscript><h2>Latency</h2></noscript>
+    <h2>Availability</h2>
 
     <h3>Past 30 Days</h3>
     <a class="station-details-availability-link"
