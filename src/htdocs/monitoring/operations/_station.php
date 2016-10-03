@@ -11,7 +11,12 @@ if (!isset($TEMPLATE)) {
     exit(0);
   }
 
-  $json = json_decode(file_get_contents($jsonFile), true);
+  $json = json_decode(@file_get_contents($jsonFile), true);
+
+  if ($json == '' || !isset($stations['properties'])) {
+    header('HTTP/1.0 404 Not Found');
+    exit(0);
+  }
 
 
   $id = $json['id'];
