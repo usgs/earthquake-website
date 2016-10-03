@@ -77,7 +77,7 @@
   <li>Noise PDFs available on the web:
     <ul>
       <li>
-        <a href="ftp://hazards.cr.usgs.gov/web/mcnamara/NEIC/PDFs/">USGS NEIC PDFs for all channels</a>
+        <a href="ftp://hazards.cr.usgs.gov/mcnamara/NEIC/PDFs/">USGS NEIC PDFs for all channels</a>
       </li>
       <li>
         <a href="https://geohazards.usgs.gov/staffweb/mcnamara/ANSSPDFweb/ANSSPDFweb.html">ANSS backbone network Noise PDF Research</a>
