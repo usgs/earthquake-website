@@ -52,13 +52,12 @@
 			Outside the polygon the rates are 0.
 			The cells all have dimension 0.1 by 0.1&deg;.
 			The a-values differ slightly because they are normalized by the cell areas or volumes, which change due to the convergence of meridians at the South Pole.
-
 		</p>
 		<p>
 			At a later stage, you need to run the hazard model.
 			This means, compute the hazard curve for each source at each site in the study area.
 			We have supplied all of the hazard codes and the input files to reproduce our work.
-			See <a href="Samoa.2012.input.txt">Samoa.2012.input.txt</a> for further information.
+			See <a href="ftp://hazards.cr.usgs.gov/web/nshm/samoapacific/software/Samoa.2012.input.txt">Samoa.2012.input.txt</a> for further information.
 		</p>
 		<p>
 			At a later stage, you need to combine the hazard curves with appropriate weights.
@@ -85,13 +84,13 @@
 		</h2>
 		<ul>
 			<li>
-				<a href="Samoa_2012_progs.zip">2012 Programs</a>
+				<a href="ftp://hazards.cr.usgs.gov/web/nshm/samoapacific/software/Samoa_2012_progs.zip">2012 Programs</a>
 			</li>
 			<li>
-				<a href="swapf.zip">Swap Utility</a>
+				<a href="ftp://hazards.cr.usgs.gov/web/nshm/samoapacific/software/swapf.zip">Swap Utility</a>
 			</li>
 			<li>
-				<a href="Samoa.2012.input.txt">2012 Input File</a>
+				<a href="ftp://hazards.cr.usgs.gov/web/nshm/samoapacific/software/Samoa.2012.input.txt">2012 Input File</a>
 			</li>
 		</ul>
 	</div>

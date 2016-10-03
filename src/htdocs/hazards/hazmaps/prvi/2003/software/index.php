@@ -14,7 +14,7 @@
 			Unfortunately the source code used to generate the data for this region is
 			not currently available. Using the gridded ground motion data files you can
 			re-create any or all of the maps presented available for download. To do
-			this, <a href="makemaps.tgz">download the mapping package</a>. This mapping
+			this, <a href="ftp://hazards.cr.usgs.gov/web/nshm/prvi/2003/software/makemaps.tgz">download the mapping package</a>. This mapping
 			package relies on <a href="http://gmt.soest.hawaii.edu/"
 			>the generic mapping tools (GMT)</a> to do the mapping and along with <a
 			href="http://www.imagemagick.org/script/binary-releases.php">ImageMagick</a>
