@@ -26,12 +26,15 @@ if (!isset($TEMPLATE)) {
   $TITLE = 'Seismic Network Operations';
 
   $HEAD = (isset($HEAD) ? $HEAD : '') . '
-    <link rel="stylesheet" href="/lib/leaflet-0.7.7/leaflet.css"/>
-    <link rel="stylesheet" href="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.css"/>
-    <link rel="stylesheet" href="' . $NETOPS_WEBSITE_BASEURL .
-        '/css/station-details-map.css"/>
-    <link rel="stylesheet" href="' . $NETOPS_WEBSITE_BASEURL .
-        '/css/_station.css"/>
+    <link href="/lib/leaflet-0.7.7/leaflet.css" rel="stylesheet"/>
+    <link href="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.css"
+        rel="stylesheet"/>
+    <link href="/lib/hazdev-tablist-0.1.2/hazdev-tablist.css"
+        rel="stylesheet"/>
+    <link href="' . $NETOPS_WEBSITE_BASEURL . '/css/station-details-map.css"
+        rel="stylesheet"/>
+    <link href="' . $NETOPS_WEBSITE_BASEURL . '/css/_station.css"
+         rel="stylesheet"/>
   ';
 
   $FOOT = (isset($FOOT) ? $FOOT : '') . '
@@ -46,6 +49,7 @@ if (!isset($TEMPLATE)) {
     </script>
     <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
     <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
+    <script src="/lib/hazdev-tablist-0.1.2/hazdev-tablist.js"></script>
     <script src="' . $NETOPS_WEBSITE_BASEURL . '/js/config.js"></script>
     <script src="' . $NETOPS_WEBSITE_BASEURL .
         '/js/telemetry-factory.js"></script>
@@ -75,8 +79,7 @@ if (!isset($TEMPLATE)) {
   </p>
 </header>
 
-<section class="row">
-  <div class="column one-of-two station-details-map-container"></div>
+<section class="station-details-map-table-row row">
   <div class="column one-of-two station-details-table-container">
     <table class="station-details-table">
       <tbody>
@@ -145,11 +148,14 @@ if (!isset($TEMPLATE)) {
   </div>
 </section>
 
-<section class="station-details-heliplot">
-  <h2>Heliplot</h2>
-  <a class="station-details-heliplot-link" href="<?php $heliplotUrl; ?>">
-    <img class="station-details-heliplot-image"
-        src="<?php echo $heliplotUrl; ?>"
-        alt="Station Heliplot"/>
-  </a>
-</section>
+<div class="tablist">
+  <section class="panel station-details-heliplot"
+      data-title="Heliplot">
+    <noscript><h2>Heliplot</h2></noscript>
+    <a class="station-details-heliplot-link" href="<?php $heliplotUrl; ?>">
+      <img class="station-details-heliplot-image"
+          src="<?php echo $heliplotUrl; ?>"
+          alt="Station Heliplot"/>
+    </a>
+  </section>
+</div>
