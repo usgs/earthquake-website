@@ -89,72 +89,74 @@ if (!isset($TEMPLATE)) {
   </p>
 </header>
 
-<section class="station-details-map-table-row row">
+<section class="station-details-map-table-row row right-to-left">
   <div class="column one-of-two station-details-table-container">
-    <table class="station-details-table">
-      <tbody>
-        <tr>
-          <th scope="row">Host</th>
-          <td><?php
-            if (isset($properties['host']) &&
-                $properties['host'] !== null) {
-              echo $properties['host'];
-            } else {
-              echo $placeholderValue;
-            }
-          ?></td>
-        </tr>
-        <tr>
-          <th scope="row">Latitude</th>
-          <td><?php echo $coordinates[1]; ?></td>
-        </tr>
-        <tr>
-          <th scope="row">Longitude</th>
-          <td><?php echo $coordinates[0]; ?></td>
-        </tr>
-        <tr>
-          <th scope="row">Elevation</th>
-          <td><?php echo $coordinates[2]; ?></td>
-        </tr>
-        <tr>
-          <th scope="row">Datalogger</th>
-          <td><?php
-            if (isset($properties['datalogger']) &&
-                $properties['datalogger'] !== null) {
-              echo $properties['datalogger'];
-            } else {
-              echo $placeholderValue;
-            }
-          ?></td>
-        </tr>
-        <tr>
-          <th scope="row">Broadband</th>
-          <td><?php
-            if (isset($properties['broadband']) &&
-                $properties['broadband'] !== null) {
-              echo $properties['broadband'];
-            } else {
-              echo $placeholderValue;
-            }
-          ?></td>
-        </tr>
-        <tr>
-          <th scope="row">Accelerometer</th>
-          <td><?php
-            if (isset($properties['accelerometer']) &&
-                $properties['accelerometer'] !== null) {
-              echo $properties['accelerometer'];
-            } else {
-              echo $placeholderValue;
-            }
-          ?></td>
-        </tr>
-        <tr>
-          <th scope="row">Telemetry Status at the NEIC</th>
-          <td class="station-details-telemetry">Pending</td>
-        </tr>
-      </tbody>
-    </table>
+    <div class="horizontal-scrolling">
+      <table class="station-details-table">
+        <tbody>
+          <tr>
+            <th scope="row">Host</th>
+            <td><?php
+              if (isset($properties['host']) &&
+                  $properties['host'] !== null) {
+                echo $properties['host'];
+              } else {
+                echo $placeholderValue;
+              }
+            ?></td>
+          </tr>
+          <tr>
+            <th scope="row">Latitude</th>
+            <td><?php echo $coordinates[1]; ?></td>
+          </tr>
+          <tr>
+            <th scope="row">Longitude</th>
+            <td><?php echo $coordinates[0]; ?></td>
+          </tr>
+          <tr>
+            <th scope="row">Elevation</th>
+            <td><?php echo $coordinates[2]; ?></td>
+          </tr>
+          <tr>
+            <th scope="row">Datalogger</th>
+            <td><?php
+              if (isset($properties['datalogger']) &&
+                  $properties['datalogger'] !== null) {
+                echo $properties['datalogger'];
+              } else {
+                echo $placeholderValue;
+              }
+            ?></td>
+          </tr>
+          <tr>
+            <th scope="row">Broadband</th>
+            <td><?php
+              if (isset($properties['broadband']) &&
+                  $properties['broadband'] !== null) {
+                echo $properties['broadband'];
+              } else {
+                echo $placeholderValue;
+              }
+            ?></td>
+          </tr>
+          <tr>
+            <th scope="row">Accelerometer</th>
+            <td><?php
+              if (isset($properties['accelerometer']) &&
+                  $properties['accelerometer'] !== null) {
+                echo $properties['accelerometer'];
+              } else {
+                echo $placeholderValue;
+              }
+            ?></td>
+          </tr>
+          <tr>
+            <th scope="row">Telemetry Status at the NEIC</th>
+            <td class="station-details-telemetry">Pending</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 </section>
 
