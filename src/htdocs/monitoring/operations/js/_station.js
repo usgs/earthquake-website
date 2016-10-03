@@ -4,6 +4,9 @@
 'use strict';
 
 
+var TabList = require('tablist/TabList');
+
+
 var _createStationMap,
     telemetryEl;
 
@@ -16,8 +19,20 @@ telemetryEl = document.querySelector('.station-details-telemetry');
  *     An object containing station information.
  */
 _createStationMap = function (station) {
+  var mapContainer,
+      mapTableRow;
+
+  mapTableRow = document.querySelector('.station-details-map-table-row') ||
+      document.createElement('div');
+
+  mapContainer = mapTableRow.insertBefore(document.createElement('div'),
+      mapTableRow.firstChild);
+  mapContainer.classList.add('column');
+  mapContainer.classList.add('one-of-two');
+  mapContainer.classList.add('station-details-map-container');
+
   StationDetailsMap({
-    el: document.querySelector('.station-details-map-container'),
+    el: mapContainer,
     station: station
   });
 };
@@ -44,3 +59,5 @@ TelemetryFactory({url: TELEMETRY_URL}).getTelemetry({
     telemetryEl.innerHTML = message;
   }
 });
+
+TabList.tabbifyAll();
