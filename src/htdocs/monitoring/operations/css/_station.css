@@ -2,11 +2,20 @@
   height: 350px;
 }
 
-.station-details-table {
+.station-details-table-container > :first-child {
   margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.station-details-table {
   width: 100%;
 }
 
 .station-details-heliplot {
   margin-top: 1em;
+}
+
+.station-details-photo-link {
+  display: inline-block;
+  margin: 1em 1em 0 0;
 }
