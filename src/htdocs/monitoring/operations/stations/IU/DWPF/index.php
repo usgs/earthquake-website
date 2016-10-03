@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Borehole depth is -162m.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Quaternary aged undifferentiated sands, clayey sands, marls, and peats. The layers are no more than 20 feet thick.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -62,5 +56,3 @@
     </li>
   </ul>
 </div>
-
-

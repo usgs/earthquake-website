@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>The surface vault is a concrete floored room. The pier rests on the floor.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Borehole drilled into a granitic intrusion.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -57,5 +51,3 @@
     </li>
   </ul>
 </div>
-
-

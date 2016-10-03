@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Seismometers are located in a tunnel on concrete piers isolated from the floor and attached to bedrock (andesite). Vault temperature is stable but a dehumidifier is required. The tunnel extends from the main building into the adjacent hillside.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Andesite</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -39,9 +36,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -52,5 +46,3 @@
     </li>
   </ul>
 </div>
-
-

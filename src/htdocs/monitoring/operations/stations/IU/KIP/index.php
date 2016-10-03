@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Vault is located at the end of a tunnel used during World War II to store ammuniation. 80 meter tunnel is cut into the side of a canyon on basalt of the Koolau Volcanic Series. The piers are made of concrete, isolated from the concrete floor, and extending approximately 3 feet below floor level and 1.5 feet above. They rest on weathered basalt. Temperature is stable. Dehumidifiers are used to control the humidity. Temperature +20 to +25 degrees Celsius.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>The Kipapa tunnel is cut in the side of a canyon of basalt of the Koolau Series (Tertiary). Pier rests on weathered basalt.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -62,5 +56,3 @@
     </li>
   </ul>
 </div>
-
-

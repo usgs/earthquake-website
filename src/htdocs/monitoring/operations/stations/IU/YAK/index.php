@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>The vault is located 10 meters beneath a two story building, and is accessed through a narrow steep stairwell. It is a concrete room buried in the permafrost with a constant temperature of 24F.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Permafrost</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -57,5 +51,3 @@
     </li>
   </ul>
 </div>
-
-

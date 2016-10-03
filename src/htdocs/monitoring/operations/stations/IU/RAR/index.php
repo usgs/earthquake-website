@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Borehole for Z, N, and E channels. The STS-1/VBB seismometers are located in a small concrete building approximately 20 x 12 feet. Piers are not isolated from the floor, but are attached to surface rock. A small air conditioner inside the building controls temperature and humidity.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>To about 85 meters geology is an alternating series of hard basalt and unstable flowing material, scoria, gravels and sands. Below 85 meters there is a consistent sequence of basalts.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -57,5 +51,3 @@
     </li>
   </ul>
 </div>
-
-

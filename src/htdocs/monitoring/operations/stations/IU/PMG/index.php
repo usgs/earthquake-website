@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>The seismometer vault is a concrete room covered with earth to a depth of approximately two meters. The vault is airconditioned.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Eocene Chert.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -54,9 +51,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -67,5 +61,3 @@
     </li>
   </ul>
 </div>
-
-

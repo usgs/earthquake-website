@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Instrument is installed in a 7-inch borehole. (standard SRO installation)</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>On top of borehole. Chalk and dolomite of Jurassic age (Malm) with a covering of a thin layer of sandy loam.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -39,9 +36,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -52,5 +46,3 @@
     </li>
   </ul>
 </div>
-
-

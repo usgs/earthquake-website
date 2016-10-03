@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>40 meter horizontal tunnel with approx. 10-15 meters of overburden. (solid rock), *Dry and very hot</p>
@@ -15,8 +14,6 @@
   <h3>Site Condition</h3>
   <p>Located in the Niger River delta region of the Sahara desert in Mali continent of Africa. KOWA operates as a remote IRIS2 station with the data processor operating at the airport in Sevare and the acquisition unit operating at the Dogon village of Kowa approximately 10k from Sevare. The site uses radio modems for data transmission and solar power. A dialup modem is operational. Internet access is not available at this time. National language is French with 75% of the poulation speaking Bambara.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -49,9 +46,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -62,5 +56,3 @@
     </li>
   </ul>
 </div>
-
-

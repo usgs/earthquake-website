@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Subsurface Vault concrete pier buried.</p>
@@ -15,8 +14,6 @@
   <h3>Site Condition</h3>
   <p>NASDA Downrange Tracking Station provides generator power and the, building for the Seismic recording system.,</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -59,9 +56,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -72,5 +66,3 @@
     </li>
   </ul>
 </div>
-
-

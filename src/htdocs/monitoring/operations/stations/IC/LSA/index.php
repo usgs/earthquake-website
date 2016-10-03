@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Seismometers' vault is located in a tunnel dug into a hillside. The seismometers are located on concrete piers which are attached to bedrock. The temperature is stable, but dehumidifiers are in operation.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Rock is Granite.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -39,9 +36,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -52,5 +46,3 @@
     </li>
   </ul>
 </div>
-
-

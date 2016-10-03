@@ -1,12 +1,9 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="site-geology">
   <h3>Site Geology</h3>
   <p>Located in Pahasapa Limestone, which is lower Mississippian in age.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -34,9 +31,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -52,5 +46,3 @@
     </li>
   </ul>
 </div>
-
-

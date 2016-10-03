@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>The vault is in a limestone hillside buried with 1 meter of dirt. The pier is attached to limestone and isolated from building floor.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>The station is located on the edge of the easter ascarpment of the Matina Anticline. The Matina Anticline consists of coralline recent limestone already metamorphosed and even crystalline.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -57,5 +51,3 @@
     </li>
   </ul>
 </div>
-
-

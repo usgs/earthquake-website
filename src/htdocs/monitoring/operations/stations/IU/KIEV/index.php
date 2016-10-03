@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>The vault lies in an abandoned missle cylo which is made of steel. The concrete and steel piers are isolated from the floor and are attached to granite.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Granite</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -39,9 +36,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -52,5 +46,3 @@
     </li>
   </ul>
 </div>
-
-

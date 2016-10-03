@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Borehole. The strong motion system for the EL_ channels is located in the recording building about 20 meters distant from the borehole. The sensors are on the concrete floor inside the data processing cabinet.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Barrigada limestone believed to be about 250 meters thick underlain by basalts and volcanic congolmerates.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -57,5 +51,3 @@
     </li>
   </ul>
 </div>
-
-

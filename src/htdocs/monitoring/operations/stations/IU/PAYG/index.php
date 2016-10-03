@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Borehole</p>
@@ -15,8 +14,6 @@
   <h3>Site Condition</h3>
   <p>Located on the Galapagos Island of Santa Cruz. , The recording system is at the Charles Darwin Science Station and the sensors are 8 Km inland at Bella Vista.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -57,5 +51,3 @@
     </li>
   </ul>
 </div>
-
-

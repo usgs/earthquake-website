@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Seismometer piers are connected directly to bedrock. The floor of the vault is bedrock. The concrete foundation for the walls is poured on bedrock. There is no temperature control nor any heat in the building. The site is noisy during windy conditions.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Primary tonalite</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -39,9 +36,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -52,5 +46,3 @@
     </li>
   </ul>
 </div>
-
-

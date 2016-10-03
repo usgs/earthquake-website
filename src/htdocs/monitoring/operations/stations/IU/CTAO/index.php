@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Seismometers are located in old gold mine approximately 70 meters from entrance. Temperature and humidity are stable. Seismometers are on concrete floor which was poured on bedrock.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Granodiorite bathioith.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -57,5 +51,3 @@
     </li>
   </ul>
 </div>
-
-

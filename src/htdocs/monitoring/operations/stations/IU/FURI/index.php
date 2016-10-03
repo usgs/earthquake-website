@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>20 Meter horizontal tunnel with approximately 5 meters of overburden.</p>
@@ -15,8 +14,6 @@
   <h3>Site Condition</h3>
   <p>Remote site located approxmately three-fourths up the road to the top of Mt. Furi., The data processing equipment is located at the Addis Ababa University. Communications, for data between these locations is via Cylink Radio Modems.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -54,9 +51,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -67,5 +61,3 @@
     </li>
   </ul>
 </div>
-
-
