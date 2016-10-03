@@ -7,7 +7,7 @@ if (!isset($TEMPLATE)) {
   $jsonFile = 'index.json';
 
   if (!file_exists($jsonFile)) {
-    http_response_code(400);
+    header('HTTP/1.0 404 Not Found');
     exit(0);
   }
 
