@@ -82,20 +82,20 @@ input {
 
 </style>
 
-<h2>How much bigger is a...</h2>
+<h2>How much bigger is a magnitude...</h2>
 <form>
   <label>
     <input type="number" size="4" value="8.7" name="mag1" min="-3" max="10" size="4" style="width:100px">
-    larger magnitude earthquake (range is -3.0 to 10.0)
+    larger magnitude (range is -3.0 to 10.0)
   </label>
 
-  <h2>than a...</h2>
+  <h2>than a magnitude...</h2>
   <label>
     <input type="number" value="5.8" name="mag2" min="-3" max="10" style="width:100px">
-    smaller magnitude earthquake(range is -3.0 to 10.0)
+    smaller magnitude (range is -3.0 to 10.0)
   </label>
 
-  <h2>?</h2>
+  <h2>?????</h2>
   <input type="button" value="Calculate" style="background-color:#D4E4F0" onClick="calc_mag_nrg(this.form)">
   <input type="button" value="Reset" onClick="calc_reset(this.form)">
 
