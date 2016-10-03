@@ -42,7 +42,8 @@ if (!isset($TEMPLATE)) {
   }
 
   $TITLE = (($virtualNetwork != null) ?
-      $virtualNetwork . ' ' : '') . 'Network Status';
+      $virtualNetwork . ' ' : '') . 'Status';
+  $NAVIGATION = true;
 
   $HEAD = '
     <link rel="stylesheet" href="/lib/leaflet-0.7.7/leaflet.css"/>
