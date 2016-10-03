@@ -23,7 +23,8 @@ if (!isset($TEMPLATE)) {
   $heliplotUrl = $NETOPS_HELIPLOT_URL . '/' .
       $properties['station_code'] . '.png';
 
-  $TITLE = 'Seismic Network Operations';
+  $TITLE = $properties['network_code'] . ' ' . $properties['station_code'];
+  $NAVIGATION = true;
 
   $HEAD = (isset($HEAD) ? $HEAD : '') . '
     <link rel="stylesheet" href="/lib/leaflet-0.7.7/leaflet.css"/>
@@ -61,9 +62,6 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <header>
-  <h2><?php
-    echo $properties['network_code'] . ' ' . $properties['station_code'];
-  ?></h2>
   <h3>
     <?php echo $properties['name']; ?>
   </h3>
