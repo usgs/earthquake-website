@@ -25,8 +25,7 @@ _createStationMap = function (station) {
   mapTableRow = document.querySelector('.station-details-map-table-row') ||
       document.createElement('div');
 
-  mapContainer = mapTableRow.insertBefore(document.createElement('div'),
-      mapTableRow.firstChild);
+  mapContainer = mapTableRow.appendChild(document.createElement('div'));
   mapContainer.classList.add('column');
   mapContainer.classList.add('one-of-two');
   mapContainer.classList.add('station-details-map-container');
