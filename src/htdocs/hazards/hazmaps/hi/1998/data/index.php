@@ -20,7 +20,7 @@
 		</p>
 		<p>
 			In addition to the output ground motion files below, you may also download
-			the <a href="downloads/hi_input_ascii.cat">input catalog file</a> that went into
+			the <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_input_ascii.cat">input catalog file</a> that went into
 			our calculations.
 		</p>
 		<table>
@@ -37,49 +37,49 @@
          <td>Ground Motion</td>
          <td>0.2 Second (5Hz)</td>
          <td>10% in 50 Years</td>
-         <td>[ <a href="downloads/hi_gm_0p2s_10p50.txt" title="3 Mb">TEXT</a> | <a href="downloads/hi_gm_0p2s_10p50.bin" title="688 kB">BINARY</a> ]</td>
+         <td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p2s_10p50.txt" title="3 Mb">TEXT</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p2s_10p50.bin" title="688 kB">BINARY</a> ]</td>
        </tr>
        <tr>
          <td>Ground Motion</td>
          <td>0.3 Second (3.33Hz)</td>
          <td>10% in 50 Years</td>
-         <td>[ <a href="downloads/hi_gm_0p3s_10p50.txt" title="3 Mb">TEXT</a> | <a href="downloads/hi_gm_0p3s_10p50.bin" title="688 kB">BINARY</a> ]</td>
+         <td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p3s_10p50.txt" title="3 Mb">TEXT</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p3s_10p50.bin" title="688 kB">BINARY</a> ]</td>
        </tr>
        <tr>
          <td>Ground Motion</td>
          <td>1.0 Second (1Hz)</td>
          <td>10% in 50 Years</td>
-         <td>[ <a href="downloads/hi_gm_1p0s_10p50.txt" title="3 Mb">TEXT</a> | <a href="downloads/hi_gm_1p0s_10p50.bin" title="688 kB">BINARY</a> ]</td>
+         <td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_1p0s_10p50.txt" title="3 Mb">TEXT</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_1p0s_10p50.bin" title="688 kB">BINARY</a> ]</td>
        </tr>
        <tr>
          <td>Ground Motion</td>
          <td>Peak Ground Acceleration</td>
          <td>10% in 50 Years</td>
-         <td>[ <a href="downloads/hi_gm_0p0s_10p50.txt" title="3 Mb">TEXT</a> | <a href="downloads/hi_gm_0p0s_10p50.bin" title="688 kB">BINARY</a> ]</td>
+         <td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p0s_10p50.txt" title="3 Mb">TEXT</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p0s_10p50.bin" title="688 kB">BINARY</a> ]</td>
        </tr>
        <tr>
          <td>Ground Motion</td>
          <td>0.2 Second (5Hz)</td>
          <td>2% in 50 Years</td>
-         <td>[ <a href="downloads/hi_gm_0p2s_2p50.txt" title="3 Mb">TEXT</a> | <a href="downloads/hi_gm_0p2s_2p50.bin" title="688 kB">BINARY</a> ]</td>
+         <td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p2s_2p50.txt" title="3 Mb">TEXT</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p2s_2p50.bin" title="688 kB">BINARY</a> ]</td>
        </tr>
        <tr>
          <td>Ground Motion</td>
          <td>0.3 Second (3.33Hz)</td>
          <td>2% in 50 Years</td>
-         <td>[ <a href="downloads/hi_gm_0p3s_2p50.txt" title="3 Mb">TEXT</a> | <a href="downloads/hi_gm_0p3s_2p50.bin" title="688 kB">BINARY</a> ]</td>
+         <td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p3s_2p50.txt" title="3 Mb">TEXT</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p3s_2p50.bin" title="688 kB">BINARY</a> ]</td>
        </tr>
        <tr>
          <td>Ground Motion</td>
          <td>1.0 Second (1Hz)</td>
          <td>2% in 50 Years</td>
-         <td>[ <a href="downloads/hi_gm_1p0s_2p50.txt" title="3 Mb">TEXT</a> | <a href="downloads/hi_gm_1p0s_2p50.bin" title="688 kB">BINARY</a> ]</td>
+         <td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_1p0s_2p50.txt" title="3 Mb">TEXT</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_1p0s_2p50.bin" title="688 kB">BINARY</a> ]</td>
        </tr>
        <tr>
          <td>Ground Motion</td>
          <td>Peak Ground Acceleration</td>
          <td>2% in 50 Years</td>
-         <td>[ <a href="downloads/hi_gm_0p0s_2p50.txt" title="3 Mb">TEXT</a> | <a href="downloads/hi_gm_0p0s_2p50.bin" title="688 kB">BINARY</a> ]</td>
+         <td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p0s_2p50.txt" title="3 Mb">TEXT</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/hi_gm_0p0s_2p50.bin" title="688 kB">BINARY</a> ]</td>
        </tr>
 		</tbody>
 		</table>
@@ -123,9 +123,10 @@
 		<p>
 			For convenience we provide sample binary file readers for potential
 			developers to examine the source and get a better idea of how to read the
-			file format. <a href="HIParser.jar" >Download our reader</a> (requires
+			file format. <a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/data/HIParser.jar" >Download our reader</a> (requires
 			<a target="_blank" href="http://www.java.com">Java</a>&trade;). To use
 			this application, open a command line terminal and type: <code>java -jar
 			HIParser.jar &lt;datafile&gt;</code>.
+    </p>
 	</div>
 </div>
