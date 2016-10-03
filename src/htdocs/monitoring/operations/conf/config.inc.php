@@ -16,9 +16,6 @@
   $NETOPS_PORT = isset($_SERVER['SERVER_PORT']) ?
       $_SERVER['SERVER_PORT'] : $NETOPS_PORT;
 
-  $NETOPS_BASEPATH = isset($_SERVER['SCRIPT_NAME']) ?
-      dirname($_SERVER['SCRIPT_NAME']) : '';
-
   $NETOPS_BASEPATH = dirname(
       str_replace($_SERVER['DOCUMENT_ROOT'], '', __DIR__));
 
