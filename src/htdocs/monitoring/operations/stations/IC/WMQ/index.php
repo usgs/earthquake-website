@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Seismometers are located in a sub-surface vault on concrete piers which are attached to bedrock (sandstone). Vault temperature varies about 7C over the year. A dehumidifier is not required.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Sandstone</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -39,9 +36,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -52,5 +46,3 @@
     </li>
   </ul>
 </div>
-
-

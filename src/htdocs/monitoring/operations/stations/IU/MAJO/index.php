@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Vault is located in an underground tunnel complex sealed with concrete walls. Floors are concrete with piers isolated from the floor and attached to bedrock. Temperature and humidity are stable.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Rock is tertiary sedimentary intruded by quartz diorite.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -39,9 +36,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -52,5 +46,3 @@
     </li>
   </ul>
 </div>
-
-

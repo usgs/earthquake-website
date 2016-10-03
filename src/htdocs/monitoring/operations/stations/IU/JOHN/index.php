@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>STS-2 and FBA-23 are located in a very shallow concrete vault. CMG3-T-B borehole depth is -8m.</p>
@@ -15,8 +14,6 @@
   <h3>Site Condition</h3>
   <p>Solar powered site in the middle of a 1/2 mile by 2 mile Pacific atoll.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -49,9 +46,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -62,5 +56,3 @@
     </li>
   </ul>
 </div>
-
-

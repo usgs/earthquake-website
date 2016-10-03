@@ -1,8 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
-
-
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
   <ul>
@@ -34,9 +31,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -47,5 +41,3 @@
     </li>
   </ul>
 </div>
-
-

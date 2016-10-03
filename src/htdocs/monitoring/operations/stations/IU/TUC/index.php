@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Vault is located in a small building which is well insulated against the summer heat. Piers are isolated from the floor and attached to bedrock. No air conditioners were in use during installation. Temperature variation in the vault is unknown.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Seismometers are located in foothills of the Santa Catalina mountains on granite.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -49,9 +46,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -67,5 +61,3 @@
     </li>
   </ul>
 </div>
-
-

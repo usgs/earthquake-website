@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>The vault is located in a horizontal tunnel dug into granite with an overburden of approximately 15 meters. Piers are isolated from the floor. Heaters are used during the winter. Dehumidifiers are not required.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>The piers are resting on granite.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -39,9 +36,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -52,5 +46,3 @@
     </li>
   </ul>
 </div>
-
-

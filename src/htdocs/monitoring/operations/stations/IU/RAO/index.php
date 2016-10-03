@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>STS-2, STS-1 vertical and FBA-23 are located in a very shallow concrete vault.</p>
@@ -10,8 +9,6 @@
   <h3>Site Condition</h3>
   <p>Station is located on a 100m bluff on the small volcanic island.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -49,9 +46,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -62,5 +56,3 @@
     </li>
   </ul>
 </div>
-
-

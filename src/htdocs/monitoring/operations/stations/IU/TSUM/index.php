@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>The vault is located above ground, constructed of concrete. The concrete pier is semi-isolated. Background noise, some caused by winds interacting with local towers, may be high occasionally.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Limestone</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -57,5 +51,3 @@
     </li>
   </ul>
 </div>
-
-

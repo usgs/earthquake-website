@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Vault is located 250 meters inside a mountain with approximately 60 meters of overburden. Seismometers are in a small room along side the tunnel and are mounted on piers. The piers are not isolated from the floor, but the floor is attached to bedrock. Entrance to the tunnel is through a building built into the hillside.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Alternating beds of basalt and tuff.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -57,5 +51,3 @@
     </li>
   </ul>
 </div>
-
-

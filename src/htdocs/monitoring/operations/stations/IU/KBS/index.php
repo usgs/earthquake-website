@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>Seismometer piers are isolated from the floor and extend through two feet of soil plus an additional two feet into the permafrost. Large iron bolts extend from the bottom of the pier into the permafrost for another five feet. The building is on stilts and the piers are exposed for several feet to the elements, and strong winds cause noisy conditions.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Permafrost</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -57,5 +51,3 @@
     </li>
   </ul>
 </div>
-
-

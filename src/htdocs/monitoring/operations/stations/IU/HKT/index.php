@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>The vault is 472 meters below surface in a salt mine. Temperature of the vault remains at approximately 37 degrees C. The pier is not isolated.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>Located in the Willis Formation that is made of clay, silt, sand, and minor siliceous gravel. Deposited in the lower Pleistocene and is approximately 200 feet thick.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -44,9 +41,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -62,5 +56,3 @@
     </li>
   </ul>
 </div>
-
-

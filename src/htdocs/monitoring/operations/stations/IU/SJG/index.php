@@ -1,6 +1,5 @@
 <?php include '../../../_station.php'; ?>
 
-
 <div class="vault-condition">
   <h3>Vault Condition</h3>
   <p>The seismometer vault is built into a hillside and has an overburden of approximately 3 meters. Piers are isolated from floor and connected to bedrock. Temperature and humidity in the vault are stable. There is a four lane highway located 1100 feet from the vault. Traffic is heavy, and includes large trucks.</p>
@@ -10,8 +9,6 @@
   <h3>Site Geology</h3>
   <p>The vault is on interfingering lenticular units of volcanic breccia, conglomerate, sandstone and siltstone of cretaceous age. Seismometer piers are attached to decomposed rock of these materials.</p>
 </div>
-
-
 
 <div class="collaborator-links">
   <h3>Collaborator Links</h3>
@@ -49,9 +46,6 @@
   </ul>
 </div>
 
-
-
-
 <div class="other-links">
   <h3>Other Links</h3>
   <ul>
@@ -62,5 +56,3 @@
     </li>
   </ul>
 </div>
-
-
