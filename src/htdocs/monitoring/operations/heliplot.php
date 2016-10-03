@@ -47,6 +47,7 @@ if (!isset($TEMPLATE)) {
 
   $TITLE = (($virtualNetwork != null) ?
       $virtualNetwork . ' ': '') . 'Heliplots';
+  $NAVIGATION = true;
 
   $HEAD = '
     <link rel="stylesheet" href="css/heliplot.css"/>
