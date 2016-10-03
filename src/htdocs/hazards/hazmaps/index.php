@@ -1,137 +1,142 @@
 <?php
   // Author: Lisa Wald
   // Contact: Mark Peterson,
+  // Last modified: 03/21/2016
   if (!isset($TEMPLATE)) {
-  $TITLE = 'Seismic Hazard Maps and Site-Specific Data';
+  $TITLE = 'Hazard Maps and Site-Specific Data';
   $NAVIGATION = true;
-  $HEAD = '
-    <link rel="stylesheet" href="index.css"/>
-  ';
   include 'template.inc.php';
   }
 ?>
 
 <div class="row">
   <section class="column one-of-two">
-    <h2>U.S. Seismic Hazard Maps</h2>
+    <h2>Seismic Hazard Maps and Data</h2>
 
-    <figure>
-      <img src="images/us2014.gif" alt=""/>
+    <h3><a href="/hazards/products/">National Seismic Hazard Maps</a></h3>
+    <figure class="left">
+      <img src="images/us2014.gif" width="75" alt=""/>
     </figure>
-    <h3>United States - Lower 48</h3>
-    <ul>
-      <li><a href="conterminous/index.php#2016">2016</a></li>
-      <li><a href="conterminous/index.php#2014">2014</a></li>
-      <li><a href="conterminous/index.php#2008">2008</a></li>
-      <li><a href="conterminous/index.php#2002">2002</a></li>
-      <li><a href="conterminous/index.php#1996">1996</a></li>
-    </ul>
-    <h3>Alaska</h3>
-    <ul>
-      <li><a href="ak/index.php#2007">2007</a></li>
-      <li><a href="ak/index.php#1999">1999</a></li>
-    </ul>
-    <h3>Hawaii</h3>
-    <ul>
-      <li><a href="islands.php#hi">1998</a></li>
-    </ul>
-    <h3>Puerto Rico and the U.S. Virgin Islands</h3>
-    <ul>
-      <li><a href="islands.php#prvi">2003</a></li>
-    </ul>
-    <h3>Guam and Marianas</h3>
-    <ul>
-      <li><a href="http://pubs.usgs.gov/of/2012/1015/">2012</a></li>
-    </ul>
-    <h3>Samoa and Pacific Islands</h3>
-    <ul>
-      <li><a href="islands.php#samoapacific">2012</a></li>
-    </ul>
+    <p>Includes Lower 48, Alaska, Hawaii, Puerto Rico and the U.S. Virgin Islands, Guam and Marianas, Samoa and Pacific Islands.</p>
+
+    <h3><a href="/hazards/products/urban/">Urban and Regional Hazard Maps</a></h3>
+    <figure class="left">
+      <img src="images/pnw.gif" width="75" alt=""/>
+    </figure>
+    <p>Includes California, Central and Eastern U.S., Pacific Northwest.</p>
+
+    <br style="clear:left;"/>
+
+    <h3><a href="/hazards/products/scenario/">Scenarios</a></h3>
+    <figure class="left">
+      <img src="images/intensity.gif" width="75" alt=""/>
+    </figure>
+    <p>
+      Earthquake Scenarios describe the expected ground motions and effects of specific hypothetical large earthquakes.
+    </p>
+
+    <br style="clear:left;"/>
+
+    <h3><a href="/hazards/products/tdep/">Time-Dependent Earthquake Probability Maps</a></h3>
+    <figure class="left">
+      <img src="images/tdep.gif" width="75" alt=""/>
+    </figure>
+
+    <br style="clear:left;"/>
+
+    <h3><a href="/hazards/products/foreign/">Foreign Hazard Maps</a></h3>
+    <figure class="left">
+      <img src="images/foreign.gif" width="75" alt=""/>
+    </figure>
+    <p>
+      Includes Afghanistan, Sumatra, State of Gujarat,India.  See also <a href="http://www.seismo.ethz.ch/static/gshap/">Global Seismic Hazard Assessment Program (GSHAP)</a>
+    </p>
 
   </section>
+
+
 
   <section class="column one-of-two">
+    <h2>Seismic Hazard Analysis Tools</h2>
 
-    <h2>Hazard Tools</h2>
+    <h3>Custom Hazard Maps</h3>
+    <figure class="left">
+      <img src="images/cmaps.gif" width="75" alt=""/>
+    </figure>
+    <p>
+  		Replot local portions of the national hazard maps. You define center and
+  		span in addition to several other customization parameters.
+  	</p>
+    <p>Versions available: <a href="http://geohazards.usgs.gov/hazards/apps/cmaps/">All Editions</a>
 
-    <a href="http://geohazards.usgs.gov/hazards/apps/cmaps/">
-      <img class='tool' src="images/cmaps.gif" width="75" alt=""/>
-      <p>Custom Hazard Maps<br/>
-    </a>
-  	Replot local portions of the national hazard maps. 1996, 2002, 2008.
+    <br style="clear:left;"/>
+
+  	<h3>Custom EQ Probability Maps</h3>
+    <figure class="left">
+  	   <img src="images/probability.gif" width="75" alt=""/>
+    </figure>
+    <p>
+      Map of probability of earthquake larger than given magnitude within
+      selected distance. Earthquake probability maps use the most recent
+      earthquake rate and probability models. These models are derived from
+      earthquake rate, location, and magnitude data from the USGS National
+      Seismic Hazard Mapping Project.
+    </p>
+    <p>Version available: <a href="http://geohazards.usgs.gov/eqprob/2009/index.php">2009</a></p>
+
+    <h3>Hazard Curves</h3>
+    <figure class="left">
+  	   <img src="images/curves.png" width="75" alt=""/>
+     </figure>
+     <p>
+   		View hazard curves and dynamically generate uniform hazard response spectra (UHRS). Provides instructions for programmatic access to the 2008 National Seismic Hazard Mapping Program data.
+   	</p>
+    <p>Version available: <a href="http://geohazards.usgs.gov/hazardtool/">2008</a></p>
+
+    <h3>Vs30</h3>
+    <figure class="left">
+      <img src="images/vs30.gif" width="75" alt=""/>
+    </figure>
+    <p>
+  		Global and US data.
+  	</p>
+    <p>Versions available: <a href="/data/vs30/">All Editions</a></p>
+
+    <h3>Interactive Deaggregations</h3>
+    <figure class="left">
+      <img src="images/deaggint.gif" width="75" alt=""/>
+    </figure>
+    <p>Versions available:
+      <a href="http://geohazards.usgs.gov/deaggint/2008/">2008 - US</a> |
+      <a href="/hazards/apps/samoa/">2008 - Samoa</a> |
+      <a href="http://geohazards.usgs.gov/deaggint/2002/">2002</a> - US, Puerto Rico |
+      <a href="http://geohazards.usgs.gov/deaggint/1996/">1996</a> - US, Alaska, Hawaii
+    </p>
+  	<p>
+  		<a href="/hazards/products/conterminous/1996/deagg/">1996 Fixed Cities Deaggregation</a> - for a given location, what are the relative contribution for different
+  		magnitude-distance combinations?
   	</p>
 
-    <a href="http://geohazards.usgs.gov/eqprob/2009/">
-      <img class='tool' src="images/probability.gif" width="75" alt=""/>
-      <p>Custom EQ Probability Maps<br/>
-    </a>
-    Map of probability of earthquake larger than given magnitude within
-    selected distance. 2009.
-    </p>
-
-    <a href="http://geohazards.usgs.gov/hazardtool/">
-      <img class='tool' src="images/curves.png" width="75" alt=""/>
-      <p>Hazard Curves<br/>
-    </a>
-    View hazard curves and dynamically generate uniform hazard response spectra (UHRS). 2008.
-   	</p>
-
-    <img class='tool' src="images/deaggint.gif" width="75" alt=""/>
-    <h4>Deaggregations</h4>
+  	<h3>Banded Deaggregations</h3>
+    <figure class="left">
+      <img src="images/deaggband.gif" width="75" alt=""/>
+    </figure>
     <p>
-      For a given location, what are the relative contribution for different magnitude-distance combinations?
+      For a given location, generates a plot of ground motion in bands versus rate as well as an ascii text file of the hazard matrices for each ground motion band.
     </p>
-    <ul>
-      <li><a href="http://geohazards.usgs.gov/deaggint/2008/">U.S. - 2008</a></li>
-      <li><a href="/hazards/apps/samoa/">Samoa - 2008</a></li>
-      <li><a href="http://geohazards.usgs.gov/deaggint/2002/">U.S., Puerto Rico - 2002</a></li>
-      <li><a href="http://geohazards.usgs.gov/deaggint/1996/">U.S., Alaska, Hawaii - 1996</a></li>
-      <li><a href="http://geohazards.usgs.gov/deaggband/2009/">Banded Deaggregation - U.S. - 2009</a></li>
-    </ul>
+    <p>Version available: <a href="http://geohazards.usgs.gov/deaggband/2009/">2009 - US</a></p>
 
+  	<h3>Other Hazard Software</h3>
+    <figure class="left">
+      <img src="images/opensha.gif" width="75" alt=""/>
+    </figure>
+    <p>
+      <a href="http://www.opensha.org/">OpenSHA</a> is a joint venture between
+      the Southern California Earthquake Center (SCEC), and the USGS. The
+      primary goal of OpenSHA is to improve seismic hazard analysis by providing
+      a platform that can accomodate both past and future models.
+    </p>
 
-    <h2>Other Products</h2>
-
-    <ul>
-      <li>
-        <p>
-          <a href="http://www.opensha.org/">OpenSHA</a><br/>
-          Provides a platform that can accomodate both past and future models.
-        </p>
-      </li>
-
-      <li>
-        <p>
-          <a href="timedep.php">Time-Dependent Earthquake Probability Maps</a>
-        </p>
-      </li>
-
-      <li>
-        <p>
-          <a href="/data/vs30/">Vs30 Data</a><br/>
-          Global data and U.S. data compilations.
-        </p>
-      </li>
-
-      <li>
-        <p>
-          <a href="/hazards/urban/">Urban and Regional Hazard Maps</a><br/>
-          Includes California, Central and Eastern U.S., Pacific Northwest.
-        </p>
-
-      <li>
-        <p>
-          <a href="/hazards/foreign/">Foreign Hazard Maps</a><br/>
-          Includes Afghanistan, Sumatra, State of Gujarat,India.  See also <a href="http://www.seismo.ethz.ch/static/gshap/">Global Seismic Hazard Assessment Program (GSHAP)</a>.
-        </p>
-      </li>
-
-      <li>
-        <p>
-          <a href="/hazards/qfaults/">Quaternary Faults</a><br/>
-          Interactive fault map and comprehensive geologically based information on known or suspected active faults and folds in the United States. Also, generalized fault data used in the hazard maps.
-        </p>
-      </li>
-    </ul>
   </section>
+
 </div>
