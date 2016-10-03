@@ -23,7 +23,8 @@ if (!isset($TEMPLATE)) {
   $heliplotUrl = $NETOPS_HELIPLOT_URL . '/' .
       $properties['station_code'] . '.png';
 
-  $TITLE = $properties['network_code'] . ' ' . $properties['station_code'];
+  $TITLE = 'Station ' . $properties['network_code'] . ' ' .
+      $properties['station_code'];
   $NAVIGATION = true;
 
   $HEAD = (isset($HEAD) ? $HEAD : '') . '
