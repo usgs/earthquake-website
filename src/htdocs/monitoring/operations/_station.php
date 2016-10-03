@@ -13,11 +13,15 @@ if (!isset($TEMPLATE)) {
 
   $json = json_decode(@file_get_contents($jsonFile), true);
 
-  if ($json == '' || !isset($stations['properties'])) {
+  $requestDir = dirname($_SERVER['SCRIPT_FILENAME']);
+  $expectedStation = basename($requestDir);
+  $expectedNetwork = basename(dirname($requestDir));
+
+  if ($json == '' || !isset($json['id']) ||
+      $json['id'] != "${expectedNetwork}_${expectedStation}") {
     header('HTTP/1.0 404 Not Found');
     exit(0);
   }
-
 
   $id = $json['id'];
   $properties = $json['properties'];
