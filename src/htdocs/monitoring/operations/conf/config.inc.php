@@ -33,4 +33,8 @@
   // $NETOPS_HELIPLOT_URL . '/{station_code}_24hr.html' --> heliplot markup
   $NETOPS_HELIPLOT_URL = $NETOPS_DATA_BASEURL . '/Seismic_Data/telemetry_data';
 
+  $NETOPS_LATENCY_URL = $NETOPS_DATA_BASEURL . '/station_latency';
+
+  $NETOPS_AVAILABILITY_URL = $NETOPS_DATA_BASEURL . '/station_availability';
+
   $TELEMETRY_URL = $NETOPS_WEBSITE_BASEURL . '/telemetry.json.php';

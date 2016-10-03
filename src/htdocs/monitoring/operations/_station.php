@@ -20,8 +20,18 @@ if (!isset($TEMPLATE)) {
       $json['geometry']['coordinates'] :
       [$placeholderValue, $placeholderValue, $placeholderValue];
 
-  $heliplotUrl = $NETOPS_HELIPLOT_URL . '/' .
+  $heliplotThumb = $NETOPS_HELIPLOT_URL . '/' .
       $properties['station_code'] . '.png';
+  $heliplotPage = $NETOPS_HELIPLOT_URL . '/' .
+      $properties['station_code_24hr.html'];
+
+  $latencyUrl = $NETOPS_LATENCY_URL . '/' .
+      $properties['network_code'] . $properties['station_code'] . '.gif';
+
+  $availabilityUrl = $NETOPS_AVAILABILITY_URL . '/' .
+      $properties['network_code'] . '_' . $properties['station_code'];
+
+  $photos = glob('images/*_sm*'); // relative to {network}/{station} directory
 
   $TITLE = 'Seismic Network Operations';
 
@@ -149,13 +159,67 @@ if (!isset($TEMPLATE)) {
 </section>
 
 <div class="tablist">
+  <?php if (count($photos) > 0) : ?>
+    <section class="panel station-details-photos"
+        data-title="Site">
+      <noframes><h2>Site</h2></noframes>
+      <?php foreach ($photos as $photo) : ?>
+        <a class="station-details-photo-link"
+            href="<?php echo str_replace('_sm', '', $photo); ?>">
+          <img src="<?php echo $photo; ?>" alt="Site Photo"/>
+        </a>
+      <?php endforeach; ?>
+    </section>
+  <?php endif; ?>
+
   <section class="panel station-details-heliplot"
       data-title="Heliplot">
     <noscript><h2>Heliplot</h2></noscript>
-    <a class="station-details-heliplot-link" href="<?php $heliplotUrl; ?>">
+    <a class="station-details-heliplot-link"
+        href="<?php echo $heliplotThumb; ?>">
       <img class="station-details-heliplot-image"
-          src="<?php echo $heliplotUrl; ?>"
+          src="<?php echo $heliplotThumb; ?>"
           alt="Station Heliplot"/>
+    </a>
+  </section>
+
+  <section class="panel station-details-latency"
+      data-title="Latency">
+    <noscript><h2>Latency</h2></noscript>
+    <a class="station-details-latency-link"
+        href="<?php echo $latencyUrl; ?>">
+      <img class="station-details-latency-image"
+          src="<?php echo $latencyUrl; ?>"
+          alt="Station Latency"/>
+    </a>
+  </section>
+
+  <section class="panel station-details-availability"
+      data-title="Availability">
+    <noscript><h2>Latency</h2></noscript>
+
+    <h3>Past 30 Days</h3>
+    <a class="station-details-availability-link"
+        href="<?php echo $availabilityUrl; ?>_30days.png">
+      <img class="station-details-availability-image"
+          src="<?php echo $availabilityUrl; ?>_30days.png"
+          alt="Station Availability - Past 30 Days"/>
+    </a>
+
+    <h3>Past 365 Days</h3>
+    <a class="station-details-availability-link"
+        href="<?php echo $availabilityUrl; ?>_365days.png">
+      <img class="station-details-availability-image"
+          src="<?php echo $availabilityUrl; ?>_365days.png"
+          alt="Station Availability - Past Year"/>
+    </a>
+
+    <h3>Yearly</h3>
+    <a class="station-details-availability-link"
+        href="<?php echo $availabilityUrl; ?>_all.png">
+      <img class="station-details-availability-image"
+          src="<?php echo $availabilityUrl; ?>_all.png"
+          alt="Station Availability - Yearly"/>
     </a>
   </section>
 </div>
