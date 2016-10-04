@@ -5,7 +5,7 @@
   <ul>
     <li>
       <a href="http://www.ign.es/ign/es/IGN/SisIndice.jsp">
-        "Instituto Geográfico Nacional, Spain"
+        &quot;Instituto Geogr&aacute;fico Nacional, Spain&quot;
       </a>
     </li>
     <li>

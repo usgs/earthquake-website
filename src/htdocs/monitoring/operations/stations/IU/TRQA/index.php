@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a href="http://www.inpres.gov.ar/">
-        "Instituto Nacional de Prevención Sísmica (INPRES), Argentina"
+        &quot;Instituto Nacional de Prevenci&oacute;n S&iacute;smica (INPRES), Argentina&quot;
       </a>
     </li>
     <li>

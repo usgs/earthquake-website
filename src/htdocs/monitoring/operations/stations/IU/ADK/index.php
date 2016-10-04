@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a href="http://www.fws.gov/">
-        US Fish & Wildlife Service
+        US Fish &amp; Wildlife Service
       </a>
     </li>
     <li>

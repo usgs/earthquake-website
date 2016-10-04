@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a href="http://www.deprem.gov.tr/indexen.html">
-        "General Directorate of Disaster Affairs, Turkey"
+        &quot;General Directorate of Disaster Affairs, Turkey&quot;
       </a>
     </li>
     <li>

@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a href="http://www.unb.br/ig/">
-        "Universidade de Brasilia, Brazil"
+        &quot;Universidade de Brasilia, Brazil&quot;
       </a>
     </li>
     <li>

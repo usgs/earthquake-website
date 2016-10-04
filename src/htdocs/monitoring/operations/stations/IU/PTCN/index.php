@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a href="http://www.earthquakes.bgs.ac.uk/">
-        "British Geological Survey, Great Britain"
+        &quot;British Geological Survey, Great Britain&quot;
       </a>
     </li>
     <li>

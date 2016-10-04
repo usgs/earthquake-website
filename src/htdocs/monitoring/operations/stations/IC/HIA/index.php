@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a href="http://www.cea.gov.cn/">
-        "Institute of Geophysics, China Earthquake Administration, Beijing, PRC"
+        &quot;Institute of Geophysics, China Earthquake Administration, Beijing, PRC&quot;
       </a>
     </li>
     <li>

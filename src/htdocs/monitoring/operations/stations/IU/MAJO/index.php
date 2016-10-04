@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a href="http://www.mri-jma.go.jp/Dep/sv/sv.html">
-        "Seismology and Volcanology Research Department, Japan Met. Agency"
+        &quot;Seismology and Volcanology Research Department, Japan Met. Agency&quot;
       </a>
     </li>
     <li>

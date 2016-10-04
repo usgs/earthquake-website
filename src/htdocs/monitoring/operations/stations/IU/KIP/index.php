@@ -20,7 +20,7 @@
     </li>
     <li>
       <a href="http://geoscope.ipgp.jussieu.fr/STATIONS/Default_station.htm">
-        "Institut de Physique du Globe de Paris (IPGP), France"
+        &quot;Institut de Physique du Globe de Paris (IPGP), France&quot;
       </a>
     </li>
     <li>

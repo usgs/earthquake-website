@@ -10,7 +10,7 @@
   <ul>
     <li>
       <a href="http://www.igepn.edu.ec/">
-        Instituto Geofísico - Escuela Politécnica Nacional
+        Instituto Geof&iacute;sico - Escuela Polit&eacute;cnica Nacional
       </a>
     </li>
     <li>
