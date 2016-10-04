@@ -18,7 +18,7 @@
   <li><a href="hi/1998/maps.php">Maps</a></li>
   <li><a href="hi/1998/data.php">Data</a></li>
   <li><a href="hi/1998/software.php">Software</a></li>
-  <li><a href="hi/1998/documentation/">Documentation</a></li>
+  <li><a href="http://www.bssaonline.org/content/91/3/479.short">Documentation</a></li>
 </ul>
 
 <h2 id='prvi'>Puerto Rico and the U.S. Virgin Islands</h2>

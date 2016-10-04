@@ -24,7 +24,7 @@
 	</div>
 	<div class="column one-of-three">
 		<h2>Additional Links</h2>
-		<ul id="downloads">
+		<ul>
 			<li><a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/software/makemaps.tgz">Mapping Scripts</a></li>
 			<li><a href="ftp://hazards.cr.usgs.gov/web/nshm/hi/1998/software/cptfiles.tgz">GMT Color Files (cpt)</a></li>
 		</ul>

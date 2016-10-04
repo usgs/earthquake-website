@@ -102,9 +102,6 @@
 				</tr>
 			</tbody>
 		</table>
-		<!--<p style="color:#666666;font-size:.8em;margin:0;padding:0;text-align:right;">
-			Click a file header to re-sort table listing by that column.
-		</p>-->
 	</div>
 	<div class="column one-of-three">
 		<h2>More About File Formats</h2>

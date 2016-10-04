@@ -25,8 +25,7 @@
 		<h2>Related Software</h2>
 		<ul>
 			<li>
-				<a href="https://geohazards.usgs.gov/deaggint/2002/">Interactive
-				Deaggregation Application</a>
+				<a href="https://geohazards.usgs.gov/deaggint/2002/">Interactive Deaggregation Application</a>
 			</li>
 		</ul>
 	</div>

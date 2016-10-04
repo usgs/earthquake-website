@@ -83,9 +83,6 @@
        </tr>
 		</tbody>
 		</table>
-		<!--<p>
-			Click a file header to re-sort table listing by that column.
-		</p>-->
 	</div>
 	<div class="column one-of-three">
 		<h2>More About File Formats</h2>
