@@ -5,7 +5,7 @@
   <ul>
     <li>
       <a href="http://www.unam.mx/">
-        Universidad Nacional Autónoma de México
+        Universidad Nacional Aut&oacute;noma de M&eacute;xico
       </a>
     </li>
     <li>

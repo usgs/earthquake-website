@@ -5,7 +5,7 @@
   <ul>
     <li>
       <a href="http://www.uasd.edu.do/">
-        Instituto Sismológico Universitario - Universidad Autónoma de Santo Domingo
+        Instituto Sismol&oacute;gico Universitario - Universidad Aut&oacute;noma de Santo Domingo
       </a>
     </li>
     <li>

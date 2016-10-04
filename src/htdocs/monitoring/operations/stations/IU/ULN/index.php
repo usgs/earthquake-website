@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a href="http://www.mas.ac.mn/en/index.php?option=com_content&task=view&id=26&Itemid=45">
-        "Center of Astronomy and Geophysics, Mongolia Adademy of Sciences"
+        &quot;Center of Astronomy and Geophysics, Mongolia Adademy of Sciences&quot;
       </a>
     </li>
     <li>

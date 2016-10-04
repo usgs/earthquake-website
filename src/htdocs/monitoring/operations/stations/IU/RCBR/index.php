@@ -10,7 +10,7 @@
   <ul>
     <li>
       <a href="http://www.dfte.ufrn.br/">
-        "Univ. Federal do Rio Grande do Norte, Brazil"
+        &quot;Univ. Federal do Rio Grande do Norte, Brazil&quot;
       </a>
     </li>
     <li>

@@ -10,7 +10,7 @@
     </li>
     <li>
       <a href="http://www.igc.up.ac.pa/">
-        "Instituto de Geociencias, Universidad de Panama"
+        &quot;Instituto de Geociencias, Universidad de Panama&quot;
       </a>
     </li>
     <li>

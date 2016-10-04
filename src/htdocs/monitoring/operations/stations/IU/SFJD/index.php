@@ -5,7 +5,7 @@
   <ul>
     <li>
       <a href="http://www.geus.dk/geuspage-uk.htm">
-        Geological Survey of Denmark & Greenland
+        Geological Survey of Denmark &amp; Greenland
       </a>
     </li>
     <li>

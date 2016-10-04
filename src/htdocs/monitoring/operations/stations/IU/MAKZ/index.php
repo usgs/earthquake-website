@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a href="http://www.kndc.kz/eng/index.php?p=1&f=general.html">
-        "National Nuclear Center, Institute of Geophysical Research, Kazakhstan"
+        &quot;National Nuclear Center, Institute of Geophysical Research, Kazakhstan&quot;
       </a>
     </li>
     <li>

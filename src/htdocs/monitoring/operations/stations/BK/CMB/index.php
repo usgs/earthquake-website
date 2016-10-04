@@ -5,7 +5,7 @@
   <ul>
     <li>
       <a href="http://seismo.berkeley.edu/seismo/">
-        "University of California, Berkeley"
+        &quot;University of California, Berkeley&quot;
       </a>
     </li>
     <li>

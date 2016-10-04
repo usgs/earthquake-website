@@ -5,7 +5,7 @@
   <ul>
     <li>
       <a href="http://www.mona.uwi.edu/earthquake/jamseisnet.htm">
-        "University of the West Indies, Mona"
+        &quot;University of the West Indies, Mona&quot;
       </a>
     </li>
     <li>

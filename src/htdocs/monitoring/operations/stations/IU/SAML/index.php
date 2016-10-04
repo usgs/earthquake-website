@@ -10,7 +10,7 @@
   <ul>
     <li>
       <a href="http://www.obsis.unb.br">
-        "Universidade de Brasilia, Brazil"
+        &quot;Universidade de Brasilia, Brazil&quot;
       </a>
     </li>
     <li>

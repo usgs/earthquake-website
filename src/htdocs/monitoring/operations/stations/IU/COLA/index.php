@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a href="http://giseis.alaska.edu/">
-        "University of Alaska, Fairbanks"
+        &quot;University of Alaska, Fairbanks&quot;
       </a>
     </li>
     <li>

@@ -10,7 +10,7 @@
   <ul>
     <li>
       <a href="http://www.funvisis.org.ve/">
-        Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS)
+        Fundaci&oacute;n Venezolana de Investigaciones Sismol&oacute;gicas (FUNVISIS)
       </a>
     </li>
     <li>
