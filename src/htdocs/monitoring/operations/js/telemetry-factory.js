@@ -46,11 +46,11 @@ var TelemetryFactory = function (options) {
     url = _this.url;
 
     if (properties.network_code) {
-      params.push('network_code=' + properties.network_code);
+      params.push('network=' + properties.network_code);
     }
 
     if (properties.station_code) {
-      params.push('station_code=' + properties.station_code);
+      params.push('station=' + properties.station_code);
     }
 
     if (params.length) {
