@@ -1222,7 +1222,7 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
   <li>
     <h2 id="shake">ShakeCast &ndash; ShakeMap RSS Reader</h2>
-    <a href="shakecast/">
+    <a href="shakecast.php">
       <img src="images/ShakeCast.Icon.jpg" alt="ShakeCast Logo" width="120" height="99"/>
     </a>
     <table>
@@ -1255,7 +1255,7 @@ also supports negative magnitudes, independent S models, and crustal models from
         <td>Included in download file</td>
       </tr>
         <th>Download:</th>
-        <td><a href="shakecast/" >See online documentation</a></td>
+        <td><a href="shakecast.php" >See online documentation</a></td>
       </tr>
     </table>
     <p>
