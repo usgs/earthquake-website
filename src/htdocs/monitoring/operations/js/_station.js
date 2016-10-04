@@ -40,7 +40,14 @@ _createStationMap = function (station) {
 TelemetryFactory({url: TELEMETRY_URL}).getTelemetry({
   station: STATION,
   onSuccess: function (response) {
-    var telemetry = response.features[0].properties.telemetry;
+    var telemetry;
+
+    if (response && response.features && response.features.length &&
+        response.features[0].properties) {
+      telemetry = response.features[0].properties.telemetry || 0;
+    } else {
+      telemetry = 0;
+    }
 
     STATION.properties.telemetry = telemetry;
     _createStationMap(STATION);

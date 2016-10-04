@@ -16,6 +16,8 @@ TelemetryFactory({url: TELEMETRY_URL}).getTelemetry({
     var telemetryMap;
 
     telemetryMap = {};
+    allTelemetry.features = allTelemetry.features || [];
+
     allTelemetry.features.forEach(function (item) {
       telemetryMap[item.id] = item.properties.telemetry;
     });
