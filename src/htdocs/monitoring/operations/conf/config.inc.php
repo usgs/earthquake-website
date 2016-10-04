@@ -36,4 +36,5 @@
 
   $NETOPS_ISSUES_URL = $NETOPS_DATA_BASEURL . '/station_issues';
 
-  $TELEMETRY_URL = $NETOPS_WEBSITE_BASEURL . '/telemetry.json.php';
+  $TELEMETRY_URL = $NETOPS_PROTOCOL . $NETOPS_HOST . ':' . $NETOPS_PORT .
+      '/ws/network-operations/telemetry.json';
