@@ -15,10 +15,11 @@ var config = {
   liveReloadPort: BASE_PORT + 9,
   offsitePaths: [
     // apps that should proxy to config.ini's OFFSITE_HOST
-    '/fdsnws/',
     '/earthquakes/eventpage/',
     '/earthquakes/feed/v1.0/',
     '/earthquakes/map/',
+    '/fdsnws/',
+    '/ws/network-operations',
     '/scenarios/eventpage/',
     '/scenarios/feed/',
     '/scenarios/map/'
