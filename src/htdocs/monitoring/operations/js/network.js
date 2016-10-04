@@ -16,8 +16,10 @@ TelemetryFactory({url: TELEMETRY_URL}).getTelemetry({
     var telemetryMap;
 
     telemetryMap = {};
-    allTelemetry.forEach(function (item) {
-      telemetryMap[item.id] = item.telemetry;
+    allTelemetry.features = allTelemetry.features || [];
+
+    allTelemetry.features.forEach(function (item) {
+      telemetryMap[item.id] = item.properties.telemetry;
     });
 
     // Create the map
@@ -45,14 +47,14 @@ TelemetryFactory({url: TELEMETRY_URL}).getTelemetry({
     ].join('');
 
     // Update the table rows
-    allTelemetry.forEach(function (item) {
+    allTelemetry.features.forEach(function (item) {
       var el;
 
       el = document.querySelector('#telemetry-' + item.id);
       if (el) {
         el.innerHTML = [
-          '<img src="', TELEMETRY_ICONS[item.telemetry], '" ',
-              'alt="Telemetry Status ', item.telemetry, '"/>'
+          '<img src="', TELEMETRY_ICONS[item.properties.telemetry], '" ',
+              'alt="Telemetry Status ', item.properties.telemetry, '"/>'
         ].join('');
       }
     });
