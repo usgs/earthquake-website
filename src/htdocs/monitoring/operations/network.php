@@ -42,7 +42,7 @@ if (!isset($TEMPLATE)) {
   }
 
   $TITLE = (($virtualNetwork != null) ?
-      $virtualNetwork . ' ' : '') . 'Status';
+      $virtualNetwork . ' ' : 'GSN and ANSS ') . 'Status';
   $NAVIGATION = true;
 
   $HEAD = '
