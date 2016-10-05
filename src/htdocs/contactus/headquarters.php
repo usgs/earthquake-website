@@ -5,7 +5,7 @@ if (!isset($TEMPLATE)) {
   include 'template.inc.php';
 }
 ?>
- 
+
 <p><strong>Mailing Address</strong></p>
 
 <p>12201 Sunrise Valley Drive, MS 905 <br />
@@ -16,12 +16,11 @@ Reston, VA, 20192</p>
   <li>William Leith, Senior Science Advisor for Earthquake and Geologic Hazards</li>
   <li>Cecily Wolfe, ANSS Coordinator and Associate Program Coordinator for Earthquake Hazards, Global Seismographic Network, and Geomagnetism Programs</li>
   <li>Michael Blanpied, Associate Earthquake Hazards Program Coordinator</li>
-  <li>Joyce Costello, Program Information Assistant</li>
 </ul>
 
 <h2><a href="/research/external/">External Grants and Contracts for Research</a></h2>
 <ul>
-  <li>Elizabeth Lemersal, Program Manager </li>
+  <li>Jill Franks, Program Manager </li>
   <li>Deborah McCray-Skinner, Program Analyst</li>
 </ul>
 
