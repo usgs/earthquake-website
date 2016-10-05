@@ -19,7 +19,7 @@
     );
   } else {
     echo
-      navItem('?virtual_network=ANSS', 'ANSS ' . $TITLE) .
-      navItem('?virtual_network=GSN', 'GSN ' . $TITLE);
+      navItem('?virtual_network=ANSS', 'ANSS Status') .
+      navItem('?virtual_network=GSN', 'GSN Status');
   }
 ?>
