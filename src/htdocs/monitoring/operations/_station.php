@@ -32,7 +32,7 @@ if (!isset($TEMPLATE)) {
   $heliplotThumb = $NETOPS_HELIPLOT_URL . '/' .
       $properties['station_code'] . '.png';
   $heliplotPage = $NETOPS_HELIPLOT_URL . '/' .
-      $properties['station_code_24hr.html'];
+      $properties['station_code'] . '_24hr.html';
 
   $latencyUrl = $NETOPS_LATENCY_URL . '/' .
       $properties['network_code'] . $properties['station_code'] . '.gif';
