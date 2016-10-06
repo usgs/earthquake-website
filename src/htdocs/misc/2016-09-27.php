@@ -18,7 +18,7 @@
 
 <p>
   <h2>UPDATE on Oct. 6 2016</h2>
-   The likelihood of a large earthquake on the southern San Andreas Fault near the Salton Sea has returned to the typical long-term level.
+   The earthquake activity near Brawley has subsided, and the likelihood of a large earthquake on the southern San Andreas Fault near the Salton Sea has returned to the typical long-term level.
  </p>
 
 <h2>As reported on 09/30/2016</h2>
