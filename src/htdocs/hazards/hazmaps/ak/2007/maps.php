@@ -135,15 +135,11 @@
 		</table>
 	</div>
 	 <!-- 09/23/09  EMM: Waiting on Hazard Curve Files from Oliver */ -->
-	<!--
 	<div class="column one-of-three">
 		<h2>Select Hazard Curves</h2>
-
 		<a href="ftp://hazards.cr.usgs.gov/web/nshm/ak/2007/maps/curves/juneau.pdf" title="Download full size Juneau"
 			><img src="ftp://hazards.cr.usgs.gov/web/nshm/ak/2007/maps/curves/juneau.png" alt="Juneau"/></a>
 		<a href="ftp://hazards.cr.usgs.gov/web/nshm/ak/2007/maps/curves/anchorage.pdf" title="Download full size Anchorage"
 			><img src="ftp://hazards.cr.usgs.gov/web/nshm/ak/2007/maps/curves/anchorage.png" alt="Anchorage"/></a>
-
 	</div>
-	-->
 </div>
