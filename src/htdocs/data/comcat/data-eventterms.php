@@ -434,10 +434,6 @@
               the multiplicative product rigidity of faulted rock x area of
               fault rupture x average fault displacement during the earthquake.
             </p>
-            <p>
-              <a href="/aboutus/docs/020204mag_policy.php">U.S. Geological
-              Survey Earthquake Magnitude Policy</a>
-            </p>
           </dd>
         </dl>
       </dd>
