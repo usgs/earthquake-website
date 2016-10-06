@@ -2,7 +2,7 @@
   // Author: Lisa Wald
   // Contact: Donyelle Davis
     if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquakes in the Brawley Seismic Zone: Updated 09/30/2016
+      $TITLE = 'Earthquakes in the Brawley Seismic Zone: Updated 10/06/2016
 ';
       $NAVIGATION = true;
       include 'template.inc.php';
@@ -16,6 +16,12 @@
   </figcaption>
 </figure>
 
+<p>
+  <h2>UPDATE on Oct. 6 2016</h2>
+   The likelihood of a large earthquake on the southern San Andreas Fault near the Salton Sea has returned to the typical long-term level.
+ </p>
+
+<h2>As reported on 09/30/2016</h2>
 <p>
   An earthquake swarm near Bombay Beach, California, started on Sept. 26, 2016, in the Brawley Seismic Zone, which lies near the southern terminus of the San Andreas Fault.
 </p>
