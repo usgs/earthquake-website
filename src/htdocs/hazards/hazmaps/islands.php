@@ -28,9 +28,9 @@
   The U.S. Geological Survey completed its most recent probabilistic seismic hazard assessment for Puerto Rico and the U.S. Virgin Island in 2003. Included are the maps and data results of this study. Although the source code is currently unavailable, we present several pieces of software related to this study.
 </p>
 <ul>
-  <li><a href="prvi/2003/maps/">Maps</a></li>
-  <li><a href="prvi/2003/data/">Data</a></li>
-  <li><a href="prvi/2003/software/">Software</a></li>
+  <li><a href="prvi/2003/maps.php">Maps</a></li>
+  <li><a href="prvi/2003/data.php">Data</a></li>
+  <li><a href="prvi/2003/software.php">Software</a></li>
   <li><a href="https://pubs.er.usgs.gov/publication/70034189">Documentation</a></li>
 </ul>
 
@@ -41,7 +41,7 @@
 </p>
 	<h3>2012</h3>
 	<ul>
-		<li><a href="samoapacific/2012/data/">Maps and Data</a></li>
-    <li><a href="samoapacific/2012/software/">Software</a></li>
+		<li><a href="samoapacific/2012/data.php">Maps and Data</a></li>
+    <li><a href="samoapacific/2012/software.php">Software</a></li>
 		<li><a href="http://pubs.usgs.gov/of/2012/1087/">Documentation</a></li>
 	</ul>

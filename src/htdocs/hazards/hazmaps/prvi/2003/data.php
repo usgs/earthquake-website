@@ -104,7 +104,7 @@
 		</table>
 	</div>
 	<div class="column one-of-three">
-		<h2>More About File Formats</h2>
+		<h2>File Formats</h2>
 		<p>
 			<strong>Text File Formats</strong><br />
 			These files are simple white-space delimited files. The format should be

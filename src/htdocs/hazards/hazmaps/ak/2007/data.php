@@ -162,44 +162,42 @@
 	</table>
   </div>
 	<div class="column one-of-three">
-		<h2>More About File Formats</h2>
-		<p>
-			<strong>Text File Formats</strong><br />
-			These files are simple white-space delimited files. The format should be
-			fairly easy to decipher without much guidance.
-		</p>
-		<p>
-			<strong>Binary File Formats</strong><br />
-			These files were created from the text files and have the same format. In
-			order to help with programatic reading of these files there is additional
-			header information at the top of these files. Header information contains:
-		</p>
-		<ul>
-			<li>
+    <h2>File Formats</h2>
+    <p>
+      <h3>Text File Formats</h3>
+      These files are simple white-space delimited files. The format should be
+      farily easy to decipher without much guidance.
+    </p>
+    <p>
+      <h3>Binary File Formats</h3>
+      These files were created from the text files and have the same format. In
+      order to help with programatic reading of these files there is additional
+      header information at the top of these files. Header information contains:
+    </p>
+    <ul>
+      <li>
         FileType (int)<br/>
-				0 &rarr; Hazard Curve File<br/>
-				1 &rarr; Ground Motion File
-			</li>
-			<li>Minimum Latitude (double)</li>
-			<li>Maximum Latitude (double)</li>
-			<li>Minimum Longitude (double)</li>
-			<li>Maximum Longitude (double)</li>
-			<li>
-				Grid Spacing (double)<br/>
-				The decimal degree increment between adjacent latitudes/longitudes
-			</li>
-			<li>
-				Num Curve Points (int)<br/>
-				The number of points per hazard curve. This value is only present
-				in hazard curve files.
-			</li>
-		</ul>
-		<p>
-			For convenience we provide sample binary file readers for potential
-			developers to examine the source and get a better idea of how to read the
-			file format. <a href="ftp://hazards.cr.usgs.gov/web/nshm/ak/2007/data/AKParser.jar" >Download our reader</a> (requires
-			<a target="_blank" href="http://www.java.com">Java</a>&trade;). To use
-			this application, open a command line terminal and type: <code>java -jar
-			AKParser.jar &lt;datafile&gt;</code>.
+        0 &rarr; Hazard Curve File<br/>
+        1 &rarr; Ground Motion File<br/>
+      </li>
+      <li>Minimum Latitude (double)</li>
+      <li>Maximum Latitude (double)</li>
+      <li>Minimum Longitude (double)</li>
+      <li>Maximum Longitude (double)</li>
+      <li>
+        Grid Spacing (double) - The decimal degree increment between adjacent latitudes/longitudes
+      </li>
+      <li>
+        Num Curve Points (int) - The number of points per hazard curve. This value is only present
+          in hazard curve files.
+      </li>
+    </ul>
+    <p>
+      For convenience we provide sample binary file readers for potential
+      developers to examine the source and get a better idea of how to read the
+      file format. <a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data/USParser.jar" >Download our reader</a> (requires
+      <a target="_blank" href="http://www.java.com">Java</a>&trade;). To use
+      this application, open a command line terminal and type: <code>java -jar
+      HIParser.jar &lt;datafile&gt;</code>.
 	</div>
 </div>
