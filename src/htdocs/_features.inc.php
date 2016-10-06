@@ -67,10 +67,10 @@ $EQ_FEATURES->baseUrl = '';
 
  $EQ_FEATURES->items[] = array(
    'id' => '2016-09-27brawley',
-   'title' => 'Earthquakes in the Brawley Seismic Zone: Updated 09/30/2016',
+   'title' => 'Earthquakes in the Brawley Seismic Zone: Updated 10/06/2016',
    'content' => 'An earthquake swarm near Bombay Beach, California, started on 2016 Sept. 26 at 4:03 am (PDT) in the Brawley Seismic Zone, which lies near the southern terminus of the San Andreas Fault.',
    'link' => 'https://earthquake.usgs.gov/misc/2016-09-27.php',
-   'modified' => strtotime('2016-09-30'),
+   'modified' => strtotime('2016-10-06'),
    'thumbnail' => '/misc/images/2016-09-30.gif',
    'image' => '/misc/images/2016-09-30.gif'
  );
