@@ -3,7 +3,7 @@
       //	Contact:
       //	Last	modified:	10/4/2016
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Software';
+      $TITLE	=	'Alaska Software';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }

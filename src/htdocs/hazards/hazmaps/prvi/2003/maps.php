@@ -1,9 +1,8 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	09/21/2016
+      //	Contact: Mark Peterson
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Maps';
+      $TITLE	=	'Puerto Rico and the U.S. Virgin Islands Maps';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
