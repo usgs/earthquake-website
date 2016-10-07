@@ -1,9 +1,8 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	09/21/2016
+      //	Contact: Mark Peterson
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Maps';
+      $TITLE	=	'Hawaii Maps';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
@@ -12,9 +11,7 @@
 	<div class="column two-of-three">
 		<h2>Mapped Ground Motion Hazard Values</h2>
 		<p>
-			In this release of hazard maps we present eight maps with varying
-			parameters available for download below. Each of these maps were produced
-			assuming firm rock soil conditions at 760 m/sec.
+			Each of these maps were produced assuming firm rock soil conditions at 760 m/sec.
 		</p>
 		<table>
 			<thead>
