@@ -68,8 +68,8 @@ class Features {
 
     $r = '';
     $r .= '<ul class="no-style separator linklist">';
+    $r .=   $this->getItemHtml($items[0]);
     $r .=   $this->getItemHtml($items[1]);
-    $r .=   $this->getItemHtml($items[2]);
     /* $r .=   $this->getItemHtml($items[3]); */
     $r .= '</ul>';
 
