@@ -56,16 +56,6 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
-   'id' => 'latest-eqs',
-   'title' => 'Latest Earthquakes',
-   'content' => 'Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.',
-   'link' => 'earthquakes/map/',
-   'modified' => strtotime('2016-06-01'),
-   'thumbnail' => '/images-home/latesteqs.jpg',
-   'image' => '/images-home/latesteqs.jpg'
- );
-
- $EQ_FEATURES->items[] = array(
    'id' => '2016-09-27brawley',
    'title' => 'Earthquakes in the Brawley Seismic Zone: Updated 10/06/2016',
    'content' => 'An earthquake swarm near Bombay Beach, California, started on 2016 Sept. 26 at 4:03 am (PDT) in the Brawley Seismic Zone, which lies near the southern terminus of the San Andreas Fault.',
