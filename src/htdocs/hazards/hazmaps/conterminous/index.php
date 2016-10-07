@@ -25,6 +25,7 @@
   </li>
 </ul>
 
+<hr/>
 <h2 id="2014">2014</h2>
 
 <p>
@@ -79,6 +80,7 @@
     <li><a href="http://www.wgcep.org/">Working Group on California Earthquake Probabilities (WGCEP)</a></li>
   </ul>
 
+<hr/>
 <h2 id="2008">2008</h2>
 
 <p>
@@ -116,6 +118,7 @@
   </li>
 </ul>
 
+<hr/>
 <h2 id="2002">2002</h2>
 
 <p>
@@ -131,12 +134,13 @@
 
 <h3>Additional Information</h3>
 <ul>
-  <li><a href="http://geopubs.wr.usgs.gov/open-file/of02-123/">Implosion, Earthquake, and Explosion Recordings from the 2000 Seattle Kingdome Seismic Hazards Investigation of Puget Sound (SHIPS), Washington</a> (USGS OFR 02-123)</li>
-  <li><a href="http://pubs.usgs.gov/of/2002/ofr-02-0073/ofr-02-0073.html">Investigation of an Earthquake Swarm near Trinidad, Colorado, August-October 2001</a> (USGS OFR 02-0073)</li>
   <li><a href="2002/update_2002apr.php">Revision I, April 2003</a></li>
   <li><a href="2002/update_2002oct.php">Revision II, October 2003</a></li>
+  <li><a href="http://geopubs.wr.usgs.gov/open-file/of02-123/">Implosion, Earthquake, and Explosion Recordings from the 2000 Seattle Kingdome Seismic Hazards Investigation of Puget Sound (SHIPS), Washington</a> (USGS OFR 02-123)</li>
+  <li><a href="http://pubs.usgs.gov/of/2002/ofr-02-0073/ofr-02-0073.html">Investigation of an Earthquake Swarm near Trinidad, Colorado, August-October 2001</a> (USGS OFR 02-0073)</li>
 </ul>
 
+<hr/>
 <h2 id="1996">1996</h2>
 
 <p>
