@@ -4,7 +4,7 @@
     $HEAD = '<link rel="stylesheet" href="index.css"/>';
     $SCRIPTS = 'browser.js';
     $NAVIGATION = true;
-    $base = '/hazards/designmaps/downloads/datasets';
+    $base = 'ftp://hazards.cr.usgs.gov/web/earthquake-designmaps/datasets';
     $FOOT = '<script src="/lib/hazdev-webutils.js"></script>' .
             '<script src="index.js"></script>';
     include 'template.inc.php';
