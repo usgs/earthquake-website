@@ -1,0 +1,36 @@
+.divider {
+  margin-top:2em;
+  padding-top:2em;
+  border-top:1px solid #333;
+}
+section h3 {
+  background: url("/template/images/bg-headers3.gif") repeat-x scroll left -5px #EBEAE3;
+  clear: both;
+  color: #3A2F20;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 1.5;
+  padding: 3px 6px 2px;
+}
+
+section ul {
+  margin-bottom: 0.5em;
+  margin-top: 0.3em;
+}
+
+section ul li {
+  display: block;
+  padding-bottom: 0.3em;
+  padding-right: 1em;
+}
+
+section .download-links {
+  float: right;
+  font-size: 0.9em;
+}
+
+section .description {
+  color: #666;
+  font-size: 0.9em;
+  margin: 0.5em;
+}
