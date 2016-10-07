@@ -3,3 +3,8 @@
   padding-left: 1em;
   padding-bottom: 1em;
 }
+.left {
+  float: left;
+  padding-right: 1em;
+  padding-bottom: 1em;
+}
