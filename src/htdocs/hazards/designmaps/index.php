@@ -33,11 +33,11 @@
 </p>
 
 <i><ul>
-	<li>2013 ASCE/SEI 41</li>
-	<li>2012/09/06 International Building Code</li>
-	<li>2010/05 ASCE/SEI 7 Standard</li>
-	<li>2009/03 NEHRP Recommended Seismic Provisions</li>
-	<li>2009 AASHTO Guide Specifications for LRFD Seismic Bridge Design</li>
+  <li>2013 ASCE/SEI 41</li>
+  <li>2012/09/06 International Building Code</li>
+  <li>2010/05 ASCE/SEI 7 Standard</li>
+  <li>2009/03 NEHRP Recommended Seismic Provisions</li>
+  <li>2009 AASHTO Guide Specifications for LRFD Seismic Bridge Design</li>
 </ul></i>
 
 <p>
@@ -48,7 +48,7 @@
 <h4><a href="/designmaps/beta/us/">U.S. Seismic Design Maps (Beta)</a></h4>
 
 <p>
-	This Beta version of the <i>U.S. Seismic Design Maps</i> application will
+  This Beta version of the <i>U.S. Seismic Design Maps</i> application will
   eventually replace the current version of the application (see above entry)
   after all of the currently-referenced design code editions are ported over to
   it. Currently, the Beta version of the application provides parameter values
