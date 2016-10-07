@@ -1,10 +1,10 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:
-      //  Last  modified:  10/6/2016
+      //  Contact: Mark Peterson
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Foreign Hazard Maps';
       $NAVIGATION  = true;
+      $HEAD = '<link rel="stylesheet" href="styles.css"/>';
       include  'template.inc.php';
       }
 ?>
@@ -12,7 +12,7 @@
   <div class="column two-of-three">
 
   	<h2>Afghanistan</h2>
-  	<img src="images/afghanistan.gif" alt="Afghanistan" />
+  	<img class="right" src="images/afghanistan.gif" alt="Afghanistan"/>
   	<ul>
   		<li><a href="afghanistan/maps.php">Maps</a></li>
   		<li><a href="afghanistan/data.php">Data</a></li>
@@ -36,11 +36,9 @@
   	</ul>
 
   	<h2>Southeast Asia</h2>
-  	<img src="images/sumatra.gif" alt="Sumatra" />
+  	<img class='right' src="images/sumatra.gif" alt="Sumatra"/>
   	<ul>
-  		<li><a href="../images/WIndoSH.pdf">Earthquake Summary Poster</a></li>
-  		<li><a href="../images/SEASIA_2007.pdf">Documentation</a></li>
-      <li>Reference:<br/><i>Petersen, M. D., Dewey, J., Hartzell, S., Mueller, C., Harmsen, S., Frankel, A., & Rukstales, K. (2004). Probabilistic seismic hazard analysis for Sumatra, Indonesia and across the Southern Malaysian Peninsula. Tectonophysics,390(1), 141-158.</i></li>
+  		<li><a href="/hazards/products/images/SEASIA_2007.pdf">Documentation</a></li>
   	</ul>
   	<p>
   		The ground motion hazard for Sumatra and the Malaysian peninsula is
@@ -56,12 +54,12 @@
   		earthquakes, subduction zone deep intraslab earthquakes, strike-slip
   		transform earthquakes, and intraplate earthquakes.
   	</p>
+    <p>
+      Reference:<br/><i>Petersen, M. D., Dewey, J., Hartzell, S., Mueller, C., Harmsen, S., Frankel, A., & Rukstales, K. (2004). Probabilistic seismic hazard analysis for Sumatra, Indonesia and across the Southern Malaysian Peninsula. Tectonophysics,390(1), 141-158.</i>
+    </p>
 
   	<h2>State of Gujarat, India</h2>
-  	<img src="images/gujarat.gif" alt="India" />
-  	<ul>
-  		<li>Reference:<br/><i>Petersen, M. D., Rastogi, B. K., Schweig, E. S., Harmsen, S. C., & Gomberg, J. S. (2004). Sensitivity analysis of seismic hazard for the northwestern portion of the state of Gujarat, India. Tectonophysics, 390(1), 105-115.</i></li>
-  	</ul>
+  	<img class='right' src="images/gujarat.gif" alt="India"/>
   	<p>
   		We test the sensitivity of seismic hazard to three fault source
   		models for the northwestern portion of Gujarat, India. The models
@@ -73,11 +71,14 @@
   		past two centuries and for earthquakes in intraplate environments
   		like the New Madrid region in the central United States.
   	</p>
+    <p>
+      Reference:<br/><i>Petersen, M. D., Rastogi, B. K., Schweig, E. S., Harmsen, S. C., & Gomberg, J. S. (2004). Sensitivity analysis of seismic hazard for the northwestern portion of the state of Gujarat, India. Tectonophysics, 390(1), 105-115.</i>
+    </p>
 
   	<h2>South America</h2>
-  	<img src="images/southamerica_sm.jpg" alt="South America" />
+  	<img class='right' src="images/southamerica.jpg" alt="South America" />
   	<ul>
-  		<li><a href="SAmer-Proceedings2010.pdf">2010 Conference Proceedings</a></li>
+  		<li><a href="images/SAmer-Proceedings2010.pdf">2010 Conference Proceedings</a></li>
   	</ul>
   	<p>The USGS has developed a preliminary seismic hazard model using available
   		 seismic catalogs, fault databases, and hazard methodologies to help
@@ -96,9 +97,7 @@
   <div class="column one-of-three">
   	<h2>Related Links</h2>
   	<ul>
-  		<li><a href="/hazards/designmaps/wwdesign.php"
-  				>Online Worldwide DesignMaps Web Application</a></li>
-  		<li><a href="seisrisk/">SeisRisk III</a> - Pre-1996 US Hazard Maps and outside US hazard maps</li>
+  		<li><a href="seisrisk.php">SeisRisk III</a> - Pre-1996 US Hazard Maps and outside US hazard maps</li>
   		<li><a href="http://www.globalquakemodel.org/" target="_blank"
   				>Global Earthquake Model (GEM)</a></li>
   		<li><a href="http://www.seismo.ethz.ch/gshap/" target="_blank"
