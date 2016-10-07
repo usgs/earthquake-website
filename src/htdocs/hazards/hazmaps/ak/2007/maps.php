@@ -3,7 +3,7 @@
       //	Contact:
       //	Last	modified:	10/4/2016
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Maps';
+      $TITLE	=	'Alaska Maps';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }

@@ -31,16 +31,9 @@
 <ul>
 	<li><a href="2007/maps.php">Maps</a></li>
 	<li><a href="2007/data.php">Data</a></li>
+  <li><a href="2007/curves.php">Hazard Curves</a></li>
 	<li><a href="2007/software.php">Software</a></li>
 	<li><a href="http://pubs.usgs.gov/of/2007/1043/">Documentation</a></li>
-</ul>
-
-<h3>Additional Information</h3>
-<ul>
-	<li><a href="/regional/states/index.php?regionID=3"
-		>Alaska Earthquake Information</a></li>
-	<li><a href="http://www.avo.alaska.edu/"
-		target="_blank">Alaska Volcano Observatory</a></li>
 </ul>
 
 <h2 id="1999">1999</h2>
@@ -63,9 +56,5 @@
 <h3>Additional Information</h3>
 <ul>
 	<li><a href="http://pubs.usgs.gov/imap/i-2679/"
-		>Miscellaneous Investigations</a></li>
-	<li><a href="/regional/states/index.php?regionID=3"
-		>Alaska Earthquake Information</a></li>
-	<li><a href="http://www.avo.alaska.edu/"
-		target="_blank">Alaska Volcano Observatory</a></li>
+		>Seismic-Hazard Maps for Alaska and the Aleutian Islands</a> - USGS Misc Investigations I-2679</li>
 </ul>

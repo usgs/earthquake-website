@@ -3,7 +3,7 @@
       //	Contact:
       //	Last	modified:	10/3/2016
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Hazard Curves';
+      $TITLE	=	'Alaska Hazard Curves';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }

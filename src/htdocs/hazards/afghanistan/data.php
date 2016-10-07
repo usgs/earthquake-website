@@ -19,7 +19,7 @@
 
 <div class="row">
 	<div class="column one-of-two">
-		<h2>Download Files Sets</h2>
+		<h2>Data Sets</h2>
 		<ul class="no-style">
 			<li>
 				<a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/HazardCurveAfghanistan-Text.zip">Download All Text Hazard Curve Files (26 MB)</a>
@@ -37,22 +37,22 @@
 	</div>
 
 	<div class="column one-of-two">
-		<h2>More Information About Files</h2>
+		<h2>File Formats</h2>
 		<ul class="no-style">
 			<li>
-				<a href="#gm_text">About ground motion text format</a>
+				<a href="#gm_text">Ground Motion Text Format</a>
 			</li>
 			<li>
-				<a href="#gm_binary">About ground motion binary format</a>
+				<a href="#gm_binary">Ground Motion Binary Format</a>
 			</li>
 			<li>
-				<a href="#hc_text">About hazard curve text format</a>
+				<a href="#hc_text">Hazard Curve Text Format</a>
 			</li>
 			<li>
-				<a href="#hc_binary">About hazard curve binary format</a>
+				<a href="#hc_binary">Hazard Curve Binary Format</a>
 			</li>
 			<li>
-				<a href="#hc_types">More about hazard curve files types</a>
+				<a href="#hc_types">Hazard Curve File Types</a>
 			</li>
 		</ul>
 	</div>
@@ -60,7 +60,7 @@
 
 <div class="row">
 	<div class="column one-of-one">
-		<h2>Download Individual Files</h2>
+		<h2>Individual Data Files</h2>
 		<table>
 			<thead>
 				<tr>
@@ -310,7 +310,7 @@
 	</div>
 </div>
 
-<h2 id="fileformats">About File Formats</h2>
+<h2 id="fileformats">File Formats</h2>
 <div class="row">
 	<div class="column one-of-two">
 		<h3 id="gm_binary">Ground Motion Binary Files</h3>

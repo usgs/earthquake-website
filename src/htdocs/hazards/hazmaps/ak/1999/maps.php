@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	09/27/2016
+      //	Contact: Mark Peterson
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Maps';
       $NAVIGATION	= true;

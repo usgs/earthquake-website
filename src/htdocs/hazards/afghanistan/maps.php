@@ -3,19 +3,18 @@
       //	Contact:
       //	Last	modified:	10/4/2016
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Afghanistan Figures';
+      $TITLE	=	'Afghanistan Maps';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
 ?>
 <p>
-	In this release of the hazard maps, we present three maps with varying
+	Provided are maps with varying
 	probabilities of exceedance available for download below. Each of these maps
 	were produced assuming firm rock soil conditions with a shear wave velocity
 	in the upper 30 meters of 760 m/sec.
 </p>
 
-<h2>Download</h2>
 <figure class="left">
 	<img src="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/maps/thumbs/1Hz10p50.png" alt="">
 	<p>
