@@ -24,7 +24,7 @@
         <li>
           <span class="download-title">Conterminous US</span>
           <span class="download-text">
-            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
+            0.2 s and 1.0 s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
             Mean PGA (MCE<sub>G</sub>) Ground Motions (0.05&deg; gridded
             data, 24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
           </span>
@@ -37,7 +37,7 @@
         </li>
         <li>
           <span class="download-text">
-            0.2s Risk Coefficient (0.01&deg; gridded data, 24.6&deg;-50&deg;
+            0.2 s Risk Coefficient (0.01&deg; gridded data, 24.6&deg;-50&deg;
             N, 125&deg;-65&deg; W)
           </span>
           <ul class="download-format">
@@ -50,7 +50,7 @@
         </li>
         <li>
           <span class="download-text">
-            1.0s Risk Coefficient (0.01&deg; gridded data, 24.6&deg;-50&deg;
+            1.0 s Risk Coefficient (0.01&deg; gridded data, 24.6&deg;-50&deg;
             N, 125&deg;-65&deg; W)
           </span>
           <ul class="download-format">
@@ -65,7 +65,7 @@
         <li>
           <span class="download-title">Alaska</span>
           <span class="download-text">
-            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
+            0.2 s and 1.0 s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
             Mean PGA (MCE<sub>G</sub>) Ground Motions (0.05&deg; gridded
             data, 48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
           </span>
@@ -78,7 +78,7 @@
         </li>
         <li>
           <span class="download-text">
-            0.2s Risk Coefficient (0.05&deg; gridded data, 48&deg;-72&deg; N,
+            0.2 s Risk Coefficient (0.05&deg; gridded data, 48&deg;-72&deg; N,
             160&deg; E - 125.1&deg; W)
           </span>
           <ul class="download-format">
@@ -91,7 +91,7 @@
         </li>
         <li>
           <span class="download-text">
-            1.0s Risk Coefficient (0.05&deg; gridded data, 48&deg;-72&deg; N,
+            1.0 s Risk Coefficient (0.05&deg; gridded data, 48&deg;-72&deg; N,
             160&deg; E - 125.1&deg; W)
           </span>
           <ul class="download-format">
@@ -106,7 +106,7 @@
         <li>
           <span class="download-title">Hawaii</span>
           <span class="download-text">
-            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
+            0.2 s and 1.0 s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
             Mean PGA (MCE<sub>G</sub>) Ground Motions (0.02&deg; gridded
             data, 18&deg;-23&deg; N, 161&deg;-154&deg; W)
           </span>
@@ -119,7 +119,7 @@
         </li>
         <li>
           <span class="download-text">
-            0.2s Risk Coefficient (0.02&deg; gridded data, 18&deg;-23&deg; N,
+            0.2 s Risk Coefficient (0.02&deg; gridded data, 18&deg;-23&deg; N,
             161&deg;-154&deg; W)
           </span>
           <ul class="download-format">
@@ -132,7 +132,7 @@
         </li>
         <li>
           <span class="download-text">
-            1.0s Risk Coefficient (0.02&deg; gridded data, 18&deg;-23&deg; N,
+            1.0 s Risk Coefficient (0.02&deg; gridded data, 18&deg;-23&deg; N,
             161&deg;-154&deg; W)
           </span>
           <ul class="download-format">
@@ -147,7 +147,7 @@
         <li>
           <span class="download-title">Puerto Rico/U.S. Virgin Islands</span>
           <span class="download-text">
-            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
+            0.2 s and 1.0 s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
             Mean PGA (MCE<sub>G</sub>) Ground Motions (0.01&deg; gridded
             data, 17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
           </span>
@@ -160,7 +160,7 @@
         </li>
         <li>
           <span class="download-text">
-            0.2s Risk Coefficient (0.01&deg; gridded data, 17.5&deg;-19&deg;
+            0.2 s Risk Coefficient (0.01&deg; gridded data, 17.5&deg;-19&deg;
             N, 67.5&deg;-64.5&deg; W)
           </span>
           <ul class="download-format">
@@ -173,7 +173,7 @@
         </li>
         <li>
           <span class="download-text">
-            1.0s Risk Coefficient (0.01&deg; gridded data, 17.5&deg;-19&deg;
+            1.0 s Risk Coefficient (0.01&deg; gridded data, 17.5&deg;-19&deg;
             N, 67.5&deg;-64.5&deg; W)
           </span>
           <ul class="download-format">

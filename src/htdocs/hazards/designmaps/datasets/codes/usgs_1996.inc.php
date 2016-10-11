@@ -6,7 +6,7 @@
         <li>
           <span class="download-title">Conterminous US</span>
           <span class="download-text">
-            0.2s, 1.0s MCE Ground Motion (0.1&deg; gridded data,
+            0.2 s, 1.0s MCE Ground Motion (0.1&deg; gridded data,
             24.6&deg;–50&deg; N, 125&deg;–65&deg; W)
           </span>
           <ul class="download-format">
@@ -23,7 +23,7 @@
         <li>
           <span class="download-title">California/Nevada</span>
           <span class="download-text">
-            0.2s, 1.0s MCE Ground Motion (0.01&deg; gridded data,
+            0.2 s, 1.0s MCE Ground Motion (0.01&deg; gridded data,
             32&deg;–43&deg; N, 125&deg;–111&deg; W)
           </span>
           <ul class="download-format">
