@@ -11,6 +11,16 @@
   }
 ?>
 
+<nav class="jumplist">
+  <a href="#ibc-2012">2012 IBC</a>
+  <a href="#asce7-2010">ASCE 7-10</a>
+  <a href="#nehrp-2009">2009 NEHRP</a>
+  <a href="#usgs-2002">ASCE 7-05, 2006/09 IBC</a>
+  <a href="#irc-2006_2009">2006/09 IRC</a>
+  <a href="#usgs-1996">ASCE 7-98/02, 2000/03 IBC</a>
+  <a href="#irc-2000_2003">2000/03 IRC</a>
+</nav>
+
 <h2>Derived from 2008 USGS Hazard Data</h2>
 <?php
   include_once 'codes/ibc_2012.inc.php';
