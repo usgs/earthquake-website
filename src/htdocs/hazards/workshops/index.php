@@ -12,12 +12,9 @@
   Please read the <a href="#workshop_disclaimer">disclaimer</a> at the bottom of the page about the content of these presentations.
 </p>
 
-<h2>Workshops for the 2014 and 2016 National Hazard Maps</h2>
+<h2>Workshops for the 2014 National Hazard Maps</h2>
 
 <ul>
-  <li>
-    <a href="https://sslearthquake.usgs.gov/regional/ceus/workshop/">Workshop on Hazard from Induced Seismicity</a> - November 17-19, 2014
-  </li>
   <li>
     <a href="GMPE2012/">Ground Motion Workshop</a> - December 12-13, 2012
   </li>
@@ -40,9 +37,6 @@
   </li>
   <li>
     <a href="externalReview/">External review panel</a> - May 2007
-  </li>
-  <li>
-    <a href="thailand/">Thailand Seismic Hazards</a> - January 2007
   </li>
   <li>
     End-User Workshop <a target="_blank"
@@ -79,6 +73,17 @@
   </li>
   <li>
     Alaska Workshop - May 2005
+  </li>
+</ul>
+
+<h2>Workshops for Other Seismic Hazard Maps</h2>
+
+<ul>
+  <li>
+  <a href="induced/">Workshop on Hazard from Induced Seismicity</a> - November 17-19, 2014
+  </li>
+  <li>
+  <a href="thailand/">Thailand Seismic Hazards</a> - January 2007
   </li>
 </ul>
 
