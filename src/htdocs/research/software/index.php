@@ -42,6 +42,7 @@
   <a href="#PQLX">PQLX</a>
   <a href="#probab">Probabilistic Seismic Hazard Calculation Software</a>
   <a href="#SATSI">SATSI</a>
+  <a href="#SeisRisk">SeisRisk III</a>
   <a href="#shake">ShakeCast</a>
   <a href="#Slick">Slick Package</a>
   <a href="#SLAMMER">SLAMMER</a>
@@ -1220,6 +1221,39 @@ also supports negative magnitudes, independent S models, and crustal models from
       SATSI (Spatial And Temporal Stress Inversion) is a modified version of Michael's (JGR 1984, 1987) code that inverts focal mechanism data for a spatially and/or temporally varying stress field.  The inversion finds the least complex stress field model that is consistent with the data.  It uses an adaptive smoothing method that discriminates between variations that are or aren't strongly required by the data and retains only variations that are well-resolved.  The technique is described and validated in Hardebeck and Michael (JGR 111, B11310, doi:10.1029/2005JB004144, 2006.)  The tar file contains C codes implementing the inversion method for 2D and 4D stress fields (1D and 3D fields can be treated as simplified cases), and example input data and Perl scripts.
     </p>
   </li>
+
+  <li>
+    <h2 id="SeisRisk">SeisRisk III</h2>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td>National Seismic Hazard Mapping Group</td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Pre-1996 and outside US seismic hazard maps</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Unix (or any platform with C)</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line / text input files</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Text files</td>
+      </tr>
+        <th>Download:</th>
+        <td><a href="seisrisk.php" >See online documentation</a></td>
+      </tr>
+    </table>
+    <p>
+      Seisrisk III is the last published version of a series of programs used to produce probabilistic earthquake ground motion hazard maps for the United States from 1972 to 1992.
+    </p>
+  </li>
+
   <li>
     <h2 id="shake">ShakeCast &ndash; ShakeMap RSS Reader</h2>
     <a href="shakecast.php">
