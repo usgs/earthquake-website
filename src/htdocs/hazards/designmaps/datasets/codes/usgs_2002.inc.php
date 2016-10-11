@@ -6,7 +6,7 @@
         <li>
           <span class="download-title">Conterminous US</span>
           <span class="download-text">
-            0.2s, 1.0s MCE Ground Motion (0.05&deg; gridded data,
+            0.2 s, 1.0 s MCE Ground Motion (0.05&deg; gridded data,
             24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
           </span>
           <ul class="download-format">
@@ -24,7 +24,7 @@
         <li>
           <span class="download-title">Alaska</span>
           <span class="download-text">
-            0.2s, 1.0s MCE Ground Motion (0.1&deg; gridded data,
+            0.2 s, 1.0 s MCE Ground Motion (0.1&deg; gridded data,
             50&deg;-72&deg; N, 170&deg; E - 130&deg; W)
           </span>
           <ul class="download-format">
@@ -41,7 +41,7 @@
         <li>
           <span class="download-title">California/Nevada</span>
           <span class="download-text">
-            0.2s, 1.0s MCE Ground Motion (0.01&deg; gridded data,
+            0.2 s, 1.0 s MCE Ground Motion (0.01&deg; gridded data,
             32&deg;-42&deg; N, 125&deg;-115&deg; W)
           </span>
           <ul class="download-format">
@@ -58,7 +58,7 @@
         <li>
           <span class="download-title">Hawaii</span>
           <span class="download-text">
-            0.2s, 1.0s MCE Ground Motion (0.02&deg; gridded data,
+            0.2 s, 1.0 s MCE Ground Motion (0.02&deg; gridded data,
             18&deg;-23&deg; N, 161&deg;-154&deg; W)
           </span>
           <ul class="download-format">
@@ -75,7 +75,7 @@
         <li>
           <span class="download-title">Intermountain West</span>
           <span class="download-text">
-            0.2s, 1.0s MCE Ground Motion (0.01&deg; gridded data,
+            0.2 s, 1.0 s MCE Ground Motion (0.01&deg; gridded data,
             40&deg;-45&deg; N, 112&deg;-110&deg; W)
           </span>
           <ul class="download-format">
@@ -92,7 +92,7 @@
         <li>
           <span class="download-title">New Madrid Seismic Zone</span>
           <span class="download-text">
-            0.2s, 1.0s MCE Ground Motion (0.01&deg; gridded data,
+            0.2 s, 1.0 s MCE Ground Motion (0.01&deg; gridded data,
             35&deg;-38&deg; N, 92&deg;-88&deg; W)
           </span>
           <ul class="download-format">
@@ -109,7 +109,7 @@
         <li>
           <span class="download-title">Coastal Pacific Northwest</span>
           <span class="download-text">
-            0.2s, 1.0s MCE Ground Motion (0.01&deg; gridded data,
+            0.2 s, 1.0 s MCE Ground Motion (0.01&deg; gridded data,
             41&deg;-49&deg; N, 125&deg;-123&deg; W)
           </span>
           <ul class="download-format">
@@ -126,7 +126,7 @@
         <li>
           <span class="download-title">Puerto Rico/U.S. Virgin Islands</span>
           <span class="download-text">
-            0.2s, 1.0s MCE Ground Motion (0.05&deg; gridded data,
+            0.2 s, 1.0 s MCE Ground Motion (0.05&deg; gridded data,
             16&deg;-21&deg; N, 70&deg;-62&deg; W)
           </span>
           <ul class="download-format">
