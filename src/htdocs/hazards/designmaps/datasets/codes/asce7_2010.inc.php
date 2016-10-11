@@ -20,130 +20,169 @@
       Recommended Seismic Provisions</cite> data section on this page.
     </p>
     <section>
-      <h4>Conterminous US</h4>
-      <ul>
+      <ul class="no-style">
         <li>
-          0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
-          Mean PGA (MCE<sub>G</sub>) Ground Motions (0.05&deg; gridded
-          data, 24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
-          <span class="download-links">
-            [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-US-Ss-S1-PGA-0p05.txt"
-                title="25Mb">Text</a>]
+          <span class="download-title">Conterminous US</span>
+          <span class="download-text">
+            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
+            Mean PGA (MCE<sub>G</sub>) Ground Motions (0.05&deg; gridded
+            data, 24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-US-Ss-S1-PGA-0p05.txt"
+                  title="25Mb">Text</a>]
+            </li>
+          </ul>
         </li>
         <li>
-          0.2s Risk Coefficient (0.01&deg; gridded data, 24.6&deg;-50&deg;
-          N, 125&deg;-65&deg; W)
-          <span class="download-links">
-            [Download as <a
-            href="<?php print $base; ?>/geo/2010_ASCE-US-0p2s_Risk_Coefficients.txt"
-                title="349Mb">Text</a>]
+          <span class="download-text">
+            0.2s Risk Coefficient (0.01&deg; gridded data, 24.6&deg;-50&deg;
+            N, 125&deg;-65&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2010_ASCE-US-0p2s_Risk_Coefficients.txt"
+                  title="349Mb">Text</a>]
+            </li>
+          </ul>
         </li>
         <li>
-          1.0s Risk Coefficient (0.01&deg; gridded data, 24.6&deg;-50&deg;
-          N, 125&deg;-65&deg; W)
-          <span class="download-links">
-            [Download as <a
-            href="<?php print $base; ?>/geo/2010_ASCE-US-1p0s_Risk_Coefficients.txt"
-                title="349Mb">Text</a>]
+          <span class="download-text">
+            1.0s Risk Coefficient (0.01&deg; gridded data, 24.6&deg;-50&deg;
+            N, 125&deg;-65&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2010_ASCE-US-1p0s_Risk_Coefficients.txt"
+                  title="349Mb">Text</a>]
+            </li>
+          </ul>
         </li>
-      </ul>
-    </section>
-    <section>
-      <h4>Alaska</h4>
-      <ul>
+
         <li>
-          0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
-          Mean PGA (MCE<sub>G</sub>) Ground Motions (0.05&deg; gridded
-          data, 48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
-          <span class="download-links">
-            [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-Alaska-Ss-S1-PGA.txt"
-                title="30Mb">Text</a>]
+          <span class="download-title">Alaska</span>
+          <span class="download-text">
+            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
+            Mean PGA (MCE<sub>G</sub>) Ground Motions (0.05&deg; gridded
+            data, 48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
           </span>
-        </li>
-        <li>
-          0.2s Risk Coefficient (0.05&deg; gridded data, 48&deg;-72&deg; N,
-          160&deg; E - 125.1&deg; W)
-          <span class="download-links">
-            [Download as <a
-            href="<?php print $base; ?>/geo/2010_ASCE-Alaska-0p2s_Risk_Coefficients.txt"
-                title="16Mb">Text</a>]
-          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-Alaska-Ss-S1-PGA.txt"
+                  title="30Mb">Text</a>]
+            </li>
+          </ul>
         </li>
         <li>
-          1.0s Risk Coefficient (0.05&deg; gridded data, 48&deg;-72&deg; N,
-          160&deg; E - 125.1&deg; W)
-          <span class="download-links">
-            [Download as <a
-            href="<?php print $base; ?>/geo/2010_ASCE-Alaska-1p0s_Risk_Coefficients.txt"
-                title="16Mb">Text</a>]
+          <span class="download-text">
+            0.2s Risk Coefficient (0.05&deg; gridded data, 48&deg;-72&deg; N,
+            160&deg; E - 125.1&deg; W)
           </span>
-        </li>
-      </ul>
-    </section>
-    <section>
-      <h4>Hawaii</h4>
-      <ul>
-        <li>
-          0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
-          Mean PGA (MCE<sub>G</sub>) Ground Motions (0.02&deg; gridded
-          data, 18&deg;-23&deg; N, 161&deg;-154&deg; W)
-          <span class="download-links">
-            [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-Hawaii-Ss-S1-PGA.txt"
-                title="3Mb">Text</a>]
-          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2010_ASCE-Alaska-0p2s_Risk_Coefficients.txt"
+                  title="16Mb">Text</a>]
+            </li>
+          </ul>
         </li>
         <li>
-          0.2s Risk Coefficient (0.02&deg; gridded data, 18&deg;-23&deg; N,
-          161&deg;-154&deg; W)
-          <span class="download-links">
-            [Download as <a
-            href="<?php print $base; ?>/geo/2010_ASCE-Hawaii-0p2s_Risk_Coefficients.txt"
-                title="2Mb">Text</a>]
+          <span class="download-text">
+            1.0s Risk Coefficient (0.05&deg; gridded data, 48&deg;-72&deg; N,
+            160&deg; E - 125.1&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2010_ASCE-Alaska-1p0s_Risk_Coefficients.txt"
+                  title="16Mb">Text</a>]
+            </li>
+          </ul>
+        </li>
+
+        <li>
+          <span class="download-title">Hawaii</span>
+          <span class="download-text">
+            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
+            Mean PGA (MCE<sub>G</sub>) Ground Motions (0.02&deg; gridded
+            data, 18&deg;-23&deg; N, 161&deg;-154&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-Hawaii-Ss-S1-PGA.txt"
+                  title="3Mb">Text</a>]
+            </li>
+          </ul>
         </li>
         <li>
-          1.0s Risk Coefficient (0.02&deg; gridded data, 18&deg;-23&deg; N,
-          161&deg;-154&deg; W)
-          <span class="download-links">
-            [Download as <a
-            href="<?php print $base; ?>/geo/2010_ASCE-Hawaii-1p0s_Risk_Coefficients.txt"
-                title="2Mb">Text</a>]
+          <span class="download-text">
+            0.2s Risk Coefficient (0.02&deg; gridded data, 18&deg;-23&deg; N,
+            161&deg;-154&deg; W)
           </span>
-        </li>
-      </ul>
-    </section>
-    <section>
-      <h4>Puerto Rico/U.S. Virgin Islands</h4>
-      <ul>
-        <li>
-          0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
-          Mean PGA (MCE<sub>G</sub>) Ground Motions (0.01&deg; gridded
-          data, 17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
-          <span class="download-links">
-            [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-PRVI-Ss-S1-PGA.txt"
-                title="1Mb">Text</a>]
-          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2010_ASCE-Hawaii-0p2s_Risk_Coefficients.txt"
+                  title="2Mb">Text</a>]
+            </li>
+          </ul>
         </li>
         <li>
-          0.2s Risk Coefficient (0.01&deg; gridded data, 17.5&deg;-19&deg;
-          N, 67.5&deg;-64.5&deg; W)
-          <span class="download-links">
-            [Download as <a
-            href="<?php print $base; ?>/geo/2010_ASCE-Puerto_Rico-US_Virgin_Islands-0p2s_Risk_Coefficients.txt"
-                title="1021kB">Text</a>]
+          <span class="download-text">
+            1.0s Risk Coefficient (0.02&deg; gridded data, 18&deg;-23&deg; N,
+            161&deg;-154&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2010_ASCE-Hawaii-1p0s_Risk_Coefficients.txt"
+                  title="2Mb">Text</a>]
+            </li>
+          </ul>
+        </li>
+
+        <li>
+          <span class="download-title">Puerto Rico/U.S. Virgin Islands</span>
+          <span class="download-text">
+            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) and Geometric
+            Mean PGA (MCE<sub>G</sub>) Ground Motions (0.01&deg; gridded
+            data, 17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-PRVI-Ss-S1-PGA.txt"
+                  title="1Mb">Text</a>]
+            </li>
+          </ul>
         </li>
         <li>
-          1.0s Risk Coefficient (0.01&deg; gridded data, 17.5&deg;-19&deg;
-          N, 67.5&deg;-64.5&deg; W)
-          <span class="download-links">
-            [Download as <a
-            href="<?php print $base; ?>/geo/2010_ASCE-Puerto_Rico-US_Virgin_Islands-1p0s_Risk_Coefficients.txt"
-                title="1021kB">Text</a>]
+          <span class="download-text">
+            0.2s Risk Coefficient (0.01&deg; gridded data, 17.5&deg;-19&deg;
+            N, 67.5&deg;-64.5&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2010_ASCE-Puerto_Rico-US_Virgin_Islands-0p2s_Risk_Coefficients.txt"
+                  title="1021kB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Risk Coefficient (0.01&deg; gridded data, 17.5&deg;-19&deg;
+            N, 67.5&deg;-64.5&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2010_ASCE-Puerto_Rico-US_Virgin_Islands-1p0s_Risk_Coefficients.txt"
+                  title="1021kB">Text</a>]
+            </li>
+          </ul>
         </li>
       </ul>
     </section>

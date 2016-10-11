@@ -17,7 +17,347 @@
       Standard</cite>, and the <cite>2012 International Building Code</cite>.
     </p>
     <section>
-      <h4>Conterminous US</h4>
+      <ul class="no-style">
+        <li>
+          <span class="download-title">Conterminous US</span>
+          <span class="download-text">
+            0.2s Uniform Hazard Ground Motion (0.01&deg; gridded data,
+            24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-0p2s_Uniform_Hazard_Ground_Motion.txt"
+              title="378MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Uniform Hazard Ground Motion (0.01&deg; gridded data,
+            24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-1p0s_Uniform_Hazard_Ground_Motion.txt"
+              title="378MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            0.2s Risk Coefficient (0.01&deg; gridded data,
+            24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-0p2s_Risk_Coefficients.txt"
+              title="349MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Risk Coefficient (0.01&deg; gridded data,
+            24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-1p0s_Risk_Coefficients.txt"
+              title="349MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            0.2s Deterministic Ground Motion (0.01&deg; gridded data,
+            24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-0p2s_Deterministic_Ground_Motion.txt"
+              title="378MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Deterministic Ground Motion (0.01&deg; gridded data,
+            24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-1p0s_Deterministic_Ground_Motion.txt"
+              title="378MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+
+        <li>
+          <span class="download-title">Alaska</span>
+          <span class="download-text">
+            0.2s Uniform Hazard Ground Motion (0.05&deg; gridded data,
+            48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-0p2s_Uniform_Hazard_Ground_Motion.txt"
+              title="378MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Uniform Hazard Ground Motion (0.05&deg; gridded data,
+            48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-1p0s_Uniform_Hazard_Ground_Motion.txt"
+              title="378MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            0.2s Risk Coefficient (0.05&deg; gridded data,
+            48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-0p2s_Risk_Coefficients.txt"
+              title="349MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Risk Coefficient (0.05&deg; gridded data,
+            48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-1p0s_Risk_Coefficients.txt"
+              title="349MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            0.2s Deterministic Ground Motion (0.05&deg; gridded data,
+            48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-0p2s_Deterministic_Ground_Motion.txt"
+              title="378MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Deterministic Ground Motion (0.05&deg; gridded data,
+            48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-1p0s_Deterministic_Ground_Motion.txt"
+              title="378MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+
+        <li>
+          <span class="download-title">Hawaii</span>
+          <span class="download-text">
+            0.2s Uniform Hazard Ground Motion (0.02&deg; gridded data,
+            18&deg;-23&deg; N, 161&deg;-154&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-0p2s_Uniform_Hazard_Ground_Motion.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Uniform Hazard Ground Motion (0.02&deg; gridded data,
+            18&deg;-23&deg; N, 161&deg;-154&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-1p0s_Uniform_Hazard_Ground_Motion.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            0.2s Risk Coefficient (0.02&deg; gridded data,
+            18&deg;-23&deg; N, 161&deg;-154&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-0p2s_Risk_Coefficients.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Risk Coefficient (0.02&deg; gridded data,
+            18&deg;-23&deg; N, 161&deg;-154&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-1p0s_Risk_Coefficients.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            0.2s Deterministic Ground Motion (0.02&deg; gridded data,
+            18&deg;-23&deg; N, 161&deg;-154&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-0p2s_Deterministic_Ground_Motion.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Deterministic Ground Motion (0.02&deg; gridded data,
+            18&deg;-23&deg; N, 161&deg;-154&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-1p0s_Deterministic_Ground_Motion.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+
+        <li>
+          <span class="download-title">Puerto Rico/U.S. Virgin Islands</span>
+          <span class="download-text">
+            0.2s Uniform Hazard Ground Motion (0.01&deg; gridded data,
+            17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-0p2s_Uniform_Hazard_Ground_Motion.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Uniform Hazard Ground Motion (0.01&deg; gridded data,
+            17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-1p0s_Uniform_Hazard_Ground_Motion.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            0.2s Risk Coefficient (0.01&deg; gridded data,
+            17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-0p2s_Risk_Coefficients.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Risk Coefficient (0.01&deg; gridded data,
+            17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-1p0s_Risk_Coefficients.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            0.2s Deterministic Ground Motion (0.01&deg; gridded data,
+            17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
+          </span >
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-0p2s_Deterministic_Ground_Motion.txt"
+              title="2MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="download-text">
+            1.0s Deterministic Ground Motion (0.01&deg; gridded data,
+            17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
+          </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a
+              href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-1p0s_Deterministic_Ground_Motion.txt"
+              title="1MB">Text</a>]
+            </li>
+          </ul>
+        </li>
+      </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <!-- <h4>Conterminous US</h4>
       <ul>
         <li>
           0.2s Uniform Hazard Ground Motion (0.01&deg; gridded data,
@@ -27,8 +367,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-0p2s_Uniform_Hazard_Ground_Motion.txt"
             title="378MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Uniform Hazard Ground Motion (0.01&deg; gridded data,
           24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
           <span class="download-links">
@@ -36,8 +376,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-1p0s_Uniform_Hazard_Ground_Motion.txt"
             title="378MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           0.2s Risk Coefficient (0.01&deg; gridded data,
           24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
           <span class="download-links">
@@ -45,8 +385,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-0p2s_Risk_Coefficients.txt"
             title="349MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Risk Coefficient (0.01&deg; gridded data,
           24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
           <span class="download-links">
@@ -54,8 +394,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-1p0s_Risk_Coefficients.txt"
             title="349MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           0.2s Deterministic Ground Motion (0.01&deg; gridded data,
           24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
           <span class="download-links">
@@ -63,8 +403,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-0p2s_Deterministic_Ground_Motion.txt"
             title="378MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Deterministic Ground Motion (0.01&deg; gridded data,
           24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
           <span class="download-links">
@@ -72,10 +412,10 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-1p0s_Deterministic_Ground_Motion.txt"
             title="378MB">Text</a>]
           </span>
-        </li>
-      </ul>
-    </section>
-    <section>
+        </li> -->
+      <!-- </ul>
+    </section> -->
+    <!-- <section>
       <h4>Alaska</h4>
       <ul>
         <li>
@@ -86,8 +426,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-0p2s_Uniform_Hazard_Ground_Motion.txt"
             title="378MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Uniform Hazard Ground Motion (0.05&deg; gridded data,
           48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
           <span class="download-links">
@@ -95,8 +435,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-1p0s_Uniform_Hazard_Ground_Motion.txt"
             title="378MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           0.2s Risk Coefficient (0.05&deg; gridded data,
           48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
           <span class="download-links">
@@ -104,8 +444,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-0p2s_Risk_Coefficients.txt"
             title="349MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Risk Coefficient (0.05&deg; gridded data,
           48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
           <span class="download-links">
@@ -113,8 +453,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-1p0s_Risk_Coefficients.txt"
             title="349MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           0.2s Deterministic Ground Motion (0.05&deg; gridded data,
           48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
           <span class="download-links">
@@ -122,8 +462,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-0p2s_Deterministic_Ground_Motion.txt"
             title="378MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Deterministic Ground Motion (0.05&deg; gridded data,
           48&deg;-72&deg; N, 160&deg; E - 125.1&deg; W)
           <span class="download-links">
@@ -133,8 +473,8 @@
           </span>
         </li>
       </ul>
-    </section>
-    <section>
+    </section> -->
+    <!-- <section>
       <h4>Hawaii</h4>
       <ul>
         <li>
@@ -145,8 +485,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-0p2s_Uniform_Hazard_Ground_Motion.txt"
             title="2MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Uniform Hazard Ground Motion (0.02&deg; gridded data,
           18&deg;-23&deg; N, 161&deg;-154&deg; W)
           <span class="download-links">
@@ -154,8 +494,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-1p0s_Uniform_Hazard_Ground_Motion.txt"
             title="2MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           0.2s Risk Coefficient (0.02&deg; gridded data,
           18&deg;-23&deg; N, 161&deg;-154&deg; W)
           <span class="download-links">
@@ -163,8 +503,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-0p2s_Risk_Coefficients.txt"
             title="2MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Risk Coefficient (0.02&deg; gridded data,
           18&deg;-23&deg; N, 161&deg;-154&deg; W)
           <span class="download-links">
@@ -172,8 +512,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-1p0s_Risk_Coefficients.txt"
             title="2MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           0.2s Deterministic Ground Motion (0.02&deg; gridded data,
           18&deg;-23&deg; N, 161&deg;-154&deg; W)
           <span class="download-links">
@@ -181,8 +521,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-0p2s_Deterministic_Ground_Motion.txt"
             title="2MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Deterministic Ground Motion (0.02&deg; gridded data,
           18&deg;-23&deg; N, 161&deg;-154&deg; W)
           <span class="download-links">
@@ -192,8 +532,8 @@
           </span>
         </li>
       </ul>
-    </section>
-    <section>
+    </section> -->
+    <!-- <section>
       <h4>Puerto Rico/U.S. Virgin Islands</h4>
       <ul>
         <li>
@@ -204,8 +544,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-0p2s_Uniform_Hazard_Ground_Motion.txt"
             title="2MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Uniform Hazard Ground Motion (0.01&deg; gridded data,
           17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
           <span class="download-links">
@@ -213,8 +553,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-1p0s_Uniform_Hazard_Ground_Motion.txt"
             title="2MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           0.2s Risk Coefficient (0.01&deg; gridded data,
           17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
           <span class="download-links">
@@ -222,8 +562,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-0p2s_Risk_Coefficients.txt"
             title="2MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Risk Coefficient (0.01&deg; gridded data,
           17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
           <span class="download-links">
@@ -231,8 +571,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-1p0s_Risk_Coefficients.txt"
             title="2MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           0.2s Deterministic Ground Motion (0.01&deg; gridded data,
           17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
           <span class="download-links">
@@ -240,8 +580,8 @@
             href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-0p2s_Deterministic_Ground_Motion.txt"
             title="2MB">Text</a>]
           </span>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           1.0s Deterministic Ground Motion (0.01&deg; gridded data,
           17.5&deg;-19&deg; N, 67.5&deg;-64.5&deg; W)
           <span class="download-links">
@@ -250,7 +590,7 @@
             title="1MB">Text</a>]
           </span>
         </li>
-      </ul>
+      </ul> -->
     </section>
   </div>
 </section>

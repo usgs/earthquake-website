@@ -19,65 +19,75 @@
       <cite>2009 NEHRP Recommended Seismic Provisions</cite> data section.
     </p>
     <section>
-      <h4>Conterminous US</h4>
-      <ul>
+      <ul class="no-style">
         <li>
-          0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) Ground Motions
-          (0.01&deg; gridded data, 24.6&deg;-50&deg; N, 125&deg;65&deg; W)
-          <span class="download-links">
-            [Download as <a href="<?php print $base; ?>/geo/2012_IBC-US_Ss_S1-0p01.txt"
-                title="112Mb">Text</a>]
+          <span class="download-title">Conterminous US</span>
+          <span class="download-text">
+            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) Ground Motions
+            (0.01&deg; gridded data, 24.6&deg;-50&deg; N, 125&deg;65&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a href="<?php print $base; ?>/geo/2012_IBC-US_Ss_S1-0p01.txt"
+                  title="112Mb">Text</a>]
+            </li>
+          </ul>
         </li>
         <li>
-          0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) Ground Motions
-          (Short Reference Version: 0.05&deg; gridded data,
-          24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
-          <span class="download-links">
-            [Download as <a href="<?php print $base; ?>/geo/2012_IBC-US_Ss_S1-0p05.txt"
-                title="25Mb">Text</a>]
+          <span class="downlaod-text">
+            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) Ground Motions
+            (Short Reference Version: 0.05&deg; gridded data,
+            24.6&deg;-50&deg; N, 125&deg;-65&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a href="<?php print $base; ?>/geo/2012_IBC-US_Ss_S1-0p05.txt"
+                  title="25Mb">Text</a>]
+            </li>
+          </ul>
         </li>
-      </ul>
-    </section>
-    <section>
-      <h4>Alaska</h4>
-      <ul>
+
         <li>
-          0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) Ground Motions
-          (0.05&deg; gridded data, 48&deg;-72&deg; N, 160&deg; E -
-          125.1&deg; W)
-          <span class="download-links">
-            [Download as <a href="<?php print $base; ?>/geo/2012_IBC-AK_Ss_S1-0p05.txt"
-                title="30Mb">Text</a>]
+          <span class="download-title">Alaska</span>
+          <span class="download-text">
+            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) Ground Motions
+            (0.05&deg; gridded data, 48&deg;-72&deg; N, 160&deg; E -
+            125.1&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a href="<?php print $base; ?>/geo/2012_IBC-AK_Ss_S1-0p05.txt"
+                  title="30Mb">Text</a>]
+            </li>
+          </ul>
         </li>
-      </ul>
-    </section>
-    <section>
-      <h4>Hawaii</h4>
-      <ul>
+
         <li>
-          0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) Ground Motions
-          (0.02&deg; gridded data, 18&deg;-23&deg; N, 161&deg;-154&deg; W)
-          <span class="download-links">
-            [Download as <a href="<?php print $base; ?>/geo/2012_IBC-HI_Ss_S1-0p02.txt"
-                title="3Mb">Text</a>]
+          <span class="download-title">Hawaii</span>
+          <span class="download-text">
+            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) Ground Motions
+            (0.02&deg; gridded data, 18&deg;-23&deg; N, 161&deg;-154&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a href="<?php print $base; ?>/geo/2012_IBC-HI_Ss_S1-0p02.txt"
+                  title="3Mb">Text</a>]
+            </li>
+          </ul>
         </li>
-      </ul>
-    </section>
-    <section>
-      <h4>Puerto Rico/U.S. Virgin Islands</h4>
-      <ul>
         <li>
-          0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) Ground Motions
-          (0.01&deg; gridded data, 17.5&deg;-19&deg; N,
-          67.5&deg;-64.5&deg; W)
-          <span class="download-links">
-            [Download as <a href="<?php print $base; ?>/geo/2012_IBC-PRVI_Ss_S1-0p01.txt"
-                title="1Mb">Text</a>]
+          <span class="download-title">Puerto Rico/U.S. Virgin Islands</span>
+          <span class="download-text">
+            0.2s and 1.0s Risk-Targeted MCE (MCE<sub>R</sub>) Ground Motions
+            (0.01&deg; gridded data, 17.5&deg;-19&deg; N,
+            67.5&deg;-64.5&deg; W)
           </span>
+          <ul class="download-format">
+            <li>
+              [Download as <a href="<?php print $base; ?>/geo/2012_IBC-PRVI_Ss_S1-0p01.txt"
+                  title="1Mb">Text</a>]
+            </li>
+          </ul>
         </li>
       </ul>
     </section>
