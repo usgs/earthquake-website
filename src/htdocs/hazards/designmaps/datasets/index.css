@@ -13,24 +13,21 @@ section h3 {
   padding: 3px 6px 2px;
 }
 
-section ul {
-  margin-bottom: 0.5em;
-  margin-top: 0.3em;
-}
-
-section ul li {
-  display: block;
-  padding-bottom: 0.3em;
-  padding-right: 1em;
-}
-
-section .download-links {
-  float: right;
-  font-size: 0.9em;
-}
-
-section .description {
+/*section .description {
   color: #666;
   font-size: 0.9em;
   margin: 0.5em;
+}*/
+
+.download-title {
+  display: block;
+  font-weight: bold;
+}
+
+.downaload-text {
+
+}
+
+.download-format {
+  list-style: disc;
 }
