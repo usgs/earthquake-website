@@ -9,6 +9,7 @@
     include 'template.inc.php';
   }
 ?>
+
 <form action="/designmaps/rtgm/">
   <input type="submit" value="Use the Calculator">
 </form>
