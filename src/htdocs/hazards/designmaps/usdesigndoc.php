@@ -284,7 +284,7 @@
   <li><code>longitude</code>: Required, should be decimal degrees, with negative
   values west of the prime meridian.</li>
   <li><code>edition</code>:
-    <dl class="options-list">
+    <dl>
       <dt>ibc-2012</dt><dd>2012 International Building Code</dd>
       <dt>asce-2010</dt><dd>ASCE 7-10 Standard</dd>
       <dt>aashto-2009</dt><dd>
@@ -303,7 +303,7 @@
     </ul>
   </li>-->
   <li><code>siteclass</code>:
-    <dl class="options-list">
+    <dl>
       <dt>0</dt><dd>Site Class A</dd>
       <dt>1</dt><dd>Site Class B</dd>
       <dt>2</dt><dd>Site Class C</dd>
@@ -313,7 +313,7 @@
     </dl>
   </li>
   <li><code>riskcategory</code>:
-    <dl class="options-list">
+    <dl>
       <dt>0</dt><dd>Risk Category I</dd>
       <dt>1</dt><dd>Risk Category II</dd>
       <dt>2</dt><dd>Risk Category III</dd>
