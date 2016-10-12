@@ -1,8 +1,9 @@
 .divider {
+  border-top:1px solid #333;
   margin-top:2em;
   padding-top:2em;
-  border-top:1px solid #333;
 }
+
 section h3 {
   background: url("/template/images/bg-headers3.gif") repeat-x scroll left -5px #EBEAE3;
   clear: both;
@@ -13,21 +14,12 @@ section h3 {
   padding: 3px 6px 2px;
 }
 
-/*section .description {
-  color: #666;
-  font-size: 0.9em;
-  margin: 0.5em;
-}*/
-
 .download-title {
   display: block;
   font-weight: bold;
 }
 
-.downaload-text {
-
-}
-
 .download-format {
   list-style: disc;
+  margin-bottom: 1.5em;
 }
