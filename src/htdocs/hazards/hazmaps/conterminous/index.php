@@ -93,9 +93,11 @@
   The new probabilistic hazard maps represent an update of the 2002 seismic hazard maps developed by Frankel and others (2002), which used the methodology developed for the 1996 version of the maps (Frankel and others, 1996). Algermissen and Perkins (1976) published the first probabilistic seismic hazard map of the United States which was updated in Algermissen and others (1990). The national seismic maps represent our assessment of the “best available science” in earthquake hazards estimation for the United States.
 </p>
 <ul>
-  <li><a href="2008/maps.php">Maps</a> - Revision III</li>
-  <li><a href="2008/data.php">Data</a> - Revision III</li>
-  <li><a href="2008/software/">Source Code - ?????</a></li>
+  <li><a href="2008/maps-rev3.php">Maps</a> - Revision III</li>
+  <li><a href="2008/ratiomaps-rev3.php">Ratio Maps</a> - Revision III</li>
+  <li><a href="2008/griddata-rev3.php">Gridded Ground Motion Data</a> - Revision III</li>
+  <li><a href="2008/curvedata-rev3.php">Hazard Curve Data</a> - Revision III</li>
+  <li><a href="https://github.com/usgs/nshmp-haz-fortran/releases/tag/nshm2008r3">Source Code - Revision III</a></li>
   <li><a href="2008/catalogs.php">Catalogs</a></li>
   <li><a href="http://pubs.usgs.gov/of/2008/1128/">Documentation for the 2008 Update of the United States National Seismic Hazard Maps</a> (USGS OFR 2008-1128)</li>
 </ul>
