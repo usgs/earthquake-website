@@ -22,8 +22,8 @@
   $NETOPS_WEBSITE_BASEURL = $NETOPS_PROTOCOL . $NETOPS_HOST . ':' .
       $NETOPS_PORT . $NETOPS_BASEPATH;
 
-  $NETOPS_DATA_BASEURL = 'ftp://hazards.cr.usgs.gov' .
-      '/web/earthquake-network-operations';
+  $NETOPS_DATA_BASEURL = $NETOPS_PROTOCOL . 'earthquake.usgs.gov' .
+      '/static/earthquake-network-operations';
 
   // $NETOPS_HELIPLOT_URL . '/{station_code}.png' --> large heliplot image
   // $NETOPS_HELIPLOT_URL . '/{station_code}_24hr.png' --> small heliplot image
