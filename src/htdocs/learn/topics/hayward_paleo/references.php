@@ -11,7 +11,7 @@
 
 <ul>
 	<li><a href= "http://www.geologyfieldtrips.com/hayward.htm">Tour of the Hayward Fault</a></li>
-	<li><a href= "http://pubs.usgs.gov/of/1996/of96-705/96-705.pdf">Hayward Fault Subsystem</a></li>
+	<li><a href= "https://pubs.usgs.gov/of/1996/0705/of96-705.pdf">Hayward Fault Subsystem</a></li>
 	<li><a href= "/regional/nca/hayward.php">Video: The Hayward Fault</a></li>
 </ul>
 
