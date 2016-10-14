@@ -16,8 +16,8 @@
         "host": null,
         "name": "Hardware Ranch, Cache County, Utah, USA",
         "network_code": "US",
-        "start_date": null,
+        "start_date": "1997,085",
         "station_code": "HWUT",
-        "virtual_networks": []
+        "virtual_networks": ["ANSS"]
     }
 }
