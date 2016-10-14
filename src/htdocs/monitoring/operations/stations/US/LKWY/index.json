@@ -18,6 +18,8 @@
         "network_code": "US",
         "start_date": null,
         "station_code": "LKWY",
-        "virtual_networks": []
+        "virtual_networks": [
+            "ANSS"
+        ]
     }
 }
