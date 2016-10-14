@@ -10,13 +10,13 @@
         ]
     },
     "properties": {
-        "accelerometer": "",
+        "accelerometer": "EST-S",
         "broadband": "STS2-I",
-        "datalogger": "Q680N",
+        "datalogger": "Q330",
         "host": null,
         "name": "Lake (Yellowstone--Lake), Yellowstone National Park, Wyoming",
         "network_code": "US",
-        "start_date": null,
+        "start_date": "1995,284",
         "station_code": "LKWY",
         "virtual_networks": [
             "ANSS"
