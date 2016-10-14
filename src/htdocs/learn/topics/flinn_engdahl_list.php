@@ -1,18 +1,31 @@
 <?php
-      //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	09/20/2016
-      if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Flinn-Engdahl Regions';
-      $NAVIGATION	= true;
-      include	'template.inc.php';
-      }
+//  Author:  Tiffany Kalin
+//  Contact: Bruce Presgrave
+if  (!isset($TEMPLATE))  {
+  $TITLE  =  'Flinn-Engdahl Regions';
+  $NAVIGATION  = true;
+  include  'template.inc.php';
+}
 ?>
 
-<div class="row">
-	<div class="column four-of-five">
-		<h2>List</h2>
-		<pre>
+<h2>Key</h2>
+<p>
+  <span style="color:red">&#043;</span> <small>New Geographical Region</small>
+</p>
+<p>
+  <span style="color:red">&lt;</span> <small>Geographical Region Reduced in Size</small>
+</p>
+<p>
+  <span style="color:red">&not;</span> <small>Geographical Region No Longer in Use</small>
+</p>
+<p>
+  See also <a href="flinn_engdahl.php">F-E Regions Summary</a>.
+</p>
+
+<hr />
+
+<h2>List</h2>
+<pre>
  <span style="color:#660099">
  <a name="sr_1"></a>
  <big><b>Seismic Region   1
@@ -1020,25 +1033,5 @@
  727  VICTORIA LAND, ANTARCTICA
  728  ROSS SEA
  729  ANTARCTICA
-		 </pre>
 
-	</div>
-	<div class="column one-of-five">
-		<h2>Key</h2>
-		<p>
-		  <span style="color:red">&#043;</span> <small>New Geographical Region</small>
-		</p>
-		<p>
-		  <span style="color:red">&lt;</span> <small>Geographical Region Reduced in Size</small>
-		</p>
-		<p>
-		  <span style="color:red">&not;</span> <small>Geographical Region No Longer in Use</small>
-		</p>
-
-		<hr />
-
-		<p>
-		  <a href="flinn_engdahl.php">F-E Regions Summary</a>
-		</p>
-	</div>
-</div>
+</pre>
