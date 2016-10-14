@@ -18,6 +18,8 @@
         "network_code": "US",
         "start_date": "1996,126",
         "station_code": "BW06",
-        "virtual_networks": []
+        "virtual_networks": [
+            "ANSS"
+        ]
     }
 }
