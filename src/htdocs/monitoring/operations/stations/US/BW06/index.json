@@ -10,9 +10,9 @@
         ]
     },
     "properties": {
-        "accelerometer": "CMG5TIN-N",
+        "accelerometer": "EST-S",
         "broadband": "STS2-I",
-        "datalogger": "Q680N",
+        "datalogger": "Q330",
         "host": null,
         "name": "Boulder Array Site 6 (Pinedale Array Site 6), Wyoming, USA",
         "network_code": "US",
