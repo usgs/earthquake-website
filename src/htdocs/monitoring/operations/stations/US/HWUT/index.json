@@ -12,7 +12,7 @@
     "properties": {
         "accelerometer": "EST-S",
         "broadband": "STS2-I",
-        "datalogger": "Q680N",
+        "datalogger": "Q330",
         "host": null,
         "name": "Hardware Ranch, Cache County, Utah, USA",
         "network_code": "US",
