@@ -10,14 +10,16 @@
         ]
     },
     "properties": {
-        "accelerometer": "CMG5TEX-N",
-        "broadband": "CMG3V-N",
-        "datalogger": "Q680N",
+        "accelerometer": "EST-S",
+        "broadband": "T120PH",
+        "datalogger": "Q330",
         "host": null,
         "name": "Auburn Hatchery, Idaho, USA",
         "network_code": "US",
-        "start_date": null,
+        "start_date": "1997,311",
         "station_code": "AHID",
-        "virtual_networks": []
+        "virtual_networks": [
+            "ANSS"
+        ]
     }
 }

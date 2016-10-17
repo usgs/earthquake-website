@@ -10,14 +10,14 @@
         ]
     },
     "properties": {
-        "accelerometer": "",
-        "broadband": "CMG3T",
-        "datalogger": "RT-72A",
+        "accelerometer": "EST-S",
+        "broadband": "STS2.5-I",
+        "datalogger": "Q330",
         "host": null,
         "name": "Elko, Nevada, USA",
         "network_code": "US",
-        "start_date": null,
+        "start_date": "1994,006",
         "station_code": "ELK",
-        "virtual_networks": []
+        "virtual_networks": ["ANSS"]
     }
 }

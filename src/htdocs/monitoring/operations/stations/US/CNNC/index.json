@@ -11,7 +11,7 @@
     },
     "properties": {
         "accelerometer": "EST-S",
-        "broadband": "STS2-I",
+        "broadband": "STS2.5-I",
         "datalogger": "Q330",
         "host": null,
         "name": "Cliffs of the Neuse, North Carolina, USA",
