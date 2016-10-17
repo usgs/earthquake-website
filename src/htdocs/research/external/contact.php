@@ -88,15 +88,15 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     <strong>Intermountain West Regional Coordinator</strong><br />
-    Dr. Rich Briggs<br />
+    Dr. Ryan Gold<br />
     US Geological Survey<br />
     physical location:1711 Illinois St., Golden, CO  80401<br />
     mailing address: DFC PO Box 25046  MS-966, Denver, CO  805225<br />
     <br />
     <a href="#fedex">Click here for FedEx address</a><br />
-    Phone 303-273-8465<br />
+    Phone 303-273-8633<br />
     Fax 303-273-8600<br />
-    Email <a href="mailto:rbriggs@usgs.gov">Rich Briggs</a><br />
+    Email <a href="mailto:rgold@usgs.gov">Ryan Gold</a><br />
     <br />
   </li>
   <li>
