@@ -99,6 +99,8 @@
   <li><a href="2008/curvedata-rev3.php">Hazard Curve Data</a> - Revision III</li>
   <li><a href="https://github.com/usgs/nshmp-haz-fortran/releases/tag/nshm2008r3">Source Code - Revision III</a></li>
   <li><a href="2008/catalogs.php">Catalogs</a></li>
+  <li><a href="http://geohazards.usgs.gov/cfusion/hazfaults_2008_search">Faults Database Search</a></li>
+  <li><a href="/hazards/qfaults/map/hazfault2008.html">Fault Source Map</a></li>
   <li><a href="http://pubs.usgs.gov/of/2008/1128/">Documentation for the 2008 Update of the United States National Seismic Hazard Maps</a> (USGS OFR 2008-1128)</li>
 </ul>
 
@@ -131,6 +133,8 @@
   <li><a href="2002/maps.php">Maps</a></li>
   <li><a href="2002/data.php">Data</a></li>
   <li>Source Code is not available.</li>
+  <li><a href="http://geohazards.usgs.gov/cfusion/hazfaults_2002_search">Faults Database Search</a></li>
+  <li><a href="/hazards/qfaults/map/hazfault2002.html">Fault Source Map</a></li>
   <li><a href="http://pubs.usgs.gov/of/2002/ofr-02-420/">Documentation for the 2002 Update of the National Seismic Hazard Maps</a> (USGS OFR 02-420)</li>
 </ul>
 
