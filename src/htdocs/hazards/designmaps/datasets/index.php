@@ -28,13 +28,15 @@
   include_once 'codes/nehrp_2009.inc.php';
 ?>
 
-<h2 class="divider">Derived from 2002 USGS Hazard Data</h2>
+<hr />
+<h2>Derived from 2002 USGS Hazard Data</h2>
 <?php
   include_once 'codes/usgs_2002.inc.php';
   include_once 'codes/irc_2006.inc.php';
 ?>
 
-<h2 class="divider">Derived from 1996 USGS Hazard Data</h2>
+<hr />
+<h2>Derived from 1996 USGS Hazard Data</h2>
 <?php
   include_once 'codes/usgs_1996.inc.php';
   include_once 'codes/irc_2000.inc.php';
