@@ -116,10 +116,15 @@ if (!isset($TEMPLATE)) {
           <tr>
             <th scope="row">Network</th>
             <td><?php
-            	$net=$properties['network_code']
-            	echo '<a href="http://www.fdsn.org/networks/detail/'.$net.'"'.
-            	' target="_blank" title="FDSN Network Attribution">'.$net.'</a>'
-            ;?></td>
+              $net = $properties['network_code'];
+              echo '<a' .
+                  ' href="http://www.fdsn.org/networks/detail/' . $net . '"' .
+                  ' target="_blank"' .
+                  ' title="FDSN Network ' . $net . ' Attribution"' .
+                  '>' .
+                    $net .
+                  '</a>';
+            ?></td>
           </tr>
           <tr>
             <th scope="row">Latitude</th>
