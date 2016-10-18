@@ -13,9 +13,9 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/1997-US-MCE-R1a.txt"
-              title="5 Mb">Text</a> | <a
+              title="5 Mb">Text (5 MB)</a> | <a
               href="<?php print $base; ?>/geo/1997-US-MCE-R1a.rnd"
-              title="3 Mb">Binary</a>]
+              title="3 Mb">Binary (3 MB)</a>]
             </li>
           </ul>
         </li>
@@ -30,9 +30,9 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/1997-CANV-MCE-R2.txt"
-              title="60 Mb">Text</a> | <a
+              title="60 Mb">Text (60 MB)</a> | <a
               href="<?php print $base; ?>/geo/1997-CANV-MCE-R2.rnd"
-              title="35 Mb">Binary</a>]
+              title="35 Mb">Binary (35 MB)</a>]
             </li>
           </ul>
         </li>
