@@ -58,7 +58,7 @@
   says log(E) is proportional to 1.5M, where E is energy and M is magnitude.
   This means that a change of 0.1 in magnitude is about 1.4 times the energy
   release. Therefore, using the
-  shortcut shown eartlier for the amplitude calculation, the energy is,
+  shortcut shown earlier for the amplitude calculation, the energy is,
 </p>
 <PRE>
 <font color="gray">
