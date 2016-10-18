@@ -18,7 +18,6 @@
 
 <h2>Topics of Interest</h2>
 <ul>
-  <li><a href="http://earthquake.usgs.gov/earthquakes/states/texas/hazards.php">2014 Seismic Hazard Map of Texas</a> (Does not include hazard from induced seismicity)</li>
   <li><a href="http://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> (OFR 2015-1070)</li>
   <li><a href="http://earthquake.usgs.gov/research/induced/">Induced Earthquakes</a></li>
 </ul>
