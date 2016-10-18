@@ -36,7 +36,6 @@ if (!isset($TEMPLATE)) {
         <td>${coordinates[1]}</td>
         <td>${coordinates[0]}</td>
         <td>${coordinates[2]}</td>
-        <td>${properties['datalogger']}</td>
       </tr>
     ";
   }
@@ -95,8 +94,7 @@ if (!isset($TEMPLATE)) {
       </th>
       <th scope="col">Latitude</th>
       <th scope="col">Longitude</th>
-      <th scope="col">Eleveation</th>
-      <th scope="col">Datalogger</th>
+      <th scope="col">Elevation</th>
     </thead>
     <tbody>
       <?php foreach ($stations as $station) {
