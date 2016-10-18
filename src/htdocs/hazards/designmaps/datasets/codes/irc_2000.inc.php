@@ -12,9 +12,9 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2000_2003_IRC-Design_Categories.kmz"
-              title="1001 kB">KML</a> | <a
+              title="1001 kB">KML (1001 KB)</a> | <a
               href="<?php print $base; ?>/geo/2000_2003_IRC-Design_Categories.shape.zip"
-              title="627 kB">ArcGIS&trade; Shapefiles</a>]
+              title="627 kB">ArcGIS&trade; Shapefiles (627 KB)</a>]
             </li>
           </ul>
         </li>
