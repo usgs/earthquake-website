@@ -31,7 +31,7 @@
           <ul class="download-format">
             <li>
               [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-US-Ss-S1-PGA-0p05.txt"
-                  title="25Mb">Text</a>]
+                  title="25Mb">Text (25 MB)</a>]
             </li>
           </ul>
         </li>
@@ -44,7 +44,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2010_ASCE-US-0p2s_Risk_Coefficients.txt"
-                  title="349Mb">Text</a>]
+                  title="349Mb">Text (349 MB)</a>]
             </li>
           </ul>
         </li>
@@ -57,7 +57,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2010_ASCE-US-1p0s_Risk_Coefficients.txt"
-                  title="349Mb">Text</a>]
+                  title="349Mb">Text (349 MB)</a>]
             </li>
           </ul>
         </li>
@@ -72,7 +72,7 @@
           <ul class="download-format">
             <li>
               [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-Alaska-Ss-S1-PGA.txt"
-                  title="30Mb">Text</a>]
+                  title="30Mb">Text (30 MB)</a>]
             </li>
           </ul>
         </li>
@@ -85,7 +85,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2010_ASCE-Alaska-0p2s_Risk_Coefficients.txt"
-                  title="16Mb">Text</a>]
+                  title="16Mb">Text (16 MB)</a>]
             </li>
           </ul>
         </li>
@@ -98,7 +98,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2010_ASCE-Alaska-1p0s_Risk_Coefficients.txt"
-                  title="16Mb">Text</a>]
+                  title="16Mb">Text (16 MB)</a>]
             </li>
           </ul>
         </li>
@@ -113,7 +113,7 @@
           <ul class="download-format">
             <li>
               [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-Hawaii-Ss-S1-PGA.txt"
-                  title="3Mb">Text</a>]
+                  title="3Mb">Text (3 MB)</a>]
             </li>
           </ul>
         </li>
@@ -126,7 +126,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2010_ASCE-Hawaii-0p2s_Risk_Coefficients.txt"
-                  title="2Mb">Text</a>]
+                  title="2Mb">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -139,7 +139,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2010_ASCE-Hawaii-1p0s_Risk_Coefficients.txt"
-                  title="2Mb">Text</a>]
+                  title="2Mb">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -154,7 +154,7 @@
           <ul class="download-format">
             <li>
               [Download as <a href="<?php print $base; ?>/geo/2010_ASCE-7-PRVI-Ss-S1-PGA.txt"
-                  title="1Mb">Text</a>]
+                  title="1Mb">Text (1 MB)</a>]
             </li>
           </ul>
         </li>
@@ -167,7 +167,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2010_ASCE-Puerto_Rico-US_Virgin_Islands-0p2s_Risk_Coefficients.txt"
-                  title="1021kB">Text</a>]
+                  title="1021kB">Text (1021 KB)</a>]
             </li>
           </ul>
         </li>
@@ -180,7 +180,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2010_ASCE-Puerto_Rico-US_Virgin_Islands-1p0s_Risk_Coefficients.txt"
-                  title="1021kB">Text</a>]
+                  title="1021kB">Text (1021 KB)</a>]
             </li>
           </ul>
         </li>
