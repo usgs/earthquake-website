@@ -1,10 +1,4 @@
 <?php
-function FDSNlink($net) {
-	$fdsn_base = '<a target="_blank" href="http://www.fdsn.org/networks/detail/';
-	$linkstr = $fdsn_base.$net.'">'.$net.'</a>';
-  return $linkstr;
-}
-
 if (!isset($TEMPLATE)) {
   include_once __DIR__ . '/conf/config.inc.php';
   include_once __DIR__ . '/inc/functions.inc.php';
@@ -121,7 +115,11 @@ if (!isset($TEMPLATE)) {
           </tr>
           <tr>
             <th scope="row">Network</th>
-            <td><?php echo FDSNlink($properties['network_code']);?></td>
+            <td><?php
+            	$net=$properties['network_code']
+            	echo '<a href="http://www.fdsn.org/networks/detail/'.$net.'"'.
+            	' target="_blank" title="FDSN Network Attribution">'.$net.'</a>'
+            ;?></td>
           </tr>
           <tr>
             <th scope="row">Latitude</th>
