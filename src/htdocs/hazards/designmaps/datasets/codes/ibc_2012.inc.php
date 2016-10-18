@@ -29,7 +29,7 @@
           <ul class="download-format">
             <li>
               [Download as <a href="<?php print $base; ?>/geo/2012_IBC-US_Ss_S1-0p01.txt"
-                  title="112Mb">Text</a>]
+                  title="112Mb">Text (112 MB)</a>]
             </li>
           </ul>
         </li>
@@ -42,7 +42,7 @@
           <ul class="download-format">
             <li>
               [Download as <a href="<?php print $base; ?>/geo/2012_IBC-US_Ss_S1-0p05.txt"
-                  title="25Mb">Text</a>]
+                  title="25Mb">Text (25 MB)</a>]
             </li>
           </ul>
         </li>
@@ -57,7 +57,7 @@
           <ul class="download-format">
             <li>
               [Download as <a href="<?php print $base; ?>/geo/2012_IBC-AK_Ss_S1-0p05.txt"
-                  title="30Mb">Text</a>]
+                  title="30Mb">Text (30 MB)</a>]
             </li>
           </ul>
         </li>
@@ -71,7 +71,7 @@
           <ul class="download-format">
             <li>
               [Download as <a href="<?php print $base; ?>/geo/2012_IBC-HI_Ss_S1-0p02.txt"
-                  title="3Mb">Text</a>]
+                  title="3Mb">Text (3 MB)</a>]
             </li>
           </ul>
         </li>
@@ -85,7 +85,7 @@
           <ul class="download-format">
             <li>
               [Download as <a href="<?php print $base; ?>/geo/2012_IBC-PRVI_Ss_S1-0p01.txt"
-                  title="1Mb">Text</a>]
+                  title="1Mb">Text (1 MB)</a>]
             </li>
           </ul>
         </li>
