@@ -28,7 +28,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-0p2s_Uniform_Hazard_Ground_Motion.txt"
-              title="378MB">Text</a>]
+              title="378MB">Text (378 MB)</a>]
             </li>
           </ul>
         </li>
@@ -41,7 +41,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-1p0s_Uniform_Hazard_Ground_Motion.txt"
-              title="378MB">Text</a>]
+              title="378MB">Text (378 MB)</a>]
             </li>
           </ul>
         </li>
@@ -54,7 +54,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-0p2s_Risk_Coefficients.txt"
-              title="349MB">Text</a>]
+              title="349MB">Text (349 MB)</a>]
             </li>
           </ul>
         </li>
@@ -67,7 +67,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-1p0s_Risk_Coefficients.txt"
-              title="349MB">Text</a>]
+              title="349MB">Text (249 MB)</a>]
             </li>
           </ul>
         </li>
@@ -80,7 +80,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-0p2s_Deterministic_Ground_Motion.txt"
-              title="378MB">Text</a>]
+              title="378MB">Text (378 MB)</a>]
             </li>
           </ul>
         </li>
@@ -93,7 +93,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-1p0s_Deterministic_Ground_Motion.txt"
-              title="378MB">Text</a>]
+              title="378MB">Text (378 MB)</a>]
             </li>
           </ul>
         </li>
@@ -108,7 +108,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-0p2s_Uniform_Hazard_Ground_Motion.txt"
-              title="378MB">Text</a>]
+              title="378MB">Text (378 MB)</a>]
             </li>
           </ul>
         </li>
@@ -121,7 +121,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-1p0s_Uniform_Hazard_Ground_Motion.txt"
-              title="378MB">Text</a>]
+              title="378MB">Text (378 MB)</a>]
             </li>
           </ul>
         </li>
@@ -134,7 +134,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-0p2s_Risk_Coefficients.txt"
-              title="349MB">Text</a>]
+              title="349MB">Text (349 MB)</a>]
             </li>
           </ul>
         </li>
@@ -147,7 +147,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-1p0s_Risk_Coefficients.txt"
-              title="349MB">Text</a>]
+              title="349MB">Text (349 MB)</a>]
             </li>
           </ul>
         </li>
@@ -160,7 +160,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-0p2s_Deterministic_Ground_Motion.txt"
-              title="378MB">Text</a>]
+              title="378MB">Text (378 MB)</a>]
             </li>
           </ul>
         </li>
@@ -173,7 +173,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Alaska-1p0s_Deterministic_Ground_Motion.txt"
-              title="378MB">Text</a>]
+              title="378MB">Text (378 MB)</a>]
             </li>
           </ul>
         </li>
@@ -188,7 +188,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-0p2s_Uniform_Hazard_Ground_Motion.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -201,7 +201,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-1p0s_Uniform_Hazard_Ground_Motion.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -214,7 +214,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-0p2s_Risk_Coefficients.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -227,7 +227,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-1p0s_Risk_Coefficients.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -240,7 +240,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-0p2s_Deterministic_Ground_Motion.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -253,7 +253,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Hawaii-1p0s_Deterministic_Ground_Motion.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -268,7 +268,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-0p2s_Uniform_Hazard_Ground_Motion.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -281,7 +281,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-1p0s_Uniform_Hazard_Ground_Motion.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -294,7 +294,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-0p2s_Risk_Coefficients.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -307,7 +307,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-1p0s_Risk_Coefficients.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -320,7 +320,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-0p2s_Deterministic_Ground_Motion.txt"
-              title="2MB">Text</a>]
+              title="2MB">Text (2 MB)</a>]
             </li>
           </ul>
         </li>
@@ -333,7 +333,7 @@
             <li>
               [Download as <a
               href="<?php print $base; ?>/geo/2009_NEHRP-Puerto_Rico-US_Virgin_Islands-1p0s_Deterministic_Ground_Motion.txt"
-              title="1MB">Text</a>]
+              title="1MB">Text (1 MB)</a>]
             </li>
           </ul>
         </li>
