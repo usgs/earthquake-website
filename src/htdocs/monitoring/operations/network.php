@@ -95,7 +95,6 @@ if (!isset($TEMPLATE)) {
       <th scope="col">Latitude</th>
       <th scope="col">Longitude</th>
       <th scope="col">Elevation</th>
-      <th scope="col">Datalogger</th>
     </thead>
     <tbody>
       <?php foreach ($stations as $station) {
