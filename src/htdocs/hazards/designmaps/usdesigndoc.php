@@ -237,17 +237,6 @@
   </li>
 </ul>
 
-<h2>Interpolation of output design values</h2>
-
-<p>
-  The U.S. Seismic Design Maps tool accesses multiple uniform grids of design
-  values. If a site lies between grid points, the application calculates the
-  site design values by applying a bilinear interpolation method to the four
-  grid points nearest the site. A description of this interpolation is in the
-  "Spatial interpolation" Section of the <a href="wwdesigndoc.php">
-  documentation for the Worldwide Seismic Design Values tool</a>.
-</p>
-
 <h2>Future updates</h2>
 
 <p>Include design values from:</p>
