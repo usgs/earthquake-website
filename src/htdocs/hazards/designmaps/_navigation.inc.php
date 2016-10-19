@@ -16,8 +16,3 @@
     navItem('/designmaps/rtgm/', 'Use the Tool') .
     navItem('https://github.com/usgs/earthquake-rtgm-calculator/wiki/Risk-Targeted-Ground-Motion-Calculator-Documentation', 'Documentation & Help')
   );
-
-  echo navGroup(navItem("${section}/wwdesign.php", 'Worldwide Seismic Design Tool'),
-    navItem('http://geohazards.usgs.gov/designmaps/ww/', 'Use the Tool') .
-    navItem('https://github.com/usgs/earthquake-wwdesign/wiki/Worldwide-Seismic-Design-Tool-Documentation', 'Documentation &amp; Help')
-  );
