@@ -39,7 +39,7 @@
           <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/qfaults/qfaults-GIS.zip">GIS Shapefiles</a> (9.1 MB ZIP file)</li>
         </ul>
       </li>
-      <li><a href="baskground.php">Background</a> - history, help, personnel and references</li>
+      <li><a href="background.php">Background</a> - history, help, personnel and references</li>
       <li><a href="contributors.php">Contributors</a></li>
     </ul>
   </div>
