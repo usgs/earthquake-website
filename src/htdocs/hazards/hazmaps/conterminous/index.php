@@ -118,7 +118,7 @@
   <li><a href="http://pubs.usgs.gov/of/2007/1437/">The Uniform California Earthquake Rupture Forecast, Version 2 (UCERF2)</a> (USGS OFR 2007-1437)
   </li>
   <li><a href="http://www.wgcep.org/">Working Group on California Earthquake Probabilities</a></li>
-  <li><a href="2008/99HQGR0098.pdf" title="2001, P. Sommerville et al. Final Report">Ground Motion Attenuation Relations for the Central and Eastern United States</a> (USGS-funded)
+  <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2008/99HQGR0098.pdf" title="2001, P. Sommerville et al. Final Report">Ground Motion Attenuation Relations for the Central and Eastern United States</a> (USGS-funded)
   </li>
 </ul>
 
