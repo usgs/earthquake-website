@@ -92,7 +92,7 @@ if (!isset($TEMPLATE)) {
         <li><a href="learn/technical.php">Earthquake Hazards 201</a>-Technical Q&amp;A</li>
         <li><a href="workshops/">Workshops</a></li>
         <li><a href="personnel.php">Personnel</a></li>
-        <li><a href="/learn/publications/pubs_tech.php#NationalSeismicHazardMaps%28NSHM%29">Publications</a></li>
+        <li><a href="pubs.php">Publications</a></li>
       </ul>
     </div>
   </div>
