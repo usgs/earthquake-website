@@ -76,4 +76,4 @@
 </p>
 
 <hr/>
-<a href="choosing.php">Looking for seismic zones?</a>
+<a href="choosing.php">Help Selecting a Seismic Design Tool</a>
