@@ -330,7 +330,7 @@
 
 
 <h2>References</h2>
-<ul>
+<ul class="referencelist">
   <li>
     <cite>Huang, Y. N., A.S. Whittaker &amp; N. Luco (2008), &ldquo;Maximum
     Spectral Demands in the Near-Fault Region,&rdquo; Earthquake Spectra, Vol.
