@@ -12,7 +12,7 @@
 
     navItem('http://usgs.github.io/shakemap', 'ShakeMap Manual') .
 
-    navItem('/research/software/shakecast/', 'ShakeCast') .
+    navItem('/research/software/shakecast.php', 'ShakeCast') .
 
     navItem('http://usgs.github.io/shakemap/disclaimers.html', 'Disclaimers')
   );
