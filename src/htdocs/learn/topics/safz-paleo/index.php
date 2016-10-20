@@ -29,10 +29,6 @@
 
 <!-- NAVIGATION at bottom for ARTICLE -->
 <p>
-  <a class='prev' href="">
-    <span class='material-icons prev'>&#xe5c4;</span>
-    <strong>PREV</strong>
-  </a>
   <a class='next' href="finding.php">
     <strong>NEXT</strong>
   <span class='material-icons next'>&#xe5c8;</span>
