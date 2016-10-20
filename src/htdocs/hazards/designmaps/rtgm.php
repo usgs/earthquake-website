@@ -11,7 +11,7 @@
 ?>
 
 <form action="/designmaps/rtgm/">
-  <input type="submit" value="Use the Calculator">
+  <button type="submit">Use the Calculator</button>
 </form>
 <br/>
 <table class="tabular">
