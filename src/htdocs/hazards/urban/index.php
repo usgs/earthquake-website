@@ -116,7 +116,7 @@
     </p>
   </li>
   <li>
-    <a href="evansville.php">
+    <a href="evansville/">
       <h4>Evansville Area Earthquake Hazards Mapping</h4>
       <img src="images/evansville.gif" alt=""/>
     </a>
