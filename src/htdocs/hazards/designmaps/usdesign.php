@@ -11,7 +11,7 @@
 ?>
 
 <form action="/designmaps/us/application.php">
-  <input type="submit" value="Use the Application">
+  <button type="submit">Use the Application</button>
 </form>
 <br/>
   <table class="tabular">
