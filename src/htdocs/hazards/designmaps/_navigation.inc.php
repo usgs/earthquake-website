@@ -6,7 +6,7 @@
 
   '</section>';
 
-  echo navGroup(navItem("${section}/usdesign.php", 'US Seismic Design Maps'),
+  echo navGroup(navItem("${section}/usdesign.php", 'U.S. Seismic Design Maps'),
     navItem('/designmaps/us/application.php', 'Use the Tool') .
     navItem('/designmaps/us/changelog.php', 'Recent Changes') .
     navItem("${section}/usdesigndoc.php", 'Documentation &amp; Help')
