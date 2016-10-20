@@ -8,10 +8,9 @@
       include	'template.inc.php';
       }
 ?>
-<h2></h2>
 
 <div style="text-align: center; padding: .05in .05in .05in .05in; margin-left: 2in; margin-right: 2in; background-color:#00508F;color:#000000;">
-  <a href="javascript:void()" OnClick="window.open('calculator.php','Calculator','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=600');" style="text-decoration: none; color:#FFFFFF;">
+  <a href="javascript:void()" OnClick="window.open('calculator.php','Calculator','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=1000');" style="text-decoration: none; color:#FFFFFF;">
     <b>"Try It Yourself" Calculator</b>
   </a>
  </div>
@@ -22,14 +21,14 @@
   The magnitude scale is logarithmic, so
 </p>
 <PRE>
-  <font color="gray">
-     (10**8.7)/(10**5.8) = (5.01*10**8)/(6.31*10**5)
-                         = .794*10**3
-                         = 794
-                       OR
-                         = 10**(8.7-5.8)
-                         = 10**2.9
-                         = 794.328
+    <font color="gray">
+       (10**8.7)/(10**5.8) = (5.01*10**8)/(6.31*10**5)
+                           = .794*10**3
+                           = 794
+                         OR
+                           = 10**(8.7-5.8)
+                           = 10**2.9
+                           = 794.328
   </font>
 </PRE>
 <p>
@@ -38,9 +37,9 @@
   unit of magnitude is about 1.3 times the amplitude, we can get,
 </p>
 <PRE>
-<font color="gray">
-      10 * 10 * 10 / 1.3 = 769 times </font>
-      [not exact, but a decent approximation]
+  <font color="gray">
+        10 * 10 * 10 / 1.3 = 769 times </font>
+        [not exact, but a decent approximation]
 </PRE>
 <p>
   The magnitude scale is really comparing amplitudes of waves on a
@@ -61,19 +60,19 @@
   shortcut shown earlier for the amplitude calculation, the energy is,
 </p>
 <PRE>
-<font color="gray">
-      32 * 32 * 32 / 1.4 = 23,405 or about 23,000
-</font>
+  <font color="gray">
+        32 * 32 * 32 / 1.4 = 23,405 or about 23,000
+  </font>
 </PRE>
 <p>
   The actual formula would be:
 </p>
 <PRE>
-<font color="gray">
-      ((10**1.5)**8.7)/((10**1.5)**5.8) = 10**(1.5*(8.7-5.8))
-                                        = 10**(1.5*2.9)
-                                        = 22,387
-</font>
+  <font color="gray">
+        ((10**1.5)**8.7)/((10**1.5)**5.8) = 10**(1.5*(8.7-5.8))
+                                          = 10**(1.5*2.9)
+                                          = 22,387
+  </font>
 </PRE>
 <p>
   This explains why big quakes are so much more devastating than small ones.
@@ -81,9 +80,4 @@
   differences are huge.  The amplitude numbers are neater and a little easier
   to explain, which is why those are used more often in publications.  But it's
   the energy that does the damage.
-</p>
-<p>
-  <a href="javascript:void()" OnClick="window.open('calculator.php','Calculator','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=800');" >
-    Now try it for yourself.
-  </a>
 </p>
