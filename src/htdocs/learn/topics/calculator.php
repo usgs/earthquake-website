@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact:
-      //	Last	modified:	9/15/2016
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'"How Much Bigger…?" Calculator';
       $NAVIGATION	= true;
