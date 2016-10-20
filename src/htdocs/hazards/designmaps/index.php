@@ -17,8 +17,6 @@
 
 <hr/>
 
-<h2>Sites in the U.S. and its Territories</h2>
-
 <h4><a href="usdesign.php">U.S. Seismic Design Maps</a></h4>
 
 <p>
