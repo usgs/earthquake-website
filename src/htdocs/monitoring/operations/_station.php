@@ -181,8 +181,18 @@ if (!isset($TEMPLATE)) {
   </div>
 </section>
 
+<?php
+  $hasPhotos = (count($photos) > 0);
+  $hasPlots = in_array($properties['network_code'], $GS_NETWORKS);
+
+  if (!$hasPhotos && !$hasPlots) {
+    // no tablist content
+    return;
+  }
+?>
+
 <div class="tablist">
-  <?php if (count($photos) > 0) : ?>
+  <?php if ($hasPhotos) : ?>
     <section class="panel station-details-photos"
         data-title="Site">
       <h2>Site</h2>
@@ -194,14 +204,7 @@ if (!isset($TEMPLATE)) {
       <?php endforeach; ?>
     </section>
   <?php endif; ?>
-  <?php
-		/*
-	Identify if the station network code is one for which heliplots are generated.
-	If not then don't display the heliplot or other content that is not generated.
-	*/
-	$gsnets=array("IU","US","CU","IC","NE","IW","GS");
-
-	if (in_array($properties['network_code'],$gsnets)){ ?>
+  <?php if ($hasPlots) : ?>
 		<section class="panel station-details-heliplot"
 				data-title="Heliplot">
 			<h2>Heliplot</h2>
