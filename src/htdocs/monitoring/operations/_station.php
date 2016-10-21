@@ -194,55 +194,63 @@ if (!isset($TEMPLATE)) {
       <?php endforeach; ?>
     </section>
   <?php endif; ?>
+  <?php
+		/*
+	Identify if the station network code is one for which heliplots are generated.
+	If not then don't display the heliplot or other content that is not generated.
+	*/
+	$gsnets=array("IU","US","CU","IC","NE","IW","GS");
 
-  <section class="panel station-details-heliplot"
-      data-title="Heliplot">
-    <h2>Heliplot</h2>
-    <a class="station-details-heliplot-link"
-        href="<?php echo $heliplotThumb; ?>">
-      <img class="station-details-heliplot-image"
-          src="<?php echo $heliplotThumb; ?>"
-          alt="Station Heliplot"/>
-    </a>
-  </section>
+	if (in_array($properties['network_code'],$gsnets)){ ?>
+		<section class="panel station-details-heliplot"
+				data-title="Heliplot">
+			<h2>Heliplot</h2>
+			<a class="station-details-heliplot-link"
+					href="<?php echo $heliplotThumb; ?>">
+				<img class="station-details-heliplot-image"
+						src="<?php echo $heliplotThumb; ?>"
+						alt="Station Heliplot"/>
+			</a>
+		</section>
 
-  <section class="panel station-details-latency"
-      data-title="Latency">
-    <h2>Latency</h2>
-    <a class="station-details-latency-link"
-        href="<?php echo $latencyUrl; ?>">
-      <img class="station-details-latency-image"
-          src="<?php echo $latencyUrl; ?>"
-          alt="Station Latency"/>
-    </a>
-  </section>
+		<section class="panel station-details-latency"
+				data-title="Latency">
+			<h2>Latency</h2>
+			<a class="station-details-latency-link"
+					href="<?php echo $latencyUrl; ?>">
+				<img class="station-details-latency-image"
+						src="<?php echo $latencyUrl; ?>"
+						alt="Station Latency"/>
+			</a>
+		</section>
 
-  <section class="panel station-details-availability"
-      data-title="Availability">
-    <h2>Availability</h2>
+		<section class="panel station-details-availability"
+				data-title="Availability">
+			<h2>Availability</h2>
 
-    <h3>Past 30 Days</h3>
-    <a class="station-details-availability-link"
-        href="<?php echo $availabilityUrl; ?>_30days.png">
-      <img class="station-details-availability-image"
-          src="<?php echo $availabilityUrl; ?>_30days.png"
-          alt="Station Availability - Past 30 Days"/>
-    </a>
+			<h3>Past 30 Days</h3>
+			<a class="station-details-availability-link"
+					href="<?php echo $availabilityUrl; ?>_30days.png">
+				<img class="station-details-availability-image"
+						src="<?php echo $availabilityUrl; ?>_30days.png"
+						alt="Station Availability - Past 30 Days"/>
+			</a>
 
-    <h3>Past 365 Days</h3>
-    <a class="station-details-availability-link"
-        href="<?php echo $availabilityUrl; ?>_365days.png">
-      <img class="station-details-availability-image"
-          src="<?php echo $availabilityUrl; ?>_365days.png"
-          alt="Station Availability - Past Year"/>
-    </a>
+			<h3>Past 365 Days</h3>
+			<a class="station-details-availability-link"
+					href="<?php echo $availabilityUrl; ?>_365days.png">
+				<img class="station-details-availability-image"
+						src="<?php echo $availabilityUrl; ?>_365days.png"
+						alt="Station Availability - Past Year"/>
+			</a>
 
-    <h3>Yearly</h3>
-    <a class="station-details-availability-link"
-        href="<?php echo $availabilityUrl; ?>_all.png">
-      <img class="station-details-availability-image"
-          src="<?php echo $availabilityUrl; ?>_all.png"
-          alt="Station Availability - Yearly"/>
-    </a>
-  </section>
+			<h3>Yearly</h3>
+			<a class="station-details-availability-link"
+					href="<?php echo $availabilityUrl; ?>_all.png">
+				<img class="station-details-availability-image"
+						src="<?php echo $availabilityUrl; ?>_all.png"
+						alt="Station Availability - Yearly"/>
+			</a>
+		</section>
+  <?php endif; ?>
 </div>

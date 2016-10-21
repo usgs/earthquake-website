@@ -28,21 +28,30 @@ if (!isset($TEMPLATE)) {
 
     $properties = $station['properties'];
     $heliplot = $NETOPS_HELIPLOT_URL . '/' . $properties['station_code'];
+    /*
+    Identify if the station network code is one for which heliplots are genterated.
+    If not then don't display the heliplot.
+    */
+    $gsnets=array("IU","US","CU","IC","NE","IW","GS");
 
-    return "
-      <li class=\"heliplot-list-item\" id=\"station-${station['id']}\">
-        <figure class=\"heliplot-figure\">
-          <figcaption class=\"heliplot-figcaption\">
-            ${properties['network_code']}/${properties['station_code']}
-            ${properties['name']}
-          </figcaption>
-          <a href=\"${heliplot}_24hr.html\">
-            <img src=\"${heliplot}_24hr.png\" alt=\"Heliplot Image\"
-                class=\"heliplot-image\"/>
-          </a>
-        </figure>
-      </li>
-    ";
+    if (in_array($properties['network_code'],$gsnets)){
+			return "
+				<li class=\"heliplot-list-item\" id=\"station-${station['id']}\">
+					<figure class=\"heliplot-figure\">
+						<figcaption class=\"heliplot-figcaption\">
+							${properties['network_code']}/${properties['station_code']}
+							${properties['name']}
+						</figcaption>
+						<a href=\"${heliplot}_24hr.html\">
+							<img src=\"${heliplot}_24hr.png\" alt=\"Heliplot Image\"
+									class=\"heliplot-image\"/>
+						</a>
+					</figure>
+				</li>
+			";}
+		else {
+		  return "";
+		}
   }
 
   $TITLE = (($virtualNetwork != null) ?
