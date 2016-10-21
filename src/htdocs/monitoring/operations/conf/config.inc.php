@@ -38,3 +38,14 @@
 
   $TELEMETRY_URL = $NETOPS_PROTOCOL . $NETOPS_HOST . ':' . $NETOPS_PORT .
       '/ws/network-operations/telemetry.json';
+
+
+  /*
+  Identify if the station network code is one for which plots are genterated.
+  If not then don't display the heli, availability, or latency plot.
+
+  Used by:
+  - heliplot.php to hide heliplots that aren't likely to exist.
+  - _station.php to hide tabs that aren't likely to exist.
+  */
+  $GS_NETWORKS = array("IU", "US", "CU", "IC", "NE", "IW", "GS");
