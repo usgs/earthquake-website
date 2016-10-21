@@ -25,16 +25,12 @@ if (!isset($TEMPLATE)) {
    */
   function getHeliplot ($station) {
     global $NETOPS_HELIPLOT_URL;
+    global $GS_NETWORKS;
 
     $properties = $station['properties'];
     $heliplot = $NETOPS_HELIPLOT_URL . '/' . $properties['station_code'];
-    /*
-    Identify if the station network code is one for which heliplots are genterated.
-    If not then don't display the heliplot.
-    */
-    $gsnets=array("IU","US","CU","IC","NE","IW","GS");
 
-    if (in_array($properties['network_code'],$gsnets)){
+    if (in_array($properties['network_code'], $GS_NETWORKS)){
 			return "
 				<li class=\"heliplot-list-item\" id=\"station-${station['id']}\">
 					<figure class=\"heliplot-figure\">
