@@ -19,14 +19,8 @@
 </figure>
 
 <p>
-	The Evansville Area Earthquake Hazards Mapping Project is being lead by representatives from Purdue University, the <a href="http://www.ceri.memphis.edu" target="_blank">Center for Earthquake Research and Information</a> at the <a href="http://memphis.edu" target="_blank">University of Memphis</a>, the State Geologic Surveys of <a href="http://www.uky.edu/KGS/" target="_blank">Kentucky</a>, <a href="http://www.isgs.illinois.edu/?q=maps" target="_blank">Illinois</a>, and <a href="http://igs.indiana.edu/" target="_blank">Indiana</a>, the Southwest Indiana Disaster Resistant Community Corp., the <a href="http://www.cusec.org/" target="_blank">Central U.S. Earthquake Consortium State Geologists</a>, and the USGS.
+	The Evansville Area Earthquake Hazards Mapping Project is being lead by representatives from Purdue University, the <a href="http://www.ceri.memphis.edu">Center for Earthquake Research and Information</a> at the <a href="http://memphis.edu">University of Memphis</a>, the State Geologic Surveys of <a href="http://www.uky.edu/KGS/">Kentucky</a>, <a href="http://www.isgs.illinois.edu/?q=maps">Illinois</a>, and <a href="http://igs.indiana.edu/">Indiana</a>, the Southwest Indiana Disaster Resistant Community Corp., the <a href="http://www.cusec.org/">Central U.S. Earthquake Consortium State Geologists</a>, and the USGS.
 </p>
-
-<p>
-	<a href="plan.php">Project Plan</a>
-</p>
-
-
 
 <h2>Reports</h2>
 	<ul>
