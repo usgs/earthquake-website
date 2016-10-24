@@ -38,7 +38,7 @@
   for the U.S. and its Territories from the following documents:
 </p>
 
-<ul>
+<ul class='referencelist'>
   <li>
     <a href="http://publicecodes.cyberregs.com/icod/ibc/index.htm">International Building Code</a>: <a href="http://www.iccsafe.org/Store/Pages/2012I-Codes.aspx?r=2012icodes">2012</a>,
     <a href="http://www.iccsafe.org/Store/Pages/Category.aspx?cat=ICCSafe&amp;category=2390&amp;parentcategory=Store%20Products&amp;parentcategory=330">2009</a>, and
@@ -226,7 +226,7 @@
 </p>
 
 <p>For more information about site and risk coefficients, see:</p>
-<ul>
+<ul class='referencelist'>
   <li>
     Section C11.4.3 of Part 1 of the 2009 NEHRP Recommended Seismic Provisions
     and the additional information referenced there; and
