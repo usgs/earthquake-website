@@ -54,7 +54,7 @@
 
     <h2>Hazard Tools</h2>
 
-    <a href="interactive/">Unified Hazard Tool - BETA</a>
+    <a href="/hazards/interactive/">Unified Hazard Tool - BETA</a>
     <p>Need description.</p>
 
     <a href="http://geohazards.usgs.gov/hazards/apps/cmaps/">
@@ -125,7 +125,7 @@
 
       <li>
         <p>
-          <a href="/hazards/foreign/">Foreign Hazard Maps</a><br/>
+          <a href="/hazards/foreign.php">Foreign Hazard Maps</a><br/>
           Includes Afghanistan, Sumatra, State of Gujarat,India.  See also <a href="http://www.seismo.ethz.ch/static/gshap/">Global Seismic Hazard Assessment Program (GSHAP)</a>.
         </p>
       </li>
