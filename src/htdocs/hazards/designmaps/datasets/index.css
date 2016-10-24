@@ -1,0 +1,9 @@
+.download-title {
+  display: block;
+  font-weight: bold;
+}
+
+.download-format {
+  list-style: disc;
+  margin-bottom: 1.5em;
+}
