@@ -27,7 +27,7 @@
 <h2>Ground Shaking Maps</h2>
 
 <p>
-	<a href="http://pub.usgs.gov/of/2004/1294/">The Memphis, Shelby County, Tennessee, Seismic Hazard Maps (OFR-2004-1294)</a> - Technical documentation
+	<a href="http://pubs.usgs.gov/of/2004/1294/">The Memphis, Shelby County, Tennessee, Seismic Hazard Maps (OFR-2004-1294)</a> - Technical documentation
 </p>
 
 <p>

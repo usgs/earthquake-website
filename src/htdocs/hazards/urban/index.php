@@ -1,12 +1,11 @@
 <?php
-      //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	10/13/2016
-      if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Urban Seismic Hazards';
-      $NAVIGATION	= true;
-      include	'template.inc.php';
-      }
+//	Author:	Tiffany Kalin
+//	Contact:
+if	(!isset($TEMPLATE))	{
+  $TITLE	=	'Urban Seismic Hazards';
+  $NAVIGATION	= true;
+  include	'template.inc.php';
+}
 ?>
 
 <h3>Urban Regions :</h3>
@@ -21,7 +20,7 @@
   <li>
     <a href="/regional/nca/alameda/">
       <h4>Liquefaction Hazard in Oakland, CA</h4>
-      <img src="images/oakland.gif" alt=""/>
+      <img src="images/oakland.gif" alt="thumbnail of Liquefaction hazard map of Oakland area"/>
     </a>
     <p>
       The liquefaction hazard map
@@ -35,11 +34,11 @@
   </li>
   <li>
     <a href="/regional/nca/soiltype/">
-      <h4>Liquefaction Hazard in Oakland, CA</h4>
-      <img src="images/soiltype.gif" alt=""/>
+      <h4>Soil Type and Shaking Hazard in Oakland, CA</h4>
+      <img src="images/soiltype.gif" alt="thumbnail of soil type and shaking hazard"/>
     </a>
     <p>
-      Soil Type and Shaking Hazard in the S.F. Bay Area', 'The type of soil at
+      Soil Type and Shaking Hazard in the S.F. Bay Area. The type of soil at
       a site affects the intensity of shaking there. Learn about this effect and
       use interactive maps to look up the soil type at any site in the San
       Francisco Bay Area.
@@ -48,7 +47,7 @@
   <li>
     <a href="http://geomaps.wr.usgs.gov/sfgeo/liquefaction/">
       <h4>Liquefaction Susceptibility Map for San Francisco Bay Region</h4>
-      <img src="images/sfliquifaction.gif" alt=""/>
+      <img src="images/sfliquifaction.gif" alt="thumbnail of liquefaction poster"/>
     </a>
     <p>
       Shows the distribution of rock and sediment having
@@ -59,7 +58,7 @@
   <li>
     <a href="http://www.abag.ca.gov/bayarea/eqmaps/">
       <h4>San Francisco Bay Area Hazard Maps</h4>
-      <img src="images/abag.gif" alt=""/>
+      <img src="images/abag.gif" alt="thumbnail of ABAG logo"/>
     </a>
     <p>
       Association of Bay Area Governments
@@ -70,7 +69,7 @@
   <li>
     <a href="http://www.conservation.ca.gov/cgs/shzp/Pages/Index.aspx">
       <h4>California Seismic Hazard Maps</h4>
-      <img src="images/ca.gif" alt=""/>
+      <img src="images/ca.gif" alt="thumbnail of CA.GOV logo"/>
     </a>
     <p>
       In 1880 the California
@@ -86,7 +85,7 @@
   <li>
     <a href="images/ceus-seis-haz.pdf">
       <h4>Central and Eastern U.S. Hazard and Seismicity Map</h4>
-      <img src="images/ceus-seis-haz.gif" alt=""/>
+      <img src="images/ceus-seis-haz.gif" alt="thumbnail of seismicity of CEUS"/>
     </a>
     <p>
       This map shows earthquakes (circles) greater than magnitude 3.0 since 1974
@@ -97,9 +96,18 @@
     </p>
   </li>
   <li>
+    <a href="ceus-regional.php">
+      <h4>New Madrid Seismic Zone, Wabash Valley Seismic Zone, and Shoal Creek/Southern Illinois Basin Scenarios</h4>
+      <img src="images/nmsz.jpg" width="144" alt="New Madrid Seismic Zone hazard map"/>
+    </a>
+    <p>
+      New Madrid Seismic Zone, Wabash Valley Seismic Zone, and Shoal Creek/Southern Illinois Basin scenarios.
+    </p>
+  </li>
+  <li>
     <a href="memphis/">
       <h4>Memphis, Shelby County Earthquake Hazards Mapping</h4>
-      <img src="images/memphis.gif" alt=""/>
+      <img src="images/memphis.gif" alt="thumbnail of Shelby County hazard map"/>
     </a>
     <p>
       Memphis, Shelby County, Tennessee, is located where damaging earthquakes
@@ -118,7 +126,7 @@
   <li>
     <a href="evansville/">
       <h4>Evansville Area Earthquake Hazards Mapping</h4>
-      <img src="images/evansville.gif" alt=""/>
+      <img src="images/evansville.gif" alt="thumbnail of Evansville hazard map"/>
     </a>
     <p>
       In tri-state Evansville area of Indiana, Kentucky, and Illinois the USGS
@@ -129,7 +137,7 @@
   <li>
     <a href="st_louis.php">
       <h4>St. Louis Area Earthquake Hazards Mapping</h4>
-      <img src="images/stlouis.gif" alt=""/>
+      <img src="images/stlouis.gif" alt="thumbnail of St. Louis hazard map"/>
     </a>
     <p>
       In the St. Louis area of Missouri and Illinois the USGS is partnering
@@ -144,7 +152,7 @@
   <li>
     <a href="seattle.php">
       <h4>Seattle Urban Seismic Hazard Maps</h4>
-      <img src="images/seattle.gif" width="144px" alt=""/>
+      <img src="images/seattle.gif" width="144px" alt=" thumbnail of Seattle area hazard map"/>
     </a>
     <p>
       The USGS has produced a new series
@@ -159,7 +167,7 @@
   <li>
     <a href="http://geomaps.wr.usgs.gov/pacnw/lifeline/index.html">
       <h4>Lifelines and earthquake hazards in the greater Seattle area</h4>
-      <img src="images/lifelines.gif" alt=""/>
+      <img src="images/lifelines.gif" alt="thumbnail of publication cover"/>
     </a>
     <p>
       A Pacific Northwest Urban Corridor Geologic Mapping
@@ -169,7 +177,7 @@
   <li>
     <a href="http://geomaps.wr.usgs.gov/pacnw/map.html">
       <h4>Pacific Northwest Urban Mapping &amp; Geologic Hazards</h4>
-      <img src="images/geomap.gif" alt=""/>
+      <img src="images/geomap.gif" alt=" thumbnail of Pacific Northwest relief map"/>
     </a>
     <p>
       The urban corridor lies within the Puget-Willamtte lowland, a

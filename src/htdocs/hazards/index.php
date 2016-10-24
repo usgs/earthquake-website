@@ -28,11 +28,11 @@ if (!isset($TEMPLATE)) {
       </li>
       <li>
         <a href="hazmaps/">
-          <h4>Hazard Maps and Site-Specific Data</h4>
+          <h4>Seismic Hazard Maps and Other Products</h4>
           <img src="images/hazmap-2x.gif" width="150"/>
         </a>
         <p>
-          Probabilistic and scenario ground-motion hazard maps, input and output data, and documentation.  Also, tools to create customized hazard and probability maps with additional options to assess individual source-contributions to overall hazard.
+          U.S. Seismic Hazard Maps, hazard tools, and other products.
         </p>
       </li>
       <li>
@@ -44,6 +44,16 @@ if (!isset($TEMPLATE)) {
           Interactive fault map and comprehensive geologically based information on known or suspected active faults and folds in the United States. Also, generalized fault data used in the hazard maps.
         </p>
       </li>
+      <li>
+        <a href="/products/scenarios/">
+          <h4>Scenarios</h4>
+          <img src="images/scenario.png" width="150"/>
+        </a>
+        <p>
+          Earthquake Scenarios describe the expected ground motions and effects of specific hypothetical large earthquakes.
+        </p>
+      </li>
+
       <li>
         <a href="contributions.php">
           <h4>Request for Hazard Modeling Contributions</h4>
@@ -68,7 +78,8 @@ if (!isset($TEMPLATE)) {
       </p>
       <ul>
         <li><a href="learn/">Introduction to the Hazard Maps</a></li>
-        <li><a href="about/basics.php">Earthquake Hazards 101</a>-The Basics</li>
+        <li><a href="learn/basics.php">Earthquake Hazards 101</a>-The Basics</li>
+        <li><a href="qfaults/interactive/">Interactive U.S. Faults Map</a></li>
         <li><a href="http://pubs.usgs.gov/fs/2008/3017/">Fact Sheet</a> - U.S. National Seismic Hazard Maps</li>
         <li><a href="http://www.usgs.gov/faq/taxonomy/term/9843">Seismic Hazard Maps FAQ</a></li>
       </ul>
@@ -78,10 +89,10 @@ if (!isset($TEMPLATE)) {
 
       <h3>Technical Overview and Workshops</h3>
       <ul>
-        <li><a href="about/technical.php">Earthquake Hazards 201</a>-Technical Q&amp;A</li>
-        <li><a href="about/workshops/">Workshops</a></li>
-        <li><a href="about/personnel.php">Personnel</a></li>
-        <li><a href="/learn/publications/pubs_tech.php#NationalSeismicHazardMaps%28NSHM%29">Publications</a></li>
+        <li><a href="learn/technical.php">Earthquake Hazards 201</a>-Technical Q&amp;A</li>
+        <li><a href="workshops/">Workshops</a></li>
+        <li><a href="personnel.php">Personnel</a></li>
+        <li><a href="pubs.php">Publications</a></li>
       </ul>
     </div>
   </div>
