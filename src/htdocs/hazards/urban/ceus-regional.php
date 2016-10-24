@@ -1,18 +1,17 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	10/20/2016
+      //	Contact: Mark Peterson
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Regional Hazard Maps and Data Download';
+      $TITLE	=	'New Madrid Seismic Zone, Wabash Valley Seismic Zone, and Shoal Creek/Southern Illinois Basin Scenarios';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
 ?>
 
 <figure class="right">
-  <img src="ftp://hazards.cr.usgs.gov/web/nshm/urban/memphis/download/regional/nm_sw_pga_350.gif" alt=""/>
+  <img style="margin-right: 1em;" src="images/nmsz.jpg" alt="New Madrid Seismic Zone hazard map"/>
 </figure>
-<div style="background-color: #F5F5F5; padding: 2em;">
+<div style="background-color: #F5F5F5; padding: 1em;">
   The regional maps available here are derived in much the same way
   as the urban seismic hazard maps,
   with both including the effects of shallow geologic structure on estimated ground shaking.&nbsp;
