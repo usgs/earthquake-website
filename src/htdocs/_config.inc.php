@@ -38,6 +38,11 @@ $HEAD =
     'seismogram,seismograph,seismologist,seismology,subduction,' .
     'tectonics,tsunami,quake,sismologico,sismologia' .
     '"/>' .
+// facebook meta tags
+  '<meta property="og:image" content="http://' . $SITE_URL .
+      '/theme/images/usgs-logo-facebook.png"/>' .
+  '<meta property="og:image:height" content="500"/>' .
+  '<meta property="og:image:width" content="500"/>' .
 // universal analytics (should be last in $HEAD)
   '<script id="_fed_an_ua_tag" async="async" src="' .
       '/lib/Universal-Federated-Analytics-Min.1.0.js' .
