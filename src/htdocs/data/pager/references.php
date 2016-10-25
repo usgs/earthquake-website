@@ -64,7 +64,7 @@ $references['AllenWald2009'] = array(
 );
 $references['AllenEtAl2009'] = array(
 	'key' => 'AllenEtAl2009',
-	'link' => 'prodandref/AllenEtAlPAGERCAT.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/AllenEtAlPAGERCAT.pdf',
 	'authors' => 'Allen, T. I., K. D. Marano, P. S. Earle, and D. J. Wald',
 	'short' => 'Allen, T. I. et al',
 	'year' => '2009',
@@ -83,7 +83,7 @@ $references['AllenWald2007'] = array(
 );
 $references['AllenEtAl2009b'] = array(
 	'key' => 'AllenEtAl2009b',
-	'link' => 'prodandref/AllenEtAlAtlas.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/AllenEtAlAtlas.pdf',
 	'authors' => 'Allen, T. I., Wald, D.J, Earle, P. S., Marano, K. D., ' .
 	'Hotovec, A.J., Lin, K., and Hearne, M',
 	'short' => 'Allen, T. I. et al',
@@ -103,7 +103,7 @@ $references['AllenEtAl2008a'] = array(
 );
 $references['AtkinsonWald2007'] = array(
 	'key' => 'AtkinsonWald2007',
-	'link' => 'prodandref/AtkinsonWaldDYFI.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/AtkinsonWaldDYFI.pdf',
 	'authors' => 'Atkinson, G. M., and D. J. Wald',
 	'year' => '2007',
 	'title' => '"Did You Feel It?" intensity data: A surprisingly good ' .
@@ -124,7 +124,7 @@ $references['EarleWald2009'] = array(
 );
 $references['EarleEtAl2008'] = array(
 	'key' => 'EarleEtAl2008',
-	'link' => 'prodandref/Earle_et_al_(2008)_14WCEE_PAGER_Wenchuan.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Earle_et_al_(2008)_14WCEE_PAGER_Wenchuan.pdf',
 	'authors' => 'Earle, P. S., D. J. Wald, T. I. Allen, K. S. Jaiswal, ' .
 		'K. A. Porter, and M. G. Hearne',
 	'short' => 'Earle, P. S. et al',
@@ -137,7 +137,7 @@ $references['EarleEtAl2008'] = array(
 );
 $references['GodtEtAl2008'] = array(
 	'key' => 'GodtEtAl2008',
-	'link' => 'prodandref/Godt_et_al_(2009)_PAGER_Landslides.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Godt_et_al_(2009)_PAGER_Landslides.pdf',
 	'authors' => 'Godt, J., B. Sener, K. Verdin, D. Wald, P. Earle, ' .
 		'E. Harp, and R. Jibson',
 	'short' => 'Godt, J. et al',
@@ -148,7 +148,7 @@ $references['GodtEtAl2008'] = array(
 );
 $references['HayesWald2009'] = array(
 	'key' => 'HayesWald2009',
-	'link' => 'prodandref/HayesWald2009_gji_siga.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/HayesWald2009_gji_siga.pdf',
 	'authors' => 'Hayes, G. P., and D. J. Wald',
 	'year' => '2009',
 	'title' => 'Developing framework to constrain the geometry of the ' .
@@ -165,7 +165,7 @@ $references['HayesEtAl2010'] = array(
 );
 $references['HayesEtAl2009'] = array(
 	'key' => 'HayesEtAl2009',
-	'link' => 'prodandref/HayesEtAl_2009_siga2_g3.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/HayesEtAl_2009_siga2_g3.pdf',
 	'authors' => 'Hayes, G. P., Wald, D. J., and Keranen, K',
 	'short' => 'Hayes, G.P. et al',
 	'year' => '2009',
@@ -187,7 +187,7 @@ $references['HayesEtAl2012'] = array(
 );
 $references['JaiswalWald2008a'] = array(
 	'key' => 'JaiswalWald2008a',
-	'link' => 'prodandref/Jaiswal_Wald_(2008)_14WCEE_PAGER_Inventory.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Jaiswal_Wald_(2008)_14WCEE_PAGER_Inventory.pdf',
 	'authors' => 'Jaiswal, K. S., and Wald, D. J.',
 	'year' => '2008a',
 	'title' => 'Developing a global building inventory for earthquake loss ' .
@@ -223,7 +223,7 @@ $references['JaiswalWald2009a'] = array(
 );
 $references['JaiswalEtAl2009b'] = array(
 	'key' => 'JaiswalEtAl2009b',
-	'link' => 'prodandref/Jaiswal_Kishor.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Jaiswal_Kishor.pdf',
 	'authors' => 'Jaiswal, K. S., Wald, D. J., Earle, P. S., Porter, K. A., ' .
 		'and Hearne, M.',
 	'short' => 'Jaiswal, K. S. et al',
@@ -235,7 +235,7 @@ $references['JaiswalEtAl2009b'] = array(
 );
 $references['JaiswalWald2010a'] = array(
 	'key' => 'JaiswalWald2010a',
-	'link' => 'prodandref/Jaiswal_Wald_Porter_(2010)_PAGER_Building_Inventory_Spectra.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Jaiswal_Wald_Porter_(2010)_PAGER_Building_Inventory_Spectra.pdf',
 	'authors' => 'Jaiswal, K. S., Wald, D. J., and Porter, K. A.',
 	'year' => '2010a',
 	'title' => 'A Global Building Inventory for Earthquake Loss Estimation ' .
@@ -245,7 +245,7 @@ $references['JaiswalWald2010a'] = array(
 );
 $references['JaiswalWald2010b'] = array(
 	'key' => 'JaiswalWald2010b',
-	'link' => 'prodandref/Jaiswal_Wald_2010_Semi.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Jaiswal_Wald_2010_Semi.pdf',
 	'authors' => 'Jaiswal, K. S., and Wald, D. J.',
 	'year' => '2010b',
 	'title' => 'Development of a semi-empirical loss model within the USGS ' .
@@ -256,7 +256,7 @@ $references['JaiswalWald2010b'] = array(
 );
 $references['JaiswalWald2010c'] = array(
 	'key' => 'JaiswalWald2010c',
-	'link' => 'prodandref/Jaiswal_&_Wald_(2010)_Empirical_Fatality_Model.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Jaiswal_&_Wald_(2010)_Empirical_Fatality_Model.pdf',
 	'authors' => 'Jaiswal, K. S., and Wald, D. J.',
 	'year' => '2010c',
 	'title' => 'An Empirical Model for Global Earthquake Fatality Estimation',
@@ -273,7 +273,7 @@ $references['JaiswalWald2011'] = array(
 );
 $references['JaiswalWaldDAyala2011'] = array(
 	'key' => 'JaiswalWaldDAyala2011',
-	'link' => 'prodandref/Jaiswal_Wald_DAyala_2011_Empirical_Collapse.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Jaiswal_Wald_DAyala_2011_Empirical_Collapse.pdf',
 	'authors' => 'Jaiswal, K. S., Wald, D. J., and D&rsquo;Ayala, D.',
 	'short' => 'Jaiswal, K.S., Wald, D.J., D&rsquo;Ayala, D.',
 	'year' => '2011',
@@ -282,7 +282,7 @@ $references['JaiswalWaldDAyala2011'] = array(
 );
 $references['JiEtAl2004'] = array(
 	'key' => 'JiEtAl2004',
-	'link' => 'prodandref/Ji_et_al_(2004)_Denali_Spectra.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Ji_et_al_(2004)_Denali_Spectra.pdf',
 	'authors' => 'Ji, C., V. Helmberger, and D. J. Wald',
 	'short' => 'Ji, C. et al',
 	'year' => '2004',
@@ -292,7 +292,7 @@ $references['JiEtAl2004'] = array(
 );
 $references['MaranoEtAl'] = array(
 	'key' => 'MaranoEtAl',
-	'link' => 'prodandref/MaranoEtAlSecondary.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/MaranoEtAlSecondary.pdf',
 	'authors' => 'Marano, K. D., D. J. Wald, and T. I. Allen',
 	'short' => 'Marano, K. D. et al',
 	'year' => '2009',
@@ -302,7 +302,7 @@ $references['MaranoEtAl'] = array(
 );
 $references['PorterEtAl2008a'] = array(
 	'key' => 'PorterEtAl2008a',
-	'link' => 'prodandref/Porter_et_al_(2008)_14WCEE_PAGER_Loss_Models.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Porter_et_al_(2008)_14WCEE_PAGER_Loss_Models.pdf',
 	'authors' => 'Porter, K., K. Jaiswal, D. Wald, P. Earle, and M. Hearne',
 	'short' => 'Porter, K. et al',
 	'year' => '2008',
@@ -320,7 +320,7 @@ $references['Porter2008'] = array(
 );
 $references['PorterEtAl2008b'] = array(
 	'key' => 'PorterEtAl2008b',
-	'link' => 'prodandref/Porter_et_al_(2008)_14WCEE_WHE-PAGER.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Porter_et_al_(2008)_14WCEE_WHE-PAGER.pdf',
 	'authors' => 'Porter, K. A., K. S. Jaiswal, D. J. Wald, M. Green, ' .
 		'and C. Comartin',
 	'short' => 'Porter, K. et al',
@@ -350,7 +350,7 @@ $references['WaldDewey2005'] = array(
 );
 $references['WaldAllen2007'] = array(
 	'key' => 'WaldAllen2007',
-	'link' => 'prodandref/Wald_Allen_(2007)_BSSA_TopoSlope.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Wald_Allen_(2007)_BSSA_TopoSlope.pdf',
 	'authors' => 'Wald, D. J., and T. I. Allen',
 	'year' => '2007',
 	'title' => 'Topographic slope as a proxy for seismic site conditions ' .
@@ -368,7 +368,7 @@ $references['WaldEtAl2010'] = array(
 );
 $references['WaldEtAl2011b'] = array(
 	'key' => 'WaldEtAl2011b',
-	'link' => 'prodandref/Wald_et_al_2011_EarthquakeImpactScale_NHR.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Wald_et_al_2011_EarthquakeImpactScale_NHR.pdf',
 	'authors' => 'Wald, D. J., Jaiswal, K. S., Marano, K. D., and Bausch, D. B.',
 	'short' => 'Wald, D.J. et al',
 	'year' => '2011',
@@ -386,7 +386,7 @@ $references['WordenEtAl2010'] = array(
 );
 $references['WaldEtAl2009b'] = array(
 	'key' => 'WaldEtAl2009b',
-	'link' => 'prodandref/WaldEtAlPAGERAdvances.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/WaldEtAlPAGERAdvances.pdf',
 	'authors' => 'Wald, D. J., K. Jaiswal, K. Marano, P. Earle, ' .
 		'and T. I. Allen',
 	'short' => 'Wald, D.J. et al',
@@ -398,7 +398,7 @@ $references['WaldEtAl2009b'] = array(
 );
 $references['WaldEtAl2009'] = array(
 	'key' => 'WaldEtAl2009',
-	'link' => 'prodandref/Wald_David2.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Wald_David2.pdf',
 	'authors' => 'Wald, D. J., Jaiswal, K. S., Marano, K. D., and Bausch, D',
 	'short' => 'Wald, D.J. et al',
 	'year' => '2009',
@@ -410,7 +410,7 @@ $references['WaldEtAl2009'] = array(
 );
 $references['WaldEtAl2006a'] = array(
 	'key' => 'WaldEtAl2006a',
-	'link' => 'prodandref/Wald_et_al_(2006)_BERI_PAGER.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Wald_et_al_(2006)_BERI_PAGER.pdf',
 	'authors' => 'Wald, D. J., P. S. Earle, K. Lin, V. Quitoriano, and B. ' .
 		'Worden',
 	'short' => 'Wald, D.J. et al',
@@ -421,7 +421,7 @@ $references['WaldEtAl2006a'] = array(
 );
 $references['WaldEtAl2008a'] = array(
 	'key' => 'WaldEtAl2008a',
-	'link' => 'prodandref/Wald_et_al_(2008)_14WCEE_PAGER.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/Wald_et_al_(2008)_14WCEE_PAGER.pdf',
 	'authors' => 'Wald, D. J., P. S. Earle, T. I. Allen, K. Jaiswal, ' .
 		'K. Porter, and M. Hearne',
 	'short' => 'Wald, D.J. et al',
@@ -441,7 +441,7 @@ $references['WaldEtAl2008b'] = array(
 );
 $references['WaldEtAl2006b'] = array(
 	'key' => 'WaldEtAl2006b',
-	'link' => 'prodandref/WaldEtAlECEESDYFI.pdf',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/WaldEtAlECEESDYFI.pdf',
 	'authors' => 'Wald, D. J., V. Quitoriano, and J. W. Dewey',
 	'short' => 'Wald, D. J. et al',
 	'year' => '2006',
@@ -739,7 +739,7 @@ $products['SubductionSlabGeometryDatabase'] = array(
 $products['PAGER-CAT'] = array(
 	'key' => 'PAGER-CAT',
 	'name' => 'PAGER-CAT',
-	'link' => 'catalogs/',
+	'link' => 'ftp://hazards.cr.usgs.gov/web/data/pager/catalogs/',
 	'description' => 'Quality composite earthquake catalog (1900-2006)',
 	'use' => 'Source input for ShakeMap Atlas, ExposureCat',
 	'references' => array(
