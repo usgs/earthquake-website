@@ -56,6 +56,16 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
+   'id' => '2016-10-25ok',
+   'title' => 'Wastewater Disposal Likely Induced February 2016 Magnitude 5.1 Oklahoma Earthquake',
+   'content' => 'Distant wastewater disposal wells likely induced the third largest earthquake in recent Oklahoma record, the Feb. 13, 2016, magnitude 5.1 event roughly 32 kilometers northwest of Fairview, Oklahoma.',
+   'link' => 'https://www.usgs.gov/news/wastewater-disposal-likely-induced-february-2016-magnitude-51-oklahoma-earthquake',
+   'modified' => strtotime('2016-10-25'),
+   'thumbnail' => '/images-featured/2016-10-25.gif',
+   'image' => '/images-featured/2016-10-25.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => '2016-10-17shakeout',
    'title' => 'Get Ready to ShakeOut on October 20',
    'content' => 'Do you know what to do the moment the ground starts shaking? Drop, Cover, and Hold On!',
