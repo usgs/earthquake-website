@@ -32,6 +32,9 @@
   <li>Dr. John Anderson<br/>
   University of Nevada, Reno</li>
 
+  <li>Dr. Maureen Long <br/>
+  Yale University</li>
+
   <li>Ms. Janiele Maffei <br/>
   California Earthquake Authority</li>
 
