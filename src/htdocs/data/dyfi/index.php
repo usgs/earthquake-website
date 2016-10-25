@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: David Wald, wald@usgs.gov
-// Last modified: 10/05/2015
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'Did You Feel It?';

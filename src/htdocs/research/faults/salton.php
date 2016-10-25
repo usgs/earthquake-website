@@ -35,10 +35,10 @@ if (!isset($TEMPLATE)) {
 
 <h2>More Information</h2>
 <ol>
-  <li><a href="SSIP_InfoSheet.pdf">Background information</a> (2.5 Mb PDF)</li>
-  <li><a href="SSIP-FAQ.pdf">Frequently Asked Questions</a> (92 Kb PDF)</li>
-  <li><a href="SSIP_Environmental-Assesment.pdf">Environmental Assessment of our activities</a> (1.5 Mb PDF)</li>
-  <li><a href="SSIP-poster-2012-12.pdf">Preliminary Results</a> (19 Mb PDF)</li>
+  <li><a href="ftp://hazards.cr.usgs.gov/web/research/SSIP_InfoSheet.pdf">Background information</a> (2.5 Mb PDF)</li>
+  <li><a href="ftp://hazards.cr.usgs.gov/web/research/SSIP-FAQ.pdf">Frequently Asked Questions</a> (92 Kb PDF)</li>
+  <li><a href="ftp://hazards.cr.usgs.gov/web/research/SSIP_Environmental-Assesment.pdf">Environmental Assessment of our activities</a> (1.5 Mb PDF)</li>
+  <li><a href="ftp://hazards.cr.usgs.gov/web/research/SSIP-poster-2012-12.pdf">Preliminary Results</a> (19 Mb PDF)</li>
 </ol>
 
 <p class="small">
