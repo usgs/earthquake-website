@@ -13,7 +13,7 @@
 </p>
 <ul>
 <li><strong><a href="NEPEC-Charter-2016.pdf">NEPEC Charter</a> (PDF)</strong></li>
-<li><strong><a href="meetings/index.php">Meetings</a></strong></li>
+<li><strong><a href="meetings.php">Meetings</a></strong></li>
 <li><strong><a href="reports/index.php">Reports</a></strong></li>
 </ul>
 
