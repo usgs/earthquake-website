@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Nick Beeler
-// Last modified: Lisa Wald, 2016/08/10
 if (!isset($TEMPLATE)) {
   $TITLE = 'Rock Physics Labs - Current Projects';
   $NAVIGATION = true;
@@ -18,7 +17,7 @@ if (!isset($TEMPLATE)) {
 <h2>Earthquake Simulation in High-Velocity Rotary Shear Experiments</h2>
 
 <figure class='right'>
-	<video src="images/rotary.mp4" width="384" height="310" class="flash" controls></video>
+	<video src="/sitedata/research/eqproc/rockphysics/rotary.mp4" width="384" height="310" class="flash" controls></video>
 </figure>
 
 <p>
