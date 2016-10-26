@@ -24,7 +24,7 @@
 <h2>Organizations</h2>
 <ul>
   <li><a href="http://www.mngs.umn.edu/">Minnesota Geological Survey</a></li>
-  <li><a href="http://www.dnr.state.mn.us/index">Minnesota Department of Natural Resources</a></li>
+  <li><a href="http://www.dnr.state.mn.us/">Minnesota Department of Natural Resources</a></li>
   <li><a href="http://www.gsmn.org/">Geological Society of Minnesota</a></li>
   <li><a href="https://dps.mn.gov/divisions/hsem/">Minnesota Homeland Security and Emergency Management</a></li>
 </ul>

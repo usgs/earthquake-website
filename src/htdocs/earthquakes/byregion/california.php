@@ -20,7 +20,7 @@
 <ul>
   <li><a href="http://projects.eri.ucsb.edu/sb_eqs/">Santa Barbara Earthquake History</a> - University of California, Santa Barbara</li>
   <li><a href="http://www.sbnature.org/dibblee/index-2.html">Dibblee Foundation Geological Maps</a></li>
-  <li><a href="http://store.usgs.gov/b2c_usgs/catalog/setCurrentItem/(xcm=r3standardpitrex_prd&layout=6_1_61_50_2&uiarea=2&ctype=areaDetails&next=seeItem&carea=0000000149&citem=00000001490000000003)/.do">Earthquake Damage in Greater Los Angeles Poster</a></li>
+  <li><a href="https://pubs.er.usgs.gov/publication/ofr95693">Earthquake Damage in Greater Los Angeles Poster</a></li>
   <li><a href="http://www.sfbayquakes.org/">Portfolio of Images of Landscape, Seascape and Faults of the San Francisco Bay area</a> - USGS and PG&E</li>
   <li><a href="http://gmw.consrv.ca.gov/shmp/">California Seismic Hazard Zonation Program</a></li>
   <li><a href="http://www.data.scec.org/significant/fault-index.html">Faults of Southern California - SCEC</a></li>
