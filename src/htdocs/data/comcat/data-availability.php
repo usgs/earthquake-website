@@ -29,7 +29,7 @@
       <td>1923 to 2011</td>
     </tr>
     <tr>
-      <td><a href="comcat/catalog/ci/">CI</a></td>
+      <td><a href="catalog/ci/">CI</a></td>
       <td>1932 to present</td>
     </tr>
     <tr>
