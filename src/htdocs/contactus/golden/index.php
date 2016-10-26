@@ -66,7 +66,7 @@ include 'template.inc.php';
 
 <!-- Central US Education -->
 			<li>
-				<a href="/hazards/about/workshops/">
+				<a href="/hazards/workshops/">
 					<h4>National Seismic Hazard Mapping Workshops</h4>
 					<img src="images/ghsc-easternus-seis-2x.gif"/ alt="seismicity map of Central and Eastern U.S." width="150">
 				</a>
