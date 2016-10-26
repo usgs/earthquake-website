@@ -26,6 +26,6 @@
 <ul>
   <li><a href="https://www.dmme.virginia.gov/">Virginia Department of Mines, Minerals and Energy</a></li>
   <li><a href="http://www.magma.geos.vt.edu/vtso/">Virginia Tech Seismological Observatory</a></li>
-  <li><a href="https://www.dmme.virginia.gov/dgmr/divisongeologymineralresources.shtml">Virginia Division of Geology and Mineral Resources</a></li>
+  <li><a href="https://www.virginia.gov/agencies/environment/#paging:currentPage=0|paging:number=10">Virginia Division of Environment and Mineral Resources</a></li>
   <li><a href="http://www.vaemergency.gov/">Virginia Department of Emergency Management</a></li>
 </ul>

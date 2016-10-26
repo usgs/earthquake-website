@@ -25,6 +25,6 @@
 <h2>Organizations</h2>
 <ul>
   <li><a href="http://www.eas.slu.edu/eqc/">St. Louis University Earthquake Center</a></li>
-  <li><a href="www.ceri.memphis.edu">Center for Earthquake Research and Information (CERI)</a> - University of Memphis</li>
+  <li><a href="http://www.ceri.memphis.edu">Center for Earthquake Research and Information (CERI)</a> - University of Memphis</li>
   <li><a href="http://www.tnema.org/">Tennessee Emergency Management Agency</a></li>
 </ul>
