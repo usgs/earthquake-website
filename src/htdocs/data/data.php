@@ -64,8 +64,8 @@
       <ul>
     		<li>Real-time:
     			<ul>
-    				<li><a href="/monitoring/operations/heliplots_gsn.php">GSN Stations</a></li>
-    				<li><a href="/monitoring/operations/heliplots_anss.php">ANSS Backbone Stations</a></li>
+    				<li><a href="/monitoring/operations/heliplot.php?virtual_network=GSN">GSN Stations</a></li>
+    				<li><a href="/monitoring/operations/heliplot.php?virtual_network=ANSS">ANSS Backbone Stations</a></li>
     				<li><a href="/monitoring/netquakes/map/">Netquake Volunteer Stations</a></li>
     				<li><a href="/monitoring/spectrograms/">Spectrograms</a></li>
     			</ul>
@@ -177,7 +177,6 @@
       	</ul>
       	</li>
       	<li><a href="http://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">GEOS earthquake and aftershock data</a></li>
-      	<li><a href="/research/groundmotion">Ground Motion Field Investigations &amp; Seismic Arrays</a></li>
     	</ul>
     </div>
 
@@ -188,9 +187,9 @@
       <h3 id="model">Hazard Assessment Data and Models</h3>
 
       <ul>
-  			<li><a href="/hazards/products/foreign/">International Hazard Map Data</a></li>
-  			<li><a href="/hazards/products/">National Hazard Map Data</a></li>
-  			<li><a href="/hazards/products/urban/">Urban Hazard Map Data</a></li>
+  			<li><a href="/hazards/foreign.php">International Hazard Map Data</a></li>
+  			<li><a href="/hazards/hazmaps/">National Hazard Map Data</a></li>
+  			<li><a href="/hazards/urban/">Urban Hazard Map Data</a></li>
   		</ul>
 
   		<ul>
