@@ -47,7 +47,7 @@ if (!isset($TEMPLATE)) {
       <li>
         <a href="products/scenario/">
           <h4>Scenarios</h4>
-          <img src="images/scenario.png" width="150"/>
+          <img src="images/scenarios.png" width="150"/>
         </a>
         <p>
           Earthquake Scenarios describe the expected ground motions and effects of specific hypothetical large earthquakes.
