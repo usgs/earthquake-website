@@ -1,7 +1,7 @@
 <?php
   $section = "/hazards";
 
-  echo "<a href='/hazards' class='up-one-level'>Earthquakes</a>",
+  echo "<a href='/hazards' class='up-one-level'>Hazards</a>",
 
   "<section>",
 
