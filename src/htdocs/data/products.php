@@ -49,9 +49,9 @@
       <h3 id="haz">Hazard Maps</h3>
 
     	<ul>
-    		<li><a href="/hazards/products/foreign/">International Hazard Maps</a></li>
-    		<li><a href="/hazards/products/">National Hazard Maps</a></li>
-    		<li><a href="/hazards/products/urban/">Urban Hazard Maps</a></li>
+    		<li><a href="/hazards/foreign.php">International Hazard Maps</a></li>
+    		<li><a href="/hazards/hazmaps/">National Hazard Maps</a></li>
+    		<li><a href="/hazards/urban/">Urban Hazard Maps</a></li>
     	</ul>
 
     	<ul>
@@ -90,7 +90,7 @@
       </p>
     	<ul>
     		<li><a href="/learn/publications/">Selected USGS Earthquake Publications</a></li>
-    		<li><a href="http://www.usgs.gov/pubprod/">USGS Publications Warehouse</a></li>
+    		<li><a href="https://pubs.er.usgs.gov/">USGS Publications Warehouse</a></li>
     	</ul>
     </div>
 
