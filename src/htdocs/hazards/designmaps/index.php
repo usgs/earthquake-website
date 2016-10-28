@@ -2,8 +2,11 @@
   if (!isset($TEMPLATE)) {
     $TITLE = 'Seismic Design Maps &amp; Tools';
     $HEAD = '<link rel="stylesheet" href="index.css"/>';
-    $NAVIGATION = true;
-    //$CONTACT = ""/*who is the contact now?*/;
+  // Use Earthquake level nav file
+    include_once 'functions.inc.php';
+    ob_start();
+    include '../_navigation.inc.php';
+    $NAVIGATION = ob_get_clean();
     $FOOT = '<script src="/lib/hazdev-webutils.js"></script>' .
             '<script src="index.js"></script>';
     include 'template.inc.php';
@@ -39,8 +42,8 @@
 </ul></i>
 
 <p>
-  The USGS also provides <a href="datasets/">data files</a> and
-  <a href="pdfs/">maps</a> of these gridded design values.
+  The USGS also provides <a href="ftp://hazards.cr.usgs.gov/web/earthquake-designmaps/datasets/">data files</a> and
+  <a href="ftp://hazards.cr.usgs.gov/web/earthquake-designmaps/pdfs/">maps</a> of these gridded design values.
 </p>
 
 <h4><a href="/designmaps/beta/us/">U.S. Seismic Design Maps (Beta)</a></h4>

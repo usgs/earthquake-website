@@ -15,7 +15,7 @@
 <p>
   The USGS collaborates with organizations that develop model building codes to
   make seismic design parameter values available to engineers. Although the
-  USGS provides <a href="datasets/">data files</a> and <a href="pdfs/">maps</a>
+  USGS provides <a href="ftp://hazards.cr.usgs.gov/web/earthquake-designmaps/datasets/">data files</a> and <a href="ftp://hazards.cr.usgs.gov/web/earthquake-designmaps/pdfs/">maps</a>
   of the gridded design values, most engineers need design values only at their
   building site. This tool provides the design values from the specified
   building code reference document at the specified site.
