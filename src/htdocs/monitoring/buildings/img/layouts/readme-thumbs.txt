@@ -1,0 +1,1 @@
+mogrify -density 96 -quality 85 -resize 130x130 -format png *.pdf
