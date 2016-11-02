@@ -4,15 +4,16 @@
   if (!isset($TEMPLATE)) {
     $TITLE = 'Establishing the Story of Past Earthquakes on the San Andreas Fault to Inform the Future - working title';
     $NAVIGATION = true;
-    $HEAD = '<link rel="stylesheet" href="../styles.css"/>';
+    $HEAD = '<link rel="stylesheet" href="../styles.css"/>
+            <link rel="stylesheet" href="styles.css"/>';
     include 'template.inc.php';
   }
 ?>
 
-<figure class='right'>
+<figure class='right safz'>
   <img src='images/plates.gif' alt='plate tectonic cartoon'/>
   <figcaption>
-    ???
+    Cartoon sketch of the Pacific Plate-North American Plate boundary with the San Andreas Fault.
   </figcaption>
 </figure>
 
