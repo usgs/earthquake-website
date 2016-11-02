@@ -54,6 +54,15 @@ $EQ_FEATURES->baseUrl = '';
  *               strtotime('2014-10-31')
  *
  */
+ $EQ_FEATURES->items[] = array(
+   'id' => '2016-11-02',
+   'title' => 'Some Early 20th Century Earthquakes in Los Angeles Area Might Have Been Man-Made',
+   'content' => 'A new study from the USGS suggests that some early 20th century earthquakes in southern California might have been induced (man-made) by past practices that were used by the oil and gas industry.',
+   'link' => 'https://www.usgs.gov/news/some-early-20th-century-earthquakes-los-angeles-area-might-have-been-man-made',
+   'modified' => strtotime('2016-11-02'),
+   'thumbnail' => '/images-featured/hi-nov2.gif',
+   'image' => '/images-featured/hi-nov2.gif'
+ );
 
  $EQ_FEATURES->items[] = array(
    'id' => '2016-10-25ok',
