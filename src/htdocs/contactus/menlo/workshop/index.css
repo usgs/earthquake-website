@@ -1,0 +1,96 @@
+/* Form */
+
+fieldset {
+  margin: 0;
+  padding: 0;
+  border: 1px solid #ccc;
+  border-top: none;
+  width: 464px;
+}
+.field {
+  position: relative;
+  z-index: 1;
+  border-top: 1px solid #ccc;
+  overflow: auto;
+}
+.focus {
+  box-shadow: 0 0 0 2px #81cdf0;
+  border-radius: 2px;
+  z-index: 100;
+  border-color: transparent;
+}
+
+.field label, .field input, .required {
+  font: 15px/1.5 Helvetica, Arial, sans-serif;
+}
+.field label {
+  display: block;
+  float: left;
+  width: 30%;
+  margin: 0;
+  padding: 15px 10px;
+  cursor: pointer;
+}
+.field input {
+  display: inline; /* override template */
+  width: 70%;
+  margin: 0;
+  padding: 15px 8px;
+  border: 0;
+}
+.interacted input:invalid {
+  /* remove browser defaults (outline / box-shadow, depending on browser) */
+  outline: 0;
+  box-shadow: none;
+}
+.interacted input:invalid + label {
+  border-right: 3px solid #f66;
+  background: #fee;
+}
+input:focus {
+  outline: none;
+  /* override template */
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
+fieldset input:required + label:after, p.required:after {
+  content: " *";
+  color: rgb(199, 108, 108);
+}
+
+.radio {
+  display: flex;
+  margin: 1em 0;
+}
+.radio div {
+  margin-right: 2em;
+}
+
+/* Return page */
+
+dd {
+  margin: 0 0 1em 0;
+  color: #666;
+  font-size: .9em;
+}
+
+.success {
+  background: #cfc;
+  border: 1px solid #ada;
+  padding: 0 4px;
+  margin-right: 16px;
+}
+
+ul.nobullet {
+  border: dotted #ccc;
+  border-width: 1px 0 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ul.nobullet li {
+  margin: 0;
+}
+ul.nobullet h4 {
+  margin-bottom: 0;
+}
