@@ -116,9 +116,10 @@ if (isSet($_POST['submit'])) { // user submitted form
       to the seismic hazards and risk in Northern California. Researchers with
       NEHRP external grants funded for FY16 and FY17 are especially encouraged
       to present their results and will have their travel and per diem for the
-      workshop covered if needed (please contact Jack Boatwright [boat@usgs.gov]).
-      The workshop is open to anyone in the scientific community interested in
-      better defining earthquake hazards and risk in Northern California.</p>
+      workshop covered if needed (please contact
+      <a href="mailto:boat@usgs.gov">Jack Boatwright</a>). The workshop is open
+      to anyone in the scientific community interested in better defining
+      earthquake hazards and risk in Northern California.</p>
     <p><strong>U.S. Citizens</strong> must show a valid, officially-issued
       picture identification at the NASA Research Park gate to enter onto the
       NASA Research Park, where the conference center is located.</p>
@@ -132,7 +133,8 @@ if (isSet($_POST['submit'])) { // user submitted form
     <ul>
       <li>Earthquake sources, liquefaction, and landslides in the South Bay</li>
       <li>Reducing seismic risk for critical facilities in urban areas</li>
-      <li>What do creep and paleoseismology tell us about the seismic hazard of the Hayward fault?</li>
+      <li>What do creep and paleoseismology tell us about the seismic hazard of
+        the Hayward fault?</li>
       <li>Seismic hazards for creeping faults</li>
       <li>Uses of earthquake early warning</li>
       <li>Unmanned aerial vehicles for earthquake response</li>
