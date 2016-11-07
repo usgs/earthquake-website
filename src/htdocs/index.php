@@ -41,8 +41,12 @@ if (!isset($TEMPLATE)) {
         the raw data here</a>.
       </noscript>
     </div>
-  </div>
 
+    <p>
+      <a href="earthquakes/browse/significant.php">Significant Earthquakes Archive</a>
+    </p>
+
+  </div>
 
 <!-- LEFT COLUMN: WEBSITE SECTIONS and HIGHLIGHTS -->
   <div class="column one-of-two">
