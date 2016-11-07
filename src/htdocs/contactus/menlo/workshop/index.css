@@ -69,9 +69,3 @@ span.required {
 .radio div {
   margin-right: 2em;
 }
-
-/* Return page */
-
-.results {
-  border-top: 1px solid #eee;
-}

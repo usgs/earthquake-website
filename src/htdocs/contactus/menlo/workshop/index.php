@@ -55,7 +55,10 @@ if (isSet($_POST['submit'])) { // user submitted form
   $stmt->execute($fields);
 
   // Create summary html
-  $return_html = '<ul class="no-style results">
+  $return_html = '<p class="alert success">Thank you for filling out the
+    registration form. We&rsquo;ll see you at the workshop.</p>';
+
+  $return_html .= '<ul class="no-style results">
       <li><h4>First Name</h4> ' . $fields['fname'] . '</li>
       <li><h4>Last Name</h4> ' . $fields['lname'] . '</li>
       <li><h4>Email</h4> ' . $fields['email'] . '</li>
@@ -77,9 +80,6 @@ if (isSet($_POST['submit'])) { // user submitted form
   $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
   $headers .= "From: shaefner@usgs.gov";
   mail($admin, "Workshop form submitted: $fname $lname", $return_html, $headers);
-
-  print '<p class="alert success">Thank you for filling out the registration form.
-    We&rsquo;ll see you at the workshop.</p>';
 }
 
 ?>
