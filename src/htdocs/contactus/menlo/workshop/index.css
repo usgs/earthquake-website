@@ -7,6 +7,7 @@ fieldset {
   border-top: none;
   width: 464px;
 }
+
 .field {
   position: relative;
   z-index: 1;
@@ -57,6 +58,9 @@ fieldset input:required + label:after, p.required:after {
   content: " *";
   color: rgb(199, 108, 108);
 }
+span.required {
+  color: rgb(199, 108, 108);
+}
 
 .radio {
   display: flex;
@@ -68,29 +72,6 @@ fieldset input:required + label:after, p.required:after {
 
 /* Return page */
 
-dd {
-  margin: 0 0 1em 0;
-  color: #666;
-  font-size: .9em;
-}
-
-.success {
-  background: #cfc;
-  border: 1px solid #ada;
-  padding: 0 4px;
-  margin-right: 16px;
-}
-
-ul.nobullet {
-  border: dotted #ccc;
-  border-width: 1px 0 0;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-ul.nobullet li {
-  margin: 0;
-}
-ul.nobullet h4 {
-  margin-bottom: 0;
+.results {
+  border-top: 1px solid #eee;
 }
