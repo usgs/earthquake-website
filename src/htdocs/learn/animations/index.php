@@ -10,171 +10,114 @@
 ?>
 
 <div class="row">
-
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="aftershocks.php">
-        <h4>Aftershocks, Foreshocks &amp; Mainshocks</h4>
-        <img src="images/aftershocks.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="amplification.php">
-        <h4>Amplification</h4>
-        <img src="images/amplification.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="asperity.php">
-        <h4>Asperity</h4>
-        <img src="images/asperity.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="attenuation.php">
-        <h4>Attenuation</h4>
-        <img src="images/attenuation.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="blindthrustfault.php">
-        <h4>Blind Thrust Fault</h4>
-        <img src="images/blindthrustfault.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="directivity.php">
-        <h4>Directivity</h4>
-        <img src="images/directivity.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="divergent.php">
-        <h4>Divergent</h4>
-        <img src="images/divergent.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="elasticrebound.php">
-        <h4>Elastic Rebound</h4>
-        <img src="images/elasticrebound.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="horstandgraben.php">
-        <h4>Horst and Graben</h4>
-        <img src="images/horstandgraben.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="greatcircle.php">
-        <h4>Great Circle</h4>
-        <img src="images/greatcircle.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="liquefaction.php">
-        <h4>Liquefaction</h4>
-        <img src="images/liquefaction.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="normalfault.php">
-        <h4>Normal Fault</h4>
-        <img src="images/normalfault.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="shadowzone.php">
-        <h4>Shadow Zone</h4>
-        <img src="images/shadowzone.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="strikeslip.php">
-        <h4>Strike-Slip Fault</h4>
-        <img src="images/strikeslip.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="thrustfault.php">
-        <h4>Thrust Fault</h4>
-        <img src="images/thrustfault.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-  <ul class="no-style linklist card">
-    <li>
-      <p>
-        <a href="wavefront.php">
-        <h4>Wavefront</h4>
-        <img src="images/wavefront.png" alt=" icon"  width=150/>
-        </a>
-      </p>
-    </li>
-  </ul>
-
+  <div class="column one-of-four">
+    <a href="aftershocks.php">
+      <h3>Aftershocks, Foreshocks &amp; Mainshocks</h3>
+      <img src="images/aftershocks.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="amplification.php">
+      <h3>Amplification</h3>
+      <img  style="vertical-align:bottom" src="images/amplification.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="asperity.php">
+      <h3>Asperity</h3>
+      <img src="images/asperity.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="attenuation.php">
+      <h3>Attenuation</h3>
+      <img src="images/attenuation.png" alt=" icon"  width=150/>
+    </a>
+  </div>
 </div>
 
-<h2>More USGS Videos and Animations</h2>
+<div class="row">
+  <div class="column one-of-four">
+    <a href="blindthrustfault.php">
+      <h3>Blind Thrust Fault</h3>
+      <img src="images/blindthrustfault.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="directivity.php">
+      <h3>Directivity</h3>
+      <img src="images/directivity.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="divergent.php">
+      <h3>Divergent</h3>
+      <img src="images/divergent.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="elasticrebound.php">
+      <h3>Elastic Rebound</h3>
+      <img src="images/elasticrebound.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column one-of-four">
+    <a href="horstandgraben.php">
+      <h3>Horst and Graben</h3>
+      <img src="images/horstandgraben.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="greatcircle.php">
+      <h3>Great Circle</h3>
+      <img src="images/greatcircle.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="liquefaction.php">
+      <h3>Liquefaction</h3>
+      <img src="images/liquefaction.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="normalfault.php">
+      <h3>Normal Fault</h3>
+      <img src="images/normalfault.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column one-of-four">
+    <a href="shadowzone.php">
+      <h3>Shadow Zone</h3>
+      <img src="images/shadowzone.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="strikeslip.php">
+      <h3>Strike-Slip Fault</h3>
+      <img src="images/strikeslip.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="thrustfault.php">
+      <h3>Thrust Fault</h3>
+      <img src="images/thrustfault.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+  <div class="column one-of-four">
+    <a href="wavefront.php">
+      <h3>Wavefront</h3>
+      <img src="images/wavefront.png" alt=" icon"  width=150/>
+    </a>
+  </div>
+</div>
+
+<h3>More USGS Videos and Animations</h3>
 <ul>
 	<li><a href="http://education.usgs.gov/common/video_animation.htm#earthquakes">Earthquakes</a></li>
 	<li><a href="http://education.usgs.gov/common/video_animation.htm#tectonics">Plate Tectonics</a></li>
