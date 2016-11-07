@@ -91,6 +91,10 @@ and a link to Significant Earthquakes, Past 30 Days
       </noscript>
     </div>
 
+    <p>
+      <a href="browse/significant.php">Significant Earthquakes Archive</a>
+    </p>
+
     <h3><a href="/data/comcat/">ANSS Comprehensive Earthquake Catalog (ComCat) Documentation</a></h3>
     <p>Data availability, formats, API, feeds, access, contributors.</p>
 
