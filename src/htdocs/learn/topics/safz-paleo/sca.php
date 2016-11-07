@@ -10,7 +10,7 @@
 ?>
 
 <figure class='right'>
-  <img src='images/???' alt='CA map'/>
+  <img src='images/socal.jpg' alt='Southern CA map'/>
   <figcaption>
     ???
   </figcaption>
