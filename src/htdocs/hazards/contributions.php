@@ -1,8 +1,7 @@
 <?php
   // Author: Lisa Wald
   // Contact: Nico Luco,
-  // Last modified: 07/28/2016, Lisa Wald
-    if (!isset($TEMPLATE)) {
+     if (!isset($TEMPLATE)) {
       $TITLE = 'Request for Hazard Modeling Contributions';
       $NAVIGATION = true;
       include 'template.inc.php';
@@ -16,7 +15,7 @@
 With this memo, the USGS requests that the earthquake hazard community bring to our attention new earthquake source and ground motion data or models that could be included in the NSHM updates, at the discretion of the USGS. The sooner such data and models are brought to our attention, the more likely it is that we can include them, resources permitting.
 </p>
 <p>
-<strong>For the 2018 NSHM update, only peer-reviewed data and models published (or accepted for publication) by March of 2017 will be considered; likewise, the 2020 NSHMP update will only consider peer-reviewed data and models published by May of 2018.</strong>
+<strong>For the 2018 NSHM update, only peer-reviewed data and models published (or accepted for publication) by March of 2017 will be considered; likewise, the 2020 NSHMP update will only consider peer-reviewed data and models published by June of 2018.</strong>
 </p>
 
 <p><a href="images/contrib-sched.png">View NSHM Schedule 2016-2021</a></p>
