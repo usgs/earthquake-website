@@ -34,9 +34,6 @@
 </p>
 
 <h2>Pictures of Equipment</h2>
-<p>
-	<strong> NOTE: </strong> To lessen the loading time of this page, all pictures have been reduced by 50%. However, if you desire to view the full-size image, click on the miniature and the actual picture will be loaded.
-</p>
 <h3>The K2 Strong Motion Accelerograph</h3>
 <p>
 	The K2 data logger with force balanced accelerometers, the seismometer, and communications equipment that are typically used: <br />

@@ -9,6 +9,7 @@
       }
 ?>
 <!--<h2>Earthquake Monitoring History</h2>-->
+<a href="/learn/topics/history">History</a>
 <p>
 	Earthquake monitoring has been around for a long time, but the technology has advanced dramatically from it's origin in 132 AD in China.
 	The first "seismoscope" was a sculpture with carved dragons and frogs and balls that dropped from the dragon's mouth to a frog's mouth depending on where the earthquake occurred, or so they thought.
