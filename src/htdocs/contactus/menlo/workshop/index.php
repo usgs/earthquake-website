@@ -103,44 +103,41 @@ if (isSet($_POST['submit'])) { // user submitted form
   } else {
 ?>
 
-<div class="row">
-  <div class="column two-of-three">
-    <h3>Registration Form</h3>
+<p>The USGS Earthquake Program is hosting this workshop to encourage
+  communication and align internal and external research efforts to achieve
+  our scientific goals and promote earthquake hazard products in Northern
+  California.</p>
 
-    <p>Registration will close on Friday December 9, 2016.</p>
-    <p>The USGS Earthquake Program is hosting this workshop to encourage
-      communication and align internal and external research efforts to achieve
-      our scientific goals and promote earthquake hazard products in Northern
-      California.</p>
-    <p>All researchers are encouraged to present a poster on their work related
-      to the seismic hazards and risk in Northern California. Researchers with
-      NEHRP external grants funded for FY16 and FY17 are especially encouraged
-      to present their results and will have their travel and per diem for the
-      workshop covered if needed (please contact
-      <a href="mailto:boat@usgs.gov">Jack Boatwright</a>). The workshop is open
-      to anyone in the scientific community interested in better defining
-      earthquake hazards and risk in Northern California.</p>
-    <p><strong>U.S. Citizens</strong> must show a valid, officially-issued
-      picture identification at the NASA Research Park gate to enter onto the
-      NASA Research Park, where the conference center is located.</p>
-    <p><strong>All Foreign Nationals</strong> must go through NASA badging
-      procedures to attend meetings at the conference center. After you
-      register, NASA will contact you and ask you to submit additional
-      information.</p>
-  </div>
-  <div class="column one-of-three">
-    <h3>Tentative Sessions:</h3>
-    <ul>
-      <li>Earthquake sources, liquefaction, and landslides in the South Bay</li>
-      <li>Reducing seismic risk for critical facilities in urban areas</li>
-      <li>What do creep and paleoseismology tell us about the seismic hazard of
-        the Hayward fault?</li>
-      <li>Seismic hazards for creeping faults</li>
-      <li>Uses of earthquake early warning</li>
-      <li>Unmanned aerial vehicles for earthquake response</li>
-    </ul>
-  </div>
-</div>
+<h3>Tentative Sessions</h3>
+<ul>
+  <li>Earthquake sources, liquefaction, and landslides in the South Bay</li>
+  <li>Reducing seismic risk for critical facilities in urban areas</li>
+  <li>What do creep and paleoseismology tell us about the seismic hazard of
+    the Hayward fault?</li>
+  <li>Seismic hazards for creeping faults</li>
+  <li>Uses of earthquake early warning</li>
+  <li>Unmanned aerial vehicles for earthquake response</li>
+</ul>
+
+<p>All researchers are encouraged to present a poster on their work related
+  to the seismic hazards and risk in Northern California. Researchers with
+  NEHRP external grants funded for FY16 and FY17 are especially encouraged
+  to present their results and will have their travel and per diem for the
+  workshop covered if needed (please contact
+  <a href="mailto:boat@usgs.gov">Jack Boatwright</a>). The workshop is open
+  to anyone in the scientific community interested in better defining
+  earthquake hazards and risk in Northern California.</p>
+
+<h3>Registration Form</h3>
+
+<p>Registration will close on Friday December 9, 2016.</p>
+<p><strong>U.S. Citizens</strong> must show a valid, officially-issued
+  picture identification at the NASA Research Park gate to enter onto the
+  NASA Research Park, where the conference center is located.</p>
+<p><strong>All Foreign Nationals</strong> must go through NASA badging
+  procedures to attend meetings at the conference center. After you
+  register, NASA will contact you and ask you to submit additional
+  information.</p>
 
 <p><span class="required">*</span> = Required</p>
 
