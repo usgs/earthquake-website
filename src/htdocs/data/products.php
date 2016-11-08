@@ -38,7 +38,7 @@
       <h3 id="scenario">Earthquake Scenarios</h3>
 
     	<p>
-        <a href="/hazards/products/scenario/">Earthquake Scenarios</a> describe the expected ground motions and effects of specific hypothetical large earthquakes.
+        <a href="/scenarios/">Earthquake Scenarios</a> describe the expected ground motions and effects of specific hypothetical large earthquakes.
       </p>
     </div>
 
