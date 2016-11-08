@@ -81,7 +81,12 @@ input {
 
 </style>
 
+<p>
+  <a href="how_much_bigger.php">How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake?</a> An explanation of the magnitude of an earthquake versus the strength, or energy release, of an earthquake... with a little bit of math.
+</p>
+
 <h2>How much bigger is a magnitude...</h2>
+
 <form>
   <label>
     <input type="number" size="4" value="8.7" name="mag1" min="-3" max="10" size="4" style="width:100px">
