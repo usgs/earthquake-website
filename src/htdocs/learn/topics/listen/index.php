@@ -9,6 +9,9 @@
       }
 ?>
 
+<figure class="right">
+  <img src="" alt="" width="354px" height="336px"/>
+</figure>
 <p>
 	<em>Created by Andy Michael, USGS, and Daniel Ross, 12 year old USGS Volunteer for Science.</em>
 </p>
@@ -46,3 +49,44 @@
   your computer doesn't have good speakers (a subwoofer is best)
   then try using a pair of earphones.
 </p>
+
+<h2>Interactive Learning Quiz</h2>
+<div class="row">
+  <div class="column one-of-four">
+    <a href="source.php"><h3>Fault Length Effects</h3></a>
+    <p>
+      Earthquakes come in many different sizes which you generally hear described by their magnitude.
+      There are other ways to measure the size of an earthquake, for instance we can measure how long
+      the fault was that slipped during the earthquake.
+    </p>
+    <img src="" alt="" width="220px" height="150px">
+  </div>
+  <div class="column one-of-four">
+    <a href="distance.php"><h3>Distance Effects</h3></a>
+    <p>
+      As sound travels through the air or earthquake shaking travels through the ground, the waves lose
+      energy. And so a band sounds louder close to the stage than further back and an earthquake feels
+      stronger close to the fault than further away.
+    </p>
+    <img src="" alt="" width="220px" height="150px">
+  </div>
+  <div class="column one-of-four">
+    <a href="rocktype.php"><h3>Rock Type Effects</h3></a>
+    <p>
+      When learning about how distance affects shaking we learned that the waves lose energy as
+      they travel. How fast they lose energy depends on the type of rock they are traveling through.
+    </p>
+    <img src="" alt="" width="220px" height="150px">
+  </div>
+  <div class="column one-of-four">
+    <a href="combination.php"><h3>Mulitple Earthquakes</h3></a>
+    <p>
+      It may be easier to hear the small triggered earthquakes than it is to see them. The Landers
+      earthquake is far from the seismometer so most of its high frequencies have died away before
+      the waves reach the seismometer. But the small earthquakes have small fault areas and
+      therefore produced high frequency energy and because they are near the seismometer this energy
+      has not died away.
+    </p>
+    <img src="" alt="" width="220px" height="150px">
+  </div>
+</div>

@@ -2,7 +2,7 @@
 $section = "/learn/topics/listen";
 
 print navItem("$section/index.php", "Introduction");
-print navGroup(navItem("$section/source.php", "Interactive Listening Quiz"),
+print navGroup("Interactive Listening Quiz",
   navItem("$section/source.php", "Fault Length Effects") .
 	navItem("$section/distance.php", "Distance Effects") .
 	navItem("$section/rocktype.php", "Rock Type Effects") .
