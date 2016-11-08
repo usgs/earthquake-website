@@ -45,7 +45,7 @@ if (!isset($TEMPLATE)) {
         </p>
       </li>
       <li>
-        <a href="products/scenario/">
+        <a href="/scenarios/">
           <h4>Scenarios</h4>
           <img src="images/scenarios.png" width="150"/>
         </a>

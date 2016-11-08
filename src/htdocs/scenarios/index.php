@@ -32,7 +32,7 @@
     <ul class="no-style linklist">
       <li>
         <a href="catalog/">
-          <h2>USGS "Off-the-Shelf" Scenarios Collection</h2>
+          <h2>Scenario Catalogs</h2>
           <img src="images/scenario-coll.jpg" width="75px" alt=""/>
         </a>
         <p>
