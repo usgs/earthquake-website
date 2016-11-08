@@ -17,12 +17,6 @@ include '../_catalog.inc.php';
   2014 version of the USGS national seismic hazard maps.
 </p>
 
-<p>
-  Note that the events in this catalog are being added gradually. Currently, all
-  of the events for California are available. We will be adding the rest of the
-  BSSC events soon. 
-</p>
-
 <h3 id="ground-motion-models">Ground Motion Models</h3>
 <p>
   For a given rupture, the ground motion shaking intensity parameters are
