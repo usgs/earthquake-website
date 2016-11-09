@@ -76,13 +76,13 @@ if (isSet($_POST['submit'])) { // user submitted form
 
   // Email alert
   $admin = 'shane@usgs.gov';
-  $admin = 'shaefner@usgs.gov';
+  //$admin = 'shaefner@usgs.gov';
   $headers = "MIME-Version: 1.0" . "\r\n";
   $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
   $headers .= "From: shaefner@usgs.gov";
   $name = htmlentities(stripslashes($fields['fname'])) . ' ' .
     htmlentities(stripslashes($fields['lname']));
-  #mail($admin, "Workshop form submitted: $name", $return_html, $headers);
+  mail($admin, "Workshop form submitted: $name", $return_html, $headers);
 }
 
 ?>
