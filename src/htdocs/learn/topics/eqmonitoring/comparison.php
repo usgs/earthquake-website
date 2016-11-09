@@ -10,12 +10,17 @@
 ?>
 <!--<h2>A Comparison of Analog and Digital Seismograms</h2>-->
 <p>
-	Here is an image of an analog recording of an earthquake.The relatively flat lines are periods of quiescence and the large and squiggly line is an earthquake.<br />
-	<br />
-  <img src="images/classic_seis.gif" alt="Image of a classic analog seismogram"/><br />
-  <br />
-  Below is a digital seismogram. The data is stored electronically, easy to access and manipulate, and much more accurate and detailed than the analog recordings.<br />
-  <br />
+	Here is an image of an analog recording of an earthquake.The relatively flat lines are periods of quiescence and the large and squiggly line is an earthquake.
+</p>
+<h2>Analog</h2>
+<p>
+  <img src="images/classic_seis.gif" alt="Image of a classic analog seismogram"/>
+</p>
+<p>
+  Below is a digital seismogram. The data is stored electronically, easy to access and manipulate, and much more accurate and detailed than the analog recordings.
+</p>
+<h2>Digital</h2>
+<p>
   <img src="images/digital_seis.gif" alt="Image of a Digital seismograph"/>
 </p>
 

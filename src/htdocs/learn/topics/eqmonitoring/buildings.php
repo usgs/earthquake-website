@@ -19,7 +19,7 @@
 <h2>How earthquake waves affect different structures.</h2>
 <h3>Small Buildings:</h3>
 <p>
-	Small building are more affected, or shaken, by high frequency waves (short and frequent).<br />
+	Small buildings are affected, or shaken, by high frequency waves (short and frequent).<br />
   For example, a small boat sailing in the ocean will not be greatly affected by a large swell. On the other hand several small waves in quick succession can overturn, or capsize, the boat.<br />
   In much the same way, a small building experiences more shaking by high frequency earthquake waves.
 </p>
