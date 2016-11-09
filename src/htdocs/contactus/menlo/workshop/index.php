@@ -52,25 +52,26 @@ if (isSet($_POST['submit'])) { // user submitted form
     :affiliation, :address1, :address2, :city, :state, :zip, :phone, :citizen,
     :poster, :workshop_year)'
   );
-  $stmt->execute($fields);
+  try {
+    $stmt->execute($fields);
+  } catch (Exception $e) {
+    print "Error: $e->getMessage()";
+  }
 
   // Create summary html
-  $return_html = '<p class="alert success">Thank you for filling out the
-    registration form. We&rsquo;ll see you at the workshop.</p>';
-
   $return_html .= '<ul class="no-style results">
-      <li><h4>First Name</h4> ' . $fields['fname'] . '</li>
-      <li><h4>Last Name</h4> ' . $fields['lname'] . '</li>
-      <li><h4>Email</h4> ' . $fields['email'] . '</li>
-      <li><h4>Affiliation</h4> ' . $fields['affiliation'] . '</li>
-      <li><h4>Address 1</h4> ' . $fields['address1'] . '</li>
-      <li><h4>Address 2</h4> ' . $fields['address2'] . '</li>
-      <li><h4>City</h4> ' . $fields['city'] . '</li>
-      <li><h4>State</h4> ' . $fields['state'] . '</li>
-      <li><h4>Zip</h4> ' . $fields['zip'] . '</li>
-      <li><h4>Phone</h4> ' . $fields['phone'] . '</li>
-      <li><h4>US Citizen</h4> ' . $fields['citizen'] . '</li>
-      <li><h4>Poster</h4> ' . $fields['poster'] . '</li>
+      <li><h4>First Name</h4> ' . htmlentities(stripslashes($fields['fname'])) . '</li>
+      <li><h4>Last Name</h4> ' . htmlentities(stripslashes($fields['lname'])) . '</li>
+      <li><h4>Email</h4> ' . htmlentities(stripslashes($fields['email'])) . '</li>
+      <li><h4>Affiliation</h4> ' . htmlentities(stripslashes($fields['affiliation'])) . '</li>
+      <li><h4>Address 1</h4> ' . htmlentities(stripslashes($fields['address1'])) . '</li>
+      <li><h4>Address 2</h4> ' . htmlentities(stripslashes($fields['address2'])) . '</li>
+      <li><h4>City</h4> ' . htmlentities(stripslashes($fields['city'])) . '</li>
+      <li><h4>State</h4> ' . htmlentities(stripslashes($fields['state'])) . '</li>
+      <li><h4>Zip</h4> ' . htmlentities(stripslashes($fields['zip'])) . '</li>
+      <li><h4>Phone</h4> ' . htmlentities(stripslashes($fields['phone'])) . '</li>
+      <li><h4>US Citizen</h4> ' . htmlentities(stripslashes($fields['citizen'])) . '</li>
+      <li><h4>Poster</h4> ' . htmlentities(stripslashes($fields['poster'])) . '</li>
     </ul>';
 
   // Email alert
@@ -79,7 +80,9 @@ if (isSet($_POST['submit'])) { // user submitted form
   $headers = "MIME-Version: 1.0" . "\r\n";
   $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
   $headers .= "From: shaefner@usgs.gov";
-  mail($admin, "Workshop form submitted: $fname $lname", $return_html, $headers);
+  $name = htmlentities(stripslashes($fields['fname'])) . ' ' .
+    htmlentities(stripslashes($fields['lname']));
+  mail($admin, "Workshop form submitted: $name", $return_html, $headers);
 }
 
 ?>
@@ -89,44 +92,69 @@ if (isSet($_POST['submit'])) { // user submitted form
   Moffett Field, California<br />
   Building 3</p>
 
-<!--
+<?php
+  if ($posting) {
+    print '<p class="alert success">Thank you for filling out the
+    registration form. We&rsquo;ll see you at the workshop.</p>';
+  }
+?>
 
-<ul>
-<li><a href="Agenda-2017.pdf">Agenda</a> (Adobe .pdf file)</li>
-</ul>
+<div class="row">
+  <div class="three-of-five column">
+    <p>The USGS Earthquake Program is hosting this workshop to encourage
+      communication and align internal and external research efforts to achieve
+      our scientific goals and promote earthquake hazard products in Northern
+      California.</p>
 
--->
+    <h3>Tentative Sessions</h3>
+    <ul>
+      <li>Earthquake sources, liquefaction, and landslides in the South Bay</li>
+      <li>Reducing seismic risk for critical facilities in urban areas</li>
+      <li>What do creep and paleoseismology tell us about the seismic hazard of
+        the Hayward fault?</li>
+      <li>Seismic hazards for creeping faults</li>
+      <li>Uses of earthquake early warning</li>
+      <li>Unmanned aerial vehicles for earthquake response</li>
+    </ul>
+
+    <!--
+
+    <ul>
+    <li><a href="Agenda-2017.pdf">Agenda</a> (Adobe .pdf file)</li>
+    </ul>
+
+    -->
+
+    <p>All researchers are encouraged to present a poster on their work related
+      to the seismic hazards and risk in Northern California. Researchers with
+      NEHRP external grants funded for FY16 and FY17 are especially encouraged
+      to present their results and will have their travel and per diem for the
+      workshop covered if needed (please contact
+      <a href="mailto:boat@usgs.gov">Jack Boatwright</a>). The workshop is open
+      to anyone in the scientific community interested in better defining
+      earthquake hazards and risk in Northern California.</p>
+  </div>
+  <div class="two-of-five column">
+    <figure>
+      <a href="http://www.nasa.gov/images/content/530289main_NRP_map_full.jpg">
+        <img src="nasa-map.jpg" alt="NASA Campus Map" />
+      </a>
+      <figcaption>NASA Campus Map</figcaption>
+    </figure>
+    <p>Public Transport:</p>
+    <ul>
+      <li><a href="http://www.caltrain.com/">Caltrain</a></li>
+      <li><a href="http://www.vta.org/">VTA Light Rail</a></li>
+    </ul>
+  </div>
+</div>
 
 <?php
   if ($posting) {
     print $return_html;
-  } else {
+    return;
+  }
 ?>
-
-<p>The USGS Earthquake Program is hosting this workshop to encourage
-  communication and align internal and external research efforts to achieve
-  our scientific goals and promote earthquake hazard products in Northern
-  California.</p>
-
-<h3>Tentative Sessions</h3>
-<ul>
-  <li>Earthquake sources, liquefaction, and landslides in the South Bay</li>
-  <li>Reducing seismic risk for critical facilities in urban areas</li>
-  <li>What do creep and paleoseismology tell us about the seismic hazard of
-    the Hayward fault?</li>
-  <li>Seismic hazards for creeping faults</li>
-  <li>Uses of earthquake early warning</li>
-  <li>Unmanned aerial vehicles for earthquake response</li>
-</ul>
-
-<p>All researchers are encouraged to present a poster on their work related
-  to the seismic hazards and risk in Northern California. Researchers with
-  NEHRP external grants funded for FY16 and FY17 are especially encouraged
-  to present their results and will have their travel and per diem for the
-  workshop covered if needed (please contact
-  <a href="mailto:boat@usgs.gov">Jack Boatwright</a>). The workshop is open
-  to anyone in the scientific community interested in better defining
-  earthquake hazards and risk in Northern California.</p>
 
 <h3>Registration Form</h3>
 
@@ -220,7 +248,3 @@ if (isSet($_POST['submit'])) { // user submitted form
 </form>
 
 <p class="privacy"><a href="http://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>
-
-<?php
-  }
-?>

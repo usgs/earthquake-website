@@ -69,3 +69,7 @@ span.required {
 .radio div {
   margin-right: 2em;
 }
+
+.results {
+  border-top: 1px solid #ddd;
+}
