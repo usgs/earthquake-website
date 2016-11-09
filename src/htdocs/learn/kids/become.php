@@ -51,7 +51,7 @@
 
 <p>
 	Atmospheric physicist<br />
-	<a href="http://www.ametsoc.org/careercenter/index.html" target="_blank">American Meteorological Society</a> - career guide
+	<a href="https://www.ametsoc.org/ams/index.cfm/education-careers/career-resources/" target="_blank">American Meteorological Society</a> - career guide
 </p>
 
 <p>
@@ -126,7 +126,7 @@
 </p>
 
 <p>
-	<a href="http://www.awg.org/eas/profiles.htm" target="_blank">Career Opportunities in the Geosciences</a> - Assoc. of Women Geoscientists (AWG)<br />
+	<a href="http://awg.org/careerprofile" target="_blank">Career Opportunities in the Geosciences</a> - Assoc. of Women Geoscientists (AWG)<br />
 	&mdash;includes career profiles of 25 women working in earth sciences&mdash;
 </p>
 
