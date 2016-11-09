@@ -1,14 +1,13 @@
 <?php
   if (!isset($TEMPLATE)) {
     $TITLE = 'Seismic Design Maps &amp; Tools';
-    $HEAD = '<link rel="stylesheet" href="index.css"/>';
-  // Use Earthquake level nav file
+
+    // Use hazards level nav file
     include_once 'functions.inc.php';
     ob_start();
     include '../_navigation.inc.php';
     $NAVIGATION = ob_get_clean();
-    $FOOT = '<script src="/lib/hazdev-webutils.js"></script>' .
-            '<script src="index.js"></script>';
+
     include 'template.inc.php';
   }
 ?>
@@ -42,8 +41,11 @@
 </ul></i>
 
 <p>
-  The USGS also provides <a href="ftp://hazards.cr.usgs.gov/web/earthquake-designmaps/datasets/">data files</a> and
-  <a href="ftp://hazards.cr.usgs.gov/web/earthquake-designmaps/pdfs/">maps</a> of these gridded design values.
+  The USGS also provides
+  <a href="ftp://hazards.cr.usgs.gov/web/earthquake-designmaps/datasets/">data
+  files</a> and
+  <a href="ftp://hazards.cr.usgs.gov/web/earthquake-designmaps/pdfs/">maps</a>
+  of these gridded design values.
 </p>
 
 <h4><a href="/designmaps/beta/us/">U.S. Seismic Design Maps (Beta)</a></h4>
@@ -61,19 +63,19 @@
   Standard</i>).
 </p>
 
-<h4><a href="rtgm.php">Risk Targeted Ground Motion Calculator</a></h4>
+<h4><a href="rtgm.php">Risk-Targeted Ground Motion Calculator</a></h4>
 
 <p>
   This tool is used to calculate risk-targeted ground motion values from
   probabilistic seismic hazard curves in accordance with the site-specific
-  ground motion procedures defined in "Method 2" of <i>2010 ASCE 7 Standard</i>
-  Section 21.2.1.2.
+  ground motion procedures defined in &ldquo;Method 2&rdquo; of
+  <i>2010 ASCE 7 Standard</i> Section 21.2.1.2.
 </p>
 
 <p>
   The vast majority of engineering projects in the U.S. will require the use of
   the <i>U.S. Seismic Design Maps</i> application (see above) rather than the
-  <i>Risk Targeted Ground Motion Calculator</i>.
+  <i>Risk-Targeted Ground Motion Calculator</i>.
 </p>
 
 <hr/>
