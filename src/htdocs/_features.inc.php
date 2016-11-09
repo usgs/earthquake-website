@@ -54,6 +54,17 @@ $EQ_FEATURES->baseUrl = '';
  *               strtotime('2014-10-31')
  *
  */
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2016-11-09',
+   'title' => 'Rapid Post-Earthquake Financial Decision-Making',
+   'content' => 'Financial instruments have come to rely on near real-time earthquake information that allows those affected by the consequences of a disaster to quickly access financial capital. (a Natural Hazards Center summary of a USGS-authored publication)',
+   'link' => 'https://hazards.colorado.edu/article/money-matters-rapid-post-earthquake-financial-decision-making',
+   'modified' => strtotime('2016-11-09'),
+   'thumbnail' => '/images-featured/LomaPrieta.jpg',
+   'image' => '/images-featured/LomaPrieta.jpg'
+ );
+
  $EQ_FEATURES->items[] = array(
    'id' => '2016-11-02',
    'title' => 'Some Early 20th Century Earthquakes in Los Angeles Area Might Have Been Man-Made',
