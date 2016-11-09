@@ -1,0 +1,27 @@
+#music {
+  float: right;
+  margin: 0 0 1em 16px;
+  width: 300px;
+}
+#credit {
+  color:#666666;
+  float:right;
+  font-size:0.9em;
+  margin:0;
+}
+#music div {
+  background-color: #ffe;
+  padding: 4px;
+  margin-top: 2em;
+  border: 1px solid #ffc;
+}
+#music div h2, #music div p {
+  margin: 0;
+}
+cite {
+  color:#666666;
+  display:block;
+  font-size:1.2em;
+  font-weight:bold;
+  margin-top:-1em;
+}
