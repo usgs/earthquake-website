@@ -169,8 +169,8 @@ if (isSet($_POST['submit'])) { // user submitted form
 
 <p><span class="required">*</span> = Required</p>
 
-<form action="./" name="workshop" id="workshop" method="post"
-  enctype="application/x-www-form-urlencoded">
+<form action="https://earthquake.usgs.gov/contactus/menlo/workshop/" 
+  name="workshop" id="workshop" method="post" enctype="application/x-www-form-urlencoded">
 
   <fieldset form="workshop">
     <div class="field">
