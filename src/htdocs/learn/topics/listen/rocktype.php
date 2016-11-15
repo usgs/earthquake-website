@@ -1,13 +1,16 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	11/3/2016
+      //	Contact: Andy Michael
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Rock Type Effects';
+      $HEAD = '<link rel="stylesheet" href="styles.css"/>';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
 ?>
+
+<img class="right" src="images/rock-type.gif" alt="cartoon showing an earthquake with soft sand in one direction and hard rock in the other"></a>
+
 <p>
 	If you haven't done the <a href="distance.php">Distance
   Effects </a> topic yet, you should do that one first.

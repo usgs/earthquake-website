@@ -1,13 +1,16 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	11/3/2016
+      //	Contact: Andy Michael
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Earthquake Distance Effects';
+      $HEAD = '<link rel="stylesheet" href="styles.css"/>';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
 ?>
+
+<img class="right" src="images/EQdist.gif" alt="cartoon showing a seismic station near an earthquake and another far away"></a>
+
 <p>
 	As sound travels through the air or earthquake shaking travels
 	through the ground, the waves lose energy. And so a band sounds

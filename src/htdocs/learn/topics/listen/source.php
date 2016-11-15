@@ -1,13 +1,16 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	11/3/2016
+      //	Contact: Andy Michael
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Earthquake Fault Length Effects';
+      $HEAD = '<link rel="stylesheet" href="styles.css"/>';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
 ?>
+
+<img class="right" src="images/fault-length.gif" alt="map showing a long fault and a short fault"></a>
+
 <p>
 	Earthquakes come in many different sizes which you generally
   hear described by their magnitude. The magnitude measures
