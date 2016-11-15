@@ -24,7 +24,7 @@
 
   <tr>
     <td><b>1.</b></td>
-    <td>9.6</td>
+    <td>9.5</td>
     <td> <a href="/earthquakes/eventpage/official19600522191120_30">Bio-Bio, Chile</a></td>
     <td>Valdivia Earthquake</td>
     <td>05/22/1960</td>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td><b>2.</b></td>
-    <td>9.3</td>
+    <td>9.2</td>
     <td> <a href="/earthquakes/eventpage/official19640328033616_30">Southern Alaska</a></td>
     <td>1964 Great Alaska Earthquake, Prince William Sound Earthquake, Good Friday Earthquake</td>
     <td>03/28/1964</td>
@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td><b>4.</b></td>
-    <td>9.0</td>
+    <td>9.1</td>
     <td> <a href="/earthquakes/eventpage/official20110311054624120_30">Near the East Coast of Honshu, Japan</a></td>
     <td>Tohoku Earthquake</td>
     <td>03/11/2011</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td><b>5.</b></td>
-    <td>8.9</td>
+    <td>9.0</td>
     <td> <a href="/earthquakes/eventpage/official19521104165830_30">Off the East Coast of the Kamchatka Peninsula, Russia</a></td>
     <td>Kamchatka, Russia</td>
     <td>11/04/1952</td>
@@ -168,7 +168,7 @@
   <tr>
     <td><b>14.</b></td>
     <td>8.5</td>
-    <td> <a href="/earthquakes/eventpage/official19570309142233_30">Banda Sea</a></td>
+    <td> <a href="/earthquakes/eventpage/official19380201190422_30">Banda Sea</a></td>
     <td></td>
     <td>02/01/1938</td>
     <td>19:04:22</td>
