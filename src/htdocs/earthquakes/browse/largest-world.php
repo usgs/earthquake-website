@@ -3,7 +3,7 @@
   // Contact: Paul Earle,
   // Last modified:
   if (!isset($TEMPLATE)) {
-  $TITLE = '22 Largest Earthquakes in the World';
+  $TITLE = '20 Largest Earthquakes in the World';
   $NAVIGATION = true;
   include 'template.inc.php';
   }
