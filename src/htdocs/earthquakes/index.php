@@ -53,7 +53,7 @@ and a link to Significant Earthquakes, Past 30 Days
           <h4>Search Earthquake Catalog</h4>
           <img src="images/search-300for150.gif" width="150" alt="screenshot of EQ search form"/>
         </a>
-        <p>Find past earthquakes that meet your criteria. Various output  formats, and links to earthquake details.</p>
+        <p>View historic seismicity, find past earthquakes that meet your criteria. Various output  formats, and links to earthquake details.</p>
       </li>
       <li>
         <a href="feed/">
