@@ -53,17 +53,6 @@ if (!isset($TEMPLATE)) {
           Earthquake Scenarios describe the expected ground motions and effects of specific hypothetical large earthquakes.
         </p>
       </li>
-
-      <li>
-        <a href="contributions.php">
-          <h4>Request for Hazard Modeling Contributions</h4>
-          <img src="images/contrib-2x.gif" width="150"/>
-        </a>
-        <p>
-          The USGS requests that the earthquake hazard community bring to our attention new earthquake source and ground motion data or models that could be included in the NSHM updates. In addition, workshops are held for feedback and comments. The National Seismic Hazard Model will be updated twice over the next 6 years since the 2014 update.
-        </p>
-      </li>
-
     </ul>
 
   </div>
