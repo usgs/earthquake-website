@@ -69,7 +69,7 @@
 
 <h3>2006</h3>
 <ul>
-  <li>The <a href="http://www.usgs.gov/newsroom/article.asp?ID=1430">National Earthquake Information Center began 24x7 operations</a> on January 8, 2006</li>
+  <li>The <a href="/contactus/golden/neic.php">National Earthquake Information Center began 24x7 operations</a> on January 8, 2006</li>
   <li>USGS supported an ANSS Regional Network Operations Workshop in February, 2006, in Salt Lake City, Utah. A summary of the workshop, along with pictures and a list of participants is available at: <a href="http://www.ceri.memphis.edu/people/withers/NetOps/">http://www.ceri.memphis.edu/people/withers/NetOps/</a></li>
   <li>ANSS received an IT Security Certification and Accreditation in March, 2006, from the Department of the Interior.</li>
   <li>USGS expands funding to ANSS regional seismic networks, from $3.0 million to 2003 to $5.75 million in 2006.</li>
