@@ -46,7 +46,7 @@
     <ul class="no-style linklist">
       <li>
         <a href="related.php">
-          <h2>Related Scenarios</h2>
+          <h2>Related Scenarios and Exercises</h2>
           <img src="images/related.jpg" width="75px" alt=""/>
         </a>
         <p>
