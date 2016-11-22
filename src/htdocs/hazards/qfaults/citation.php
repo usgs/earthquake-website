@@ -39,6 +39,6 @@
   For example, the reference information about a fault in New Mexico viewed online on Jan 9, 2006 would look like:
 </p>
 
-<cite>
-  U.S. Geological Survey and New Mexico Bureau of Mines and Mineral Resources, 2006, Quaternary fault and fold database for the United States, accessed Jan 9, 2006, from USGS web site: http//earthquake.usgs.gov/hazards/qfaults/.
-</cite>
+<cite><i>
+  U.S. Geological Survey and New Mexico Bureau of Mines and Mineral Resources, 2006, Quaternary fault and fold database for the United States, accessed Jan 9, 2006, from USGS web site: https://earthquake.usgs.gov/hazards/qfaults/.
+</i></cite>
