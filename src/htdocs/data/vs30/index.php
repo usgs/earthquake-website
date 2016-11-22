@@ -39,7 +39,7 @@
   <li>Vs30 in water-covered areas: 600 m/s</li>
 </ul>
 
-<h2><a href="/research/vs30/">Compilation of Vs30 Values in the United States</a></h2>
+<h2><a href="/data/vs30/us/">A Compilation of Vs30 Values in the United States</a></h2>
 
 <p>
   Compiled Vs30 measurements obtained by studies funded by the U.S. Geological Survey (USGS) and other governmental agencies. Thus far, there are 2,997 sites in the United States, along with metadata for each measurement from government-sponsored reports, Web sites, and scientific and engineering journals. Most of the data originated from publications directly reporting the work of field investigators. A small subset (less than 20 percent) of Vs30 values was previously compiled by the USGS and other research institutions. Whenever possible, Vs30 originating from these earlier compilations were crosschecked against published reports.
