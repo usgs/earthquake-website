@@ -3,7 +3,7 @@
   // Contact: David Wald, wald@usgs.gov
   // Last modified:
   if (!isset($TEMPLATE)) {
-  $TITLE = 'Related Scenarios';
+  $TITLE = 'Related Scenarios and Exercises';
   $NAVIGATION = true;
   include 'template.inc.php';
   }
