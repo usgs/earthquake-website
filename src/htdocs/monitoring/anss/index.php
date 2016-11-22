@@ -35,7 +35,7 @@
 			<li>
 				<a href="../operations/network.php?virtual_network=ANSS">
 					<h4>ANSS Network Stations (status page)</h4>
-					<img src="" alt="" height="75px" width="75px"/>
+					<img src="images/station.jpg" alt="ANSS map" height="75px" width="75px"/>
 				</a>
 				<p>
 					Station information and operation status.
@@ -44,7 +44,7 @@
 			<li>
 				<a href="../operations/heliplot.php?virtual_network=ANSS">
 					<h4>Heliplots</h4>
-					<img src="" alt="" height="75px" width="75px"/>
+					<img src="images/heli.gif" alt="heliplot image" height="75px" width="75px"/>
 				</a>
 				<p>
 					<b>NEED TEXT HERE</b>
@@ -53,7 +53,7 @@
 			<li>
 				<a href="regions/">
 					<h4>Regional Networks</h4>
-					<img src="" alt="" height="75px" width="75px"/>
+					<img src="images/reg-pnsn.gif" alt="regional pnsn image" height="75px" width="75px"/>
 				</a>
 				<p>
 					<ul style="margin-left:75px">
@@ -70,7 +70,7 @@
 			<li>
 				<a href="products/">
 					<h4>Products &amp; Services</h4>
-					<img src="" alt="" height="75px" width="75px"/>
+					<img src="images/prod-shakecast3.gif" alt="Shakecast 3 product" height="75px" width="75px"/>
 				</a>
 				<p>
 					<b>NEED TEXT HERE</b>
@@ -79,7 +79,7 @@
 		</ul>
 	</div>
 	<div class="column one-of-two">
-		<img src ="" alt="" height="300px" width="300px"/>
+		<img src ="images/anss.gif" alt="" width="300px" height="216px"/>
 		<ul class="no-style">
 			<li><a href="mission.php">Mission</a></li>
 			<li><a href="milestones.php">Accomplishments</a></li>
