@@ -13,7 +13,8 @@
 </p>
 
 <div class="row">
-  <div class="column two-of-three">
+  <!--<div class="column two-of-three">-->
+  <div class="column three-of-three">
   	<h3>Available data:</h3>
   	<p>
       <a href="http://www.iris.edu/data/data.htm" target="_blank">Data available from IRIS</a> - Information on how to access data from the IRIS Data Management Center
@@ -49,7 +50,7 @@
     	  <li><a href="ftp://aslftp.cr.usgs.gov/pub/users/McNamara/PDFs/">GSN archive</a> (includes historical networks)</li>
     	</ul>
   </div>
-  <div class="column one-of-three">
+  <!--<div class="column one-of-three">
   	<h3>Announcements:</h3>
       <p>
         <a href="STS1.php">Problems with STS-1 sensitivities Oct 1, 2011</a>
@@ -65,5 +66,5 @@
         <p>
           <a href="quake_examples.php">Earthquake Examples</a>--New Mexico and other nearby earthquakes
         </p>
-  </div>
+  </div>-->
 </div>
