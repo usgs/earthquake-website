@@ -6,11 +6,11 @@
   "<section>",
 
     navItem("/contactus/golden/neic.php", "National Earthquake Information Center-NEIC") .
-    navItem("${section}/anss/", "Advanced National Seismic System-ANSS") .
-    navItem("${section}/gsn/", "Global Seismographic Network-GSN") .
+    navItem("${section}/anss/", "ANSS-Advanced National Seismic System") .
+    navItem("${section}/gsn/", "GSN-Global Seismographic Network") .
     navItem("${section}/volunteer/", "Volunteer Monitoring") .
     navItem("${section}/buildings/", "Structural Health Monitoring of Buildings") .
-    navItem("${section}/nsmp/", "National Strong Motion Project - NSMP") .
+    navItem("${section}/nsmp/", "NSMP-National Strong Motion Project") .
     navItem("${section}/deformation/", "Crustal Deformation Monitoring") ,
 
   "</section>"
