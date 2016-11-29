@@ -14,7 +14,6 @@
     <source src="media/kingdome.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
-  <!--<video src="media/kingdome.mp4" poster="images/kingdome.gif" alt="Click to view Kingdome animation" width="563" height="458" controls></video>-->
 </p>
 
 <p>
@@ -37,8 +36,8 @@
 	Scientific Staff: Art Frankel, Tom Brocher, Tom Pratt, and Craig Weaver
 </p>
 
-<h2 class="referencelist">References</h2>
-<ul>
+<h2>References</h2>
+<ul class="referencelist">
 	<li>
 		Urban Seismic Experiments Investigate Seattle Fault and Basin, EOS, v. 81, no. 46, Nov. 14, 2000.
 	</li>

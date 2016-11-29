@@ -18,7 +18,6 @@
     <source src="media/westseattle.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
-  <!--<video src="media/westseattle.mp4" poster="images/westseattle.gif" alt="Click to view West Seattle Simulation" width="481" height="375" controls></video>-->
 </p>
 
 <h2>Abstract</h2>
@@ -61,8 +60,8 @@
   WEK.
 </p>
 
-<h2 class="referencelist">References</h2>
-<ul>
+<h2>References</h2>
+<ul class="referencelist">
 	<li>
 		Stephenson, W. J., A. D. Frankel, J. K. Odum, R. A. Williams,
 	  and T. L. Pratt (2006), Toward resolving an earthquake ground

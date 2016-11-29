@@ -3,7 +3,7 @@
       // Contact: Rob Williams, rawilliams@usgs.gov
       // Last  modified: 11/22/2016
       if  (!isset($TEMPLATE))  {
-      $TITLE  =  'Central US Seismic Velocity Model and M7.7 Simulation';
+      $TITLE  =  'Central US Seismic Velocity Model';
       $NAVIGATION  = true;
       include  'template.inc.php';
       }
@@ -25,7 +25,7 @@
 </figure>
 
 <p>
-  <a href="model.php"><b>CUSVM Version 1.3 (model and documentation)</b></a>
+  <a href="ceus-model-v1.3.php"><b>CUSVM Version 1.3 (model and documentation)</b></a>
 </p>
 
 <p>
@@ -92,7 +92,7 @@
 
 	<li>The Vs30 outside the Mississippi Embayment and St. Louis, MO were obtained from the <a href="/hazards/apps/vs30/">USGS Global Vs30 map server</a>.</li>
 
-	<li>The <a href="http://crystal.isgs.uiuc.edu/nsdihome/webdocs/st-geolb.html">Illinois depth to bedrock</a> was obtained from the Illinois State Geological Survey.</li>
+	<li>The <a href="http://www.isgs.illinois.edu/seismic-imaging-receiver-based-refraction-processing">Illinois depth to bedrock</a> was obtained from the Illinois State Geological Survey.</li>
 
 	<li>The <a href="http://maps.indiana.edu/layerGallery.html?category=Bedrock">Indiana depth to bedrock</a> was compiled by the Indiana Geological Survey.</li>
 

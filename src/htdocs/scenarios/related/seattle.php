@@ -27,7 +27,6 @@
     <source src="media/seattleXS.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
-	<!--<video src="media/seattleXS.mp4" poster="images/seattleXS.gif" alt="Click to view Seattle cross-section animation" width="553" height="447" controls></video>-->
 </p>
 
 <p>
@@ -44,7 +43,6 @@
     <source src="media/seattlesurf.mp4" type="video/mp4">
   Your browser dose not support the video tag.
   </video>
-	<!--<video src="media/seattlesurf.mp4" poster="images/seattlesurf.gif" alt="Click to view Seattle Fault M6.5 animation - map view" width="555" height="450" controls></video>-->
 </p>
 
 <p>

@@ -66,13 +66,15 @@
 <h2>How to Un-Tar and Compile</h2>
 <ol>
   <li>Un-tar the files in DDDIR (or wherever you put the tar file):<br/>
-    <pre> % gunzip cusvm1.3.tar.gz
-          % tar -xvf cusvm1.3.tar
+    <pre>
+      % gunzip cusvm1.3.tar.gz
+      % tar -xvf cusvm1.3.tar
     </pre>
   </li>
   <li>Make executable the file compile_copy and run it:<br/>
-    <pre> % chmod +x compile_copy
-          % ./compile_copy
+    <pre>
+       % chmod +x compile_copy
+       % ./compile_copy
     </pre>
   </li>
   <li>Geodata must be created in GDDIR.</li>

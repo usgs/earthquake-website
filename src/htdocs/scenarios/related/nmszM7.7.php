@@ -16,14 +16,14 @@
 <p>
   <video width="834" height="884" controls>
     <source src="media/M7.7simulation-south.mp4" type="video/mp4">
+  Your browser does not support the video tag.
   </video>
-  <!--<video src="media/M7.7simulation-south.mp4" poster="images/M7.7simulation.gif" width="834" height="884" controls></video>-->
 </p>
-
-<!--link back to what?
-  <p><a href="index.php">Back to Central US Seismic Velocity Model</a></p>
--->
 
 <p>
   The solid straight line in the middle of the New Madrid seismic zone is the surface projection of the modeled fault, which ruptures in the simulation. The colors are keyed to the peak intensity of ground velocity at the surface. As the seismic waves propagate away from the hypocenter in all directions, we see successive waves of strong ground shaking that begins moving along the Reelfoot rift and tends to be focused northeast toward Paducah, Kentucky, and southwest toward Little Rock, Arkansas. These higher amplitude waves are the more damaging surface waves. These seismic waves, trapped by the softer sedimentary rock in the Rift and Embayment and amplified by the softer sediments above, cause the duration of long-period shaking to be about 30–45 seconds in some areas, including Memphis, Little Rock, and Paducah, Kentucky.
+</p>
+
+<p>
+  <a href="/hazards/urban/ceusmodel.php">Central US Seismic Velocity Model</a>
 </p>

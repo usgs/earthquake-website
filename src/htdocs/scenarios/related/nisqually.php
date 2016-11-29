@@ -14,7 +14,6 @@
     <source src="media/nisqually.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
-	<!--<video src="media/nisqually.mp4" poster="images/nisqually.gif" alt="Click to view Nisqually animation" width="=640" height="559" controls></video>-->
 </p>
 
 <p>

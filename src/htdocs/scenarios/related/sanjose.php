@@ -14,7 +14,6 @@
     <source src="media/sjamovie.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
-  <!--<video src="media/sjamovie.mp4" poster="images/sanjose.gif" alt="Click to view San Jose animation" width="563" height="460" controls></video>-->
 </p>
 
 <p>
