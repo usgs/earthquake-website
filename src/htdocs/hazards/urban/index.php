@@ -83,6 +83,15 @@ if	(!isset($TEMPLATE))	{
 <h2 id="ceus">Central and Eastern US</h2>
 <ul class="no-style linklist">
   <li>
+    <a href="ceusmodel.php">
+      <h4>Central U.S. Seismic Velocity Model</h4>
+      <img src="images/model_sm.jpg" width="144" alt="block model"/>
+    </a>
+    <p>
+      The model covers a region of approximately 650,000 km<sup>2</sup> and includes several urban areas, such as Little Rock, AR; Evansville, IN; Memphis, TN; Nashville, TN; Louisville, KY; and St. Louis, MO.
+    </p>
+  </li>
+  <li>
     <a href="images/ceus-seis-haz.pdf">
       <h4>Central and Eastern U.S. Hazard and Seismicity Map</h4>
       <img src="images/ceus-seis-haz.gif" alt="thumbnail of seismicity of CEUS"/>
