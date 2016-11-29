@@ -3,7 +3,7 @@
       //  Contact: Rob Williams, rawilliams@usgs.gov
       //  Last  modified: 11/22/2016
       if  (!isset($TEMPLATE))  {
-      $TITLE  =  'Central US Seismic Velocity Model Version 1.3';
+      $TITLE  =  'Central U.S. Seismic Velocity Model Version 1.3';
       $NAVIGATION  = true;
       include  'template.inc.php';
       }
