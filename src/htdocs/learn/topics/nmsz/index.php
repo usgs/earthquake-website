@@ -55,6 +55,16 @@
 			Historical information about the 1811-1812 earthquake sequence, geology, archeology, and paleoseismology studies.
 		</p>
 	</li>
+  <li>
+    <a href="/scenarios/related/nmszM7.7.php">
+      <h4>Computer Simulation of a Magnitude 7.7 Earthquake in the New Madrid Seismic Zone</h4>
+      <img src="images/nmszM7.7-simulation.gif" width="150" alt="screenshot of simulation"/>
+  </a>
+  <p>
+    This animation shows the simulated ground motion of the Earth’s surface that could occur in the central U.S. region for a magnitude 7.7 strike-slip earthquake on the southern section of the New Madrid seismic zone. The simulation is based on a detailed geologic model of the central U.S.
+  </p>
+  <li>
+  </li>
 	<li>
 		<a href="http://pubs.usgs.gov/gip/119/">
 			<h4>Putting Down Roots in Earthquake Country - Central U.S. edition</h4>
