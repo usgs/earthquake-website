@@ -2,5 +2,20 @@
   "id": "hvo",
   "title": "USGS Hawaiian Volcano Observatory, Hawaii, USA",
   "url": null,
-  "aliases": null
+  "aliases": null,
+  "address": {
+    "org": "USGS Hawaiian Volcano Observatory",
+    "street-address": "PO Box 51",
+    "extended-address": null,
+    "locality": "Hawaii National Park",
+    "region": "HI",
+    "postal-code": "96718-0051",
+    "country-name": null
+  },
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-808-967-7328"
+    }
+  ]
 }

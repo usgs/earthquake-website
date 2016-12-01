@@ -66,8 +66,8 @@
 				</p>
 			</li>
 			<li>
-				<a href="metadata.php">
-					<h4>Station Metadata</h4>
+				<a href="data.php">
+					<h4>Data</h4>
 					<img src="images/LSA_3_sm.jpg" alt="LSA station" height="75px" width="75px"/>
 				</a>
 				<p>
