@@ -17,11 +17,24 @@
 		include $_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php";
 	}
 ?>
+<h3>ANSS Partners</h3>
+<ul>
+  <li><a href="http://www.afisr.af.mil/units/aftac.asp"> AFTAC - Air Force ISR Agency</a></li>
+    <li><a href="http://www.aeic.alaska.edu/">Alaska Earthquake Information Center</a></li>
+    <li><a href="http://www.ceri.memphis.edu/">Center for Earthquake Research and Information, University of Memphis</a></li>
+    <li><a href="http://www.fdsn.org/">Federation of Digital Broad-Band Seismograph Networks (FDSN)</a></li>
+    <li><a href="http://www.ldeo.columbia.edu/LCSN">Lamont-Doherty Cooperative Seismographic Network</a></li>
+    <li><a href="http://www.seismo.unr.edu/">Nevada Seismological Laboratory</a></li>
+    <li><a href="http://wcatwc.arh.noaa.gov/">NOAA West Coast and Alaska Tsunami Center </a></li>
+    <li><a href="http://www.sandia.gov/">Sandia National Laboratories</a></li>
+    <li><a href="http://www.seis.utah.edu/">UUSS University of Utah Seismograph Stations</a></li>
+
+  </ul>
 
 <h3>ANSS Users</h3>
 <ul>
-	<li><a href="http://www.stategeologists.org/" target="_blank">			<strong>AASG</strong> 		- Association of American State Geologists</a></li>
-	<li><a href="http://www.cosmos-eq.org/" target="_blank">				<strong>COSMOS</strong> 		- Consortium of Organizations for Strong-Motion Observation Systems</a></li>
+  <li><a href="http://www.stategeologists.org/" target="_blank">			<strong>AASG</strong> 		- Association of American State Geologists</a></li>
+  <li><a href="http://www.cosmos-eq.org/" target="_blank">				<strong>COSMOS</strong> 		- Consortium of Organizations for Strong-Motion Observation Systems</a></li>
 	<li><a href="http://www.curee.org/" target="_blank">					<strong>CUREe</strong> 		- Consortium of Universities for Research in Earthquake Engineering</a></li>
 	<li><a href="http://www.eeri.org/" target="_blank">						<strong>EERI</strong> 		- Earthquake Engineering Research Institute</a></li>
 	<li><a href="http://www.fema.gov/" target="_blank">						<strong>FEMA</strong> 		- Federal Emergency Management Agency</a></li>

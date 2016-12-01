@@ -9,12 +9,27 @@
       }
 ?>
 
+<h3>2016</h3>
+<ul>
+  <li>A White House Earthquake Resilience Summit was held, which included sessions on earthquake early warning.  The USGS and its university partners announced the deployment of the next-generation ShakeAlert production prototype.  The Gordon and Betty Moore foundation announced $3.6 million in grants to university partners to advance the ShakeAlert system.</li>
+  <li>The USGS National Strong Motion Program's recent improvements to the Anchorage Strong Motion Network result in excellent data being recorded in the M7.1 "Iniskin" earthquake in Alaska.</li>
+  <li>USGS Earthquake Hazards Program and NEIC respond to the M5.8 Pawnee earthquake in Oklahoma.</li>
+</ul>
+
+<h3>2015</h3>
+<ul>
+  <li>USGS Earthquake Hazards Program and NEIC respond to M7.8 "Gorkha" Nepal earthquake and its aftershock sequence.</li>
+  <li>In 2015, the USGS had about 60 temporary seismic stations deployed to monitor possible induced seismicity sequences and coordinated with existing or developing State seismic networks in Oklahoma, Kansas, and Texas.</li>
+  <li>USGS supports work to upgrade and construct approximately 150 seismic stations as part of the West Coast earthquake early warning system.</li>
+</ul>
+
 <h3>2014</h3>
 <ul>
   <li>ShakeCast released version 3.0, which allows the flexibility to be run in the cloud, resulting in lower costs for users by eliminating hardware and software requirements.</li>
 	<li>The USGS and ANSS partner at UC Berkeley respond to the 6.0 South Napa earthquake.</li>
 	<li>The demonstration ShakeAlert Earthquake Early Warning system, built upon ANSS by USGS and its university partners, performed well during the M6.0 South Napa earthquake.</li>
 	<li>The FEMA funded Urban Areas Security Initiative (UASI) supported station upgrades or new seismic station installations at 125 locations in the Southern California Seismic Network to contribute toward station density and robust communications to advance earthquake early warning by the USGS and ANSS partner Caltech.</li>
+  <li>USGS and its university partners publish a technical implementation plan for the ShakeAlert West Coast earthquake early warning system, which spells out the steps needed to complete the system.</li>
 </ul>
 
 <h3>2013</h3>
