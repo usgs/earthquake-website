@@ -8,7 +8,7 @@ include '../_contributor.inc.php';
 	<li><a href="http://www.emsc-csem.org/index.php?page=home" target="_blank">CSEM-EMSC: European-Mediterranean Seismological Centre.</a></li>
 	<li><a href="http://www.funvisis.gob.ve/" target="_blank">FUNVISIS: Fundación Venezolana de Investigaciones Sismológicas, Venezuela.</a></li>
 	<li><a href="http://geofon.gfz-potsdam.de/db/eqinfo.php" target="_blank">GEOFON: Centro Alemán de Investigaciones en Geociencias, Alemania.</a></li>
-  <li><a href="http://geofon.gfz-potsdam.de/db/eqinfo.php" target="_blank"></a><a href="http://www.ingeominas.gov.co/" target="_blank">INGEOMINAS: Instituto Colombiano de Geología y Minería, Colombia.</a></li>
+  <li>INGEOMINAS: Instituto Colombiano de Geología y Minería, Colombia.</li>
 	<li><a href="http://www.inpres.gov.ar/est_sism.htm" target="_blank">INPRES: Instituto Nacional de Prevención Sísmica, Argentina.</a></li>
 	<li><a href="http://www.ineter.gob.ni/" target="_blank">INETER: Instituto Nicaragüense de Estudios Territoriales, Nicaragua.</a></li>
 	<li><a href="http://www.insivumeh.gob.gt/geofisica/indice sismo.htm" target="_blank">INSIVUMEH: Instituto Nacional de Sismología, Vulcanología, Meteorología e Hidrología, Guatemala.</a></li>
