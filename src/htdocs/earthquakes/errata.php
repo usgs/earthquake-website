@@ -16,6 +16,14 @@
   The USGS and networks contributing to the Advance National Seismic System (ANSS) take great effort to provide accurate and timely earthquake information.&nbsp; Occasionally our systems produce erroneous information that is released to the public via our web pages or Earthquake Notification System. These mistakes are generally promptly identified by seismologists, removed from our web pages, and &ldquo;delete&rdquo; e-mails are sent through ENS. In the interest of rapidly providing earthquake information to the public, most of the information about earthquakes that occur in the USA is automatically posted to the web and ENS if it meets quality standards. There is a trade-off between the speed of our earthquake notifications and number of false alarms in the same way that any kind of &quot;breaking news&quot; story may have substantial changes or corrections as more information is received. The faster we release earthquake locations and magnitudes, the more likely it is that the information may be erroneous. Experience demonstrates that imposing more restrictive quality standards prevents the release of legitimate earthquake information. Here we document serious errors that have resulted in the distribution of flawed information to response organizations and the public. Hopefully this discussion will provide our users with a better understanding of our system.
 </p>
 
+<h2>2016</h2>
+
+<h3>Erroneous M8.0 ShakeMap for event on 2016-12-01 04:06:07 UTC</h3>
+
+<p>
+  A magnitude 3.5 earthquake in Baja California, Mexico at 2016-12-01 04:06:07 UTC was erroneously submitted as a magnitude 8.0 earthquake by a regional ShakeMap system. The ShakeMap and PAGER alert have been removed. We are working to ensure that a situation like this does not happen in the future and apologize for any disruption this may have caused.
+</p>
+
 <h2>2015</h2>
 
 <h3>Commentary for Multiple "Phantom Events" in California - posted June 2, 2015</h3>
