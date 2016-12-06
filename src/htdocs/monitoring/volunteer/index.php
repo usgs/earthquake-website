@@ -24,7 +24,7 @@
     </p>
   </li>
 	<li>
-		<a href="/research/sfbayeffects_waves/volunteer.php">
+		<a href="/research/eqproc/volunteer.php">
 			<h4>Volunteer Monitoring - Walnut Creek/Pleasant Hill/Concord, CA, Area Seismograph Array</h4>
 			<img src="/research/sfbayeffects_waves/images/Picture1_thumb.gif" alt="Bay Area Waves"/>
 		</a>

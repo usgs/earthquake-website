@@ -47,7 +47,7 @@
       </li>
       <li>
         <a href="buildings/">
-          <h4>Structural Health Monitoring of Buildings</h4>
+          <h4>Earthquake Monitoring of Structures</h4>
           <img src="images/buildings.png" width="150"/>
         </a>
         <p>USGS is installing sophisticated seismic systems that monitor the structural integrity of buildings during earthquake shaking.</p>
