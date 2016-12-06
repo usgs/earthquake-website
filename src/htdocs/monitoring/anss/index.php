@@ -3,14 +3,11 @@
       //	Contact:
       //	Last	modified:	11/10/2016
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'ANSS - Advanced National Seismic System';
+      $TITLE	=	'ANSS - Advanced National Seismic System <img src="images/ANSS_logo.gif" alt="logo"/>';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
 ?>
-<p>
-  <img src="images/ANSS_logo.gif" alt="logo"/>
-</p>
 <div class="row">
 	<div class="column one-of-two">
     <p>
@@ -51,8 +48,8 @@
 				</p>
 			</li>
 			<li>
-				<a href="regions/">
-					<h4>Regional Networks</h4>
+				<a> <!--to keep spacing intact and change font color to black-->
+					<h4><font color="black">Regional Networks</font></h4>
 					<img src="images/reg-pnsn.gif" alt="regional pnsn image" height="75px" width="75px"/>
 				</a>
 				<p>
@@ -69,7 +66,7 @@
 				</p>
 			</li>
 			<li>
-				<a href="products/">
+				<a href="products.php">
 					<h4>Products</h4>
 					<img src="images/prod-shakecast3.gif" alt="Shakecast 3 product" height="75px" width="75px"/>
 				</a>
@@ -88,7 +85,7 @@
         </figcaption>
       </figure>
     </div>
-		<ul class="no-style">
+		<ul>
 			<li><a href="mission.php">Mission</a></li>
 			<li><a href="milestones.php">Accomplishments</a></li>
 			<li><a href="committees.php">Committees</a></li>
