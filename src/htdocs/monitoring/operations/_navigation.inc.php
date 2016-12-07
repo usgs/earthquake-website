@@ -12,14 +12,14 @@
       '<a class="up-one-level" href="/monitoring/' .
           strtolower($virtualNetwork) . '/">' . $virtualNetwork . '</a>',
 
-      navItem("${NETOPS_BASEPATH}/network.php${queryString}", 'Status') .
+      navItem("${NETOPS_BASEPATH}/network.php${queryString}", 'Stations') .
       navItem("${NETOPS_BASEPATH}/heliplot.php${queryString}", 'Heliplots') .
       navItem($NETOPS_ISSUES_URL . '/' . $virtualNetwork .
           'station_status.csv', 'Issues (CSV)')
     );
   } else {
     echo
-      navItem('?virtual_network=ANSS', 'ANSS Status') .
-      navItem('?virtual_network=GSN', 'GSN Status');
+      navItem('?virtual_network=ANSS', 'ANSS Stations') .
+      navItem('?virtual_network=GSN', 'GSN Stations');
   }
 ?>

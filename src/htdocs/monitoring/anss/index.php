@@ -31,7 +31,7 @@
 		<ul class="no-style linklist">
 			<li>
 				<a href="../operations/network.php?virtual_network=ANSS">
-					<h4>ANSS Network Stations</h4>
+					<h4>ANSS Stations</h4>
 					<img src="images/station.jpg" alt="ANSS map" height="75px" width="75px"/>
 				</a>
 				<p>
