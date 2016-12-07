@@ -39,7 +39,7 @@
 				</p>
 			</li>
 			<li>
-				<a href="/hazards/qfaults/google.php">
+				<a href="/hazards/qfaults/kml.php">
 					<h4>Quaternary Faults &amp; Folds in the U.S.</h4>
 					<img src="images/faults.jpg" alt="Faults"/>
 				</a>
