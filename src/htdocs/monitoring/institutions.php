@@ -113,8 +113,8 @@
 	<li><a href="http://www.sernageomin.cl/volcanes.php">Servicio Nacional de Geología y Minería (SERNAGEOMIN)</a></li>
 </ul>
 
-<h2>China</
-  <ul>h2>
+<h2>China</h2>
+  <ul>
 	<li><a href="http://www.csndmc.ac.cn/">China Seismograph Network Data Management Center (Chinese)</a></li>
 	<li><a href="http://www.ssoc.org.cn/">Seismological Society of China</a></li>
 	<li><a href="http://www.weather.gov.hk/gts/equake/seismic_mon_e.htm">Hong Kong Observatory</a></li>
