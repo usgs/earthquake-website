@@ -12,7 +12,7 @@
     <ul class="no-style linklist">
       <li>
         <a href="/contactus/golden/neic.php">
-          <h4>National Earthquake Information Center - NEIC</h4>
+          <h4>NEIC - National Earthquake Information Center</h4>
           <img src="images/neic.jpg" width="150"/>
         </a>
         <p>The NEIC determins the location and size of all significant earthquakes worldwide, disseminates the information immediately, maintains an online database of seismic information, and performs research.</p>
