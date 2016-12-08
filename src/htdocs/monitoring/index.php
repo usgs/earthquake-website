@@ -19,14 +19,14 @@
       </li>
       <li>
         <a href="anss/">
-          <h4>Advanced National Seismic System - ANSS</h4>
+          <h4>ANSS - Advanced National Seismic System</h4>
           <img src="images/anss.jpg" width="150"/>
         </a>
         <p>The United States seismic network.</p>
       </li>
       <li>
         <a href="gsn/">
-          <h4>Global Seismographic Network - GSN</h4>
+          <h4>GSN - Global Seismographic Network</h4>
           <img src="images/gsn.jpg" width="150"/>
         </a>
         <p>The worldwide seismic network.</p>
@@ -54,7 +54,7 @@
       </li>
       <li>
         <a href="nsmp/">
-          <h4>National Strong Motion Project - NSMP</h4>
+          <h4>NSMP - National Strong Motion Project</h4>
           <img src="images/nsmp.gif" width="150"/>
         </a>
         <p>Seismic stations for strong motion records on the ground and in man-made structures.</p>
