@@ -56,6 +56,16 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
+   'id' => '2016-12-12',
+   'title' => 'USGS scientists sharing science at the 2016 AGU Fall Meeting',
+   'content' => 'For the 2016 American Geophysical Union (AGU) Fall Meeting, USGS scientists plan to give over 400 presentations to the largest gathering of Earth scientists in the world. The talks and posters span a wide range of topics, including earthquake early warning systems, and a late-breaking session on Oklahoma’s largest recorded earthquake. (photo by Rex Sanders USGS)',
+   'link' => 'https://www.usgs.gov/news/long-days-fresh-ideas-and-new-connections-usgs-scientists-sharing-science-2016-agu-fall-meeting',
+   'modified' => strtotime('2016-12-12'),
+   'thumbnail' => '/images-featured/AGU_posters_crowded.JPG',
+   'image' => '/images-featured/AGU_posters_crowded.JPG'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => '2016-11-09',
    'title' => 'Rapid Post-Earthquake Financial Decision-Making',
    'content' => 'Financial instruments have come to rely on near real-time earthquake information that allows those affected by the consequences of a disaster to quickly access financial capital. (a Natural Hazards Center summary of a USGS-authored publication)',
