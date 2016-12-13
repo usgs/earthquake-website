@@ -75,12 +75,12 @@
 <p class="intro">
   Seismic design maps from various design code reference documents are
   available below as PDF files. The data from these maps can be read more
-  easily using our <a href="../usdesign.php">U.S. Seismic "DesignMaps"</a> and our <a     href="../grdmotion.php">Java Ground Motion Parameter Calculator</a>.
+  easily using our <a href="../usdesign.php">U.S. Seismic "DesignMaps"</a>.
 </p>
 
 <div id="design-codes" class="column contains-eight">
 
-<? foreach ($DESIGNMAPS_KEY as $code_name => $code_contents) {
+<?php foreach ($DESIGNMAPS_KEY as $code_name => $code_contents) {
   outputCodeListing($code_name, $code_contents);
 } ?>
 
