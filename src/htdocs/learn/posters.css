@@ -1,0 +1,9 @@
+.posters-wrapper {
+  width: 100%;
+  max-width: 768px;
+}
+
+.posters-wrapper > form > .posters-year {
+  width: 100%;
+  max-width: 304px;
+}
