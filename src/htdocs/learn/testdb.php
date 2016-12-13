@@ -7,7 +7,7 @@ if (!isset($TEMPLATE)) {
 
 
 include_once '/etc/puppet/EHPServer.class.php';
-$pdo = EHPServer::getDatabase('ehpdb');
+$pdo = EHPServer::getDatabase('earthquake');
 
 $statement = $pdo->prepare('
     select
