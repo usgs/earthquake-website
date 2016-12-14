@@ -61,7 +61,7 @@
           <img src="images/main-kml.jpg" width="150"/>
         </a>
         <p>
-          200+ earthquake terms with a definition and image.
+          Downloadable layers for display iin Google Earth.<sup>TM</sup>
         </p>
       </li>
       <li>
@@ -82,13 +82,19 @@
     <div class="alert" style="margin-bottom:16px">
 
       <h3>Multimedia</h3>
+      <a href="photos.php"><img src="images/hectormine.jpg" alt="two people walking on top of a fault scarp"/></a>
       <ul>
-        <li><a href="photos.php">Earthquake Photos</a></li>
-        <li><a href="videos.php">Earthquake-Related Videos</a></li>
+        <li><a href="photos.php">Earthquake Photos</a> - earthquake effects and damage.</li>
+      </ul>
+      <img src="" alt="">
+      <p>Educational videos and audio interviews on a variety of earthquake topics.</p>
+      <ul>
+        <li><a href="videos.php">Videos</a></li>
         <li><a href="podcasts.php">PodCasts</a></li>
       </ul>
 
       <h3>Publications</h3>
+      <a href="publications/pubs_factsheets.php"><img src="images/publications.jpg" alt="cover of EQ Country"/></a>
       <ul>
         <li><a href="publications/pubs_factsheets.php">Fact Sheets</a></li>
         <li><a href="publications/pubs_geninfo.php">General Information</a></li>
