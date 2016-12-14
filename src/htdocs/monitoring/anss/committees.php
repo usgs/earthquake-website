@@ -15,8 +15,8 @@
       <td><p>Stanford University</p></td>
     </tr>
     <tr>
-      <td><p>Schelling, John<br />(National Emergency Management Assoc.)</p></td>
-      <td><p>Washington State Military   Dept.<br />Emergency Management   Division</p></td>
+      <td><p>Maximilian Dixon<br />(National Emergency Management Assoc.)</p></td>
+      <td><p>Washington State<br />Emergency Management Division</p></td>
     </tr>
     <tr>
       <td><p>Crouse, C. B.<br />(COSMOS)</p></td>
