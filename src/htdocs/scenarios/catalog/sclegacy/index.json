@@ -4,5 +4,6 @@
   "url": null,
   "aliases": null,
   "email": "emthompson@usgs.gov",
-  "email-name": "Eric Thompson"
+  "email-name": "Eric Thompson",
+  "bbox":[-121.1, 32, -114, 36.6]
 }
