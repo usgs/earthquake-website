@@ -4,5 +4,6 @@
   "url": null,
   "aliases": null,
   "email": "mewest@alaska.edu",
-  "email-name": "Michael West"
+  "email-name": "Michael West",
+  "bbox":[-170, 55, -135, 70]
 }
