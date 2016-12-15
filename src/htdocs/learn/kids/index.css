@@ -1,0 +1,67 @@
+a:hover {
+  color: red;
+}
+
+.row {
+  float: left;
+}
+
+.text {
+    background-color: #ddd;
+    width: 150px;
+    height: 147px;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    overflow: hidden;
+    padding: 1em .5em;
+    position: relative;
+}
+
+h2 {
+  margin-top: 1em;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.blue {
+  background-color: #d4eef4;
+}
+.orange {
+  background-color: #f4b840;
+}
+.lime {
+  background-color: #e2eeb5;
+}
+.green {
+  background-color: #86c543;
+}
+.red {
+  background-color: #d89385;
+}
+
+.kidfig {
+  margin: 0;
+  padding-bottom: 0;
+  padding-left: 1em;
+  position: relative;
+}
+
+.kidfig>figcaption {
+  display: none;
+}
+
+.kidfig:hover>figcaption {
+  position: absolute;
+  display: block;
+  left: 2em;
+  right: 1em;
+  top: 1em;
+  z-index: 1;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.kidfig:hover>img {
+  opacity: 0.5;
+}

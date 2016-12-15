@@ -18,8 +18,7 @@ module.exports = function (grunt) {
     'configureProxies:example',
     'connect:example',
     'configureProxies:dev',
-    'connect:dev',
-    'watch'
+    'connect:dev:keepalive'
   ]);
 
 };
