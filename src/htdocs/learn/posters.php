@@ -42,7 +42,7 @@ if (!isset($TEMPLATE)) {
   The posters should be considered preliminary. They are neither completely definitive (the earthquake data are those available in the first few days after the event) nor totally accurate (the map base may contain obsolete information, for example).
 </p>
 <p>
-  To access the posters, select an event and scroll down to the Downloads.
+  <strong>To access the posters, select an event and scroll down to the Downloads.</strong>
 </p>
 <br style="clear:both;"/>
 <hr/>
