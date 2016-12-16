@@ -14,7 +14,7 @@
     navItem('/data/dyfi/summary-maps.php',
       'Summary Maps') .
 
-    navItem('http://www.usgs.gov/faq/?q=taxonomy/term/9836',
+    navItem('faq.php',
       'FAQ') .
 
     navItem('/data/dyfi/background.php',
