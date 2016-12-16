@@ -75,7 +75,7 @@ if (!isset($TEMPLATE)) {
       </li>
 
       <li>
-        <a href="http://www.usgs.gov/faq/?q=taxonomy/term/9837">
+        <a href="faq.php">
           <h4>FAQ</h4>
           <img src="/data/dyfi/images/Q&A.gif" alt="" width="75"/>
         </a>
