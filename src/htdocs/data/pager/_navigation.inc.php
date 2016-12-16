@@ -14,7 +14,7 @@ echo navGroup(navItem('/data/pager/', 'PAGER'),
   navItem('/data/pager/background.php',
     'Scientific Background') .
 
-  navItem('http://www.usgs.gov/faq/?q=taxonomy/term/9837',
+  navItem('faq.php',
     'FAQ') .
 
   navItem('/data/pager/disclaimer.php',
