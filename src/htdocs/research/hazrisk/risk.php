@@ -37,4 +37,4 @@ if (!isset($TEMPLATE)) {
 <p><a href="https://geohazards.usgs.gov/trac/wiki/risk">Engineering Risk Assessment Project Wiki</a></p>
 
 <h3>Contact</h3>
-<a href="mailto:nlocu@usgs.gov">Nico Luco</a>
+<a href="mailto:nluco@usgs.gov">Nico Luco</a>
