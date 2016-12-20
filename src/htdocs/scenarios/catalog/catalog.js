@@ -14,6 +14,14 @@ if (el) {
   if (catalog) {
 
     el.innerHTML = '<h2>Scenarios</h2>' +
+        '<div class="scenario-map">' +
+          '<img src="http://placehold.it/100x100" ' +
+              'alt="map icon" />' +
+          '<a href="/scenarios/map/#' +
+              encodeURIComponent(JSON.stringify({'feed': catalog})) + '">' +
+            'View the Catalog on a Map' +
+          '</a>' +
+        '</div>' +
         '<div class="scenarios">' +
           '<p class="alert info">Loading scenarios&hellip;</p>' +
         '</div>';
