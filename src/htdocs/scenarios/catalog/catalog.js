@@ -17,10 +17,16 @@ if (el) {
         '<div class="scenario-map">' +
           '<img src="http://placehold.it/100x100" ' +
               'alt="map icon" />' +
-          '<a href="/scenarios/map/#' +
-              encodeURIComponent(JSON.stringify({'feed': catalog})) + '">' +
-            'View the Catalog on a Map' +
-          '</a>' +
+          '<div class="description">' +
+            '<a href="/scenarios/map/#' +
+                encodeURIComponent(JSON.stringify({'feed': catalog})) + '">' +
+              'View the Catalog on a Map' +
+            '</a>' +
+            '<span>' +
+              'This is sample descriptive text that should either be ' +
+              'modified or removed' +
+            '</span>' +
+          '</div>' +
         '</div>' +
         '<div class="scenarios">' +
           '<p class="alert info">Loading scenarios&hellip;</p>' +

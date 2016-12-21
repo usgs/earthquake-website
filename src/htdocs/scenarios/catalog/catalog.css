@@ -15,6 +15,16 @@
   vertical-align: top;
 }
 
+.scenario-map > .description {
+  display: flex;
+  flex-direction: column;
+}
+
+.scenario-map > .description > span {
+  font-size: 0.88em;
+  margin-top: 0.5em;
+}
+
 @media screen and (min-width: 640px) {
   .catalog-events {
     float: right;
