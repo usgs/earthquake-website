@@ -22,10 +22,6 @@ if (el) {
                 encodeURIComponent(JSON.stringify({'feed': catalog})) + '">' +
               'View the Catalog on a Map' +
             '</a>' +
-            '<span>' +
-              'This is sample descriptive text that should either be ' +
-              'modified or removed' +
-            '</span>' +
           '</div>' +
         '</div>' +
         '<div class="scenarios">' +
