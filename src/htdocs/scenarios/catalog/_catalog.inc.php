@@ -35,8 +35,11 @@ if (!isset($TEMPLATE)) {
   include 'template.inc.php';
 }
 
-echo '<section class="vcard">';
 echo '<h2 class="org fn">' . $title . '</h2>';
+
+// Map link and List of events
+echo '<section class="catalog-events" data-catalog="' . $id . '"></section>';
+echo '<section class="vcard">';
 
 if ($url !== null) {
   echo '<p><a class="url" href="' . $url . '">' . $url . '</a></p>';
@@ -99,7 +102,5 @@ if ($address || $email || $tel) {
 }
 
 echo '</section>'; // class="vcard"
-
-echo '<section class="catalog-events" data-catalog="' . $id . '"></section>';
 
 ?>
