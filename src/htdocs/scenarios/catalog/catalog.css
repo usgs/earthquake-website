@@ -6,9 +6,8 @@
 }
 
 .scenario-map > img {
-  height: 100px;
   margin-right: 1em;
-  width: 100px;
+  width: 150px;
 }
 
 .scenario-map > a {
