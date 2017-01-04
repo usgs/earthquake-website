@@ -119,10 +119,10 @@
         <td>8.6</td>
         <td> <a href="/earthquakes/eventpage/official19500815140934_30">Eastern Xizang-India border region</a></td>
         <td>Assam, Tibet</td>
-        <td>2005-03-28</td>
-        <td>16:09:36</td>
-        <td>2.085&deg;N</td>
-        <td>97.108&deg;E</td>
+        <td>1950-08-15</td>
+        <td>14:09:34</td>
+        <td>28.363&deg;N</td>
+        <td>96.445&deg;E</td>
         <td>Kanamori, 1977</td>
       </tr>
       <tr>
