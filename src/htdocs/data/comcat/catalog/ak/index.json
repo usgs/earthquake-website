@@ -1,12 +1,12 @@
 {
   "id": "ak",
   "title": "Alaska Earthquake Center",
-  "url": "http://www.aeic.alaska.edu/",
+  "url": "https://earthquake.alaska.edu/",
   "aliases": [
     "aei",
     "aeic"
   ],
-  "email": "webmaster@giseis.alaska.edu",
+  "email": "uaf-aec@alaska.edu",
   "email-name": null,
   "address": {
     "org": "Alaska Earthquake Center\nGeophysical Institute\nUniversity of Alaska Fairbanks",
