@@ -15,6 +15,10 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
+    Choy, G. L., Rubinstein, J. L., Yeck, W. L., McNamara, D. E., Mueller, C. S., Boyd, O. S., 2016, A Rare Moderate-Sized (Mw 4.9) Earthquake in Kansas: Rupture Process of the Milan, Kansas, Earthquake of 12 November 2014 and Its Relationship to Fluid Injection, Seismol. Res. Letters, v. 87, p. 1-9,   DOI: 10.1785/0220160100.
+  </li>
+
+  <li>
     Petersen, M.D., C.S. Mueller, M.P. Moschetti, S.M. Hoover, A.L. Llenos, W.L. Ellsworth, A.J. Michael, J.L. Rubinstein, A.F. McGarr, and K.S. Rukstales (<strong>2016</strong>), <a href="http://dx.doi.org/10.3133/ofr20161035">2016 One-year seismic hazard forecast for the Central and Eastern United States from induced and natural earthquakes</a>, <em>U.S. Geological Survey Open-File Report 2016-1035, 52 p., doi:10.3133/ofr20161035</em>.
   </li>
 </ul>
@@ -28,6 +32,7 @@ if (!isset($TEMPLATE)) {
   <li>
     Catchings, R.D. et al. (<strong>2015</strong>), <a href="http://onlinelibrary.wiley.com/doi/10.1002/2014JB011695/full">Structure of the Koyna-Warna Seismic Zone, Maharashtra, India: A possible model for large induced earthquakes elsewhere</a>, <em>J. Geophys. Res. Solid Earth, 120, doi:10.1002/2014JB011695</em>.
   </li>
+
   <li>
     Ellsworth, William L. et al. (<strong>2015</strong>), <a href="http://library.seg.org/doi/abs/10.1190/tle34060618.1">Increasing seismicity in the U. S. midcontinent: Implications for earthquake hazard</a>, <em>The Leading Edge 34, 6(2015); pp. 618-626 doi: 10.1190/tle34060618.1</em>.
   </li>

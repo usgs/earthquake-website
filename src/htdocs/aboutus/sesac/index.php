@@ -32,6 +32,12 @@
   <li>Dr. John Anderson<br/>
   University of Nevada, Reno</li>
 
+  <li>Dr. Gregory Beroza<br/>
+  Stanford University</li>
+
+  <li>Ms. Julie Furr<br/>
+  Chad Stewart &amp; Associates, Inc.</li>
+
   <li>Dr. Maureen Long <br/>
   Yale University</li>
 
@@ -40,6 +46,9 @@
 
   <li>Dr. Timothy Melbourne <br/>
   Central Washington University</li>
+
+  <li>Mr. Robert Pekelnicky<br/>
+  Degenkolb Engineers</li>
 
   <li>Dr. Roland Burgmann, ex officio<sup>*</sup><br />
   University of California, Berkeley </li>

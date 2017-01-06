@@ -52,7 +52,7 @@
         <td><b>3.</b></td>
         <td>9.1</td>
         <td> <a href="/earthquakes/eventpage/official20041226005853450_30">Off the West Coast of Northern Sumatra</a></td>
-        <td></td>
+        <td>Sumatra-Andaman Islands Earthquake, 2004 Sumatra Earthquake and Tsunami, Indian Ocean Earthquake</td>
         <td>2004-12-26</td>
         <td> 00:58:53</td>
         <td>3.295&deg;N</td>
@@ -85,7 +85,7 @@
         <td><b>6.</b></td>
         <td>8.8</td>
         <td> <a href="/earthquakes/eventpage/official20100227063411530_30">Offshore Bio-Bio, Chile</a></td>
-        <td>Offshore Maule, Chile</td>
+        <td>Maule Earthquake</td>
         <td>2010-02-27</td>
         <td>06:34:11</td>
         <td>36.122&deg;S</td>
@@ -96,7 +96,7 @@
         <td><b>7.</b></td>
         <td>8.8</td>
         <td> <a href="/earthquakes/eventpage/official19060131153610_30">Near the Coast of Ecuador</a></td>
-        <td></td>
+        <td>1906 Ecuador–Colombia Earthquake</td>
         <td>1906-01-31</td>
         <td>15:36:10</td>
         <td>0.955&deg;N</td>
@@ -107,7 +107,7 @@
         <td><b>8.</b></td>
         <td>8.7</td>
         <td> <a href="/earthquakes/eventpage/official19650204050122_30">Rat Islands, Aleutian Islands, Alaska</a></td>
-        <td></td>
+        <td>Rat Islands Earthquake</td>
         <td>1965-02-04</td>
         <td>05:01:22</td>
         <td>51.251&deg;N</td>
@@ -117,18 +117,18 @@
       <tr>
         <td><b>9.</b></td>
         <td>8.6</td>
-        <td> <a href="/earthquakes/eventpage/official20050328160936530_30">Northern Sumatra, Indonesia</a></td>
+        <td> <a href="/earthquakes/eventpage/official19500815140934_30">Eastern Xizang-India border region</a></td>
         <td>Assam, Tibet</td>
-        <td>2005-03-28</td>
-        <td>16:09:36</td>
-        <td>2.085&deg;N</td>
-        <td>97.108&deg;E</td>
+        <td>1950-08-15</td>
+        <td>14:09:34</td>
+        <td>28.363&deg;N</td>
+        <td>96.445&deg;E</td>
         <td>Kanamori, 1977</td>
       </tr>
       <tr>
         <td><b>10.</b></td>
         <td>8.6</td>
-        <td> <a href="/earthquakes/eventpage/official19500815140934_30">off the West Coast of Northern Sumatra</a></td>
+        <td> <a href="/earthquakes/eventpage/official20120411083836720_20">off the West Coast of Northern Sumatra</a></td>
         <td></td>
         <td>2012-04-11</td>
         <td>08:38:36</td>
@@ -140,7 +140,7 @@
         <td><b>11.</b></td>
         <td>8.6</td>
         <td> <a href="/earthquakes/eventpage/official20050328160936530_30">Northern Sumatra, Indonesia</a></td>
-        <td></td>
+        <td>Nias Earthquake</td>
         <td>2005-03-28</td>
         <td>16:09:36</td>
         <td>2.085&deg;N</td>
