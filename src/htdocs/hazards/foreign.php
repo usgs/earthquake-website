@@ -37,9 +37,6 @@
 
   	<h2>Southeast Asia</h2>
   	<img class='right' src="images/sumatra.gif" alt="Sumatra"/>
-  	<ul>
-  		<li><a href="/hazards/products/images/SEASIA_2007.pdf">Documentation</a></li>
-  	</ul>
   	<p>
   		The ground motion hazard for Sumatra and the Malaysian peninsula is
   		calculated in a probabilistic framework, using procedures developed for
