@@ -176,7 +176,7 @@
   </tr>
   <tr>
     <td><b>18.</b></td>
-    <td>7.7</td>
+    <td>7.5</td>
     <td><a href="http://earthquake.usgs.gov/earthquakes/states/events/1811-1812.php#december_16">New Madrid, Missouri</a></td>
     <td>1811-12-16</td>
     <td>08:15</td>
@@ -185,7 +185,7 @@
   </tr>
   <tr>
     <td><b>19.</b></td>
-    <td>7.7</td>
+    <td>7.3</td>
     <td><a href="http://earthquake.usgs.gov/earthquakes/states/events/1811-1812.php#december_16">New Madrid, Missouri</a></td>
     <td>1812-02-07</td>
     <td>09:45</td>
