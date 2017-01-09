@@ -884,7 +884,7 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
   <li>
     <h2 id="PPHASEPICKER">P-Phase Picker</h2>
-    <a href="ftp://hazards.cr.usgs.gov/web/software/PPhasePicker.zip">
+    <a href="ftp://ehzftp.wr.usgs.gov/shaefner/PphasePicker.zip">
       <img src="images/logo.png" alt="phasepicker logo" width="150"/>
     </a>
     <table>
@@ -914,7 +914,7 @@ also supports negative magnitudes, independent S models, and crustal models from
      </tr>
      <tr>
        <th>Download:</th>
-       <td><a href="ftp://hazards.cr.usgs.gov/web/software/PPhasePicker.zip">PphasePicker.zip</a> (8.2 MB)</td>
+       <td><a href="ftp://ehzftp.wr.usgs.gov/shaefner/PphasePicker.zip">PphasePicker.zip</a> (8.2 MB)</td>
      </tr>
     </table>
     <p>
