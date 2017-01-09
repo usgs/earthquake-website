@@ -105,7 +105,7 @@ if (isSet($_POST['submit'])) { // user submitted form
     <ul>
       <li>Workshop will be held at the USGS Menlo Park on Monday and Tuesday February 13&ndash;14, 2017.</li>
       <li>Hotel room block for federal employees or invited speakers is available at the <a href="http://www.marriott.com/hotels/travel/sjcme-residence-inn-palo-alto-menlo-park/">Residence Inn Menlo Park</a>, at per diem rate of $199 until January 19, 2017. <a href="http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=US%20Geological%20Survey%20Group%20Block%5ESJCME%60USGUSGA%60199.00%60USD%60false%603%602/12/17%602/14/17%601/19/17&app=resvlink&stop_mobi=yes">Book your group rate for US Geological Survey Group Block</a> or call the hotel directly (650) 327-2000.</li>
-      <li>This hotel is walking distance from the Menlo Park train station, where you can easily arrive from the SFO or SJC airport, as well as the USGS Menlo Park and downtown Menlo Park with many caf&eacute;s and restaurants. Residence Inn Menlo Park.</li>
+      <li>This hotel is walking distance from the Menlo Park train station, where you can easily arrive from the SFO or SJC airport, as well as the USGS Menlo Park and downtown Menlo Park with many caf&eacute;s and restaurants.</li>
       <li>Invited travelers, please contact the Menlo Park travel desk to arrange your travel.</li>
     </ul>
   </div>
