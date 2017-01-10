@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact:
-      //	Last	modified:	10/4/2016
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Seismic Seiches';
       $NAVIGATION	= true;
@@ -26,11 +25,11 @@
 	coined by Anders Kvale in 1955 to
 	describe oscillation of lake levels in
 	Norway and England caused by the
-	<a href="http://earthquake.usgs.gov/earthquakes/world/events/1950_08_15.php">Assam earthquake of August, 1950</a>. But this
+	<a href="/earthquakes/eventpage/iscgem895681">Assam earthquake of August, 1950</a>. But this
 	was not the first time that seismic
 	seiches had been observed. The first
 	published mention was after the great
-	<a href="http://earthquake.usgs.gov/earthquakes/world/events/1755_11_01.php">earthquake of November 1755 at Lisbon</a>,
+	earthquake of November 1755 at Lisbon,
 	Portugal. An article in Scot's Magazine
 	in 1755 described seiches in Scotland
 	in Loch Lomond, Loch Long, Loch
@@ -57,7 +56,7 @@
 	Frank Stermitz, a USGS scientist,
 	reported readings from 54 stream gages
 	that recorded seiches caused by the
-	<a href="http://earthquake.usgs.gov/earthquakes/states/events/1959_08_18.php">Hebgen Lake, Montana, earthquake of
+	<a href="/earthquakes/eventpage/iscgem882673">Hebgen Lake, Montana, earthquake of
 	17 August 1959</a>. These were in Montana,
 	Wyoming, Idaho, and Alberta, Canada -
 	the most distant seiche being 545 kilometers
@@ -65,7 +64,7 @@
 </p>
 <p>
 	Seismic waves from the
-	<a href="http://earthquake.usgs.gov/earthquakes/states/events/1964_03_28.php">Alaska earthquake of 28 March, 1964</a>,
+	<a href="/earthquakes/events/alaska1964/">Alaska earthquake of 28 March, 1964</a>,
 	were so powerful
 	that they caused water bodies to
 	oscillate at many places in North America.

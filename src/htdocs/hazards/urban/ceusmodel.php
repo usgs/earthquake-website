@@ -1,7 +1,6 @@
 <?php
       // Author:  Tiffany Kalin
       // Contact: Rob Williams, rawilliams@usgs.gov
-      // Last  modified: 11/22/2016
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Central U.S. Seismic Velocity Model';
       $NAVIGATION  = true;
@@ -55,7 +54,7 @@
 </figure>
 
 <p>
-  The goals of this research project were to 1) build a model of the crustal structure in a 650,000 km2 area including several urban areas, such as Little Rock, AR; Evansville, IN; Memphis, TN; Nashville, TN; Louisville, KY; and St. Louis, MO, that 2) can be used to generate simulations of shaking from earthquake sources.  To test the model, the source of the <a href="/earthquakes/eqarchives/poster/2008/20080418.php">M5.4 Mt Carmel, Illinois, earthquake on April 18, 2008</a> was used with the model to simulate data, and the simulated data were then compared to the real data recorded at many seismograph stations in the central U.S.for that earthquake.  The two data sets had a good match, indicating the crustal structure model is a good approximation of actual geologic structure.
+  The goals of this research project were to 1) build a model of the crustal structure in a 650,000 km2 area including several urban areas, such as Little Rock, AR; Evansville, IN; Memphis, TN; Nashville, TN; Louisville, KY; and St. Louis, MO, that 2) can be used to generate simulations of shaking from earthquake sources.  To test the model, the source of the <a href="/earthquakes/eventpage/nm606657">M5.2 Mt Carmel, Illinois, earthquake on April 18, 2008</a> was used with the model to simulate data, and the simulated data were then compared to the real data recorded at many seismograph stations in the central U.S.for that earthquake.  The two data sets had a good match, indicating the crustal structure model is a good approximation of actual geologic structure.
 </p>
 
 <h2>Technical Summary</h2>
