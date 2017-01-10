@@ -45,16 +45,8 @@
 		<p>This USGS Fact Sheet by Thomas M. Brocher, et al. commemorates the Great Alaska Earthquake and examines the advances in knowledge and technology that have helped improve earthquake preparation and response in Alaska and around the world.</p>
 	</li>
 
-	<!--<li>
-		<a href="/earthquakes/states/events/1964_03_28.php">
-			<h4>Earthquake Impact Summary</h4>
-			<img src="img/usgs-summary.jpg" alt="Prince William Sound map" width="150px">
-		</a>
-		<p>This USGS summary of the earthquake examines the geologic setting and effects, including landslides, the tsunami, and structural damage.</p>
-	</li>-->
-
   <li>
-    <a href="http://earthquake.usgs.gov/earthquakes/eventpage/iscgem869809#executive">
+    <a href="/earthquakes/eventpage/iscgem869809">
       <h4>Event Page</h4>
       <img src="img/event-page.jpg" alt="Regional information image" width="150px"/>
     </a>
@@ -62,7 +54,7 @@
   </li>
 
 	<li>
-		<a href="http://earthquake.usgs.gov/earthquakes/eventpage/iscgem869809#shakemap">
+		<a href="/earthquakes/eventpage/iscgem869809#shakemap">
 			<h4>ShakeMap</h4>
 			<img src="img/shakemap.jpg" alt="ShakeMap" width="150px">
 		</a>
@@ -83,7 +75,7 @@
 
 <ul class="no-style linklist">
 	<li>
-		<a href="http://www.usgs.gov/media/videos/magnitude-92-1964-great-alaska-earthquake">
+		<a href="https://www.usgs.gov/media/videos/magnitude-92-1964-great-alaska-earthquake">
 			<h4>Magnitude 9.2: The 1964 Great Alaska Earthquake</h4>
 			<img src="img/magnitude92.png" alt="screenshot of video" width="150px"/>
 		</a>

@@ -50,7 +50,7 @@
 <li>Johnston, A. C. Seismic moment assessment of earthquakes in stable continental regions-I. Instrumental seismicity, <em>Geoph. J. Int </em>. 124, 381 - 414, 1996. </li>
   <li>Schulte, S. M. and W. D. Mooney, Stable Continental Region earthquakes and ancient rifts, submitted to <em>Geoph.. J. Int.,</em> 2004. </li>
   <li>Triep, E. G. and L. R. Sykes, Catalog of shallow intracontinental earthquakes, <em><a href="http://www.ldeo.columbia.edu/seismology/triep/intra.expl.html">http://www.ldeo.columbia.edu/seismology/triep/intra.expl.html</a>, </em>1996. </li>
-  <li>United States Geological Survey National Earthquake Information Center, Preliminary Determination of Earthquakes, <a href="/earthquakes/eqarchives/epic/">online search</a> </li>
+  <li>United States Geological Survey National Earthquake Information Center, Preliminary Determination of Earthquakes, <a href="/earthquakes/search/">online search</a> </li>
   <li>Zoback, M. L., First- and second-order patterns of stress in the lithosphere: the world stress map project, <em>J. Geophys. Res. </em> vol 97 (B8), 11,703-11,728, 1992 </li>
 </ul>
 
