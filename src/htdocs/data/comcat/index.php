@@ -34,7 +34,6 @@
       <li><a href="data-availability.php">Data Availability</a> - Date Ranges and Magnitude Thresholds</li>
       <li><a href="data-products.php">Data Products</a>
           <ul>
-            <li><a href="data-products.php#cap">CAP Alerts</a></li>
             <li><a href="data-products.php#dyfi">Did You Feel It?</a></li>
             <li><a href="data-products.php#ff">Finite Fault</a></li>
             <li><a href="data-products.php#fm">Focal Mechanisms</a></li>
