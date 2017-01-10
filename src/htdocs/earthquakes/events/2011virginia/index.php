@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Rob Williams
-      //  Last  modified: 9/1/2016
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'M5.8 August 23, 2011 Mineral, Virginia';
       $NAVIGATION  = true;
@@ -28,18 +27,11 @@
     <p>Earthquakes in the eastern U.S., what happened, and what we&rsquo;ve learned.</p>
   </li>
   <li>
-    <a href="http://earthquake.usgs.gov/earthquakes/eventpage/se609212#executive">
+    <a href="/earthquakes/eventpage/se609212">
       <h4>Eventpage</h4>
       <img src="images/geology.gif" alt="geological map" width="150px"/>
     </a>
     <p>Tectonic summary, maps and data.</p>
-  </li>
-  <li>
-    <a href="/earthquakes/eqarchives/poster/2011/20110823b.php">
-      <h4>Earthquake Summary Poster</h4>
-      <img src="/earthquakes/eqarchives/poster/2011/20110823b.low.jpg" alt="thumbnail image of summary poster" width="150px"/><!--move over photo -->
-    </a>
-    <p>USGS tectonic summary poster.</p>
   </li>
   <li>
     <a href="http://earthquake.usgs.gov/earthquakes/eventpage/se609212#dyfi">

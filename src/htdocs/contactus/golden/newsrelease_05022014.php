@@ -1,14 +1,12 @@
 <?php
 	// Author: Lisa Wald
 	// Contact: Jill McCarthy
-	// Last modified: 07/21/2015
 	if (!isset($TEMPLATE)) {
 	$TITLE = 'Record Number of Oklahoma Tremors Raises Possibility of Damaging Earthquakes';
 	$NAVIGATION = true;
 	include 'template.inc.php';
 	}
 ?>
-
 
 <p>
 <a href="http://www.okgeosurvey1.gov/">
@@ -17,12 +15,12 @@
 Originally Released: 10/22/2013 1:07:59 PM; Updated May 2, 2014</i>
 </p>
 
-<p><img class="right" src="images/newsrelease_05022014_graph.gif" alt="Graph of Oklahoma Earthquakes as of May 2, 2014"/>
+<p><img class="right" src="/earthquakes/byregion/oklahoma/OKeq-graph.gif" alt="Graph of Oklahoma Earthquakes"/>
 The rate of earthquakes in Oklahoma has increased remarkably since October
 2013 – by about 50 percent – significantly increasing the chance for a damaging
 magnitude 5.5 or greater quake in central Oklahoma.<br />
-<a href="/earthquakes/states/oklahoma/seismicity.php">View map of Oklahoma seismicity.</a><br />
-<a href="OKeqanimation.php">View animation of Oklahoma Seismicity.</a>
+<a href="/earthquakes/byregion/oklahoma/OKquakes1973_062642016v3.pdf">View map of Oklahoma seismicity.</a><br />
+<a href="/earthquakes/byregion/oklahoma/OKeqanimation.php">View animation of Oklahoma Seismicity.</a>
 </p>
 
 <p>
@@ -48,7 +46,7 @@ El Reno and damaged state buildings in Oklahoma City.
 
 <p>
 “While it’s been known for decades that Oklahoma is
-<a href="http://earthquake.usgs.gov/earthquakes/states/?region=Oklahoma">
+<a href="/earthquakes/byregion/oklahoma.php">
 ‘earthquake country’</a>, we hope
 that this new advisory of increased hazard will become a crucial consideration in
 earthquake preparedness for residents, schools and businesses in the area,” said
