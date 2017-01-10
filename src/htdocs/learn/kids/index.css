@@ -65,3 +65,7 @@ h2 {
 .kidfig:hover>img {
   opacity: 0.5;
 }
+
+figure>img {
+  border: 0;
+  padding: 0;
