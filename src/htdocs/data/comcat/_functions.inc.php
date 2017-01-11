@@ -41,10 +41,12 @@ function get_json_metadata ($dir='.', $metadata_file='index.json') {
  *         for example: 'http://localhost:8080'
  */
 function get_host_url_prefix () {
-  // build absolute Event Page URL string
-  $server_protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'Off') ?
-      'https://' :
-      'http://';
+  $forwarded_https = (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) &&
+      $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https');
+// build absolute Event Page URL string
+  $server_protocol = ((isset($_SERVER['HTTPS']) &&
+      $_SERVER['HTTPS'] !== 'Off') || $forwarded_https) ?
+      'https://' : 'http://';
   $server_host = isset($_SERVER['HTTP_HOST']) ?
       $_SERVER['HTTP_HOST'] :
       'earthquake.usgs.gov';
@@ -55,8 +57,9 @@ function get_host_url_prefix () {
   $host_url_prefix = $server_protocol . $server_host;
 
   // check for non-standard port
-  if ( ($server_port == 80 && $server_protocol == 'http://') ||
-      ($server_port == 443 && $server_protocol == 'https://') ) {
+  if ( ($server_port == 80 && ($server_protocol == 'http://' ||
+      $forwarded_https)) || ($server_port == 443 &&
+      $server_protocol == 'https://')) {
     // don't need port
   } else {
     // if a port is specified in the HTTP_HOST, don't use twice
