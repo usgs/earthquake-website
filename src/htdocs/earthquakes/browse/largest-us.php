@@ -219,7 +219,7 @@
       <td>08:15</td>
       <td></td>
       <td></td>
-      <td>Williams et al, 2011; Johnston, 1996; Hough et al, 2000; Bakun and Hopper, 2004</td>
+      <td>Petersen et al., 2014</td>
     </tr>
     <tr>
       <td><b>19.</b></td>
@@ -230,7 +230,7 @@
       <td>09:45</td>
       <td></td>
       <td></td>
-      <td>Williams et al, 2011; Johnston, 1996; Hough et al, 2000; Bakun and Hopper, 2004</td>
+      <td>Petersen et al., 2014</td>
     </tr>
     <tr>
       <td><b>20.</b></td>
@@ -241,7 +241,7 @@
       <td>15:15</td>
       <td></td>
       <td></td>
-      <td>Williams et al, 2011; Johnston, 1996; Hough et al, 2000; Bakun and Hopper, 2004</td>
+      <td>Petersen et al., 2014</td>
     </tr>
 
   </table>
@@ -282,12 +282,14 @@
     Klein, F.W. and T.L. Wright, 2000, Catalog of Hawaiian earthquakes, 1823-1959, USGS Prof. Paper 1623.
   </li>
   <li>
+    Petersen, M.D., Moschetti, M.P., Powers, P.M., Mueller, C.S., Haller, K.M., Frankel, A.D., Zeng, Yuehua, Rezaeian, Sanaz, Harmsen, S.C., Boyd, O.S., Field, Ned, Chen, Rui, Rukstales, K.S., Luco, Nico, Wheeler, R.L., Williams, R.A., and Olsen, A.H., 2014, <a href="https://dx.doi.org/10.3133/ofr20141091">Documentation for the 2014 update of the United States national seismic hazard maps</a>: U.S. Geological Survey Open-File Report 2014–1091, 243 p.
+  </li>
+  <li>
     Satake, K., K. Shimazaki, Y. Tsuji, and K. Ueda, 1996, Time and size of a giant earthquake in Cascadia inferred from Japanese tsunami records of January 1700, Nature 379, 246-249.
   </li>
   <li>
     Stein, R.S. and T.C. Hanks, 1998, M&ge;6 earthquakes in southern California during the twentieth century: no evidence for a seismicity or moment deficit, Bull. Seismol. Soc. Am. Bull. 88, p. 635-652.
   </li>
-  <li>
-    Williams, R.A., N.S. McCallister,, and R.L. Dart, 2011, 20 cool facts about the New Madrid Seismic Zone – Commemorating the bicentennial of the New Madrid earthquake sequence, December 1811-February 1812 [poster]; U.S. Geological Survey General Information Product 134.
-  </li>
 </ul>
+
+Petersen, M.D., Moschetti, M.P., Powers, P.M., Mueller, C.S., Haller, K.M., Frankel, A.D., Zeng, Yuehua, Rezaeian, Sanaz, Harmsen, S.C., Boyd, O.S., Field, Ned, Chen, Rui, Rukstales, K.S., Luco, Nico, Wheeler, R.L., Williams, R.A., and Olsen, A.H., 2014, Documentation for the 2014 update of the United States national seismic hazard maps: U.S. Geological Survey Open-File Report 2014–1091, 243 p., https://dx.doi.org/10.3133/ofr20141091.
