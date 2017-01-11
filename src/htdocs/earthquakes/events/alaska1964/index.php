@@ -37,6 +37,20 @@
 		<p>It was the largest U.S. earthquake ever recorded, and a turning point in earth science. Learn about the great leaps in research over the past 50 years.</p>
 	</li>
 
+  <li>
+    <a href="largest_in_alaska.php">
+      <h4>Largest Earthquake in Alaska</h4>
+      <img src="" width="150px"/>
+    </a>
+    <p>
+      Abridged from
+    	Seismicity of the United States, 1568-1989 (Revised),
+    	by Carl W. Stover and Jerry L. Coffman,
+    	U.S. Geological Survey Professional Paper 1527,
+    	United States Government Printing Office, Washington: 1993.
+    </p>
+  </li>
+
 	<li>
 		<a href="http://pubs.usgs.gov/fs/2014/3018/">
 			<h4>The 1964 Great Alaska Earthquake and Tsunamis&mdash;A Modern Perspective and Enduring Legacies</h4>
@@ -60,6 +74,16 @@
 		</a>
 		<p>Map showing ground motion and shaking intensity based on instrumental measurements of shaking along with information about local geology and the earthquake&rsquo;s location and magnitude.</p>
 	</li>
+
+  <li>
+    <a href="1964seismogram.php">
+      <h4>Seismograms</h4>
+      <img src="" width="150px"/>
+    </a>
+    <p>
+      Photos of historic helicorder records.
+    </p>
+  </li>
 
 	<li>
 		<a href="http://www.aeic.alaska.edu/quakes/Alaska_1964_earthquake.html">
@@ -128,6 +152,16 @@
 		</a>
 		<p>This &ldquo;Story map&rdquo; combines an interactive map with historic photos of the earthquake.</p>
 	</li>
+
+  <li>
+    <a href="1964pics.php">
+      <h4>Damage Photos</h4>
+      <img src="" width="150px"/>
+    </a>
+    <p>
+      Historic photos of damage.
+    </p>
+  </li>
 
 	<li>
 		<a href="http://www.schooltube.com/video/abda57286a32401198ce/">
