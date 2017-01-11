@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Paul Earle,
-  // Last modified:
   if (!isset($TEMPLATE)) {
   $TITLE = '20 Largest Earthquakes in the World';
   $NAVIGATION = true;
@@ -32,9 +31,9 @@
         <td> <a href="/earthquakes/eventpage/official19600522191120_30">Bio-Bio, Chile</a></td>
         <td>Valdivia Earthquake</td>
         <td>1960-05-22</td>
-        <td>19:11:20</td>
-        <td>38.143&deg;S</td>
-        <td>73.407&deg;W</td>
+        <td>19:11</td>
+        <td>38.14&deg;S</td>
+        <td>73.41&deg;W</td>
         <td>Kanamori &amp; Anderson, 1975</td>
       </tr>
       <tr>
@@ -43,9 +42,9 @@
         <td> <a href="/earthquakes/eventpage/official19640328033616_30">Southern Alaska</a></td>
         <td>1964 Great Alaska Earthquake, Prince William Sound Earthquake, Good Friday Earthquake</td>
         <td>1964-03-28</td>
-        <td>03:36:16</td>
-        <td>60.908&deg;N</td>
-        <td>147.339&deg;W</td>
+        <td>03:36</td>
+        <td>60.91&deg;N</td>
+        <td>147.34&deg;W</td>
         <td>Kanamori &amp; Anderson, 1975</td>
       </tr>
       <tr>
@@ -54,9 +53,9 @@
         <td> <a href="/earthquakes/eventpage/official20041226005853450_30">Off the West Coast of Northern Sumatra</a></td>
         <td>Sumatra-Andaman Islands Earthquake, 2004 Sumatra Earthquake and Tsunami, Indian Ocean Earthquake</td>
         <td>2004-12-26</td>
-        <td> 00:58:53</td>
-        <td>3.295&deg;N</td>
-        <td>95.982&deg;E</td>
+        <td>00:58</td>
+        <td>3.30&deg;N</td>
+        <td>95.98&deg;E</td>
         <td>Duputel et al., 2012</td>
       </tr>
       <tr>
@@ -65,9 +64,9 @@
         <td> <a href="/earthquakes/eventpage/official20110311054624120_30">Near the East Coast of Honshu, Japan</a></td>
         <td>Tohoku Earthquake</td>
         <td>2011-03-11</td>
-        <td> 05:46:24</td>
-        <td>38.297&deg;N</td>
-        <td>142.373&deg;E</td>
+        <td>05:46</td>
+        <td>38.30&deg;N</td>
+        <td>142.37&deg;E</td>
         <td>Duputel et al., 2012</td>
       </tr>
       <tr>
@@ -76,9 +75,9 @@
         <td> <a href="/earthquakes/eventpage/official19521104165830_30">Off the East Coast of the Kamchatka Peninsula, Russia</a></td>
         <td>Kamchatka, Russia</td>
         <td>1952-11-04</td>
-        <td>16:58:30</td>
-        <td>52.623&deg;N</td>
-        <td>159.779&deg;E</td>
+        <td>16:58</td>
+        <td>52.62&deg;N</td>
+        <td>159.78&deg;E</td>
         <td>Kanamori, 1976</td>
       </tr>
       <tr>
@@ -87,9 +86,9 @@
         <td> <a href="/earthquakes/eventpage/official20100227063411530_30">Offshore Bio-Bio, Chile</a></td>
         <td>Maule Earthquake</td>
         <td>2010-02-27</td>
-        <td>06:34:11</td>
-        <td>36.122&deg;S</td>
-        <td>72.898&deg;W</td>
+        <td>06:34</td>
+        <td>36.12&deg;S</td>
+        <td>72.90&deg;W</td>
         <td>Duputel et al., 2012</td>
       </tr>
       <tr>
@@ -98,9 +97,9 @@
         <td> <a href="/earthquakes/eventpage/official19060131153610_30">Near the Coast of Ecuador</a></td>
         <td>1906 Ecuador–Colombia Earthquake</td>
         <td>1906-01-31</td>
-        <td>15:36:10</td>
-        <td>0.955&deg;N</td>
-        <td>79.369&deg;W</td>
+        <td>15:36</td>
+        <td>0.96&deg;N</td>
+        <td>79.37&deg;W</td>
         <td>Kanamori, 1977</td>
       </tr>
       <tr>
@@ -109,9 +108,9 @@
         <td> <a href="/earthquakes/eventpage/official19650204050122_30">Rat Islands, Aleutian Islands, Alaska</a></td>
         <td>Rat Islands Earthquake</td>
         <td>1965-02-04</td>
-        <td>05:01:22</td>
-        <td>51.251&deg;N</td>
-        <td>178.715&deg;E</td>
+        <td>05:01</td>
+        <td>51.25&deg;N</td>
+        <td>178.72&deg;E</td>
         <td>Kanamori &amp; Anderson, 1975</td>
       </tr>
       <tr>
@@ -120,9 +119,9 @@
         <td> <a href="/earthquakes/eventpage/official19500815140934_30">Eastern Xizang-India border region</a></td>
         <td>Assam, Tibet</td>
         <td>1950-08-15</td>
-        <td>14:09:34</td>
-        <td>28.363&deg;N</td>
-        <td>96.445&deg;E</td>
+        <td>14:09</td>
+        <td>28.36&deg;N</td>
+        <td>96.45&deg;E</td>
         <td>Kanamori, 1977</td>
       </tr>
       <tr>
@@ -131,9 +130,9 @@
         <td> <a href="/earthquakes/eventpage/official20120411083836720_20">off the West Coast of Northern Sumatra</a></td>
         <td></td>
         <td>2012-04-11</td>
-        <td>08:38:36</td>
-        <td>2.327&deg;N</td>
-        <td>93.063&deg;E</td>
+        <td>08:39</td>
+        <td>2.33&deg;N</td>
+        <td>93.06&deg;E</td>
         <td>Duputel et al., 2012</td>
       </tr>
       <tr>
@@ -142,9 +141,9 @@
         <td> <a href="/earthquakes/eventpage/official20050328160936530_30">Northern Sumatra, Indonesia</a></td>
         <td>Nias Earthquake</td>
         <td>2005-03-28</td>
-        <td>16:09:36</td>
-        <td>2.085&deg;N</td>
-        <td>97.108&deg;E</td>
+        <td>16:10</td>
+        <td>2.09&deg;N</td>
+        <td>97.11&deg;E</td>
         <td>NEIC</td>
       </tr>
       <tr>
@@ -153,9 +152,9 @@
         <td> <a href="/earthquakes/eventpage/official19570309142233_30">Andreanof Islands, Aleutian Islands, Alaska</a></td>
         <td></td>
         <td>1957-03-09</td>
-        <td>14:22:33</td>
-        <td>51.499&deg;N</td>
-        <td>175.626&deg;W</td>
+        <td>14:23</td>
+        <td>51.50&deg;N</td>
+        <td>175.63&deg;W</td>
         <td>Johnson et al., 1994</td>
       </tr>
       <tr>
@@ -164,9 +163,9 @@
         <td> <a href="/earthquakes/eventpage/official19460401122901_30">South of Alaska</a></td>
         <td>Unimak Island Earthquake, Alaska</td>
         <td>1946-04-01</td>
-        <td>12:29:01</td>
-        <td>53.492&deg;N</td>
-        <td>162.832&deg;W</td>
+        <td>12:29</td>
+        <td>53.49&deg;N</td>
+        <td>162.83&deg;W</td>
         <td>Lopez &amp; Okal, 2006</td>
       </tr>
       <tr>
@@ -175,9 +174,9 @@
         <td> <a href="/earthquakes/eventpage/official19380201190422_30">Banda Sea</a></td>
         <td></td>
         <td>1938-02-01</td>
-        <td>19:04:22</td>
-        <td>5.045&deg;S</td>
-        <td>131.614&deg;E</td>
+        <td>19:04</td>
+        <td>5.05&deg;S</td>
+        <td>131.61&deg;E</td>
         <td>Okal &amp; Reymond, 2003</td>
       </tr>
       <tr>
@@ -186,20 +185,20 @@
         <td> <a href="/earthquakes/eventpage/official19221111043251_30">Atacama, Chile</a></td>
         <td>Chile-Argentina Border</td>
         <td>1922-11-11</td>
-        <td>04:32:51</td>
-        <td>28.293&deg;S</td>
-        <td>69.852&deg;W</td>
+        <td>04:33</td>
+        <td>28.29&deg;S</td>
+        <td>69.85&deg;W</td>
         <td>Kanamori, 1977</td>
       </tr>
       <tr>
         <td><b>16.</b></td>
         <td>8.5</td>
-        <td> <a href="/earthquakes/eventpage/official19631013051759_30">Kurile Islands</a></td>
+        <td> <a href="/earthquakes/eventpage/official19631013051759_30">Kuril Islands</a></td>
         <td></td>
         <td>1963-10-13</td>
-        <td>05:17:59</td>
-        <td>44.872&deg;N</td>
-        <td>149.483&deg;E</td>
+        <td>05:18</td>
+        <td>44.87&deg;N</td>
+        <td>149.48&deg;E</td>
         <td>Kanamori &amp; Anderson, 1975</td>
       </tr>
       <tr>
@@ -208,9 +207,9 @@
         <td> <a href="/earthquakes/eventpage/official19230203160150_30">Near the East Coast of Kamchatka Peninsula, Russia</a></td>
         <td>Kamchatka, Russia</td>
         <td>1923-02-03</td>
-        <td>16:01:50</td>
-        <td>54.486&deg;N</td>
-        <td>160.472&deg;E</td>
+        <td>16:02</td>
+        <td>54.49&deg;N</td>
+        <td>160.47&deg;E</td>
         <td>Okal, 1992</td>
       </tr>
       <tr>
@@ -219,9 +218,9 @@
         <td> <a href="/earthquakes/eventpage/official20070912111026830_34">Southern Sumatra, Indonesia</a></td>
         <td></td>
         <td>2007-09-12</td>
-        <td>11:10:26</td>
-        <td>4.438&deg;S</td>
-        <td>101.367&deg;E</td>
+        <td>11:10</td>
+        <td>4.44&deg;S</td>
+        <td>101.37&deg;E</td>
         <td>NEIC</td>
       </tr>
       <tr>
@@ -230,9 +229,9 @@
         <td> <a href="/earthquakes/eventpage/official20010623203314130_33">Near the Coast of Southern Peru</a></td>
         <td>Arequipa, Peru Earthquake</td>
         <td>2001-06-23</td>
-        <td>20:33:14</td>
-        <td>16.265&deg;S</td>
-        <td>73.641&deg;W</td>
+        <td>20:33</td>
+        <td>16.27&deg;S</td>
+        <td>73.64&deg;W</td>
         <td>Duputel et al., 2012</td>
       </tr>
       <tr>
@@ -241,9 +240,9 @@
         <td> <a href="/earthquakes/eventpage/official19330302173100_30">Off the East Coast of Honshu, Japan</a></td>
         <td>Sanriku, Japan</td>
         <td>1933-03-02</td>
-        <td>17:31:00</td>
-        <td>39.209&deg;N</td>
-        <td>144.590&deg;E</td>
+        <td>17:31</td>
+        <td>39.21&deg;N</td>
+        <td>144.59&deg;E</td>
         <td>Kanamori, 1971</td>
       </tr>
     </tbody>
