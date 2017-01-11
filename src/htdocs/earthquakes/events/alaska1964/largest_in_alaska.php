@@ -9,6 +9,9 @@
       }
 ?>
 
+<figure class="right">
+  <img src="img/1964_alaska_earthquake.jpg" alt="picture of alaska sound" width="400px"/>
+</figure>
 <p>
 	This great earthquake and ensuing tsunami took 131 lives (tsunami 122,
 	earthquake 9), and caused about $2.3 billion in property loss (in 2013 dollars; equivalent to $311 million in 1964).
