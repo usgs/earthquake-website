@@ -37,7 +37,7 @@ if (!isset($TEMPLATE)) {
       </li>
       <li>
         <a href="qfaults/">
-          <h4>Quaternary Faults</h4>
+          <h4>Faults</h4>
           <img src="images/faults-2x.gif" width="150"/>
         </a>
         <p>
