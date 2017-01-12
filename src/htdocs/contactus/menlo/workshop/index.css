@@ -73,3 +73,13 @@ span.required {
 .results {
   border-top: 1px solid #ddd;
 }
+
+.lodging {
+  overflow: auto;
+}
+.lodging li {
+  float: left;
+  margin: 1em 0;
+  padding-right: 1em;
+  width: 50%;
+}
