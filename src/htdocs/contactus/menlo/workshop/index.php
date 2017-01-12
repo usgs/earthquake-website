@@ -130,17 +130,20 @@ if (isSet($_POST['submit'])) { // user submitted form
       earthquake hazards and risk in Northern California.</p>
   </div>
   <div class="two-of-five column">
+    <h3>NASA Campus Map</h3>
     <figure>
       <a href="http://www.nasa.gov/images/content/530289main_NRP_map_full.jpg">
         <img src="nasa-map.jpg" alt="NASA Campus Map" />
       </a>
-      <figcaption>NASA Campus Map</figcaption>
     </figure>
-    <h4>Public Transport:</h4>
+    <h3>Public Transport</h3>
     <ul>
       <li><a href="http://www.caltrain.com/">Caltrain</a></li>
       <li><a href="http://www.vta.org/">VTA Light Rail</a></li>
-      <li><a href="NASA-Ames-Shuttle-Service.pdf">NASA Shuttle Schedule</a> (Adobe .pdf file)</li>
+      <li><a href="NASA-Ames-Shuttle-Service.pdf">NASA Shuttle Schedule</a> (Adobe .pdf file)<br />
+      The NASA Shuttle is open to anyone with a government ID. For non-government
+      attendees, <a href="http://www.vta.org/routes/rt81">VTA route 81</a> runs
+      between Moffett Field and the Caltrain station</li>
     </ul>
   </div>
 </div>
