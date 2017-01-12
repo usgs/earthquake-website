@@ -11,10 +11,6 @@
 
 <h2>Quaternary Fault and Fold Database of the United States</h2>
 
-<p class='alert info'>
-  This database is the source for faults used in the National Seismic Hazard Maps, however, the <a href="http://geohazards.usgs.gov/cfusion/hazfaults_2014_search/query_main.cfm">spatial representation of the faults in the hazard maps was simplified</a> and critical fault parameters were assigned to produce the hazard maps.
-</p>
-
 <div class='row'>
   <div class='column three-of-five'>
     <h2>Interactive Fault Map</h2>
@@ -24,10 +20,11 @@
     <p><a href='map/'><strong>View interactive fault map.</strong></a></p>
 
     <p>
-      This database contains information on faults and associated folds in the United States that are believed to be<strong> sources of M&gt;6 earthquakes during the Quaternary (the past 2.6 million years)</strong>. Maps of these  geologic structures are linked to detailed descriptions and references.
+      This database contains information on faults and associated folds in the United States that demonstrate geological evidence of coseismic surface deformation in large earthquakes during <strong>the Quaternary (the past 1.6 million years)</strong>. Links to descriptions and citations are accessible through the <a href="http://geohazards.usgs.gov/cfusion/qfault/index.cfm">Database Search</a> or <a href='map/'>Interactive Fault Map</a>.
     </p>
-    <p>
-      <a href="citation.php">Citation information</a> - when using these data, please provide proper acknowledgment.
+
+    <p class='alert info'>
+      In order to maintain a current and relevant dataset, effective January 12, 2017, the USGS will maintain a limited number of metadata fields that characterize the Quaternary faults and folds of the United States.  Archived reports are accessible from the abbreviated record.
     </p>
 
     <ul>
@@ -42,6 +39,7 @@
       <li><a href="background.php">Background</a> - history, help, personnel and references</li>
       <li><a href="contributors.php">Contributors</a></li>
     </ul>
+
   </div>
 
   <div class='column two-of-five'>
@@ -56,8 +54,16 @@
   </figure>
 
     <ul>
-      <li><a href="http://pubs.usgs.gov/fs/2004/3033/">Factsheet</a></li>
-      <li><a href="http://www.usgs.gov/faq/taxonomy/term/9838">FAQ</a></li>
+      <li><a href="http://www.usgs.gov/faq/taxonomy/term/9838">Fault FAQ</a></li>
     </ul>
+
+    <h2>About the Quaternary Faults and the National Seismic Hazard Maps</h2>
+    <p>
+      This database was used to create the <a href="https://geohazards.usgs.gov/cfusion/hazfaults_2014_search/query_main.cfm">fault-source characterization</a> in the National Seismic Hazard Maps. For the hazard maps, both the fault surface trace and the metadata are simplified representations of the geometry and behavior of the fault, based on geologic interpretation.
+    </p>
+    <p>
+      <a href="citation.php">Citation information</a> - when using these data, please provide proper acknowledgment.
+    </p>
+
   </div>
 </div>
