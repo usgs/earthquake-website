@@ -2,7 +2,7 @@
   // Author: Lisa Wald
   // Contact: Paul Earle, Bruce Presgrave, Jim Dewey
   if (!isset($TEMPLATE)) {
-  $TITLE = '8 Largest Earthquakes in the U.S. (1900 to Present)';
+  $TITLE = '8 Largest Earthquakes in the U.S. (excluding Alaska)(1900 to Present)';
   $NAVIGATION = true;
   include 'template.inc.php';
   }
