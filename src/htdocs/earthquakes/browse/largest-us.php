@@ -39,9 +39,9 @@
       <td><a href="/earthquakes/eventpage/ci3031111">North of Yucca Valley, California</a></td>
       <td>Landers Earthquake</td>
       <td>1992-06-28</td>
-      <td>11:58</td>
+      <td>11:57</td>
       <td>34.20&deg;N</td>
-      <td>116.44&deg;W</td>
+      <td>116.52&deg;W</td>
       <td>Sieh et al., 1993</td>
     </tr>
     <tr>
@@ -50,9 +50,9 @@
       <td><a href="/earthquakes/eventpage/iscgem882673">Yellowstone National Park, Wyoming</a></td>
       <td>Hebgen Lake Earthquake</td>
       <td>1959-08-18</td>
-      <td>37:20</td>
-      <td>44.63&deg;N</td>
-      <td>110.89&deg;W</td>
+      <td>06:37</td>
+      <td>44.60&deg;N</td>
+      <td>110.64&deg;W</td>
       <td>Dosier, 1985</td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@
       <td>1952-07-21</td>
       <td>11:52</td>
       <td>34.96&deg;N</td>
-      <td>119.00&deg;W</td>
+      <td>119.05&deg;W</td>
       <td>Stein &amp; Hanks, 1998</td>
     </tr>
     <tr>
@@ -73,8 +73,8 @@
       <td>Cape Mendocino Earthquake</td>
       <td>1992-04-25</td>
       <td>18:06</td>
-      <td>40.34&deg;N</td>
-      <td>124.23&deg;W</td>
+      <td>40.38&deg;N</td>
+      <td>124.05&deg;W</td>
       <td>NEIC</td>
     </tr>
     <tr>
@@ -83,20 +83,20 @@
       <td><a href="/earthquakes/eventpage/usp0001aq1">Offshore Northern California</a></td>
       <td>Gorda Plate Earthquake</td>
       <td>1980-11-08</td>
-      <td>10:28</td>
+      <td>10:27</td>
       <td>41.12&deg;N</td>
-      <td>124.25&deg;W</td>
+      <td>124.67&deg;W</td>
       <td>Ellsworth, 1990</td>
     </tr>
     <tr>
       <td><b>7.</b></td>
       <td>7.1</td>
-      <td><a href="/earthquakes/eventpage/ci9108652">Offshore Northern California</a></td>
+      <td><a href="/earthquakes/eventpage/ci9108652">SW of Ludlow, California</a></td>
       <td>Hector Mine Earthquake</td>
       <td>1999-10-16</td>
-      <td>09:47</td>
-      <td>34.60&deg;N</td>
-      <td>116.27&deg;W</td>
+      <td>09:46</td>
+      <td>34.56&deg;N</td>
+      <td>116.44&deg;W</td>
       <td>NEIC</td>
     </tr>
     <tr>
@@ -106,8 +106,8 @@
       <td>FairView Peak Earthquake</td>
       <td>1954-12-16</td>
       <td>11:07</td>
-      <td>39.35&deg;N</td>
-      <td>117.98&deg;W</td>
+      <td>39.32&deg;N</td>
+      <td>118.20&deg;W</td>
       <td>Ellsworth, 1990</td>
     </tr>
 

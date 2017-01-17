@@ -29,14 +29,14 @@
 
     <tr>
       <td><b>1.</b></td>
-      <td>&#152;9</td>
+      <td>~9</td>
       <td>Cascadia Subduction Zone</td>
-      <td>1700-01-26</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Satake et al., 1996</td>
+      <td>1700-01-27</td>
+      <td>05:00</td>
+      <td>48.5&deg;N</td>
+      <td>125&deg;W</td>
+      <td>Satake et al., 1996 (mag), Lamontagne et al., 2008 (date/time, location)</td>
     </tr>
     <tr>
       <td><b>2.</b></td>
@@ -47,7 +47,7 @@
       <td>21:41</td>
       <td>60.0&deg;N</td>
       <td>142.0&deg;W</td>
-      <td></td>
+      <td>Stover &amp; Coffman, 1993</td>
     </tr>
     <tr>
       <td><b>3.</b></td>
@@ -58,7 +58,7 @@
       <td>00:22</td>
       <td>60.0&deg;N</td>
       <td>142.0&deg;W</td>
-      <td></td>
+      <td>Stover &amp; Coffman, 1993</td>
     </tr>
     <tr>
       <td><b>4.</b></td>
@@ -73,14 +73,14 @@
     </tr>
     <tr>
       <td><b>5.</b></td>
-      <td>7.9</td>
+      <td>~7.9</td>
       <td><a href="/earthquakes/events/1857sca/">NE of San Luis Obispo</a></td>
-      <td>The Great Fort Tejon, California Earthquake</td>
+      <td>Fort Tejon, California Earthquake</td>
       <td>1857-01-09</td>
       <td>16:24</td>
-      <td></td>
-      <td></td>
-      <td>Grant &amp; Sieh, 1993; Stein &amp; Hanks, 1998</td>
+      <td>35.72&deg;N</td>
+      <td>120.32&deg;W</td>
+      <td>Grant &amp; Sieh, 1993; Stein &amp; Hanks, 1998 (mag), Stover &amp; Coffman, 1993 (location)</td>
     </tr>
     <tr>
       <td><b>6.</b></td>
@@ -89,9 +89,9 @@
       <td></td>
       <td>1892-02-24</td>
       <td>07:20</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>32.55&deg;N</td>
+      <td>115.63&deg;W</td>
+      <td>Stover &amp; Coffman, 1993 (location)</td>
     </tr>
     <tr>
       <td><b>7.</b></td>
@@ -100,8 +100,8 @@
       <td></td>
       <td>1811-12-16</td>
       <td>08:15</td>
-      <td></td>
-      <td></td>
+      <td>89-90.5&deg;N</td>
+      <td>35.5-36.75&deg;W</td>
       <td>Petersen et al., 2014</td>
     </tr>
     <tr>
@@ -111,8 +111,8 @@
       <td></td>
       <td>1812-01-23</td>
       <td>15:15</td>
-      <td></td>
-      <td></td>
+      <td>89-90.5&deg;N</td>
+      <td>35.5-36.75&deg;W</td>
       <td>Petersen et al., 2014</td>
     </tr>
     <tr>
@@ -124,7 +124,7 @@
       <td>09:</td>
       <td>30.8&deg;N</td>
       <td>109.25&deg;W</td>
-      <td>Stover &amp; Coffman, ???</td>
+      <td>Stover &amp; Coffman, 1993</td>
     </tr>
     <tr>
       <td><b>10.</b></td>
@@ -133,42 +133,42 @@
       <td></td>
       <td>1812-02-07</td>
       <td>09:45</td>
-      <td></td>
-      <td></td>
+      <td>89-90.5&deg;N</td>
+      <td>35.5-36.75&deg;W</td>
       <td>Petersen et al., 2014</td>
     </tr>
     <tr>
       <td><b>11.</b></td>
-      <td>7.3</td>
+      <td>~7.3</td>
       <td>Charleston, South Carolina</td>
       <td></td>
       <td>1886-09-01</td>
       <td>02:51</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>32.9&deg;N</td>
+      <td>80.0&deg;W</td>
+      <td>Johnston, 1996 (mag), Stover &amp; Coffman, 1993 (location)</td>
     </tr>
     <tr>
       <td><b>12.</b></td>
+      <td>~7</td>
+      <td>St. Lawrence Valley</td>
+      <td>Charlevoix-Kamouraska, Quebec</td>
+      <td>1663-05-05</td>
+      <td>22:30</td>
+      <td>47.6&deg;N</td>
+      <td>70.1&deg;W</td>
+      <td>Lamontagne, et al. 2008</td>
+    </tr>
+    <tr>
+      <td><b>13.</b></td>
       <td>MMI ~ VII</td>
       <td>Cape Ann, Near Boston</td>
       <td></td>
       <td>11-18-1755</td>
       <td>09:11:35</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b>13.</b></td>
-      <td>~7</td>
-      <td>St. Lawrence Valley</td>
-      <td></td>
-      <td>1663</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>42.7&deg;N</td>
+      <td>70.3&deg;W</td>
+      <td>Stover &amp; Coffman, 1993</td>
     </tr>
 
 
@@ -188,6 +188,9 @@
     Klein, F.W. and T.L. Wright, 2000, Catalog of Hawaiian earthquakes, 1823-1959, USGS Prof. Paper 1623.
   </li>
   <li>
+    Lamontagne, M., S. Halchuk, J.F. Cassidy and G.C. Rogers, 2008, Significant Canadian Earthquakes of the Period 1600-2006, Seismological Research Letters, 79(2), p.211-223.
+  </li>
+  <li>
     Petersen, M.D., Moschetti, M.P., Powers, P.M., Mueller, C.S., Haller, K.M., Frankel, A.D., Zeng, Yuehua, Rezaeian, Sanaz, Harmsen, S.C., Boyd, O.S., Field, Ned, Chen, Rui, Rukstales, K.S., Luco, Nico, Wheeler, R.L., Williams, R.A., and Olsen, A.H., 2014, <a href="https://dx.doi.org/10.3133/ofr20141091">Documentation for the 2014 update of the United States national seismic hazard maps</a>: U.S. Geological Survey Open-File Report 2014–1091, 243 p.
   </li>
   <li>
@@ -197,6 +200,6 @@
     Stein, R.S. and T.C. Hanks, 1998, M&ge;6 earthquakes in southern California during the twentieth century: no evidence for a seismicity or moment deficit, Bull. Seismol. Soc. Am. Bull. 88, p. 635-652.
   </li>
   <li>
-    Stover and Coffman, ???
+    Stover, C.W. and J.L. Coffman, 1993, Seismicity of the United States, 1568-1989 (Revised), USGS Prof. Paper 1527.
   </li>
 </ul>

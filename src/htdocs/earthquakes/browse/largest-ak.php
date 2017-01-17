@@ -104,9 +104,9 @@
       <td><b>8.</b></td>
       <td>7.9</td>
       <td><a href="/earthquakes/eventpage/usp000bg0m">Central Alaska</a></td>
-      <td>Denali Fault Earthquake</td>
+      <td>Denali Fault Earthquake, Denali Park, AK</td>
       <td>2002-11-03</td>
-      <td>22:13</td>
+      <td>22:12</td>
       <td>63.52&deg;N</td>
       <td>147.44&deg;W</td>
       <td>NEIC</td>
@@ -117,7 +117,7 @@
       <td><a href="/earthquakes/eventpage/usp0007jcu">Andreanof Islands, Alaska</a></td>
       <td></td>
       <td>1996-06-10</td>
-      <td>04:04</td>
+      <td>04:03</td>
       <td>51.56&deg;N</td>
       <td>177.63&deg;W</td>
       <td>NEIC</td>
@@ -161,7 +161,7 @@
       <td><a href="/earthquakes/eventpage/iscgem855112">Fox Islands, Aleutian Islands, Alaska</a></td>
       <td></td>
       <td>1965-07-02</td>
-      <td>20:59</td>
+      <td>20:58</td>
       <td>52.99&deg;N</td>
       <td>167.74&deg;W</td>
       <td></td>
@@ -172,7 +172,7 @@
       <td><a href="/earthquakes/eventpage/iscgem908419">Near Islands, Aleutian Islands, Alaska</a></td>
       <td></td>
       <td>1929-12-17</td>
-      <td>10:59</td>
+      <td>10:58</td>
       <td>53.56&deg;N</td>
       <td>171.97&deg;W</td>
       <td></td>
@@ -183,7 +183,7 @@
       <td><a href="/earthquakes/eventpage/iscgem907930">South of the Aleutian Islands, Alaska</a></td>
       <td></td>
       <td>1929-03-07</td>
-      <td>01:35</td>
+      <td>01:34</td>
       <td>50.85&deg;N</td>
       <td>169.75&deg;W</td>
       <td></td>
