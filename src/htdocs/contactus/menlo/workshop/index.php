@@ -75,7 +75,7 @@ if (isSet($_POST['submit'])) { // user submitted form
     </ul>';
 
   // Email alert
-  $admin = 'shane@usgs.gov';
+  $admin = 'shane@usgs.gov, garcia@usgs.gov';
   //$admin = 'shaefner@usgs.gov';
   $headers = "MIME-Version: 1.0" . "\r\n";
   $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
