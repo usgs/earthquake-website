@@ -1,0 +1,17 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 5-167-EXP
+GEOLOGICAL SURVEY                                                                                        JUN 16, 2005
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                               
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                               
+ 
+MAY 2005
+03  18 06 26.3  43.764 N  105.221 W   0 G           A 1.1  117   15  WYOMING. ML 3.1 (GS). 60 km (40 miles) SSE of Gillette.
+05  19 41 28.3  40.940 N  115.664 W   0 G           A 1.2   97   15  NEVADA. ML 2.6 (GS). 15 km (10 miles) NE of Elko.
+06  18 05 52.4  43.646 N  105.151 W   0 G           A 0.8  123   46  WYOMING. ML 3.4 (GS). 75 km (50 miles) SSE of Gillette.
+08  18 06 32.3  43.216 N  104.939 W   0 G           A 0.6  153   11  WYOMING. ML 3.3 (GS). 60 km (40 miles) NE of Douglas.
+21  18 07 45.3  43.788 N  105.192 W   0 G           A 1.0  116   20  WYOMING. ML 3.3 (GS). 60 km (40 miles) SSE of Gillette.
+31  21 38 08.2  44.095 N  105.388 W   0 G           A 0.9   93   10  WYOMING. ML 3.2 (GS). 20 km (10 miles) SSE of Gillette.

@@ -1,0 +1,19 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 4-294-EXP
+GEOLOGICAL SURVEY                                                                                        OCT 20, 2004
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                               
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                               
+ 
+SEP 2004
+03  18 53 48.7  43.828 N  105.253 W   0 G           A 1.0  112   22  WYOMING. ML 3.0 (GS). 55 km (35 miles) SSE of Gillette.
+08  20 07 41.1  43.762 N  105.227 W   0 G           A 1.0  115   26  WYOMING. ML 3.2 (GS). 65 km (40 miles) SSE of Gillette.
+19  18 06 33.7  43.708 N  105.213 W   0 G           A 1.1  120   17  WYOMING. ML 3.3 (GS). 70 km (45 miles) SSE of Gillette.
+19  18 15 33.9  43.727 N  105.240 W   0 G           A 0.8  118   17  WYOMING. ML 3.1 (GS). 65 km (40 miles) SSE of Gillette.
+20  18 03 12.0  43.750 N  105.232 W   0 G           A 0.7  115   31  WYOMING. ML 3.4 (GS). 65 km (40 miles) SSE of Gillette.
+21  18 07 17.1  43.725 N  105.280 W   0 G           A 0.8  156   10  WYOMING. ML 3.3 (GS). 65 km (40 miles) SSE of Gillette.
+23  18 05 44.7  43.776 N  105.323 W   0 G           A 0.8  112   22  WYOMING. ML 3.3 (GS). 60 km (35 miles) SSE of Gillette.
+30  18 05 56.6  43.662 N  105.217 W   0 G           A 1.1  120   30  WYOMING. ML 3.3 (GS). 75 km (45 miles) SSE of Gillette.

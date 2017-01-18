@@ -1,0 +1,178 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  5-97-EXP
+GEOLOGICAL SURVEY                                                                                        OCT  8, 1997
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                          MAY 1997
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+01  17 22 00.2? 40.56  N  112.22  W    0 G           0.7    9  UTAH. ML 2.2 (GS). Near Copperton.
+01  18 05 37.2? 37.03  N  110.34  W    0 G           1.2    7  UTAH. ML 2.6 (GS). Black Mesa, Arizona.
+01  20 04 21.0* 36.409 N  110.298 W    0 G           1.1   10  EASTERN ARIZONA. ML 2.6 (GS). Black Mesa.
+01  20 10 51.3  40.560 N  112.171 W    0 G           0.3    9  UTAH. ML 1.9 (GS). Near Copperton.
+01  21 27 26.3  46.805 N  122.804 W    0 G           0.3    6  WASHINGTON. Near Centralia.
+02  12 21 33.8* 39.606 N  110.671 W    0 G           0.5    5  UTAH. Near Price.
+02  15 26 50.0  41.940 N  109.172 W    0 G           1.1   14  WYOMING. ML 1.8 (GS). Near Rock Springs.
+02  16 30 58.9* 40.562 N  112.187 W    0 G           0.3    5  UTAH. ML 1.3 (GS). Near Copperton.
+02  17 02 48.8* 36.886 N  108.307 W    0 G           1.0   10  NEW MEXICO. ML 2.1 (GS). Near Farmington.
+02  17 42 52.7  39.702 N  110.688 W    0 G           0.6    8  UTAH. Near Price.
+02  19 59 31.2  41.727 N  110.655 W    0 G           0.8   15  WYOMING. ML 2.1 (GS). Near Kemmerer.
+02  22 09 00.2  40.307 N  107.809 W    0 G           0.6   16  COLORADO. ML 2.6 (GS). Near Craig.
+03  18 09 34.4  40.534 N  112.201 W    0 G           0.4   10  UTAH. ML 2.0 (GS). Near Copperton.
+03  18 51 43.1  40.297 N  107.829 W    0 G           0.6   18  COLORADO. ML 2.6 (GS). Near Craig.
+03  20 53 02.8  40.573 N  112.240 W    0 G           1.4    8  UTAH. ML 1.7 (GS). Near Copperton.
+04  00 13 00.6  41.861 N  108.969 W    0 G           0.8   12  WYOMING. ML 1.8 (GS). Near Rock Springs.
+04  17 20 20.8  40.560 N  112.184 W    0 G           0.4   12  UTAH. ML 1.9 (GS). Near Copperton.
+05  17 01 23.0  40.562 N  112.214 W    0 G           0.6   16  UTAH. ML 2.0 (GS). Near Copperton.
+05  17 40 21.4? 32.55  N  108.53  W    0 G           0.9   11  NEW MEXICO. ML 2.7 (GS). Near Silver City.
+05  19 55 25.2  41.768 N  110.534 W    0 G           0.8   11  WYOMING. ML 1.6 (GS). Near Kemmerer.
+05  23 51 17.7  46.790 N  122.771 W    0 G           0.5    6  WASHINGTON. ML 2.7 (GS). Near Centralia.
+06  16 24 11.4? 36.98  N  110.34  W    0 G           0.9    8  EASTERN ARIZONA. Black Mesa.
+06  17 06 25.0* 41.897 N  110.486 W    0 G           0.7    8  WYOMING. ML 1.5 (GS). Near Kemmerer.
+06  19 33 01.5  40.540 N  112.210 W    0 G           0.2    6  UTAH. ML 1.3 (GS). Near Copperton.
+07  15 39 36.2  41.840 N  109.008 W    0 G           0.5   12  WYOMING. ML 1.9 (GS). Near Rock Springs.
+07  17 34 55.2  41.759 N  110.667 W    0 G           0.4    8  WYOMING. ML 1.5 (GS). Near Kemmerer.
+07  17 50 44.5  40.531 N  112.176 W    0 G           0.4    9  UTAH. ML 1.6 (GS). Near Copperton.
+07  20 36 31.1? 40.56  N  112.18  W    0 G           0.2    4  UTAH. ML 0.9 (GS). Near Copperton.
+07  21 23 09.9* 41.854 N  109.164 W    0 G           1.2    6  WYOMING. ML 1.1 (GS). Near Rock Springs.
+07  21 30 23.9* 36.332 N  110.259 W    0 G           1.1    9  EASTERN ARIZONA. ML 2.1 (GS). Black Mesa.
+07  23 19 12.5  40.196 N  107.714 W    0 G           0.7   15  COLORADO. ML 2.1 (GS). Near Craig.
+08  15 19 24.9  40.537 N  112.202 W    0 G           0.2    6  UTAH. MD 1.4 (GS). Near Copperton.
+08  15 39 49.4? 36.88  N  110.16  W    0 G           0.7    7  EASTERN ARIZONA. Black Mesa.
+08  19 13 27.6? 37.00  N  110.27  W    0 G           1.8    8  UTAH. Black Mesa, Arizona.
+08  20 53 35.6* 40.599 N  112.139 W    0 G           0.7    5  UTAH. ML 1.3 (GS). Near Copperton.
+09  00 02 48.5  40.293 N  107.750 W    0 G           0.8   17  COLORADO. ML 2.6 (GS). Near Craig.
+09  15 56 43.0  42.469 N  111.616 W    0 G           1.0   11  EASTERN IDAHO. ML 1.6 (GS). Near Soda Springs
+09  16 05 57.2? 36.90  N  109.07  W    0 G           1.9   10  EASTERN ARIZONA
+09  16 40 31.8* 40.921 N  107.776 W    0 G           0.8    6  COLORADO. ML 1.6 (GS). Near Baggs, Wyoming.
+09  17 00 10.8  40.575 N  112.190 W    0 G           0.7    7  UTAH. ML 1.3 (GS). Near Copperton.
+09  17 26 04.5* 36.716 N  110.306 W    0 G           1.0    8  EASTERN ARIZONA. Black Mesa.
+09  18 46 14.1  41.814 N  110.657 W    0 G           0.8   11  WYOMING. ML 1.6 (GS).  Near Kemmerer.
+09  20 15 33.0  40.590 N  112.195 W    0 G           0.5    7  UTAH. ML 1.7 (GS). Near Copperton.
+09  20 24 54.1  42.225 N  111.366 W    0 G           1.2    6  EASTERN IDAHO. ML 1.4 (GS). 
+09  22 21 35.5  40.181 N  107.815 W    0 G           1.0   15  COLORADO. ML 2.9 (GS). Near Craig.
+09  22 54 34.4  46.801 N  122.804 W    0 G           0.4    7  WASHINGTON. Near Centralia.
+10  15 25 27.4  40.574 N  112.135 W    0 G           0.6    7  UTAH. ML 1.7 (GS). Near Copperton.
+10  16 14 00.2? 40.63  N  112.19  W    0 G           0.2    4  UTAH. ML 1.2 (GS). Near Copperton.
+10  17 30 27.6  46.797 N  122.801 W    0 G           0.2    6  WASHINGTON. Near Centralia.
+10  19 34 08.9  39.663 N  110.648 W    0 G           0.8   12  UTAH. ML 2.4 (GS). Near Price.
+12  21 27 07.1  46.812 N  122.817 W    0 G           0.4    8  WASHINGTON. Near Centralia.
+12  21 36 54.7  41.706 N  108.781 W    0 G           0.6   12  WYOMING. ML 2.2 (GS). Near Rock Springs.
+13  14 59 54.6  40.530 N  112.200 W    0 G           0.2    6  UTAH. Near Copperton.
+13  17 59 21.4? 31.56  N  108.63  W    0 G           0.7   10  NEW MEXICO-CHIHUAHUA BORDER REG. ML 2.9 (GS). 55 miles S of
+                                                                Lordsburg, New Mexico.
+13  18 47 12.3  41.827 N  110.702 W    0 G           1.0   10  WYOMING. ML 1.6 (GS). Near Kemmerer.
+13  19 54 25.0  41.810 N  108.413 W    0 G           0.7   12  WYOMING. ML 2.4 (GS). Near Rock Springs.
+13  20 00 31.7  46.768 N  122.812 W    0 G           0.6    7  WASHINGTON. ML 2.3 (GS). Near Centralia.
+13  20 28 16.7  40.552 N  112.175 W    0 G           0.3    7  UTAH. ML 2.0 (GS). Near Copperton.
+13  22 52 10.6* 40.282 N  107.787 W    0 G           1.2    8  COLORADO. ML 2.4 (GS). Near Craig.
+14  15 16 47.3  41.777 N  110.548 W    0 G           1.4    8  WYOMING. ML 1.3 (GS). Near Kemmerer.
+14  18 14 12.6  40.399 N  109.617 W    0 G           0.7    9  UTAH. ML 1.9 (GS). Near Vernal
+14  22 53 53.5? 43.35  N  104.71  W    0 G           1.4    4  WYOMING. ML 2.0 (GS). South Powder River Basin.
+15  12 30 52.3  43.883 N  105.277 W    0 G           1.1   13  WYOMING. ML 3.2 (GS). South Powder River Basin.
+15  16 53 10.4  40.619 N  112.173 W    0 G           0.8    8  UTAH. ML 1.6 (GS). Near Copperton.
+15  17 05 29.5  46.761 N  122.795 W    0 G           0.4    6  WASHINGTON. Near Centralia.
+15  18 03 44.0* 40.330 N  107.505 W    0 G           1.6   11  COLORADO. ML 2.5 (GS). Near Craig.
+15  20 14 18.6  38.822 N  111.464 W    0 G           0.4   10  UTAH. ML 2.1 (GS).
+16  02 05 09.1  41.688 N  108.573 W    0 G           0.6   18  WYOMING. ML 2.3 (GS). Near Rock Springs.
+16  22 05 50.8  40.183 N  107.826 W    0 G           0.7   13  COLORADO. ML 2.1 (GS). Near Craig.
+17  00 14 36.4  41.657 N  109.783 W    0 G           0.8   17  WYOMING. ML 2.1 (GS). Near Rock Springs.
+17  13 12 07.9* 37.945 N   81.466 W    0 G           1.1    5  WEST VIRGINIA. mbLg 3.0 (GS). Near Beckley.
+17  17 30 02.3  40.532 N  112.215 W    0 G           0.3   11  UTAH. ML 2.1 (GS). Near Copperton.
+18  14 58 24.7  40.536 N  112.192 W    0 G           0.6   10  UTAH. ML 1.8 (GS). Near Copperton.
+18  16 11 47.8  39.651 N  110.710 W    0 G           0.5    7  UTAH. Near Price.
+18  17 29 23.2  40.553 N  112.167 W    0 G           0.3    8  UTAH. ML 1.9 (GS). Near Copperton.
+18  18 02 42.6  40.234 N  107.831 W    0 G           0.9   12  COLORADO. ML 1.9 (GS). Near Craig.
+18  18 06 20.5  40.634 N  112.155 W    0 G           1.0    6  UTAH. ML 1.6 (GS). Near Copperton.
+18  20 38 52.7  40.563 N  112.180 W    0 G           0.4    6  UTAH. ML 1.6 (GS). Near Copperton.
+19  17 09 48.0  40.536 N  112.177 W    0 G           0.4    7  UTAH. ML 1.8 (GS). Near Copperton.
+19  18 46 56.9  41.815 N  110.600 W    0 G           0.6   10  WYOMING. ML 1.5 (GS). Near Kemmerer.
+19  19 47 02.5  40.527 N  112.182 W    0 G           0.6    8  UTAH. ML 2.0 (GS). Near Copperton.
+19  19 59 52.7* 36.914 N  110.413 W    0 G           0.8    8  EASTERN ARIZONA. ML 2.4 (GS). Black Mesa.
+19  22 08 38.4  46.755 N  122.789 W    0 G           0.3    6  WASHINGTON. Near Centralia.
+19  22 21 17.6* 40.633 N  112.188 W    0 G           0.9    5  UTAH. ML 1.3 (GS). Near Copperton.
+20  15 24 28.8  40.551 N  112.220 W    0 G           0.6    8  UTAH. ML 1.8 (GS). Near Copperton.
+20  16 10 10.7* 37.870 N   81.537 W    0 G           1.3    6  WEST VIRGINIA. mbLg 2.9 (GS). Near Beckley.
+20  19 59 06.6* 40.545 N  112.194 W    0 G           0.4    5  UTAH. ML 1.2 (GS). Near Copperton.
+20  20 36 18.8* 40.521 N  109.512 W    0 G           1.6   10  UTAH. ML 1.9 (GS). Near Vernal
+20  22 00 59.6* 46.763 N  122.777 W    0 G           0.3    5  WASHINGTON. Near Centralia.
+21  20 01 02.3* 39.680 N  114.592 W    0 G           0.5    6  NEVADA. ML 2.2 (GS). Near Ely.
+21  20 22 40.4* 36.334 N  110.064 W    0 G           0.8   11  EASTERN ARIZONA. ML 2.6 (GS). Black Mesa.
+21  20 42 10.0  40.412 N  107.485 W    0 G           0.7   12  COLORADO. ML 2.2 (GS). Near Craig.
+21  21 27 28.5* 36.483 N  110.324 W    0 G           0.7   13  EASTERN ARIZONA. ML 2.9 (GS). Black Mesa.
+21  22 29 20.7  41.776 N  108.783 W    0 G           0.8   18  WYOMING. ML 2.4 (GS). Near Rock Springs.
+21  22 51 49.1* 42.278 N  110.650 W    0 G           1.2    5  WYOMING. ML 1.6 (GS).
+22  15 33 36.0  39.681 N  110.819 W    0 G           0.8    8  UTAH. Near Price.
+22  16 12 35.7  40.533 N  112.183 W    0 G           0.5   10  UTAH. ML 1.9 (GS). Near Copperton.
+22  17 41 34.7  37.926 N  110.428 W    0 G           0.7   12  UTAH. ML 2.1 (GS). 35 miles SSE of Hanksville.
+22  18 11 46.6? 31.16  N  108.18  W    0 G           0.6    5  NEW MEXICO-CHIHUAHUA BORDER REG. ML 2.8 (GS). S of
+                                                                Lordsburg, New Mexico.
+22  19 28 59.0? 37.61  N   80.84  W    0 G           0.8    4  WEST VIRGINIA. mbLg 2.4 (GS). Near Beckley.
+22  20 49 30.2  37.970 N   81.475 W    0 G           1.0    8  WEST VIRGINIA. mbLg 3.4 (GS). Near Beckley.
+22  21 49 29.3  41.761 N  110.646 W    0 G           1.1   15  WYOMING. ML 2.2 (GS). Near Kemmerer.
+22  22 07 14.6* 46.796 N  122.804 W    0 G           0.2    5  WASHINGTON. Near Centralia.
+22  23 59 34.6  43.589 N  105.010 W    0 G           0.8    9  WYOMING. ML 2.6 (GS). South Powder River Basin.
+23  12 34 53.2  42.711 N  111.160 W    0 G           0.8    9  EASTERN IDAHO. ML 1.8 (GS). Near Soda Springs.
+23  14 55 53.3  36.558 N  110.335 W    0 G           1.0   11  EASTERN ARIZONA. ML 2.1 (GS). Black Mesa.
+23  18 14 01.4? 40.73  N  112.23  W    0 G           0.9    5  UTAH. ML 1.3 (GS). Near Copperton.
+23  18 51 20.1  41.748 N  108.749 W    0 G           0.8    8  WYOMING. ML 2.4 (GS). Near Rock Springs.
+23  19 00 08.0? 37.99  N   81.18  W    0 G           0.9    5  WEST VIRGINIA. mbLg 2.7 (GS). Near Beckley.
+23  21 53 52.9  46.763 N  122.783 W    0 G           0.4    7  WASHINGTON. Near Centralia.
+23  22 06 51.0  40.197 N  107.779 W    0 G           0.8   10  COLORADO. ML 2.2 (GS). Near Craig.
+24  15 25 52.0  40.596 N  112.170 W    0 G           0.9    6  UTAH. ML 1.7 (GS). Near Copperton.
+24  19 57 20.8* 40.600 N  112.197 W    0 G           0.7    5  UTAH. ML 1.7 (GS). Near Copperton.
+24  22 14 35.0  40.149 N  107.821 W    0 G           0.7   11  COLORADO. ML 2.2 (GS). Near Craig.
+25  17 09 10.4? 40.55  N  112.21  W    0 G           0.1    4  UTAH. ML 1.5 (GS). Near Copperton.
+25  19 21 50.7* 35.728 N  108.896 W    0 G           1.4   14  NEW MEXICO. ML 3.1 (GS). near Gallup.
+25  21 09 51.9? 41.84  N  108.57  W    0 G           1.0    6  WYOMING. ML 1.5 (GS). Near Rock Springs.
+26  11 31 46.9  39.713 N  111.308 W    0 G           1.5   10  UTAH. ML 1.0 (GS). Near Price.
+26  17 28 32.8? 35.27  N  109.31  W    0 G           0.6    7  EASTERN ARIZONA. ML 1.5 (GS). 5 miles NE of Chambers.
+26  19 15 15.5? 40.62  N  112.21  W    0 G           0.3    4  UTAH. ML 1.0 (GS). Near Copperton.
+26  22 31 59.8  38.918 N  110.490 W    0 G           1.3   10  UTAH. ML 1.2 (GS).
+27  17 16 26.1* 36.716 N  110.424 W    0 G           1.6   10  EASTERN ARIZONA. ML 2.1 (GS). Black Mesa.
+27  19 09 17.8* 35.737 N  108.894 W    0 G           0.5    7  NEW MEXICO. ML 2.3 (GS). Near Gallup.
+27  19 33 18.2  37.753 N  109.434 W    0 G           0.7   11  UTAH. ML 2.1 (GS). 10 miles NNE of Blanding.
+27  19 48 07.5  39.703 N  110.784 W    0 G           0.7   10  UTAH. ML 1.2 (GS). Near Price.
+27  20 20 56.4  40.517 N  107.483 W    0 G           0.6   15  COLORADO. ML 2.4 (GS). Near Craig.
+27  21 06 51.2* 40.593 N  112.166 W    0 G           0.9    5  UTAH. ML 1.2 (GS). Near Copperton.
+27  21 43 11.1  40.518 N  109.762 W    0 G           0.8   13  UTAH. ML 1.6 (GS). Near Vernal
+27  22 01 33.5  40.186 N  107.808 W    0 G           0.8   13  COLORADO. ML 2.0 (GS). Near Craig.
+27  22 11 57.1* 46.757 N  122.780 W    0 G           0.3    5  WASHINGTON. Near Centralia.
+28  15 59 53.1? 41.72  N  110.49  W    0 G           0.9   13  WYOMING. ML 1.7 (GS). Near Kemmerer.
+28  16 18 23.8* 40.589 N  112.153 W    0 G           0.8    5  UTAH. ML 1.1 (GS). Near Copperton.
+28  16 35 17.5* 35.523 N  108.917 W    0 G           0.8    8  NEW MEXICO. ML 2.0 (GS). Near Gallup.
+28  17 07 34.7  46.783 N  122.802 W    0 G           0.4    6  WASHINGTON. Near Centralia.
+28  17 36 55.4  35.712 N  108.913 W    0 G           0.6   12  NEW MEXICO. ML 2.5 (GS). Near Gallup.
+28  19 11 28.6  40.605 N  112.180 W    0 G           0.7    6  UTAH. ML 1.3 (GS). Near Copperton.
+28  19 13 38.3  43.427 N  104.902 W    0 G           0.6    6  WYOMING. ML 2.1 (GS). South Powder River Basin.
+28  20 13 35.0* 40.652 N  112.160 W    0 G           0.4    5  UTAH. ML 1.5 (GS). Near Copperton.
+28  20 30 28.0? 40.57  N  112.19  W    0 G           0.6    4  UTAH. ML 1.4 (GS). Near Copperton.
+28  22 05 17.9  40.226 N  107.787 W    0 G           0.6   17  COLORADO. ML 2.4 (GS). Near Craig.
+29  15 01 46.6  40.522 N  112.163 W    0 G           0.4   11  UTAH. ML 2.1 (GS). Near Copperton.
+29  16 36 04.6  40.541 N  112.184 W    0 G           0.6   11  UTAH. ML 1.9 (GS). Near Copperton.
+29  17 33 27.2  42.030 N  108.791 W    0 G           0.7   14  WYOMING. ML 2.3 (GS). Near Rock Springs.
+29  19 03 32.9? 44.98  N  106.65  W    0 G           1.4    4  WYOMING. ML 2.6 (GS). 20 miles NE of Sheridan.
+29  20 07 15.7  40.565 N  112.158 W    0 G           1.4   10  UTAH. ML 2.0 (GS). Near Copperton.
+29  20 16 12.9  42.743 N  111.720 W    0 G           0.2    7  EASTERN IDAHO. ML 1.4 (GS). Near Soda Springs.
+29  21 49 03.2  41.768 N  110.660 W    0 G           1.0    9  WYOMING. ML 1.6 (GS). Near Kemmerer.
+29  22 11 46.5? 37.66  N   81.62  W    0 G           0.1    4  WEST VIRGINIA. mbLg 2.9 (GS). Near Beckley.
+29  23 13 49.5? 37.60  N   83.17  W    0 G           0.2    4  KENTUCKY. mbLg 3.2 (GS). N of Hazard.
+30  13 04 14.6  39.608 N  110.766 W    0 G           0.7    7  UTAH. Near Price.
+30  15 43 07.4  40.576 N  112.171 W    0 G           1.0    6  UTAH. ML 1.5 (GS). Near Copperton.
+30  16 10 54.9* 37.881 N   81.156 W    0 G           0.5    6  WEST VIRGINIA. mbLg 2.9 (GS). Near Beckley.
+30  16 59 35.8  39.694 N  111.307 W    0 G           0.8    9  UTAH. ML 1.4 (GS). Near Price.
+30  18 02 12.6  40.527 N  112.210 W    0 G           0.7    7  UTAH. ML 1.4 (GS). Near Copperton.
+30  20 19 57.1  46.765 N  122.803 W    0 G           0.5    7  WASHINGTON. Near Centralia.
+30  21 21 13.0* 40.617 N  112.175 W    0 G           1.8    6  UTAH. ML 1.7 (GS). Near Copperton.
+30  22 00 16.4* 40.261 N  107.816 W    0 G           0.8    9  COLORADO. ML 1.9 (GS). Near Craig.
+31  05 19 14.0  37.977 N   81.526 W    0 G           0.6    7  WEST VIRGINIA. mbLg 3.2 (GS). Near Beckley.
+31  15 12 01.8  41.774 N  108.417 W    0 G           0.8    9  WYOMING. ML 2.4 (GS). Near Rock Springs.
+31  16 08 46.0* 38.007 N   80.600 W    0 G           1.0    6  WEST VIRGINIA. mbLg 2.7 (GS). Near Richwood.
+31  19 02 28.6? 37.29  N   82.95  W    0 G           0.5    5  WEST VIRGINIA. mbLg 2.5 (GS). N of Hazard, Kentucky.
+31  20 30 19.7  40.572 N  112.180 W    0 G           0.8    6  UTAH. ML 1.5 (GS). Near Copperton.
+31  21 16 44.5? 35.45  N  109.30  W    0 G           1.1    6  EASTERN ARIZONA. ML 1.6 (GS). Near Gallup, New Mexico.

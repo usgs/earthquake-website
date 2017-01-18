@@ -1,0 +1,16 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  3-98-EXP
+GEOLOGICAL SURVEY                                                                                        JUL 27, 1998
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                         MARCH 1998
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+25  15 58 46.3  40.635 N  112.276 W    0 G           1.2   13  UTAH. ML 1.9 (GS). 5 miles (10 km) N of Tooele, Utah.
+27  17 59 51.8* 47.347 N   93.185 W    0 G           1.7    5  MINNESOTA. mbLg 2.7 (GS). 15 miles (20 km) WSW of Hibbing,
+                                                                Minnesota.

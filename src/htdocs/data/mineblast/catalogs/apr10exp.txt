@@ -1,0 +1,25 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  4-10-EXP
+GEOLOGICAL SURVEY                                                                                        AUG 31, 2010
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                         APRIL 2010
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+04  18 14 51.7  43.729 N  105.238 W   0 G           A 1.6   51   21  WYOMING. ML 3.4 (GS). 65 km (40 miles) SSE of Gillette.
+07  22 09 44.4* 45.135 N  106.854 W   0 G           B 2.0   64   14  EASTERN MONTANA. ML 2.5 (GS). 40 km (25 miles) NNE of
+                                                                      Sheridan.
+09  16 31 20.9  41.789 N  110.669 W   0 G           A 1.1  104   19  WYOMING. ML 2.4 (GS). 10 km (5 miles) W of Kemmerer.
+09  21 44 34.8* 34.234 N  109.159 W   0 G           B 1.2  156    8  ARIZONA. ML 2.6 (GS). 60 km (40 miles) W of Quemado.
+12  18 33 02.2  43.805 N  105.289 W   0 G           A 1.2   51   35  WYOMING. ML 3.3 (GS). 55 km (35 miles) SSE of Gillette.
+18  18 06 23.9  43.632 N  105.194 W   1 *           B 1.4   60   29  WYOMING. ML 3.6 (GS). 75 km (50 miles) SSE of Gillette.
+21  20 03 57.7  44.060 N  105.183 W   0 G           A 1.5   52   25  WYOMING. ML 3.4 (GS). 35 km (20 miles) SE of Gillette.
+25  20 27 08.3? 50.09  N  114.66  W   0 G           C 1.1  258    9  ALBERTA, CANADA. ML 2.3 (GS). 100 km (65 miles) NE of
+                                                                      Cranbrook.
+30  18 56 39.3  43.564 N  105.209 W   0 G           A 1.2   51   34  WYOMING. ML 3.2 (GS). 85 km (50 miles) SSE of Gillette.
+ 

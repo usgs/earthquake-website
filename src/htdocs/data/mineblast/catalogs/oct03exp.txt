@@ -1,0 +1,24 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 10-03-EXP
+GEOLOGICAL SURVEY                                                                                        DEC  4, 2003
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                        OCTOBER 2003
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES                GS               STA                                                
+DAY HR MN SEC     LAT       LONG            mb  MS             USED                                                
+ 
+01  21 04 55.6  43.697 N  105.273 W    0 G           0.9  119   14  WYOMING. ML 3.1 (GS). 70 km (45 miles) SSE of Gillette.
+03  20 03 56.8  43.775 N  105.288 W    0 G           0.7  132    9  WYOMING. ML 3.1 (GS). 60 km (35 miles) SSE of Gillette.
+04  19 25 08.3* 43.604 N  105.146 W    0 G           1.1  166   15  WYOMING. mbLg 2.5 (GS). 80 km (50 miles) WSW of
+                                                                     Newcastle.
+11  18 22 39.0  43.738 N  105.249 W    0 G           1.5  118   15  WYOMING. 65 km (40 miles) SSE of Gillette.
+13  21 00 07.1? 43.20  N  104.55  W    0 G           4.3  179   11  WYOMING. mbLg 3.0 (GS). 80 km (50 miles) SSW of
+                                                                     Newcastle.
+15  20 07 30.9  43.809 N  105.280 W    0 G           1.0  111   26  WYOMING. ML 3.5 (GS). 60 km (35 miles) SSE of Gillette.
+17  21 45 42.2* 44.070 N  105.524 W    0 G           0.5  153    5  WYOMING. ML 3.0 (GS). 25 km (15 miles) S of Gillette.
+18  18 04 20.1  43.703 N  105.177 W    0 G           1.4  119   28  WYOMING. 70 km (45 miles) SSE of Gillette.
+26  00 52 16.6  40.479 N  106.924 W    1 G           0.8   94   12  COLORADO. ML 3.2 (GS). ML 3.2 (GS). Mining related
+                                                                     event near Steamboat Springs.

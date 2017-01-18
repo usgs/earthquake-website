@@ -1,0 +1,17 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 10-10-EXP
+GEOLOGICAL SURVEY                                                                                        DEC  1, 2010
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                        OCTOBER 2010
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+07  23 35 29.2  43.414 N  105.130 W   0 G           A 1.4  138   13  WYOMING. ML 2.8 (GS). 75 km (45 miles) NNE of Douglas.
+17  18 11 48.6* 43.939 N  105.410 W   0 G           B 3.5   61   45  WYOMING. ML 3.3 (GS). 40 km (25 miles) S of Gillette.
+23  21 15 19.4  43.802 N  105.189 W   0 G           A 0.9   51   28  WYOMING. ML 3.4 (GS). 60 km (35 miles) SSE of Gillette.
+ 

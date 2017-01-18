@@ -1,0 +1,46 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  4-99-EXP
+GEOLOGICAL SURVEY                                                                                        JUN 26, 1999
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                         APRIL 1999
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+02  22 59 02.9  40.233 N  107.778 W    0 G           0.8   14  COLORADO. ML 3.1 (GS). 25 miles (40 km) SSW of Craig,
+                                                                Colorado.
+06  22 12 52.7  40.315 N  107.805 W    0 G           1.3   10  COLORADO. ML 2.8 (GS). 20 miles (30 km) SW of Craig,
+                                                                Colorado.
+06  22 21 02.0  40.369 N  106.893 W    0 G           1.3    9  COLORADO. ML 2.8 (GS). 10 miles (20 km) SSW of Steamboat
+                                                                Springs, Colorado.
+08  21 04 32.4  40.454 N  106.917 W    0 G           0.7   10  COLORADO. ML 2.4 (GS). Near Steamboat Springs, Colorado.
+08  23 01 26.8  41.829 N  108.722 W    0 G           1.0   16  WYOMING. ML 2.5 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+09  18 15 49.3* 43.660 N  105.168 W    0 G           1.1    7  WYOMING. ML 2.8 (GS). 45 miles (80 km) SSE of Gillette,
+                                                                Wyoming.
+13  20 20 49.4* 44.179 N  105.379 W    0 G           1.0   10  WYOMING. ML 3.2 (GS). 10 miles (20 km) SE of Gillette,
+                                                                Wyoming.
+13  23 07 47.8* 43.598 N  105.107 W    0 G           1.3    9  WYOMING. ML 3.0 (GS). 50 miles (80 km) WSW of Newcastle,
+                                                                Wyoming.
+14  20 14 03.6  40.468 N  106.915 W    0 G           0.8   14  COLORADO. ML 2.6 (GS). Near Steamboat Springs, Colorado.
+16  19 27 29.5  40.530 N  112.223 W    0 G           1.3   14  UTAH. ML 2.5 (GS). Near Tooele, Utah.
+16  22 10 12.7  41.792 N  108.677 W    0 G           1.2   13  WYOMING. ML 2.5 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+18  00 30 02.5  40.393 N  106.953 W    0 G           0.7   13  COLORADO. ML 2.3 (GS). 10 miles (10 km) SW of Steamboat
+                                                                Springs, Colorado.
+26  15 41 18.8  43.613 N  105.191 W    0 G           1.0   11  WYOMING. ML 3.0 (GS). 50 miles (80 km) SSE of Gillette,
+                                                                Wyoming.
+27  21 10 16.2* 44.263 N  105.258 W    0 G           1.3    6  WYOMING. ML 2.6 (GS). 10 miles (20 km) E of Gillette,
+                                                                Wyoming.
+28  19 06 14.1* 43.719 N  105.186 W    0 G           1.4    7  WYOMING. ML 3.1 (GS). 40 miles (70 km) SSE of Gillette,
+                                                                Wyoming.
+28  23 04 38.3* 43.559 N  105.087 W    0 G           1.1    7  WYOMING. ML 2.6 (GS). 50 miles (80 km) WSW of Newcastle,
+                                                                Wyoming.
+29  16 12 41.6  41.773 N  108.674 W    0 G           1.3   20  WYOMING. ML 2.6 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+29  21 26 09.0  46.687 N  122.829 W    0 G           0.8    7  WASHINGTON. ML 2.4 (GS). 5 miles (10 km) ESE of Centralia,
+                                                                Washington. 

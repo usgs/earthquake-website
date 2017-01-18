@@ -1,0 +1,25 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 11-10-EXP
+GEOLOGICAL SURVEY                                                                                        JAN 24, 2011
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                       NOVEMBER 2010
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+07  21 56 46.5  43.787 N  105.212 W   4             A 1.0   51   77  WYOMING. ML 3.5 (GS). 60 km (40 miles) SSE of Gillette.
+13  21 07 12.0  43.928 N  105.143 W   0 G           A 0.9   82   17  WYOMING. ML 2.8 (GS). 50 km (30 miles) SE of Gillette.
+14  19 34 58.7  43.826 N  105.384 W   0 G           A 1.3   69   21  WYOMING. ML 3.0 (GS). 55 km (35 miles) S of Gillette.
+15  18 59 35.0  43.702 N  105.198 W   0 G           A 1.3   75   38  WYOMING. ML 3.2 (GS). 70 km (45 miles) SSE of Gillette.
+15  19 36 02.0* 43.532 N  105.451 W   0 G           B 2.4   92   15  WYOMING. ML 2.7 (GS). 70 km (40 miles) ENE of Midwest.
+17  20 08 58.9  43.604 N  105.102 W   0 G           A 1.0   54   25  WYOMING. ML 3.3 (GS). 75 km (45 miles) WSW of Newcastle.
+24  18 20 44.5* 44.012 N  105.229 W   0 G           B 2.1  132   12  WYOMING. ML 2.9 (GS). 40 km (25 miles) SE of Gillette.
+24  19 11 59.1  43.756 N  105.147 W   0 G           A 1.0   92   38  WYOMING. ML 3.2 (GS). 65 km (40 miles) SSE of Gillette.
+27  21 01 22.7  43.779 N  105.186 W   0 G           A 0.9   72   29  WYOMING. ML 2.7 (GS). 60 km (40 miles) SSE of Gillette.
+29  19 17 06.5  43.696 N  105.221 W   0 G           A 1.3   75   20  WYOMING. ML 3.0 (GS). 70 km (45 miles) SSE of Gillette.
+29  19 59 42.3  43.577 N  105.334 W   0 G           A 1.1  122   14  WYOMING. ML 2.8 (GS). 80 km (50 miles) ENE of Midwest.
+ 

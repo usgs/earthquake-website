@@ -1,0 +1,45 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  3-12-EXP
+GEOLOGICAL SURVEY                                                                                        MAY 30, 2012
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                         MARCH 2012
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+01  22 53 58.4* 46.052 N  107.035 W   0 G           B 1.4   90    6  EASTERN MONTANA. ML 2.7 (GS). 31 km (19 miles) SSE of
+                                                                      Hysham.
+03  14 39 10.4* 44.528 N  105.673 W   0 G           B 2.7   64   11  WYOMING. mbLg 2.7 (GS). 30 km (18 miles) NNW of
+                                                                      Gillette.
+05  22 35 52.8? 44.03  N  105.36  W   0 G           C 0.9  151    5  WYOMING. mbLg 2.6 (GS). 31 km (19 miles) SSE of
+                                                                      Gillette.
+06  19 02 19.6  43.625 N  105.308 W   0 G           A 1.7   75   17  WYOMING. ML 3.2 (GS). 76 km (47 miles) SSE of Gillette.
+09  01 08 34.8  42.890 N  111.174 W   0 G           A 0.8   57   20  SOUTHERN IDAHO. ML 2.8 (GS). 27 km (17 miles) NW of
+                                                                      Afton.
+12  18 07 38.4  43.811 N  105.253 W   0 G           A 0.9   51   48  WYOMING. mbLg 2.9 (GS). 57 km (35 miles) SSE of
+                                                                      Gillette.
+12  20 08 29.6  43.565 N  105.462 W   0 G           A 0.9  138   54  WYOMING. mbLg 2.9 (GS). ML 3.7 (GS). 68 km (42 miles)
+                                                                      ENE of Midwest.
+12  23 36 22.8* 44.112 N  105.509 W   0 G           B 1.1  118    6  WYOMING. mbLg 2.4 (GS). 16 km (10 miles) S of Gillette.
+13  21 05 18.2  43.632 N  105.180 W   0 G           A 0.6   78   17  WYOMING. mbLg 2.9 (GS). 77 km (48 miles) SSE of
+                                                                      Gillette.
+15  18 05 03.0  43.752 N  105.186 W   0 G           A 1.1  147   19  WYOMING. ML 3.0 (GS). 65 km (40 miles) SSE of Gillette.
+15  20 06 23.5  43.753 N  105.180 W   0 G           A 1.2   52   48  WYOMING. ML 3.6 (GS). 65 km (40 miles) SSE of Gillette.
+17  18 06 04.2  43.748 N  105.199 W   0 G           A 1.2   74   29  WYOMING. ML 3.3 (GS). 65 km (40 miles) SSE of Gillette.
+22  17 08 20.0* 43.380 N  105.075 W   0 G           B 0.6  190    8  WYOMING. ML 3.0 (GS). 73 km (46 miles) NNE of Douglas.
+22  18 23 08.8  43.779 N  105.157 W   0 G           A 1.0   72   16  WYOMING. ML 3.0 (GS). 63 km (39 miles) SSE of Gillette.
+22  21 52 23.3  41.737 N  108.632 W   0 G           A 1.0   70   25  WYOMING. ML 2.9 (GS). 50 km (31 miles) ENE of Rock
+                                                                      Springs.
+24  15 57 29.2  43.895 N  105.365 W   0 G           A 1.4   88   11  WYOMING. mbLg 2.9 (GS). 45 km (28 miles) SSE of
+                                                                      Gillette.
+27  17 21 43.0  44.132 N  105.309 W   0 G           A 1.0   51   44  WYOMING. ML 3.3 (GS). 23 km (15 miles) SE of Gillette.
+27  18 25 56.3* 33.956 N   83.341 W   0 G           B 1.0  157    8  GEORGIA, USA. mbLg 2.0 (GS). 4 km (2 miles) E of
+                                                                      Athens. Felt (III) at Athens.
+27  21 41 23.1* 43.529 N  105.108 W   0 G           B 1.0   85    9  WYOMING. mbLg 3.0 (GS). 78 km (48 miles) WSW of
+                                                                      Newcastle.
+30  19 48 12.4  36.474 N  110.488 W   0 G           A 1.2   78   12  ARIZONA. ML 2.6 (GS). 35 km (22 miles) SW of Kayenta.
+ 
