@@ -1,0 +1,12 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 4-351-EXP
+GEOLOGICAL SURVEY                                                                                        DEC 16, 2004
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                               
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                               
+ 
+NOV 2004
+07  19 00 52.5  43.736 N  105.197 W   0 G           A 0.6  198   17  WYOMING. ML 3.4 (GS). 65 km (40 miles) SSE of Gillette

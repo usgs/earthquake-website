@@ -1,0 +1,30 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  7-12-EXP
+GEOLOGICAL SURVEY                                                                                        OCT  4, 2012
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                         JULY 2012
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+04  19 03 41.9  43.780 N  105.247 W   0 G           A 1.1   51   19  WYOMING. ML 3.2 (GS). 60 km (38 miles) SSE of Gillette.
+06  16 11 49.1  43.951 N  105.410 W   0 G           A 1.5  102   11  WYOMING. ML 2.9 (GS). 39 km (24 miles) S of Gillette.
+06  17 22 01.3* 45.951 N  106.795 W   0 G           B 1.5  121    6  EASTERN MONTANA. ML 2.8 (GS). 15 km (9 miles) WNW of
+                                                                      Colstrip.
+06  20 13 09.3  43.784 N  105.307 W   0 G           A 1.2   50   22  WYOMING. ML 3.6 (GS). 58 km (36 miles) SSE of Gillette.
+06  23 36 55.8  43.701 N  104.931 W   0 G           A 1.5   84   10  WYOMING. ML 2.9 (GS). 75 km (46 miles) WSW of Newcastle.
+08  19 14 25.4* 43.625 N  105.294 W   0 G           B 1.8   75   10  WYOMING. ML 3.1 (GS). 76 km (47 miles) SSE of Gillette.
+08  21 05 02.8  43.763 N  105.245 W   0 G           A 1.0   26   84  WYOMING. ML 3.7 (GS). 64 km (40 miles) SSE of Gillette.
+09  17 58 21.1* 41.102 N  112.794 W   0 G           B 1.0  119    8  UTAH. ML 1.7 (GS). 70 km (44 miles) W of Ogden.
+11  18 00 07.1  43.844 N  105.198 W   0 G           A 0.8   68   10  WYOMING. ML 3.2 (GS). 55 km (34 miles) SSE of Gillette.
+23  17 42 01.2* 41.003 N  112.782 W   0 G           B 1.4  153    6  UTAH. ML 1.8 (GS). 66 km (41 miles) NW of Tooele.
+29  18 19 38.9  43.884 N  105.284 W   0 G           A 1.2   61   21  WYOMING. ML 3.5 (GS). 48 km (30 miles) SSE of Gillette.
+29  21 58 23.8  40.717 N  112.537 W   0 G           A 1.2  129   18  UTAH. ML 2.6 (GS). 29 km (18 miles) NW of Tooele.
+30  19 04 59.5* 40.963 N  112.879 W   0 G           B 1.3  119    7  UTAH. ML 1.8 (GS). 67 km (41 miles) NW of Tooele.
+31  17 28 34.5? 41.01  N  112.55  W   0 G           C 0.4  142    4  UTAH. ML 1.4 (GS). 54 km (33 miles) WSW of Ogden.
+31  20 01 50.5  43.708 N  105.269 W   0 G           A 1.0   51   56  WYOMING. ML 3.4 (GS). 67 km (42 miles) SSE of Gillette.
+ 

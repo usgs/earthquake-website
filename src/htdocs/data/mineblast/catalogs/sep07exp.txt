@@ -1,0 +1,41 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  9-07-EXP
+GEOLOGICAL SURVEY                                                                                        NOV 23, 2007
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                       SEPTEMBER 2007
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+01  14 45 40.4  43.623 N  105.239 W   0 G           A 0.6  124   10  WYOMING. ML 2.6 (GS). 75 km (50 miles) SSE of Gillette.
+01  16 01 10.4? 44.31  N  105.03  W   0 G           C 1.3  198    4  WYOMING. ML 2.6 (GS). 55 km (35 miles) SE of Gillette.
+01  16 10 22.3* 43.680 N  105.172 W   0 G           B 1.1  123    7  WYOMING. ML 2.9 (GS). 75 km (45 miles) SSE of Gillette.
+02  20 47 31.8  44.180 N  105.337 W   0 G           A 0.4  106   11  WYOMING. ML 2.6 (GS). 20 km (10 miles) SE of Gillette.
+03  18 02 27.6  43.686 N  105.199 W   0 G           A 0.9   98   30  WYOMING. ML 3.5 (GS). 70 km (45 miles) SSE of Gillette.
+07  20 06 40.5  43.762 N  105.276 W   0 G           A 1.0  115   32  WYOMING. ML 3.1 (GS). 60 km (35 miles) SSE of Gillette.
+08  14 57 14.7* 43.509 N  105.441 W   0 G           B 1.4  206   12  WYOMING. ML 2.9 (GS). 70 km (45 miles) E of Midwest.
+08  15 32 25.0* 43.702 N  105.168 W   0 G           B 1.2  122    9  WYOMING. ML 2.6 (GS). 70 km (45 miles) SSE of Gillette.
+09  17 56 38.6  43.758 N  105.219 W   0 G           A 1.2   94   35  WYOMING. ML 3.2 (GS). 65 km (40 miles) SSE of Gillette.
+12  22 15 14.7  40.823 N  116.456 W   0 G           A 0.9   96   11  NEVADA. ML 2.6 (GS). 45 km (30 miles) ENE of Battle
+                                                                      Mountain.
+13  20 02 29.1  43.756 N  105.235 W   0 G           A 0.8  117   35  WYOMING. ML 3.3 (GS). 60 km (35 miles) SSE of Gillette.
+15  13 12 52.0* 37.421 N   83.038 W   0 G           B 1.0  103    8  EASTERN KENTUCKY. mbLg 2.8 (GS). 25 km (15 miles) NNE
+                                                                      of Hazard.
+15  16 10 52.0* 45.947 N  106.243 W   0 G           B 1.5  110   12  EASTERN MONTANA. ML 2.6 (GS). 30 km (20 miles) ENE of
+                                                                      Colstrip.
+16  19 05 11.9  43.712 N  105.289 W   0 G           A 1.1   72   18  WYOMING. ML 2.7 (GS). 65 km (40 miles) SSE of Gillette.
+17  18 01 20.3  43.784 N  105.232 W   0 G           A 0.8   70   35  WYOMING. ML 3.4 (GS). 60 km (35 miles) SSE of Gillette.
+22  13 01 24.7? 44.06  N  105.34  W   0 G           C 1.1  153    5  WYOMING. ML 2.7 (GS). 30 km (20 miles) SSE of Gillette.
+22  16 25 12.2* 43.668 N  105.211 W   0 G           B 1.0  123    7  WYOMING. ML 2.5 (GS). 75 km (45 miles) SSE of Gillette.
+22  22 30 45.4  43.728 N  105.188 W   0 G           A 0.9   74   29  WYOMING. ML 3.1 (GS). 70 km (40 miles) SSE of Gillette.
+23  18 24 16.9  43.774 N  105.222 W   0 G           A 0.9   51   37  WYOMING. ML 3.4 (GS). 60 km (40 miles) SSE of Gillette.
+24  19 14 05.3  43.763 N  105.193 W   0 G           A 0.8   51   26  WYOMING. ML 3.3 (GS). 65 km (40 miles) SSE of Gillette.
+26  20 26 21.9  43.802 N  105.281 W   0 G           A 1.0   68   40  WYOMING. ML 3.3 (GS). 55 km (35 miles) SSE of Gillette.
+27  20 07 15.9  43.764 N  105.263 W   0 G           A 0.8   70   26  WYOMING. ML 3.3 (GS). 60 km (40 miles) SSE of Gillette.
+28  20 36 49.9  43.779 N  105.271 W   0 G           A 0.9   51   34  WYOMING. ML 3.3 (GS). 60 km (40 miles) SSE of Gillette.
+29  21 00 26.6  43.577 N  105.112 W   0 G           A 0.6   83   19  WYOMING. ML 3.1 (GS). 80 km (50 miles) WSW of Newcastle.
+ 

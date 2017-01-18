@@ -1,0 +1,29 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  5-03-EXP
+GEOLOGICAL SURVEY                                                                                        JUN 16, 2003
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                          MAY 2003
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES                GS               STA                                                
+DAY HR MN SEC     LAT       LONG            mb  MS             USED                                                
+ 
+04  17 09 40.2* 44.201 N  105.334 W    0 G           2.3  164    5  WYOMING. ML 3.2 (GS).
+04  17 28 06.3  40.417 N  106.925 W    0 G           1.2   92   22  COLORADO. ML 3.1 (GS).
+07  20 09 58.0* 43.925 N  105.369 W    0 G           1.8  160   13  WYOMING. ML 2.6 (GS). 40 km (25 miles) SSE of Gillette.
+08  19 12 26.8  44.103 N  105.360 W    0 G           1.0  146   15  WYOMING. ML 3.4 (GS).
+08  22 36 43.6* 44.162 N  105.413 W    0 G           1.4  159   10  WYOMING. ML 3.0 (GS).
+12  19 34 16.4* 45.196 N  106.840 W    0 G           1.4  184   10  EASTERN MONTANA. ML 3.2 (GS). 30 miles (45 km) north-
+                                                                     northeast of Sheridan, Wyoming. 30 miles (45 km) north-
+                                                                     northeast of Sheridan, Wyoming.
+14  20 09 58.4  44.077 N  105.367 W    0 G           0.8  144   18  WYOMING. ML 3.3 (GS). 25 km (15 miles) SSE of Gillette.
+15  20 02 10.2  36.612 N  108.453 W    0 G           0.8   71   11  NEW MEXICO. ML 2.7 (GS). 25 km (15 miles) WSW of
+                                                                     Farmington, New Mexico.
+16  20 03 30.6  43.699 N  105.286 W    0 G           0.8  127   18  WYOMING. ML 3.5 (GS).
+21  18 00 17.3  43.707 N  105.302 W    0 G           0.9  119   15  WYOMING. ML 3.3 (GS).
+23  18 07 15.9  43.732 N  105.290 W    0 G           0.8  124   14  WYOMING. ML 2.9 (GS).
+24  17 52 35.5? 43.48  N  105.78  W    0 G           1.5  253   11  WYOMING
+25  18 04 08.1  43.786 N  105.324 W    0 G           0.8  127   20  WYOMING. ML 3.3 (GS).
+30  22 05 22.7  40.313 N  107.758 W    0 G           0.6  173   13  COLORADO. ML 2.9 (GS).

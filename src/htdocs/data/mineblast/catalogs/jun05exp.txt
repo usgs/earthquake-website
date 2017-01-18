@@ -1,0 +1,25 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 5-208-EXP
+GEOLOGICAL SURVEY                                                                                        JUL 27, 2005
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                               
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                               
+ 
+JUN 2005
+04  19 30 56.1  43.780 N  105.235 W   0 G           A 0.7  115   13  WYOMING. ML 2.9 (GS). 60 km (40 miles) SSE of Gillette.
+04  20 17 14.3  44.177 N  105.403 W   0 G           A 0.9   88   25  WYOMING. ML 3.1 (GS). 15 km (10 miles) SSE of Gillette.
+05  18 21 51.7  43.769 N  105.261 W   0 G           A 0.5  115   16  WYOMING. ML 3.1 (GS). 60 km (35 miles) SSE of Gillette.
+07  21 42 47.1* 37.083 N   83.363 W   0 G           B 0.6  136    8  EASTERN KENTUCKY. mbLg 2.8 (GS). 25 km (15 miles) SSW
+                                                                      of Hazard.
+12  18 09 09.2  43.723 N  105.246 W   0 G           A 0.7  118   11  WYOMING. ML 3.2 (GS). 65 km (40 miles) SSE of Gillette.
+15  18 02 12.5* 43.716 N  105.404 W   0 G           B 0.9  224   20  WYOMING. ML 3.3 (GS). 65 km (40 miles) S of Gillette.
+16  19 00 30.5  43.746 N  105.230 W   0 G           A 0.7  117   14  WYOMING. ML 3.2 (GS). 65 km (40 miles) SSE of Gillette.
+18  20 35 53.9  43.774 N  105.213 W   0 G           A 1.0  116   23  WYOMING. ML 3.2 (GS). 65 km (40 miles) SSE of Gillette.
+25  20 08 28.9  43.696 N  105.169 W   0 G           A 0.9  122   20  WYOMING. ML 3.2 (GS). 70 km (45 miles) SSE of Gillette.
+28  19 07 28.7  43.742 N  105.346 W   0 G           A 0.8  114   10  WYOMING. ML 3.2 (GS). 60 km (40 miles) SSE of Gillette.
+29  20 14 27.6  43.688 N  105.157 W   0 G           A 0.9  123   27  WYOMING. ML 3.2 (GS). 75 km (45 miles) SSE of Gillette.
+29  21 25 43.7  44.061 N  105.309 W   0 G           A 1.0   96   21  WYOMING. ML 3.1 (GS). 30 km (15 miles) SSE of Gillette.
+30  08 31 10.6  40.495 N  106.880 W   0 G           A 1.0  119   33  COLORADO. ML 3.2 (GS). NEAR Steamboat Springs.

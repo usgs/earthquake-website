@@ -1,0 +1,18 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  1-98-EXP
+GEOLOGICAL SURVEY                                                                                        JUL 27, 1998
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                        JANUARY 1998
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+06  15 40 52.3* 41.724 N  110.589 W    0 G           1.1    6  WYOMING. ML 1.6 (GS). 35 mi (60 km) NNE of Evanston, Wyoming.
+12  21 56 12.4* 38.022 N   81.329 W    0 G           1.2    7  WEST VIRGINIA. mbLg 3.2 (GS). 20 miles (30 km) NNW of
+                                                                Beckley, West Virginia.
+15  18 07 40.5* 46.070 N  106.841 W    0 G           1.5    7  MONTANA. ML 2.9 (GS). 15 miles (30 km) SSW of Forsyth,
+                                                                Montana.

@@ -1,0 +1,47 @@
+U.S. DEPARTMENT OF THE INTERIOR  
+GEOLOGICAL SURVEY                                                                                        JUL 27, 1998
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                       DECEMBER 1997
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+01  23 09 36.5  40.118 N  107.788 W    0 G           1.1   12  COLORADO. ML 2.6 (GS). 30 miles (50 km) SSW of Craig,
+                                                                Colorado.
+02  18 42 05.1  40.487 N  112.201 W    0 G           1.0   15  UTAH. ML 2.1 (GS). NEAR Tooele, Utah.
+02  19 54 01.6  41.800 N  110.695 W    0 G           1.0   12  WYOMING. ML 1.6 (GS). 40 miles (60 km) NNE of Evanston,
+                                                                Wyoming.
+03  16 40 16.3* 41.861 N  108.838 W    0 G           1.4   10  WYOMING. ML 1.9 (GS). 25 miles (40 km) NE of Rock Springs,
+                                                                Wyoming.
+04  23 04 57.1  38.289 N  108.524 W    0 G           0.6    7  COLORADO. ML 2.6 (GS). 35 miles (60 km) WNW of Montrose,
+                                                                Colorado.
+04  23 07 11.5  40.307 N  107.767 W    0 G           0.8   11  COLORADO. ML 2.3 (GS). 20 miles (30 km) SW of Craig,
+                                                                Colorado.
+05  17 57 16.0  40.521 N  112.180 W    0 G           1.4    8  UTAH. ML 1.7 (GS). 5 miles (10 km) E of Tooele, Utah.
+06  18 49 30.0  43.619 N  105.246 W    0 G           0.9   20  WYOMING. ML 3.3 (GS). 50 miles (80 km) SSE of Gillette,
+                                                                Wyoming.
+06  23 30 17.5  41.798 N  108.652 W    0 G           1.2   16  WYOMING. ML 2.6 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+07  18 28 15.4  40.543 N  112.247 W    0 G           1.5   20  UTAH. ML 2.5 (GS). NEAR Tooele, Utah.
+09  18 59 08.7* 36.557 N  110.283 W    0 G           1.2   10  EASTERN ARIZONA. ML 2.7 (GS). 10 miles (20 km) S of Kayenta,
+                                                                Arizona.
+09  19 22 47.0* 40.586 N  109.918 W    0 G           1.1    6  UTAH. ML 2.1 (GS). 20 miles (40 km) WNW of Vernal, Utah.
+09  19 44 55.8* 37.638 N   82.131 W    0 G           0.6    7  WEST VIRGINIA. mbLg 3.0 (GS). 10 miles (10 km) ESE of
+                                                                Williamson, West Virginia.
+09  21 37 09.4* 36.714 N  108.374 W    0 G           1.4    7  NEW MEXICO. ML 2.5 (GS). 10 miles (10 km) W of Farmington,
+                                                                New Mexico.
+11  22 06 45.0  41.826 N  108.694 W    0 G           1.3   18  WYOMING. ML 2.7 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+12  20 53 33.2  41.708 N  110.602 W    0 G           1.1   15  WYOMING. ML 2.8 (GS). 35 miles (60 km) NNE of Evanston,
+                                                                Wyoming.
+12  21 00 48.1  38.092 N   81.209 W    0 G           0.8   10  WEST VIRGINIA. mbLg 3.2 (GS). 20 miles (30 km) N of Beckley,
+                                                                West Virginia.
+23  21 09 31.0* 43.130 N  106.643 W    0 G           0.9   16  WYOMING. ML 2.9 (GS). 25 miles (40 km) NW of Casper, Wyoming.
+30  19 18 34.7* 43.964 N  105.196 W    0 G           1.4    7  WYOMING. ML 2.7 (GS). 25 miles (40 km) SE of Gillette,
+                                                                Wyoming.
+31  17 09 21.5? 47.20  N   92.92  W    0 G           0.9    4  MINNESOTA. mbLg 3.2 (GS). 15 miles (20 km) S of Hibbing,
+                                                                Minnesota.

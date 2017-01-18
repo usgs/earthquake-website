@@ -1,0 +1,67 @@
+ 
+ 
+ 
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  4-02-EXP
+GEOLOGICAL SURVEY                                                                                        MAY 25, 2002
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                         APRIL 2002
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES                GS               STA                                                
+DAY HR MN SEC     LAT       LONG            mb  MS             USED                                                
+ 
+01  01 02 58.8  40.271 N  107.808 W    0 G           1.4   98   17  COLORADO. ML 2.7 (GS). 20 miles (35 km) SW of Craig.
+01  21 43 38.6  35.607 N  108.865 W    0 G           1.1   88    9  NEW MEXICO. ML 2.2 (GS). 10 miles (15 km) NW of Gallup.
+02  20 02 10.4  41.726 N  108.474 W    0 G           1.3  128   23  WYOMING. ML 3.2 (GS). 40 miles (65 km) ENE of Rock
+                                                                     Springs.
+03  19 56 09.7  32.786 N  109.219 W    0 G           0.7  193   11  EASTERN ARIZONA. ML 2.8 (GS). 30 milse (45 km) E of
+                                                                     Safford.
+04  23 07 19.5  40.308 N  107.775 W    0 G           0.5  135   10  COLORADO. ML 3.1 (GS). 20 miles (30 km) SW of Craig.
+05  23 02 53.0  40.392 N  107.807 W    0 G           0.9  138   15  COLORADO. ML 2.6 (GS). 15 miles (25 km) WNW of Craig.
+06  18 13 28.6* 43.580 N  104.855 W    0 G           1.6  149   12  WYOMING. ML 3.0 (GS). 40 miles (60 km) WSW of Newcastle.
+08  21 21 44.6  46.726 N  122.793 W    0 G           1.1  117   16  WASHINGTON. ML 2.4 (GS). 10 miles (10 km) E of
+                                                                     Centralia.
+09  16 18 23.4  41.780 N  108.683 W    0 G           0.6   86   23  WYOMING. ML 2.6 (GS). 30 miles (50 km) ENE of Rock
+                                                                     Springs.
+09  22 04 46.8  40.322 N  107.764 W    0 G           0.7   71   19  COLORADO. ML 3.2 (GS). 15 miles (25 km) SW of Craig.
+10  17 06 01.1  41.719 N  110.698 W    0 G           0.2  106   17  WYOMING. ML 1.9 (GS). 35 miles (55 km) NNE of Evanston.
+10  18 31 32.3  44.208 N  105.265 W    0 G           1.0  140   20  WYOMING. ML 3.3 (GS). 15 miles (20 km) ESE of Gillette.
+10  20 03 40.5  43.824 N  105.152 W    0 G           1.2  143   23  WYOMING. ML 3.2 (GS). 35 miles (60 km) SSE of Gillette.
+10  21 34 58.5  46.732 N  122.843 W    0 G           0.4  134    6  WASHINGTON. 5 miles (10 km) ENE of Centralia.
+11  21 47 49.5  32.934 N  109.230 W    0 G           0.9  119    7  EASTERN ARIZONA. ML 2.8 (GS). 30 miles (45 km) ENE of
+                                                                     Safford.
+12  17 25 39.3  41.804 N  108.682 W    0 G           0.9   82   26  WYOMING. ML 2.6 (GS). 30 miles (50 km) ENE of Rock
+                                                                     Springs.
+15  18 03 56.1  43.643 N  105.254 W    0 G           1.0  123   18  WYOMING. ML 3.2 (GS). 45 miles (75 km) SSE of Gillette.
+16  18 00 07.7  43.671 N  105.250 W    0 G           0.7  126   20  WYOMING. ML 3.4 (GS). 45 miles (70 km) SSE of Gillette.
+16  20 14 57.7  44.231 N  105.351 W    0 G           0.8  102   22  WYOMING. ML 3.2 (GS). 10 miles (15 km) ESE of Gillette.
+16  22 48 35.5  32.989 N  109.316 W    0 G           0.6  142   11  EASTERN ARIZONA. ML 2.7 (GS). 25 miles (40 km) ENE of
+                                                                     Safford.
+17  20 43 33.2  41.821 N  108.898 W    0 G           0.7  154   13  WYOMING. ML 2.3 (GS). 20 miles (35 km) NE of Rock
+                                                                     Springs.
+17  22 23 00.5  46.703 N  122.777 W    0 G           0.6  113   10  WASHINGTON. ML 2.0 (GS). 10 miles (15 km) E of
+                                                                     Centralia.
+18  17 27 50.7  41.716 N  108.649 W    0 G           1.0  152   24  WYOMING. ML 3.1 (GS). 30 miles (50 km) ENE of Rock
+                                                                     Springs.
+18  20 37 08.2* 44.094 N  105.321 W    0 G           1.3  241   22  WYOMING. ML 3.3 (GS). 15 miles (25 km) SSE of Gillette.
+18  20 45 31.5  46.715 N  122.788 W    0 G           1.2  115   10  WASHINGTON. ML 2.3 (GS). 10 miles (15 km) E of
+                                                                     Centralia.
+19  20 21 14.1  33.064 N  109.374 W    0 G           0.8  137   13  EASTERN ARIZONA. ML 2.7 (GS). 25 miles (40 km) NE of
+                                                                     Safford.
+20  22 18 29.3  41.830 N  108.718 W    0 G           1.1   82   25  WYOMING. ML 2.7 (GS). 30 miles (50 km) ENE of Rock
+                                                                     Springs.
+22  21 46 14.2  46.733 N  122.820 W    0 G           0.8  132    7  WASHINGTON. 5 miles (10 km) ENE of Centralia.
+23  18 09 12.6  43.760 N  105.080 W    0 G           1.0  108   27  WYOMING. ML 3.4 (GS). 40 miles (70 km) SSE of Gillette.
+24  21 59 05.4* 32.514 N  108.998 W    0 G           1.1  212    5  NEW MEXICO. ML 2.7 (GS). 20 miles (35 km) NW of
+                                                                     Lordsburg.
+26  22 11 32.0  40.316 N  107.907 W    0 G           0.8  157   14  COLORADO. ML 3.0 (GS). 25 miles (35 km) SW of Craig.
+28  21 44 40.5  42.879 N  111.329 W    0 G           0.9   80   20  EASTERN IDAHO. ML 1.8 (GS). 25 miles (35 km) WNW of
+                                                                     Afton.
+29  20 28 49.7  41.885 N  108.818 W    0 G           1.1  160   20  WYOMING. ML 2.4 (GS). 30 miles (45 km) NE of Rock
+                                                                     Springs.
+30  18 08 01.7  40.366 N  107.788 W    0 G           0.9  152   13  COLORADO. ML 2.5 (GS). 15 miles (25 km) SW of Craig.
+30  19 26 40.9  41.113 N  112.851 W    0 G           0.6   75   17  UTAH. ML 1.8 (GS). 45 miles (75 km) W of Ogden.

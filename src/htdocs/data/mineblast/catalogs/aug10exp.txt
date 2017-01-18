@@ -1,0 +1,23 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  8-10-EXP
+GEOLOGICAL SURVEY                                                                                        OCT 21, 2010
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                        AUGUST 2010
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+03  19 20 16.6  44.377 N  105.666 W   0 G           A 1.3  173   12  WYOMING. ML 3.0 (GS). 15 km (10 miles) NW of Gillette.
+06  16 26 04.6? 47.37  N   92.64  W   0 G           C 0.9  129    5  MINNESOTA. mbLg 2.7 (GS). 20 km (10 miles) SSW of
+                                                                      Virginia.
+06  18 04 12.0  43.723 N  105.252 W   0 G           A 1.1   91   40  WYOMING. ML 3.2 (GS). 70 km (40 miles) SSE of Gillette.
+11  15 08 54.2? 47.72  N   91.89  W   0 G           C 0.4   94    5  MINNESOTA. MD 3.1 (GS). 20 km (15 miles) S of Ely.
+18  14 59 08.9* 47.712 N   92.210 W   0 G           B 2.1  128    6  MINNESOTA. mbLg 3.1 (GS). 30 km (20 miles) NE of
+                                                                      Virginia.
+31  18 00 30.0& 41.800 N   87.856 W   0 G                         3  ILLINOIS. <MACRO>. mbLg 2.7 (GS). 20 km (10 miles) WSW
+                                                                      of Chicago.
+ 

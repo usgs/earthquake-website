@@ -1,0 +1,68 @@
+ 
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 10-01-EXP
+GEOLOGICAL SURVEY                                                                                        NOV 27, 2001
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                        OCTOBER 2001
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES                GS               STA
+DAY HR MN SEC     LAT       LONG            MB  Msz            USED
+ 
+01  16 11 29.7  45.211 N  106.873 W    0 G           0.6  184   10  MONTANA. ML 2.9 (GS). 30 miles N of Sheridan, Wyoming.
+01  20 01 25.0  43.741 N  105.324 W    0 G           0.6  125   14  WYOMING. ML 3.4 (GS). 40 miles SSE of Gillette.
+01  20 01 46.0* 33.029 N  109.340 W    0 G           0.6  176    7  EASTERN ARIZONA. ML 2.7 (GS). 25 miles ENE of Safford.
+01  23 20 07.2* 33.022 N  109.358 W    0 G           0.4  176    7  EASTERN ARIZONA. ML 2.1 (GS). 25 miles ENE of Safford.
+02  18 16 21.4* 44.171 N  105.461 W    0 G           1.2  152    8  WYOMING. ML 3.1 (GS). 10 miles SSE of Gillette.
+02  20 38 40.3* 33.082 N  109.348 W    0 G           0.5  173    7  EASTERN ARIZONA. ML 2.7 (GS). 25 miles NE of Safford.
+03  16 01 44.2  41.739 N  108.623 W    0 G           0.4  161   15  WYOMING. ML 2.7 (GS). 30 miles ENE of Rock Springs.
+03  19 00 14.0* 43.713 N  105.173 W    0 G           0.9  242   12  WYOMING. ML 3.4 (GS). 45 miles SSE of Gillette.
+03  20 29 30.1? 33.16  N  109.28  W    0 G           0.3  259    6  EASTERN ARIZONA. ML 3.2 (GS). 35 miles NE of Safford.
+03  22 21 04.5  40.324 N  107.795 W    0 G           0.9  135    8  COLORADO. ML 2.4 (GS). 20 miles SW of Craig.
+04  19 35 58.9* 33.026 N  109.319 W    0 G           0.4  177    7  EASTERN ARIZONA. ML 2.5 (GS). 25 miles ENE of Safford.
+04  22 58 52.0  33.161 N  109.470 W    0 G           0.5  166    7  EASTERN ARIZONA. ML 2.7 (GS). 25 miles NNE of Safford.
+06  18 01 51.0  43.725 N  105.297 W    0 G           0.9  120   17  WYOMING. ML 3.2 (GS). 40 miles SSE of Gillette.
+08  22 02 00.8  40.297 N  107.743 W    0 G           0.9   72   11  COLORADO. ML 2.8 (GS). 20 miles SW of Craig.
+09  18 16 05.6* 33.038 N  109.331 W    0 G           0.4  176    7  EASTERN ARIZONA. ML 2.7 (GS). 25 miles ENE of Safford.
+09  23 38 49.0* 33.050 N  109.377 W    0 G           0.5  174    6  EASTERN ARIZONA. ML 2.8 (GS). 25 miles NE of Safford.
+10  18 16 13.2  41.783 N  108.852 W    0 G           0.8   82   11  WYOMING. ML 2.6 (GS). 25 miles NE of Rock Springs.
+11  18 55 43.0  41.645 N  108.697 W    0 G           0.7   80   14  WYOMING. ML 3.2 (GS). 25 miles ENE of Rock Springs.
+13  15 41 53.4  41.821 N  108.607 W    0 G           1.1  112    8  WYOMING. ML 2.4 (GS). 35 miles ENE of Rock Springs.
+13  20 08 23.9  43.893 N  105.393 W    0 G           0.6  141    8  WYOMING. ML 3.0 (GS). 25 miles S of Gillette.
+15  19 00 50.8  33.055 N  109.328 W    0 G           0.4  113    8  EASTERN ARIZONA. ML 3.0 (GS). 25 miles NE of Safford.
+15  21 15 02.1* 33.045 N  109.325 W    0 G           0.5  176    6  EASTERN ARIZONA. ML 2.7 (GS). 25 miles ENE of Safford.
+15  23 51 52.3* 33.014 N  109.352 W    0 G           0.9  177    7  EASTERN ARIZONA. ML 2.7 (GS). 25 miles ENE of Safford.
+16  18 07 44.1  43.591 N  105.244 W    0 G           0.8  125    7  WYOMING. ML 3.1 (GS). 50 miles SSE of Gillette.
+16  20 02 34.2  43.759 N  105.326 W    0 G           0.5  132    9  WYOMING. ML 3.2 (GS). 40 miles SSE of Gillette.
+16  21 55 15.6  33.023 N  109.351 W    0 G           0.6  114    9  EASTERN ARIZONA. ML 3.0 (GS). 25 miles ENE of Safford.
+16  23 07 05.6  33.162 N  109.426 W    0 G           0.6  167    7  EASTERN ARIZONA. ML 2.5 (GS). 30 miles NE of Safford.
+17  22 24 10.4  35.511 N  107.597 W    0 G           0.7  122    9  NEW MEXICO. ML 2.4 (GS). 30 miles NNE of Grants.
+19  16 01 29.4  33.009 N  109.280 W    0 G           0.3  179    7  EASTERN ARIZONA. ML 2.7 (GS). 30 miles ENE of Safford.
+19  18 44 03.6  36.305 N  110.241 W    0 G           0.4  103    7  EASTERN ARIZONA. ML 2.4 (GS). 30 miles S of Kayenta.
+19  18 52 33.9* 33.059 N  109.315 W    0 G           1.0  175    7  EASTERN ARIZONA. ML 2.5 (GS). 25 miles NE of Safford.
+20  20 01 33.7* 43.725 N  105.549 W    0 G           0.5  243    8  WYOMING. ML 2.9 (GS). 40 miles S of Gillette.
+22  18 57 33.2* 43.776 N  105.198 W    0 G           0.7  240    9  WYOMING. ML 3.2 (GS). 40 miles SSE of Gillette.
+23  15 42 48.1  41.657 N  108.704 W    0 G           0.2   83    8  WYOMING. ML 2.5 (GS). 25 miles E of Rock Springs.
+23  18 48 39.9* 43.326 N  105.040 W    0 G           1.1  144   11  WYOMING. ML 3.2 (GS). 45 miles NNE of Douglas.
+23  22 08 15.8  40.327 N  107.817 W    0 G           0.5   70    9  COLORADO. ML 3.1 (GS). 20 miles SW of Craig.
+23  22 48 39.6* 32.960 N  109.486 W    0 G           0.9  176    8  EASTERN ARIZONA. ML 2.7 (GS). 15 miles NE of Safford.
+24  17 29 20.0  35.468 N  107.565 W    0 G           0.4  121    9  NEW MEXICO. ML 2.6 (GS). 25 miles NE of Grants.
+24  20 07 00.8* 33.023 N  109.359 W    0 G           1.0  176    7  EASTERN ARIZONA. ML 2.5 (GS). 25 miles ENE of Safford.
+25  16 09 26.3  36.435 N  110.389 W    0 G           1.1  104    9  EASTERN ARIZONA. ML 2.7 (GS). 20 miles SSW of Kayenta.
+25  17 44 53.9  32.973 N  109.301 W    0 G           0.6  181    9  EASTERN ARIZONA. ML 2.9 (GS). 25 miles ENE of Safford.
+25  20 11 20.7  35.497 N  107.466 W    0 G           0.4  127   10  NEW MEXICO. ML 2.2 (GS). 30 miles NE of Grants.
+25  20 36 39.6  33.074 N  109.365 W    0 G           0.5  173    9  EASTERN ARIZONA. ML 2.8 (GS). 25 miles NE of Safford.
+25  20 55 07.4  43.823 N  105.363 W    0 G           0.5  127    8  WYOMING. ML 3.0 (GS). 35 miles SSE of Gillette.
+27  15 19 44.8  45.083 N  106.861 W    0 G           0.8  177   12  MONTANA. ML 2.6 (GS). 20 miles NNE of Sheridan, Wyoming.
+27  18 02 27.0  43.829 N  105.339 W    0 G           0.5  130   10  WYOMING. ML 2.8 (GS). 35 miles SSE of Gillette.
+28  19 07 46.1  40.278 N  107.779 W    0 G           0.6  132   10  COLORADO. ML 2.6 (GS). 20 miles SW of Craig.
+30  19 55 52.6  43.634 N  105.237 W    0 G           0.7  124    9  WYOMING. ML 3.1 (GS). 45 miles SSE of Gillette.
+30  20 35 12.6* 33.053 N  109.312 W    0 G           0.6  176    5  EASTERN ARIZONA. ML 2.5 (GS). 25 miles NE of Safford.
+30  21 19 57.0* 36.645 N  108.467 W    0 G           1.0  114    6  NEW MEXICO. ML 2.4 (GS). 15 miles WSW of Farmington.
+30  23 11 14.7  43.538 N  105.377 W    0 G           0.9  124   10  WYOMING. ML 2.9 (GS). 45 miles ENE of Midwest.
+31  23 16 32.3  40.292 N  107.744 W    0 G           0.7   72   14  COLORADO. ML 3.2 (GS). 20 miles SW of Craig.
+
+

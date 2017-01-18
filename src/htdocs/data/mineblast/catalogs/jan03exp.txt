@@ -1,0 +1,19 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  1-03-EXP
+GEOLOGICAL SURVEY                                                                                        FEB 27, 2003
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                        JANUARY 2003
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES                GS               STA                                                
+DAY HR MN SEC     LAT       LONG            mb  MS             USED                                                
+ 
+19  00 28 12.1  40.311 N  107.709 W    0 G           0.9  111   21  COLORADO. ML 3.3 (GS).
+19  05 09 07.9  39.664 N  111.357 W    0 G           0.6  109   13  UTAH
+27  19 05 16.3  43.788 N  105.313 W    0 G           1.0  135   10  WYOMING. ML 3.2 (GS). 35 miles (60 km) SSE of Gillette.
+27  19 17 58.9  43.720 N  105.260 W    0 G           1.1  130   16  WYOMING. ML 3.3 (GS).
+28  19 05 47.1  43.797 N  105.375 W    0 G           0.8  136   17  WYOMING. ML 3.3 (GS). 35 miles (55 km) S of Gillette.
+29  19 00 34.5  43.689 N  105.269 W    0 G           0.6  128   11  WYOMING. ML 3.2 (GS).
+31  19 01 24.8  43.730 N  105.322 W    0 G           0.5  131   18  WYOMING. ML 3.1 (GS).

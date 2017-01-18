@@ -1,0 +1,28 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  6-10-EXP
+GEOLOGICAL SURVEY                                                                                        AUG 30, 2010
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                         JUNE 2010
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+03  21 09 44.1  41.873 N  108.627 W   0 G           A 1.4  100   24  WYOMING. ML 2.6 (GS). 55 km (35 miles) NE of Rock
+                                                                      Springs.
+11  18 04 09.6  43.552 N  105.301 W   0 G           A 1.6   78   24  WYOMING. ML 3.1 (GS). 80 km (50 miles) E of Midwest.
+16  20 04 51.6  43.787 N  105.560 W   0 G           A 1.2  109   14  WYOMING. ML 3.3 (GS). 55 km (35 miles) S of Gillette.
+19  18 02 22.4  43.640 N  105.219 W   0 G           A 1.0   51   57  WYOMING. ML 3.4 (GS). 75 km (45 miles) SSE of Gillette.
+21  21 46 55.9  43.503 N  105.166 W   0 G           A 1.1  127   32  WYOMING. ML 3.0 (GS). 85 km (50 miles) NNE of Douglas.
+22  18 00 56.2  43.699 N  105.248 W   0 G           A 1.0   51   38  WYOMING. ML 3.2 (GS). 70 km (45 miles) SSE of Gillette.
+22  18 50 16.2  41.046 N  112.861 W   0 G           A 1.2   56   17  UTAH. ML 1.8 (GS). 75 km (45 miles) NW of Tooele.
+22  22 15 54.0  44.370 N  105.566 W   0 G           A 0.7   89   15  WYOMING. ML 2.8 (GS). 10 km (5 miles) NNW of Gillette.
+24  20 45 29.5* 45.200 N  106.913 W   0 G           B 2.0   64   21  EASTERN MONTANA. ML 2.5 (GS). 45 km (30 miles) N of
+                                                                      Sheridan.
+26  20 11 53.0  44.067 N  105.278 W   0 G           A 1.3   51   29  WYOMING. ML 3.0 (GS). 30 km (20 miles) SE of Gillette.
+27  23 00 08.8  43.592 N  105.401 W   0 G           A 1.4   49   37  WYOMING. ML 3.2 (GS). 75 km (45 miles) ENE of Midwest.
+29  18 15 39.8  43.741 N  105.252 W   0 G           A 1.2   75   35  WYOMING. ML 3.2 (GS). 65 km (40 miles) SSE of Gillette.
+ 

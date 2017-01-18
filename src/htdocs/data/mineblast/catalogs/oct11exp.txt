@@ -1,0 +1,39 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 10-11-EXP
+GEOLOGICAL SURVEY                                                                                        DEC 19, 2011
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                        OCTOBER 2011
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+01  21 10 33.2  43.472 N  104.572 W   0 G           A 1.0  143   10  WYOMING. ML 2.6 (GS). 52 km (32 miles) SW of Newcastle.
+03  19 14 15.5  43.979 N  105.131 W   0 G           A 1.2   62   19  WYOMING. ML 3.2 (GS). 46 km (28 miles) SE of Gillette.
+03  23 40 01.6  43.669 N  105.283 W   0 G           A 0.9   75   18  WYOMING. mbLg 2.4 (GS). 71 km (44 miles) SSE of
+                                                                      Gillette.
+04  19 29 06.7  43.775 N  105.216 W   0 G           A 1.2  116   22  WYOMING. ML 3.2 (GS). 62 km (38 miles) SSE of Gillette.
+08  22 39 51.7  45.787 N  107.020 W   0 G           A 0.9   72   20  EASTERN MONTANA. ML 2.8 (GS). 33 km (20 miles) WSW of
+                                                                      Colstrip.
+11  19 04 26.2  43.594 N  105.146 W   0 G           A 1.6   81   24  WYOMING. ML 3.2 (GS). 81 km (50 miles) WSW of Newcastle.
+11  19 54 49.2  44.093 N  105.280 W   0 G           A 0.9   53   45  WYOMING. ML 3.1 (GS). 29 km (18 miles) SE of Gillette.
+11  20 49 24.9  45.925 N  106.462 W   0 G           A 0.7   80   13  EASTERN MONTANA. ML 2.8 (GS). 14 km (8 miles) ENE of
+                                                                      Colstrip.
+12  18 09 21.1  43.714 N  105.133 W   0 G           A 1.5   70   20  WYOMING. ML 3.0 (GS). 71 km (44 miles) SSE of Gillette.
+17  18 12 38.4  43.774 N  105.219 W   0 G           A 1.1   71   23  WYOMING. ML 3.1 (GS). 62 km (38 miles) SSE of Gillette.
+18  19 17 56.3  45.166 N  106.826 W   0 G           A 1.5   65   46  EASTERN MONTANA. ML 3.1 (GS). 42 km (26 miles) NNE of
+                                                                      Sheridan.
+20  23 17 39.4* 43.512 N  104.751 W   0 G           B 1.3  185    9  WYOMING. ML 2.6 (GS). 58 km (36 miles) SW of Newcastle.
+23  20 10 46.6  43.623 N  105.206 W   0 G           A 1.1  123   12  WYOMING. mbLg 3.0 (GS). 76 km (47 miles) SSE of
+                                                                      Gillette.
+24  18 03 01.8  43.666 N  105.218 W   0 G           A 1.5   97   24  WYOMING. ML 3.2 (GS). 74 km (46 miles) SSE of Gillette.
+25  19 09 23.9* 43.655 N  105.113 W   0 G           B 1.4  219   14  WYOMING. ML 3.2 (GS). 77 km (48 miles) WSW of Newcastle.
+25  21 59 54.1  43.566 N  105.244 W   0 G           A 1.0  126   14  WYOMING. mbLg 2.9 (GS). 85 km (53 miles) SSE of
+                                                                      Gillette.
+26  21 47 52.3  45.854 N  106.702 W   0 G           A 1.0  110   11  EASTERN MONTANA. mbLg 2.8 (GS). 7 km (4 miles) WSW of
+                                                                      Colstrip.
+28  18 13 18.8  43.785 N  105.210 W   0 G           A 1.4   71   26  WYOMING. ML 3.2 (GS). 61 km (38 miles) SSE of Gillette.
+ 
