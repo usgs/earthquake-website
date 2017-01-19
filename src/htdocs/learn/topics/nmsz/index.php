@@ -38,7 +38,7 @@
 		</p>
 	</li>
 	<li>
-		<a href="/earthquakes/states/events/1811-1812.php">
+		<a href="/earthquakes/events/1811-1812newmadrid/">
 			<h4>Summary of the 1811&ndash;1812 New Madrid Earthquake Sequence</h4>
 			<img src="images/isoseismal.gif" alt="Isoseismal Picture"/>
 		</a>

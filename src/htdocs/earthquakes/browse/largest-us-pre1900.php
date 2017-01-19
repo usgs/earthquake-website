@@ -96,7 +96,7 @@
     <tr>
       <td><b>7.</b></td>
       <td>7.5</td>
-      <td><a href="http://earthquake.usgs.gov/earthquakes/states/events/1811-1812.php#december_16">New Madrid, Missouri</a></td>
+      <td><a href="/earthquakes/events/1811-1812newmadrid/">New Madrid, Missouri</a></td>
       <td></td>
       <td>1811-12-16</td>
       <td>08:15</td>
@@ -107,7 +107,7 @@
     <tr>
       <td><b>8.</b></td>
       <td>7.5</td>
-      <td><a href="http://earthquake.usgs.gov/earthquakes/states/events/1811-1812.php#december_16">New Madrid, Missouri</a></td>
+      <td><a href="/earthquakes/events/1811-1812newmadrid/">New Madrid, Missouri</a></td>
       <td></td>
       <td>1812-01-23</td>
       <td>15:15</td>
@@ -129,7 +129,7 @@
     <tr>
       <td><b>10.</b></td>
       <td>7.3</td>
-      <td><a href="http://earthquake.usgs.gov/earthquakes/states/events/1811-1812.php#december_16">New Madrid, Missouri</a></td>
+      <td><a href="/earthquakes/events/1811-1812newmadrid/">New Madrid, Missouri</a></td>
       <td></td>
       <td>1812-02-07</td>
       <td>09:45</td>
