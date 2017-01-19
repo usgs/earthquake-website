@@ -1,0 +1,36 @@
+ 
+ 
+ 
+ 
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  5-09-EXP
+GEOLOGICAL SURVEY                                                                                        JUL 31, 2009
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                          MAY 2009
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+01  19 33 03.8  36.379 N  110.273 W   0 G           A 1.3   69   20  ARIZONA. ML 2.7 (GS). 40 km (25 miles) S of Kayenta.
+02  17 04 41.3  43.799 N  105.251 W   0 G           A 1.0   51   31  WYOMING. ML 3.0 (GS). 60 km (35 miles) SSE of Gillette.
+02  20 00 50.2  43.664 N  105.193 W   0 G           A 1.1   77   34  WYOMING. ML 3.1 (GS). 75 km (45 miles) SSE of Gillette.
+04  19 06 35.8  43.674 N  105.159 W   0 G           A 1.0   77   23  WYOMING. ML 3.1 (GS). 75 km (45 miles) SSE of Gillette.
+05  00 58 20.8  32.894 N  109.241 W   0 G           A 0.5  186   12  ARIZONA. ML 2.6 (GS). 20 km (10 miles) S of Clifton.
+05  21 09 15.9* 43.858 N  105.407 W   0 G           B 3.0  106   18  WYOMING. ML 3.2 (GS). 50 km (30 miles) S of Gillette.
+12  22 38 01.7* 37.318 N   83.343 W   0 G           B 0.6  100    9  EASTERN KENTUCKY. mbLg 2.8 (GS). 15 km (10 miles) WNW
+                                                                      of Hazard.
+16  20 56 21.3  43.733 N  105.243 W   0 G           A 0.8   70   26  WYOMING. ML 2.9 (GS). 65 km (40 miles) SSE of Gillette.
+20  22 02 40.6  40.158 N  107.733 W   0 G           A 0.7   83   22  COLORADO. ML 2.8 (GS). 20 km (10 miles) NE of Meeker.
+23  16 42 13.1  43.563 N  105.332 W   0 G           A 0.9   53   26  WYOMING. ML 3.0 (GS). 80 km (50 miles) ENE of Midwest.
+23  20 04 08.9  43.818 N  105.155 W   0 G           A 1.3   52   44  WYOMING. ML 3.3 (GS). 60 km (35 miles) SSE of Gillette.
+24  20 01 03.4  43.739 N  105.243 W   0 G           A 1.2   51   46  WYOMING. ML 3.4 (GS). 65 km (40 miles) SSE of Gillette.
+27  18 02 22.3  43.616 N  105.246 W   0 G           A 1.4   51   33  WYOMING. ML 3.2 (GS). 80 km (50 miles) SSE of Gillette.
+ 
+For origin times after September 30, 2002, USGS computations of hypocenters and magnitudes for routine mining events
+are listed in this publication only for exceptionally large events and for events that are also listed in the Reviewed
+Event Event Bulletins (REB) of the International Data Center of the United Nations' Comprehensive Nuclear-Test-Ban
+Treaty Organization.

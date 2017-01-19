@@ -1,0 +1,22 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  3-03-EXP
+GEOLOGICAL SURVEY                                                                                        APR 17, 2003
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                         MARCH 2003
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES                GS               STA                                                
+DAY HR MN SEC     LAT       LONG            mb  MS             USED                                                
+ 
+13  19 10 35.2* 43.618 N  105.196 W    0 G           1.3  132    9  WYOMING. ML 3.2 (GS).
+13  23 17 55.2  40.896 N  116.357 W    0 G           1.0   77   13  NEVADA. ML 2.5 (GS).
+15  19 23 16.0* 41.793 N  108.707 W    0 G           1.3   96    7  WYOMING. ML 2.8 (GS).
+16  08 56 11.5  40.473 N  106.920 W    0 G           0.9   93   11  COLORADO. ML 3.2 (GS).
+19  19 04 30.8  43.761 N  105.300 W    0 G           0.8  113   19  WYOMING. ML 3.5 (GS).
+21  21 46 39.0  44.065 N  105.371 W    0 G           0.8  154   12  WYOMING. ML 2.8 (GS).
+25  21 09 18.3  43.840 N  105.378 W    0 G           1.2  139   14  WYOMING. ML 3.4 (GS).
+28  21 07 26.6  43.747 N  105.342 W    0 G           0.9  122   26  WYOMING. ML 3.5 (GS).
+29  19 06 29.3  43.734 N  105.275 W    0 G           1.1  121   21  WYOMING. ML 3.1 (GS).
+30  19 01 08.9* 43.744 N  105.156 W    0 G           1.1  240   14  WYOMING. ML 3.5 (GS).

@@ -1,0 +1,22 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  2-06-EXP
+GEOLOGICAL SURVEY                                                                                        APR 26, 2006
+<center>
+ROUTINE MINING SEISMICITY IN THE UNITED STATES
+
+FEBRUARY 2006
+</center>
+
+ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+    UTC          COORDINATES               GS                STA                                               
+DAY HR MN SEC     LAT       LONG           mb  MS            USED                                                
+04  18 31 46.1  43.547 N  105.214 W   0 G           A 0.9   96   21  WYOMING. ML 3.1 (GS). 85 km (55 miles) SSE of Gillette.
+06  19 06 27.5  43.686 N  105.098 W   0 G           A 1.1  125   19  WYOMING. ML 3.2 (GS). 75 km (45 miles) WSW of Newcastle.
+07  18 56 28.1  36.557 N  108.486 W   0 G           A 1.0   97   13  NEW MEXICO. ML 3.3 (GS). 35 km (20 miles) SW of Farmington.
+09  19 59 43.1  43.660 N  105.152 W   0 G           A 1.2  125   14  WYOMING. ML 3.3 (GS). 75 km (45 miles) SSE of Gillette.
+12  19 04 14.9  43.708 N  105.156 W   0 G           A 0.8  122   27  WYOMING. ML 3.2 (GS). 70 km (45 miles) SSE of Gillette.
+14  19 20 58.3  43.729 N  105.221 W   0 G           A 1.0  119   24  WYOMING. ML 3.1 (GS). 65 km (40 miles) SSE of Gillette.
+16  20 06 20.1  43.657 N  105.111 W   0 G           A 1.2  126   14  WYOMING. ML 3.2 (GS). 75 km (45 miles) SSE of Gillette.
+18  22 31 30.7  43.592 N  105.167 W   0 G           A 0.9   80   28  WYOMING. ML 3.1 (GS). 80 km (50 miles) SSE of Gillette.
+18  23 00 12.5  40.179 N  108.086 W   0 G           A 0.9  102   11  COLORADO. ML 2.5 (GS). 20 km (15 miles) NW of Meeker.
+19  21 28 30.7  44.117 N  105.302 W   0 G           A 1.2   93   30  WYOMING. ML 3.1 (GS). 25 km (15 miles) SSE of Gillette.
+21  23 08 25.3? 40.98  N  107.46  W   0 G           C 1.1  214    4  COLORADO. ML 2.8 (GS). 50 km (35 miles) N of Craig.

@@ -1,0 +1,31 @@
+ 
+ 
+ 
+ 
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 11-06-EXP
+GEOLOGICAL SURVEY                                                                                        JAN 23, 2007
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                       NOVEMBER 2006
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+05  21 22 02.1  43.667 N  105.150 W   0 G           A 1.2   77   43  WYOMING. ML 3.5 (GS). 75 km (45 miles) SSE of Gillette.
+10  19 04 47.8  43.764 N  105.168 W   0 G           A 1.1   72   47  WYOMING. ML 3.6 (GS). 65 km (40 miles) SSE of Gillette.
+10  23 00 33.9  41.751 N  108.680 W   0 G           A 1.4   85   24  WYOMING. ML 2.8 (GS). 45 km (30 miles) ENE of Rock Springs.
+11  23 28 17.9  41.730 N  108.639 W   0 G           A 1.2   86   27  WYOMING. mbLg 3.0 (GS). 50 km (30 miles) ENE of Rock Springs.
+17  21 11 55.7  43.703 N  105.239 W   0 G           A 1.0   97   22  WYOMING. ML 3.1 (GS). 65 km (40 miles) SSE of Gillette.
+18  20 27 47.3? 37.25  N   83.29  W   0 G           C 0.6  146    5  EASTERN KENTUCKY. mbLg 2.9 (GS). 10 km (5 miles) W of Hazard.
+25  19 18 19.4  43.757 N  105.197 W   0 G           A 0.9   51   46  WYOMING. ML 3.4 (GS). 65 km (40 miles) SSE of Gillette.
+25  23 01 33.1  40.359 N  107.831 W   0 G           A 1.4   82   19  COLORADO. ML 2.8 (GS). 30 km (20 miles) SW of Craig.
+30  23 05 50.4  40.271 N  107.705 W   0 G           A 1.0   92   19  COLORADO. ML 2.8 (GS). ML 2.8 (GS). 30 km (20 miles) SSW of Craig.
+ 
+For origin times after September 30, 2002, USGS computations of hypocenters and magnitudes for routine mining events
+are listed in this publication only for exceptionally large events and for events that are also listed in the Reviewed
+Event Event Bulletins (REB) of the International Data Center of the United Nations' Comprehensive Nuclear-Test-Ban
+Treaty Organization.

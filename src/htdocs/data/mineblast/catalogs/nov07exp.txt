@@ -1,0 +1,43 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 11-07-EXP
+GEOLOGICAL SURVEY                                                                                        JAN 17, 2008
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                       NOVEMBER 2007
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+02  18 09 02.3  43.765 N  105.231 W   0 G           A 0.8  116   27  WYOMING. ML 3.3 (GS). 60 km (40 miles) SSE of Gillette.
+03  16 50 20.1* 44.426 N  105.176 W   0 G           B 1.1  148    6  WYOMING. ML 2.6 (GS). 30 km (20 miles) ENE of Gillette.
+03  18 07 11.9  43.785 N  105.189 W   0 G           A 1.3   51   33  WYOMING. ML 3.1 (GS). 60 km (40 miles) SSE of Gillette.
+03  20 08 32.2  43.635 N  105.156 W   0 G           A 1.2  126   22  WYOMING. ML 3.1 (GS). 80 km (50 miles) SSE of Gillette.
+04  19 02 00.1* 43.779 N  105.232 W   0 G           B 0.8  156    7  WYOMING. ML 3.0 (GS). 60 km (40 miles) SSE of Gillette.
+04  21 37 01.8* 32.872 N  109.427 W   0 G           B 1.4  203    8  ARIZONA. ML 2.9 (GS). 25 km (15 miles) SSW of Clifton.
+06  21 04 22.9  43.734 N  105.236 W   0 G           A 1.1   72   27  WYOMING. ML 3.0 (GS). 65 km (40 miles) SSE of Gillette.
+06  22 54 16.7  40.890 N  116.438 W   0 G           A 1.1   47   30  NEVADA. ML 2.8 (GS). 50 km (30 miles) NE of Battle
+                                                                      Mountain.
+09  15 40 48.5  44.262 N  105.286 W   0 G           A 0.9   88   12  WYOMING. ML 2.7 (GS). 20 km (10 miles) E of Gillette.
+10  21 10 16.0  43.772 N  105.292 W   0 G           A 1.1  114   26  WYOMING. ML 3.3 (GS). 60 km (35 miles) SSE of Gillette.
+11  21 15 08.6  44.023 N  105.298 W   0 G           A 1.2  154   27  WYOMING. ML 2.9 (GS). 35 km (20 miles) SSE of Gillette.
+11  21 32 06.7  43.765 N  105.233 W   0 G           A 0.8   71   32  WYOMING. ML 2.9 (GS). 60 km (40 miles) SSE of Gillette.
+12  23 01 47.3  40.244 N  107.669 W   0 G           A 1.1   57   13  COLORADO. ML 2.6 (GS). 30 km (20 miles) NE of Meeker.
+13  21 23 44.6* 44.180 N  105.303 W   0 G           B 1.4  163   12  WYOMING. ML 2.8 (GS). 20 km (15 miles) SE of Gillette.
+14  20 03 32.1  43.732 N  105.235 W   0 G           A 0.8   51   35  WYOMING. ML 3.3 (GS). 65 km (40 miles) SSE of Gillette.
+14  21 21 17.7  43.508 N  105.192 W   0 G           A 1.1   51   25  WYOMING. ML 3.1 (GS). 85 km (55 miles) WSW of Newcastle.
+14  22 15 52.3  40.698 N  116.265 W   0 G           A 1.1   96   12  NEVADA. ML 2.6 (EXP). 45 km (30 miles) WSW of Elko.
+16  21 12 45.4  45.104 N  106.777 W   0 G           A 1.2  143   27  EASTERN MONTANA. ML 3.3 (GS). 35 km (25 miles) NNE of
+                                                                      Sheridan.
+17  21 03 37.3  43.777 N  105.249 W   0 G           A 0.5   81   13  WYOMING. ML 2.9 (GS). 60 km (40 miles) SSE of Gillette.
+17  21 12 13.8* 44.129 N  105.346 W   0 G           B 0.7  157    6  WYOMING. ML 2.7 (GS). 20 km (15 miles) SE of Gillette.
+19  21 07 43.8  43.727 N  105.318 W   0 G           A 1.5   50   36  WYOMING. ML 3.3 (GS). 65 km (40 miles) SSE of Gillette.
+22  19 02 08.0  43.786 N  105.266 W   0 G           A 0.7   50   54  WYOMING. ML 3.2 (GS). 60 km (35 miles) SSE of Gillette.
+23  21 04 00.3  43.698 N  105.263 W   0 G           A 0.8   55   29  WYOMING. ML 3.2 (GS). 70 km (45 miles) SSE of Gillette.
+25  19 07 03.9  43.779 N  105.183 W   0 G           A 0.9   72   30  WYOMING. ML 3.2 (GS). 65 km (40 miles) SSE of Gillette.
+28  21 04 40.8  43.742 N  105.264 W   0 G           A 1.1   97   15  WYOMING. ML 3.1 (GS). 65 km (40 miles) SSE of Gillette.
+29  23 06 12.3  45.104 N  106.892 W   0 G           A 0.8   86   15  EASTERN MONTANA. ML 3.1 (GS). 35 km (20 miles) N of
+                                                                      Sheridan.
+

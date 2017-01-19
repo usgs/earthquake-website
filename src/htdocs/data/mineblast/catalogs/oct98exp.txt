@@ -1,0 +1,72 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 10-98-EXP
+GEOLOGICAL SURVEY                                                                                        FEB  4, 1999
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                        OCTOBER 1998
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+01  21 57 31.2  40.287 N  107.835 W    0 G           1.2   12  COLORADO. ML 2.8 (GS). 20 miles (30 km) SW of Craig,
+                                                                Colorado.
+02  20 42 29.5  40.564 N  109.605 W    0 G           1.1   12  UTAH. ML 2.6 (GS). 10 miles (10 km) NNW of Vernal, Utah.
+02  23 18 07.0* 44.195 N  105.269 W    0 G           1.4   10  WYOMING. ML 3.3 (GS). 15 miles (20 km) ESE of Gillette,
+                                                                Wyoming.
+03  22 10 36.5  40.247 N  107.819 W    0 G           1.4   13  COLORADO. ML 2.7 (GS). 25 miles (40 km) SW of Craig,
+                                                                Colorado.
+04  19 52 16.6  40.544 N  112.194 W    0 G           1.1   19  UTAH. ML 2.5 (GS). 5 miles (10 km) E of Tooele, Utah.
+06  21 31 08.7  41.802 N  108.728 W    0 G           1.2   16  WYOMING. ML 2.8 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+07  21 43 52.4  43.203 N  111.526 W    0 G           0.6    8  EASTERN IDAHO. ML 2.6 (GS). 30 miles (50 km) ESE of Idaho
+                                                                Falls, Idaho.
+08  16 35 55.2  41.802 N  108.761 W    0 G           1.4   19  WYOMING. ML 2.6 (GS). 25 miles (40 km) ENE of Rock Springs,
+                                                                Wyoming.
+08  23 03 06.1  40.308 N  107.804 W    0 G           0.9   11  COLORADO. ML 2.7 (GS). 20 miles (30 km) SW of Craig,
+                                                                Colorado.
+11  23 10 41.3  41.743 N  108.694 W    0 G           0.8   17  WYOMING. ML 2.5 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+12  20 15 13.4? 32.73  N  109.10  W    0 G           0.2    4  EASTERN ARIZONA. ML 2.6 (GS). 35 miles (60 km) NW of
+                                                                Lordsburg, New Mexico.
+13  23 42 47.4  41.863 N  108.824 W    0 G           0.9   18  WYOMING. ML 2.7 (GS). 25 miles (40 km) NE of Rock Springs,
+                                                                Wyoming.
+14  15 25 17.8  41.747 N  108.607 W    0 G           1.2   15  WYOMING. ML 2.9 (GS). 35 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+15  21 30 11.7  37.972 N   81.548 W    0 G           0.4    6  WEST VIRGINIA. mbLg 3.1 (GS). 25 miles (40 km) NW of
+                                                                Beckley, West Virginia.
+15  21 45 23.3  46.708 N  122.721 W    0 G           1.1    6  WASHINGTON. ML 2.8 (GS). 10 miles (20 km) E of Centralia,
+                                                                Washington.
+15  23 45 06.4  41.790 N  108.615 W    0 G           0.9   13  WYOMING. ML 2.8 (GS). 35 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+16  21 10 05.9* 44.181 N  105.286 W    0 G           1.1    6  WYOMING. ML 3.2 (GS). 15 miles (20 km) SE of Gillette,
+                                                                Wyoming.
+21  21 11 53.4  46.763 N  122.833 W    0 G           1.1   10  WASHINGTON. ML 2.6 (GS). 5 miles (10 km) ENE of Centralia,
+                                                                Washington.
+22  21 17 52.4  41.768 N  108.589 W    0 G           0.8   18  WYOMING. ML 3.4 (GS). 35 miles (60 km) ENE of Rock Springs,
+                                                                Wyoming.
+22  21 51 14.5  46.720 N  122.853 W    0 G           0.9    6  WASHINGTON. ML 2.9 (GS). NEAR Centralia, Washington.
+23  21 13 11.8  41.616 N  108.832 W    0 G           0.4   13  WYOMING. ML 2.5 (GS). 20 miles (30 km) E of Rock Springs,
+                                                                Wyoming.
+24  16 29 19.7  41.754 N  108.758 W    0 G           1.3   19  WYOMING. ML 2.9 (GS). 25 miles (40 km) ENE of Rock Springs,
+                                                                Wyoming.
+24  17 23 36.8  41.772 N  108.718 W    0 G           1.0   18  WYOMING. ML 2.8 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+24  18 17 26.1  37.691 N   81.606 W    0 G           1.2   11  WEST VIRGINIA. mbLg 2.9 (GS). 25 miles (40 km) WSW of
+                                                                Beckeley, West Virginia.
+26  15 06 36.8* 38.035 N   81.739 W    0 G           1.0    7  WEST VIRGINIA. mbLg 2.9 (GS). 20 miles (40 km) SSW of
+                                                                Charleston, West Virginia.
+26  22 36 40.1* 41.653 N  108.962 W    0 G           1.5   10  WYOMING. ML 2.8 (GS). 15 miles (20 km) ENE of Rock Springs,
+                                                                Wyoming.
+27  20 36 15.4* 37.772 N   81.810 W    0 G           1.4    8  WEST VIRGINIA. mbLg 3.3 (GS). 25 miles (40 km) ENE of
+                                                                Williamson, West Virginia.
+28  21 04 27.1* 37.730 N   81.845 W    0 G           1.4    5  WEST VIRGINIA. mbLg 2.8 (GS). 25 miles (40 km) E of
+                                                                Williamson, West Virginia.
+30  16 03 32.3  41.834 N  108.978 W    0 G           1.3   13  WYOMING. ML 2.5 (GS). 20 miles (30 km) NE of Rock Springs,
+                                                                Wyoming.
+31  16 31 07.2  41.773 N  108.676 W    0 G           1.3   17  WYOMING. ML 2.5 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+31  21 02 20.1* 46.788 N  122.795 W    0 G           0.5    5  WASHINGTON. 10 miles (10 km) ENE of Centalia, Washington.
+31  23 46 35.8? 43.42  N  105.38  W    0 G           0.9    6  WYOMING. ML 2.8 (GS). 45 miles (70 km) N of Douglas, Wyoming.

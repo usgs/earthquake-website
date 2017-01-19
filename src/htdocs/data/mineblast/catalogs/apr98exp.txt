@@ -1,0 +1,21 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  4-98-EXP
+GEOLOGICAL SURVEY                                                                                        JUL 27, 1998
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                         APRIL 1998
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+11  16 02 33.6* 43.330 N  104.971 W    0 G           1.3   10  WYOMING. ML 3.3 (GS). 45 miles (70 km) NNE of Douglas,
+                                                                Wyoming.
+16  18 54 42.6* 32.824 N  109.531 W    0 G           1.4    7  EASTERN ARIZONA. ML 2.5 (GS). 10 miles (20 km) E of Safford,
+                                                                Arizona.
+17  19 05 21.1  43.764 N  105.232 W    0 G           1.2   12  WYOMING. ML 3.3 (GS). 40 miles (60 km) SSE of Gillette,
+                                                                Wyoming.
+24  17 26 40.3? 47.47  N   92.80  W    0 G           2.5    4  MINNESOTA. mbLg 3.4 (GS). 5 miles (10 km) ENE of Hibbing,
+                                                                Minnesota.

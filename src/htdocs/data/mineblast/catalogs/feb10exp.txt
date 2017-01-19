@@ -1,0 +1,24 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  2-10-EXP
+GEOLOGICAL SURVEY                                                                                        MAY 18, 2010
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                       FEBRUARY 2010
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+01  17 50 44.5? 47.39  N   92.59  W   0 G           C 0.6  176    4  MINNESOTA. mbLg 2.6 (GS). 15 km (10 miles) SSW of
+                                                                      Virginia.
+02  19 54 16.3  43.548 N  105.333 W   0 G           A 0.8   49   24  WYOMING. ML 3.1 (GS). 80 km (50 miles) ENE of Midwest.
+03  21 01 09.5  45.186 N  106.932 W   0 G           A 1.0   88   18  EASTERN MONTANA. ML 2.6 (GS). 45 km (25 miles) N of
+                                                                      Sheridan.
+04  19 07 09.5  43.789 N  105.230 W   0 G           A 1.1   46   35  WYOMING. ML 3.4 (GS). 65 km (40 miles) SSE of Gillette.
+13  19 07 35.0  43.766 N  105.257 W   0 G           A 0.9   51   45  WYOMING. ML 3.4 (GS). 60 km (40 miles) SSE of Gillette.
+15  21 59 05.1  43.681 N  105.185 W   0 G           A 0.8   53   25  WYOMING. ML 3.3 (GS). 70 km (45 miles) SSE of Gillette.
+24  21 57 31.2* 33.691 N   87.232 W   0 G           B 0.5  131    6  ALABAMA. mbLg 3.0 (GS). 15 km (10 miles) SSE of Jasper.
+25  19 03 23.7  43.660 N  105.163 W   0 G           A 1.0   78   30  WYOMING. ML 3.3 (GS). 75 km (45 miles) SSE of Gillette.
+ 

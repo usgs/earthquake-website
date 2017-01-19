@@ -1,0 +1,27 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  6-03-EXP
+GEOLOGICAL SURVEY                                                                                        JUL 25, 2003
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                         JUNE 2003
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES                GS               STA                                                
+DAY HR MN SEC     LAT       LONG            mb  MS             USED                                                
+ 
+03  17 03 40.5* 43.902 N  105.366 W    0 G           1.3  174    7  WYOMING. 45 km (30 miles) SSE of Gillette.
+04  19 21 54.6  44.065 N  105.383 W    0 G           0.9  146   15  WYOMING. ML 3.5 (GS). 25 km (15 miles) SSE of Gillette.
+06  18 03 10.0  43.772 N  105.335 W    0 G           0.7  124   26  WYOMING. ML 3.4 (GS).
+10  18 02 02.5  43.962 N  105.404 W    0 G           1.1   93   21  WYOMING. ML 3.2 (GS). 35 km (25 miles) SSE of Gillette.
+11  20 27 50.7  44.205 N  105.357 W    0 G           1.0  153   21  WYOMING. ML 3.4 (GS). 15 km (10 miles) SE of Gillette.
+14  00 09 59.9* 43.632 N  105.172 W    0 G           1.4  147   13  WYOMING
+16  18 59 25.6* 43.893 N  105.296 W    0 G           1.8  144    7  WYOMING. ML 3.2 (GS). 45 km (30 miles) NNE of
+                                                                     Torrington, Wyoming.
+18  18 02 44.1  43.764 N  105.316 W    0 G  3.5      0.8  133    7  WYOMING. ML 3.6 (GS).
+20  18 06 25.2  43.594 N  105.200 W    0 G           1.1  124   21  WYOMING. ML 3.6 (GS).
+21  17 10 31.6  44.036 N  105.355 W    0 G           0.9  144   24  WYOMING. ML 3.5 (GS). 30 km (20 miles) SSE of Gillette,
+                                                                     Wyoming.
+24  20 06 16.3  43.693 N  105.275 W    0 G           1.0  121   16  WYOMING. ML 3.3 (GS). 70 km (40 miles) SSE of Gillette.
+25  18 01 53.8  43.685 N  105.242 W    0 G           1.1  119   22  WYOMING. ML 3.1 (GS). 70 km (45 miles) SSE of Gillette.
+27  17 59 48.3  43.563 N  105.177 W    0 G           1.2  126   14  WYOMING. ML 3.2 (GS).

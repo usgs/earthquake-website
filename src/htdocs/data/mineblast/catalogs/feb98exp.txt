@@ -1,0 +1,18 @@
+ 
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  2-98-EXP
+GEOLOGICAL SURVEY                                                                                        JUL 27, 1998
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                       FEBRUARY 1998
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+06  22 41 35.1* 44.183 N  105.243 W    0 G           2.7   12  WYOMING. ML 3.1 (GS). 15 miles (20 km) ESE of Gillette,
+                                                                Wyoming.
+18  20 21 58.8  42.009 N  106.829 W    0 G           1.2   16  WYOMING. ML 2.6 (GS). 25 miles (40 km) NE of Rawlins,
+                                                                Wyoming.
