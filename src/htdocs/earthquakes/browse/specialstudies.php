@@ -21,4 +21,5 @@
   <li><a href="/regional/nca/1906/">M7.9 April 18, 1906 San Francisco Earthquake</a></li>
   <li><a href="/regional/nca/1868/">M6.8 October 21, 1868 Hayward Fault Earthquake</a></li>
   <li><a href="/earthquakes/events/1857sca/">The Great M7.9 1857 Fort Tejon Earthquake</a></li>
+  <li><a href="/earthquakes/events/1811-1812newmadrid">The New Madrid Earthquakes 1811-1812</a></li>
 </ul>
