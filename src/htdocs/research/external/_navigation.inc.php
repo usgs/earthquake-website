@@ -5,6 +5,9 @@
 
   "<section>",
 
+    navItem("https://geohazards.usgs.gov/cfusion/external_grants/research.cfm", "Funded Research") .
+    navItem("https://geohazards.usgs.gov/cfusion/external_grants/networks.cfm", "Funded Networks") .
+    navItem("https://geohazards.usgs.gov/cfusion/external_grants/monitoring_upgrades.cfm", "ARRA-Funded Monitoring Upgrades") .
     navItem("${section}/forpis.php", "Info for PIs") .
     navItem("${section}/contact.php", "Contacts") ,
 
