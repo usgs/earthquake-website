@@ -19,13 +19,13 @@
 
     <h3>Data</h3>
     <p>
-      Phase arrival times for all years and months from May 1997 to July 2013 is available in two formats, ISF and MCHEDR.
+      Phase arrival times for months from May 1997 to July 2013 are available in the MCHEDR format, and arrival-times for months from October 1999 through July 2013 are available in the ISF format.
       <ul>
         <li>
           <a href="ftp://hazards.cr.usgs.gov/NEICPDE/olderPDEdata/mineblast/isf/">Data in ISF Format</a> - file names are isfexpYYYYMM.dat.Z
         </li>
         <li>
-          <a href="ftp://hazards.cr.usgs.gov/NEICPDE/olderPDEdata/mineblast/mscedr/">Data in MCHEDR Format</a> - file names are mchedrYYMM.dat.Z
+          <a href="ftp://hazards.cr.usgs.gov/NEICPDE/olderPDEdata/mineblast/mchedr/">Data in MCHEDR Format</a> - file names are mchedrYYMM.dat.Z
         </li>
       </ul>
     </p>
@@ -279,6 +279,21 @@
       <a href="catalogs/jun12exp.txt">June</a> |
       <a href="catalogs/jul12exp.txt">July</a> |
       <a href="catalogs/aug12exp.txt">August</a>
+      <a href="catalogs/sep12exp.txt">September</a> |
+      <a href="catalogs/oct12exp.txt">October</a> |
+      <a href="catalogs/nov12exp.txt">November</a> |
+      <a href="catalogs/dec12exp.txt">December</a>
+    </p>
+
+    <h4>2013 Catalog</h4>
+    <p>
+      <a href="catalogs/jan13exp.txt">January</a> |
+      <a href="catalogs/feb13exp.txt">February</a> |
+      <a href="catalogs/mar13exp.txt">March</a> |
+      <a href="catalogs/apr13exp.txt">April</a> |
+      <a href="catalogs/may13exp.txt">May</a> |
+      <a href="catalogs/jun13exp.txt">June</a> |
+      <a href="catalogs/jul13exp.txt">July</a> |
     </p>
 
   </div>

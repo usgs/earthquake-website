@@ -1,0 +1,56 @@
+ 
+ 
+ 
+ 
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  1-13-EXP
+GEOLOGICAL SURVEY                                                                                        MAR 22, 2013
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                        JANUARY 2013
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+02  19 54 17.0  41.701 N  110.655 W   0 G           A 1.7   52   57  WYOMING. ML 2.9 (GS). 14 km (9 miles) SW of Kemmerer.
+02  20 05 14.1  43.830 N  105.225 W   0 G           A 1.1   50   82  WYOMING. mbLg 2.8 (GS). ML 3.0 (GS). 56 km (35 miles)
+                                                                      SSE of Gillette.
+03  17 35 56.5  43.974 N  105.116 W   0 G           A 1.1  106   23  WYOMING. ML 3.1 (GS). 47 km (29 miles) SE of Gillette.
+03  20 01 18.7* 43.698 N  105.196 W   0 G           B 0.5  121    7  WYOMING. ML 2.6 (GS). 70 km (44 miles) SSE of Gillette.
+04  19 59 25.0  43.837 N  105.275 W   0 G           A 0.9   50   26  WYOMING. ML 3.3 (GS). 54 km (33 miles) SSE of Gillette.
+04  21 12 20.8* 45.119 N  106.854 W   0 G           B 0.9  105    6  EASTERN MONTANA. mbLg 2.8 (GS). 37 km (23 miles) NNE of
+                                                                      Sheridan.
+05  19 03 52.1  43.564 N  105.261 W   0 G           A 1.3   78   36  WYOMING. ML 3.1 (GS). 83 km (52 miles) SSE of Gillette.
+05  20 12 42.8  43.788 N  105.285 W   0 G           A 0.7   31   77  WYOMING. ML 3.4 (GS). 58 km (36 miles) SSE of Gillette.
+06  21 01 59.9  43.828 N  105.201 W   0 G           A 1.0   69   55  WYOMING. mbLg 2.7 (GS). ML 3.5 (GS). 57 km (35 miles)
+                                                                      SSE of Gillette.
+11  21 59 04.1? 45.96  N  106.66  W   0 G           C 0.6  109    5  EASTERN MONTANA. mbLg 2.5 (GS). 9 km (6 miles) NNW of
+                                                                      Colstrip.
+12  17 18 42.1  43.551 N  105.329 W   0 G           A 1.0   58   17  WYOMING. ML 3.3 (GS). 78 km (49 miles) ENE of Midwest.
+12  19 13 24.7  43.802 N  105.193 W   0 G           A 0.7   70   45  WYOMING. ML 3.4 (GS). 60 km (37 miles) SSE of Gillette.
+12  20 34 45.6  43.514 N  105.380 W   0 G           A 0.8   49   50  WYOMING. ML 3.3 (GS). 76 km (47 miles) E of Midwest.
+13  18 04 40.3* 44.078 N  105.325 W   0 G           B 1.1  150    7  WYOMING. ML 2.7 (GS). 28 km (17 miles) SSE of Gillette.
+13  23 24 42.9* 44.328 N  105.471 W   0 G           B 0.9  101    9  WYOMING. ML 2.5 (GS). 5 km (3 miles) NNE of Gillette.
+15  21 02 40.8  43.815 N  105.251 W   0 G           A 1.1   68   17  WYOMING. mbLg 3.0 (GS). 57 km (35 miles) SSE of
+                                                                      Gillette.
+17  20 18 16.6  43.627 N  105.211 W   0 G           A 0.9   78   44  WYOMING. ML 3.4 (GS). 77 km (48 miles) SSE of Gillette.
+17  21 06 41.5  43.822 N  105.262 W   0 G           A 1.4   61   18  WYOMING. ML 3.5 (GS). 58 km (36 miles) SSE of Gillette.
+18  23 30 42.5* 43.462 N  105.181 W   0 G           B 1.3  208    6  WYOMING. mbLg 2.6 (GS). 80 km (50 miles) NNE of Douglas.
+22  19 15 08.8  47.591 N   92.609 W   0 G           A 1.3   95   27  MINNESOTA. mbLg 2.5 (GS). 9 km (6 miles) NW of Virginia.
+22  21 37 54.7* 44.327 N  105.461 W   0 G           B 1.0   89    8  WYOMING. mbLg 2.8 (GS). 5 km (3 miles) NE of Gillette.
+24  18 17 29.6  44.158 N  105.325 W   0 G           A 0.7   68   14  WYOMING. ML 3.3 (GS). 20 km (13 miles) SE of Gillette.
+24  20 17 14.6* 41.776 N  110.636 W   0 G           B 1.4  129    8  WYOMING. ML 2.0 (GS). 8 km (5 miles) WSW of Kemmerer.
+24  21 04 01.8  43.809 N  105.199 W   0 G           A 0.9   50   74  WYOMING. ML 3.4 (GS). 59 km (37 miles) SSE of Gillette.
+25  18 48 21.6  43.519 N  105.305 W   0 G           A 1.5   63   17  WYOMING. ML 3.1 (GS). 80 km (50 miles) E of Midwest.
+27  19 47 05.1  44.219 N  105.211 W   0 G           A 1.1   25  160  WYOMING. ML 3.8 (GS). 25 km (15 miles) ESE of Gillette.
+                                                                      Felt (III) at Gillette.
+29  21 07 58.4* 45.756 N  107.024 W   0 G           B 0.4  165    6  EASTERN MONTANA. mbLg 2.8 (GS). 34 km (21 miles) WSW of
+                                                                      Colstrip.
+ 
+For origin times after September 30, 2002, USGS computations of hypocenters and magnitudes for routine mining events
+are listed in this publication only for exceptionally large events and for events that are also listed in the Reviewed
+Event Event Bulletins (REB) of the International Data Center of the United Nations' Comprehensive Nuclear-Test-Ban
+Treaty Organization.
