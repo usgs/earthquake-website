@@ -1,0 +1,50 @@
+ 
+ 
+ 
+ 
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  6-13-EXP
+GEOLOGICAL SURVEY                                                                                        AUG 27, 2013
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                         JUNE 2013
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+01  00 23 06.8  33.063 N  109.496 W   0 G           A 1.5  108   12  ARIZONA. ML 2.8 (GS). 22 km (13 miles) W of Clifton.
+01  22 30 24.2* 32.987 N  109.588 W   0 G           B 1.5  109    7  ARIZONA. ML 2.8 (GS). 21 km (13 miles) NNE of Safford.
+02  23 14 35.4  45.906 N  106.572 W   0 G           A 1.3  102   13  EASTERN MONTANA. ML 3.0 (GS). 3 km (2 miles) NNE of
+                                                                      Colstrip.
+03  21 51 27.3  41.107 N  112.874 W   0 G           A 0.7  106   12  UTAH. ML 1.5 (GS). 77 km (48 miles) W of Ogden.
+05  20 04 22.3  43.844 N  105.293 W   0 G           A 1.1   51   84  WYOMING. ML 3.6 (GS). 52 km (33 miles) SSE of Gillette.
+07  00 52 53.5* 44.217 N  105.309 W   0 G           B 1.3  182   12  WYOMING. ML 2.9 (GS). 18 km (11 miles) ESE of Gillette.
+07  21 17 00.5  37.764 N   82.054 W   0 G           A 1.6   56   23  WEST VIRGINIA. ML 2.6 (GS). mbLg 2.6 (GS). 23 km (14
+                                                                      miles) ENE of Williamson.
+07  21 18 28.9* 43.756 N  105.224 W   0 G           B 1.3  117    8  WYOMING. ML 2.9 (GS). 64 km (39 miles) SSE of Gillette.
+08  21 38 19.6* 43.739 N  105.210 W   0 G           B 1.2  128    9  WYOMING. ML 2.7 (GS). 66 km (41 miles) SSE of Gillette.
+09  19 01 43.9  43.807 N  105.250 W   0 G           A 1.0   51   37  WYOMING. ML 3.4 (GS). 58 km (36 miles) SSE of Gillette.
+13  23 43 56.6* 33.069 N  109.612 W   0 G           B 1.3  104    8  ARIZONA. ML 2.5 (GS). 27 km (17 miles) NNE of Safford.
+16  18 06 40.0  43.814 N  105.254 W   0 G           A 0.8   51   32  WYOMING. ML 3.5 (GS). 56 km (35 miles) SSE of Gillette.
+18  17 00 03.7  47.428 N   93.058 W   0 G           A 1.0   96   29  MINNESOTA. ML 3.3 (GS). 11 km (7 miles) W of Hibbing.
+20  21 16 46.9  37.750 N   82.055 W   0 G           A 1.2   56   23  WEST VIRGINIA. mbLg 2.5 (GS). 22 km (14 miles) ENE of
+                                                                      Williamson.
+20  23 50 42.1  40.663 N  109.553 W   0 G           A 1.3   47   47  UTAH. ML 3.3 (GS). 23 km (14 miles) N of Vernal.
+21  22 37 04.5  37.932 N   81.305 W   0 G           A 1.1   55   24  WEST VIRGINIA. mbLg 2.7 (GS). 19 km (12 miles) NW of
+                                                                      Beckley.
+24  20 03 17.9  43.697 N  105.277 W   0 G           A 1.3   73   39  WYOMING. ML 3.1 (GS). 69 km (43 miles) SSE of Gillette.
+26  17 56 31.6  43.801 N  105.245 W   0 G           A 0.8   35   82  WYOMING. ML 3.4 (GS). 58 km (36 miles) SSE of Gillette.
+27  15 31 36.5  47.699 N   91.888 W   0 G           A 0.4   91   10  MINNESOTA. ML 2.6 (GS). 23 km (14 miles) S of Ely.
+27  17 40 45.5  47.661 N   92.514 W   0 G           B 0.9  140    8  MINNESOTA. ML 2.7 (GS). 15 km (10 miles) N of Virginia.
+29  22 06 52.7* 43.556 N  105.238 W   0 G           B 1.3   90    9  WYOMING. ML 2.7 (GS). 84 km (52 miles) SSE of Gillette.
+29  23 33 38.7  43.691 N  105.241 W   0 G           A 1.5   76   11  WYOMING. ML 2.7 (GS). 70 km (43 miles) SSE of Gillette.
+30  21 02 20.2  44.468 N  105.441 W   0 G           A 1.0   96   20  WYOMING. ML 2.8 (GS). 20 km (13 miles) NNE of Gillette.
+30  23 14 38.5  43.574 N  105.126 W   0 G           A 1.4   82   13  WYOMING. ML 3.0 (GS). 81 km (50 miles) WSW of Newcastle.
+ 
+For origin times after September 30, 2002, USGS computations of hypocenters and magnitudes for routine mining events
+are listed in this publication only for exceptionally large events and for events that are also listed in the Reviewed
+Event Event Bulletins (REB) of the International Data Center of the United Nations' Comprehensive Nuclear-Test-Ban
+Treaty Organization.

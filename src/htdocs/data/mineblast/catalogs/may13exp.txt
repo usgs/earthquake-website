@@ -1,0 +1,52 @@
+ 
+ 
+ 
+ 
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  5-13-EXP
+GEOLOGICAL SURVEY                                                                                        JUL 18, 2013
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                          MAY 2013
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+01  18 21 24.5  43.678 N  105.340 W   0 G           A 1.4   72   12  WYOMING. ML 3.2 (GS). 69 km (43 miles) S of Gillette.
+03  23 20 27.7* 43.668 N  105.291 W   0 G           B 0.8   75    7  WYOMING. ML 3.0 (GS). 71 km (44 miles) SSE of Gillette.
+05  16 02 15.7  43.695 N  105.184 W   0 G           A 0.8   76   53  WYOMING. ML 3.3 (GS). 71 km (44 miles) SSE of Gillette.
+                                                                      ML 3.3 (GS).
+05  19 04 36.9  43.624 N  105.276 W   0 G           A 1.1   76   32  WYOMING. ML 3.1 (GS). 76 km (47 miles) SSE of Gillette.
+07  18 04 07.5  43.709 N  105.239 W   0 G           A 0.8   47   62  WYOMING. ML 3.6 (GS). 68 km (42 miles) SSE of Gillette.
+08  18 06 37.7  43.782 N  105.228 W   0 G           A 0.9   55   18  WYOMING. ML 3.4 (GS). 61 km (38 miles) SSE of Gillette.
+09  18 01 25.0  43.828 N  105.203 W   0 G           A 0.8   51   72  WYOMING. ML 3.3 (GS). 57 km (35 miles) SSE of Gillette.
+11  18 21 23.8  43.746 N  105.188 W   0 G           A 1.0   28   65  WYOMING. ML 3.4 (GS). 66 km (41 miles) SSE of Gillette.
+12  21 46 49.7? 43.83  N  106.26  W   0 G           C 1.9  225    7  WYOMING. ML 2.8 (GS). 35 km (22 miles) N of Midwest.
+12  23 02 56.8? 43.92  N  105.10  W   0 G           C 1.0  110    5  WYOMING. ML 2.5 (GS). 55 km (34 miles) SE of Gillette.
+14  22 26 20.6  45.859 N  106.806 W   0 G           A 0.7  105    9  EASTERN MONTANA. mbLg 2.6 (GS). 14 km (9 miles) W of
+                                                                      Colstrip.
+15  19 06 50.1  43.612 N  105.145 W   0 G           A 1.2   51   68  WYOMING. ML 3.3 (GS). 81 km (50 miles) WSW of Newcastle.
+16  22 02 48.0  40.332 N  107.951 W   0 G           A 0.8   83   24  COLORADO. ML 2.9 (GS). 25 km (16 miles) NNE of Meeker.
+17  18 05 37.1  43.797 N  105.210 W   0 G           A 1.0   43   47  WYOMING. ML 3.1 (GS). 59 km (37 miles) SSE of Gillette.
+17  22 08 37.5  40.281 N  107.298 W   0 G           A 1.2   51   26  COLORADO. ML 2.7 (GS). 33 km (21 miles) SE of Craig.
+18  18 05 46.4  43.787 N  105.232 W   0 G           A 1.2   26  103  WYOMING. ML 3.4 (GS). 60 km (37 miles) SSE of Gillette.
+20  00 13 55.7* 32.957 N  109.546 W   0 G           B 1.8  108   11  ARIZONA. ML 2.8 (GS). 19 km (12 miles) NE of Safford.
+23  21 09 41.7  38.080 N   82.068 W   0 G           A 1.8   63   24  WEST VIRGINIA. mbLg 2.8 (GS). 48 km (30 miles) SW of
+                                                                      CHARLESTON.
+24  19 09 37.1  43.823 N  105.214 W   0 G           A 0.8   28   74  WYOMING. ML 3.3 (GS). 57 km (35 miles) SSE of Gillette.
+25  23 54 08.9  33.169 N  109.594 W   0 G           A 1.9  103   19  ARIZONA. ML 2.9 (GS). 31 km (19 miles) WNW of Clifton.
+26  18 05 30.1  43.786 N  105.274 W   0 G           A 0.9   51   39  WYOMING. ML 3.2 (GS). 59 km (37 miles) SSE of Gillette.
+29  20 05 37.2  43.815 N  105.251 W   0 G           A 0.8   51   36  WYOMING. ML 3.5 (GS). 57 km (35 miles) SSE of Gillette.
+30  11 20 45.8  37.942 N   81.249 W   1 G           A 1.3   50   20  WEST VIRGINIA. mbLg 2.5 (GS). 19 km (12 miles) NNW of
+                                                                      Beckley.
+30  22 48 32.2* 45.378 N  106.711 W   0 G           B 1.5  112   18  EASTERN MONTANA. ML 2.9 (GS). 57 km (35 miles) S of
+                                                                      Colstrip.
+31  23 58 13.5* 43.304 N  105.404 W   0 G           B 1.9  141   10  WYOMING. ML 3.1 (GS). 60 km (38 miles) N of Douglas.
+ 
+For origin times after September 30, 2002, USGS computations of hypocenters and magnitudes for routine mining events
+are listed in this publication only for exceptionally large events and for events that are also listed in the Reviewed
+Event Event Bulletins (REB) of the International Data Center of the United Nations' Comprehensive Nuclear-Test-Ban
+Treaty Organization.

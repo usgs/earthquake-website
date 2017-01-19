@@ -60,15 +60,10 @@
       <td><a href="catalog/us">US</a> - NEIC PDE Preliminary Determination of Epicenters Bulletin</td>
       <td>
         <ul>
-          <li>
-            Monthly from 1973-01-01 to 2011-03-31
-          </li>
-          <li>
-            Weekly from 2011-04-01 to 2012-10-13
-          </li>
-          <li>
-            Daily from 2012-10-14 to 2013-02-08
-          </li>
+          <li>Monthly from 1973-01-01 to 2011-03-31</li>
+          <li>Weekly from 2011-04-01 to 2012-10-13</li>
+          <li>Daily from 2012-10-14 to 2013-02-08</li>
+          <li><a href="/data/mineblast/">Mining Explosions</a> from 1997-May to 2013-July</li>
         </ul>
       </td>
     </tr>

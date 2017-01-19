@@ -1,0 +1,41 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  7-13-EXP
+GEOLOGICAL SURVEY                                                                                        SEP 27, 2013
+
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+
+                                                         JULY 2013
+
+
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA
+DAY HR MN SEC     LAT       LONG           mb  MS              USED
+
+01  17 26 13.5  47.574 N   92.531 W   0 G           A 1.4  104   12  MINNESOTA. mbLg 2.5 (GS). 4 km (2 miles) N of Virginia.
+03  16 33 55.1  47.610 N   92.674 W   0 G           A 1.0  106   10  MINNESOTA. mbLg 2.5 (GS). 14 km (9 miles) NW of
+                                                                      Virginia.
+03  17 13 24.3* 47.530 N   92.407 W   0 G           B 0.3  102    8  MINNESOTA. mbLg 1.9 (GS). 10 km (6 miles) E of Virginia.
+06  21 38 11.4  43.734 N  105.239 W   0 G           A 1.1   72   21  WYOMING. ML 3.4 (GS). 63 km (39 miles) SSE of Gillette.
+08  19 30 45.5  41.082 N  112.787 W   0 G           A 0.8   74   20  UTAH. ML 1.9 (GS). 70 km (44 miles) WSW of Ogden.
+08  21 38 39.6  43.744 N  105.305 W   0 G           A 1.4   26   41  WYOMING. mbLg 3.1 (GS). 63 km (39 miles) SSE of
+                                                                      Gillette.
+14  18 13 08.2  43.665 N  105.298 W   0 G           A 0.9   74   22  WYOMING. ML 3.7 (GS). 71 km (44 miles) SSE of Gillette.
+18  18 06 35.7  44.632 N  106.041 W   0 G           A 1.1  102   37  WYOMING. ML 3.1 (GS). 57 km (36 miles) NW of Gillette.
+18  20 07 07.3  43.445 N  106.005 W   0 G           A 1.2  131   70  WYOMING. ML 3.4 (GS). 23 km (14 miles) E of Midwest.
+19  16 41 29.3* 47.641 N   92.663 W   0 G           B 1.2  106    6  MINNESOTA. mbLg 2.3 (GS). 16 km (10 miles) NW of
+                                                                      Virginia.
+20  19 03 22.6  43.706 N  105.273 W   0 G           A 0.7   50   54  WYOMING. ML 3.3 (GS). 68 km (42 miles) SSE of Gillette.
+22  18 04 31.2  41.110 N  112.857 W   0 G           A 0.9   57   21  UTAH. ML 2.0 (GS). 75 km (47 miles) W of Ogden.
+22  18 18 59.7  43.778 N  105.277 W   0 G           A 0.8   51   72  WYOMING. ML 3.3 (GS). 59 km (36 miles) SSE of Gillette.
+22  20 04 37.3  43.808 N  105.255 W   0 G           A 0.7   31   89  WYOMING. ML 3.5 (GS). 57 km (36 miles) SSE of Gillette.
+25  18 04 32.8  43.804 N  105.255 W   0 G           A 0.9   24  101  WYOMING. ML 3.8 (GS). 57 km (36 miles) SSE of Gillette.
+26  17 39 00.4* 47.595 N   92.643 W   0 G           B 1.3  106    8  MINNESOTA. mbLg 2.1 (GS). 11 km (7 miles) NW of
+                                                                      Virginia.
+29  17 29 49.7  44.169 N  105.503 W   0 G           A 0.9   49   40  WYOMING. ML 3.4 (GS). 14 km (8 miles) S of Gillette.
+29  20 04 35.0  43.559 N  106.112 W   0 G           A 1.1   64   47  WYOMING. ML 3.2 (GS). 21 km (13 miles) NE of Midwest.
+31  18 47 07.8  47.565 N   92.520 W   0 G           A 1.0  104   11  MINNESOTA. mbLg 2.5 (GS). 3 km (2 miles) NNE of
+                                                                      Virginia.
+
+For origin times after September 30, 2002, USGS computations of hypocenters and magnitudes for routine mining events
+are listed in this publication only for exceptionally large events and for events that are also listed in the Reviewed
+Event Event Bulletins (REB) of the International Data Center of the United Nations' Comprehensive Nuclear-Test-Ban
+Treaty Organization.
