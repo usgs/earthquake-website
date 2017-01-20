@@ -22,9 +22,9 @@ Hayes, G.P., Wald, D.J., and Keranen, K., 2009. Advancing techniques to constrai
     </li>
 </ul>
 
-<strong>
+<h2>
 Local Passive Datasets and Relocations
-</strong>
+</h2>
 
 <ul class="referencelist">
 <li>
@@ -68,7 +68,7 @@ Tilmann, F., Grevemeyer, I., Suwargadi, B., Kopp, H., and Flueh, E., The updip s
 </li>
 </ul>
 
-<strong>Alaska</strong>
+<h2>Alaska</h2>
 <ul class="referencelist">
 <li>
 Fuis, G. S., Moore, T. E., Plafker, G., Brocher, T. M., Fisher, M. A., Mooney, W. D., Nokleberg, W. J., Page, R. A., Beaudoin, B. C., Christensen, N. I., Levander, A. R., Lutter, W. J., Saltus, R. W., and Ruppert, N. A., Trans-Alaska Crustal Transect and continental evolution involving subduction underplating and synchronous foreland thrusting, Geology, 36, 2008, pp. 267-270.
@@ -87,7 +87,7 @@ Ye, S., Flueh, E. R., Klaeschen, D., and von Huene, R., Crustal structure along 
 </li>
 </ul>
 
-<strong>Cascadia</strong>
+<h2>Cascadia</h2>
 <ul class="referencelist">
 <li>
 Flueh, E. R., Fisher, M. A., Bialas, J., Childs, J. R., Klaeschen, D., Kukowski, N., Parsons, T., Scholl, D. W., Brink, U., Tre'hu, A. M., and Vidal, N., New seismic images of the Cascadia subduction zone from cruise SO108 -ORWELL, Tectonophysics, 293, 2998, pp. 69-84.
@@ -100,7 +100,7 @@ McCrory, P.A., Blair, J.L., Waldhauser, F., and Oppenheimer, D.H., 2012. Juan de
 </li>
 </ul>
 
-<strong>Izu Bonin</strong>
+<h2>Izu Bonin</h2>
 <ul class="referencelist">
 <li>
 Oakley, A. J., Taylor, B., and Moore, G. F., Pacific Plate subduction beneath the central Mariana and Izu-Bonin fore arcs: New insights from an old margin, Geochem. Geophys. Geosystems, 9(6), DOI: 10.1029/2007GC001820, 2008.
@@ -109,7 +109,7 @@ Oakley, A. J., Taylor, B., and Moore, G. F., Pacific Plate subduction beneath th
 Takahashi, N., Suyehiro, K., and Shinohara, M., Implications from the seismic crustal structure of the northern Izu-Bonin arc, The Island arc, 7, 1998, pp. 383-394.
 </li>
 </ul>
-<strong>Japan</strong>
+<h2>Japan</h2>
 <ul class="referencelist">
 <li>
 Kido, Y., Tsuru, T., Park, J-O., Higashikata, T., Kaneda, Y., and Kono, Y., Three-dimensional overview of the Japan Trench - an example of using the Frontier database system, Computers & Geosciences, 27(1), DOI: 10.1016/S0098-3004(00)00064-9, 2001, pp. 43-57.
@@ -146,7 +146,7 @@ Wang, T. K., McIntosh, K., Nakamura, Y., Liu, C-S., and Chen, H-W., Velocity-Int
 </li>
 </ul>
 
-<strong>Kamchatka</strong>
+<h2>Kamchatka</h2>
 <ul class="referencelist">
 <li>
 Iwasaki, T., Shiobara, H., Nishizawa, A., Kanazawa, T., Suyehiro, K., Hirata, N., Urabe, T., and Shimamura, H., A detailed subduction structure in the Kurit trench deduced from ocean bottom seismographic refraction studies, Tectonophysics, 165, 1989, pp. 315-336
@@ -159,7 +159,7 @@ Schnurle, P. , Lallemand, S. E., von Huene, R., and Klaeschen, D., Tectonic regi
 </li>
 </ul>
 
-<strong>Kermadec-Tonga-New Zealand</strong>
+<h2>Kermadec-Tonga-New Zealand</h2>
 <ul class="referencelist">
 <li>
 Melhuish, A., Sutherland, R., Davey, F. J., Lamarche, G., Crustal structure and neotectonics of the Puysegur oblique subduction zone, New Zealand, Tectonophysics, 313, 1999, pp. 335-362.
@@ -168,7 +168,7 @@ Melhuish, A., Sutherland, R., Davey, F. J., Lamarche, G., Crustal structure and 
 Sutherland, R., Stagpoole, V., Uruski, C., Kennedy, C., Bassett, D., Henrys, S., Scherwath, M., Kopp, H., Field, B., Toulmin, S., Barker, D., Bannister, S., Davey, F., Stern, T., Flueh, E. R., Reactivation of tectonics, crustal underplating, and uplift after 60 Myr of passive subsidence, Raukumara Basin, Hikurangi-Kermadec fore arc, New Zealand: Implications for global growth and recycling of continents, Tectonics, 28, TC5017, DOI:10.1029/2008TC002356, 2009.
 </li>
 </ul>
-<strong>Lesser Antilles</strong>
+<h2>Lesser Antilles</h2>
 <ul class="referencelist">
 <li>
 Christeson, G. L., Bangs, N. L., Shipley, T. H., Deep structure of an island arc backstop, Lesser Antilles subduction zone, J. Geophys. Res., 108(B7), 2327, DOI:10.1029/2002JB002243, 2003.
@@ -186,13 +186,13 @@ Shipley, T. H., Moore, G. F., Bangs, N. L., Moore, J. C., Stoffa, P. L., Seismic
 Weinzierl, W. Kopp, H. Flueh, E., Klaeschen, D., and THALES Working Group, A seismic wide angle profile across the Lesser Antilles Arc south of Guadeloupe, Geophysical Research Abstracts, 11, 2009.
 </li>
 </ul>
-<strong>Makran</strong>
+<h2>Makran</h2>
 <ul class="referencelist">
 <li>
 Kopp, C., Fruehn, J., Flueh, E. R., Reichert, C., Kukowski, N.,  Bialas, J., and Klaeschen, D., Structure of the Makran subduction zone from wide-angle and reflection seismic data, Tectonophysics, 329, 2000, pp. 171-191.
 </li>
 </ul>
-<strong>Mediterranean</strong>
+<h2>Mediterranean</h2>
 <ul class="referencelist">
 <li>
 Bohnhoff, M., Makris, J., Stavrakakis, G., and Papanikolaou, D., Crustal investigation of the Hellenic subduction zone using wide aperture seismic data, Tectonophysics, 343, 2001, pp. 239-262.
@@ -202,7 +202,7 @@ Gutscher, M. A., Malod, J., Rehault, J. P., Contrucci, I., Klingelhoefer, F., Me
 </li>
 </ul>
 
-<strong>Middle America</strong>
+<h2>Middle America</h2>
 <ul class="referencelist">
 <li>
 Campos-Enriques, J. O., and Sanchez-Zamora, O., Crustal structure across southern Mexico inferred from gravity data, Journal of South American Earth Sciences, 13, 2000, pp. 479-489.
@@ -236,14 +236,14 @@ Ye, S., Bialas, J., Flueh, E. R., Stavenhagen, A., and von Huene, R., Crustal st
 </li>
 </ul>
 
-<strong>Philippines</strong>
+<h2>Philippines</h2>
 <ul class="referencelist">
 <li>
 Hayes, D., and Lewis, S., A Geophysical Study of the Manila Trench, Luzon, Philippines, Crustal Structure, Gravity, and Regional Tectonic Evolution, J. Geophys. Res., 89(B11), 1984, pp. 9171-9195.
 </li>
 </ul>
 
-<strong>Sandwich - Shetland</strong>
+<h2>Sandwich - Shetland</h2>
 <ul class="referencelist">
 <li>
 Jin, Y. K., Kim, Y., Nam, S. H., Lee, D. K., and Lee, K., Gravity models for the South Shetland Trench and the Shackleton Fracture Zone, Antarctica, Geosciences Journal, 1 (2), DOI: 10.1007/BF02910480, 1997, pp. 89-98.
@@ -252,7 +252,7 @@ Jin, Y. K., Kim, Y., Nam, S. H., Lee, D. K., and Lee, K., Gravity models for the
 Vanneste L. E., and Larter, R. D., Sediment subduction, subduction erosion, and strain regime in the northern South Sandwich forearc, J. Geophys. Res., 107 (B7), 2149, DOI:10.1029/2001JB000396, 2002
 </li>
 </ul>
-<strong>Solomon Islands</strong>
+<h2>Solomon Islands</h2>
 <ul class="referencelist">
 <li>
 Fisher, M. A., Geist, E. L., Sliter, R. W., Wong, F. L., Reiss, C., and Mann, D., Preliminary analysis of the earthquake (Mw 8.1) and tsunami of April 1, 2007, in the Solomon Islands, southwestern Pacific Ocean, Geological Society of America, 39 (6), 2007, p. 157.
@@ -262,7 +262,7 @@ Miura, S., Suyehiro, K., Shinohara, M., Takahashib, N., Araki, E., and Taira, A.
 </li>
 </ul>
 
-<strong>South America</strong>
+<h2>South America</h2>
 <ul class="referencelist">
 <li>
 Agudelo, W., Ribodetti, A., Collot, J. Y., and Operto, S., Joint inversion of multichannel seismic reflection and wide-angle seismic data: Improved imaging and refined velocity model of the crustal structure of the north Ecuador-south Colombia convergent margin, J. Geophys. Res., 114, B02306, DOI:10.1029/2008JB005690, 2009.
@@ -311,7 +311,7 @@ von Huene, R., Corvalan, J., Flueh, E. R., Hinz, K., Korstgard, J., Ranero, C. R
 </li>
 </ul>
 
-<strong>Sumatra</strong>
+<h2>Sumatra</h2>
 <ul class="referencelist">
 <li>
 Franke, D., Schnabel a, M., Ladage, Tappin, D. R., Neben, S., Djajadihardja, Y. S., M&#252;ller, C., Kopp, H., and Gaedicke, C., The great Sumatra-Andaman earthquakes -Imaging the boundary between the ruptures of the great 2004 and 2005 earthquakes, Earth and Planetary Science Letters, 269, 2008, pp. 118-130.

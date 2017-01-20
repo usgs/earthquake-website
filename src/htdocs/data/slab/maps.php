@@ -21,7 +21,7 @@
 		<img src="thumbnails/alu_eqdz.jpg" alt="Alaska-Aleutians" />
 		<small>Click for larger image</small></a>
 		<p>
-		<a href="models/alu_eqdz.pdf">Download PDF - 6.5 MB</a>
+		<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_eqdz.pdf">Download PDF - 6.5 MB</a>
 		</p>
 	</li>
 
@@ -31,7 +31,7 @@
 		<img src="thumbnails/mex_eqdz.jpg" alt="Central America" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/mex_eqdz.pdf">Download PDF - 7.7 MB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_eqdz.pdf">Download PDF - 7.7 MB</a>
         </li>
 
         <li class="left four column">
@@ -40,7 +40,7 @@
 		<img src="thumbnails/izu_eqdz.jpg" alt="Izu-Bonin" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/izu_eqdz.pdf">Download PDF - 5.7 MB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_eqdz.pdf">Download PDF - 5.7 MB</a>
         </li>
 
         <li class="four column">
@@ -49,7 +49,7 @@
 		<img src="thumbnails/ker_eqdz.jpg" alt="Kermadec-Tonga" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/ker_eqdz.pdf">Download PDF - 9.7 MB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_eqdz.pdf">Download PDF - 9.7 MB</a>
         </li>
 
         <li class="left four column">
@@ -58,7 +58,7 @@
 		<img src="thumbnails/kur_eqdz.jpg" alt="Kamchatka/Kurils/Japan" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/kur_eqdz.pdf">Download PDF - 10.4 MB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_eqdz.pdf">Download PDF - 10.4 MB</a>
         </li>
 
         <li class="four column">
@@ -67,7 +67,7 @@
 		<img src="thumbnails/phi_eqdz.jpg" alt="Philippines" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/phi_eqdz.pdf">Download PDF - 3.1 MB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_eqdz.pdf">Download PDF - 3.1 MB</a>
         </li>
 
         <li class="left four column">
@@ -76,7 +76,7 @@
 		<img src="thumbnails/ryu_eqdz.jpg" alt="Ryukyu" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/ryu_eqdz.pdf">Download PDF - 4.8 MB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_eqdz.pdf">Download PDF - 4.8 MB</a>
         </li>
 
         <li class="four column">
@@ -85,7 +85,7 @@
 		<img src="thumbnails/van_eqdz.jpg" alt="Santa Cruz Islands/Vanuatu/Loyalty Islands" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/van_eqdz.pdf">Download PDF - 3.3 MB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_eqdz.pdf">Download PDF - 3.3 MB</a>
         </li>
 
         <li class="left four column">
@@ -94,7 +94,7 @@
 		<img src="thumbnails/sco_eqdz.jpg" alt="Scotia" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/sco_eqdz.pdf">Download PDF - 872 KB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_eqdz.pdf">Download PDF - 872 KB</a>
         </li>
 
         <li class="four column">
@@ -103,7 +103,7 @@
 		<img src="thumbnails/sol_eqdz.jpg" alt="Solomon Islands" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/sol_eqdz.pdf">Download PDF - 3.5 MB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_eqdz.pdf">Download PDF - 3.5 MB</a>
         </li>
 
         <li class="left four column">
@@ -112,7 +112,7 @@
 		<img src="thumbnails/sam_eqdz.jpg" alt="South America" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/sam_eqdz.pdf">Download PDF - 20.9 MB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_eqdz.pdf">Download PDF - 20.9 MB</a>
         </li>
 
         <li class="four column">
@@ -121,7 +121,7 @@
 		<img src="thumbnails/sum_eqdz.jpg" alt="Sumatra-Java" />
                 <small>Click for larger image</small></a>
                 <p>
-                <a href="models/sum_eqdz.pdf">Download PDF - 9.8 MB</a>
+                <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_eqdz.pdf">Download PDF - 9.8 MB</a>
         </li>
 
 </ul>
