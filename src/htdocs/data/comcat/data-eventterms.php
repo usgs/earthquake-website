@@ -120,19 +120,11 @@
           <dt>Additional Information</dt>
           <dd>
             <p>
-              The depth where the earthquake begins to rupture. This depth may
-              be relative to mean sea-level or the average elevation of the
-              seismic stations which provided arrival-time data for the
-              earthquake location. The choice of reference depth is dependent on
-              the method used to locate the earthquake. Sometimes when depth is
-              poorly constrained by available seismic data, the location program
-              will set the depth at a fixed value. For example, 33 km is often
-              used as a default depth for earthquakes determined to be shallow,
-              but whose depth is not satisfactorily determined by the data,
-              whereas default depths of 5 or 10 km are often used in
-              mid-continental areas and on mid-ocean ridges since earthquakes in
-              these areas are usually shallower than 33 km.
-             </p>
+              The depth where the earthquake begins to rupture. This depth may be relative to the WGS84 geoid, mean sea-level, or the average elevation of the seismic stations which provided arrival-time data for the earthquake location. The choice of reference depth is dependent on the method used to locate the earthquake, which varies by seismic network. Since ComCat includes data from many different seismic networks, the process for determining the depth is different for different events. The depth is the least-constrained parameter in the earthquake location, and the error bars are generally larger than the variation due to different depth determination methods.
+            </p>
+            <p>
+              Sometimes when depth is poorly constrained by available seismic data, the location program will set the depth at a fixed value. For example, 33 km is often used as a default depth for earthquakes determined to be shallow, but whose depth is not satisfactorily determined by the data, whereas default depths of 5 or 10 km are often used in mid-continental areas and on mid-ocean ridges since earthquakes in these areas are usually shallower than 33 km.
+            </p>
           </dd>
         </dl>
       </dd>
