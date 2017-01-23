@@ -34,7 +34,7 @@
   <li>
     <a>
       <h4>Scientific Background</h4>
-      <img src="" alt="scientific background" width="150px"/>
+      <img src="images/new_madrid.gif" alt="map showing NMSZ earthquakes as red + signs" width="150px"/>
     </a>
     <p>
       <ul style="padding-left:175px">
@@ -49,7 +49,7 @@
   <li>
     <a>
       <h4>Photos</h4>
-      <img src="photos" alt="photos" width="150px"/>
+      <img src="images/1811-1812_004_small.gif" alt="historic black and white photo of small landslide with downed tree branches" width="150px"/>
     </a>
     <p>
       <ul style="padding-left:175px">
@@ -60,7 +60,7 @@
   <li>
     <a>
       <h4>Eyewitness Accounts</h4>
-      <img src="photos" alt="eyewitness accounts" width="150px"/>
+      <img src="images/eyewitness.gif" alt="blurred old newspaper" width="150px"/>
     </a>
     <p>
       <ul style="padding-left:175px">
