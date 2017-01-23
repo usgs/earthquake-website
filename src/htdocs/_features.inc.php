@@ -56,6 +56,16 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
+   'id' => '2017-01-23',
+   'title' => 'Maps Made With Light Show the Way',
+   'content' => 'The USGS’ National Geospatial Program is in year one of an 8-year program to create the first publicly available, national 3D elevation map using lidar. lidar shows not only vegetation and objects on the land’s surface, but the structures beneath such as fault lines.',
+   'link' => 'https://www.usgs.gov/news/maps-made-light-show-way',
+   'modified' => strtotime('2017-01-23'),
+   'thumbnail' => '/images-featured/bitterroot.gif',
+   'image' => '/images-featured/bitterroot.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => '2016-12-12',
    'title' => 'USGS scientists sharing science at the 2016 AGU Fall Meeting',
    'content' => 'For the 2016 American Geophysical Union (AGU) Fall Meeting, USGS scientists plan to give over 400 presentations to the largest gathering of Earth scientists in the world. The talks and posters span a wide range of topics, including earthquake early warning systems, and a late-breaking session on Oklahoma’s largest recorded earthquake. (photo by Rex Sanders USGS)',
