@@ -15,12 +15,12 @@
 Originally Released: 10/22/2013 1:07:59 PM; Updated May 2, 2014</i>
 </p>
 
-<p><img class="right" src="/earthquakes/byregion/oklahoma/OKeq-graph.gif" alt="Graph of Oklahoma Earthquakes"/>
+<p><img class="right" src="oklahoma/OKeq-graph.gif" alt="Graph of Oklahoma Earthquakes"/>
 The rate of earthquakes in Oklahoma has increased remarkably since October
 2013 – by about 50 percent – significantly increasing the chance for a damaging
 magnitude 5.5 or greater quake in central Oklahoma.<br />
-<a href="/earthquakes/byregion/oklahoma/OKquakes1973_062642016v3.pdf">View map of Oklahoma seismicity.</a><br />
-<a href="/earthquakes/byregion/oklahoma/OKeqanimation.php">View animation of Oklahoma Seismicity.</a>
+<a href="oklahoma/OKquakes1973_062642016v3.pdf">View map of Oklahoma seismicity.</a><br />
+<a href="oklahoma/OKeqanimation.php">View animation of Oklahoma Seismicity.</a>
 </p>
 
 <p>
@@ -46,7 +46,7 @@ El Reno and damaged state buildings in Oklahoma City.
 
 <p>
 “While it’s been known for decades that Oklahoma is
-<a href="/earthquakes/byregion/oklahoma.php">
+<a href="oklahoma.php">
 ‘earthquake country’</a>, we hope
 that this new advisory of increased hazard will become a crucial consideration in
 earthquake preparedness for residents, schools and businesses in the area,” said
