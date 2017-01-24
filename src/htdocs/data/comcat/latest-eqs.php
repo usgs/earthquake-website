@@ -415,7 +415,6 @@
 </p>
 <ul>
   <li>Local System Time – the time setting of your device</li>
-  <li>Event Epicenter Time – the time in each earthquake epicenter region</li>
   <li>UTC – Universal Coordinated Time (similar to GMT)</li>
 </ul>
 
