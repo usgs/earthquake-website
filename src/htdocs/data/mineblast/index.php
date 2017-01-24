@@ -22,10 +22,13 @@
       Phase arrival times for months from May 1997 to July 2013 are available in the MCHEDR format, and arrival-times for months from October 1999 through July 2013 are available in the ISF format.
       <ul>
         <li>
-          <a href="ftp://hazards.cr.usgs.gov/NEICPDE/olderPDEdata/mineblast/isf/">Data in ISF Format</a> - file names are isfexpYYYYMM.dat.Z
+          <a href="ftp://hazards.cr.usgs.gov/NEICPDE/olderPDEdata/mineblast/isf/">Data in ISF Format (1997-July 2013)</a> - file names are isfexpYYYYMM.dat.Z
         </li>
         <li>
-          <a href="ftp://hazards.cr.usgs.gov/NEICPDE/olderPDEdata/mineblast/mchedr/">Data in MCHEDR Format</a> - file names are mchedrYYMM.dat.Z
+          <a href="ftp://hazards.cr.usgs.gov/NEICPDE/olderPDEdata/mineblast/mchedr/">Data in MCHEDR Format (1997-July 2013)</a> - file names are mchedrYYMM.dat.Z
+        </li>
+        <li>
+          <a href="/earthquakes/search/">Data (July 2013-Present)</a> - select Advanced Options - Event Type - Non-Earthquakes
         </li>
       </ul>
     </p>
