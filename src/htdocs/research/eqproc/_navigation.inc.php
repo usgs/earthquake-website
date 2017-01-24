@@ -15,7 +15,8 @@
     navItem("/research/cpt/", "Cone Penetration Testing") .
     navItem("${section}/sfbarrays.php", "San Francisco Bay Area Arrays") .
     navItem("${section}/ebse.php", "East Bay Seismic Experiment") .
-    navItem("${section}/rockphysics/", "Rock Physics Labs") ,
+    navItem("${section}/rockphysics/", "Rock Physics Labs") .
+    navItem("${section}/tectonics/", "Deformation History Animations") ,
 
   "</section>"
   ;
