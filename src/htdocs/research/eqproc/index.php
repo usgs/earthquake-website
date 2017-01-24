@@ -187,5 +187,19 @@ if (!isset($TEMPLATE)) {
       </li>
     </ul>
   </section>
+  <section class="one-of-three column">
+    <ul class="no-style linklist">
+      <li>
+        <a href="tectonics/">
+          <h4>Deformation History Animations</h4>
+          <img src="images/tectonics.png" class='feeds-list-image'
+              alt=" icon"  width="75"/>
+        </a>
+        <p>
+          These animations reconstruct the geography of California through time and help predict how it will change in the future.
+        </p>
+      </li>
+    </ul>
+  </section>
 
 </div>

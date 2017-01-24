@@ -2,6 +2,7 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'Neogene Deformation History of Western North America and Volcanism in Coastal California';
+  $NAVIGATION = true;
   $HEAD = '';
   $FOOT = '';
 
