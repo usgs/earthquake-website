@@ -16,11 +16,9 @@
   </div>
 <div class="column one-of-three">
 <img src="images/alu_eqdz.jpg" alt="AK image"/>
-<ul>
-<li><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/allslabs.kmz">Download all slab models in Google Earth format - <?php //print formatSize('models/allslabs.kmz'); ?></a></li>
-<li><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/allslabs.tgz">Download all slab models in NetCDF format - <?php //print formatSize('models/allslabs.tgz'); ?></a></li>
-<li><a href="http://www.agu.org/pubs/crossref/2012/2011JB008524.shtml">Hayes, G. P., D. J. Wald, and R. L. Johnson (2012), Slab1.0: A three-dimensional model of global subduction zone geometries, J. Geophys. Res., 117, B01302, doi:10.1029/2011JB008524.</a></li>
-</ul>
+<p>
+<a href="http://www.agu.org/pubs/crossref/2012/2011JB008524.shtml">Hayes, G. P., D. J. Wald, and R. L. Johnson (2012), Slab1.0: A three-dimensional model of global subduction zone geometries, J. Geophys. Res., 117, B01302, doi:10.1029/2011JB008524.</a>
+</p>
 
 </div>
 </div>

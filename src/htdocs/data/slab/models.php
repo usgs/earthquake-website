@@ -9,7 +9,11 @@
       include	'template.inc.php';
       }
 ?>
-
+<ul>
+<li><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/allslabs.kmz">Download all slab models in Google Earth format - <?php //print formatSize('models/allslabs.kmz'); ?></a></li>
+<li><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/allslabs.tgz">Download all slab models in NetCDF format - <?php //print formatSize('models/allslabs.tgz'); ?></a></li>
+<li><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/slab.zip">Download all slab model contour shapefiles</a></li>
+</ul>
 <table class="slab ten column">
 	<tr class="header">
 		<th scope="col" style="width: 144px">Region</th>
@@ -57,7 +61,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_contours.in'); ?><br /><small>alu_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab.zip'); ?><br /><small>alu_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0.clip'); ?> <br />
@@ -106,7 +109,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_contours.in'); ?><br /><small>mex_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab.zip'); ?><br /><small>mex_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0.clip'); ?> <br />
@@ -158,7 +160,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_contours_dep.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_contours_dep.in'); ?><br /><small>cas_contours_dep.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab.zip'); ?><br /><small>cas_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0.clip'); ?> <br />
@@ -203,7 +204,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_contours.in'); ?><br /><small>izu_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab.zip'); ?><br /><small>izu_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0.clip'); ?> <br />
@@ -252,7 +252,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_contours.in'); ?><br /><small>ker_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab.zip'); ?><br /><small>ker_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0.clip'); ?> <br />
@@ -301,7 +300,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_contours.in'); ?><br /><small>kur_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab.zip'); ?><br /><small>kur_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0.clip'); ?> <br />
@@ -350,7 +348,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_contours.in'); ?><br /><small>phi_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab.zip'); ?><br /><small>phi_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0.clip'); ?> <br />
@@ -399,7 +396,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_contours.in'); ?><br /><small>ryu_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab.zip'); ?><br /><small>ryu_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0.clip'); ?> <br />
@@ -448,7 +444,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_contours.in'); ?><br /><small>van_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab.zip'); ?><br /><small>van_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0.clip'); ?> <br />
@@ -497,7 +492,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_contours.in'); ?><br /><small>sco_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab.zip'); ?><br /><small>sco_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0.clip'); ?> <br />
@@ -547,7 +541,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_contours.in'); ?><br /><small>sol_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab.zip'); ?><br /><small>sol_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0.clip'); ?> <br />
@@ -596,7 +589,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_contours.in'); ?><br /><small>sam_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab.zip'); ?><br /><small>sam_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0.clip'); ?> <br />
@@ -645,7 +637,6 @@
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_contours.in'); ?><br /><small>sum_contours.in [3]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab.zip">ArcGIS Shapefile - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab.zip'); ?><br /><small>sum_slab.zip [6]</small></a></p>
 		</td>
 		<td>
 		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0.clip'); ?> <br />
@@ -669,7 +660,6 @@
 	<li>[3] ascii format, multi-segment file, contours in 20 km intervals.</li>
 	<li>[4] ascii format. Clipping mask for grid (region of grid applicability). For use with GMT grdclip.</li>
 	<li>[5] ascii format. Top and base of model region.</li>
-	<li>[6] ArcGIS shapefile</li>
 </ul>
 
 <b>For further information, please use the <a href="/contactus/?to=ghayes@usgs.gov">contact form</a> or email <a href="mailto:ghayes@usgs.gov">Gavin Hayes</a>.</b>

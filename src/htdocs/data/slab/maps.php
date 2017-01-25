@@ -12,8 +12,6 @@
 
 <p>The following figures describe the average difference in depth between the computed 3D slab surfaces, and the earthquakes used to construct each surface. These figures thus provide a qualitative assessment of how well we are fitting the earthquakes that define the subduction geometry in each location; if we assume that the ideal geometry should approximately envelope a slabs' seismicity, then differences should average slightly less than zero (cream-white-light blue colors). Areas where large misfits exist highlight a poorly-fit surface, and may be indicative of structural complexity in the slab geometry.</p>
 
-<p><a href="map/">Slab 1.0 Interactive Map</a></p>
-
 <ul class="eight column container imglist">
 	<li class="left four column">
 		<h3>Alaska-Aleutians</h3>
