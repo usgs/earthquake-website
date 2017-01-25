@@ -7,16 +7,17 @@
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
-?>
-<figure class="right">
+
+echo
+'<figure class="right">
 	<img src="images/geninfo.gif" alt="This Dynamic Earth" />
-</figure>
-<?
+</figure>';
+
 //get database
 include_once '/etc/puppet/EHPServer.class.php';
 $pdo = EHPServer::getDatabase('earthquake');
 
-//show selected category --> general information
+//show selected category - general information
 $statement = $pdo->prepare("
 		SELECT *
 		from productsCategory
