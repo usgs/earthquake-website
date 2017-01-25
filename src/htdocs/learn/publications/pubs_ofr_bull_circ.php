@@ -6,17 +6,18 @@
       $TITLE	=	'Publications - Open-File Reports, Bulletins, Circulars';
       $NAVIGATION	= true;
       include	'template.inc.php';
+      include_once '/etc/puppet/EHPServer.class.php';
       }
-?>
-<figure class="right">
+echo
+'<figure class="right">
 	<img src="images/ofr_bull_circ.jpg" alt="Open-File Report" />
-</figure>
-<?
+</figure>';
+
 //get database
 include_once '/etc/puppet/EHPServer.class.php';
 $pdo = EHPServer::getDatabase('earthquake');
 
-//show selected category --> open-file reports, bulletins, circulars
+//show selected category - open-file reports bulletins circulars
 $statement = $pdo->prepare("
 		SELECT *
 		from productsCategory
