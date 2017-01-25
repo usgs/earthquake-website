@@ -12,7 +12,7 @@
   //defaults
   $alpha = "";
   $term = "";
-  $termID = "";
+  $termid = "";
 
   include_once '/etc/puppet/EHPServer.class.php';
   $pdo = EHPServer::getDatabase('earthquake');
