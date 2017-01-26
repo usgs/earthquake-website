@@ -90,9 +90,6 @@ if (isSet($_POST['submit'])) { // user submitted form
     <p>The Induced Seismicity Ground Motion Workshop in Menlo Park on February 13-14, 2017 will address both the question of what GMPE should be used in the NSHM as well as understanding the physical controls on the ground motions.</p>
     <p>The workshop will be organized with invited talks that will address data bases of ground motions from induced earthquakes; comparison of existing GMPEs; development of new, hybrid or stochastic GMPEs; physical interpretation of the data and GMPEs; and discussion of the estimation of stress drop of induced earthquakes as a control on the ground motion. The workshop will be organized around these goals, with one outcome being a better idea of what GMPE should be used in the next release of the NSHMs. We also welcome poster contributions that will add to the discussion.</p>
 
-    <h3>Agenda</h3>
-    <p>Check back soon for the agenda.</p>
-
     <h3>Goals</h3>
     <ul>
       <li>Ground-motion modeling guidelines for induced seismicity in the central US. This includes assigning weights to currently available models and developing new empirical, hybrid, or stochastic model.</li>
@@ -104,7 +101,7 @@ if (isSet($_POST['submit'])) { // user submitted form
     <h3>Logistics</h3>
     <ul>
       <li>Workshop will be held at the USGS Menlo Park on Monday and Tuesday February 13&ndash;14, 2017.</li>
-      <li>Hotel room block for federal employees or invited speakers is available at the <a href="http://www.marriott.com/hotels/travel/sjcme-residence-inn-palo-alto-menlo-park/">Residence Inn Menlo Park</a>, at per diem rate of $199 until January 19, 2017. <a href="http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=US%20Geological%20Survey%20Group%20Block%5ESJCME%60USGUSGA%60199.00%60USD%60false%603%602/12/17%602/14/17%601/19/17&app=resvlink&stop_mobi=yes">Book your group rate for US Geological Survey Group Block</a> or call the hotel directly (650) 327-2000.</li>
+      <li>Hotel room block for federal employees or invited speakers is available at the <a href="http://hotellucent.com">Hotel Lucent in Menlo Park</a> for three nights (Sunday 12th, Monday 13th, Tuesday 14th) at the gov't rate of $199. Please call the Lucent Hotel directly at (650) 521-0024 and ask for USGS room block.</li>
       <li>This hotel is walking distance from the Menlo Park train station, where you can easily arrive from the SFO or SJC airport, as well as the USGS Menlo Park and downtown Menlo Park with many caf&eacute;s and restaurants.</li>
       <li>Invited travelers, please contact the Menlo Park travel desk to arrange your travel.</li>
     </ul>
@@ -116,8 +113,16 @@ if (isSet($_POST['submit'])) { // user submitted form
       </a>
       <figcaption>M 5.8 Pawnee, Oklahoma Earthquake</figcaption>
     </figure>
-    <p>Public Transport:</p>
-    <ul>
+
+    <h3>Agenda</h3>
+    <p>Check back soon for the agenda.</p>
+
+    <h3>Presentation Guidelines</h3>
+    <p>Anyone is welcome to bring a poster; please let us know the title (below). Posters should be no larger than 4&rsquo;x6&rsquo; (AGU size).</p>
+    <p>For invited oral presentations, please read <a href="ISGM-workshop-guidelines.pdf">this document</a>.</p>
+
+    <h3>Public Transport</h3>
+    <ul class="no-style">
       <li><a href="http://www.caltrain.com/">Caltrain</a></li>
     </ul>
   </div>
