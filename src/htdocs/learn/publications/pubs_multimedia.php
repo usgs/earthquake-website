@@ -7,16 +7,16 @@
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
-?>
-<figure class="right">
+echo
+'<figure class="right">
 	<img src="images/multimedia.jpg" alt="Rock Slide" />
-</figure>
-<?
+</figure>';
+
 //get database
 include_once '/etc/puppet/EHPServer.class.php';
 $pdo = EHPServer::getDatabase('earthquake');
 
-//show selected category --> multimedia
+//show selected category - multimedia
 $statement = $pdo->prepare("
 		SELECT *
 		from productsCategory
