@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	1/18/2016
+      //	Contact: Gaviin Hayes
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Slab Model';
       $NAVIGATION	= true;
@@ -10,9 +9,15 @@
       }
 ?>
 <ul>
-<li><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/allslabs.kmz">Download all slab models in Google Earth format - <?php //print formatSize('models/allslabs.kmz'); ?></a></li>
-<li><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/allslabs.tgz">Download all slab models in NetCDF format - <?php //print formatSize('models/allslabs.tgz'); ?></a></li>
-<li><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/slab.zip">Download all slab model contour shapefiles</a></li>
+<li>
+  <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/allslabs.kmz">Download all slab models in Google Earth format</a>
+</li>
+<li>
+  <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/allslabs.tgz">Download all slab models in NetCDF format</a>
+</li>
+<li>
+  <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/slab.zip">Download all slab model contour shapefiles</a>
+</li>
 </ul>
 <table class="slab ten column">
 	<tr class="header">
@@ -662,7 +667,7 @@
 	<li>[5] ascii format. Top and base of model region.</li>
 </ul>
 
-<b>For further information, please use the <a href="/contactus/?to=ghayes@usgs.gov">contact form</a> or email <a href="mailto:ghayes@usgs.gov">Gavin Hayes</a>.</b>
+<b>For further information, please email <a href="mailto:ghayes@usgs.gov">Gavin Hayes</a>.</b>
 
 <script type="text/javascript">
 $(document).ready( function() {
