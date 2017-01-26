@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	10/12/2016
+      //	Contact: Lisa Wald
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Seismographs - Keeping Track of Earthquakes';
       $NAVIGATION	= true;
@@ -188,4 +187,151 @@
 	Abridged from    Earthquake Information Bulletin.
 	Vol. 2, No. 5, September - October, 1970.
 	</small>
+</p>
+
+<h2>Analog Seismometers</h2>
+<p>
+  Old seismometers were all analog. Analog instruments are called "analog" because the analog signal is converted into digital information at the site of data processing. This means that the analog signal must be sent, in this case over phone lines, from each station to the central site. Each station's signal is then converted from analog to digital by hardware and processed by computers.
+</p>
+<p>
+  Signals from analog stations go off-scale quickly because the electronics and analog phone lines have limited dynamic range. However, each analog station is somewhat simpler, the time stamping of the data is done simultaneously, and the data conversion hardware is at the central site, so the analog stations are somewhat easier to maintain.
+</p>
+
+<h3>Ranger</h3>
+<figure class='left'>
+  <img src="images/ranger_lowres.jpg" alt="Photo of the Ranger seismometer"/>
+</figure>
+
+<p>
+  The Ranger seismometer was developed in the late 1950/s for a hard (in excess of about 3kg or 6.6lbs) landing on the Moon. The mass weighs about 1.5 kg (about 3.3 lbs) and is actually a suspended ring magnet.
+</p>
+<br style="clear:left;"/>
+
+<h3>Wood-Anderson</h3>
+<figure class='left'>
+  <img src="images/wa1_lowres.jpg" alt="Photo of the Wood-Anderson seismometer"/>
+</figure>
+<p>
+  Harry Wood and John Anderson developed the Wood-Anderson seismometer in the 1920's to record local earthquakes in southern California. It photographically records the horizontal motion.
+</p>
+<br style="clear:left;"/>
+
+<h3>Viking 75</h3>
+<figure class='left'>
+  <img src="images/viking75_lowres.jpg" alt="Photo of the Viking 75 seismometer"/>
+</figure>
+<p>
+  This is a model of the seismometer that was first developed to be placed on the surface of mars in 1976 during the Viking Mars Mission. It records shaking in all three dimensions.
+</p>
+<br style="clear:left;"/>
+
+<h2>Digital Seismometers</h2>
+<p>
+  Digital stations, on the other hand, have high and low gain sensors and do their data conversion at the sensing site itself with 24 bit digitizers, thus allowing both small and large signals to stay on scale. The digital information is then sent via digital data link to the central site where it is able to be used immediately by the computers processing and storing the data.
+</p>
+<p>
+  Using digital stations instead of analog stations provides several important benefits:
+  <ul>
+    <li>
+      The high and low gain sensors provide data on scale for both small and large earthquakes.
+    </li>
+    <li>
+      The digital data can be error checked so that line noise won't cause the data to be corrupted.
+    </li>
+    <li>
+      Although the data output by different data loggers is often of different formats, the network can incorporate them through simple software changes.
+    </li>
+  </ul>
+</p>
+
+<h3>The K2 Strong Motion Accelerograph</h3>
+
+<a href="images/p2.gif">
+  <figure class='left'>
+    <img src="images/p2_sm.gif" alt="Image of a K2 accelerometer and recorder"/>
+    <figcaption>
+      Click on image to view a larger version.
+    </figcaption>
+  </figure>
+</a>
+<p>
+  The K2 data logger with force balanced accelerometers, the seismometer, and communications equipment that are typically used.
+</p>
+<br style="clear:left;"/>
+
+<a href="images/p3.gif">
+  <figure class='left'>
+    <img src="images/p3_sm.gif" alt="Image of a K2 installation"/>
+    <figcaption>
+      Click on image to view a larger version.
+    </figcaption>
+  </figure>
+</a>
+<p>
+  The K2 as it would be set up at an actual digital site. The metal frame is used to keep things from bumping up against the seismometer while it is in operation. The K2 is crooked in its frame for a specific reason. It must be aligned in a northerly direction so that the North-South and East-West ground motions are indeed what are sensed by the device.
+</p>
+<br style="clear:left;"/>
+
+<a href="images/p6.gif">
+  <figure class='left'>
+    <img src="images/p6_sm.gif" alt="Image of the internal componets of the K2 accelerometer"/>
+    <figcaption>
+      Click on image to view a larger version.
+    </figcaption>
+  </figure>
+</a>
+<p>
+  A closer view of the internals of the K2 accelerograph. The metal bar in the lower left hand corner of the case is the battery holder. The three ground motion sensors (for vertical, N-S, and E-W motions) are in the top left hand corner of the device, covered by a protective grille. The data conversion/storage/communications hardware is in the right half of the device. The orange rectangular object to the left is the rechargeable battery which powers the K2 during power shortages.
+</p>
+
+<h3>FBA-23</h3>
+
+<img src="images/fba23_lowres.jpg" alt="Photo of the FBA-23 Force Balance Accelerometer"/>
+<p>
+  The Force Balance Accelerometer measure the acceleration of the ground as it is shaking during an earthquake. It uses a feedback system in which the output signal from the transducer is amplified and fed back to a device that moves the mass to the original unperturbed position.
+</p>
+<br style="clear:left;"/>
+
+<h3>STS-1</h3>
+
+<img src="images/sts1_lowres.jpg" alt="Photo of the STS-1 seismometer"/>
+<p>
+  This electronic seismometer is a state-of-the art instrument. It can accurately record both small local earthquakes and large distant ones. It can also record earth tides and the sonic boom produced by the Space Shuttle as it flies into Edwards Air Force Base.
+</p>
+<br style="clear:left;"/>
+
+<h3>Episensor</h3>
+
+<img src="images/episensor_lowres.jpg" alt="Photo of the Episensor"/></p>
+<p>
+  This instrument is a newer version of the FBA-23. It records ground acceleration much more accurately and with greater sensitivity.
+</p>
+<br style="clear:left;"/>
+
+<h2>The Central Site Data Acquisition System</h2>
+
+<a href="images/p4.gif">
+  <figure class='left'>
+    <img src="images/p4_sm.gif" alt="image of the Central data acquisition system"/>
+    <figcaption>
+      Click on image to view a larger version.
+    </figcaption>
+  </figure>
+</a>
+<p>
+  This is a picture of the central site data acquisition system. The tower contains the actual data receiving hardware, as well as a computer and data storage system. The large terminal on the table allows system administrators to modify and maintain the system.
+</p>
+<br style="clear:left;"/>
+
+<h2>A Comparison of Analog and Digital Recordings</h2>
+<p>
+  Here is an image of an analog recording of an earthquake. The relatively flat lines are periods of quiescence and the large and squiggly line is an earthquake.
+</p>
+<img src="images/classic_seis.gif" alt="Image of a classic analog seismogram"/>
+<p>
+  Below is a digital seismogram. The data is stored electronically, easy to access and manipulate, and much more accurate and detailed than the analog recordings.
+</p>
+<img src="images/digital_seis.gif" alt="Image of a Digital seismograph"/>
+<p>
+  Earthquake research has assisted engineers in determining better construction and design of retrofitting of homes and buildings that can withstand the shaking that earthquakes generate. Earthquake information, such as location, magnitude, and shaking distribution, is immediately available within minutes after an earthquake to everyone via broadcast media or the internet.
 </p>

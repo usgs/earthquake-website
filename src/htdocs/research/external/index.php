@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Jill Franks, jfranks@usgs.gov
-// Last modified: Lisa Wald, 2016/08/22
 if (!isset($TEMPLATE)) {
   $TITLE = 'External Grants';
   $NAVIGATION = true;
@@ -49,9 +48,9 @@ if (!isset($TEMPLATE)) {
   <div class='column one-of-two'>
     <h2>Funded External Grants</h2>
     <ul>
-      <li><a href="research.php">Funded Research</a></li>
-      <li><a href="networks.php">Funded Network Operations</a></li>
-      <li><a href="monitoring_upgrades.php">ARRA-Funded Monitoring Upgrades</a></li>
+      <li><a href="https://geohazards.usgs.gov/cfusion/external_grants/research.cfm">Funded Research</a></li>
+      <li><a href="https://geohazards.usgs.gov/cfusion/external_grants/networks.cfm">Funded Network Operations</a></li>
+      <li><a href="https://geohazards.usgs.gov/cfusion/external_grants/monitoring_upgrades.cfm">ARRA-Funded Monitoring Upgrades</a></li>
     </ul>
 
 
