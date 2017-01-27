@@ -110,10 +110,9 @@ try {
 										$purchaseURL = urldecode($row["purchaseURL"]);
 										$description = stripslashes($row["description"]);
 
-										?>
-
-										<li><a href=<?=$link;?>><?=$text;?></a>
-										<?
+                    echo "
+										    <li><a href=$link>$text</a>";
+                        
 										if(!empty($description)){
 											echo "<br />$description";
 										}
