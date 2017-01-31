@@ -46,6 +46,18 @@ if (!isset($TEMPLATE)) {
       <a href="earthquakes/browse/significant.php">Significant Earthquakes Archive</a>
     </p>
 
+<!-- 1 Day, All Magnitudes List - need to figure out how to do 2 lists
+
+    <div id="all-earthquakes" class="height_scroll" style="overflow:scroll; background:#f4f4f4;">
+
+      <noscript class="error alert">
+        Javascript is used to load event data. If you can not enable Javascript,
+        you can <a href="earthquakes/feed/v1.0/summary/all_day.csv">view
+        the raw data here</a>.
+      </noscript>
+    </div>
+-->
+
   </div>
 
 <!-- LEFT COLUMN: WEBSITE SECTIONS and HIGHLIGHTS -->

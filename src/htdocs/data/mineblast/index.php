@@ -14,7 +14,7 @@
     <h2>Catalogs and Data</h2>
 
     <p>
-      The USGS provides listings of routine explosions and planned roof collapses at mines and quarries in the United States. For the period May 1997 through March 2000 the catalog was called "Probable Mining Explosions in the United States".
+      From May 1997 through July 2013, the USGS/NEIC produced monthly catalogs of large routine explosions and planned roof collapses at mines and quarries in the United States.   Events in these  catalogs were not included in the regular USGS/NEIC catalog of seismic events.  Beginning in August 2013, routine mining-associated events have been listed in the same <a href="/earthquakes/search/">on-line catalog</a> as earthquakes, rather than in separate catalogs.  The current on-line catalog also lists, for some regions of the U.S., mining events that were located by regional networks prior to August 2013 and that were not originally listed in catalogs produced by the USGS/NEIC.
     </p>
 
     <h3>Data</h3>
@@ -28,7 +28,7 @@
           <a href="ftp://hazards.cr.usgs.gov/NEICPDE/olderPDEdata/mineblast/mchedr/">Data in MCHEDR Format (1997-July 2013)</a> - file names are mchedrYYMM.dat.Z
         </li>
         <li>
-          <a href="/earthquakes/search/">Data (July 2013-Present)</a> - select Advanced Options - Event Type - Non-Earthquakes
+          <a href="/earthquakes/search/">Data (August 2013-Present)</a> - select Advanced Options - Event Type - Non-Earthquakes
         </li>
       </ul>
     </p>
