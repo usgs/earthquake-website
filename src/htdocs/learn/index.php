@@ -98,7 +98,6 @@
       <ul>
         <li><a href="publications/pubs_factsheets.php">Fact Sheets</a></li>
         <li><a href="publications/pubs_geninfo.php">General Information</a></li>
-        <li><a href="publications/pubs_infoservices.php">Information Services</a></li>
         <li><a href="publications/pubs_maps.php">Maps</a></li>
         <li><a href="publications/pubs_multimedia.php">Multimedia</a></li>
         <li><a href="publications/pubs_ofr_bull_circ.php">Open-File Reports, Bulletins, Circulars</a></li>
