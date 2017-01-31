@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Justin Rubenstein
-// Last modified: Lisa Wald, 2016/08/22
 if (!isset($TEMPLATE)) {
   $TITLE = 'Induced Earthquakes';
   $NAVIGATION = true;
@@ -15,7 +14,11 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Choy, G. L., Rubinstein, J. L., Yeck, W. L., McNamara, D. E., Mueller, C. S., Boyd, O. S., 2016, A Rare Moderate-Sized (Mw 4.9) Earthquake in Kansas: Rupture Process of the Milan, Kansas, Earthquake of 12 November 2014 and Its Relationship to Fluid Injection, Seismol. Res. Letters, v. 87, p. 1-9,   DOI: 10.1785/0220160100.
+    Choy, G. L., Rubinstein, J. L., Yeck, W. L., McNamara, D. E., Mueller, C. S., Boyd, O. S. (<strong>2016</strong>) A Rare Moderate-Sized (Mw 4.9) Earthquake in Kansas: Rupture Process of the Milan, Kansas, Earthquake of 12 November 2014 and Its Relationship to Fluid Injection, Seismol. Res. Letters, v. 87, p. 1-9,   DOI: 10.1785/0220160100.
+  </li>
+
+  <li>
+    NJ van der Elst, MT Page, DA Weiser, THW Goebel, SM Hosseini (<strong>2016</strong>),  <a href="http://onlinelibrary.wiley.com/doi/10.1002/2016JB012818/abstract">Induced earthquake magnitudes are as large as (statistically) expected</a>, Journal of Geophysical Research: Solid Earth 121 (6), 4575–4590.
   </li>
 
   <li>
