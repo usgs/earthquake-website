@@ -3,7 +3,7 @@
 // Contact: Lisa Wald
   if (!isset($TEMPLATE)) {
     $TITLE = 'Earthquakes for Kids';
-    $NAVIGATION = true;
+    $NAVIGATION = false;
     $HEAD = '<link rel="stylesheet" href="index.css"/>';
     include 'template.inc.php';
   }
@@ -82,7 +82,7 @@
   </figure>
 
   <div class="text orange">
-    <a href="../topics.php"><h2>Learning Links</h2></a>
+    <a href="kidsLearningLinks.php"><h2>Learning Links</h2></a>
   </div>
 
   <div class="text lime">
