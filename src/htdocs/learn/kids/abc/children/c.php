@@ -4,7 +4,7 @@
   if (!isset($TEMPLATE)) {
     $TITLE = 'Earthquake ABC - Children&apos;s Book';
     $NAVIGATION = true;
-    $HEAD = '<link rel="stylesheet" href="styles.css"/>';
+    $HEAD = '<link rel="stylesheet" href="../styles.css"/>';
     include 'template.inc.php';
   }
 ?>
@@ -12,7 +12,7 @@
 <div class='row'>
     <div class='column one-of-five'>
       <?php
-      include 'jumpmenu.inc.php';
+      include '../jumpmenu.inc.php';
       ?>
     </div>
 

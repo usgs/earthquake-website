@@ -17,9 +17,9 @@
     </div>
 
     <div class='column four-of-five'>
-      <img src="../images/O.gif" alt="childs drawing of the letter O and an innertube and the ocean surface below">
+      <img src="../images/U.gif" alt="childs drawing of the letter U and two boulders next to each other">
       <p>
-        <strong>O is for OCEAN.</strong> Sometimes earthquakes occur beneath the ocean. <small>- Linda</small>
+        <strong>U is for UPLIFT.</strong> Some of the rocks push in to each other when there is an earthquake. <small>- Linda</small>
       </p>
     </div>
 </div>

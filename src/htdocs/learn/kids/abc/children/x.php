@@ -17,9 +17,9 @@
     </div>
 
     <div class='column four-of-five'>
-      <img src="../images/O.gif" alt="childs drawing of the letter O and an innertube and the ocean surface below">
+      <img src="../images/X.gif" alt="childs drawing of the letter X and a slanting building with x-shaped cracks">
       <p>
-        <strong>O is for OCEAN.</strong> Sometimes earthquakes occur beneath the ocean. <small>- Linda</small>
+        <strong>X is for X-SHAPED CRACKS.</strong> When it is an earthquake and a building has x-shaped cracks in the wall, that means that in the next earthquake, it is about to fall. <small>- Trina</small>
       </p>
     </div>
 </div>
