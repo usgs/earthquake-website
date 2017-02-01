@@ -26,6 +26,8 @@ if (!isset($TEMPLATE)) {
         <img class='nehrp' src="images-home/latesteqs-300.jpg" width="150" alt=""/>
       </a>
       Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
+      <br/><br/>
+      <strong><a href="/data/dyfi/">Did You Feel It? Report it Here!</a></strong>
     </p>
 
     <!-- Significant EQs List -->
