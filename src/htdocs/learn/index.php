@@ -3,7 +3,7 @@
 // Contact: Lisa Wald
   if (!isset($TEMPLATE)) {
     $TITLE = 'Learn';
-    $NAVIGATION = true;
+    $NAVIGATION = false;
     include 'template.inc.php';
   }
 ?>
