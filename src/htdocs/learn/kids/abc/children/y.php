@@ -17,9 +17,9 @@
     </div>
 
     <div class='column four-of-five'>
-      <img src="../images/O.gif" alt="childs drawing of the letter O and an innertube and the ocean surface below">
+      <img src="../images/Y.gif" alt="childs drawing of the letter Y and people under tables yelling">
       <p>
-        <strong>O is for OCEAN.</strong> Sometimes earthquakes occur beneath the ocean. <small>- Linda</small>
+        <strong>Y is for YELL.</strong>When somebody is hurt, I yell for help. When I get hurt, my mom yells for help too. And my sister does the same. My dad calls us after everytime it's an earthquake. My grandma does too. <small>- Laura</small>
       </p>
     </div>
 </div>
