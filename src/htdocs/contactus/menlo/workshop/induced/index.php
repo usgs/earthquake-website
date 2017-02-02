@@ -115,7 +115,7 @@ if (isSet($_POST['submit'])) { // user submitted form
     </figure>
 
     <h3>Agenda</h3>
-    <p>Check back soon for the agenda.</p>
+    <p><a href="ISGM-Workshop-Agenda.pdf">Workshop Agenda</a></p>
 
     <h3>Presentation Guidelines</h3>
     <p>Anyone is welcome to bring a poster; please let us know the title (below). Posters should be no larger than 4&rsquo;x6&rsquo; (AGU size).</p>
