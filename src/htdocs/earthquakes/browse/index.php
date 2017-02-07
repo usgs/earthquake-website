@@ -21,7 +21,7 @@
 
     <div class="alert">
       <h3>United States</h3>
-      <ul class="no-style">
+      <ul>
       <!-- removed until an agreement is reached on the US List
         <li>
           <a href="/earthquakes/states/10_largest_us.php">Top 20 Largest</a>
@@ -36,7 +36,7 @@
       </ul>
 
       <h3>World</h3>
-      <ul class="no-style">
+      <ul>
         <!--<li><a href="10-largest-world.php">10 Largest</a></li>-->
         <li>
           <a href="largest-world.php">Top 20 Largest</a>
@@ -63,7 +63,7 @@
       <!--
 
       <h3>United States</h3>
-      <ul class="no-style">
+      <ul>
         <li><a href="us-m6.php">Magnitude 6+</a></li>
         <li><a href="us-m5.php">Magnitude 5+</a></li>
         <li><a href="">Significant Earthquakes</a></li>
@@ -71,7 +71,7 @@
     -->
 
       <h3>World</h3>
-      <ul class="no-style">
+      <ul>
         <li><a href="m8-world.php">Magnitude 8+</a></li>
         <li><a href="m7-world.php">Magnitude 7+</a></li>
         <li><a href="m6-world.php">Magnitude 6+</a></li>
@@ -101,7 +101,7 @@
       <p>Longitude:</p>
       <p>OR</p>
       <p>INSERT MAP LOCATION WIDGET HERE</p>
-      <ul class="no-style">
+      <ul>
         <li>Magnitude 8+ within 250km</li>
         <li>Magnitude 7+ within 100km</li>
         <li>Magnitude 6+ within 50km</li>
