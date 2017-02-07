@@ -54,10 +54,8 @@
 
     <h2>Hazard Tools</h2>
 
-<!--
     <a href="/hazards/interactive/">Unified Hazard Tool - BETA</a>
-    <p>Need description.</p>
--->
+    <p>Will eventually replace most of the individual tools listed below.</p>
 
     <a href="http://geohazards.usgs.gov/hazards/apps/cmaps/">
       <img class='tool' src="images/cmaps.gif" width="75" alt=""/>

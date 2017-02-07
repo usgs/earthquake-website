@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Bill Leith, leith@usgs.gov
-  // Last modified: 06/23/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
       $TITLE = 'SESAC Reports';
       $NAVIGATION = true;
@@ -10,6 +9,9 @@
 ?>
 
 <ul>
+  <li>
+    <a href="dics/SESAC_Report_AEMWG.January 2017">2016 Special Letter</a>
+  </li>
 <li>
   <a href="docs/sesac_15report.pdf">2015 Annual Report</a> (PDF) | <a href="docs/SESAC_SpecialLetter_Sept23.pdf">Special Supplement</a><br/>
 </li>
