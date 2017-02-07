@@ -10,7 +10,7 @@
 
 <ul>
   <li>
-    <a href="dics/SESAC_Report_AEMWG.January 2017">2016 Special Letter</a>
+    <a href="docs/SESAC_Report_AEMWG.January 2017">2016 Special Letter</a>
   </li>
 <li>
   <a href="docs/sesac_15report.pdf">2015 Annual Report</a> (PDF) | <a href="docs/SESAC_SpecialLetter_Sept23.pdf">Special Supplement</a><br/>
