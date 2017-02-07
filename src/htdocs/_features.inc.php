@@ -54,6 +54,15 @@ $EQ_FEATURES->baseUrl = '';
  *               strtotime('2014-10-31')
  *
  */
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-02-07',
+   'title' => 'Community Announcement: USGS Ground Motion Study in the Walnut Creek/Concord Area Looking for Volunteers',
+   'content' => 'The U. S. Geological Survey is seeking volunteers to host temporary seismic stations in the Walnut Creek/Pleasant Hill/Concord California area. Volunteers will be assisting with a new ground motion study that will begin in March 2017.',
+   'link' => 'https://www.usgs.gov/news/community-announcement-usgs-ground-motion-study-walnut-creekconcord-area-looking-volunteers',
+   'modified' => strtotime('2017-02-07'),
+   'thumbnail' => '/images-featured/bitterroot.gif',
+   'image' => '/images-featured/bitterroot.gif'
+ );
 
  $EQ_FEATURES->items[] = array(
    'id' => '2017-01-23',
@@ -61,8 +70,8 @@ $EQ_FEATURES->baseUrl = '';
    'content' => 'The USGS’ National Geospatial Program is in year one of an 8-year program to create the first publicly available, national 3D elevation map using lidar. lidar shows not only vegetation and objects on the land’s surface, but the structures beneath such as fault lines.',
    'link' => 'https://www.usgs.gov/news/maps-made-light-show-way',
    'modified' => strtotime('2017-01-23'),
-   'thumbnail' => '/images-featured/bitterroot.gif',
-   'image' => '/images-featured/bitterroot.gif'
+   'thumbnail' => '/images-featured/K2.jpg',
+   'image' => '/images-featured/K2.jpg'
  );
 
  $EQ_FEATURES->items[] = array(
