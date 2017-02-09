@@ -8,7 +8,7 @@ $EQ_FEATURES = new Features();
 $EQ_FEATURES->id = 'usgs_earthquake_home';
 $EQ_FEATURES->title = 'USGS Earthquake Hazards Program Featured Items';
 $EQ_FEATURES->author = 'U.S. Geological Survey';
-$EQ_FEATURES->siteUrl = 'http://earthquake.usgs.gov/';
+$EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 /**

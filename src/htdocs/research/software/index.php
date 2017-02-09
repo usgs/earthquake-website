@@ -60,7 +60,7 @@ See how our applications work and collaborate with us at <a href="http://github.
 <ul class="no-style separator linklist">
   <li class="first">
     <h2 id="3DFM">3D focal mechanisms</h2>
-    <a href="http://pubs.usgs.gov/ds/2007/241/">
+    <a href="https://pubs.usgs.gov/ds/2007/241/">
       <img src="images/3DFM.jpg" alt="3DFM Logo" width="146" height="100"/>
     </a>
     <table>
@@ -94,7 +94,7 @@ See how our applications work and collaborate with us at <a href="http://github.
       </tr>
      <tr>
         <th>Download:</th>
-        <td><a href="http://pubs.usgs.gov/ds/2007/241/">See
+        <td><a href="https://pubs.usgs.gov/ds/2007/241/">See
           online documentation</a></td>
       </tr>
     </table>
@@ -436,7 +436,7 @@ into illustration or animation programs for further enhancements.
   </li>
   <li>
     <h2 id="est_noise">est_noise</h2>
-    <a href="http://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">
+    <a href="https://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">
       <img src="images/est_noise.png" alt="Logo" width="150"/>
     </a>
     <table>
@@ -473,7 +473,7 @@ into illustration or animation programs for further enhancements.
       </tr>
       <tr>
         <th>Download</th>
-        <td><a href="http://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">est_noise.tar.gz</a></td>
+        <td><a href="https://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">est_noise.tar.gz</a></td>
       </tr>
     </table>
     <p>
@@ -572,7 +572,7 @@ into illustration or animation programs for further enhancements.
       </tr>
       <tr>
         <th>Manual:</th>
-        <td>Comments in source code; <a href="http://pubs.usgs.gov/of/2015/1009/">Open-File Report</a> and <a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-2016_Graizer_Kalkan_BSSA.pdf">BSSA article</a></td>
+        <td>Comments in source code; <a href="https://pubs.usgs.gov/of/2015/1009/">Open-File Report</a> and <a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-2016_Graizer_Kalkan_BSSA.pdf">BSSA article</a></td>
       </tr>
       <tr>
         <th>Download:</th>
@@ -1367,7 +1367,7 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
   <li>
     <h2 id="SLAMMER">SLAMMER - Seismic Landslide Movement Modeled using Earthquake Records</h2>
-    <a href="http://pubs.usgs.gov/tm/12b1/">
+    <a href="https://pubs.usgs.gov/tm/12b1/">
       <img src="images/SLAMMERicon.jpg" alt="Logo" width="120" height="120"/>
     </a>
     <table>
@@ -1393,7 +1393,7 @@ also supports negative magnitudes, independent S models, and crustal models from
       </tr>
       <tr>
         <th>Download:</th>
-        <td><a href="http://pubs.usgs.gov/tm/12b1/">http://pubs.usgs.gov/tm/12b1/</a></td>
+        <td><a href="https://pubs.usgs.gov/tm/12b1/">https://pubs.usgs.gov/tm/12b1/</a></td>
       </tr>
     </table>
     <p>

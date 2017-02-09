@@ -136,7 +136,7 @@
 		<h2>Specific Project Designs</h2>
 		<ul>
 			<li><a href="http://www.exploratorium.edu/faultline/activezone/activities.html">Ideas from the Exploratorium</a></li>
-			<li><a href="http://www.usgs.gov/faq/categories/9828/3352">Build Your Own Seismometer</a></li>
+			<li><a href="https://www.usgs.gov/faq/categories/9828/3352">Build Your Own Seismometer</a></li>
 			<li><a href="http://jclahr.com/science/earth_science/shake/plans/">Make a Shake Table</a></li>
 	  </ul>
 

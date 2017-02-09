@@ -22,7 +22,7 @@
       password: getPQLX
     </p>
   </li>
-  <li><a href="http://pubs.usgs.gov/of/2010/1292/">User Manual</a></li>
+  <li><a href="https://pubs.usgs.gov/of/2010/1292/">User Manual</a></li>
 </ul>
 
 <p>
@@ -107,10 +107,10 @@
     McNamara, D.E. and R.P. Buland, <a href="http://bssa.geoscienceworld.org/cgi/content/abstract/94/4/1517">Ambient Noise Levels in the Continental United States</a>, Bull. Seism. Soc. Am., 94, 4, 1517-1527, 2004.
   </li>
   <li>
-    McNamara, D. E., R.I. Boaz, Seismic Noise Analysis System, <a href="http://pubs.usgs.gov/of/2005/1438/">Power Spectral Density Probability Density Function: Stand-Alone Software Package</a>, United States Geological Survey Open File Report, NO. 2005-1438, 30p., 2005.
+    McNamara, D. E., R.I. Boaz, Seismic Noise Analysis System, <a href="https://pubs.usgs.gov/of/2005/1438/">Power Spectral Density Probability Density Function: Stand-Alone Software Package</a>, United States Geological Survey Open File Report, NO. 2005-1438, 30p., 2005.
   </li>
   <li>
-    McNamara, D. E., H.M. Benz and W. Leith, <a href="http://pubs.usgs.gov/of/2005/1077/">An Assessment of Seismic Noise Levels for the ANSS Backbone and Selected Regional Broadband Stations</a>, United States Geological Survey, Open-File Report, NO. 2005-1077, 19p., 2005.
+    McNamara, D. E., H.M. Benz and W. Leith, <a href="https://pubs.usgs.gov/of/2005/1077/">An Assessment of Seismic Noise Levels for the ANSS Backbone and Selected Regional Broadband Stations</a>, United States Geological Survey, Open-File Report, NO. 2005-1077, 19p., 2005.
   </li>
   <li>
     McNamara, D.E., R.P. Buland, R.I. Boaz, B. Weertman, and T. Ahern, <a href="https://geohazards.usgs.gov/staffweb/mcnamara/Pubs/papers_pdf/mcnamaraetal_globalnoise.pdf">Ambient Seismic Noise</a>, Seis. Res. Lett., in review, 2005.

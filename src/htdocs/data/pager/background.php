@@ -11,7 +11,7 @@
 	}
 ?>
 
-<p><a href="http://pubs.usgs.gov/fs/2010/3036/">PAGER&ndash;Rapid Assessment of an Earthquake's Impact</a> (USGS Factsheet 2010-3036) </p>
+<p><a href="https://pubs.usgs.gov/fs/2010/3036/">PAGER&ndash;Rapid Assessment of an Earthquake's Impact</a> (USGS Factsheet 2010-3036) </p>
 
 <p>
 	<strong>PAGER</strong> (<strong>P</strong>rompt <strong>A</strong>ssessment of <strong>G</strong>lobal <strong>E</strong>arthquakes for <strong>R</strong>esponse) is an automated system that produces content concerning the impact of significant earthquakes around the world, informing emergency responders, government and aid agencies, and the media of the scope of the potential disaster. PAGER rapidly assesses earthquake impacts by comparing the population exposed to each level of shaking intensity with models of economic and fatality losses based on past earthquakes in each country or region of the world. Earthquake alerts &ndash; which were formerly sent based only on event magnitude and location, or population exposure to shaking &ndash; now will also be generated based on the estimated range of fatalities and economic losses.
@@ -66,7 +66,7 @@
 		After the magnitude and hypocenter of an earthquake are determined, Global ShakeMap retrieves any strong ground motion data and intensities reported by people in the epicenteral region via the online USGS &quot;<a href="/research/dyfi/" title="DYFI?">Did You Feel It?</a>&quot; system. The colored circles show the reported intensity at a city and the circle's size is proportional to population.
 	</li>
 	<li>
-		ShakeMap generates a soil/rock site-specific <a href="http://pubs.usgs.gov/of/2007/1357/" target="_blank" title="Topographic Slope as a Proxy...">ground-motion amplification map based on topographic slope</a>.  This map accounts for the tendency of soft-soil sites to experience stronger ground motion amplification than rock sites.
+		ShakeMap generates a soil/rock site-specific <a href="https://pubs.usgs.gov/of/2007/1357/" target="_blank" title="Topographic Slope as a Proxy...">ground-motion amplification map based on topographic slope</a>.  This map accounts for the tendency of soft-soil sites to experience stronger ground motion amplification than rock sites.
 	</li>
 	<li>
 		Information about the fault geometry and size (black rectangle) is added when it becomes available. The ShakeMap system then produces regional ground shaking estimates (yellow contours) using the reported intensities, the site-specific ground-motion amplification map, and seismic wave attenuation equations that account for the variation of seismic shaking intensity with magnitude, fault distance and depth.

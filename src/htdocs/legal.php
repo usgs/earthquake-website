@@ -7,7 +7,7 @@ if (!isset($TEMPLATE)) {
 ?>
 <ul>
   <li>
-    <a href="http://www.usgs.gov/laws/accessibility.html">
+    <a href="https://www.usgs.gov/laws/accessibility.html">
       Accessibility
     </a>
   </li>
@@ -17,22 +17,22 @@ if (!isset($TEMPLATE)) {
     </a>
   </li>
   <li>
-    <a href="http://www.usgs.gov/foia/">
+    <a href="https://www.usgs.gov/foia/">
       Freedom of Information Act (FOIA)
     </a>
   </li>
   <li>
-    <a href="http://www.usgs.gov/laws/policies_notices.html">
+    <a href="https://www.usgs.gov/laws/policies_notices.html">
       Policies and Notices
     </a>
   </li>
   <li>
-    <a href="http://www.usgs.gov/laws/privacy.html">
+    <a href="https://www.usgs.gov/laws/privacy.html">
       Privacy
     </a>
   </li>
   <li>
-    <a href="http://www.usgs.gov/laws/info_policies.html">
+    <a href="https://www.usgs.gov/laws/info_policies.html">
       USGS
     </a>
   </li>

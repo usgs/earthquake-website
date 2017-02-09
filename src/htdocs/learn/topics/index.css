@@ -1,0 +1,21 @@
+.text {
+    background-color: #fff;
+    width: 250px;
+    height: 100px;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    overflow: hidden;
+    padding: 1em .5em;
+    position: relative;
+}
+
+h3 {
+  margin-top: 1em;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.blue {
+  background-color: #d4eef4;
+}

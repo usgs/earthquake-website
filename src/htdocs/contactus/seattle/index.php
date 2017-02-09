@@ -101,13 +101,13 @@
 	<h2>Regional Interest:</h2>
 		<ul>
 			<li><a href="http://www.pnsn.org/">Pacific Northwest Seismic Network (PNSN)</a></li>
-			<li><a href="http://volcanoes.usgs.gov/observatories/cvo/">Cascades Volcano Observatory</a></li>
+			<li><a href="https://volcanoes.usgs.gov/observatories/cvo/">Cascades Volcano Observatory</a></li>
 			<li><a href="http://www.ess.washington.edu/">University of Washington Department of Earth &amp; Space Sciences</a></li>
 			<li><a href="http://www.geodesy.cwu.edu/">Pacific Northwest Geodetic Array-Central Washington University</a></li>
 			<li><a href="http://www.earthquakescanada.nrcan.gc.ca/index-eng.php">Canada Pacific Geoscience Center</a></li>
 			<li><a href="http://www.crew.org">CREW - Cascadia Region Earthquake Workgroup</a></li>
 			<li><a href="https://www.eeri.org/projects/earthquake-scenarios/seattle-fault-scenario/">Seattle Fault Scenario - EERI</a></li>
-			<li><a href="http://pubs.usgs.gov/fs/2010/3023/">Tacoma Fault Scenario - USGS pub</a></li>
+			<li><a href="https://pubs.usgs.gov/fs/2010/3023/">Tacoma Fault Scenario - USGS pub</a></li>
 			<li>State &amp; Provincial Emergency Management Agencies:
 			<ul>
 				<li><a href="http://mil.wa.gov/">Washington Military Department</a></li>

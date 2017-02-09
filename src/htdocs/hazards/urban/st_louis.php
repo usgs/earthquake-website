@@ -54,7 +54,7 @@ if	(!isset($TEMPLATE))	{
     <a href="/research/external/reports/08HQGR0016.pdf">Comparing the 2002 and 2008 USGS Seismic Hazard Model in the St. Louis Area</a>
   </li>
   <li>
-    <a href="http://pubs.usgs.gov/of/2009/1059/pdf/OF09-1059.pdf">St. Louis Area Earthquake Hazards Mapping Project - A Progress Report-November 2008</a> - USGS OFR 2009-1059
+    <a href="https://pubs.usgs.gov/of/2009/1059/pdf/OF09-1059.pdf">St. Louis Area Earthquake Hazards Mapping Project - A Progress Report-November 2008</a> - USGS OFR 2009-1059
   </li>
   <li>
     <a href="https://pubs.usgs.gov/fs/2009/3071/">2009 Fact Sheet: Earthquake Hazard in the New Madrid Seismic Zone Remains a Concern</a>
@@ -76,10 +76,10 @@ if	(!isset($TEMPLATE))	{
 <h2>Geologic Maps</h2>
 <ul>
   <li>
-    <a href="http://earthquake.usgs.gov/research/external/reports/G09AP00113.pdf">Detailed Surficial Geologic Materials Mapping for the O'Fallon 7.5 Minute Quadrangle</a>
+    <a href="https://earthquake.usgs.gov/research/external/reports/G09AP00113.pdf">Detailed Surficial Geologic Materials Mapping for the O'Fallon 7.5 Minute Quadrangle</a>
   </li>
   <li>
-    <a href="http://earthquake.usgs.gov/research/external/reports/08HQAG0129.pdf">Detailed Surficial Geologic Maps for the Elsah, Grafton, and Alton 7.5' Quadrangles</a>
+    <a href="https://earthquake.usgs.gov/research/external/reports/08HQAG0129.pdf">Detailed Surficial Geologic Maps for the Elsah, Grafton, and Alton 7.5' Quadrangles</a>
   </li>
   <li>
     <a href="/research/external/reports/05HQGR0063.pdf">2008 Liquefaction susceptibility and probabilistic liquefaction potential hazard mapping, St. Louis, Missouri and Illinois</a> (9.9MB PDF)

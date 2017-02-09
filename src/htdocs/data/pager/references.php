@@ -52,7 +52,7 @@ $references = array();
 
 $references['AllenWald2009'] = array(
 	'key' => 'AllenWald2009',
-	'link' => 'http://pubs.usgs.gov/of/2009/1047/',
+	'link' => 'https://pubs.usgs.gov/of/2009/1047/',
 	'authors' => 'Allen, T.I., and D.J. Wald',
 	'year' => '2009',
 	'title' => 'Evaluation of ground-motion modeling techniques for use in ' .
@@ -74,7 +74,7 @@ $references['AllenEtAl2009'] = array(
 );
 $references['AllenWald2007'] = array(
 	'key' => 'AllenWald2007',
-	'link' => 'http://pubs.usgs.gov/of/2007/1357/',
+	'link' => 'https://pubs.usgs.gov/of/2007/1357/',
 	'authors' => 'Allen, T. I., and D. J. Wald',
 	'year' => '2007',
 	'title' => 'Topographic slope as a proxy for seismic site-conditions ' .
@@ -94,7 +94,7 @@ $references['AllenEtAl2009b'] = array(
 );
 $references['AllenEtAl2008a'] = array(
 	'key' => 'AllenEtAl2008a',
-	'link' => 'http://pubs.usgs.gov/of/2008/1236/',
+	'link' => 'https://pubs.usgs.gov/of/2008/1236/',
 	'authors' => 'Allen, T. I., D. J. Wald, A. J. Hotovec, K. Lin, P. S. Earle, and K. D. Marano',
 	'short' => 'Allen, T. I. et al',
 	'year' => '2008',
@@ -112,7 +112,7 @@ $references['AtkinsonWald2007'] = array(
 );
 $references['EarleWald2009'] = array(
 	'key' => 'EarleWald2009',
-	'link' => 'http://pubs.usgs.gov/of/2009/1131/',
+	'link' => 'https://pubs.usgs.gov/of/2009/1131/',
 	'authors' => 'Earle, P.S., Wald, D.J., Jaiswal, K.S., Allen, T.I., ' .
 		'Marano, K.D., Hotovec, A.J., Hearne, M.G., and Fee, J.M',
 	'short' => 'Earle, P.S. et al',
@@ -196,7 +196,7 @@ $references['JaiswalWald2008a'] = array(
 );
 $references['JaiswalWald2008b'] = array(
 	'key' => 'JaiswalWald2008b',
-	'link' => 'http://pubs.usgs.gov/of/2008/1160/',
+	'link' => 'https://pubs.usgs.gov/of/2008/1160/',
 	'authors' => 'Jaiswal, K. S., and Wald, D. J.',
 	'year' => '2008b',
 	'title' => 'Creating a global building inventory for earthquake loss ' .
@@ -213,7 +213,7 @@ $references['JaiswalWald_in_prep'] = array( // Roughly 2009 ???
 );
 $references['JaiswalWald2009a'] = array(
 	'key' => 'JaiswalWald2009a',
-	'link' => 'http://pubs.usgs.gov/of/2009/1136/',
+	'link' => 'https://pubs.usgs.gov/of/2009/1136/',
 	'authors' => 'Jaiswal, K. S., Wald, D. J., and Hearne, M.',
 	'short' => 'Jaiswal, K. S. et al',
 	'year' => '2009a',
@@ -264,7 +264,7 @@ $references['JaiswalWald2010c'] = array(
 );
 $references['JaiswalWald2011'] = array(
 	'key' => 'JaiswalWald2011',
-	'link' => 'http://pubs.usgs.gov/of/2011/1116/',
+	'link' => 'https://pubs.usgs.gov/of/2011/1116/',
 	'authors' => 'Jaiswal, K. S., and Wald, D. J.',
 	'short' => 'Jaiswal, K.S. and Wald, D.J.',
 	'year' => '2011',
@@ -331,7 +331,7 @@ $references['PorterEtAl2008b'] = array(
 );
 $references['VerdinEtAl2007'] = array(
 	'key' => 'VerdinEtAl2007',
-	'link' => 'http://pubs.usgs.gov/of/2007/1188/',
+	'link' => 'https://pubs.usgs.gov/of/2007/1188/',
 	'authors' => 'Verdin, K. L., J. Godt, C. Funk, D. Pedredos, ' .
 		'B. Worstell, and J. Verdin',
 	'short' => 'Verdin, K. et al',
@@ -342,7 +342,7 @@ $references['VerdinEtAl2007'] = array(
 );
 $references['WaldDewey2005'] = array(
 	'key' => 'WaldDewey2005',
-	'link' => 'http://pubs.usgs.gov/fs/2005/3016/',
+	'link' => 'https://pubs.usgs.gov/fs/2005/3016/',
 	'authors' => 'Wald, D., and J. Dewey',
 	'year' => '2005',
 	'title' => 'Did You Feel It? Citizens contribute to earthquake science',
@@ -359,7 +359,7 @@ $references['WaldAllen2007'] = array(
 );
 $references['WaldEtAl2010'] = array(
 	'key' => 'WaldEtAl2010',
-	'link' => 'http://pubs.usgs.gov/fs/2010/3036/',
+	'link' => 'https://pubs.usgs.gov/fs/2010/3036/',
 	'authors' => 'Wald, D.J., Jaiswal, K.S., Marano, K.D., Bausch, D.B., and Hearne, M.G',
 	'short' => 'Wald, D.J. et al',
 	'year' => '2010',
@@ -432,7 +432,7 @@ $references['WaldEtAl2008a'] = array(
 );
 $references['WaldEtAl2008b'] = array(
 	'key' => 'WaldEtAl2008b',
-	'link' => 'http://pubs.usgs.gov/of/2008/1238/',
+	'link' => 'https://pubs.usgs.gov/of/2008/1238/',
 	'authors' => 'Wald, D. J., K. Lin, and V. Quitoriano',
 	'short' => 'Wald, D. J. et al',
 	'year' => '2008',
@@ -629,7 +629,7 @@ $references[''] = array(
 //New reference with no links or keys to table
 $references[''] = array(
         'key' => '',
-	'link' => 'http://pubs.usgs.gov/of/2008/1238/',
+	'link' => 'https://pubs.usgs.gov/of/2008/1238/',
         'authors' => 'Wald, D. J., K. Lin, and V. Quitoriano ',
         'short' => '',
         'year' => '2008',

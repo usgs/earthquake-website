@@ -72,7 +72,7 @@ if (isSet($_POST['submit'])) { // user submitted form
 ?>
 
 <h2>February 13&ndash;14, 2017 (Mon&ndash;Tues)</h2>
-<p><a href="http://online.wr.usgs.gov/calendar/map.html">Rambo Auditorium, Building 3</a>
+<p><a href="https://online.wr.usgs.gov/calendar/map.html">Rambo Auditorium, Building 3</a>
   <br />USGS Menlo Park</p>
 
 <?php
@@ -174,4 +174,4 @@ if (isSet($_POST['submit'])) { // user submitted form
 
 </form>
 
-<p class="privacy"><a href="http://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>
+<p class="privacy"><a href="https://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>

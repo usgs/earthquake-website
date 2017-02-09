@@ -6,7 +6,7 @@ class Features {
   // author for features list.
   public $author = 'U.S. Geological Survey';
   // site url (ends with a /).
-  public $siteUrl = 'http://earthquake.usgs.gov/';
+  public $siteUrl = 'https://earthquake.usgs.gov/';
   // base url for section (ends with a /).
   public $baseUrl;
   // title of features list.

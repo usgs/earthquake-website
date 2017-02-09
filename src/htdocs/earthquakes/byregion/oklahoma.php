@@ -24,7 +24,7 @@
   <li><a href="http://ogs.ou.edu/docs/openfile/OF3-2015.pdf">Preliminary Fault Map of Oklahoma - Oklahoma Geological Survey (PDF)</a></li>
   <li><a href="oklahoma/OKeqanimation.php">Animation of Oklahoma Seismicity</a></li>
   <li><a href="oklahoma/newsrelease_05022014.php">USGS News Release (May 2, 2014)</a>: Record Number of Oklahoma Tremors Raises Possibility of Damaging Earthquakes</li>
-  <li><a href="http://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> (OFR 2015-1070)</li>
+  <li><a href="https://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> (OFR 2015-1070)</li>
   <li><a href="/research/induced/">Induced Earthquakes</a></li>
     <li><a href="http://earthquakes.ok.gov/earthquake-preparedness/">Earthquakes in Oklahoma - Preparedness</a></li>
 </ul>

@@ -31,7 +31,7 @@ if (!isset($TEMPLATE)) {
   With input from scientists, engineers, regulators, industry representatives, and the public the USGS is developing methods to estimate the earthquake hazard from induced earthquakes. Preliminary models display the intensity of potential ground shaking from induced earthquakes for a one-year period based on the seismicity in the previous year. This method is a first step in accounting for the rapid changes in seismicity that we are observing.
 </p>
 <p>
-  The USGS has released a preliminary report on methods to estimate the hazard from induced earthquakes, <a href="http://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> (OFR 2015-1070) and welcomes feedback as work continues towards completion of a seismic hazard model that includes the hazard from induced seismicity.
+  The USGS has released a preliminary report on methods to estimate the hazard from induced earthquakes, <a href="https://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> (OFR 2015-1070) and welcomes feedback as work continues towards completion of a seismic hazard model that includes the hazard from induced seismicity.
 </p>
 
 <figure>

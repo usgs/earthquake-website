@@ -2,7 +2,7 @@
 
 <POLICIES xmlns="http://www.w3.org/2000/12/P3Pv1">
 
-	<POLICY name="ncaworkshops" discuri="http://www.usgs.gov/privacy.html">
+	<POLICY name="ncaworkshops" discuri="https://www.usgs.gov/privacy.html">
 	
 		<ENTITY>
 			<DATA-GROUP>
@@ -14,7 +14,7 @@
 				<DATA ref="#business.contact-info.postal.postalcode">20192</DATA>
 				<DATA ref="#business.contact-info.postal.country">USA</DATA>
 				<DATA ref="#business.contact-info.online.email">privacy@usgs.gov</DATA>
-				<DATA ref="#business.contact-info.online.uri">http://www.usgs.gov/</DATA>
+				<DATA ref="#business.contact-info.online.uri">https://www.usgs.gov/</DATA>
 			</DATA-GROUP>
 		</ENTITY>
 		

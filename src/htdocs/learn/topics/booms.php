@@ -17,7 +17,7 @@
   As it turns out....there are many factors that
   contribute to the &quot;sound' that an earthquake
   makes. To begin to understand these factors we
-  have to understand the <a href="http://www.usgs.gov/faq/?q=categories/9828/3289">different types of waves</a>,
+  have to understand the <a href="https://www.usgs.gov/faq/?q=categories/9828/3289">different types of waves</a>,
   the speed they travel through the earth, and the
   speed that sound travels through the air.
 </p>

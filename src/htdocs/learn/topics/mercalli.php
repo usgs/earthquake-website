@@ -150,5 +150,5 @@
 <HR>
 
 <p>
-  Abridged from <i><a href="http://pubs.usgs.gov/gip/earthq4/severitygip.html">The Severity of an Earthquake</a></i>, USGS General Interest Publication 1989-288-913
+  Abridged from <i><a href="https://pubs.usgs.gov/gip/earthq4/severitygip.html">The Severity of an Earthquake</a></i>, USGS General Interest Publication 1989-288-913
 </p>

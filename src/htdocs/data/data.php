@@ -84,7 +84,7 @@
     		</ul>
     		</li>
     		<li><a href="http://www.iris.edu/data/seismograms/">Aftershock Deployments</a></li>
-    		<li><a href="http://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">General Earthquake Observation System (GEOS)</a></li>
+    		<li><a href="https://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">General Earthquake Observation System (GEOS)</a></li>
       </ul>
     </div>
 
@@ -125,7 +125,7 @@
     		<li><a href="/monitoring/gps/">USGS GPS Time Series and Station Velocities</a></li>
     		<li>Real-time GPS Positions:
     		<ul>
-    			<li><a href="http://escweb.wr.usgs.gov/share/highrate-gps/">San Francisco Bay Area</a></li>
+    			<li><a href="https://escweb.wr.usgs.gov/share/highrate-gps/">San Francisco Bay Area</a></li>
     			<li><a href="http://www.scign.org/realtime/">Southern California</a></li>
     		</ul>
     		</li>
@@ -171,12 +171,12 @@
       	<li><a href="/learn/photos.php">Photographs Showing Ground Failure and Earthquake Damage</a></li>
       	<li>Landslide hazard maps:
       	<ul>
-      		<li><a href="http://landslides.usgs.gov/hazards/nationalmap/">Landslide Overview Map of the Conterminous United States</a></li>
+      		<li><a href="https://landslides.usgs.gov/hazards/nationalmap/">Landslide Overview Map of the Conterminous United States</a></li>
       		<li><a href="http://www.conservation.ca.gov/cgs/rghm/landslides/">California Geological Survey - Caltrans Corridor Landslides Maps </a></li>
       		<li><a href="http://gis.abag.ca.gov/website/Hazards/?hlyr=cgsLndsldZones">California Geological Survey Study Zones: Earthquake-Induced Landslides</a></li>
       	</ul>
       	</li>
-      	<li><a href="http://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">GEOS earthquake and aftershock data</a></li>
+      	<li><a href="https://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">GEOS earthquake and aftershock data</a></li>
     	</ul>
     </div>
 
@@ -211,7 +211,7 @@
     		<li><a href="http://geomaps.wr.usgs.gov/sfgeo/geologic/">San Francisco Bay Region Geology and Geological Hazards</a> (maps)</li>
     		<li>Quaternary Fault Maps (publications):
     		<ul>
-    		<li><a href="http://pubs.usgs.gov/ds/2006/177/">Digital database of recently active traces of the Hayward Fault, California</a></li>
+    		<li><a href="https://pubs.usgs.gov/ds/2006/177/">Digital database of recently active traces of the Hayward Fault, California</a></li>
     		<li><a href="http://pubs.er.usgs.gov/publication/ds541">Recently active traces of the Bartlett Springs Fault, California: a digital database</a></li>
     		</ul>
     		</li>

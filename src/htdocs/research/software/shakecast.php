@@ -146,16 +146,16 @@
     Fraser, W. A., D. J. Wald, and K-W. Lin (2007). Using ShakeMaps and ShakeCast to Prioritize Post-Earthquake Dam Inspections, Proceedings of the Geotechnical Earthquake Engineering and Soil Dynamics Conference IV, Sacramento, CA.
   </li>
   <li>
-    Lin, K.W., and Wald, D.J., 2008, ShakeCast manual: <a href="http://pubs.usgs.gov/of/2008/1158/">U.S. Geological Survey Open-File Report 2008-1158</a>, 90 p.
+    Lin, K.W., and Wald, D.J., 2008, ShakeCast manual: <a href="https://pubs.usgs.gov/of/2008/1158/">U.S. Geological Survey Open-File Report 2008-1158</a>, 90 p.
   </li>
   <li>
-    Wald, David J, and K. Lin (2007). USGS ShakeCast- Automating, Simplifying, and Improving the Use of ShakeMap for Post-Earthquake Decision Making , <a href="http://pubs.usgs.gov/fs/2007/3086/">U.S. Geological Survey Fact Sheet 2007-3086</a>, 6 pages.
+    Wald, David J, and K. Lin (2007). USGS ShakeCast- Automating, Simplifying, and Improving the Use of ShakeMap for Post-Earthquake Decision Making , <a href="https://pubs.usgs.gov/fs/2007/3086/">U.S. Geological Survey Fact Sheet 2007-3086</a>, 6 pages.
   </li>
 	<li>
     Wald, David J., K. Lin, K. Porter, and L. Turner (2008). ShakeCast: Automating and Improving the Use of ShakeMap for Post-Earthquake Decision-Making and Response, Earthquake Spectra, in review.
   </li>
   <li>
-    <a href="http://pubs.usgs.gov/tm/2005/12A01/">Wald, D. J., B. C. Worden, V. Quitoriano, and K. L. Pankow (2005)</a>. ShakeMap Manual: Users Guide, Technical Manual, and Software Guide, USGS Open File Report, 131 pp.
+    <a href="https://pubs.usgs.gov/tm/2005/12A01/">Wald, D. J., B. C. Worden, V. Quitoriano, and K. L. Pankow (2005)</a>. ShakeMap Manual: Users Guide, Technical Manual, and Software Guide, USGS Open File Report, 131 pp.
   </li>
 	<li>
     Wald, D. J., K. Lin, B. Worden, and L. Turner (2006). ShakeCast: Facilitating the Use of ShakeMap for Post-Earthquake Decision-Making and Response within Caltrans and other Critical Lifeline Communities, September 2006, Proceedings of the Fifth National Seismic Conference on Bridges &amp; Highways, San Francisco.

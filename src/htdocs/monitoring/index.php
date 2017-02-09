@@ -93,7 +93,7 @@
       <ul>
         <li><a href="http://www.aeic.alaska.edu/" target="_blank">Alaska Earthquake Information Center</a></li>
         <li><a href="http://www.avo.alaska.edu/" target="_blank">Alaska Volcano Observatory</a></li>
-        <li><a href="http://volcanoes.usgs.gov/observatories/cvo/" target="_blank">Cascades Volcano Observatory</a></li>
+        <li><a href="https://volcanoes.usgs.gov/observatories/cvo/" target="_blank">Cascades Volcano Observatory</a></li>
         <li><a href="http://www.cisn.org/" target="_blank">California Integrated Seismic Network (CISN)</a></li>
         <li><a href="http://hvo.wr.usgs.gov/seismic/volcweb/earthquakes/" target="_blank">Hawaii Volcano Observatory</a></li>
         <li><a href="http://mbmgquake.mtech.edu/" target="_blank">Montana Bureau of Mines and Geology</a></li>

@@ -11,7 +11,7 @@
 
 <h2>Additional Resources</h2>
 <ul>
-  <li><a href="http://earthquake.usgs.gov/learn/topics/wasatch/">How Big and How Frequent Are Earthquakes on the Wasatch Fault?</a><br/>
+  <li><a href="https://earthquake.usgs.gov/learn/topics/wasatch/">How Big and How Frequent Are Earthquakes on the Wasatch Fault?</a><br/>
     -the investigation of some paleo-earthquake sites along the Wasatch fault zone in Utah
   </li>
   <li><a href="/learn/preparedness.php">Earthquake Preparedness</a>

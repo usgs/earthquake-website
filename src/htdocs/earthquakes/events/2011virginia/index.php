@@ -34,14 +34,14 @@
     <p>Tectonic summary, maps and data.</p>
   </li>
   <li>
-    <a href="http://earthquake.usgs.gov/earthquakes/eventpage/se609212#dyfi">
+    <a href="https://earthquake.usgs.gov/earthquakes/eventpage/se609212#dyfi">
       <h4>Did You Feel It? Map</h4>
       <img src="images/dyfi.jpg" alt="" width="150px"/>
     </a>
     <p>Shaking from the earthquake reported by citizen scientists.</p>
   </li>
   <li>
-    <a href="http://earthquake.usgs.gov/earthquakes/eventpage/se609212#shakemap">
+    <a href="https://earthquake.usgs.gov/earthquakes/eventpage/se609212#shakemap">
       <h4>ShakeMap</h4>
       <img src="images/shakemap.jpg" alt="" width="150px">
     </a>
@@ -95,7 +95,7 @@
 
 <ul class="no-style linklist">
   <li>
-    <a href="http://pubs.usgs.gov/of/2006/1017/">
+    <a href="https://pubs.usgs.gov/of/2006/1017/">
       <h4>Earthquakes in Virginia and Vicinity 1774 &mdash; 2004</h4>
       <img src="images/mapthb.jpg" alt="" width="150px"/>
     </a>

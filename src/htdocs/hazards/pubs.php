@@ -9,13 +9,13 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <ul class='referencelist'>
-  <li> Petersen, Mark D., Stephen C. Harmsen, Kenneth S. Rukstales, Charles S. Mueller, Daniel E. McNamara, Nicolas Luco, and Melanie Walling, (2012).&nbsp;<a href="http://pubs.usgs.gov/of/2012/1087/" target="_blank">Seismic Hazard of American Samoa and Neighboring South Pacific Islands - Data, Methods, Parameters, and Results</a>&nbsp;</li>
+  <li> Petersen, Mark D., Stephen C. Harmsen, Kenneth S. Rukstales, Charles S. Mueller, Daniel E. McNamara, Nicolas Luco, and Melanie Walling, (2012).&nbsp;<a href="https://pubs.usgs.gov/of/2012/1087/" target="_blank">Seismic Hazard of American Samoa and Neighboring South Pacific Islands - Data, Methods, Parameters, and Results</a>&nbsp;</li>
 
   <li>Frankel, A. D., C. S. Mueller, T. P. Barnhard, E. V. Leyendecker, R. L. Wesson, S. C. Harmsen, F. W. Klein, D. M. Perkins, N. C. Dickman, S. L. Hanson, and M. G. Hopper (2000).&nbsp;USGS National Seismic Hazard Maps, Earthquake Spectra, &nbsp;Professional Journal of the Earthquake Engineering Research Institute, Vol. 16, No. 1, February 2000.</li>
 
   <li>Arnold, Edward, (1989).&nbsp;Program SEISRISK III Adapted to Personal computers: &nbsp;Open-File Report 89-557.</li>
 
-  <li>Frankel, Arthur D., Mark D. Petersen, Charles S. Mueller, Kathleen M. Haller, Russell L. Wheeler, E. V. Leyendecker, Robert L. Wesson, Stephen C. Harmsen, Chris H. Cramer, David M. Perkins, and Kenneth S. Rukstales,&nbsp;<a href="http://pubs.usgs.gov/of/2002/ofr-02-420/" target="_blank">Documentation for the 2002 Update of the National Seismic Hazard Maps,</a>&nbsp;Open-file Report 02-420.</li>
+  <li>Frankel, Arthur D., Mark D. Petersen, Charles S. Mueller, Kathleen M. Haller, Russell L. Wheeler, E. V. Leyendecker, Robert L. Wesson, Stephen C. Harmsen, Chris H. Cramer, David M. Perkins, and Kenneth S. Rukstales,&nbsp;<a href="https://pubs.usgs.gov/of/2002/ofr-02-420/" target="_blank">Documentation for the 2002 Update of the National Seismic Hazard Maps,</a>&nbsp;Open-file Report 02-420.</li>
 
   <li>Bender, Bernice and Perkins, David, (1987).&nbsp;SEISRISK III: A Computer Program for Seismic Hazard Estimation: &nbsp;U.S. Geological Survey BULLETIN 1772.</li>
 
@@ -51,7 +51,7 @@ if (!isset($TEMPLATE)) {
 
   <li>Frankel, Arthur, Mueller, Charles, Barnhard, Theodore, Perkins, David, Leyendecker, E.V., Dickman, Nancy, Hanson, Stanley, and Hopper, Margaret, (1996).&nbsp;<a href="http://pubs.er.usgs.gov/usgspubs/ofr/ofr96532" target="_blank">National Seismic Hazard Maps, June 1996, Documentation:</a>&nbsp;U.S. Geological Survey, Open-File Report 96-532, 100 p.</li>
 
-  <li>Hanson, Stanley L. and Perkins, David M., (1995).&nbsp;<a href="http://pubs.usgs.gov/of/1995/257/" target="_blank">Seismic sources and recurrence rates as adopted by USGS staff for the production of the 1982 and 1990 probabilistic ground motion maps for Alaska and the conterminous United States:</a>&nbsp;U.S. Geological Survey, Open-file Report 95-257.</li>
+  <li>Hanson, Stanley L. and Perkins, David M., (1995).&nbsp;<a href="https://pubs.usgs.gov/of/1995/257/" target="_blank">Seismic sources and recurrence rates as adopted by USGS staff for the production of the 1982 and 1990 probabilistic ground motion maps for Alaska and the conterminous United States:</a>&nbsp;U.S. Geological Survey, Open-file Report 95-257.</li>
 
   <li>Hanson, Stanley, Thenhaus, Paul, Chapman-Wilbert, Michelle, and Perkins, David, (1992).&nbsp;Analyst's Manual for USGS Seismic Hazard Programs Adapted to the Macintosh Computer System: &nbsp;U. S. Geological Survey Open-File Report 92-529.</li>
 
@@ -59,23 +59,23 @@ if (!isset($TEMPLATE)) {
 
   <li>Harmsen, S., (2001).&nbsp;<a href="http://bssa.geoscienceworld.org/cgi/content/full/91/6/1537" target="_blank">Mean and modal epsilon in the deaggregation of probabilistic ground motion,</a>&nbsp;Bull. Seism. Soc. Am. 91, 1537-1552.</li>
 
-  <li>Harmsen, S.C., Frankel, A. D., and Petersen, M. D., (2003).&nbsp;<a href="http://pubs.usgs.gov/of/2003/ofr-03-440/ofr-03-440.pdf" target="_blank">Deaggregation of U.S. Seismic Hazard Sources: The 2002 Update,</a>&nbsp;U.S. Geological Survey Open-File Report 03-440.</li>
+  <li>Harmsen, S.C., Frankel, A. D., and Petersen, M. D., (2003).&nbsp;<a href="https://pubs.usgs.gov/of/2003/ofr-03-440/ofr-03-440.pdf" target="_blank">Deaggregation of U.S. Seismic Hazard Sources: The 2002 Update,</a>&nbsp;U.S. Geological Survey Open-File Report 03-440.</li>
 
   <li>Harmsen, Stephen, Perkins, David, and Frankel, Arthur, (1999).&nbsp;<a href="http://www.bssaonline.org/cgi/content/abstract/89/1/1" target="_blank">Deaggregation of Probabilistic Ground Motions in the Central and Eastern United States: </a>&nbsp;Bulletin of the Seismological Society of America, Vol. 89, No. 1, pp. 1-13, February 1999.</li>
 
   <li>Leyendecker, E.V., Algermissen, S.T., and Frankel, A.D., (1994).&nbsp;Use of spectral response maps and uniform hazard response spectra in building codes: &nbsp;Proceedings of the 5th U.S. Conference on Earthquake Engineering, v. IV, p. 379-387, Earthquake Research Institute.</li>
 
-  <li>Leyendecker, E.V., Perkins, D.M., Algermissen, S.T., Thenhaus, P.C., and Hanson, S.L., (1995).&nbsp;<a href="http://pubs.usgs.gov/of/1995/596/" target="_blank">USGS spectral response maps and their relationship with seismic design forces in building codes:</a>&nbsp;U.S. Geological Survey, Open-File Report 95-596.</li>
+  <li>Leyendecker, E.V., Perkins, D.M., Algermissen, S.T., Thenhaus, P.C., and Hanson, S.L., (1995).&nbsp;<a href="https://pubs.usgs.gov/of/1995/596/" target="_blank">USGS spectral response maps and their relationship with seismic design forces in building codes:</a>&nbsp;U.S. Geological Survey, Open-File Report 95-596.</li>
 
   <li>M.D. Petersen, C.H. Cramer, T. R. Toppozada, M. Reichle, and J.D. Davis, (1999). &nbsp;<a href="http://www.bssaonline.org/cgi/content/abstract/89/4/867" target="_blank">The calculation of expected loss using probabilistic seismic hazard,</a>&nbsp;Bull. Seis. Soc. Amer, 89, 867-876.</li>
 
-  <li>Mueller, C.S., A.D. Frankel, M.D. Petersen, E.V. Leyendecker, (2003).&nbsp;<a href="http://pubs.usgs.gov/of/2003/ofr-03-379/" target="_blank">Documentation for 2003 USGS seismic hazard maps for Puerto Rico and the U.S. Virgin Islands,</a>&nbsp;U.S. Geological Survey Open-File Report 03-379.</li>
+  <li>Mueller, C.S., A.D. Frankel, M.D. Petersen, E.V. Leyendecker, (2003).&nbsp;<a href="https://pubs.usgs.gov/of/2003/ofr-03-379/" target="_blank">Documentation for 2003 USGS seismic hazard maps for Puerto Rico and the U.S. Virgin Islands,</a>&nbsp;U.S. Geological Survey Open-File Report 03-379.</li>
 
-  <li>Mueller, Charles, Hopper, Margaret, and Frankel, Arthur, (1997).&nbsp;<a href="http://pubs.usgs.gov/of/1997/464/" target="_blank">Preparation of Earthquake Catalogs for the National Seismic-Hazard Maps: Contiguous 48 States:</a>&nbsp;U.S. Geological Survey, Open-File Report 97-464.</li>
+  <li>Mueller, Charles, Hopper, Margaret, and Frankel, Arthur, (1997).&nbsp;<a href="https://pubs.usgs.gov/of/1997/464/" target="_blank">Preparation of Earthquake Catalogs for the National Seismic-Hazard Maps: Contiguous 48 States:</a>&nbsp;U.S. Geological Survey, Open-File Report 97-464.</li>
 
   <li>Perkins, David M., (2000).&nbsp;<a href="http://nd.water.usgs.gov/pubs/ofr/ofr01324/" target="_blank">Fuzzy sources, maximum likelihood, and the new methodology,</a>&nbsp;in Seismicity modeling in seismic hazard mapping, Workshop Proceedings, Poljce, Slovenia, May 2224, 2000, Geological Survey, Republic of Slovenia, p. 6775. Also in A unified approach toward probabilistic risk assessment for earthquakes, floods, landslides, and volcanoes, Proceedings of a Multidisciplinary Workshop held in Golden, Colorado, November 16-17, 1999, Compiled by Aldo V. Vecchia, U.S. Geological Survey Open-File Report 01-324, p. 4756.</li>
 
-  <li>Petersen, M.D., and others, (2008).&nbsp;<a href="http://pubs.usgs.gov/fs/2008/3017/" target="_blank">United States National Seismic Hazard Maps:</a>&nbsp;U.S. Geological Survey Fact Sheet 2008-3017, 4p.</li>
+  <li>Petersen, M.D., and others, (2008).&nbsp;<a href="https://pubs.usgs.gov/fs/2008/3017/" target="_blank">United States National Seismic Hazard Maps:</a>&nbsp;U.S. Geological Survey Fact Sheet 2008-3017, 4p.</li>
 
   <li>Petersen, M.D., B.K. Rastogi, E.S. Schweig, S. Harmsen, and J.S. Gomberg, (2004).&nbsp;Sensitivity of seismic hazard for the northwestern portion of the state of Gujarat, India, &nbsp;Tectonophysics, 390, 105-115.</li>
 
@@ -87,7 +87,7 @@ if (!isset($TEMPLATE)) {
 
   <li>Rogers, A.M. ,and Perkins, D.M., (1996).&nbsp;<a href="http://www.bssaonline.org/cgi/content/abstract/86/1A/79" target="_blank">Monte Carlo simulation of peak-acceleration attenuation using a finite-fault uniform-patch model including isochron and extremal characteristics:</a>&nbsp;Bulletin of the Seismological Society of America, v. 86, p. 79-92.</li>
 
-  <li>Russell L. Wheeler and David M. Perkins, (2000).&nbsp;<a href="http://pubs.usgs.gov/of/2000/ofr-00-0390/" target="_blank">Research, methodology, and applications of probabilistic seismic-hazard mapping of the central and eastern United States - Minutes of a workshop on June 13-14, 2000, at Saint Louis University :</a>&nbsp;U.S. Geological Survey, Open-File Report 00-0390.</li>
+  <li>Russell L. Wheeler and David M. Perkins, (2000).&nbsp;<a href="https://pubs.usgs.gov/of/2000/ofr-00-0390/" target="_blank">Research, methodology, and applications of probabilistic seismic-hazard mapping of the central and eastern United States - Minutes of a workshop on June 13-14, 2000, at Saint Louis University :</a>&nbsp;U.S. Geological Survey, Open-File Report 00-0390.</li>
 
   <li>Wesson, Robert L, Bakun, William H, and Perkins, David M, (2003).&nbsp;<a href="http://www.bssaonline.org/cgi/content/abstract/93/3/1306" target="_blank">Association of Earthquakes and Faults in the San Francisco Bay Area Using Bayesian Inference,</a>&nbsp;Bull Seis Soc Am, v. 93, n.3, p. 1306–1332.</li>
 
@@ -97,7 +97,7 @@ if (!isset($TEMPLATE)) {
 
   <li>Wesson, Robert, Frankel, Arthur, Mueller, Charles, and Harmsen, Stephen, (1999).&nbsp;<a href="http://pubs.er.usgs.gov/usgspubs/ofr/ofr9936" target="_blank">Probabilistic Seismic Hazard Maps of Alaska:</a>&nbsp;U.S. Geological Survey, File Report 99-36.</li>
 
-  <li>Wesson, Robert, Frankel, Arthur, Mueller, Charles, and Harmsen, Stephen, (1999). &nbsp;<a href="http://pubs.usgs.gov/imap/i-2679/" target="_blank">Probabilistic Seismic Hazard Maps of Alaska:</a>&nbsp;U.S. Geological Survey, Miscellaneous Investigations Series I-2679.</li>
+  <li>Wesson, Robert, Frankel, Arthur, Mueller, Charles, and Harmsen, Stephen, (1999). &nbsp;<a href="https://pubs.usgs.gov/imap/i-2679/" target="_blank">Probabilistic Seismic Hazard Maps of Alaska:</a>&nbsp;U.S. Geological Survey, Miscellaneous Investigations Series I-2679.</li>
 
   <li>Wheeler, Russell L., (1995).&nbsp;<a href="http://geology.geoscienceworld.org/cgi/content/abstract/23/2/105" target="_blank">Earthquakes and the cratonward limit of Iapetan faulting in eastern North America:</a>&nbsp;Geology, v. 23, no. 2, p. 105-108.</li>
 

@@ -106,6 +106,6 @@
 <h2>Related Links</h2>
 <ul>
   <li>News Stories about the Earthquake Quartet: <a href="http://archives.cnn.com/2000/SHOWBIZ/Music/02/05/earthquake.music/index.html">CNN</a>, <a href="smtimes.php">Associated Press/San Mateo County Times</a></li>
-  <li><a href="http://earthquake.usgs.gov/learn/listen/">Listen to Earthquakes</a>: Learn about seismology by listening to seismograms</li>
-  <li>The PIEQF Installation <a href="http://pieqf.allshookup.org/">web site</a> and <a href="http://earthquake.usgs.gov/research/parkfield/shake/">USGS page</a><a href="http://earthquake.usgs.gov/research/parkfield/shake/"></a>.</li>
+  <li><a href="https://earthquake.usgs.gov/learn/listen/">Listen to Earthquakes</a>: Learn about seismology by listening to seismograms</li>
+  <li>The PIEQF Installation <a href="http://pieqf.allshookup.org/">web site</a> and <a href="https://earthquake.usgs.gov/research/parkfield/shake/">USGS page</a><a href="https://earthquake.usgs.gov/research/parkfield/shake/"></a>.</li>
 </ul>

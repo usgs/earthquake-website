@@ -76,7 +76,7 @@ if (!isset($TEMPLATE)) {
     McNamara, D. E., H. M. Benz, R. B. Herrmann, E. A. Bergman, P. Earle, A. Holland, R. Baldwin, and A. Gassner (<strong>2015</strong>), Earthquake hypocenters and focal mechanisms in central Oklahoma reveal a complex system of reactivated subsurface strikeslip faulting, <em>Geophysical Research Letters, http://dx.doi. org/10.1002/2014GL062730</em>.
   </li>
   <li>
-    Petersen, M. D. et al. (<strong>2015</strong>), <a href="http://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazards Models: Workshop and Sensitivity Studies</a>, <em>U. S. Geological Survey Open-File Report 2015-1070</em>.
+    Petersen, M. D. et al. (<strong>2015</strong>), <a href="https://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazards Models: Workshop and Sensitivity Studies</a>, <em>U. S. Geological Survey Open-File Report 2015-1070</em>.
   </li>
   <li>
     Rubinstein, J.L. and Mahani, A. B (<strong>2015</strong>), <a href="https://profile.usgs.gov/myscience/upload_folder/ci2015Jun1012005755600Induced_EQs_Review.pdf">Myths and Facts on Wastewater Injection, Hydraulic Fracturing, Enhanced Oil Recovery, and Induced Seismicity</a>, <em>Seismological Research Letters Volume 86, Number 4 July/August 2015, doi: 10.1785/0220150067</em>.
@@ -167,7 +167,7 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Nicholson, C. and R.L. Wesson (<strong>1990</strong>), <a href="http://pubs.usgs.gov/bul/1951/report.pdf">Earthquake hazard associated with deep well injection: A report to the U.S. Environment Protection Agency</a>, <em>US Geological Survey Bulletin 1951, 74pp</em>.
+    Nicholson, C. and R.L. Wesson (<strong>1990</strong>), <a href="https://pubs.usgs.gov/bul/1951/report.pdf">Earthquake hazard associated with deep well injection: A report to the U.S. Environment Protection Agency</a>, <em>US Geological Survey Bulletin 1951, 74pp</em>.
   </li>
 </ul>
 

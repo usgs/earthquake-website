@@ -8,11 +8,11 @@ include 'template.inc.php';
 
 <ul>
   <li>
-    <a href="http://www.usgs.gov/newsroom/contacts.asp">
+    <a href="https://www.usgs.gov/newsroom/contacts.asp">
     USGS News Room</a>
   </li>
   <li>
-    <a href="http://www.usgs.gov/newsroom/interview.asp">
+    <a href="https://www.usgs.gov/newsroom/interview.asp">
     Request an Interview</a>
   </li>
 </ul>
@@ -80,7 +80,7 @@ include 'template.inc.php';
 <h2>Landslides</h2>
 <ul>
   <li>
-    <a href="http://landslides.usgs.gov/">
+    <a href="https://landslides.usgs.gov/">
     USGS Landslide Hazards Program</a><br/>
     1711 Illinois St., Golden, CO 80401, 800-654-4966
   </li>
@@ -89,7 +89,7 @@ include 'template.inc.php';
 <h2>Volcanoes</h2>
 <ul>
   <li>
-    <a href="http://volcanoes.usgs.gov/">
+    <a href="https://volcanoes.usgs.gov/">
     USGS Volcano Hazards Program</a>
   </li>
 </ul>

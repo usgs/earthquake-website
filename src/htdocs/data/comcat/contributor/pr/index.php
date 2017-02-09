@@ -27,7 +27,7 @@ include '../_contributor.inc.php';
 	<li><a href="http://www.snet.gob.sv/" target="_blank">SNET: Servicio Nacional de Estudios Territoriales, El Salvador.</a></li>
 	<li><a href="http://www.ssn.unam.mx/" target="_blank">SSN: Servicio Sismológico Nacional de México, Universidad Autónoma de México, México.</a></li>
 	<li><a href="/contactus/golden/neic.php" target="_blank">USGS/NEIC: United States Geological Survey National Earthquake Information Center, USA.</a></li>
-	<li><a href="http://volcanoes.usgs.gov/" target="_blank">USGS-Volcano: United States Geological Survey Volcano Hazards Program, USA.</a></li>
+	<li><a href="https://volcanoes.usgs.gov/" target="_blank">USGS-Volcano: United States Geological Survey Volcano Hazards Program, USA.</a></li>
 </ul>
 
 <h2 id="mission">Mission</h2>

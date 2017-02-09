@@ -131,7 +131,7 @@
     <!-- SAFRR -->
 
       <li>
-        <a href="http://www.usgs.gov/natural_hazards/safrr/">
+        <a href="https://www.usgs.gov/natural_hazards/safrr/">
           <h4>SAFRR - Improving Resilience to Natural Hazards</h4>
           <img src="images/pas-safrr-2x.jpg" alt="landslide potential after Colby Fire in LA" width="150"/>
         </a>
