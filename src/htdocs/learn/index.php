@@ -29,7 +29,7 @@
         </p>
       </li>
       <li>
-        <a href="topics.php">
+        <a href="topics/">
           <h4>Earthquake Topics</h4>
           <img src="images/main-EQtopics.gif" width="150"/>
         </a>
