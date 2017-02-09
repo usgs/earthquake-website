@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	11/3/2016
+      //	Contact: Andy Michael
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Listening to Multiple Earthquakes';
       $NAVIGATION	= true;
@@ -69,7 +68,7 @@
     <h3>Long Valley Caldera Seismogram</h3>
     <p>
     	<audio controls>
-    		<source src="wavs/MTCM.wav" type="audio/wav"/>
+    		<source src="mp4s/MTCM.mp4" type="audio/wav"/>
     	Your browser does not support the audio element.
     	</audio>
     </p>
@@ -92,14 +91,14 @@
     <h3>Parkfield Seismogram</h3>
     <p>
     	<audio controls>
-    		<source src="wavs/PMMM.wav" type="audio/wav"/>
+    		<source src="mp4s/PMMM.mp4" type="audio/wav"/>
     	Your browser does not support the audio element.
     	</audio>
     </p>
     <h3>Geysers Seismogram</h3>
     <p>
     	<audio controls>
-    		<source src="wavs/GGPM.wav" type="audio/wav"/>
+    		<source src="mp4s/GGPM.mp4" type="audio/wav"/>
     	Your browser does not support the audio element.
     	</audio>
     </p>

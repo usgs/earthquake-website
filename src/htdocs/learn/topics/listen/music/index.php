@@ -19,7 +19,7 @@
   <div>
     <h2><a name="recording"></a>The Recording</h2>
     <audio controls>
-      <source src="eqquartet1m2.mp3" type="audio/mpeg">
+      <source src="eqquartet1m2.mp4" type="audio/mpeg">
     Your browser does not support the audio element.
     </audio>
     <p>A recording was done on February 15, 2000 at the Stanford University  Center for Computer Research in Music and Acoustics with the  musicians from the premiere.  Patricio de la Cuadra was the recording engineer. It is presented here in mp3 format. The earthquake sounds include a lot of bass, so if you don't have good speakers on your computer please try using headphones.</p>
