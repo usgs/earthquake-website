@@ -19,7 +19,7 @@
 		</p>
 	</li>
   <li>
-    <a href="http://earthquake.usgs.gov/data/comcat/">
+    <a href="https://earthquake.usgs.gov/data/comcat/">
       <h4>ComCat Earthquake Catalog</h4>
       <img src="images/comcat150.gif" alt="earthquake search image" width="75px"/>
     </a>

@@ -75,7 +75,7 @@
 
 <ul class="no-style linklist">
 	<li>
-		<a href="http://pubs.usgs.gov/fs/2013/3022/">
+		<a href="https://pubs.usgs.gov/fs/2013/3022/">
 			<h4>UNLV&rsquo;s Environmentally Friendly Science and Engineering Building is Monitored for Earthquake Shaking</h4>
 			<img src="img/fs3022.gif" alt="factsheet 3022"/>
 		</a>

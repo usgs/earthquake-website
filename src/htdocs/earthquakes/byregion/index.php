@@ -28,23 +28,23 @@
 
 <h4>Seismicity of the Earth Open File Reports:</h4>
 <ul>
-	<li><a href="http://pubs.usgs.gov/sim/3064/">Seismicity of the Earth 1900&ndash;2007</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/a/">Seismicity of the Earth 1900&ndash;2010, Caribbean plate and vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/b/">Seismicity of the Earth 1900&ndash;2010, Aleutian arc and vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/c/">Seismicity of the Earth 1900&ndash;2007, Kuril-Kamchatka arc and vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/d/">Seismicity of the Earth 1900&ndash;2007, Japan and vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2015/1031/e/">Seismicity of the Earth 1900&ndash;2013, Nazca plate and South America</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/f/">Seismicity of the Earth 1900&ndash;2010, Mexico and vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/g/">Seismicity  of the Earth 1900&ndash;2010, Australia Plate and Vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/h/">Seismicity  of the Earth 1900&ndash;2010, New Guinea and Vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/i/">Seismicity  of the Earth 1900&ndash;2010, Eastern Margin of the Australia Plate</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/k/">Seismicity of the Earth 1900&ndash;2010, Middle East and Vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/j/">Seismicity of the Earth 1900&ndash;2010, Himalaya and Vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/l/">Seismicity of the Earth 1900&ndash;2012, Sumatra and vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/m/">Seismicity of the Earth 1900&ndash;2012, Philippine Sea Plate and Vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/n/">Seismicity of the Earth 1900&ndash;2012, Java and Vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/o/">Seismicity of the Earth 1900&ndash;2013, Offshore British Columbia-Southeastern Alaska and Vicinity</a></li>
-	<li><a href="http://pubs.usgs.gov/of/2010/1083/p/">Seismicity of the Earth 1900&ndash;2013, East African Rift</a>
+	<li><a href="https://pubs.usgs.gov/sim/3064/">Seismicity of the Earth 1900&ndash;2007</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/a/">Seismicity of the Earth 1900&ndash;2010, Caribbean plate and vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/b/">Seismicity of the Earth 1900&ndash;2010, Aleutian arc and vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/c/">Seismicity of the Earth 1900&ndash;2007, Kuril-Kamchatka arc and vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/d/">Seismicity of the Earth 1900&ndash;2007, Japan and vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2015/1031/e/">Seismicity of the Earth 1900&ndash;2013, Nazca plate and South America</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/f/">Seismicity of the Earth 1900&ndash;2010, Mexico and vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/g/">Seismicity  of the Earth 1900&ndash;2010, Australia Plate and Vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/h/">Seismicity  of the Earth 1900&ndash;2010, New Guinea and Vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/i/">Seismicity  of the Earth 1900&ndash;2010, Eastern Margin of the Australia Plate</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/k/">Seismicity of the Earth 1900&ndash;2010, Middle East and Vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/j/">Seismicity of the Earth 1900&ndash;2010, Himalaya and Vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/l/">Seismicity of the Earth 1900&ndash;2012, Sumatra and vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/m/">Seismicity of the Earth 1900&ndash;2012, Philippine Sea Plate and Vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/n/">Seismicity of the Earth 1900&ndash;2012, Java and Vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/o/">Seismicity of the Earth 1900&ndash;2013, Offshore British Columbia-Southeastern Alaska and Vicinity</a></li>
+	<li><a href="https://pubs.usgs.gov/of/2010/1083/p/">Seismicity of the Earth 1900&ndash;2013, East African Rift</a>
 	<li><a href="http://pubs.er.usgs.gov/publication/ofr20101083Q">Seismicity of the Earth 1900&ndash;2013, Mediterranean Sea and vicinity</a>
 </li>
 </ul>

@@ -83,7 +83,7 @@
 
 	<li><a href="http://ngmdb.usgs.gov/ngmdb/ngm_catalog.ora.html">Preliminary Integrated Geologic Map Databases for the United States</a>.</li>
 
-	<li><a href="http://pubs.usgs.gov/sir/2008/5098/">Digital Surfaces and thickness of the hydro-geologic of the Mississippi Embayment units</a>.</li>
+	<li><a href="https://pubs.usgs.gov/sir/2008/5098/">Digital Surfaces and thickness of the hydro-geologic of the Mississippi Embayment units</a>.</li>
 
 	<li><a href="/data/crust/nam.php">USGS North America compilation of seismic properties</a>.</li>
 

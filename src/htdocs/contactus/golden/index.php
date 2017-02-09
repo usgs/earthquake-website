@@ -101,7 +101,7 @@ include 'template.inc.php';
 		    <li><a href="http://www.pnsn.org/">Pacific Northwest Seismic Network (PNSN)</a></li>
 		    <li><a href="http://www.ceri.memphis.edu/">Center for Earthquake Research &amp; Information (CERI)</li>
 		    <li><a href="http://www.ceri.memphis.edu/products_usgs/pubs_db3.html">CERI Publications Database</a></li>
-		    <li><a href="http://pubs.usgs.gov/gip/119/">Putting Down Roots</a> - EQ preparedness for Central US</li>
+		    <li><a href="https://pubs.usgs.gov/gip/119/">Putting Down Roots</a> - EQ preparedness for Central US</li>
 		    <li><a href="https://ussc.utah.gov/pages/search.php?search=!collection17">Putting Down Roots - EQ preparedness for Utah</a></li>
 		  </ul>
 	</div>

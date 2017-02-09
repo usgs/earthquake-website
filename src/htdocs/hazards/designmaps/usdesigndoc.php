@@ -256,7 +256,7 @@
 
 <p>
   <a class="url-example"
-  href="/designmaps/us/inc/data-api.inc.php?latitude=40&amp;longitude=-105&amp;edition=ibc-2009&amp;variant=0&amp;siteclass=3&amp;riskcategory=0">http://earthquake.usgs.gov/designmaps/us/inc/data-api.inc.php?
+  href="/designmaps/us/inc/data-api.inc.php?latitude=40&amp;longitude=-105&amp;edition=ibc-2009&amp;variant=0&amp;siteclass=3&amp;riskcategory=0">https://earthquake.usgs.gov/designmaps/us/inc/data-api.inc.php?
   <span class="url-example-params">latitude=40&amp;
   longitude=-105&amp;
   edition=ibc-2009&amp;
@@ -345,7 +345,7 @@
     <cite>Petersen, M.D., A.D. Frankel, S.C. Harmsen, C.S. Mueller, K.M. Haller,
     R.L. Wheeler, R.L. Wesson, Y. Zeng, O.S. Boyd, D.M. Perkins, N. Luco, E.H.
     Field, C.J. Wills, &amp; K.S. Rukstales (2008),
-    <a href="http://pubs.usgs.gov/of/2008/1128/">&ldquo;Documentation for the
+    <a href="https://pubs.usgs.gov/of/2008/1128/">&ldquo;Documentation for the
     2008 Update of the United States National Seismic Hazard Maps,&rdquo;</a>
     U.S. Geological Survey Open-File Report   2008-1128, 61 p.</cite>
   </li>

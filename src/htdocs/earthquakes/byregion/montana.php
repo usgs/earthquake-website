@@ -22,7 +22,7 @@
 
 <h2>Organizations</h2>
 <ul>
-  <li><a href="http://volcanoes.usgs.gov/observatories/yvo/">USGS Yellowstone Volcano Observatory</a></li>
+  <li><a href="https://volcanoes.usgs.gov/observatories/yvo/">USGS Yellowstone Volcano Observatory</a></li>
   <li><a href="http://www.mbmg.mtech.edu/">Montana Bureau of Mines and Geology</a></li>
   <li><a href="http://quake.utah.edu/">University of Utah Seismograph Stations</a></li>
   <li><a href="http://www.mbmg.mtech.edu/quakes/quake.asp">Earthquake Studies Office at the Montana Bureau of Mines and Geology</a></li>

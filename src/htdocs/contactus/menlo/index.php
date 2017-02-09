@@ -7,7 +7,7 @@
 	  $TITLE = 'Earthquake Science Center, Menlo Park, CA';
     $NAVIGATION = true;
 
-    $next_contents = file_get_contents('http://earthquake.usgs.gov/regional/nca/seminars/next-seminar.json.php');
+    $next_contents = file_get_contents('https://earthquake.usgs.gov/regional/nca/seminars/next-seminar.json.php');
     $next_array = json_decode($next_contents, true);
     $next_seminar = $next_array['seminar'];
     $next_html = sprintf('
@@ -65,7 +65,7 @@
 				  <img src="images/seminars-2x.png" alt="earthquake podcast" width="150" />
 			  </a>
         <?php print $next_html; ?>
-        <p>See also: <a href="http://online.wr.usgs.gov/calendar/">USGS Evening Public Lecture Series</p>
+        <p>See also: <a href="https://online.wr.usgs.gov/calendar/">USGS Evening Public Lecture Series</p>
 			</li>
 			<li>
 			  <a href="/regional/nca/campus/">
@@ -94,7 +94,7 @@
 			<li><a href="/regional/nca/1868/">October 21, 1868 Hayward Fault Earthquake</a></li>
 			<li><a href="/regional/nca/haywardfault/">Digital Map of the Hayward Fault</a></li>
 			<li><a href="http://bayquakealliance.org/howclose/">How Close to a Fault Do You Live? Interactive Map</a></li>
-			<li><a href="http://pubs.usgs.gov/sim/2004/2848/">Earthquakes and Faults in the San Francisco Bay Area</a></li>
+			<li><a href="https://pubs.usgs.gov/sim/2004/2848/">Earthquakes and Faults in the San Francisco Bay Area</a></li>
 			<li><a href="/regional/nca/qmap/">Liquefaction Hazard Maps</a></li>
 			<li><a href="/research/parkfield/">Parkfield Earthquake Experiment</a></li>
 			<li><a href="/learn/topics/hayward_paleo/">Hayward Fault Paleoseismology</a></li>

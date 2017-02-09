@@ -17,7 +17,7 @@
 	hazard was zero, but rather much more likely that the specific location did
 	not match the parameters of the file. The listing below names every file,
   however for a more complete description of each download, please see Table 3
-  in the <a href="http://pubs.usgs.gov/of/2007/1043/">Open-File Report </a>.
+  in the <a href="https://pubs.usgs.gov/of/2007/1043/">Open-File Report </a>.
 </p>
 <table>
 	<thead>

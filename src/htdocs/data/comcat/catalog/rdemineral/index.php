@@ -35,7 +35,7 @@ include '../_catalog.inc.php';
   picks from temporary seismograph stations that were installed by several
   research groups around the epicentral area; these picks were made by NEIC
   staff. Phase arrival times from permanent seismic stations from the ComCat
-  (http://earthquake.usgs.gov/earthquakes/map/) and the bulletin of the
+  (https://earthquake.usgs.gov/earthquakes/map/) and the bulletin of the
   International Seismological Centre (ISC) were also used. Arrival time
   picks from the ISC were not reviewed, but all arrival time data was subject
   to evaluation for outlier readings using empirically-derived estimates of

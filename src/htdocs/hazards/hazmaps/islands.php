@@ -43,5 +43,5 @@
 	<ul>
 		<li><a href="samoapacific/2012/data.php">Maps and Data</a></li>
     <li><a href="samoapacific/2012/software.php">Software</a></li>
-		<li><a href="http://pubs.usgs.gov/of/2012/1087/">Documentation</a></li>
+		<li><a href="https://pubs.usgs.gov/of/2012/1087/">Documentation</a></li>
 	</ul>

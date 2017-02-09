@@ -24,21 +24,21 @@
 
 <h2>Reports</h2>
 	<ul>
-	  <li><a href="http://pubs.usgs.gov/fs/2012/3014/" target="_blank">Understanding earthquake hazards in urban areas Evansville Area Earthquake Hazards Mapping Project - 2012 Fact Sheet</a></li>
-	  <li><a href="http://pubs.usgs.gov/gip/138" target="_blank">Modified Mercalli Intensity for Scenario Earthquakes in Evansville, Indiana - 2012 Map</a></li>
-	  <li><a href="http://pubs.usgs.gov/of/2011/1203/" target="_blank">Liquefaction hazard for the region of Evansville, Indiana - 2011 Open-File Report</a></li>
-	  <li><a href="http://pubs.usgs.gov/of/2011/1260/" target="_blank">Earthquake Scenario Ground Motions for the Urban Area of Evansville, Indiana - 2011 Open-File Report</a></li>
-	  <li><a href="http://pubs.usgs.gov/of/2011/1231/" target="_blank">Probabilistic seismic hazard assessment including site effects for Evansville, Indiana, and the surrounding region - 2011 Open-File Report</a></li>
-	  <li><a href="http://pubs.usgs.gov/sim/3069/downloads/3069_pamphlet_508.pdf" target="_blank">Surficial Geologic Map of the Evansville, Indiana, and Henderson, Kentucky, Area - 2009 Map</a></li>
+	  <li><a href="https://pubs.usgs.gov/fs/2012/3014/" target="_blank">Understanding earthquake hazards in urban areas Evansville Area Earthquake Hazards Mapping Project - 2012 Fact Sheet</a></li>
+	  <li><a href="https://pubs.usgs.gov/gip/138" target="_blank">Modified Mercalli Intensity for Scenario Earthquakes in Evansville, Indiana - 2012 Map</a></li>
+	  <li><a href="https://pubs.usgs.gov/of/2011/1203/" target="_blank">Liquefaction hazard for the region of Evansville, Indiana - 2011 Open-File Report</a></li>
+	  <li><a href="https://pubs.usgs.gov/of/2011/1260/" target="_blank">Earthquake Scenario Ground Motions for the Urban Area of Evansville, Indiana - 2011 Open-File Report</a></li>
+	  <li><a href="https://pubs.usgs.gov/of/2011/1231/" target="_blank">Probabilistic seismic hazard assessment including site effects for Evansville, Indiana, and the surrounding region - 2011 Open-File Report</a></li>
+	  <li><a href="https://pubs.usgs.gov/sim/3069/downloads/3069_pamphlet_508.pdf" target="_blank">Surficial Geologic Map of the Evansville, Indiana, and Henderson, Kentucky, Area - 2009 Map</a></li>
 	</ul>
 
 
 <h2>Supplementary documentation</h2>
 	<ul>
 	  <li><a href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CCoQFjAA&amp;url=http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2009%2F1249%2Fpdf%2FOF09-1249.pdf&amp;ei=-xEsT6SrNOuGsgLugti1Dg&amp;usg=AFQjCNEbadflzCOUXbGymH_iToj-xdcdsg" target="_blank">Evansville Area Earthquake Hazards Mapping Project (EAEHMP) - Progress Report 2008</a></li>
-	  <li><a href="http://earthquake.usgs.gov/research/external/reports/05HQAG0147.pdf" target="_blank">Implementation of an AGS-Cosmos-FHWA Compatible Geotechnical Databases for the St. Louis Metro Area, Missouri and Illinois and, the Evansville-Henderson Area, Indiana and Kentucky</a></li>
-	  <li><a href="http://earthquake.usgs.gov/research/external/reports/05HQGR0033.pdf" target="_blank">Calculation and validation of probabilistic seismic hazard assessment for the urban area of Evansville incorporating site effects</a></li>
-	  <li><a href="http://earthquake.usgs.gov/research/external/reports/07HQGR0058.pdf" target="_blank">Liquefaction Susceptibility Mapping in the Evansville, Indiana, Region Including An Investigation of 2D Amplification and Duration Effects Due to Bedrock Valley Structure</a></li>
+	  <li><a href="https://earthquake.usgs.gov/research/external/reports/05HQAG0147.pdf" target="_blank">Implementation of an AGS-Cosmos-FHWA Compatible Geotechnical Databases for the St. Louis Metro Area, Missouri and Illinois and, the Evansville-Henderson Area, Indiana and Kentucky</a></li>
+	  <li><a href="https://earthquake.usgs.gov/research/external/reports/05HQGR0033.pdf" target="_blank">Calculation and validation of probabilistic seismic hazard assessment for the urban area of Evansville incorporating site effects</a></li>
+	  <li><a href="https://earthquake.usgs.gov/research/external/reports/07HQGR0058.pdf" target="_blank">Liquefaction Susceptibility Mapping in the Evansville, Indiana, Region Including An Investigation of 2D Amplification and Duration Effects Due to Bedrock Valley Structure</a></li>
   </ul>
 
 <h2>Data</h2>

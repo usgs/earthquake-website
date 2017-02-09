@@ -63,7 +63,7 @@
     <li><a href="http://www.eeri.org/">EERI</a> - 1 Geotechnical Engineer, 1 Engineer, Research, 1 Structural Engineer (strong motion)</li>
     <li><a href="http://www.iris.edu/">IRIS</a>/USARRAY - 1 Seismologist, Research</li>
     <li><a href="http://www.seismosoc.org/">SSA</a> - 1 Seismologist, Research</li>
-    <li><a href="http://www.usgs.gov/">USGS</a> - 1 Central Hazards Team representative, 1 Western Earthquake Hazards Team representative</li>
+    <li><a href="https://www.usgs.gov/">USGS</a> - 1 Central Hazards Team representative, 1 Western Earthquake Hazards Team representative</li>
   </ul>
   <p>
     FEMA, NSF, and NIST would have advisory (non-voting) seats on the steering committee.

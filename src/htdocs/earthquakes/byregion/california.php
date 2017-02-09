@@ -24,8 +24,8 @@
   <li><a href="http://www.sfbayquakes.org/">Portfolio of Images of Landscape, Seascape and Faults of the San Francisco Bay area</a> - USGS and PG&E</li>
   <li><a href="http://gmw.consrv.ca.gov/shmp/">California Seismic Hazard Zonation Program</a></li>
   <li><a href="http://www.data.scec.org/significant/fault-index.html">Faults of Southern California - SCEC</a></li>
-  <li><a href="http://earthquake.usgs.gov/learn/topics/topics.php?topicID=70">San Andreas Fault</a></li>
-  <li><a href="http://earthquake.usgs.gov/learn/topics/topics.php?topicID=83">Parkfield</a></li>
+  <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=70">San Andreas Fault</a></li>
+  <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=83">Parkfield</a></li>
   <li><a href="/learn/topics/search.php?sendTopicID=&sendContentID=&sendLevelID=&sendRegionID=30">California Earthquake Topics</a></li>
 </ul>
 

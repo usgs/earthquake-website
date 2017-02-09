@@ -22,7 +22,7 @@
 
 <h2>Organizations</h2>
 <ul>
-  <li><a href="http://earthquake.usgs.gov/contactus/albuquerque/">Albuquerque Seismological Laboratory</a></li>
+  <li><a href="https://earthquake.usgs.gov/contactus/albuquerque/">Albuquerque Seismological Laboratory</a></li>
   <li><a href="http://geoinfo.nmt.edu/">New Mexico Bureau of Geology &amp; Mineral Resources</a></li>
   <li><a href="http://nmgs.nmt.edu/">New Mexico Geological Society</a></li>
   <li><a href="http://www.ees.nmt.edu/geop-home/">New Mexico Tech - Geophysics Program<</a>/li>

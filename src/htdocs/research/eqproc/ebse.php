@@ -248,7 +248,7 @@ if (!isset($TEMPLATE)) {
 
 <h2>See Also</h2>
 <ul>
-	<li><a href="http://www.usgs.gov/newsroom/article.asp?ID=3623">USGS Press Release: Opportunity to Study Hayward Fault Comes with Cal State East Bay&rsquo;s Planned Building Demolition</a></li>
+	<li><a href="https://www.usgs.gov/newsroom/article.asp?ID=3623">USGS Press Release: Opportunity to Study Hayward Fault Comes with Cal State East Bay&rsquo;s Planned Building Demolition</a></li>
 	<li><a href="http://www20.csueastbay.edu/news/2013/01/WarrenHallDemo-013013.html">California State University East Bay: CSU trustees earmark $50M to remove, replace Warren Hall</a></li>
 	<li><a href="http://www.livescience.com/37617-building-demolition-hayward-fault-study.html">LiveScience: Building Explosion Will Shed Light on Nearby Earthquake Fault</a></li>
 	<li><a href="http://storify.com/stanfordbabs/opportunity-to-study-hayward-fault-comes-with-cal">Barbara Wilcox&rsquo;s Storify feed</a></li>

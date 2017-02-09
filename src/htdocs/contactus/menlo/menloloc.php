@@ -50,7 +50,7 @@
 
     <p>
       <b>Campus</b><br/>
-      <a href="http://online.wr.usgs.gov/kiosk/mparea3.html">Menlo Park, CA campus map and driving directions</a>
+      <a href="https://online.wr.usgs.gov/kiosk/mparea3.html">Menlo Park, CA campus map and driving directions</a>
     </p>
 
 	</div>

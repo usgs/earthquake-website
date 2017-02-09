@@ -27,7 +27,7 @@
 			What to do before, during, and after an earthquake
 			<ul>
 	      <li><a href="http://www.earthquakecountry.info/roots/seven_steps.html">Seven Steps to Earthquake Safety</a></li>
-	      <li><a href="http://www.usgs.gov/faq/?q=taxonomy/term/9834">Preparedness FAQs</a></li>
+	      <li><a href="https://www.usgs.gov/faq/?q=taxonomy/term/9834">Preparedness FAQs</a></li>
        </ul>
 		</p>
 	</li>
@@ -41,7 +41,7 @@
 		</p>
 	</li>
 	<li>
-		<a href="http://www.usgs.gov/natural_hazards/safrr/">
+		<a href="https://www.usgs.gov/natural_hazards/safrr/">
 			<h4>SAFRR (Science Application for Risk Reduction)</h4>
 			<img src="images/urbanearth.jpg" alt="safrr image"/>
 		</a>

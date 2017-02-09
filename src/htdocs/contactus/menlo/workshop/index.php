@@ -271,4 +271,4 @@ if (isSet($_POST['submit'])) { // user submitted form
 
 </form>
 
-<p class="privacy"><a href="http://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>
+<p class="privacy"><a href="https://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>
