@@ -222,7 +222,7 @@
       The rationale for this dual approach to earthquake alerting stems from the recognition that relatively high fatalities, injuries, and homelessness dominate in countries where local building practices typically lend themselves to high collapse and casualty rates, and it is these impacts that drive prioritization for international response. In contrast, it is often financial and overall societal impacts that trigger the level of response in regions or countries where prevalent earthquake resistant construction practices greatly reduce building collapse and resulting fatalities.
     </p>
     <p>
-      More details about EIS can be found in the <a href="http://pubs.usgs.gov/fs/2010/3036/">PAGER Fact Sheet</a>, and in the manuscript by <a href="http://earthquake.usgs.gov/earthquakes/pager/references.php#WaldEtAl2010b">Wald and others (2010)</a>.
+      More details about EIS can be found in the <a href="https://pubs.usgs.gov/fs/2010/3036/">PAGER Fact Sheet</a>, and in the manuscript by <a href="https://earthquake.usgs.gov/earthquakes/pager/references.php#WaldEtAl2010b">Wald and others (2010)</a>.
     </p>
   </li>
   <li id='which'>

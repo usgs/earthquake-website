@@ -69,7 +69,7 @@
           <dt>Description</dt>
           <dd>
             The alert level from the <a
-            href="http://earthquake.usgs.gov/research/pager/"
+            href="https://earthquake.usgs.gov/research/pager/"
             title="Prompt Assessment of Global Earthquakes for Response"
             >PAGER earthquake impact scale</a>.
           </dd>
@@ -84,14 +84,14 @@
           <dt>Description</dt>
           <dd>
             The maximum reported <a
-            href="http://earthquake.usgs.gov/learn/glossary/?term=intensity"
+            href="https://earthquake.usgs.gov/learn/glossary/?term=intensity"
             >intensity</a> for the event. Computed by <a
-            href="http://earthquake.usgs.gov/research/dyfi/"
+            href="https://earthquake.usgs.gov/research/dyfi/"
             title="Did You Feel It?">DYFI</a>. While typically reported as a
             roman numeral, for the purposes of this API, intensity is expected
             as the <strong>decimal</strong> equivalent of the roman numeral.
             Learn more about <a
-            href="http://earthquake.usgs.gov/learn/topics/mag_vs_int.php"
+            href="https://earthquake.usgs.gov/learn/topics/mag_vs_int.php"
             >magnitude vs. intensity</a>.
           </dd>
         </dl>
@@ -184,7 +184,7 @@
           <dt>Description</dt>
           <dd>
             The total number of felt reports submitted to the <a
-            href="http://earthquake.usgs.gov/research/dyfi/"
+            href="https://earthquake.usgs.gov/research/dyfi/"
             title="Did You Feel It?">DYFI?</a> system.
           </dd>
         </dl>
@@ -600,13 +600,13 @@
           <dt>Description</dt>
           <dd>
             The maximum estimated instrumental <a
-            href="http://earthquake.usgs.gov/learn/glossary/?term=intensity"
+            href="https://earthquake.usgs.gov/learn/glossary/?term=intensity"
             >intensity</a> for the event.  Computed by <a
-            href="http://earthquake.usgs.gov/research/shakemap/">ShakeMap</a>.
+            href="https://earthquake.usgs.gov/research/shakemap/">ShakeMap</a>.
             While typically reported as a roman numeral, for the purposes of
             this API, intensity is expected as the <strong>decimal</strong>
             equivalent of the roman numeral. Learn more about <a
-            href="http://earthquake.usgs.gov/learn/topics/mag_vs_int.php"
+            href="https://earthquake.usgs.gov/learn/topics/mag_vs_int.php"
             >magnitude vs. intensity</a>.
           </dd>
         </dl>

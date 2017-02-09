@@ -27,11 +27,11 @@
 <h2>Ground Shaking Maps</h2>
 
 <p>
-	<a href="http://pubs.usgs.gov/of/2004/1294/">The Memphis, Shelby County, Tennessee, Seismic Hazard Maps (OFR-2004-1294)</a> - Technical documentation
+	<a href="https://pubs.usgs.gov/of/2004/1294/">The Memphis, Shelby County, Tennessee, Seismic Hazard Maps (OFR-2004-1294)</a> - Technical documentation
 </p>
 
 <p>
-	<a href="http://pubs.usgs.gov/fs/2005/3142/pdf/FS05-3142_508.pdf">Urban Seismic Hazard Mapping for Memphis, Shelby County, Tennessee (FS-2005-3142)</a> - Non-technical documentation
+	<a href="https://pubs.usgs.gov/fs/2005/3142/pdf/FS05-3142_508.pdf">Urban Seismic Hazard Mapping for Memphis, Shelby County, Tennessee (FS-2005-3142)</a> - Non-technical documentation
 </p>
 
 <div class="row">
@@ -97,12 +97,12 @@
 		<h2>Surficial geologic maps</h2>
 
 		<ul>
-			<li><a href="http://pubs.usgs.gov/sim/2004/2822" target="_blank">Southeast Memphis, TN Quadrangle</a></li>
-			<li><a href="http://pubs.usgs.gov/sim/2004/2823" target="_blank">Southwest Memphis, TN Quadrangle</a></li>
-			<li><a href="http://pubs.usgs.gov/sim/2004/2839" target="_blank">Northeast Memphis, TN Quadrangle</a></li>
-			<li><a href="http://pubs.usgs.gov/sim/2004/2838" target="_blank">Northwest Memphis, TN Quadrangle</a></li>
-			<li><a href="http://pubs.usgs.gov/sim/2004/2836" target="_blank">Ellendale, TN Quadrangle</a></li>
-			<li><a href="http://pubs.usgs.gov/sim/2004/2837" target="_blank">Germantown, TN Quadrangle</a></li>
+			<li><a href="https://pubs.usgs.gov/sim/2004/2822" target="_blank">Southeast Memphis, TN Quadrangle</a></li>
+			<li><a href="https://pubs.usgs.gov/sim/2004/2823" target="_blank">Southwest Memphis, TN Quadrangle</a></li>
+			<li><a href="https://pubs.usgs.gov/sim/2004/2839" target="_blank">Northeast Memphis, TN Quadrangle</a></li>
+			<li><a href="https://pubs.usgs.gov/sim/2004/2838" target="_blank">Northwest Memphis, TN Quadrangle</a></li>
+			<li><a href="https://pubs.usgs.gov/sim/2004/2836" target="_blank">Ellendale, TN Quadrangle</a></li>
+			<li><a href="https://pubs.usgs.gov/sim/2004/2837" target="_blank">Germantown, TN Quadrangle</a></li>
 		</ul>
 	</div>
 </div>

@@ -24,7 +24,7 @@
     <p>Velocities, time series, and maps for stations observed with GPS in the western U.S.</p>
   </li>
 	<li>
-		<a href="http://escweb.wr.usgs.gov/share/highrate-gps/">
+		<a href="https://escweb.wr.usgs.gov/share/highrate-gps/">
 			<h4>Real-time GPS Data</h4>
 		</a>
 		<p>
@@ -43,7 +43,7 @@
 	</li>
 	<!--creep-->
 	<li>
-		<a href="http://pubs.usgs.gov/of/2009/1119/">
+		<a href="https://pubs.usgs.gov/of/2009/1119/">
 			<h4>Alinement Array Data</h4>
 		</a>
 		<p>
@@ -80,7 +80,7 @@
 <ul class="linklist">
 	<!--long valley-->
 	<li>
-    <a href="http://escweb.wr.usgs.gov/share/langbein/Web/MammothGPS/">
+    <a href="https://escweb.wr.usgs.gov/share/langbein/Web/MammothGPS/">
       <h4>Long Valley</h4>
     </a>
     <p>
@@ -90,7 +90,7 @@
     </p>
   </li>
 	<li>
-		<a href="http://escweb.wr.usgs.gov/share/langbein/Web/Hayward/Deform.html">
+		<a href="https://escweb.wr.usgs.gov/share/langbein/Web/Hayward/Deform.html">
 			<h4>San Francisco Bay Area</h4>
 		</a>
 		<p>

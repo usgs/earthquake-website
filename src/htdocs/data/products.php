@@ -55,7 +55,7 @@
     	</ul>
 
     	<ul>
-      	<li><a href="http://pubs.usgs.gov/of/2007/1437/">Uniform California Earthquake Rupture Forecast (2008)</a></li>
+      	<li><a href="https://pubs.usgs.gov/of/2007/1437/">Uniform California Earthquake Rupture Forecast (2008)</a></li>
     	</ul>
     </div>
 

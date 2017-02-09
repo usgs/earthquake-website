@@ -19,5 +19,5 @@ DAY HR MN SEC     LAT       LONG           mb  MS              USED
                                                                       now cataloged as an earthquake by the USGS.  Its revised
                                                                       epicenter and magnitude are available through the 
                                                                       "Earthquake Search" web-site at 
-                                                                      http://earthquake.usgs.gov/earthquakes/eqarchives/epic/}   
+                                                                      https://earthquake.usgs.gov/earthquakes/eqarchives/epic/}   
  

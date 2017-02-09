@@ -40,7 +40,7 @@
       </a>
     </li>
     <li>
-      <a href="http://earthquake.usgs.gov/regional/states/index.php?regionID=5">
+      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=5">
         California Earthquake Information
       </a>
     </li>

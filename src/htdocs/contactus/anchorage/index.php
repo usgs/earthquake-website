@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Peter Hauessler,
-// Last modified: 08/14/2015
   if (!isset($TEMPLATE)) {
   $TITLE = 'Alaska Science Center';
   $NAVIGATION = true;
@@ -25,8 +24,8 @@
         </figcaption>
       </figure>
 
-      <p><a href="http://alaska.usgs.gov/staff/personnel.php">Staff/Contacts</a><br/>
-          <a href="http://alaska.usgs.gov/directions.html">Directions</a>
+      <p><a href="https://alaska.usgs.gov/staff/personnel.php">Staff/Contacts</a><br/>
+          <a href="https://alaska.usgs.gov/directions.html">Directions</a>
       </p>
 
   </div>
@@ -49,7 +48,7 @@
       </li>
 
       <li>
-        <a href="http://alaska.usgs.gov/">
+        <a href="https://alaska.usgs.gov/">
           <h4>Alaska Science Center</h4>
           <img src="images/akscicenter-2x.jpg" width="150"/>
         </a>
@@ -59,7 +58,7 @@
       </li>
 
       <li>
-        <a href="http://alaska.usgs.gov/portal/">
+        <a href="https://alaska.usgs.gov/portal/">
           <h4>Alaska Earthquake Science</h4>
           <img src="images/akeqscience-2x.jpg" width="150"/>
         </a>

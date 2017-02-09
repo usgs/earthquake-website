@@ -29,7 +29,7 @@
 <ul class="no-style linklist">
 
   <li>
-    <a href="http://www.usgs.gov/blogs/features/usgs_top_story/the-1964-great-alaska-earthquake-tsunami/">
+    <a href="https://www.usgs.gov/blogs/features/usgs_top_story/the-1964-great-alaska-earthquake-tsunami/">
       <h4>Science Features: The 1964 Great Alaska Earthquake &amp; Tsunami</h4>
       <img src="img/usgs-science.jpg" alt="Photo of earthquake damage" width="150px"/>
     </a>
@@ -51,7 +51,7 @@
   </li>
 
   <li>
-    <a href="http://pubs.usgs.gov/fs/2014/3018/">
+    <a href="https://pubs.usgs.gov/fs/2014/3018/">
       <h4>The 1964 Great Alaska Earthquake and Tsunamis&mdash;A Modern Perspective and Enduring Legacies</h4>
       <img src="img/fs-2014-3018.jpg" alt="Fact sheet cover image" width="150px"/>
     </a>
@@ -209,7 +209,7 @@
   </li>
 
   <!--<li>
-    <a href="http://www.usgs.gov/newsroom/article.asp?ID=3854">
+    <a href="https://www.usgs.gov/newsroom/article.asp?ID=3854">
       <h4>Prior Great Earthquakes Unveiled at the Western Edge of the 1964 Alaska Rupture</h4>
       <img src="img/Sitkinak-Island.jpg" alt="Photo of geologists extracting a core sample" width="150px"/>
     </a>
@@ -225,7 +225,7 @@
   </li>
 
   <!--<li>
-    <a href="http://www.usgs.gov/newsroom/article.asp?ID=3840">
+    <a href="https://www.usgs.gov/newsroom/article.asp?ID=3840">
       <h4>Historic Reports Reissued for Great Alaska Quake 50th Anniversary</h4>
       <img src="img/historic-reports.jpg" alt="aerial photo of uplifted sea floor" width="150px"/>
     </a>
@@ -248,7 +248,7 @@
   </li>
 
   <li>
-    <a href="http://pubs.usgs.gov/sim/3077/">
+    <a href="https://pubs.usgs.gov/sim/3077/">
       <h4>Maps Showing Seismic Landslide Hazards in Anchorage, Alaska</h4>
       <img src="img/landslides-maps.gif" alt="publication cover" width="150px"/>
     </a>
@@ -260,22 +260,22 @@
 <h2>Professional Papers</h2>
 <div class="row">
   <div class="column one-of-two">
-      <a href="http://pubs.usgs.gov/pp/0541/"><img src="img/usgs-pp541.jpg" alt="cover of USGS Profession Paper 541" width="150px"/></a>
-      <a href="http://pubs.usgs.gov/pp/0542/"><img src="img/usgs-pp542.jpg" alt="cover of USGS Profession Paper 542" width="150px"/></a>
-      <a href="http://pubs.usgs.gov/pp/0543/"><img src="img/usgs-pp543.jpg" alt="cover of USGS Profession Paper 543" width="150px"/></a>
-      <a href="http://pubs.usgs.gov/pp/0544/"><img src="img/usgs-pp544.jpg" alt="cover of USGS Profession Paper 544" width="150px"/></a>
-      <a href="http://pubs.usgs.gov/pp/0545/"><img src="img/usgs-pp545.jpg" alt="cover of USGS Profession Paper 545" width="150px"/></a>
-      <a href="http://pubs.usgs.gov/pp/0546/"><img src="img/usgs-pp546.jpg" alt="cover of USGS Profession Paper 546" width="150px"/></a>
+      <a href="https://pubs.usgs.gov/pp/0541/"><img src="img/usgs-pp541.jpg" alt="cover of USGS Profession Paper 541" width="150px"/></a>
+      <a href="https://pubs.usgs.gov/pp/0542/"><img src="img/usgs-pp542.jpg" alt="cover of USGS Profession Paper 542" width="150px"/></a>
+      <a href="https://pubs.usgs.gov/pp/0543/"><img src="img/usgs-pp543.jpg" alt="cover of USGS Profession Paper 543" width="150px"/></a>
+      <a href="https://pubs.usgs.gov/pp/0544/"><img src="img/usgs-pp544.jpg" alt="cover of USGS Profession Paper 544" width="150px"/></a>
+      <a href="https://pubs.usgs.gov/pp/0545/"><img src="img/usgs-pp545.jpg" alt="cover of USGS Profession Paper 545" width="150px"/></a>
+      <a href="https://pubs.usgs.gov/pp/0546/"><img src="img/usgs-pp546.jpg" alt="cover of USGS Profession Paper 546" width="150px"/></a>
   </div>
   <div class="column one-of-two">
     <p>USGS published the results of investigations of the Alaska earthquake of March 27, 1964 in a series of six Professional Papers.</p>
     <ul class="no-style separator">
-      <li><a href="http://pubs.usgs.gov/pp/0541/">Professional Paper 541</a> is an introduction to the story of a great earthquake&mdash;its geologic setting and effects, the field investigations, and the public and private reconstruction efforts. </li>
-      <li><a href="http://pubs.usgs.gov/pp/0542/">Professional Paper 542</a> describes the effects of the earthquake on Alaskan communities. </li>
-      <li><a href="http://pubs.usgs.gov/pp/0543/">Professional Paper 543</a> describes the earthquake&rsquo;s regional effects. </li>
-      <li><a href="http://pubs.usgs.gov/pp/0544/">Professional Paper 544</a> describes the effects of the earthquake on the hydrologic regimen. </li>
-      <li><a href="http://pubs.usgs.gov/pp/0545/">Professional Paper 545</a> describes the effects of the earthquake on transportation, communications, and utilities. </li>
-      <li><a href="http://pubs.usgs.gov/pp/0546/">Professional Paper 546</a> is a summary of what was learned from a great earthquake about the bearing of geologic and hydrologic conditions on its effects, and about the scientific investigations needed to prepare for future earthquakes. </li>
+      <li><a href="https://pubs.usgs.gov/pp/0541/">Professional Paper 541</a> is an introduction to the story of a great earthquake&mdash;its geologic setting and effects, the field investigations, and the public and private reconstruction efforts. </li>
+      <li><a href="https://pubs.usgs.gov/pp/0542/">Professional Paper 542</a> describes the effects of the earthquake on Alaskan communities. </li>
+      <li><a href="https://pubs.usgs.gov/pp/0543/">Professional Paper 543</a> describes the earthquake&rsquo;s regional effects. </li>
+      <li><a href="https://pubs.usgs.gov/pp/0544/">Professional Paper 544</a> describes the effects of the earthquake on the hydrologic regimen. </li>
+      <li><a href="https://pubs.usgs.gov/pp/0545/">Professional Paper 545</a> describes the effects of the earthquake on transportation, communications, and utilities. </li>
+      <li><a href="https://pubs.usgs.gov/pp/0546/">Professional Paper 546</a> is a summary of what was learned from a great earthquake about the bearing of geologic and hydrologic conditions on its effects, and about the scientific investigations needed to prepare for future earthquakes. </li>
     </ul>
   </div>
 </div>

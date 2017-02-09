@@ -18,7 +18,7 @@
 <h2>Paleoseismic Publications</h2>
 
 <ul>
-	<li><a href= "http://pubs.usgs.gov/of/1999/0318/">Timing of Paleoearthquakes on the Northern Hayward Fault&mdash;Preliminary Evidence in El Cerrito, California</a><p></p></li>
+	<li><a href= "https://pubs.usgs.gov/of/1999/0318/">Timing of Paleoearthquakes on the Northern Hayward Fault&mdash;Preliminary Evidence in El Cerrito, California</a><p></p></li>
 	<li><a href= "ftp://hazards.cr.usgs.gov/web/research/Tyson1_BSSA02.pdf">A Record of Large Earthquakes on the Southern Hayward Fault for the Past 500 Years</a><p></p></li>
 	<li><a href= "ftp://hazards.cr.usgs.gov/web/research/Tyson3_BSSA10.pdf">A 1900-Year Record of Large Earthquakes on the Southern Hayward Fault</a><p></p></li>
 </ul>

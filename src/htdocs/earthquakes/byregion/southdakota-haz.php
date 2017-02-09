@@ -10,6 +10,6 @@
 longdesc="Seismic%20Hazard%20Map" />
 </p>
 <p>
-<a href="http://earthquake.usgs.gov/hazards/">
+<a href="https://earthquake.usgs.gov/hazards/">
 USGS National Seismic Hazard Maps</a>
 </p>

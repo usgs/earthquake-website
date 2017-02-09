@@ -136,7 +136,7 @@
       <strong>This Dynamic Earth: The Story of Plate  Tectonics</strong> <br/>
       <em>by Jacquelyne Kious, Robert I. Tilling</em><br/>
 		  Age:  Adult/Yound Adult <br/>
-      Paperback: ISBN 0160482208 or  online at <a href="http://pubs.usgs.gov/publications/text/dynamic.html">http://pubs.usgs.gov/publications/text/dynamic.html</a><br/>
+      Paperback: ISBN 0160482208 or  online at <a href="https://pubs.usgs.gov/publications/text/dynamic.html">https://pubs.usgs.gov/publications/text/dynamic.html</a><br/>
 		  An  excellent USGS publication with lots of great pictures!  Includes information about the discovery and  science of plate tectonics.
     </p>
 

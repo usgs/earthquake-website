@@ -41,7 +41,7 @@
     </ul>
     <h3>Guam and Marianas</h3>
     <ul>
-      <li><a href="http://pubs.usgs.gov/of/2012/1015/">2012</a></li>
+      <li><a href="https://pubs.usgs.gov/of/2012/1015/">2012</a></li>
     </ul>
     <h3>Samoa and Pacific Islands</h3>
     <ul>

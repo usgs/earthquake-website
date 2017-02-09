@@ -47,10 +47,10 @@ if (!isset($TEMPLATE)) {
 
 <ul>
   <li>
-    <a href="http://www.usgs.gov/faq/taxonomy/term/9833">FAQ: Earthquakes Induced by Fluid Injection</a>
+    <a href="https://www.usgs.gov/faq/taxonomy/term/9833">FAQ: Earthquakes Induced by Fluid Injection</a>
  </li>
   <li>
-    <a href="http://www.usgs.gov/faq/taxonomy/term/10416">FAQ: Hydraulic Fracturing (Fracking)</a>
+    <a href="https://www.usgs.gov/faq/taxonomy/term/10416">FAQ: Hydraulic Fracturing (Fracking)</a>
   </li>
   <li>
     <a href="https://profile.usgs.gov/myscience/upload_folder/ci2015Jun1012005755600Induced_EQs_Review.pdf">

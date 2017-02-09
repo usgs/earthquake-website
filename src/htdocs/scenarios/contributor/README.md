@@ -2,7 +2,7 @@
 
 Each contributor has a directory for documentation inside the
 `src/htdocs/data/comcat/contributor` directory.  This corresponds to the base url
-on the earthquake web site of `http://earthquake.usgs.gov/data/comcat/contributor`
+on the earthquake web site of `https://earthquake.usgs.gov/data/comcat/contributor`
 
 
 Each directory must:
@@ -78,7 +78,7 @@ Any valid HTML markup may follow the PHP template preamble.
 
 - The first heading level that should be used is `<h2>`.
 - PHP template classes and styles are available, and are described at
-  http://earthquake.usgs.gov/theme/
+  https://earthquake.usgs.gov/theme/
 - Please use well-formed markup.
 - When using images or other content:
   - optimize images for the web

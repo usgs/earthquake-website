@@ -17,7 +17,7 @@
       <li><a href="afghanistan/maps.php">Maps</a></li>
       <li><a href="afghanistan/data.php">Data</a></li>
       <li><a href="afghanistan/software.php">Software</a></li>
-      <li><a href="http://pubs.usgs.gov/of/2007/1137/">Documentation</a></li>
+      <li><a href="https://pubs.usgs.gov/of/2007/1137/">Documentation</a></li>
     </ul>
     <p>
       Probabilistic seismic hazard maps have been prepared for Afghanistan

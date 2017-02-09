@@ -46,7 +46,7 @@ The NM network authoritative polygon covers the western part of the CERI catalog
     <li>CO, <a href="http://scsn.seis.sc.edu/">University of South Carolina</a></li>
     <li>SE, <a href="http://www.magma.geos.vt.edu/vtso/">Virginia Tech</a></li>
     <li>TA, <a href="http://www.iris.edu/hq/">IRIS</a></li>
-    <li>US, <a href="http://earthquake.usgs.gov/contactus/golden/neic.php">USGS</a></li>
+    <li>US, <a href="/contactus/golden/neic.php">USGS</a></li>
     <li>N4, <a href="http://www.usarray.org/ceusn">IRIS/USGS</a></li>
   </ul>
 </ul>

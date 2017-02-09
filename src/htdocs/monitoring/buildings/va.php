@@ -35,7 +35,7 @@
 
 <ul class="no-style linklist">
 	<li>
-		<a href="http://pubs.usgs.gov/fs/2012/3094/">
+		<a href="https://pubs.usgs.gov/fs/2012/3094/">
 			<h4>Helping Safeguard Veterans Affairs&rsquo; Hospital Buildings by Advanced Earthquake Monitoring</h4>
 			<img src="img/fs3094.gif" alt="factsheet 3094"/>
 		</a>
@@ -44,7 +44,7 @@
 		</p>
 	</li>
 	<li>
-		<a href="http://pubs.usgs.gov/fs/2012/3028/">
+		<a href="https://pubs.usgs.gov/fs/2012/3028/">
 			<h4>Real-Time Seismic Monitoring of Instrumented Hospital Buildings</h4>
 			<img src="img/fs3028.gif" alt="factsheet 3028"/>
 		</a>
@@ -53,7 +53,7 @@
 		</p>
 	</li>
 	<li>
-		<a href="http://pubs.usgs.gov/of/2012/1241/">
+		<a href="https://pubs.usgs.gov/of/2012/1241/">
 			<h4>Advanced Earthquake Monitoring System for U.S. Department of Veterans Affairs Medical Buildings&mdash;Instrumentation</h4>
 			<img src="img/ofr1241.gif" alt="report cover"/>
 		</a>

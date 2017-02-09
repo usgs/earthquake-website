@@ -29,7 +29,7 @@
   disaster epic, but <strong>Hollywood fantasy is not California reality</strong>.
 </p>
 <p>
-  The <a href="http://www.usgs.gov/">U.S. Geological Survey</a> is the lead
+  The <a href="https://www.usgs.gov/">U.S. Geological Survey</a> is the lead
   federal agency responsible for researching, monitoring and forecasting
   geologic hazards such as earthquakes, volcanoes and landslides. And we have
   the further responsibility to educate Americans about the real hazards they

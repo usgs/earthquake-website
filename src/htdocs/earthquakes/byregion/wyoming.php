@@ -23,7 +23,7 @@
 
 <h2>Organizations</h2>
 <ul>
-  <li><a href="http://volcanoes.usgs.gov/observatories/yvo/index.html">USGS Yellowstone Volcano Observatory</a></li>
+  <li><a href="https://volcanoes.usgs.gov/observatories/yvo/index.html">USGS Yellowstone Volcano Observatory</a></li>
   <li><a href="http://www.wsgs.wyo.gov/">Wyoming State Geological Survey</a></li>
   <li><a href="http://quake.utah.edu/">University of Utah Seismograph Stations</a></li>
   <li><a href="http://wyohomelandsecurity.state.wy.us/">Wyoming Office of Homeland Security</a></li>

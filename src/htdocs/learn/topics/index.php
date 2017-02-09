@@ -24,10 +24,10 @@ echo '
       <li><a href="/learn/animations/">
         Animations for Earthquake Terms &amp; Concepts</a></li>
 
-      <li><a href="http://pubs.usgs.gov/gip/dynamic/dynamic.html">
+      <li><a href="https://pubs.usgs.gov/gip/dynamic/dynamic.html">
         This Dynamic Earth: The Story of Plate Tectonics</a> - excellent comprehensive overview of plate tectonics with excellent graphics, online USGS general interest publication.</li>
 
-      <li><a href="http://pubs.usgs.gov/imap/2800/">
+      <li><a href="https://pubs.usgs.gov/imap/2800/">
         This Dynamic Planet</a> - World Map of Volcanoes, Earthquakes, Impact Craters, and Plate Tectonics.</li>
 
       <li>EQ101 Presentation - <a href="/learn/topics/EQ101.zip">

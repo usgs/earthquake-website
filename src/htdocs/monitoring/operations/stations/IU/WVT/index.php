@@ -19,7 +19,7 @@
       </a>
     </li>
     <li>
-      <a href="http://earthquake.usgs.gov/monitoring/gsn/">
+      <a href="https://earthquake.usgs.gov/monitoring/gsn/">
         USGS GSN Program
       </a>
     </li>
@@ -45,7 +45,7 @@
       </a>
     </li>
     <li>
-      <a href="http://earthquake.usgs.gov/regional/states/index.php?regionID=42">
+      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=42">
         Tennessee Earthquake Information
       </a>
     </li>

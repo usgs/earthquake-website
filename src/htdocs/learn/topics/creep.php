@@ -41,7 +41,7 @@
 		 Current alinement array data
 	 </p>
  </li>
- <li>U.S. Geological Survey <a href="http://pubs.usgs.gov/of/2009/1119/">Open-File Report 2009–1119</a>
+ <li>U.S. Geological Survey <a href="https://pubs.usgs.gov/of/2009/1119/">Open-File Report 2009–1119</a>
    <p>
 		 <em>Data from Theodolite Measurements of Creep Rates on San Francisco Bay Region Faults, California: 1979–2013</em>
 	 </p>

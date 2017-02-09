@@ -64,7 +64,7 @@
     </p>
 
     <h2>USGS News Release</h2>
-    <p><a href="http://www.usgs.gov/blogs/features/?p=223471">USGS Science Feature</a></p>
+    <p><a href="https://www.usgs.gov/blogs/features/?p=223471">USGS Science Feature</a></p>
 
     <h2>Maps for Media</h2>
     <ul>
