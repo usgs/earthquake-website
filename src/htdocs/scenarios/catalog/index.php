@@ -7,7 +7,7 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<a href="map/"><h2>U.S. Map and List of Scenarios for Building Seismic Safety Council 2014 Event Set</h2></a>
+<a href="/scenarios/map/#%7B%22feed%22%3A%22bssc2014%22%7D"><h2>U.S. Map and List of Scenarios for Building Seismic Safety Council 2014 Event Set</h2></a>
 <p>
   See <strong>bssc2014</strong> catalog link below for information about this scenario collection.
 </p>
