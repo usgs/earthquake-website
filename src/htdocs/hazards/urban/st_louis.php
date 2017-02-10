@@ -25,6 +25,15 @@ if	(!isset($TEMPLATE))	{
 </p>
 
 <h2>Local Geologic Variations Affect the Earthquake Hazard</h2>
+<figure class='right'>
+  <a href="stlouis-haz.php">
+    <img src= "images/stlouis-haz.gif" alt='thumbnail of St. Louis area hazards'>
+  </a>
+  <figcaption>
+    Click on image to view full size with caption. (PDF)
+  </figcaption>
+</figure>
+
 <p>
   Structures located in the Missouri and Mississippi River floodplains will likely experience stronger ground shaking and a greater likelihood of <a href="/learn/glossary/?term=liquefaction">liquefaction</a>. Below St. Louis, bedrock is most commonly a hard 350 million-year-old limestone in the St. Louis area. Structures built on or near <a href="/learn/glossary/?term=bedrock">bedrock</a>, such as in the upland areas out of the floodplains, will tend to have lower levels of earthquake ground shaking. Thus, variation in earthquake-shaking hazard in the area can be subdivided into two main groups defined by surficial geology: uplands and lowland river valleys.
 </p>
