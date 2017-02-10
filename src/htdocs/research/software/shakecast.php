@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Kuo Wan Lin,
-  // Last modified: 08/27/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
       $TITLE = 'Software to Download';
       $NAVIGATION = true;
@@ -117,7 +116,7 @@
     Prepare your hosting environment for ShakeCast implementation. Either on your own hardware, another cloud provider or continue to host in the AWS cloud.
   </li>
   <li>
-    <a href="https://sslearthquake.usgs.gov/research/software/shakecast/downloads/">Install the ShakeCast application</a> using the platform-appropriate installer available on the ftp site.
+    <a href="mailto:shakecast-help@usgs.gov">Send email to request the ShakeCast application</a>.
   </li>
   <li>
     Migrate and populate ShakeCast using your facility, facility, notification, and user information.
