@@ -31,73 +31,73 @@
       <td>Map</td>
       <td>1.0 sec</td>
       <td>10% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/hazmap10in50_150_rdc.jpg">JPG</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/hazmap10in50.pdf">Poster</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/hazmap10in50_150_rdc.jpg">JPG</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/hazmap10in50.pdf">Poster</a></td>
     </tr>
     <tr>
       <td>Map</td>
       <td>1.0 sec</td>
       <td>5% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/hazmap5in50_150_rdc.jpg">JPG</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/hazmap5in50.pdf">Poster</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/hazmap5in50_150_rdc.jpg">JPG</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/hazmap5in50.pdf">Poster</a></td>
     </tr>
     <tr>
       <td>Map</td>
       <td>1.0 sec</td>
       <td>2% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/hazmap2in50_150_rdc.jpg">JPG</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/hazmap2in50.pdf">Poster</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/hazmap2in50_150_rdc.jpg">JPG</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/hazmap2in50.pdf">Poster</a></td>
     </tr>
     <tr>
       <td>Gridded Data</td>
       <td>1.0 sec</td>
       <td>10% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea10percentg_data.asc">TXT</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea10percentg_data.asc">TXT</a></td>
     </tr>
     <tr>
       <td>Gridded Data</td>
       <td>1.0 sec</td>
       <td>5% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea5percentg_data.asc">TXT</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea5percentg_data.asc">TXT</a></td>
     </tr>
     <tr>
       <td>Gridded Data</td>
       <td>1.0 sec</td>
       <td>2% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea2percentg_data.asc">TXT</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea2percentg_data.asc">TXT</a></td>
     </tr>
     <tr>
       <td>ArcGIS Shapefile</td>
       <td>1.0 sec</td>
       <td>10% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea10percentg_pt.zip">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea10percentg.zip">Polygon Area</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea10percentg_pt.zip">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea10percentg.zip">Polygon Area</a></td>
     </tr>
     <tr>
       <td>ArcGIS Shapefile</td>
       <td>1.0 sec</td>
       <td>5% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea5percentg_pt.zip">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea5percentg.zip">Polygon Area</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea5percentg_pt.zip">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea5percentg.zip">Polygon Area</a></td>
     </tr>
     <tr>
       <td>ArcGIS Shapefile</td>
       <td>1.0 sec</td>
       <td>2% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea2percentg_pt.zip">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea2percentg.zip">Polygon Area</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea2percentg_pt.zip">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea2percentg.zip">Polygon Area</a></td>
     </tr>
     <tr>
       <td>Metadata</td>
       <td>1.0 sec</td>
       <td>10% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea10percentg_pt.htm">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea10percentg.htm">Polygon Area</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea10percentg_pt.htm">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea10percentg.htm">Polygon Area</a></td>
     </tr>
     <tr>
       <td>Metadata</td>
       <td>1.0 sec</td>
       <td>5% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea5percentg_pt.htm">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea5percentg.htm">Polygon Area</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea5percentg_pt.htm">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea5percentg.htm">Polygon Area</a></td>
     </tr>
     <tr>
       <td>Metadata</td>
       <td>1.0 sec</td>
       <td>2% in 50 yrs</td>
-      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea2percentg_pt.htm">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/seattle/sea2percentg.htm">Polygon Area</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea2percentg_pt.htm">Point Grid</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/seattle/sea2percentg.htm">Polygon Area</a></td>
     </tr>
 
 </table>
