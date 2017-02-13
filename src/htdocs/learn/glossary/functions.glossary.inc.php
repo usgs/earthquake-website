@@ -207,8 +207,6 @@
         $img1Desc = stripslashes($row["img1Desc"]);
         $img2 = $row["img2"];
         $img2Desc = stripslashes($row["img2Desc"]);
-        $link = urldecode($row["link"]);
-        $linkTerm = stripslashes($row["linkTerm"]);
 
         $r = "";
 
@@ -217,9 +215,7 @@
         $r .= "<h2>$term</h2>";
         $r .= "<p>$definition</p>";
         $r .= "<hr class=\"clear\" />";
-        if(!empty($link)){
-          $r .= "<p><a href=\"$link\">$linkTerm</a></p>";
-        }
+
         if(!empty($img1)){
           $img1width = exec("identify -format \"%w\" " . $_SERVER['DOCUMENT_ROOT'] . "/images/glossary/$img1"  );
           $img1width = max(400, $img1width);
