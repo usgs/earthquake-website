@@ -22,6 +22,7 @@
   <li><a href="https://earthquake.usgs.gov/hazards/urban/st_louis.php">St. Louis Area Earthquake Hazards Mapping Project</a></li>
   <li><a href="http://www.isgs.illinois.edu/earthquakes">Earthquakes in Illinois: 1795-2015</a></li>
   <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=71">New Madrid Seismic Zone</a></li>
+  <li><a href="/earthquakes/eventpage/us19681109">M5.8 Illinois Earthquake</a> - November 9, 1968 | <a href="/earthquakes/eventpage/us19681109#dyfi">Did You Feel It? Map</a></li>
 </ul>
 
 <h2>Organizations</h2>
