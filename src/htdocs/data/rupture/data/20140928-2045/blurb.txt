@@ -1,0 +1,1 @@
+The PGA and PGV directivities are limited (&nu; ~ &equiv; 0.92&beta;) but very poorly constrained, owing to the lack of  stations. Both rupture directions are updip and favor the E-W striking nodal plane as the fault plane. The nodal planes are projected on the upper hemisphere. All the stations used are within 75 km of the fault.

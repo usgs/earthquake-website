@@ -1,0 +1,1 @@
+Both the PGA and PGV directivities are weak (&nu; ~ 0.4&beta;).  The PGA solution favors the east dipping nodal plane as the fault plane, while the PGV solution favors the west dipping plane.  The nodal planes are projected on the upper hemisphere. All stations used are within 90 km of the earthquake.

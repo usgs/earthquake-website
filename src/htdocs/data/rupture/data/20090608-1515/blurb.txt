@@ -1,0 +1,2 @@
+The PGA rupture velocity is limited at (&nu; &equiv; 0.92&beta;) and the PGV rupture velocity is almost as high (&nu; = 0.91&beta;).  Neither solution clearly indicates one of the nodal planes as the fault.   The nodal planes are projected on the upper hemisphere.  All the stations used are within 90 km of the earthquake.
+ 

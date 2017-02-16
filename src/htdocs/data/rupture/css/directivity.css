@@ -1,0 +1,15 @@
+.maps {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 768px;
+}
+.maps figure {
+  max-width: 384px;
+}
+
+.sketch {
+  display: block;
+  margin: 0 auto;
+  max-width: 500px;
+}

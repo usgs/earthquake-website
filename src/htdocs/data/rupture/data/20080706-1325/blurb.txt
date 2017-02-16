@@ -1,0 +1,1 @@
+The PGA inversion yields a fast rupture velocity (&nu; =  0.83&beta;) and slightly favors the NS plane as the fault plane.  The rupture direction from the PGV inversion is poorly constrained and fails to indicate the fault plane.  The nodal planes are projected on the upper hemisphere.  All the stations used are within 70 km of the fault.
