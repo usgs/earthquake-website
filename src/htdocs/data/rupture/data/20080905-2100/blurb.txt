@@ -1,0 +1,1 @@
+Both the PGA and PGV directivities are moderate (&nu;  ~ 0.7&beta;), and the rupture directions are similar and mostly updip.  However, the rupture directions are equidistant from both nodal planes, so we cannot identify the fault plane.  The nodal planes are projected on the upper hemisphere.  All the stations used are within 90 km of the fault.

@@ -1,0 +1,2 @@
+While the directivity in this earthquake is very weak (&nu; ~ 0.4&beta;), the azimuth of the nearly horizontal rupture is sufficiently resolved to identify the NE-SW trending nodal plane as the fault plane. The nodal planes of the focal mechanism are projected on the lower hemisphere for the PGA solution, and the upper hemisphere for the PGV solution. All the stations used were within 90 km of the epicenter.
+

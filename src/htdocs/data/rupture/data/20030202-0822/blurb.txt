@@ -1,0 +1,1 @@
+Both the PGA and PGV directivities are moderate (&nu; ~ 0.7&beta;) and fairly well constrained.  The fit of the rupture directions with the NS trending nodal plane is remarkable.  The nodal planes are projected on the upper hemisphere.  All the stations used are within 90 km of the fault.

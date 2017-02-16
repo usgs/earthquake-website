@@ -1,0 +1,2 @@
+The PGA and PGV rupture directions are poorly resolved because of the relatively weak directivity in the earthquake (&nu;~ 0.6&beta;). Both inversions identify the south dipping nodal plane as the fault plane.  The nodal planes are projected on the upper hemisphere.  All the stations used are within 70 km of the earthquake.
+ 

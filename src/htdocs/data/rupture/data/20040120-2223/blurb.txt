@@ -1,0 +1,3 @@
+Both the PGA and PGV directivities are moderate (&nu; ~ 0.65&beta;), and both rupture directions are well constrained.  Both solutions identify the EW striking nodal plane as the fault plane.  The nodal planes are projected on the upper hemisphere.  All the stations used are within 90 km of the earthquake.
+
+

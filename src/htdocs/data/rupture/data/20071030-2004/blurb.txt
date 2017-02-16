@@ -1,0 +1,2 @@
+The PGA and PGV directivities are strong and clearly identify the NW-SE striking nodal plane (that is, the Calaveras fault) as the fault plane.  The PGA solution has a rupture velocity of 0.67&beta;, the PGA solution has a rupture velocity of 0.72&beta;.  The PGA solution, with the slower rupture velocity, appears more appropriate, largely because it is more closely aligned with the nodal plane.  The  nodal planes are projected on the upper hemisphere.   All the stations used are within 70 km of the earthquake.
+ 

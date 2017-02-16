@@ -1,0 +1,1 @@
+The directivity is strong: the PGA and PGV rupture velocities are limited at &nu; &equiv; 0.92&beta;. The directions are vertically upward and close to the intersection of the nodal planes. The nodal planes are projected on the upper hemisphere.  All the stations used are within 55 km of the earthquake.

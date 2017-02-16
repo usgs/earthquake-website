@@ -236,7 +236,7 @@
         <li><a href="/research/parkfield/livedata.php">Parkfield Geophysical Data</a></li>
         <li><a href="/research/parkfield/2003site.php">SAFOD Data</a></li>
         <li><a href="/learn/topics/flinn_engdahl.php">Flinn-Engdahl Regionalization Files</a></li>
-        <li><a href="/research/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>
+        <li><a href="/data/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>
       </ul>
     </div>
 
