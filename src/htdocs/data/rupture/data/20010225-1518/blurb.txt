@@ -1,0 +1,1 @@
+Both the PGA and PGV directivities are moderate (&nu; ~ 0.7&beta;) and fairly well constrained.  Both solutions favor the NW-SE striking nodal plane (that is, the Calaveras fault) as the fault plane.  The nodal planes are projected on the upper hemisphere.  All the stations used are within 90 km of the fault.

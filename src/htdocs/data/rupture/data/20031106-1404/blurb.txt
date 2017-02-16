@@ -1,0 +1,3 @@
+The PGA and PGV directivities are well constrained and consistent with each other, but both rupture velocities are limited (&nu; &equiv; 0.92&beta;).  Both solutions identify the NE dipping nodal plane as the fault plane.  The nodal planes are projected on the upper hemisphere.  All the stations used are within 90 km of the earthquake.
+
+

@@ -1,0 +1,1 @@
+The PGA directivity is limited (&nu; &equiv; 0.92&beta;) while the PGV directivity is strong (&nu; ~ 0.81&beta;). Both rupture directions are mostly updip. The PGA rupture direction slightly favors the NW-SE striking nodal plane, possibly the Franklin fault. The nodal planes are projected on the upper hemisphere. All the stations used are within 90 km of the fault.

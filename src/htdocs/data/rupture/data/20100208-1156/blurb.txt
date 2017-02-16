@@ -1,0 +1,2 @@
+The PGV directivity  is strong (&nu; = 0.87&beta;) and the PGA rupture directivity is limited (&nu; &equiv; 0.92&beta;).  Both rupture directions are almost directly down. Both solutions indicate the rupture is close to the intersection of the planes, so that the fault plane may not be determined.   The nodal planes are projected on the lower hemisphere.  All the stations used are within 60 km of the earthquake.
+ 

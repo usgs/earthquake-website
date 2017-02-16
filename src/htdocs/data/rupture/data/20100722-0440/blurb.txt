@@ -1,0 +1,2 @@
+The directivity  is stronger in the PGV solution (&nu; = 0.91&beta;) than in the PGA solution (&nu; = 0.70&beta;).  Both solutions indicate that the EW striking nodal plane is the fault plane, although the PGA rupture is slightly updip and the PGV rupture is slightly downdip.  The PGA nodal planes are projected on the upper hemisphere and the PGV nodal planes are projected on the lower hemisphere.  All the stations used are within 90 km of the earthquake.
+ 

@@ -1,0 +1,1 @@
+Both the PGA and PGV directivities are moderate (&nu; ~ 0.6&beta;) and fairly well constrained.  Both rupture directions are mostly updip.  The PGA inversion favors the NW-SE trending nodal plane (that is, the Calaveras fault), while the PGV inversion is indeterminate.  The nodal planes are projected on the upper hemisphere.  All the stations used are within 90 km of the fault.

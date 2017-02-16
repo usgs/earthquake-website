@@ -1,0 +1,4 @@
+Both the PGA and PGV inversions obtain northwest rupture directions, but the vertical components differ:  the PGA rupture direction is up and the PGV rupture direction is down.  The more moderate (&nu; = 0.62&beta;) PGA solution appears more appropriate and identifies the NW-SE trending nodal plane as the fault plane. The nodal planes are projected on the upper hemisphere for PGA and the lower hemisphere for PGV. All the stations used are within 85 km of the earthquake.
+
+
+

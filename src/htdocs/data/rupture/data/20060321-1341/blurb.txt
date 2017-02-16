@@ -1,0 +1,1 @@
+Both the PGA and PGV rupture directions are well-constrained and directly updip.  For this pathological case, the fault plane cannot be identified.  The nodal planes are projected on the upper hemisphere. All stations used are within 90 km of the earthquake.
