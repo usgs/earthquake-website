@@ -79,6 +79,11 @@
   </div>
 
   <div class = "column two-of-five">
+    <div class="alert">
+      <?php
+        include 'today/_imbed.inc.php';
+       ?>
+    </div>
     <div class="alert" style="margin-bottom:16px">
 
       <h3>Multimedia</h3>
