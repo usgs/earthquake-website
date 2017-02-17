@@ -16,7 +16,7 @@
 <h3>Test Sound</h3>
 <p>
   <audio controls>
-    <source src="mp4s/pst.mp4" type="audio/wav"/>
+    <source src="mp4s/pst.mp4" type="audio/mp4"/>
   Your browser does not support the audio element.
   </audio>
 </p>
