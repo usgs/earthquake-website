@@ -40,15 +40,15 @@ img.nehrp {
   margin-top: .25em;
 }
 
-ul.feature, li.feature-item {
-  margin-top: 0;
-  padding-top: 0;
-}
-
-h3.feature-title {
-
+div.alert {
+  margin-top: 1em;
+  padding-top: 0.8em;
 }
 
 img.feature-image {
   width: 150px;
+}
+
+ul.separator>li {
+  padding: 0;
 }
