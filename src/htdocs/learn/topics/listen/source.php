@@ -34,14 +34,14 @@
 <h3>Earthquake One</h3>
 <p>
 	<audio controls>
-		<source src="mp4s/petrolia1a.mp4" type="audio/wav"/>
+		<source src="mp4s/petrolia1a.mp4" type="audio/mp4"/>
 	Your browser does not support the audio element.
 	</audio>
 </p>
 <h3>Earthquake Two</h3>
 <p>
 	<audio controls>
-		<source src="mp4s/petrolia2a.mp4" type="audio/wav"/>
+		<source src="mp4s/petrolia2a.mp4" type="audio/mp4"/>
 	Your browser does not support the audio element.
 	</audio>
 </p>
