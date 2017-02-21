@@ -68,7 +68,7 @@
     <h3>Long Valley Caldera Seismogram</h3>
     <p>
     	<audio controls>
-    		<source src="mp4s/MTCM.mp4" type="audio/wav"/>
+    		<source src="mp4s/MTCM.mp4" type="audio/mp4"/>
     	Your browser does not support the audio element.
     	</audio>
     </p>
@@ -91,14 +91,14 @@
     <h3>Parkfield Seismogram</h3>
     <p>
     	<audio controls>
-    		<source src="mp4s/PMMM.mp4" type="audio/wav"/>
+    		<source src="mp4s/PMMM.mp4" type="audio/mp4"/>
     	Your browser does not support the audio element.
     	</audio>
     </p>
     <h3>Geysers Seismogram</h3>
     <p>
     	<audio controls>
-    		<source src="mp4s/GGPM.mp4" type="audio/wav"/>
+    		<source src="mp4s/GGPM.mp4" type="audio/mp4"/>
     	Your browser does not support the audio element.
     	</audio>
     </p>

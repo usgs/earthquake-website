@@ -38,14 +38,14 @@
 <h3>Seismometer One</h3>
 <p>
 	<audio controls>
-		<source src="mp4s/sao.mp4" type="audio/wav"/>
+		<source src="mp4s/sao.mp4" type="audio/mp4"/>
 	Your browser does not support the audio element.
 	</audio>
 </p>
 <h3>Seismometer Two</h3>
 <p>
 	<audio controls>
-		<source src="mp4s/pkd1.mp4" type="audio/wav"/>
+		<source src="mp4s/pkd1.mp4" type="audio/mp4"/>
 	Your browser does not support the audio element.
 	</audio>
 </p>

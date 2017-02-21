@@ -17,14 +17,14 @@
          Recorded at Long Valley Caldera
        </p>
        <audio controls>
-         <source src="mp4s/MTCM.mp4" type="audio/wav">
+         <source src="mp4s/MTCM.mp4" type="audio/mp4">
        Your browser does not support the audio element.
        </audio>
        <p>
          Recorded at Parkfield
        </p>
        <audio controls>
-         <source src="mp4s/PMMM.mp4" type="audio/wav">
+         <source src="mp4s/PMMM.mp4" type="audio/mp4">
        Your browser does not support the audio element.
        </audio>
      </li>
@@ -34,14 +34,14 @@
           Magnitude 6.5
         </p>
         <audio controls>
-          <source src="mp4s/petrolia1a.mp4" type="audio/wav">
+          <source src="mp4s/petrolia1a.mp4" type="audio/mp4">
         Your browser does not support the audio element.
         </audio>
         <p>
           Magnitude 6.3
         </p>
         <audio controls>
-          <source src="mp4s/petrolia2a.mp4" type="audio/wav">
+          <source src="mp4s/petrolia2a.mp4" type="audio/mp4">
         Your browser does not support the audio element.
         </audio>
      </li>
@@ -51,14 +51,14 @@
           Recorded at Parkfield
         </p>
         <audio controls>
-          <source src="mp4s/sao.mp4" type="audio/wav">
+          <source src="mp4s/sao.mp4" type="audio/mp4">
         Your browser does not support the audio element.
         </audio>
         <p>
           Recorded at Hollister
         </p>
         <audio controls>
-          <source src="mp4s/pkd1.mp4" type="audio/wav">
+          <source src="mp4s/pkd1.mp4" type="audio/mp4">
         Your browser does not support the audio element.
         </audio>
      </li>
@@ -68,14 +68,14 @@
           Recorded on Hard Rock
         </p>
         <audio controls>
-          <source src="mp4s/pst.mp4" type="audio/wav">
+          <source src="mp4s/pst.mp4" type="audio/mp4">
         Your browser does not support the audio element.
         </audio>
         <p>
           Recorded on Chewed Up Fault Zone Rocks Two
         </p>
         <audio controls>
-          <source src="mp4s/pmm.mp4" type="audio/wav">
+          <source src="mp4s/pmm.mp4" type="audio/mp4">
         Your browser does not support the audio element.
         </audio>
      </li>

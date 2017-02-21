@@ -54,6 +54,17 @@ $EQ_FEATURES->baseUrl = '';
  *               strtotime('2014-10-31')
  *
  */
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-02-21',
+   'title' => 'A Fresh Look at Old Data Sheds Light on Central U.S. Quake Origins and Potential',
+   'content' => 'Small variations in the density of the earth’s crust influence where earthquakes may occur in the central U.S. These new findings published today in Nature Communications may allow scientists to map where future seismicity in the center of the country is most likely.',
+   'link' => 'https://www.usgs.gov/news/a-fresh-look-old-data-sheds-light-central-us-quake-origins-and-potential',
+   'modified' => strtotime('2017-02-21'),
+   'thumbnail' => '/images-featured/fresh-old.jpg',
+   'image' => '/images-featured/fresh-old.jpg'
+ );
+
  $EQ_FEATURES->items[] = array(
    'id' => '2017-02-07',
    'title' => 'Community Announcement: USGS Ground Motion Study in the Walnut Creek/Concord Area Looking for Volunteers',
