@@ -232,50 +232,34 @@ $rs = null;
 
 print '<div class="ten column" id="topics">';
 
-//link back to page
-print "
-<a class='prev' href=\"index.php\">
-  <span class='material-icons prev'>&#xe5c4;</span>
-  <strong>Back to Main Page for Learn Topics</strong>
-</a>";
-
 //display links
 if (isset($display_result_count) && $display_result_count && $all == '' && $usgs == 0) {
 
   //show what was chosen
-  echo "<h2>The choices are below:</h2>
+  echo "<h2>Your choices are:</h2>
   <table>
     <tr>
-      <th>Category</th>
-      <th>Choice</th>
+      <th>Topic</th>
+      <th>Content Type</th>
+      <th>Level</th>
+      <th>Region</th>
     </tr>
     <tr>
-      <td><strong>Topic</strong></td>
       <td>$topic_name</td>
-    </tr>
-    <tr>
-      <td><strong>Content Type</strong></td>
       <td>$content_name</td>
-    </tr>
-    <tr>
-      <td><strong>Level</strong></td>
       <td>$level_name</td>
-    </tr>
-    <tr>
-      <td><strong>Region</strong></td>
       <td>$region_name</td>
     </tr>
   </table>
-
   ";
 
   //display number of links
   $num_links = count($links);
-  print '<h2>' . $num_links . ' matching link';
+  print '<p><strong>' . $num_links . ' matching link';
   if ($num_links != 1) {
     print 's';
   }
-  print ' found</h2>';
+  print ' found</strong></p>';
 }
 
 if (isset($display_list)) {

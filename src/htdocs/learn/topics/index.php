@@ -4,7 +4,10 @@
       //  Last  modified:  1/27/2016
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Earthquake Topics';
-      $HEAD = '<link rel="stylesheet" href="index.css"/>';
+      $HEAD = '
+        <link rel="stylesheet" href="index.css"/>
+        <link rel="stylesheet" href="/lib/leaflet-0.7.7/leaflet.css"/>
+        <link rel="stylesheet" href="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.css"/>';
       $NAVIGATION  = true;
       include  'template.inc.php';
       }
@@ -17,27 +20,20 @@ echo '
   <div class="column two-of-three">
     <h2>Popular</h2>
     <ul>
-      <li><a href="all.php"><h4>All Resources</h4></a></li>
-
-      <li><a href="usgs.php"><h4 style="margin-top:0px">USGS Only Resources</h4></a></li>
+      <li><a href="/learn/kids/eqscience.php">
+        The Science of Earthquakes</a> - the basics in brief</li>
 
       <li><a href="/learn/animations/">
         Animations for Earthquake Terms &amp; Concepts</a></li>
 
       <li><a href="https://pubs.usgs.gov/gip/dynamic/dynamic.html">
-        This Dynamic Earth: The Story of Plate Tectonics</a> - excellent comprehensive overview of plate tectonics with excellent graphics, online USGS general interest publication.</li>
+        This Dynamic Earth: The Story of Plate Tectonics</a> - comprehensive overview of plate tectonics with excellent graphics</li>
 
       <li><a href="https://pubs.usgs.gov/imap/2800/">
         This Dynamic Planet</a> - World Map of Volcanoes, Earthquakes, Impact Craters, and Plate Tectonics.</li>
 
-      <li>EQ101 Presentation - <a href="/learn/topics/EQ101.zip">
-        PowerPoint Zip file (6.5MB)</a> or <a href="/learn/topics/EQ101.pdf">PDF</a></li>
-
-      <li><a href="/other_eqsites.php">
-        Other Earthquake Websites</a></li>
-
-      <li><a href="/learn/kids/eqscience.php">
-        The Science of Earthquakes</a> - the basics in brief</li>
+      <li><a href="/learn/topics/EQ101.pdf">
+        EQ101 Presentation</a></li>
 
       <li><a href="http://education.usgs.gov/" target="_blank">
         USGS Education Web Site</a></li>
@@ -45,39 +41,42 @@ echo '
       <li><a href="http://store.usgs.gov/" target="_blank">
         USGS Store - Publications and Products</a></li>
 
-      <li><a href="http://www.nationalatlas.gov/" target="_blank">
+      <li><a href="https://www.nationalmap.gov/" target="_blank">
         USGS National Atlas Maps</a></li>
     </ul>
-    <hr />
+    <ul class="alert">
+      <li><a href="all.php"><strong>All Resources</strong></a></li>
+      <li><a href="usgs.php"><strong>USGS Only Resources</strong></a></li>
+    </ul>
+
     <h2>Resources by Level</h2>
 
     <div class="row">
 
-      <div class="text blue">
-        <a href="search.php?sendLevelID=8"><h3>Elementary</h3></a>
+      <div class="text elementary">
+        <a href="search.php?sendLevelID=8" id ="font"><h3>Elementary</h3></a>
       </div>
 
-      <div class="text blue">
-        <a href="search.php?sendLevelID=9"><h3>Middle School</h3></a>
+      <div class="text middle">
+        <a href="search.php?sendLevelID=9" id ="font"><h3>Middle School</h3></a>
       </div>
     </div>
 
     <div class="row">
 
-      <div class="text blue">
-        <a href="search.php?sendLevelID=10"><h3>High School</h3></a>
+      <div class="text high">
+        <a href="search.php?sendLevelID=10" id="font"><h3>High School</h3></a>
       </div>
 
-      <div class="text blue">
-        <a href="search.php?sendLevelID=11"><h3>College</h3></a>
+      <div class="text college">
+        <a href="search.php?sendLevelID=11" id="font"><h3>College</h3></a>
       </div>
     </div>
 
-    <hr />
     <h2>Search</h2>';
     echo '
     <form action="/learn/topics/search.php" method="get">
-      <fieldset>
+      <fieldset style="border:0">
         <ol class="no-style">
           <li>';
     $all = param('all');
@@ -135,14 +134,23 @@ echo '
 
     echo '
         </select></li>
-        <li><input type="submit" value="Search"/></li>
       </ol>
+
       </fieldset>
+      <footer class="footer" aria-label="Search form footer">
+        <button type="submit" id="fdsn-submit">Search</button>
+        <span class="output-descriptor"></span>
+        <div class="search-error"></div>
+      </footer>
     </form>';
+
+    echo '
+
+    ';
 
 echo '
   </div>
-  <div class="column one-of-three">
+  <div class="column one-of-three alert">
     <h2>Choose a Topic</h2>';
     //ALL TOPICS
 

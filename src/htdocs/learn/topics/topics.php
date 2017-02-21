@@ -36,7 +36,7 @@
             $pic = '<img class="right" src="/learn/images/topics/' . $row['pic'] . '" alt=""/>';
           }
           $TITLE = $pic . $TITLE . $topic;
-          echo "<h1>$topic</h1>";
+          echo "<h2>$topic</h2>";
         }
 
         // must close cursor before calling execute again
@@ -52,21 +52,6 @@
       // close database connection
       $pdo = null;
     }
-
-?>
-<!--<p>
-  <a href="all.php">View all topic links<br /></a>
-  <a href="usgs.php">View USGS links only</a><br />
-  <a href="search.php">Search Topics </a>
-</p>-->
-
-<?php
-//link back to page
-print "
-<a class='prev' href=\"index.php\">
-  <span class='material-icons prev'>&#xe5c4;</span>
-  <strong>Back to Main Page for Learn Topics</strong>
-</a>";
 
 //ONE TOPIC
 if ($topicID != 0) {
@@ -89,7 +74,7 @@ if ($topicID != 0) {
     //no results
     $count = $statement->rowCount();
     if (!$statement || $count == 0) {
-      print "<h2>No Matching Links were Found</h2>";
+      print "<strong>No Matching Links were Found</strong>";
       return;
     }
 
@@ -134,15 +119,15 @@ if ($topicID != 0) {
         }
       }
 
-      print '<div class="ten column" id="topics">';
+      print '<div>';
 
       //display links
       $num_links = count($links);
-      print '<h2>' . $num_links . ' matching link';
+      print '<strong>' . $num_links . ' matching link';
       if ($num_links != 1) {
         print 's';
       }
-      print " found</h2>";
+      print " found</strong>";
       print '<ul>';
 
       foreach ($links as $id => $link) {

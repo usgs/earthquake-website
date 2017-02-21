@@ -11,11 +11,38 @@
 
 h3 {
   margin-top: 1em;
-  display: inline-block;
   text-align: center;
   vertical-align: middle;
+  color: black;
 }
 
-.blue {
+#font {
+  text-decoration: none;
+}
+
+.elementary {
+  background-color: #8bc543;
+}
+
+.middle {
   background-color: #d4eef4;
+}
+
+.high {
+  background-color: #d89385;
+}
+
+.college {
+  background-color: #f4b840;
+}
+
+.footer {
+  background-color: #EEE;
+  padding: 16px;
+}
+
+.output-descriptor {
+  display: block;
+  color: #666;
+  font-size: .9em;
 }
