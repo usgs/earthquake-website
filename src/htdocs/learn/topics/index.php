@@ -44,7 +44,7 @@ echo '
       <li><a href="https://www.nationalmap.gov/" target="_blank">
         USGS National Atlas Maps</a></li>
     </ul>
-    <ul class="alert">
+    <ul class="alert" style="margin-right:16px">
       <li><a href="all.php"><strong>All Resources</strong></a></li>
       <li><a href="usgs.php"><strong>USGS Only Resources</strong></a></li>
     </ul>
@@ -137,7 +137,7 @@ echo '
       </ol>
 
       </fieldset>
-      <footer class="footer" aria-label="Search form footer">
+      <footer class="footer" aria-label="Search form footer" style="margin-right:16px">
         <button type="submit" id="fdsn-submit">Search</button>
         <span class="output-descriptor"></span>
         <div class="search-error"></div>

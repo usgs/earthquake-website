@@ -3,7 +3,14 @@
       //	Contact: Andy Michael
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Earthquake Distance Effects';
-      $HEAD = '<link rel="stylesheet" href="styles.css"/>';
+      $HEAD = '
+        <link rel="stylesheet" href="/lib/hazdev-webutils-0.1.8/hazdev-webutils.css"/>
+        <link rel="stylesheet" href="styles.css"/>
+      ';
+      $FOOT = '
+        <script src="/lib/hazdev-webutils-0.1.8/hazdev-webutils.js"></script>
+        <script src="learnListenModalView.js"></script>
+      ';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
@@ -49,7 +56,12 @@
 	Your browser does not support the audio element.
 	</audio>
 </p>
-<p>
-	Which seismometer was closer to the earthquake: <a href="answers/sao.php">One </a>
-  or <a href="answers/pkd1.php">Two</a>?
-</p>
+<div>
+  <p>
+  	Which seismometer was closer to the earthquake:
+  </p>
+  <button class="sao" value="Seiso One" onMouseOver="sao()"> Seisometer One</button>
+  or
+  <button class="pkd1" value="Seiso Two" onMouseOver="pkd1()">Seisometer Two</button>
+  ?
+</div>
