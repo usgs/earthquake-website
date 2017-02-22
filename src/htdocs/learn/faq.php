@@ -25,7 +25,7 @@
 <h2>Earthquakes and Plate Tectonics</h2>
 <ul>
   <li><a href="https://www2.usgs.gov/faq/categories/9827/3343">What is an earthquake and what causes them to happen?</a></li>
-  <li><a href="https://www2.usgs.gov/faq/categories/9827/3273">Can we cause earthquakes? Is there any way to prevent earthquakes? Lubricate the fault, or make lots of small earthquakes?</a></li>
+  <li><a href="https://www2.usgs.gov/faq/categories/9827/8208">Can we cause earthquakes? Is there any way to prevent earthquakes?</a></li>
   <li><a href="https://www2.usgs.gov/faq/categories/9827/3346">Foreshocks, aftershocks - what's the difference?</a></li>
   <li><a href="https://www2.usgs.gov/faq/categories/9827/3354">Can the position of the moon or the planets affect seismicity? Are there more earthquakes in the morning/in the evening/at a certain time of the month?</a></li>
   <li><a href="https://www2.usgs.gov/faq/categories/9827/3345">What is surface faulting or surface rupture in an earthquake?</a></li>
