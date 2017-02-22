@@ -3,6 +3,13 @@
       //	Contact: Andy Michael
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Listening to Multiple Earthquakes';
+      $HEAD = '
+        <link rel="stylesheet" href="/lib/hazdev-webutils-0.1.8/hazdev-webutils.css"/>
+      ';
+      $FOOT = '
+        <script src="/lib/hazdev-webutils-0.1.8/hazdev-webutils.js"></script>
+        <script src="learnListenModalView.js"></script>
+      ';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
@@ -102,10 +109,15 @@
     	Your browser does not support the audio element.
     	</audio>
     </p>
-    <p>
-    	Which area had small triggered earthquakes: <a href="answers/PMMM.php">Parkfield </a>
-      or the <a href="answers/GGPM.php">Geysers</a>?
-    </p>
+    <div>
+      <p>
+      	Which area had small triggered earthquakes:
+      </p>
+      <button class="parkfield" value="Parkfield" onMouseOver="parkfield()">Parkfield</button>
+        or
+      <button class="GGPM" value="Geysers" onMouseOver="GGPM()">Geysers</button>
+      ?
+    </div>
   </div>
   <div class="column one-of-two">
     <p>
