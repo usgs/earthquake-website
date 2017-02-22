@@ -58,7 +58,7 @@ echo "
           $year = $fact['year'];
           $image = $fact['image'];
           $comment = $fact['comment'];
-					echo '<li class="alert">';
+					echo '<li class="alert" style="padding:1em">';
 							echo '<h4 style="color:black">' .
 							      sprintf('M%s - %s, %s',
 	                          $mag,
