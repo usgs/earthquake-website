@@ -19,8 +19,13 @@
       <img src="images/us2014.gif" alt=""/>
     </figure>
     <h3>United States - Lower 48</h3>
+    <h4>Short-term Induced Seismicity Models</h4>
     <ul>
+      <li><a href="conterminous/index.php#2017">2017</a></li>
       <li><a href="conterminous/index.php#2016">2016</a></li>
+    </ul>
+    <h4>Long-term Models</h4>
+    <ul>
       <li><a href="conterminous/index.php#2014">2014</a></li>
       <li><a href="conterminous/index.php#2008">2008</a></li>
       <li><a href="conterminous/index.php#2002">2002</a></li>
