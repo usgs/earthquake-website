@@ -6,7 +6,7 @@
   "<section>",
 
     navItem("${section}/designmaps/", "Design Ground Motions") .
-    navItem("${section}/hazmaps/", "Seismic Hazard Maps &amp; Other Products") .
+    navItem("${section}/hazmaps/", "Seismic Hazard Maps &amp; Site-Specific Data") .
     navItem("${section}/qfaults/", "Faults") .
     navItem("${section}/scenarios/", "Scenarios") ,
 

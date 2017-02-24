@@ -1,9 +1,9 @@
 <?php
 // Author: Lisa Wald
-// Contact: Mark pspell_add_to_personal,
-// Last modified: 2016/08/08, Lisa Wald
+// Contact: Mark Peterson
 if (!isset($TEMPLATE)) {
   $TITLE = 'Hazard and Risk Assessment';
+  $CONTACT = 'rawilliams@usgs.gov'
   $NAVIGATION = true;
   include 'template.inc.php';
 }
@@ -19,3 +19,8 @@ if (!isset($TEMPLATE)) {
 <p>
   There are specific areas that are the focus of more detailed studies, and these contribute largely to the updated information that improves the national hazard maps.  Currently these areas of intense focus include: the Pacific Northwest, large population centers in the Central and Eastern US such as Memphis, St. Louis, Boston, Charleston, Washington D.C.), urban centers in the Intermountain West such as Salt Lake City and the Reno-Carson City urban corridor in Nevada, and Puerto Rico.
 </p>
+
+<h2>For More Information</h2>
+<ul>
+  <li><a href="/hazards/urban/">Urban Seismic Hazards</a></li>
+</ul>

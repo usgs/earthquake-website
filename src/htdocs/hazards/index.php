@@ -1,6 +1,6 @@
 <?php
 // Author: Lisa Wald
-// Contact: Mark Peterson
+// Contact: Mark Petersen
 // Last modified: 08/23/2016
 if (!isset($TEMPLATE)) {
   $TITLE = 'Hazards';
@@ -28,7 +28,7 @@ if (!isset($TEMPLATE)) {
       </li>
       <li>
         <a href="hazmaps/">
-          <h4>Seismic Hazard Maps and Other Products</h4>
+          <h4>Seismic Hazard Maps and Site-Specific Data</h4>
           <img src="images/hazmap-2x.gif" width="150"/>
         </a>
         <p>
