@@ -9,7 +9,7 @@ if (!isset($TEMPLATE)) {
   ob_start();
   include '../_navigation.inc.php';
   $NAVIGATION = ob_get_clean();
-  $CONTACT = 'mpetersen@usgs.gov'
+  $CONTACT = 'mpetersen@usgs.gov';
 
   include 'template.inc.php';
 }
