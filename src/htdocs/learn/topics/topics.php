@@ -18,7 +18,7 @@
       $statement = $pdo->prepare("
           select t.topic, t.pic
           from learn_Topics t
-          where t.approve='yes' AND t.id=:topicID AND
+          where t.id=:topicID AND
           exists (select * from learn_LinkTopic lt, learn_Main m where lt.topicID=t.id and lt.linkID=m.id)");
       try {
         // use bound parameter names
