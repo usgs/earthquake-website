@@ -64,7 +64,7 @@
 
   <div class="column one-of-two">
     <figure>
-    <img src="images/ofr-cover-300-2x.gif" maxwidth="300" alt=""/>
+    <img src="images/ProbDamageEQ_2016-300x2.gif" maxwidth="300" alt=""/>
     <figcaption>
     Map showing chance of damage from an earthquake in the Central and Eastern United States during 2016. Percent chances are represented as follows: pale yellow, less than 1 percent; dark yellow, 1 to 2 percent; orange, 2 to 5 percent; red, 5 to 10 percent; dark red, 10 to 12 percent.
     </figcaption>
@@ -117,9 +117,9 @@
 
     <h3>Maps for Media</h3>
     <ul>
-      <li><a href="images/ProbDamagEQ.pdf">Forecast for Damage from Natural and Induced Earthquakes in 2016</a><br/>(% Chance of Damage)</li>
+      <li><a href="images/ProbDamageEQ_2016.pdf">Forecast for Damage from Natural and Induced Earthquakes in 2016</a><br/>(% Chance of Damage)</li>
       <p></p>
-      <li><a href="images/MMI.pdf">Forecast for Ground Shaking Intensity from Natural and Induced Earthquakes in 2016</a><br/>(Modified Mercalli Intensity)</li>
+      <li><a href="images/MMI_2016.pdf">Forecast for Ground Shaking Intensity from Natural and Induced Earthquakes in 2016</a><br/>(Modified Mercalli Intensity)</li>
       <p></p>
       <li><a href="images/Wells-Seismicity.pdf">Map of 21 Areas Impacted by Induced Earthquakes</a><br/>(Wells and Seismicity)</li>
     </ul>
