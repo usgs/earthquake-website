@@ -4,6 +4,7 @@
 if	(!isset($TEMPLATE))	{
   $TITLE	=	'St. Louis Area Earthquake Hazards Mapping Project';
   $NAVIGATION	= true;
+  $CONTACT = 'rawilliams@usgs.gov';
   include	'template.inc.php';
 }
 ?>

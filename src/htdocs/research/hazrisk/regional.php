@@ -3,7 +3,7 @@
 // Contact: Mark Peterson
 if (!isset($TEMPLATE)) {
   $TITLE = 'Hazard and Risk Assessment';
-  $CONTACT = 'rawilliams@usgs.gov'
+  $CONTACT = 'rawilliams@usgs.gov';
   $NAVIGATION = true;
   include 'template.inc.php';
 }

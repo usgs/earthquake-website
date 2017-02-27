@@ -3,7 +3,7 @@
 // Contact: Nico Luco, nluco@usgs.gov
 if (!isset($TEMPLATE)) {
   $TITLE = 'Hazard and Risk Assessment';
-  $CONTACT = 'nluco@usgs.gov'
+  $CONTACT = 'nluco@usgs.gov';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
