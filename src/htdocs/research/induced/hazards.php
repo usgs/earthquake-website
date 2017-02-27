@@ -25,7 +25,7 @@ if (!isset($TEMPLATE)) {
 
 <h2>One-Year Forecasts</h2>
 <figure class='left'>
-	<img src="/hazards/induced/images/ofr-cover-300-2x.gif" alt=""/>
+	<img src="/hazards/induced/images/ProbDamageEQ_2016-300x2.gif" alt=""/>
 	<figcaption>
     Chance of damage forecasted from an earthquake during 2016.
   </figcaption>
