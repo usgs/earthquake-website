@@ -35,7 +35,7 @@ if (!isset($TEMPLATE)) {
   In March 2016, the USGS released its first induced earthquake hazard model, the <a href="/hazards/hazmaps/conterminous/index.php#2016">2016 One-Year Seismic Hazard Forecast for the CEUS from Induced and Natural Earthquakes</a>. This model forecasted the strength and frequency of potential ground shaking from future induced and natural earthquakes for a one-year period, based primarily on earthquake data from the previous year (Figure 2). Areas of high induced earthquake hazard were identified in Oklahoma-southern Kansas, the Raton Basin (CO/NM border), north-central Texas, and north-central Arkansas. Near some areas of these active induced earthquakes, hazard is higher than in the 2014 NSHM by more than a factor of 3 and is similar to the chance of damage caused by natural earthquakes at sites in parts of California.
 </p>
 <figure class='left'>
-	<img src="/hazards/induced/images/ProbDamageEQ_2017.gif" alt=""/>
+	<img src="/hazards/induced/images/ProbDamageEQ_2017-300x2.gif" alt=""/>
 	<figcaption>
     Chance of damage forecasted from an earthquake during 2016.
   </figcaption>
