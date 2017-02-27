@@ -16,7 +16,7 @@ $mm = date('m', $date);
 $date = date('F jS', strtotime("${mm}/${dd}"));
 
 echo "
-    <h2>Today in Earthquake History</h2>";
+    <h2>On $date...</h2>";
 
     $query = $pdo->prepare('
         SELECT *
@@ -37,8 +37,6 @@ echo "
         echo 'Nothing returned';
         return;
       }
-      echo '
-      <ul class="no-style linklist">';
         //print out data
         while ($fact = $query->fetch(PDO::FETCH_ASSOC)) {
           $mag = $fact['magnitude'];
@@ -46,18 +44,13 @@ echo "
           $year = $fact['year'];
           $image = $fact['image'];
           $comment = $fact['comment'];
-					echo '<li class="alert">';
-							echo '<h3 style="color:black">' .
-							      sprintf('M%s - %s, %s',
-	                          $mag,
-														(strpos($country,':'))?substr($country,strpos($country, ':')+1):$country,
-														$year) .
-										'</h3>';
+					  echo sprintf('<h3 style="color:black">M%s - %s, %s</h3>',
+                        $mag,
+												(strpos($country,':'))?substr($country,strpos($country, ':')+1):$country,
+												$year);
 							echo '<figure class="left">' . $image . '</figure>';
 						echo '<p>' . $comment . '</p>';
-					echo '</li>';
         }
-      echo '</ul>';
 
       $query->closeCursor();
     } catch (PDOException $e) {
