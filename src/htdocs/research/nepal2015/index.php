@@ -71,7 +71,13 @@ if (!isset($TEMPLATE)) {
 
 <h2>What We Know So Far</h2>
 <p>
-  The epicenter of the earthquake was west of the Kathmandu Valley, but the rupture propagated east towards the valley and the capital city of Kathmandu.  The earthquake originated at a relatively shallow depth of 12-15 km (7.5-9.3 mi). The <a href="https://earthquake.usgs.gov/regional/nca/1868virtualtour/bayarea.php">InSar</a> data indicated that there was no surface rupture, either along a new trace or along known fault lines from previous earthquakes.  Scientists subsequently confirmed this by conducting a field survey in the Kathmandu Valley.  Field data and seismic data indicate that the 2015 fault rupture broke adjacent to the 1934 rupture, and it appears that a larger rupture occurred historically adjacent to the other end too.  Scientists observed impressive ground fractures observed in Kausaltar, but they were the result of local site conditions and shaking, not tectonic displacement.
+  The epicenter of the earthquake was west of the Kathmandu Valley, but the rupture propagated east towards the valley and the capital city of Kathmandu.  The earthquake originated at a relatively shallow depth of 12-15 km (7.5-9.3 mi). The InSar
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+  <a href="/regional/nca/1868virtualtour/bayarea.php">InSar</a>
+-->
+
+  data indicated that there was no surface rupture, either along a new trace or along known fault lines from previous earthquakes.  Scientists subsequently confirmed this by conducting a field survey in the Kathmandu Valley.  Field data and seismic data indicate that the 2015 fault rupture broke adjacent to the 1934 rupture, and it appears that a larger rupture occurred historically adjacent to the other end too.  Scientists observed impressive ground fractures observed in Kausaltar, but they were the result of local site conditions and shaking, not tectonic displacement.
 </p>
 <p>
   Shaking from the earthquake was felt in much of central Nepal, north India, west Bangladesh, and parts of Bhutan.  The furthest reported shaking was in Kahuta, Pakistan. The intensity data show the shaking intensities in Kathmandu Valley were 6-7 on the 1998 European Macroseismic Scale (EMS-98). The distribution of shaking exceeded an intensity level of 8 only a few times.
