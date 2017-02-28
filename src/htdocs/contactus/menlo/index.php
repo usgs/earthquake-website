@@ -96,11 +96,21 @@
 			<li><a href="http://bayquakealliance.org/howclose/">How Close to a Fault Do You Live? Interactive Map</a></li>
 			<li><a href="https://pubs.usgs.gov/sim/2004/2848/">Earthquakes and Faults in the San Francisco Bay Area</a></li>
 			<li><a href="/regional/nca/qmap/">Liquefaction Hazard Maps</a></li>
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+
 			<li><a href="/research/parkfield/">Parkfield Earthquake Experiment</a></li>
+-->
+
 			<li><a href="/learn/topics/hayward_paleo/">Hayward Fault Paleoseismology</a></li>
 			<li><a href="/data/3dgeologic/">3D Geologic and Seismic Velocity Model of the San Francisco Bay Region</a></li>
 			<li><a href="/research/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+
 			<li><a href="/research/sf_siteresponse/">Site Response in the Northern San Francisco Bay Area, California</a></li>
+-->
+
 		</ul>
 	</div>
 </div>

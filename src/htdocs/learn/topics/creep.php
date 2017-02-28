@@ -47,7 +47,12 @@
 	 </p>
  </li>
  <li><a href="http://cires.colorado.edu/~bilham/HaywardDecadeCreep.html">Creepmeters</a> on the Hayward Fault<p>Creepmeter array and plot of 12 years of creepmeter data</p></li>
+
+ <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+
  <li><a href="/monitoring/deformation/data/plots/?region=SF">San Francisco Bay Region Crustal Deformation Measurements</a><p>USGS realtime creepmeter data plots</p></li>
+ -->
+ 
  <li><a href="images/creep_HF2012.pdf">How Deep Does Creep Extend on the Hayward fault, and How Can it Still Cause Major (M6.8) Earthquakes?</a>
    <p><em>Variations in Creep Rate along the Hayward Fault, California, Interpreted as Changes in Depth of Creep</em></p>
  </li>
