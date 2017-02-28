@@ -29,12 +29,12 @@
   <div class="column one-of-two">
     <h3>Documentation</h3>
     <p>
-      <a href="???">
+      <a href="http://srl.geoscienceworld.org/content/early/recent">
       2017 One-Year Seismic Hazard Forecast for the Central and Eastern United States from Induced and Natural Earthquakes</a> - Seis. Res. Lett., v.88, n.3
     </p>
 
     <h3>USGS News Release</h3>
-    <p><a href="https://www.usgs.gov/blogs/features/???">USGS Science Feature</a></p>
+    <p><a href="https://www.usgs.gov/news/millions-risk-human-induced-earthquakes-2017">USGS Top Story</a></p>
 
     <h3>Maps for Media</h3>
     <ul>
