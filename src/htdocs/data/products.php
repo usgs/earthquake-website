@@ -69,6 +69,8 @@
       </p>
     </div>
 
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+
     <div class="alert" style="margin-bottom:16px">
       <figure class="right">
         <img src="images/sf-2x.jpg" width="75" alt=""/>
@@ -78,6 +80,7 @@
         <a href="/regional/nca/maps/">San Francisco Bay Area Maps</a> for faults, shaking hazards, earthquake probabilities, and liquefaction hazards.
       </p>
     </div>
+-->
 
     <div class="alert" style="margin-bottom:16px">
       <figure class="right">
