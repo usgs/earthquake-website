@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Lisa Wald,
-  // Last modified: 6/15/2016
   if (!isset($TEMPLATE)) {
   $TITLE = 'Data';
   $NAVIGATION = true;
@@ -62,29 +61,29 @@
       <h3 id="wave">Seismic Waveforms</h3>
 
       <ul>
-    		<li>Real-time:
-    			<ul>
-    				<li><a href="/monitoring/operations/heliplot.php?virtual_network=GSN">GSN Stations</a></li>
-    				<li><a href="/monitoring/operations/heliplot.php?virtual_network=ANSS">ANSS Backbone Stations</a></li>
-    				<li><a href="/monitoring/netquakes/map/">Netquake Volunteer Stations</a></li>
-    				<li><a href="/monitoring/spectrograms/">Spectrograms</a></li>
-    			</ul>
-    		</li>
-    		<li><a href="http://www.iris.edu/data/seismograms/">Broadband Data - Incorporated Research Institutions for Seismology (IRIS)</a></li>
-    		<li>Strong Motion Data:
-    		<ul>
-    			<li><a href="http://www.strongmotioncenter.org/">USGS-CGS Center for Engineering Strong Motion Data</a></li>
-    			<li><a href="/monitoring/nsmp/data.php">USGS National Strong Motion Program (NSMP) Data</a></li>
-    		</ul>
-    		</li>
-    		<li>Weak Motion data from regional networks:
-    		<ul>
-    			<li><a href="http://www.data.scec.org/">Southern California Earthquake Data Center (SCECDC)</a></li>
-    			<li><a href="http://www.ncedc.org/">Northern California Earthquake Data Center (NCECDC) </a></li>
-    		</ul>
-    		</li>
-    		<li><a href="http://www.iris.edu/data/seismograms/">Aftershock Deployments</a></li>
-    		<li><a href="https://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">General Earthquake Observation System (GEOS)</a></li>
+        <li>Real-time:
+          <ul>
+            <li><a href="/monitoring/operations/heliplot.php?virtual_network=GSN">GSN Stations</a></li>
+            <li><a href="/monitoring/operations/heliplot.php?virtual_network=ANSS">ANSS Backbone Stations</a></li>
+            <li><a href="/monitoring/netquakes/map/">Netquake Volunteer Stations</a></li>
+            <li><a href="/monitoring/spectrograms/">Spectrograms</a></li>
+          </ul>
+        </li>
+        <li><a href="http://www.iris.edu/data/seismograms/">Broadband Data - Incorporated Research Institutions for Seismology (IRIS)</a></li>
+        <li>Strong Motion Data:
+        <ul>
+          <li><a href="http://www.strongmotioncenter.org/">USGS-CGS Center for Engineering Strong Motion Data</a></li>
+          <li><a href="/monitoring/nsmp/data.php">USGS National Strong Motion Program (NSMP) Data</a></li>
+        </ul>
+        </li>
+        <li>Weak Motion data from regional networks:
+        <ul>
+          <li><a href="http://www.data.scec.org/">Southern California Earthquake Data Center (SCECDC)</a></li>
+          <li><a href="http://www.ncedc.org/">Northern California Earthquake Data Center (NCECDC) </a></li>
+        </ul>
+        </li>
+        <li><a href="http://www.iris.edu/data/seismograms/">Aftershock Deployments</a></li>
+        <li><a href="https://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">General Earthquake Observation System (GEOS)</a></li>
       </ul>
     </div>
 
@@ -115,27 +114,41 @@
       <h3 id="geod">Geodetic Data</h3>
 
       <p>
-        Currently to make geodetic observations the USGS uses the Global Positioning System (GPS) and also other techniques (<a href="/monitoring/deformation/data/instruments.php">creepmeters, tiltmeters, strainmeters, magnetometers, pore pressure monitors</a>).
+        Currently to make geodetic observations the USGS uses the Global Positioning System (GPS) and also other techniques.
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+
+        (<a href="/monitoring/deformation/data/instruments.php">creepmeters, tiltmeters, strainmeters, magnetometers, pore pressure monitors</a>).
+-->
       </p>
-    	<ul>
-    		<li><a href="/monitoring/deformation/data/">Crustal Deformation Data</a> </li>
-    		<li><a href="/monitoring/deformation/data/plots/">Crustal Deformation Data Plots</a></li>
-    		<li><a href="http://www.ncedc.org/survey-gps/">Unprocessed USGS Campaign GPS data and Bay Area Continuous GPS data (raw and RINEX)</a> at NCEDC</li>
-    		<li><a href="http://garner.ucsd.edu/">Unprocessed USGS Southern California Continuous GPS data (raw and RINEX)</a> at SOPAC</li>
-    		<li><a href="/monitoring/gps/">USGS GPS Time Series and Station Velocities</a></li>
-    		<li>Real-time GPS Positions:
-    		<ul>
-    			<li><a href="https://escweb.wr.usgs.gov/share/highrate-gps/">San Francisco Bay Area</a></li>
-    			<li><a href="http://www.scign.org/realtime/">Southern California</a></li>
-    		</ul>
-    		</li>
-    		<li>USGS once used Electronic Distance Measurement (EDM) with two different instruments:
-    		<ul>
-    			<li><a href="/monitoring/deformation/geodolite/">Geodolite (1970 to 1992)</a></li>
-    			<li><a href="/monitoring/edm/ ">Two Color EDM (1984 to 2005)</a></li>
-    		</ul>
-    		</li>
-    	</ul>
+      <ul>
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+
+        <li><a href="/monitoring/deformation/data/">Crustal Deformation Data</a> </li>
+        <li><a href="/monitoring/deformation/data/plots/">Crustal Deformation Data Plots</a></li>
+-->
+        <li><a href="http://www.ncedc.org/survey-gps/">Unprocessed USGS Campaign GPS data and Bay Area Continuous GPS data (raw and RINEX)</a> at NCEDC</li>
+        <li><a href="http://garner.ucsd.edu/">Unprocessed USGS Southern California Continuous GPS data (raw and RINEX)</a> at SOPAC</li>
+        <li><a href="/monitoring/gps/">USGS GPS Time Series and Station Velocities</a></li>
+        <li>Real-time GPS Positions:
+        <ul>
+          <li><a href="https://escweb.wr.usgs.gov/share/highrate-gps/">San Francisco Bay Area</a></li>
+          <li><a href="http://www.scign.org/realtime/">Southern California</a></li>
+        </ul>
+        </li>
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+
+        <li>USGS once used Electronic Distance Measurement (EDM) with two different instruments:
+        <ul>
+          <li><a href="/monitoring/deformation/geodolite/">Geodolite (1970 to 1992)</a></li>
+          <li><a href="/monitoring/edm/ ">Two Color EDM (1984 to 2005)</a></li>
+        </ul>
+        </li>
+-->
+
+      </ul>
     </div>
 
     <div class="alert" style="margin-bottom:16px">
@@ -145,18 +158,18 @@
       <h3 id="earth">Earth Structure and Site Response</h3>
 
       <ul>
-    		<li><a href="crust/database.php">Global Crustal Database</a></li>
-    		<li><a href="vs30/">Vs30 Data</a></li>
-    		<li><a href="https://www.sciencebase.gov/catalog/item/57c8269fe4b0f2f0cec02347?community=Geologic+Hazards+Science+Center">USGS Vibroseis Seismic Reflection Data</a></li>
-    		<li><a href="http://walrus.wr.usgs.gov/infobank/">USGS Marine Seismic Reflection Data</a></li>
-    		<li>Maps of Quaternary Deposits:
-    		<ul>
-    			<li><a href="/research/external/reports/05HQGR0151.pdf">Maps of Quaternary Deposits and Liquefaction Susceptibility in the Central San Francisco Bay Region, California</a></li>
-    			<li><a href="/research/external/reports/06HQAG0125.pdf">The Quaternary Geology of the Seattle-Tacoma Urban Corridor - Building the Foundation for Geologic-Hazard Mapping</a></li>
-    		</ul>
-    		</li>
-    		<li><a href="http://geomaps.wr.usgs.gov/sfgeo/quaternary/">San Francisco Bay Region Geology and Fault Maps</a></li>
-    	</ul>
+        <li><a href="crust/database.php">Global Crustal Database</a></li>
+        <li><a href="vs30/">Vs30 Data</a></li>
+        <li><a href="https://www.sciencebase.gov/catalog/item/57c8269fe4b0f2f0cec02347?community=Geologic+Hazards+Science+Center">USGS Vibroseis Seismic Reflection Data</a></li>
+        <li><a href="http://walrus.wr.usgs.gov/infobank/">USGS Marine Seismic Reflection Data</a></li>
+        <li>Maps of Quaternary Deposits:
+        <ul>
+          <li><a href="/research/external/reports/05HQGR0151.pdf">Maps of Quaternary Deposits and Liquefaction Susceptibility in the Central San Francisco Bay Region, California</a></li>
+          <li><a href="/research/external/reports/06HQAG0125.pdf">The Quaternary Geology of the Seattle-Tacoma Urban Corridor - Building the Foundation for Geologic-Hazard Mapping</a></li>
+        </ul>
+        </li>
+        <li><a href="http://geomaps.wr.usgs.gov/sfgeo/quaternary/">San Francisco Bay Region Geology and Fault Maps</a></li>
+      </ul>
     </div>
 
     <div class="alert" style="margin-bottom:16px">
@@ -166,18 +179,18 @@
       <h3 id="site">Ground Motion and Site Conditions</h3>
 
       <p>The data obtained from active source studies are archived at <a href="http://www.iris.edu/data/seismograms/">IRIS</a> and/or at the <a href="http://www.ngdc.noaa.gov/mgg/aboutmgg/aboutwdcmgg.html">National Geophysical Data Center</a>.  USGS also provides access to certain data sets.</p>
-    	<ul>
-      	<li><a href="/research/cpt/">Cone Penetration Testing</a></li>
-      	<li><a href="/learn/photos.php">Photographs Showing Ground Failure and Earthquake Damage</a></li>
-      	<li>Landslide hazard maps:
-      	<ul>
-      		<li><a href="https://landslides.usgs.gov/hazards/nationalmap/">Landslide Overview Map of the Conterminous United States</a></li>
-      		<li><a href="http://www.conservation.ca.gov/cgs/rghm/landslides/">California Geological Survey - Caltrans Corridor Landslides Maps </a></li>
-      		<li><a href="http://gis.abag.ca.gov/website/Hazards/?hlyr=cgsLndsldZones">California Geological Survey Study Zones: Earthquake-Induced Landslides</a></li>
-      	</ul>
-      	</li>
-      	<li><a href="https://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">GEOS earthquake and aftershock data</a></li>
-    	</ul>
+      <ul>
+        <li><a href="/research/cpt/">Cone Penetration Testing</a></li>
+        <li><a href="/learn/photos.php">Photographs Showing Ground Failure and Earthquake Damage</a></li>
+        <li>Landslide hazard maps:
+        <ul>
+          <li><a href="https://landslides.usgs.gov/hazards/nationalmap/">Landslide Overview Map of the Conterminous United States</a></li>
+          <li><a href="http://www.conservation.ca.gov/cgs/rghm/landslides/">California Geological Survey - Caltrans Corridor Landslides Maps </a></li>
+          <li><a href="http://gis.abag.ca.gov/website/Hazards/?hlyr=cgsLndsldZones">California Geological Survey Study Zones: Earthquake-Induced Landslides</a></li>
+        </ul>
+        </li>
+        <li><a href="https://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">GEOS earthquake and aftershock data</a></li>
+      </ul>
     </div>
 
     <div class="alert" style="margin-bottom:16px">
@@ -187,45 +200,45 @@
       <h3 id="model">Hazard Assessment Data and Models</h3>
 
       <ul>
-  			<li><a href="/hazards/foreign.php">International Hazard Map Data</a></li>
-  			<li><a href="/hazards/hazmaps/">National Hazard Map Data</a></li>
-  			<li><a href="/hazards/urban/">Urban Hazard Map Data</a></li>
-  		</ul>
+        <li><a href="/hazards/foreign.php">International Hazard Map Data</a></li>
+        <li><a href="/hazards/hazmaps/">National Hazard Map Data</a></li>
+        <li><a href="/hazards/urban/">Urban Hazard Map Data</a></li>
+      </ul>
 
-  		<ul>
-  			<li><a href="/regional/nca/soiltype/">Soil Type and Shaking Hazard in the San Francisco Bay Area</a></li>
-  			<li><a href="/regional/nca/alameda/shaking.php">Shaking Hazard in Alameda County, CA</a></li>
-  			<li><a href="/regional/nca/qmap/">Liquefaction Hazard in San Francisco Bay Area, NW Alameda County, N Santa Clara Valley, CA</a></li>
-  		</ul>
+      <ul>
+        <li><a href="/regional/nca/soiltype/">Soil Type and Shaking Hazard in the San Francisco Bay Area</a></li>
+        <li><a href="/regional/nca/alameda/shaking.php">Shaking Hazard in Alameda County, CA</a></li>
+        <li><a href="/regional/nca/qmap/">Liquefaction Hazard in San Francisco Bay Area, NW Alameda County, N Santa Clara Valley, CA</a></li>
+      </ul>
 
-  	   <h4>Faults and Folds</h4>
+       <h4>Faults and Folds</h4>
 
-  		<ul>
-    		<li><a href="NoCal_GeoES_LiDAR_hs.kmz">Northern California LiDAR Hillshades (KMZ)</a></li>
-    		<li>LiDAR databases:
-    		<ul>
-    			<li><a href="http://www.opentopography.org/">OpenTopography</a></li>
-    			<li><a href="http://pugetsoundlidar.ess.washington.edu/lidardata/">Puget Sound Lidar Consortium</a></li>
-    		</ul>
-    		</li>
-    		<li><a href="http://geomaps.wr.usgs.gov/sfgeo/geologic/">San Francisco Bay Region Geology and Geological Hazards</a> (maps)</li>
-    		<li>Quaternary Fault Maps (publications):
-    		<ul>
-    		<li><a href="https://pubs.usgs.gov/ds/2006/177/">Digital database of recently active traces of the Hayward Fault, California</a></li>
-    		<li><a href="http://pubs.er.usgs.gov/publication/ds541">Recently active traces of the Bartlett Springs Fault, California: a digital database</a></li>
-    		</ul>
-    		</li>
-    		<li><a href="/hazards/qfaults/">National Quaternary Fault &amp; Fold Database and Maps</a></li>
-  		</ul>
+      <ul>
+        <li><a href="NoCal_GeoES_LiDAR_hs.kmz">Northern California LiDAR Hillshades (KMZ)</a></li>
+        <li>LiDAR databases:
+        <ul>
+          <li><a href="http://www.opentopography.org/">OpenTopography</a></li>
+          <li><a href="http://pugetsoundlidar.ess.washington.edu/lidardata/">Puget Sound Lidar Consortium</a></li>
+        </ul>
+        </li>
+        <li><a href="http://geomaps.wr.usgs.gov/sfgeo/geologic/">San Francisco Bay Region Geology and Geological Hazards</a> (maps)</li>
+        <li>Quaternary Fault Maps (publications):
+        <ul>
+        <li><a href="https://pubs.usgs.gov/ds/2006/177/">Digital database of recently active traces of the Hayward Fault, California</a></li>
+        <li><a href="http://pubs.er.usgs.gov/publication/ds541">Recently active traces of the Bartlett Springs Fault, California: a digital database</a></li>
+        </ul>
+        </li>
+        <li><a href="/hazards/qfaults/">National Quaternary Fault &amp; Fold Database and Maps</a></li>
+      </ul>
 
-    	<h4>Geologic and Seismic Models</h4>
+      <h4>Geologic and Seismic Models</h4>
 
-    	<ul>
-    		<li><a href="slab/">Slab Models for Subduction Zones</a></li>
-    		<li><a href="http://www.data.scec.org/research-tools/3d-velocity.html">SCEC Community Velocity Model</a></li>
-    		<li><a href="/data/cus_seisvelmodel/">Central US Seismic Velocity Model and M7.7 Simulation</a></li>
-    		<li><a href="3dgeologic/">3D Geologic and Seismic Velocity Models of the San Francisco Bay Region</a></li>
-    	</ul>
+      <ul>
+        <li><a href="slab/">Slab Models for Subduction Zones</a></li>
+        <li><a href="http://www.data.scec.org/research-tools/3d-velocity.html">SCEC Community Velocity Model</a></li>
+        <li><a href="/data/cus_seisvelmodel/">Central US Seismic Velocity Model and M7.7 Simulation</a></li>
+        <li><a href="3dgeologic/">3D Geologic and Seismic Velocity Models of the San Francisco Bay Region</a></li>
+      </ul>
     </div>
 
     <div class="alert" style="margin-bottom:16px">
@@ -233,9 +246,14 @@
 
       <ul>
         <li><a href="/regional/nca/maps/">San Francisco Bay Area Data &amp; Maps</a></li>
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+
         <li><a href="/research/parkfield/livedata.php">Parkfield Geophysical Data</a></li>
         <li><a href="/research/parkfield/2003site.php">SAFOD Data</a></li>
         <li><a href="/learn/topics/flinn_engdahl.php">Flinn-Engdahl Regionalization Files</a></li>
+-->
+
         <li><a href="/data/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>
       </ul>
     </div>
