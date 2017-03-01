@@ -47,7 +47,7 @@ include 'template.inc.php';
     </p>
 
     <p>
-    <a href="https://geohazards.cr.usgs.gov/">Geologic Hazards Team Webpage</a>
+    <a href="https://www.usgs.gov/centers/geohazards">Geologic Hazards Team Webpage</a>
     </p>
 
     <p>

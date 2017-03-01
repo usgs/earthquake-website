@@ -38,5 +38,5 @@ if (!isset($TEMPLATE)) {
 <ul>
   <li><a href="/hazards/designmaps/">Design Ground Motions</a></li>
   <li><a href="/scenarios/">Earthquake Scenarios</a></li>
-  <li><a href="https://geohazards.usgs.gov/trac/wiki/risk">Engineering Risk Assessment Project Wiki</a></li>
+  <li>Engineering Risk Assessment Project Wiki - available soon</li>
 </ul>

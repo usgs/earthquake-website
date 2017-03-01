@@ -62,6 +62,7 @@
     <a href="/hazards/interactive/">Unified Hazard Tool - BETA</a>
     <p>Will eventually replace most of the individual tools listed below.</p>
 
+<!-- GEOHAZ SERVER TURNED OFF MARCH 1, 2017
     <a href="http://geohazards.usgs.gov/hazards/apps/cmaps/">
       <img class='tool' src="images/cmaps.gif" width="75" alt=""/>
       <p>Custom Hazard Maps<br/>
@@ -95,6 +96,8 @@
       <li><a href="http://geohazards.usgs.gov/deaggint/2002/">U.S., Puerto Rico - 2002</a></li>
       <li><a href="http://geohazards.usgs.gov/deaggint/1996/">U.S., Alaska, Hawaii - 1996</a></li>
       <li><a href="http://geohazards.usgs.gov/deaggband/2009/">Banded Deaggregation - U.S. - 2009</a></li>
+ -->
+ 
     </ul>
 
 

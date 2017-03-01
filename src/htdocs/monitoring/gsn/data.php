@@ -17,36 +17,39 @@
 
 <div class="row">
   <div class="column one-of-two">
-  	<h3>Available data:</h3>
-  	<p>
+    <h3>Available data:</h3>
+    <p>
       <a href="http://www.iris.edu/data/data.htm" target="_blank">Data available from IRIS</a> - Information on how to access data from the IRIS Data Management Center
     </p>
 
-  	<p>
+    <p>
       Instrument response information
     </p>
-    	<ul>
-    	  <li>Dataless SEED volumes:
-      		<ul>
+      <ul>
+        <li>Dataless SEED volumes:
+          <ul>
             <li><a href="ftp://aslftp.cr.usgs.gov/pub/dataless/">IU,IC, CU, and related network codes (including historical data)</a></li>
-      	  	<li><a href="ftp://hazards.cr.usgs.gov/ANSS/dataless/">IW and US network codes</a></li>
-      		</ul>
-    	  </li>
-    	  <li>RESP files (compatible with EVALRESP software):
-    			<ul>
+            <li><a href="ftp://hazards.cr.usgs.gov/ANSS/dataless/">IW and US network codes</a></li>
+          </ul>
+        </li>
+        <li>RESP files (compatible with EVALRESP software):
+          <ul>
             <li><a href="ftp://aslftp.cr.usgs.gov/pub/responses/">IU,IC, CU, and related network codes (including historical data)</a></li>
-    	  		<li><a href="ftp://hazards.cr.usgs.gov/ANSS/responses/">IW and US network codes</a></li>
-    			</ul>
-    	  </li>
-    	</ul>
+            <li><a href="ftp://hazards.cr.usgs.gov/ANSS/responses/">IW and US network codes</a></li>
+          </ul>
+        </li>
+      </ul>
 
-  	<p>
+    <p>
+<!-- GEOHAZARDS TURNED OFF MARCH 1, 2017
       <a href="http://geohazards.cr.usgs.gov/staffweb/mcnamara/Software/PQLX.html">Probability Density Function</a> plots:
+-->
+      Probability Density Function</a> plots:
     </p>
-    	<ul>
-    	  <li><a href="ftp://hazards.cr.usgs.gov/web/mcnamara/NEIC/PDFs/">NEIC real-time channels</a> (includes many stations in addition to the GSN &amp; backbone)</li>
-    	  <li><a href="ftp://aslftp.cr.usgs.gov/pub/users/McNamara/PDFs/">GSN archive</a> (includes historical networks)</li>
-    	</ul>
+      <ul>
+        <li><a href="ftp://hazards.cr.usgs.gov/web/mcnamara/NEIC/PDFs/">NEIC real-time channels</a> (includes many stations in addition to the GSN &amp; backbone)</li>
+        <li><a href="ftp://aslftp.cr.usgs.gov/pub/users/McNamara/PDFs/">GSN archive</a> (includes historical networks)</li>
+      </ul>
   </div>
   <div class="column one-of-two">
     <h3>Examples:</h3>

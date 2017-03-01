@@ -105,7 +105,7 @@
 
 	<li>The elevation data used is derived using the <a href="http://nationalmap.gov/viewer.html">1-arc second USGS Digital Elevation Model</a> of the region.</li>
 
-	<li>The Vs30 outside the Mississippi Embayment and St. Louis, MO were obtained from the <a href="/hazards/apps/vs30/">USGS Global Vs30 map server</a>.</li>
+	<li>The Vs30 outside the Mississippi Embayment and St. Louis, MO were obtained from the USGS Global Vs30 map server.</li>
 
 	<li>The <a href="http://crystal.isgs.uiuc.edu/nsdihome/webdocs/st-geolb.html">Illinois depth to bedrock</a> was obtained from the Illinois State
 	Geological Survey.</li>
