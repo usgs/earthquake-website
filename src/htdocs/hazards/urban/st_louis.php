@@ -4,6 +4,7 @@
 if	(!isset($TEMPLATE))	{
   $TITLE	=	'St. Louis Area Earthquake Hazards Mapping Project';
   $NAVIGATION	= true;
+  $CONTACT = 'rawilliams@usgs.gov';
   include	'template.inc.php';
 }
 ?>
@@ -82,7 +83,110 @@ if	(!isset($TEMPLATE))	{
   </li>
 </ul>
 
-<h2>Geologic Maps</h2>
+<h2>Geologic Maps for Missouri Quadrangles in St. Louis Area</h2>
+
+<p>
+  <a href="https://dnr.mo.gov/geology/statemap/stLouis/stlouis_e_hotspotquad.htm">Index Map for Missouri 7.5&apos; Quads</a> - Missouri Geological Survey
+</p>
+<ul>
+  <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/2011CreveCoeurofm-11-0598-gs.pdf">Creve Coeur (1.7MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Alton-ofm-09-0543-gs.pdf">Alton (19.8MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Cahokia-ofm-10-0564-gs.pdf">Cahokia (10.1MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Chesterfield-ofm-10-0553-gs.pdf">Chesterfield (1.9MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Clayton-ofm-10-0561-gs.pdf">Clayton (13.9MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Elsah-ofm-09-0544-gs.pdf">Elsah (19.3MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Florrissant-ofm-10-0560-gs.pdf">Florissant (14.5MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Grafton-ofm-09-0545-gs.pdf">Grafton (13.5MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Kampville.pdf">Kampville (11.4MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Kirkwood-ofm-12-0615-gs.pdf">Kirkwood (13.9MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/OFallon-ofm-10-0559-gs.pdf">O'Fallon (12.1MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Oakville-ofm-10-0563-gs.pdf">Oakville (13.3MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/StCharles.pdf">St. Charles (11.7MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/WebsterGroves-ofm-10-0562-gs.pdf">Webster Groves (14.1MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/WeldonSprg-Chesterfield-Manchester-HouseSprings-Maxville-ofm-13-0634-gs.pdf">Chesterfield-Manchester-House Springs-Maxville (9.3MB PDF)</a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/stlouis/Wentzville-ofm-09-0541-gs.pdf">Wentzville (18.3MB PDF)</a>
+  </li>
+</ul>
+
+<h2>Geologic Maps for Illinois Quadrangles in St. Louis Area</h2>
+
+<p>
+  <a href="http://isgs.illinois.edu/maps/isgs-quads">Index Map for Illinois Quads</a> - Illinois State Geological Survey
+</p>
+<ul>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/monks-mound-sg.pdf">Monks Mound (2.8MB PDF)</a>
+  </li>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/grafton-bg.pdf">Grafton (1.9MB PDF)</a>
+  </li>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/elsah-bg.pdf">Elsah (2.6MB PDF)</a>
+  </li>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/igq-alton-sg.pdf">Alton (14.4MB PDF)</a>
+  </li>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/bethalto-sg.pdf">Bethalto (8.4MB PDF)</a>
+  </li
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/wood-river-sg.pdf">Wood River (1.5MB PDF)</a>
+  </li>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/edwardsville-bg.pdf">Edwardsville (4.9MB PDF)</a>
+  </li>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/granite-city-bg.pdf">Granite City (3.5MB PDF)</a>
+  </li>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/collinsville_sg_map_0.pdf">Collinsville (9.7MB PDF)</a>
+  </li>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/cahokia-sd.pdf">Cahokia (12.5MB PDF)</a>
+  </li>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/french-village-sg.pdf">French Village (14.3Mb PDF)</a>
+  </li>
+  <li>
+    <a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/ofallon-sg.pdf">O'Fallon (17.8MB PDF)</a>
+  </li>
+  <li><a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/oakville-sg.pdf">Oakville (12.9MB PDF)</a>
+  </li>
+  <li><a href="http://isgs.illinois.edu/sites/isgs/files/maps/isgs-quads/columbia-sg.pdf">Columbia (4.4MB PDF)</a>
+  </li>
+</ul>
+
+<h2>Other Geologic Maps</h2>
 <ul>
   <li>
     <a href="https://earthquake.usgs.gov/research/external/reports/G09AP00113.pdf">Detailed Surficial Geologic Materials Mapping for the O'Fallon 7.5 Minute Quadrangle</a>

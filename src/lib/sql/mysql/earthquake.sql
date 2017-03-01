@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-02-22 19:55:47 +0000
+# Generation Time: 2017-02-22 21:13:46 +0000
 # ************************************************************
 
 
@@ -2969,7 +2969,7 @@ VALUES
 	(103,'Earthquakes','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2Fearthq1%2F','general overview of earthquakes, online USGS general interest publication'),
 	(104,'Geological Online Exhibits','UC Museum of Paleontology, Berkeley','http%3A%2F%2Fwww.ucmp.berkeley.edu%2Fexhibit%2Fgeology.html','geologic time scale, plate tectonics animation, and more!'),
 	(106,'Faultline:Seismic Science at the Epicenter','Exploratorium','http%3A%2F%2Fwww.exploratorium.edu%2Ffaultline%2F','lots of resources, information, activities and graphics concerning earthquakes in California'),
-	(107,'Listening to Earthquakes','USGS','%2Flearn%2Flisten%2F','music and earthquakes have something in common!'),
+	(107,'Listening to Earthquakes','USGS','/learn/topics/listen/','music and earthquakes have something in common!'),
 	(108,'Seismic Waves','UPSeis, Univ. of Michigan','http%3A%2F%2Fwww.geo.mtu.edu%2FUPSeis%2Fwaves.html','graphics to explain different types of seismic waves'),
 	(109,'San Andreas Fault, The','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2Fearthq3%2F','overview of the San Andreas Fault, online USGS general interest publication'),
 	(110,'Virtual Earthquake &amp; Other Labs','Calstate LA','http%3A%2F%2Fwww.sciencecourseware.org%2F','you\'re the scientist, and you have to locate the earthquake and determine the magnitude'),

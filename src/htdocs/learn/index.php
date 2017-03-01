@@ -47,6 +47,19 @@
         </p>
       </li>
       <li>
+        <a href="publications/pubs_factsheets.php">
+          <h4>Publications</h4>
+          <img src="images/publications.jpg" alt="cover of EQ Country"/>
+        </a>
+        <p>
+          <a href="publications/pubs_factsheets.php">Fact Sheets</a><br/>
+          <a href="publications/pubs_geninfo.php">General Information</a><br/>
+          <a href="publications/pubs_maps.php">Maps</a><br/>
+          <a href="publications/pubs_multimedia.php">Multimedia</a><br/>
+          <a href="publications/pubs_ofr_bull_circ.php">Open-File Reports, Bulletins, Circulars</a>
+        </p>
+      </li>
+      <li>
         <a href="preparedness.php">
           <h4>Prepare</h4>
           <img src="images/main-prepare.gif" width="150"/>
@@ -80,6 +93,7 @@
 
   <div class = "column two-of-five">
     <div class="alert">
+      <h2>Today in Earthquake History</h2>
       <?php
         include 'today/_imbed.inc.php';
        ?>
@@ -96,16 +110,6 @@
       <ul>
         <li><a href="videos.php">Videos</a></li>
         <li><a href="podcasts.php">PodCasts</a></li>
-      </ul>
-
-      <h3>Publications</h3>
-      <a href="publications/pubs_factsheets.php"><img src="images/publications.jpg" alt="cover of EQ Country"/></a>
-      <ul>
-        <li><a href="publications/pubs_factsheets.php">Fact Sheets</a></li>
-        <li><a href="publications/pubs_geninfo.php">General Information</a></li>
-        <li><a href="publications/pubs_maps.php">Maps</a></li>
-        <li><a href="publications/pubs_multimedia.php">Multimedia</a></li>
-        <li><a href="publications/pubs_ofr_bull_circ.php">Open-File Reports, Bulletins, Circulars</a></li>
       </ul>
     </div>
   </div>

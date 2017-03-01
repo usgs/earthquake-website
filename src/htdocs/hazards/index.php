@@ -1,12 +1,18 @@
 <?php
 // Author: Lisa Wald
-// Contact: Mark Peterson
-// Last modified: 08/23/2016
+// Contact: Mark Petersen
 if (!isset($TEMPLATE)) {
   $TITLE = 'Hazards';
   include 'template.inc.php';
 }
 ?>
+
+<div class="alert info">
+  <h3><a href="induced/">2017 Short-term Induced Seismicity Model</a></h3>
+  <p>
+    USGS has produced a one-year 2017 seismic hazard forecast for the central and eastern United States from induced and natural earthquakes that updates the 2016 one-year forecast.
+  </p>
+</div>
 
 <div class="alert info">
   <h3><a href="contributions.php">Request for Hazard Modeling Contributions</a></h3>
@@ -28,7 +34,7 @@ if (!isset($TEMPLATE)) {
       </li>
       <li>
         <a href="hazmaps/">
-          <h4>Seismic Hazard Maps and Other Products</h4>
+          <h4>Seismic Hazard Maps and Site-Specific Data</h4>
           <img src="images/hazmap-2x.gif" width="150"/>
         </a>
         <p>

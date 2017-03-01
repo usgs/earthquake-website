@@ -3,6 +3,7 @@
 // Contact: Nico Luco, nluco@usgs.gov
 if (!isset($TEMPLATE)) {
   $TITLE = 'Hazard and Risk Assessment';
+  $CONTACT = 'nluco@usgs.gov';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
@@ -33,8 +34,9 @@ if (!isset($TEMPLATE)) {
 	Furthermore, this task aims to increase the percent completion of earthquake hazard assessments for moderate to high hazard areas, by increasing the use of such assessments for mitigation.
 </p>
 
-<h3>See also:</h3>
-<p><a href="https://geohazards.usgs.gov/trac/wiki/risk">Engineering Risk Assessment Project Wiki</a></p>
-
-<h3>Contact</h3>
-<a href="mailto:nluco@usgs.gov">Nico Luco</a>
+<h2>For More Information</h2>
+<ul>
+  <li><a href="/hazards/designmaps/">Design Ground Motions</a></li>
+  <li><a href="/scenarios/">Earthquake Scenarios</a></li>
+  <li><a href="https://geohazards.usgs.gov/trac/wiki/risk">Engineering Risk Assessment Project Wiki</a></li>
+</ul>
