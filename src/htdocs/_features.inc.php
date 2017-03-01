@@ -56,6 +56,16 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-01',
+   'title' => 'New USGS Maps Identify Potential Ground Shaking Hazards for 2017',
+   'content' => 'One-year 2017 seismic hazard forecast for the central and eastern United States from induced and natural earthquakes that updates the 2016 one-year forecast.',
+   'link' => 'https://www.usgs.gov/news/new-usgs-maps-identify-potential-ground-shaking-hazards-2017',
+   'modified' => strtotime('2017-03-01'),
+   'thumbnail' => '/images-featured/ProbDamageEQ_2017-150x2.gif',
+   'image' => '/images-featured/ProbDamageEQ_2017-150x2.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => '2017-02-21',
    'title' => 'A Fresh Look at Old Data Sheds Light on Central U.S. Quake Origins and Potential',
    'content' => 'Small variations in the density of the earth’s crust influence where earthquakes may occur in the central U.S. These new findings published today in Nature Communications may allow scientists to map where future seismicity in the center of the country is most likely.',

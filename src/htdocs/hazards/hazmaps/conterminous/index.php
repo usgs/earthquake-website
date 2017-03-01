@@ -1,6 +1,6 @@
 <?php
   // Author: Lisa Wald
-  // Contact:
+  // Contact: Mark Peterson
     if (!isset($TEMPLATE)) {
       $TITLE = 'United States - Lower 48';
       $NAVIGATION = true;
@@ -8,8 +8,21 @@
     }
 ?>
 
-<h2 id="2016">2016</h2>
+<h2 id="2017">2017 Short-term Induced Seismicity Model</h2>
+<p>
+  The U.S Geological Survey (USGS) has produced a one-year 2017 seismic hazard forecast for the central and eastern United States from induced and natural earthquakes that updates the 2016 one-year forecast; this map is intended to provide information to the public and to facilitate the development of induced seismicity forecasting models, methods, and data. The 2017 hazard model applies the same methodology and input logic tree as the 2016 forecast, but with an updated earthquake catalog.
+</p>
+<p>
+  The 2016 forecast indicated high seismic hazard (greater than 1% probability of potentially damaging ground shaking in one-year) in five focus areas: Oklahoma-Kansas, the Raton Basin (Colorado/New Mexico border), north Texas, north Arkansas, and the New Madrid seismic zone. During 2016, several damaging induced earthquakes occurred in Oklahoma within the highest hazard region of the 2016 forecast; all of the 21 magnitude (M) ≥ 4 and three M ≥ 5 earthquakes occurred within the highest hazard area in the 2016 forecast. Outside the Oklahoma-Kansas focus area, two earthquakes with M ≥ 4 occurred near Trinidad, Colorado (in the Raton Basin focus area), but no earthquakes with M &ge; 2.7 were observed in the north Texas or north Arkansas focus areas. Several observations of damaging ground shaking levels were also recorded in the highest hazard region of Oklahoma. The 2017 forecasted seismic rates are lower in regions of induced activity due to lower rates of earthquakes in 2016 compared to 2015, which may be related to decreased wastewater injection, caused by regulatory actions or by a decrease in unconventional oil and gas production. Nevertheless, the 2017 forecasted hazard is still significantly elevated in Oklahoma compared to the hazard calculated from seismicity before 2009.
+</p>
+<ul>
+  <li>
+    <a href="/hazards/induced/index.php#2017">2017 One-Year Seismic Hazard Model from Induced and Natural Earthquakes</a>
+  </li>
+</ul>
+<hr/>
 
+<h2 id="2016">2016 Short-term Induced Seismicity Model</h2>
 <p>
   The U.S. Geological Survey (USGS) has produced a 1-year seismic hazard forecast for 2016 for the Central and Eastern United States (CEUS) that includes contributions from both induced and natural earthquakes. The model assumes that earthquake rates calculated from several different time windows will remain relatively stationary and can be used to forecast earthquake hazard and damage intensity for the year 2016. This assessment is the first step in developing an operational earthquake forecast for the CEUS, and the analysis could be revised with updated seismicity and model parameters. Consensus input models consider alternative earthquake catalog durations, smoothing parameters, maximum magnitudes, and ground motion estimates, and represent uncertainties in earthquake occurrence and diversity of opinion in the science community.
 </p>
@@ -18,15 +31,15 @@
 </p>
 <ul>
   <li>
-    <a href="https://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> (USGS OFR 2015-1070)
+    <a href="/hazards/induced/index.php#2016">2016 One-Year Seismic Hazard Model from Induced and Natural Earthquakes</a>
   </li>
   <li>
-    <a href="/hazards/induced/">2016 One-Year Seismic Hazard Model from Induced and Natural Earthquakes</a>
+    <a href="https://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> (USGS OFR 2015-1070)
   </li>
 </ul>
 
 <hr/>
-<h2 id="2014">2014</h2>
+<h2 id="2014">2014 Long-term Model</h2>
 
 <p>
   The 2014 U.S. Geological Survey (USGS) National Seismic Hazard Maps display earthquake ground motions for various probability levels across the United States and are applied in seismic provisions of building codes, insurance rate structures, risk assessments, and other public policy. The updated maps represent an assessment of the best available science in earthquake hazards and incorporate new findings on earthquake ground shaking, faults, seismicity, and geodesy. The USGS National Seismic Hazard Mapping Project developed these maps by incorporating information on potential earthquakes and associated ground shaking obtained from interaction in science and engineering workshops involving hundreds of participants, review by several science organizations and State surveys, and advice from expert panels and a Steering Committee. The new probabilistic hazard maps represent an update of the seismic hazard maps; previous versions were developed by Petersen and others (2008) and Frankel and others (2002), using the methodology developed Frankel and others (1996). Algermissen and Perkins (1976) published the first probabilistic seismic hazard map of the United States which was updated in Algermissen and others (1990).
@@ -81,7 +94,7 @@
   </ul>
 
 <hr/>
-<h2 id="2008">2008</h2>
+<h2 id="2008">2008 Long-term Model</h2>
 
 <p>
   The 2008 U.S. Geological Survey (USGS) National Seismic Hazard Maps display earthquake ground motions for various probability levels across the United States and are applied in seismic provisions of building codes, insurance rate structures, risk assessments, and other public policy. This update of the maps incorporates new findings on earthquake ground shaking, faults, seismicity, and geodesy. The resulting maps are derived from seismic hazard curves calculated on a grid of sites across the United States that describe the frequency of exceeding a set of ground motions.
@@ -123,7 +136,7 @@
 </ul>
 
 <hr/>
-<h2 id="2002">2002</h2>
+<h2 id="2002">2002 Long-term Model</h2>
 
 <p>
   Following the release of the 2002 United States hazard maps and data, two subsequent updates were released. The first in April of 2003 and the second in October of 2003. Descriptions of each release can be found below. <strong>What is currently made available on our web site reflects the updated data and image files.</strong>
@@ -147,7 +160,7 @@
 </ul>
 
 <hr/>
-<h2 id="1996">1996</h2>
+<h2 id="1996">1996 Long-term Model</h2>
 
 <p>
   The computations for these maps and data used 50 year return periods on firm rock at 760 m/sec. All of the maps were prepared by combining hazard derived from spatially- smoothed historic seismicity with hazard from fault-specific sources. For more information please read our full documentation.
