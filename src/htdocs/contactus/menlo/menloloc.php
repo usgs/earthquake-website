@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Steve Hickman,
-  // Last modified: 07/21/2015
 
   if (!isset($TEMPLATE)) {
   $TITLE = 'Earthquake Science Center, Menlo Park, CA';
@@ -21,10 +20,13 @@
       <a href="mailto:garcia@usgs.gov">Susan Garcia</a><br/>
       650-329-4668
     </p>
+
+<!-- *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
     <p>
       <b>Staff Directory:<br/>
       </b><a href="/regional/nca/directory/">Earthquake Science Center</a>
     </p>
+-->
 
     <p>
       <b>Write </b>to us at:<br/>

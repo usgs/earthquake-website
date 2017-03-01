@@ -186,7 +186,13 @@ See how our applications work and collaborate with us at <a href="http://github.
       </tr>
       <tr>
         <th>Docs:</th>
-        <td>Online documentation: <a href="/monitoring/edm/cleanstrain/">installation, manual, examples</a></td>
+        <td>Online documentation:
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+          <a href="/monitoring/edm/cleanstrain/">installation, manual, examples</a>
+-->
+
+        </td>
       </tr>
      <tr>
         <th>Download:</th>
