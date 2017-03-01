@@ -34,7 +34,7 @@
     </p>
 
     <h3>USGS News Release</h3>
-    <p><a href="https://www.usgs.gov/news/millions-risk-human-induced-earthquakes-2017">USGS Top Story</a></p>
+    <p><a href="https://www.usgs.gov/news/new-usgs-maps-identify-potential-ground-shaking-hazards-2017">USGS Top Story: New USGS Maps Identify Potential Ground Shaking Hazards 2017</a></p>
 
     <h3>Maps for Media</h3>
     <ul>
