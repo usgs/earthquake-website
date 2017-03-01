@@ -17,6 +17,8 @@ if	(!isset($TEMPLATE))	{
 
 <h2 id="ca">California</h2>
 <ul class="no-style linklist">
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
   <li>
     <a href="/regional/nca/alameda/">
       <h4>Liquefaction Hazard in Oakland, CA</h4>
@@ -44,6 +46,8 @@ if	(!isset($TEMPLATE))	{
       Francisco Bay Area.
     </p>
   </li>
+-->
+
   <li>
     <a href="http://geomaps.wr.usgs.gov/sfgeo/liquefaction/">
       <h4>Liquefaction Susceptibility Map for San Francisco Bay Region</h4>
