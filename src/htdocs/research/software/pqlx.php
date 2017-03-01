@@ -69,19 +69,27 @@
 <h2>Related Links:</h2>
 
 <ul>
+
+<!-- GEOHAZ TURNED OFF MARCH 1, 2017
   <li>
     <a href="https://geohazards.usgs.gov/staffweb/mcnamara/PDFweb/Noise_PDFs.html">
     Ambient Noise Probability Functions
   </a> - detailed discussion of the noise PDFs: methods and interpretation
   </li>
+-->
+
   <li>Noise PDFs available on the web:
     <ul>
       <li>
         <a href="ftp://hazards.cr.usgs.gov/mcnamara/NEIC/PDFs/">USGS NEIC PDFs for all channels</a>
       </li>
+
+<!-- GEOHAZ TURNED OFF MARCH 1, 2017
       <li>
         <a href="https://geohazards.usgs.gov/staffweb/mcnamara/ANSSPDFweb/ANSSPDFweb.html">ANSS backbone network Noise PDF Research</a>
       </li>
+-->
+
     </ul>
   </li>
   <li>
@@ -112,7 +120,15 @@
   <li>
     McNamara, D. E., H.M. Benz and W. Leith, <a href="https://pubs.usgs.gov/of/2005/1077/">An Assessment of Seismic Noise Levels for the ANSS Backbone and Selected Regional Broadband Stations</a>, United States Geological Survey, Open-File Report, NO. 2005-1077, 19p., 2005.
   </li>
+
+  <!-- GEOHAZ TURNED OFF MARCH 1, 2017
   <li>
     McNamara, D.E., R.P. Buland, R.I. Boaz, B. Weertman, and T. Ahern, <a href="https://geohazards.usgs.gov/staffweb/mcnamara/Pubs/papers_pdf/mcnamaraetal_globalnoise.pdf">Ambient Seismic Noise</a>, Seis. Res. Lett., in review, 2005.
   </li>
+-->
+
+<li>
+  McNamara, D.E., R.P. Buland, R.I. Boaz, B. Weertman, and T. Ahern, Ambient Seismic Noise, Seis. Res. Lett., in review, 2005.
+</li>
+
 </ul>
