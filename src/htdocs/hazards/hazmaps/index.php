@@ -60,7 +60,7 @@
     <h2>Hazard Tools</h2>
 
     <a href="/hazards/interactive/">Unified Hazard Tool - BETA</a>
-    <p>Will eventually replace most of the individual tools listed below.</p>
+    <p>Replaces most of the previous individual tools.</p>
 
 <!-- GEOHAZ SERVER TURNED OFF MARCH 1, 2017
     <a href="http://geohazards.usgs.gov/hazards/apps/cmaps/">
@@ -97,7 +97,7 @@
       <li><a href="http://geohazards.usgs.gov/deaggint/1996/">U.S., Alaska, Hawaii - 1996</a></li>
       <li><a href="http://geohazards.usgs.gov/deaggband/2009/">Banded Deaggregation - U.S. - 2009</a></li>
  -->
- 
+
     </ul>
 
 
