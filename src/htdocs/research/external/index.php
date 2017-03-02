@@ -48,9 +48,9 @@ if (!isset($TEMPLATE)) {
   <div class='column one-of-two'>
     <h2>Funded External Grants</h2>
     <ul>
-      <li><a href="https://geohazards.usgs.gov/cfusion/external_grants/research.cfm">Funded Research</a></li>
-      <li><a href="https://geohazards.usgs.gov/cfusion/external_grants/networks.cfm">Funded Network Operations</a></li>
-      <li><a href="https://geohazards.usgs.gov/cfusion/external_grants/monitoring_upgrades.cfm">ARRA-Funded Monitoring Upgrades</a></li>
+      <li><a href="/cfusion/external_grants/research.cfm">Funded Research</a></li>
+      <li><a href="/cfusion/external_grants/networks.cfm">Funded Network Operations</a></li>
+      <li><a href="/cfusion/external_grants/monitoring_upgrades.cfm">ARRA-Funded Monitoring Upgrades</a></li>
     </ul>
 
 
