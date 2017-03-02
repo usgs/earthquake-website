@@ -56,6 +56,16 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-02',
+   'title' => 'Prehistoric Earthquakes Discovered Along San Andreas Fault',
+   'content' => 'A new USGS study offers a view into the past behavior of large earthquakes along the southern San Andreas Fault. ',
+   'link' => 'https://www.usgs.gov/news/prehistoric-earthquakes-discovered-along-san-andreas-fault',
+   'modified' => strtotime('2017-03-02'),
+   'thumbnail' => '/images-featured/paleo-2017mar.gif',
+   'image' => '/images-featured/paleo-2017mar.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => '2017-03-01',
    'title' => 'New USGS Maps Identify Potential Ground Shaking Hazards for 2017',
    'content' => 'One-year 2017 seismic hazard forecast for the central and eastern United States from induced and natural earthquakes that updates the 2016 one-year forecast.',
