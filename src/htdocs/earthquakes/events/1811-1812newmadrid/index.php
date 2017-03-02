@@ -64,9 +64,8 @@
     </a>
     <p>
       <ul style="padding-left:175px">
-        <li><a href="http://hsv.com/genlintr/newmadrd/accnt1.htm">Eliza Bryan</a></li>
-        <li><a href="http://hsv.com/genlintr/newmadrd/accnt2.htm">John Bradbury</a></li>
-        <li><a href="http://hsv.com/genlintr/newmadrd/accnt3.htm">George Heinrich Crist</a></li>
+        <li><a href="http://www.memphis.edu/ceri/compendium/eyewitness.php">University of Memphis</a></li>
+        <li><a href="https://www.iris.edu/hq/inclass/interactive/new_madrid_eyewitness_accounts_of_181112_earthquakes">Incorporated Research Institutes for Seismology (IRIS)</a></li>
       </ul>
     </p>
   </li>
