@@ -11,14 +11,12 @@
     $NETOPS_PORT = '443';
   } else {
     $NETOPS_PROTOCOL = 'http://';
-    $NETOPS_PORT = '80';
+    $NETOPS_PORT = isset($_SERVER['SERVER_PORT']) ?
+        $_SERVER['SERVER_PORT'] : '80';
   }
 
-  $NETOPS_HOST = isset($_SERVER['SERVER_NAME']) ?
-      $_SERVER['SERVER_NAME'] : 'localhost';
-
-  $NETOPS_PORT = isset($_SERVER['SERVER_PORT']) ?
-      $_SERVER['SERVER_PORT'] : $NETOPS_PORT;
+  $NETOPS_HOST = isset($_SERVER['HTTP_HOST']) ?
+      $_SERVER['HTTP_HOST'] : 'localhost';
 
   $NETOPS_BASEPATH = dirname(
       str_replace(realpath($_SERVER['DOCUMENT_ROOT']), '', __DIR__));
