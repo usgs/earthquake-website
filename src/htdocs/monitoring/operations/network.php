@@ -15,7 +15,7 @@ if (!isset($TEMPLATE)) {
   }
 
   function getTableRow ($station) {
-    global $NETOPS_WEBSITE_BASEURL;
+    global $NETOPS_BASEPATH;
 
     $id = $station['id'];
     $properties = $station['properties'];
@@ -24,7 +24,7 @@ if (!isset($TEMPLATE)) {
         $station['geometry']['coordinates'] :
         ['&ndash;', '&ndash;', '&ndash;'];
 
-    $link = $NETOPS_WEBSITE_BASEURL . '/stations/' .
+    $link = $NETOPS_BASEPATH . '/stations/' .
         "${properties['network_code']}/${properties['station_code']}/";
 
     return "
@@ -47,9 +47,9 @@ if (!isset($TEMPLATE)) {
   $HEAD = '
     <link rel="stylesheet" href="/lib/leaflet-0.7.7/leaflet.css"/>
     <link rel="stylesheet" href="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.css"/>
-    <link rel="stylesheet" href="' . $NETOPS_WEBSITE_BASEURL .
+    <link rel="stylesheet" href="' . $NETOPS_BASEPATH .
         '/css/network-map.css"/>
-    <link rel="stylesheet" href="' . $NETOPS_WEBSITE_BASEURL .
+    <link rel="stylesheet" href="' . $NETOPS_BASEPATH .
         '/css/network.css"/>
   ';
 
@@ -59,18 +59,18 @@ if (!isset($TEMPLATE)) {
           STATIONS,
           TELEMETRY_URL;
 
-      NETOPS_WEBSITE_BASEURL = \'' . $NETOPS_WEBSITE_BASEURL . '\';
+      NETOPS_WEBSITE_BASEURL = \'' . $NETOPS_BASEPATH . '\';
       STATIONS = ' . safe_json_encode($stations) . ';
       TELEMETRY_URL = \'' . $TELEMETRY_URL . '\';
     </script>
     <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
     <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL . '/js/config.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL .
+    <script src="' . $NETOPS_BASEPATH . '/js/config.js"></script>
+    <script src="' . $NETOPS_BASEPATH .
         '/js/telemetry-factory.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL .
+    <script src="' . $NETOPS_BASEPATH .
         '/js/network-map.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL .
+    <script src="' . $NETOPS_BASEPATH .
         '/js/network.js"></script>
   ';
 
