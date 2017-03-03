@@ -52,9 +52,9 @@ if (!isset($TEMPLATE)) {
         rel="stylesheet"/>
     <link href="/lib/hazdev-tablist-0.1.2/hazdev-tablist.css"
         rel="stylesheet"/>
-    <link href="' . $NETOPS_WEBSITE_BASEURL . '/css/station-details-map.css"
+    <link href="' . $NETOPS_BASEPATH . '/css/station-details-map.css"
         rel="stylesheet"/>
-    <link href="' . $NETOPS_WEBSITE_BASEURL . '/css/_station.css"
+    <link href="' . $NETOPS_BASEPATH . '/css/_station.css"
          rel="stylesheet"/>
   ';
 
@@ -64,19 +64,19 @@ if (!isset($TEMPLATE)) {
           STATION,
           TELEMETRY_URL;
 
-      NETOPS_WEBSITE_BASEURL = \'' . $NETOPS_WEBSITE_BASEURL . '\';
+      NETOPS_WEBSITE_BASEURL = \'' . $NETOPS_BASEPATH . '\';
       STATION = ' . safe_json_encode($json) . '
       TELEMETRY_URL = \'' . $TELEMETRY_URL . '\';
     </script>
     <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
     <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
     <script src="/lib/hazdev-tablist-0.1.2/hazdev-tablist.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL . '/js/config.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL .
+    <script src="' . $NETOPS_BASEPATH . '/js/config.js"></script>
+    <script src="' . $NETOPS_BASEPATH .
         '/js/telemetry-factory.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL .
+    <script src="' . $NETOPS_BASEPATH .
         '/js/station-details-map.js"></script>
-    <script src="' . $NETOPS_WEBSITE_BASEURL .
+    <script src="' . $NETOPS_BASEPATH .
         '/js/_station.js"></script>
   ';
 
