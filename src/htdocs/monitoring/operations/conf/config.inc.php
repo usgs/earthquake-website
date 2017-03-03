@@ -2,7 +2,11 @@
   date_default_timezone_set('UTC');
 
   // Build URL for station feed
-  if (isset($_SERVER['HTTPS']) && strtolower($_SERVER['HTTPS']) == 'on') {
+  if (
+      (isset($_SERVER['HTTPS']) && strtolower($_SERVER['HTTPS']) == 'on')
+      || (isset($_SERVER['HTTP_X_FORWARDED_PROTO'])
+          && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https')
+  ) {
     $NETOPS_PROTOCOL = 'https://';
     $NETOPS_PORT = '443';
   } else {
@@ -22,8 +26,7 @@
   $NETOPS_WEBSITE_BASEURL = $NETOPS_PROTOCOL . $NETOPS_HOST . ':' .
       $NETOPS_PORT . $NETOPS_BASEPATH;
 
-  $NETOPS_DATA_BASEURL = $NETOPS_PROTOCOL . 'earthquake.usgs.gov' .
-      '/static/earthquake-network-operations';
+  $NETOPS_DATA_BASEURL = '/static/earthquake-network-operations';
 
   // $NETOPS_HELIPLOT_URL . '/{station_code}.png' --> large heliplot image
   // $NETOPS_HELIPLOT_URL . '/{station_code}_24hr.png' --> small heliplot image
@@ -36,8 +39,7 @@
 
   $NETOPS_ISSUES_URL = $NETOPS_DATA_BASEURL . '/station_issues';
 
-  $TELEMETRY_URL = $NETOPS_PROTOCOL . $NETOPS_HOST . ':' . $NETOPS_PORT .
-      '/ws/network-operations/telemetry.json';
+  $TELEMETRY_URL = '/ws/network-operations/telemetry.json';
 
 
   /*
