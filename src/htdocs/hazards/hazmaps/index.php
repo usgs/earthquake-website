@@ -100,7 +100,6 @@
 
     </ul>
 
-
     <h2>Other Products</h2>
 
     <ul>
@@ -137,7 +136,16 @@
           Includes Afghanistan, Sumatra, State of Gujarat,India.  See also <a href="http://www.seismo.ethz.ch/static/gshap/">Global Seismic Hazard Assessment Program (GSHAP)</a>.
         </p>
       </li>
+    </ul>
 
+    <h2>See also:</h2>
+    <ul>
+      <li>
+        <a href="http://www.conservation.ca.gov/cgs/earthquakes/Pages/Index.aspx">California Hazard Maps</a> - California Geological Survey
+      </li>
+      <li>
+        <a href="http://www.earthquakescanada.nrcan.gc.ca/hazard-alea/index-en.php">Canadian Hazard Maps</a> - Natural Resources Canada
+      </li>
     </ul>
   </section>
 </div>
