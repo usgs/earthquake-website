@@ -1,6 +1,6 @@
 <?php
-      //  Author:  Tiffany Kalin
-      //  Contact:
+      //  Author: Tiffany Kalin
+      //  Contact: Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Publications - Multimedia';
       $NAVIGATION  = true;
@@ -107,7 +107,6 @@ try {
                     $link = urldecode($row["linkURL"]);
                     $link = (htmlspecialchars($link));
                     $text = htmlspecialchars(stripslashes($row["linkText"]));
-                    $purchaseURL = urldecode($row["purchaseURL"]);
                     $description = stripslashes($row["description"]);
 
                     echo "
@@ -115,10 +114,6 @@ try {
 
                     if(!empty($description)){
                       echo "<br />$description";
-                    }
-                    if(!empty($purchaseURL)){
-                      $purchaseURL = linkCheck($purchaseURL);
-                      echo '<br /><a href="' . $purchaseURL . '">purchase this product</a>';
                     }
                     echo "</li>\n";
                   }
