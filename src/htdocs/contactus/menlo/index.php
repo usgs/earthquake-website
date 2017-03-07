@@ -2,17 +2,27 @@
   // Author: Lisa Wald
   // Contact: Steve Hickman,
 
+  date_default_timezone_set('America/Los_Angeles');
+
   if (!isset($TEMPLATE)) {
     $TITLE = 'Earthquake Science Center, Menlo Park, CA';
     $NAVIGATION = true;
 
-    $next_contents = file_get_contents('seminars/next-seminar.json.php');
+    // Read file contents into output buffer
+    ob_start();
+    include ('seminars/next-seminar.json.php');
+    $next_contents = ob_get_contents();
+    ob_end_clean();
+
+    // Reset content type to html (gets set to JSON by included file)
+    header('Content-Type: text/html');
+
     $next_array = json_decode($next_contents, true);
     $next_seminar = $next_array['seminar'];
     $next_html = sprintf('
       <h5>%s</h5>
-      <p>&ldquo;%s by %s&rdquo;</p>',
-      $next_seminar['time'],
+      <p>%s by %s</p>',
+      date('l F j, Y \a\\t g:iA', $next_seminar['timestamp']),
       $next_seminar['topic'],
       $next_seminar['speaker']
     );
