@@ -3,11 +3,11 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'USGS Earthquake Hazards Program';
   $HEAD = '
-    <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
+    <link rel="stylesheet" href="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.css"/>
     <link rel="stylesheet" href="index.css"/>
   ';
   $FOOT = '
-    <script src="/lib/earthquake-list-widget.js"></script>
+    <script src="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.js"></script>
     <script src="index.js"></script>
   ';
   include 'template.inc.php';
