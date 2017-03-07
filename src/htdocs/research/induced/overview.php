@@ -52,18 +52,15 @@ if (!isset($TEMPLATE)) {
     </p>
   </div>
 
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
   <div class='column one-of-two'>
     <h2>Injection-Induced Seismicity</h2>
-  	<a href="/regional/nca/seminars/2013-12-02/">
+  	<a href="seminars/896">
       <img src="images/escvideo.jpg"alt="Bill Ellsworth video" />
     </a>
   	<p>
       USGS scientist Bill Ellsworth discusses the science behind induced earthquakes.
     </p>
   </div>
--->
 </div>
 
 <h3>Special Issues on Induced Seismicity</h3>

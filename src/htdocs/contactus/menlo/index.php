@@ -6,8 +6,7 @@
     $TITLE = 'Earthquake Science Center, Menlo Park, CA';
     $NAVIGATION = true;
 
-/*  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-    $next_contents = file_get_contents('https://earthquake.usgs.gov/regional/nca/seminars/next-seminar.json.php');
+    $next_contents = file_get_contents('seminars/next-seminar.json.php');
     $next_array = json_decode($next_contents, true);
     $next_seminar = $next_array['seminar'];
     $next_html = sprintf('
@@ -17,7 +16,6 @@
       $next_seminar['topic'],
       $next_seminar['speaker']
     );
- */
 
     include 'template.inc.php';
   }
@@ -63,14 +61,17 @@
         </a>
         <p>USGS handbooks that describe the threat posed by earthquakes in the San Francisco Bay region and explain how you can prepare for, survive, and recover from these inevitable events.</p>
       </li>
+-->
       <li>
-        <a href="/regional/nca/seminars/">
+        <a href="seminars/">
           <h4>USGS Earthquake Seminar Series</h4>
           <img src="images/seminars-2x.png" alt="earthquake podcast" width="150" />
         </a>
         <?php print $next_html; ?>
         <p>See also: <a href="https://online.wr.usgs.gov/calendar/">USGS Evening Public Lecture Series</p>
       </li>
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
       <li>
         <a href="/regional/nca/campus/">
           <h4>Campus Video Presentation</h4>
