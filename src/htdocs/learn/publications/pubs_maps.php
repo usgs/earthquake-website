@@ -1,16 +1,15 @@
 <?php
-      //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	1/23/2017
-      if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Publications - Maps';
-      $NAVIGATION	= true;
-      include	'template.inc.php';
+      //  Author:  Tiffany Kalin
+      //  Contact:
+      if  (!isset($TEMPLATE))  {
+      $TITLE  =  'Publications - Maps';
+      $NAVIGATION  = true;
+      include  'template.inc.php';
       }
 
 echo
 '<figure class="right">
-	<img src="images/maps.jpg" alt="Map" />
+  <img src="images/maps.jpg" alt="Map" />
 </figure>';
 
 //get database
@@ -19,174 +18,175 @@ $pdo = EHPServer::getDatabase('earthquake');
 
 //show selected category - maps
 $statement = $pdo->prepare("
-		SELECT *
-		from productsCategory
-		WHERE id=:catID AND approve='yes'
-		ORDER BY category");
+    SELECT *
+    from productsCategory
+    WHERE id=:catID
+    ORDER BY category");
 
 try {
-	// use bound parameter names
-	$statement->execute(array(
-		':catID' => 1
-	));
+  // use bound parameter names
+  $statement->execute(array(
+    ':catID' => 1
+  ));
 
-	//for each row..
-	while ($row = $statement->fetch(PDO::FETCH_ASSOC)) {
-		$categoryID = $row["id"];
-		$category = $row["category"];
-		$check=$pdo->prepare("
-				SELECT *
-				from products
-				WHERE categoryID=:categoryID AND approve='yes'");
+  //for each row..
+  while ($row = $statement->fetch(PDO::FETCH_ASSOC)) {
+    $categoryID = $row["id"];
+    $category = $row["category"];
+    $check=$pdo->prepare("
+        SELECT *
+        from products
+        WHERE categoryID=:categoryID"
+      );
 
-		try {
-			$check->execute(array(
-				':categoryID' => $categoryID
-			));
+    try {
+      $check->execute(array(
+        ':categoryID' => $categoryID
+      ));
 
-			//check to see if there are products associated with each category
-			//if not - don't show the category
-			$num_productst = $check->rowCount();
-			if(!empty($num_productst)) {
-				if(!isset($i)) {
-					$i = 0;
-				}
-				$i++;
+      //check to see if there are products associated with each category
+      //if not - don't show the category
+      $num_productst = $check->rowCount();
+      if(!empty($num_productst)) {
+        if(!isset($i)) {
+          $i = 0;
+        }
+        $i++;
 
-				//get sub category
-				$getSubCAT = $pdo->prepare("
-						SELECT *
-						from productsSubCategory
-						WHERE categoryID=:categoryID AND approve='yes'
-						ORDER BY subCategory");
+        //get sub category
+        $getSubCAT = $pdo->prepare("
+            SELECT *
+            from productsSubCategory
+            WHERE categoryID=:categoryID
+            ORDER BY subCategory");
 
-				try {
-					$getSubCAT->execute(array(
-						':categoryID' => $categoryID
-					));
+        try {
+          $getSubCAT->execute(array(
+            ':categoryID' => $categoryID
+          ));
 
-					while ($row = $getSubCAT->fetch(PDO::FETCH_ASSOC)) {
-						$subCategoryID = $row["id"];
-						$subCategory = $row["subCategory"];
+          while ($row = $getSubCAT->fetch(PDO::FETCH_ASSOC)) {
+            $subCategoryID = $row["id"];
+            $subCategory = $row["subCategory"];
 
-						//check to see if there are products associated with each sub category
-						//if not - don't show the sub category
-						$checkSub=$pdo->prepare("
-								SELECT *
-								from products
-								WHERE categoryID=:categoryID AND subCategoryID=:subCategoryID
-								AND approve='yes'");
+            //check to see if there are products associated with each sub category
+            //if not - don't show the sub category
+            $checkSub=$pdo->prepare("
+                SELECT *
+                from products
+                WHERE categoryID=:categoryID AND subCategoryID=:subCategoryID"
+              );
 
-						try {
-							$checkSub->execute(array(
-								':categoryID' => $categoryID,
-								':subCategoryID' => $subCategoryID
-							));
+            try {
+              $checkSub->execute(array(
+                ':categoryID' => $categoryID,
+                ':subCategoryID' => $subCategoryID
+              ));
 
-							$num_sub = $checkSub->rowCount();
-							if(!empty($num_sub)) {
-								if($subCategory != "No Sub Category"){
-									echo "<h2>$subCategory</h2>\n<ul>\n";
-								}else{
-									echo "<ul>";
-								}
+              $num_sub = $checkSub->rowCount();
+              if(!empty($num_sub)) {
+                if($subCategory != "No Sub Category"){
+                  echo "<h2>$subCategory</h2>\n<ul>\n";
+                }else{
+                  echo "<ul>";
+                }
 
-								//get products/links
-								$getLINK = $pdo->prepare("
-										SELECT *
-										from products
-										WHERE categoryID=:categoryID AND subCategoryID=:subCategoryID AND approve='yes'
-										ORDER BY id DESC");
+                //get products/links
+                $getLINK = $pdo->prepare("
+                    SELECT *
+                    from products
+                    WHERE categoryID=:categoryID AND subCategoryID=:subCategoryID
+                    ORDER BY id DESC");
 
-								try {
-									$getLINK->execute(array(
-										':categoryID' => $categoryID,
-										':subCategoryID' => $subCategoryID
-									));
+                try {
+                  $getLINK->execute(array(
+                    ':categoryID' => $categoryID,
+                    ':subCategoryID' => $subCategoryID
+                  ));
 
-									while ($row = $getLINK->fetch(PDO::FETCH_ASSOC)) {
-										$link = urldecode($row["linkURL"]);
-										$link = (htmlspecialchars($link));
-										$text = htmlspecialchars(stripslashes($row["linkText"]));
-										$purchaseURL = urldecode($row["purchaseURL"]);
-										$description = stripslashes($row["description"]);
+                  while ($row = $getLINK->fetch(PDO::FETCH_ASSOC)) {
+                    $link = urldecode($row["linkURL"]);
+                    $link = (htmlspecialchars($link));
+                    $text = htmlspecialchars(stripslashes($row["linkText"]));
+                    $purchaseURL = urldecode($row["purchaseURL"]);
+                    $description = stripslashes($row["description"]);
 
                     echo "
-										    <li><a href=$link>$text</a>";
-                        
-										if(!empty($description)){
-											echo "<br />$description";
-										}
-										if(!empty($purchaseURL)){
-											$purchaseURL = linkCheck($purchaseURL);
-											echo '<br /><a href="' . $purchaseURL . '">purchase this product</a>';
-										}
-										echo "</li>\n";
-									}
-									echo "</ul>";
+                        <li><a href=$link>$text</a>";
 
-									$getLINK->closeCursor();
-								}
+                    if(!empty($description)){
+                      echo "<br />$description";
+                    }
+                    if(!empty($purchaseURL)){
+                      $purchaseURL = linkCheck($purchaseURL);
+                      echo '<br /><a href="' . $purchaseURL . '">purchase this product</a>';
+                    }
+                    echo "</li>\n";
+                  }
+                  echo "</ul>";
 
-								//$getLINK catch statement
-								catch (PDOException $e) {
-									// don't output this on prod...
-								print_r($e);
-								}
+                  $getLINK->closeCursor();
+                }
 
-								//free prepared statement
-								$getLINK = null;
-							}
+                //$getLINK catch statement
+                catch (PDOException $e) {
+                  // don't output this on prod...
+                print_r($e);
+                }
 
-							//close cursor
-							$checkSub->closeCursor();
-						}
+                //free prepared statement
+                $getLINK = null;
+              }
 
-						//$checkSub catch statement
-						catch (PDOException $e) {
-							// don't output this on prod...
-						print_r($e);
-						}
+              //close cursor
+              $checkSub->closeCursor();
+            }
 
-						//free prepared statement
-						$checkSub = null;
-					}
+            //$checkSub catch statement
+            catch (PDOException $e) {
+              // don't output this on prod...
+            print_r($e);
+            }
 
-					//close cursor
-					$getSubCAT->closeCursor();
-				}
+            //free prepared statement
+            $checkSub = null;
+          }
 
-				//$getSubCAT catch statement
-				catch (PDOException $e) {
-					// don't output this on prod...
-				print_r($e);
-			 }
+          //close cursor
+          $getSubCAT->closeCursor();
+        }
 
-			 //free prepared statement
-				$getSubCAT = null;
-			}
+        //$getSubCAT catch statement
+        catch (PDOException $e) {
+          // don't output this on prod...
+        print_r($e);
+       }
 
-			//close cursor
-			$check->closeCursor();
-		}
+       //free prepared statement
+        $getSubCAT = null;
+      }
 
-		//$check catch statement
-		catch (PDOException $e) {
-			// don't output this on prod...
-		print_r($e);
-		}
+      //close cursor
+      $check->closeCursor();
+    }
 
-		//free prepared statement
-		$check = null;
-	}
+    //$check catch statement
+    catch (PDOException $e) {
+      // don't output this on prod...
+    print_r($e);
+    }
 
-	// must close cursor before calling execute again
-	$statement->closeCursor();
+    //free prepared statement
+    $check = null;
+  }
+
+  // must close cursor before calling execute again
+  $statement->closeCursor();
 }
 
 //$statement catch statement
 catch (PDOException $e) {
-	// don't output this on prod...
+  // don't output this on prod...
 print_r($e);
 }
 
