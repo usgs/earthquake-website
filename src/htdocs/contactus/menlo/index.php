@@ -52,8 +52,9 @@
 <div class="row">
   <div class="column two-of-three">
 
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
     <ul class="linklist">
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
       <li>
         <a href="/regional/nca/prepare/">
           <h4>Preparedness</h4>
@@ -86,8 +87,8 @@
         </a>
         <p>The probability of a magnitude 6.7 or greater earthquake in the Greater Bay Area is 63%, about 2 out of 3, in the next 30 years.</p>
       </li>
-    </ul>
 -->
+</ul>
 
   </div>
 
