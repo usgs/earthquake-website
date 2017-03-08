@@ -1,11 +1,11 @@
 <?php
-      //	Author:	Tiffany Kalin
-      //	Contact: Andy Michael
-      if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Listening to Earthquakes';
-      $NAVIGATION	= true;
-      include	'template.inc.php';
-      }
+//  Author:  Tiffany Kalin
+//  Contact: Andy Michael
+if  (!isset($TEMPLATE))  {
+  $TITLE  =  'Listening to Earthquakes';
+  $NAVIGATION  = true;
+  include  'template.inc.php';
+}
 ?>
 
 <figure class="right">
@@ -15,10 +15,10 @@
   </figcaption>
 </figure>
 <p>
-	<em>Created by Andy Michael, USGS, and Daniel Ross, 12 year old USGS Volunteer for Science.</em>
+  <em>Created by Andy Michael, USGS, and Daniel Ross, 12 year old USGS Volunteer for Science.</em>
 </p>
 <p>
-	When we listen to music we hear a wide range of sound frequencies
+  When we listen to music we hear a wide range of sound frequencies
   or notes. When we feel an earthquake we feel a wide range
   of frequencies but unlike music the notes are less distinct.
   People describing what they felt during an earthquake may
@@ -42,7 +42,7 @@
 </p>
 <h3>Tips for listening</h3>
 <p>
-	The sounds on these pages require a good loudspeaker. If
+  The sounds on these pages require a good loudspeaker. If
   your computer doesn't have good speakers (a subwoofer is best)
   then try using a pair of earphones.
 </p>
@@ -86,3 +86,16 @@
     </p>
   </div>
 </div>
+
+<h2>More Earthquake Sounds</h2>
+<ul>
+  <li>
+    <a href="https://www.seismosoc.org/publications/earthquake_sounds/">Catalog of Earthquake-Related Sounds</a> - Seismological Society of America
+  </li>
+  <li>
+    <a href="https://vimeo.com/seismicsoundlab">The Seismic Sound Lab</a> - Lamont-Doherty Earth Observatory
+  </li>
+  <li>
+    <a href="https://eos.org/articles/seismic-wave-videos-combine-sight-and-sound?utm_source=rss&utm_medium=rss&utm_content=seismic-wave-videos-combine-sight-and-sound">Seismic Wave Videos Combine Sight and Sound</a> - EOS, American Geophysical Union
+  </li>
+</ul>

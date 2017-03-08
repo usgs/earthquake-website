@@ -37,7 +37,7 @@ echo '
       </li>
       <li>
         <a href="/learn/topics/EQ101.pdf">
-        EQ101 Presentation</a>
+        EQ101 Presentation</a> - the basics with lots of images.
       </li>
       <li>
         <a href="http://education.usgs.gov/" target="_blank">
@@ -53,6 +53,9 @@ echo '
       </li>
       <li>
         <a href="https://www.iris.edu/hq/programs/education_and_outreach"  target="_blank">IRIS Education and Public Outreach</a> - amazing collection of resources!
+      </li>
+      <li>
+        <a href="http://ds.iris.edu/aed2/all_links/">The Active Earth</a> - an index to all IRIS geoscience webpages.
       </li>
     </ul>
     <ul class="alert" style="margin-right:16px">
