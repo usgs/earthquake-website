@@ -14,7 +14,7 @@
     navItem("${section}/kidsLearningLinks.php", "Learning Links") .
     navItem("/learn/photos.php", "Earthquake Photos") .
     navItem("${section}/abc/", "Earthquake ABC") .
-    navItem("/earthquake/map/", "Latest Earthquakes") ,
+    navItem("/earthquakes/map/", "Latest Earthquakes") ,
 
   "</section>"
   ;
