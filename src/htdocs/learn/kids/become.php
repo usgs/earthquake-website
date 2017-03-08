@@ -25,7 +25,7 @@
 
 <p>
 	Seismologists<br />
-  <a href="http://www.seismosoc.org/seismology-society/education/careers-seismology/" target="_blank">Seismological Society of America </a>
+  <a href="https://www.seismosoc.org/inside/education/careers-seismology/" target="_blank">Seismological Society of America </a>
 </p>
 
 <p>

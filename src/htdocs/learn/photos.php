@@ -136,13 +136,10 @@ if  (!isset($TEMPLATE))  {
     <h2>Non-USGS Collections</h2>
     <ul id="nonusgs">
       <li><a href="http://www.earthscienceworld.org/imagebank/" target="_blank">American Geological Institute (AGI) Earth Science World ImageBank</a></li>
+      <li><a href="https://nisee.berkeley.edu/elibrary/">Earthquake Engineering Online Archive</a></li>
       <li><a href="http://www.johnmartin.com/earthquakes/eqshow/index.htm" target="_blank">Earthquake Images from John Martin &amp; Associates</a> (many from NOAA collection)</li>
-      <li><a href="http://cds.eeri.org/catalog/" target="_blank">EERI AudioVisual and Publications Catalog</a></li>
       <li><a href="https://www.fema.gov/media-library" target="_blank">FEMA Photo Library</a></li>
       <li><a href="http://www.iris.edu/gallery3/" target="_blank">IRIS Image Gallery</a></li>
-      <!--  find new link
-      <li><a href="http://nisee.berkeley.edu/visual_resources/steinbrugge_collection.html" target="_blank">Karl V. Steinbrugge Slide and Photograph Collection</a> World earthquakes and earthquake engineering</li>
-      -->
       <li><a href="http://memory.loc.gov/ammem/index.html" target="_blank">Library of Congress American Memory</a></li>
       <li><a href="http://www.ngdc.noaa.gov/hazardimages/" target="_blank">NOAA NDC Geologic Hazards Images</a></li>
       <li><a href="http://www.data.scec.org/significant/northridge1994.html" target="_blank">Northridge Earthquake</a></li>
