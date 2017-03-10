@@ -8,23 +8,16 @@
     $TITLE = 'Earthquake Science Center, Menlo Park, CA';
     $NAVIGATION = true;
 
-    // Read file contents into output buffer
-    ob_start();
-    include ('seminars/next-seminar.json.php');
-    $next_contents = ob_get_contents();
-    ob_end_clean();
+    $seminarJson = file_get_contents('https://earthquake.usgs.gov/contactus/menlo/seminars/next-seminar.json.php');
+    $seminarArray = json_decode($seminarJson, true);
+    $seminar = $seminarArray['seminar'];
 
-    // Reset content type to html (gets set to JSON by included file)
-    header('Content-Type: text/html');
-
-    $next_array = json_decode($next_contents, true);
-    $next_seminar = $next_array['seminar'];
-    $next_html = sprintf('
+    $seminarHtml = sprintf('
       <h5>%s</h5>
       <p>%s by %s</p>',
-      date('l F j, Y \a\\t g:iA', $next_seminar['timestamp']),
-      $next_seminar['topic'],
-      $next_seminar['speaker']
+      date('l F j, Y \a\\t g:iA', $seminar['timestamp']),
+      $seminar['topic'],
+      $seminar['speaker']
     );
 
     include 'template.inc.php';
@@ -78,7 +71,7 @@
           <h4>USGS Earthquake Seminar Series</h4>
           <img src="images/seminars-2x.png" alt="earthquake podcast" width="150" />
         </a>
-        <?php print $next_html; ?>
+        <?php print $seminarHtml; ?>
         <p>See also: <a href="https://online.wr.usgs.gov/calendar/">USGS Evening Public Lecture Series</p>
       </li>
 
