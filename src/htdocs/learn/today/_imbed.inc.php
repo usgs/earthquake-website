@@ -40,7 +40,7 @@ echo "
         //print out data
         while ($fact = $query->fetch(PDO::FETCH_ASSOC)) {
           $mag = $fact['magnitude'];
-          $country = $fact['country'];
+          $country = $fact['location'];
           $year = $fact['year'];
           $image = $fact['image'];
           $comment = $fact['comment'];
