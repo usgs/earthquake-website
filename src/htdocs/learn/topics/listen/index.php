@@ -89,6 +89,7 @@ if  (!isset($TEMPLATE))  {
 
 <h2>More Earthquake Sounds</h2>
 <ul>
+  <li><a href="https://www.usgs.gov/media/videos/listen-earthquakes">Listen to Earthquakes</a> - USGS</li>
   <li>
     <a href="https://www.seismosoc.org/publications/earthquake_sounds/">Catalog of Earthquake-Related Sounds</a> - Seismological Society of America
   </li>
