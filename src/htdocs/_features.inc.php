@@ -56,6 +56,27 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-13',
+   'title' => 'Listen to Earthquakes',
+   'content' => 'Seismometers record vibrations from a wide assortment of ground motion events, each with its own unique seismic signature. A USGS short educational video.',
+   'link' => 'https://www.usgs.gov/media/videos/listen-earthquakes',
+   'modified' => strtotime('2017-03-13'),
+   'thumbnail' => '/images-featured/listen-to-eqs-video.gif',
+   'image' => '/images-featured/listen-to-eqs-video.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-13',
+   'title' => 'Hazards to California\'s Delta Water System',
+   'content' => 'Earthquakes, land subsidence and flooding pose significant threats to California’s fresh water. A USGS short educational video.',
+   'link' => 'https://www.usgs.gov/media/videos/hazards-californias-delta-water-system',
+   'modified' => strtotime('2017-03-13'),
+   'thumbnail' => '/images-featured/delta-water-haz.jpg',
+   'image' => '/images-featured/delta-water-haz.jpg'
+ );
+
+
+ $EQ_FEATURES->items[] = array(
    'id' => '2017-03-02',
    'title' => 'Prehistoric Earthquakes Discovered Along San Andreas Fault',
    'content' => 'A new USGS study offers a view into the past behavior of large earthquakes along the southern San Andreas Fault. ',
