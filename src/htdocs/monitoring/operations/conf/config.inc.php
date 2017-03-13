@@ -30,6 +30,8 @@
   // $NETOPS_HELIPLOT_URL . '/{station_code}_24hr.png' --> small heliplot image
   // $NETOPS_HELIPLOT_URL . '/{station_code}_24hr.html' --> heliplot markup
   $NETOPS_HELIPLOT_URL = $NETOPS_DATA_BASEURL . '/Seismic_Data/telemetry_data';
+  $NETOPS_HELIPLOT_UPDATE_URL = 'https://earthquake.usgs.gov' .
+      $NETOPS_HELIPLOT_URL . '/tt_update';
 
   $NETOPS_LATENCY_URL = $NETOPS_DATA_BASEURL . '/station_latency';
 
