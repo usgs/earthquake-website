@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	11/10/2016
+      //	Contact: Cecily Wolfe
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'ANSS Publications &amp; Documents';
       $NAVIGATION	= true;
@@ -53,4 +52,6 @@
 	<li><a href="docs/ANSS_Data_Products_Policy.pdf">ANSS Data &amp; Products Policy</a></li>
 	<li><a href="docs/Geodetic_Networks_Standards_Procedures.pdf">Geodetic Networks Standards &amp; Procedures</a></li>
 	<li><a href="docs/EHP_Portable_Deployments_Guidelines.pdf">EHP Portable Deployments Guidelines</a></li>
+  <li><a href="docs/California_target_GNSS.csv">California Coordinates for West Coast Earthquake Early Warning System</a> (CSV)</li>
+  <li><a href="docs/Cascadia_target_GNSS.csv">Cascadia Coordinates for West Coast Earthquake Early Warning System</a> (CSV)</li>
 </ul>
