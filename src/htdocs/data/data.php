@@ -269,7 +269,7 @@
       <ul>
         <li>ANSS Regional Networks</li>
         <li><a href="http://www.iris.edu/data/seismograms/">IRIS-Incorporated Research Institutions for Seismology</a></li>
-        <li><a href="http://www.ngdc.noaa.gov/mgg/aboutmgg/aboutwdcmgg.html">NGDC-National Geophysical Data Center</a></li>
+        <li><a href="https://www.ngdc.noaa.gov/hazard/earthqk.shtml">NOAA Earthquake Data and Information</a></li>
         <li><a href="http://www.isc.ac.uk/">ISC-International Seismological Centre</a></li>
         <li><a href="http://www.unavco.org/">UNAVCO</a></li>
         <li><a href="http://www.consrv.ca.gov/cgs/">CGS-California Geological Survey</a></li>
