@@ -56,6 +56,26 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-20',
+   'title' => 'Enormous Caribbean Waves Before 1492',
+   'content' => 'Geologists have discovered evidence that unusual seas detached living corals from a Caribbean reef and scattered them far inland, as boulders, during the last centuries before Columbus arrived.',
+   'link' => 'https://www.usgs.gov/news/enormous-caribbean-waves-1492',
+   'modified' => strtotime('2017-03-20'),
+   'thumbnail' => '/images-featured/caribbeanwaves.jpg',
+   'image' => '/images-featured/caribbeanwaves.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-20',
+   'title' => 'Preparing for Tsunami Hazards on Washington’s Pacific Coast',
+   'content' => 'Scientists work with local communities to help residents understand how to prioritize locations for vertical evacuation structures in areas with no natural high ground.',
+   'link' => 'https://www.usgs.gov/news/preparing-tsunami-hazards-washington-s-pacific-coast',
+   'modified' => strtotime('2017-03-20'),
+   'thumbnail' => '/images-featured/tsunami_hazard_sign_blue.jpg',
+   'image' => '/images-featured/tsunami_hazard_sign_blue.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => '2017-03-13',
    'title' => 'Listen to Earthquakes',
    'content' => 'Seismometers record vibrations from a wide assortment of ground motion events, each with its own unique seismic signature. A USGS short educational video.',
