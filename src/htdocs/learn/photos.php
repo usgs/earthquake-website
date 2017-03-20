@@ -141,7 +141,7 @@ if  (!isset($TEMPLATE))  {
       <li><a href="https://www.fema.gov/media-library" target="_blank">FEMA Photo Library</a></li>
       <li><a href="http://www.iris.edu/gallery3/" target="_blank">IRIS Image Gallery</a></li>
       <li><a href="http://memory.loc.gov/ammem/index.html" target="_blank">Library of Congress American Memory</a></li>
-      <li><a href="http://www.ngdc.noaa.gov/hazardimages/" target="_blank">NOAA NDC Geologic Hazards Images</a></li>
+      <li><a href="https://www.ngdc.noaa.gov/hazardimages/" target="_blank">NOAA Natural Hazards Image Database</a></li>
       <li><a href="http://www.data.scec.org/significant/northridge1994.html" target="_blank">Northridge Earthquake</a></li>
       <li><a href="http://photo2.si.edu/" target="_blank">Smithsonian Photographs Online</a></li>
       <li><a href="http://www.sfmuseum.org/" target="_blank">The Museum of the City of San Francisco</a> Bay area earthquake damage</li>
