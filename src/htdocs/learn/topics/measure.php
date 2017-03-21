@@ -1,7 +1,6 @@
 <?php
-      //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	09/26/2016
+      //	Authors:	Tiffany Kalin, Lisa Wald
+      //	Contact: George Choy
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Measuring the Size of an Earthquake';
       $NAVIGATION	= true;
@@ -10,56 +9,29 @@
 ?>
 
 <p>
-  Seismic waves are the vibrations from earthquakes that travel through the Earth; they are recorded on instruments called seismographs. Seismographs record a zig-zag trace that shows the varying amplitude of ground oscillations beneath the instrument. Sensitive seismographs, which greatly magnify these ground motions, can detect strong earthquakes from sources anywhere in the world. The time, locations, and magnitude of an earthquake can be determined from the data recorded by seismograph stations.
+  Seismic waves are the vibrations from earthquakes that travel through the Earth; they are recorded on instruments called seismographs. Seismographs record a zig-zag trace that shows the varying amplitude of ground oscillations beneath the instrument. Sensitive seismographs, which greatly magnify these ground motions, can detect strong earthquakes from sources anywhere in the world. The time, location, and magnitude of an earthquake can be determined from the data recorded by seismograph stations.
 </p>
-
-<h2>The Richter Scale</h2>
-
 <p>
-  The Richter magnitude scale was developed in 1935 by Charles F. Richter of the California Institute of Technology as a mathematical device to compare the size of earthquakes. The magnitude of an earthquake is determined from the logarithm of the amplitude of waves recorded by seismographs. Adjustments are included for the variation in the distance between the various seismographs and the epicenter of the earthquakes. On the Richter Scale, magnitude is expressed in whole numbers and decimal fractions. For example, a magnitude 5.3 might be computed for a moderate earthquake, and a strong earthquake might be rated as magnitude 6.3. Because of the logarithmic basis of the scale, each whole number increase in magnitude represents a tenfold increase in measured amplitude; as an estimate of energy, each whole number step in the magnitude scale corresponds to the release of about 31 times more energy than the amount associated with the preceding whole number value.
+  Modern seismographic systems precisely amplify and record ground motion (typically at periods of between 0.1 and 100 seconds) as a function of time.
 </p>
-
-<p>
-  At first, the Richter Scale could be applied only to the records from instruments of identical manufacture. Now, instruments are carefully calibrated with respect to each other. Thus, magnitude can be computed from the record of any calibrated seismograph.
-</p>
-
 <p>
   Earthquakes with magnitude of about 2.0 or less are usually called microearthquakes; they are not commonly felt by people and are generally recorded only on local seismographs. Events with magnitudes of about 4.5 or greater - there are several thousand such shocks annually - are strong enough to be recorded by sensitive seismographs all over the world. Great earthquakes, such as the 1964 Good Friday earthquake in Alaska, have magnitudes of 8.0 or higher. On the average, one earthquake of such size occurs somewhere in the world each year.
 </p>
 
+<h2>The Richter Scale</h2>
 <p>
-  The Richter Scale is not commonly used anymore, as it has been replaced by another scale called the moment magnitude scale which is a more accurate measure of the earthquake size.
+  Although similar seismographs had existed since the 1890's, it was only in 1935 that Charles F. Richter, a seismologist at the California Institute of Technology, introduced the concept of earthquake magnitude. His original definition held only for California earthquakes occurring within 600 km of a particular type of seismograph (the Woods-Anderson torsion instrument). His basic idea was quite simple: by knowing the distance from a seismograph to an earthquake and observing the maximum signal amplitude recorded on the seismograph, an empirical quantitative ranking of the earthquake's inherent size or strength could be made. Most California earthquakes occur within the top 16 km of the crust; to a first approximation, corrections for variations in earthquake focal depth were, therefore, unnecessary.
+</p>
+<p>
+  The Richter magnitude of an earthquake is determined from the logarithm of the amplitude of waves recorded by seismographs. Adjustments are included for the variation in the distance between the various seismographs and the epicenter of the earthquakes. On the Richter Scale, magnitude is expressed in whole numbers and decimal fractions. For example, a magnitude 5.3 might be computed for a moderate earthquake, and a strong earthquake might be rated as magnitude 6.3. Because of the logarithmic basis of the scale, each whole number increase in magnitude represents a tenfold increase in measured amplitude; as an estimate of energy, each whole number step in the magnitude scale corresponds to the release of about 31 times more energy than the amount associated with the preceding whole number value.
+</p>
+<p>
+  The Richter Scale is not commonly used anymore, except for small earthquakes recorded locally, for which ML and Mblg are the only magnitudes that can be measured. For all other earthquakes, the moment magnitude scale is a more accurate measure of the earthquake size. More on that later.
 </p>
 
 <h2>Magnitude </h2>
-
 <p>
-  Modern seismographic systems precisely amplify
-  and record ground motion (typically at periods of
-  between 0.1 and 100 seconds) as a function of time.
-  This amplification and recording as a function of time
-  is the source of instrumental amplitude and arrival-time
-  data on near and distant earthquakes. Although
-  similar seismographs have existed since the 1890's,
-  it was only in the 1930's that Charles F. Richter,
-  a California seismologist, introduced the concept of
-  earthquake magnitude. His original definition held
-  only for California earthquakes occurring within
-  600 km of a particular type of seismograph
-  (the Woods-Anderson torsion instrument).
-  His basic idea was quite simple:
-  by knowing the distance from a seismograph
-  to an earthquake and observing the maximum signal
-  amplitude recorded on the seismograph, an empirical
-  quantitative ranking of the earthquake's inherent size
-  or strength could be made. Most California earthquakes
-  occur within the top 16 km of the crust;
-  to a first approximation, corrections for variations in
-  earthquake focal depth were, therefore, unnecessary.
-</p>
-
-<p>
-  Richter's original magnitude scale (M<sub>L</sub>) was then extended
+  Richter's original magnitude scale (M<sub>L</sub>) was extended
   to observations of earthquakes of any distance
   and of focal depths ranging between 0 and 700 km.
   Because earthquakes excite both body waves, which
