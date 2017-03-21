@@ -2,8 +2,8 @@
 if (!isset($TEMPLATE)){
   $TITLE='For Teachers';
   $HEAD='<link rel="stylesheet" href="style.css"/>';
-  $FOOT='<script src="classroom.js"></script>
-  <script type="text/javascript">addEvent(window, "load", function() { preloadImages(); setupImgTags(); });</script>';
+  $FOOT='<script src="classroom.js"></script>';
+  $NAVIGATION = true;
 
   include 'template.inc.php';
 }
@@ -200,7 +200,7 @@ to help teach about seismic waves and earthquake hazards.
 <h3 style="clear: left;">1.7 seconds</h3>
 
   <figure class="right">
-  <img src="./1906/images/sf1906t0017.jpg" alt="Image depicting earthquake at 1.7 seconds" />
+  <img src="./1906/images/sf1906t0017.jpg" alt="Image depicting earthquake at 1.7 seconds" class=rollover />
   <figcaption>Move your mouse over image to see the annotations.</figcaption>
 </figure>
 
@@ -235,7 +235,7 @@ to help teach about seismic waves and earthquake hazards.
 <h3 style="clear: left;">2.6 seconds</h3>
 
 <figure class="right">
-  <img src="./1906/images/sf1906t0026.jpg" alt="image depicting earthquake at 2.6 seconds" />
+  <img src="./1906/images/sf1906t0026.jpg" alt="image depicting earthquake at 2.6 seconds" class=rollover />
   <figcaption>Move your mouse over image to see the annotations.</figcaption>
 </figure>
 
@@ -267,7 +267,7 @@ to help teach about seismic waves and earthquake hazards.
 <h3 style="clear: left;">3.4 seconds</h3>
 
 <figure class="right">
-  <img src="./1906/images/sf1906t0034.jpg" alt="image depicting earthquake at 3.4 seconds" />
+  <img src="./1906/images/sf1906t0034.jpg" alt="image depicting earthquake at 3.4 seconds" class=rollover />
     <figcaption>Move your mouse over image to see the annotations.</figcaption>
 </figure>
 
@@ -291,7 +291,7 @@ to help teach about seismic waves and earthquake hazards.
 <h3 style="clear: left;">6.2 seconds</h3>
 
 <figure class="right">
-  <img src="./1906/images/sf1906t0062.jpg" alt="image depicting earthquake at 6.2 seconds" />
+  <img src="./1906/images/sf1906t0062.jpg" alt="image depicting earthquake at 6.2 seconds" class=rollover />
 <figcaption>Move your mouse over image to see the annotations.</figcaption>
 </figure>
 
@@ -321,7 +321,7 @@ to help teach about seismic waves and earthquake hazards.
 <h3 style="clear: left;">16 seconds</h3>
 
 <figure class="right">
-  <img src="./1906/images/sf1906t0160.jpg" alt="image depicting earthquake at 16 seconds" />
+  <img src="./1906/images/sf1906t0160.jpg" alt="image depicting earthquake at 16 seconds" class=rollover />
     <figcaption>Move your mouse over image to see the annotations.</figcaption>
 </figure>
 
@@ -357,7 +357,7 @@ to help teach about seismic waves and earthquake hazards.
 <h3 style="clear: left;">30 seconds</h3>
 
 <figure class="right">
-  <img src="./1906/images/sf1906t0300.jpg" alt="image depicting earthquake at 30 seconds" />
+  <img src="./1906/images/sf1906t0300.jpg" alt="image depicting earthquake at 30 seconds" class=rollover />
     <figcaption>Move your mouse over image to see the annotations.</figcaption>
 </figure>
 

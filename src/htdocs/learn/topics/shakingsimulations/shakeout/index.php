@@ -3,6 +3,7 @@ if (!isset($TEMPLATE)) {
   $TITLE = 'Southern California ShakeOut';
   $HEAD = '';
   $FOOT = '';
+  $NAVIGATION = true;
 
   include 'template.inc.php';
 }

@@ -4,6 +4,7 @@ if (!isset($TEMPLATE)) {
   $TITLE = 'Hayward Fault Scenario Earthquakes';
   $HEAD = '';
   $FOOT = '';
+  $NAVIGATION = true;
 
   include 'template.inc.php';
 }

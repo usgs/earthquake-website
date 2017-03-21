@@ -3,6 +3,7 @@ if (!isset($TEMPLATE)){
   $TITLE='Explanation of Colors';
   $HEAD='<link rel="stylesheet" href="style.css"/>';
   $FOOT='';
+  $NAVIGATION = true;
 
   include 'template.inc.php';
 }

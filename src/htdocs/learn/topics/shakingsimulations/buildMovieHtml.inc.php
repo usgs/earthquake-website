@@ -1,5 +1,4 @@
 <?php
-include_once('../../../../../lib/shakingsimulations/_functions.inc.php');
   function buildMovieHtml($movie, $set, $caption='',$filesize,$hdfilesize) {
     $path =  "https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/$set";
     #$system_path = $_SERVER['DOCUMENT_ROOT'] . $path;

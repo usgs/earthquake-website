@@ -3,6 +3,7 @@ if (!isset($TEMPLATE)) {
   $TITLE = '1906 Earthquake';
   $HEAD = '';
   $FOOT = '';
+  $NAVIGATION = true;
 
   include 'template.inc.php';
 }
