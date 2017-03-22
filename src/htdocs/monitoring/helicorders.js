@@ -37,7 +37,7 @@ createMap = function (data) {
       icon: icon,
       title: site.name
     });
-    marker.bindPopup('<a href="' + site.href + '">' +
+    marker.bindPopup('<a href="' + site.href + ' " target="_blank">' +
         '<h3>' + site.name + '</h3>' +
         '</a>');
     marker.addTo(map);

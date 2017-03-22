@@ -27,7 +27,10 @@
 
     <ul>
       <li><a href="/monitoring/operations/heliplot.php?virtual_network=ANSS"/>
-        ANSS
+        Advanced National Seismic System (ANSS)
+      </a></li>
+      <li><a href="https://avo.alaska.edu/webicorders/" target="_blank">
+        Alaska
       </a></li>
       <li><a href="http://www4.nau.edu/geology/aeic/recent_heli.html" target="_blank">
         Arizona-Flagstaff
@@ -44,19 +47,22 @@
       <li><a href="http://aki.bc.edu/cgi-bin/NESN/24hr_heli" target="_blank">
         Eastern US-Weston
       </a></li>
+      <li><a href="http://www.insivumeh.gob.gt:8060/" target="_blank">
+        Guatemala
+      </a></li>
       <li><a href="http://www.mgs.md.gov/seismic/helicorder.php" target="_blank">
         Maryland Geological Survey
       </a></li>
       <li><a href="http://mbmgquake.mtech.edu/earthworm/wavef_disp/current/welcome.html" target="_blank">
         Montana
       </a></li>
-      <li><a href="http://crack.seismo.unr.edu/Webcam/webcam.html" target="_blank">
+      <li><a href="http://www.seismo.unr.edu/Monitoring" target="_blank">
         Nevada
       </a></li>
       <li><a href="http://quake.geo.berkeley.edu/bdsn/seismograms.html" target="_blank">
         Northern California-Berkeley
       </a></li>
-      <li><a href="/monitoring/helicorders/" target="_blank">
+      <li><a href="https://earthquake.usgs.gov/monitoring/seismograms" target="_blank">
         Northern California-USGS
       </a></li>
       <li><a href="http://www.ceri.memphis.edu/seismic/heli/" target="_blank">
@@ -70,6 +76,9 @@
       </a></li>
       <li><a href=" http://www.prsn.uprm.edu/English/EstacionesV3/seismometers.php"  target="_blank">
         Puerto Rico
+      </a></li>
+      <li><a href="http://www.scsn.org/index.php/earthquakes/live-seismogram-feed/" target="_blank">
+        Southern California - SCSN
       </a></li>
       <li><a href="http://pasadena.wr.usgs.gov/webicorder/" target="_blank">
         Southern California-USGS
@@ -89,6 +98,21 @@
     <h2>Worldwide</h2>
 
     <ul>
+      <li><a href="http://www.zamg.ac.at/geophysik/live_seis/produkt_demo/index.php" target="_blank">
+        Austria
+      </a></li>
+      <li><a href="http://seismologie.be/en" target="_blank">
+        Belgium
+      </a></li>
+      <li><a href="http://www.earthquakes.bgs.ac.uk/helicorder/heli.html" target="_blank">
+        British Geological Survey
+      </a></li>
+      <li><a href="https://www.ig.cas.cz/en/noright/daily-seismograms" target="_blank">
+        Czech Republic
+      </a></li>
+      <li><a href="http://renass.unistra.fr/" target="_blank">
+        France
+      </a></li>
       <li><a href="http://www.iris.washington.edu/bud_stuff/dmc/bud_monitor.ALL.html" target="_blank">
         Global-IRIS-BUD
       </a></li>
@@ -96,19 +120,43 @@
         Global-IRIS-REV
       </a></li>
       <li><a href="/monitoring/operations/heliplot.php?virtual_network=GSN"/>
-        GSN
+        Global Seimographic Network (GSN)
+      </a></li>
+      <li><a href="http://bbnet.gein.noa.gr/HL/" target="_blank">
+        Greece
+      </a></li>
+      <li><a href="http://www.ov.ingv.it/ov/" target="_blank">
+        Italy - Osservatorio Vesusiano, INGV
+      </a></li>
+      <li><a href="http://www.distav.unige.it/rsni/" target="_blank">
+        Italy - Regional Seismic Network of Northwestern Italy
       </a></li>
       <li><a href="http://www.fnet.bosai.go.jp/freesia/waveform/" target="_blank">
         Japan
       </a> </li>
+      <li><a href="http://geofisica-ew1.ineter.gob.ni/sismogramas/welcome.html" target="_blank">
+        Latin America
+      </a></li>
+      <li><a href="http://www.knmi.nl/nederland-nu/seismologie/aardbevingen" target="_blank">
+        The Netherlands
+      </a></li>
       <li><a href="http://www.geonet.org.nz/quakes/drums/" target="_blank">
         New Zealand
       </a></li>
-      <li><a href="http://www.libertas.sm/cont/pagina/sismografo-online-terremoti-tracce-sismiche-e-sismogrammi-in-diretta-da-san-marino-repubblica-componente-nord-sud-n/1409/3.html" target="_blank">
-        Republic of San Marino
+      <li><a href="http://www.norsardata.no/NDC/heliplots/" target="_blank">
+        Norway
       </a></li>
-      <li><a href="http://www.earthquakes.bgs.ac.uk/helicorder/heli.html" target="_blank">
-        United Kingdom
+      <li><a href="http://www.seismology.sk/Live_seismograms/live_seismograms.html" target-"_blank">
+        Slovakia
+      </a></li>
+      <li><a href="http://sismic2.iec.cat/drupal/?q=content/estacions-s%C3%ADsmiques" target="_blank">
+        Spain - El laboratori d'Estudis Geofísics Eduard Fontserè (LEGEF)
+      </a></li>
+      <li><a href="http://www1.igc.cat/web/ca/sismologia_sismograma.php" target="_blank">
+        Spain - Institut Cartogràfic i Geològic de Catalunya (ICGC)
+      </a></li>
+      <li><a href="http://www.ydbae.mam.gov.tr/sismogram/" target="_blank">
+        Turkey
       </a></li>
     </ul>
   </div>

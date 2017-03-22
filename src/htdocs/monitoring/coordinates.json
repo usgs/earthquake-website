@@ -1,10 +1,16 @@
 [
   {
-		"name": "ANSS",
+		"name": "Advanced National Seismic Systme (ANSS)",
 		"lat": 38.947392,
 		"lng": -77.367420,
 		"href": "/monitoring/operations/heliplot.php?virtual_network=ANSS"
 	},
+  {
+    "name": "Alaska",
+    "lat": 64.812187,
+    "lng": -150.718780,
+    "href": "https://avo.alaska.edu/webicorders/"
+  },
   {
 		"name": "Arizona-Flagstaff",
 		"lat": 35.192700,
@@ -19,8 +25,8 @@
   },
   {
     "name": "Canada",
-    "lat": 45.400137,
-    "lng": -75.705900,
+    "lat": 57.449088,
+    "lng": -106.408599,
     "href": "http://www.earthquakescanada.nrcan.gc.ca/stndon/wf-fo/index-en.php"
   },
   {
@@ -36,6 +42,12 @@
     "href": "http://aki.bc.edu/cgi-bin/NESN/24hr_heli"
   },
   {
+    "name": "Guatemala",
+    "lat": 15.030528,
+    "lng": -90.233376,
+    "href": "http://www.insivumeh.gob.gt:8060/"
+  },
+  {
     "name": "Maryland Geological Survey",
     "lat": 39.315564,
     "lng": -76.615888,
@@ -49,9 +61,9 @@
   },
   {
     "name": "Nevada",
-    "lat": 39.539241,
-    "lng": -118.813614,
-    "href": "http://crack.seismo.unr.edu/Webcam/webcam.html"
+    "lat": 39.818206,
+    "lng": -116.947404,
+    "href": "http://www.seismo.unr.edu/Monitoring"
   },
   {
     "name": "Northern California - Berkeley",
@@ -63,13 +75,13 @@
     "name": "Northern California - USGS",
     "lat": 37.456697,
     "lng": -122.171270,
-    "href": "https://earthquake.usgs.gov/monitoring/seismograms/latest"
+    "href": "https://earthquake.usgs.gov/monitoring/seismograms"
   },
   {
     "name": "New Madrid",
     "lat": 35.123490,
     "lng": -89.932483,
-    "href": "http://www.memphis.edu/ceri/seismic/"
+    "href": "http://www.memphis.edu/ceri/seismic/heli/"
   },
   {
     "name": "New Mexico",
@@ -90,6 +102,12 @@
     "href": "http://www.prsn.uprm.edu/English/EstacionesV3/seismometers.php"
   },
   {
+    "name": "Southern California - SCSN",
+    "lat": 34.136130,
+    "lng": -118.126846,
+    "href": "http://www.scsn.org/index.php/earthquakes/live-seismogram-feed/"
+  },
+  {
     "name": "Southern California - USGS",
     "lat": 32.937220,
     "lng": -117.037402,
@@ -97,13 +115,13 @@
   },
   {
     "name": "South Carolina",
-    "lat": 33.996185,
-    "lng": -81.027504,
+    "lat": 33.851439,
+    "lng": -80.410169,
     "href": "http://eeyore.seis.sc.edu/earthworm/heli/welcome.html"
   },
   {
     "name": "Utah/Yellowstone",
-    "lat": 40.766707,
+    "lat": 39.037937,
     "lng": -111.847253,
     "href": "http://quake.utah.edu/earthquake-center/heli-map"
   },
@@ -114,10 +132,58 @@
     "href": "http://cannonball.geos.vt.edu/heli/"
   },
   {
-    "name": "GSN",
+    "name": "Austria",
+    "lat": 47.294204,
+    "lng": 14.925198,
+    "href": "http://www.zamg.ac.at/geophysik/live_seis/produkt_demo/index.php"
+  },
+  {
+    "name": "Belgium",
+    "lat": 50.514488,
+    "lng": 4.684844,
+    "href": "http://seismologie.be/en"
+  },
+  {
+    "name": "British Geological Survey",
+    "lat": 53.002549,
+    "lng": -1.087363,
+    "href": "http://www.earthquakes.bgs.ac.uk/helicorder/heli.html"
+  },
+  {
+    "name": "Czech Republic",
+    "lat": 49.140234,
+    "lng": 15.575484,
+    "href": "https://www.ig.cas.cz/en/noright/daily-seismograms"
+  },
+  {
+    "name": "France",
+    "lat": 46.503110,
+    "lng": 3.001199,
+    "href": "http://renass.unistra.fr/"
+  },
+  {
+    "name": "Global Seimographic Network (GSN)",
     "lat": 34.946436,
     "lng": -106.458446,
     "href": "/monitoring/operations/heliplot.php?virtual_network=GSN"
+  },
+  {
+    "name": "Greece",
+    "lat": 39.541376,
+    "lng": 22.376826,
+    "href": "http://bbnet.gein.noa.gr/HL/"
+  },
+  {
+    "name": "Italy - Osservatorio Vesusiano, INGV",
+    "lat": 40.833840,
+    "lng": 14.396581,
+    "href": "http://www.ov.ingv.it/ov/"
+  },
+  {
+    "name": "Italy - Regional Seismic Network of Northwestern Italy",
+    "lat": 44.487999,
+    "lng": 10.185648,
+    "href": "http://www.distav.unige.it/rsni/"
   },
   {
     "name": "Japan",
@@ -126,21 +192,51 @@
     "href": "http://www.fnet.bosai.go.jp/freesia/waveform/"
   },
   {
+    "name": "Latin America",
+    "lat": -0.930985,
+    "lng": -61.145493,
+    "href": "http://geofisica-ew1.ineter.gob.ni/sismogramas/welcome.html"
+  },
+  {
+    "name": "The Netherlands",
+    "lat": 52.279215,
+    "lng": 5.267834,
+    "href": "http://www.knmi.nl/nederland-nu/seismologie/aardbevingen"
+  },
+  {
     "name": "New Zealand",
     "lat": -41.136297,
     "lng": 174.93328,
     "href": "http://www.geonet.org.nz/quakes/drums/"
   },
   {
-    "name": "Republic of San Marino",
-    "lat": 43.945468,
-    "lng": 12.457861,
-    "href": "http://www.libertas.sm"
+    "name": "Norway",
+    "lat": 61.034706,
+    "lng": 8.417537,
+    "href": "http://www.norsardata.no/NDC/heliplots/"
   },
   {
-    "name": "Unitd Kingdom",
-    "lat": 53.002549,
-    "lng": -1.087363,
-    "href": "http://www.earthquakes.bgs.ac.uk/helicorder/heli.html"
+    "name": "Slovakia",
+    "lat": 48.389672,
+    "lng": 19.717295,
+    "href": "http://www.seismology.sk/Live_seismograms/live_seismograms.html"
+  },
+  {
+    "name": "Spain - El laboratori d'Estudis Geofísics Eduard Fontserè (LEGEF)",
+    "lat": 39.480413,
+    "lng": -3.376489,
+    "href": "http://sismic2.iec.cat/drupal/?q=content/estacions-s%C3%ADsmiques"
+  },
+  {
+    "name": "Spain - Institut Cartogràfic i Geològic de Catalunya (ICGC)",
+    "lat": 40.942270,
+    "lng": 0.395063,
+    "href": "http://www1.igc.cat/web/ca/sismologia_sismograma.php"
+  },
+  {
+    "name": "Turkey",
+    "lat": 38.920867,
+    "lng": 35.490348,
+    "href": "http://www.ydbae.mam.gov.tr/sismogram/"
   }
 ]
