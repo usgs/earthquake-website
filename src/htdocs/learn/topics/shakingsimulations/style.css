@@ -1,0 +1,80 @@
+.scenario h3 span {
+  display: block;
+  font-size: .8em;
+  color: #666;
+  margin: -1px 0 3px 0;
+}
+
+.selected h2 {
+  display: none;
+}
+.movies div, .scenario div {
+  float: left;
+  margin: 6px 12px 6px 0;
+  border: 1px solid #ddd;
+  padding: 0;
+  width: 316px;
+}
+.movies img, .scenario img {
+  display: block;
+  margin: 8px;
+}
+.movies h3, .scenario h3 {
+  margin: 0;
+  padding: 2px 0 1px;
+  text-align: center;
+  color: #333;
+  background: #eee;
+}
+.movies ul {
+  margin: -5px 8px 8px;
+  padding: 0;
+  overflow: auto;
+}
+.movies ul li {
+  float: left;
+  list-style-type: none;
+  margin-left: 0;
+}
+.movies ul li a {
+  display: block;
+  background: #999;
+  color: #fff;
+  text-decoration: none;
+  padding: 1px 4px;
+  margin: 5px 5px 0 0;
+  border: 1px solid;
+  border-color: #666 #333 #333 #666;
+  font-size: .9em;
+}
+.movies, .map {
+  overflow: auto;
+}
+.map img {
+  float: left;
+  margin: 1em 1em 1em 0;
+  border: none;
+}
+
+
+/* ---------- Tooltips ---------- */
+
+#tooltip {
+  position: absolute;
+  z-index: 3000;
+  border: 1px solid #111;
+  background-color: #eee;
+  padding: 1px 4px;
+  opacity: 0.9;
+}
+#tooltip h3, #tooltip div { margin: 0; }
+#tooltip h3 {
+  font-size: 1em;
+}
+
+
+/* ---------- Animation window ---------- */
+
+#animation p {
+  margin: 5px 12px 0;
+}
