@@ -20,7 +20,7 @@
     <p><a href='map/'><strong>View interactive fault map.</strong></a></p>
 
     <p>
-      This database contains information on faults and associated folds in the United States that demonstrate geological evidence of coseismic surface deformation in large earthquakes during <strong>the Quaternary (the past 1.6 million years)</strong>. Links to descriptions and citations are accessible through the <a href="http://geohazards.usgs.gov/cfusion/qfault/index.cfm">Database Search</a> or <a href='map/'>Interactive Fault Map</a>.
+      This database contains information on faults and associated folds in the United States that demonstrate geological evidence of coseismic surface deformation in large earthquakes during <strong>the Quaternary (the past 1.6 million years)</strong>. Links to descriptions and citations are accessible through the <a href="/cfusion/qfault/index.cfm">Database Search</a> or <a href='map/'>Interactive Fault Map</a>.
     </p>
 
     <p class='alert info'>
@@ -28,7 +28,7 @@
     </p>
 
     <ul>
-      <li><a href="http://geohazards.usgs.gov/cfusion/qfault/index.cfm">
+      <li><a href="/cfusion/qfault/index.cfm">
         Database Search</a></li>
       <li>Download Data:
         <ul>
@@ -59,7 +59,7 @@
 
     <h2>About the Quaternary Faults and the National Seismic Hazard Maps</h2>
     <p>
-      This database was used to create the <a href="https://geohazards.usgs.gov/cfusion/hazfaults_2014_search/query_main.cfm">fault-source characterization</a> in the National Seismic Hazard Maps. For the hazard maps, both the fault surface trace and the metadata are simplified representations of the geometry and behavior of the fault, based on geologic interpretation.
+      This database was used to create the <a href="/cfusion/hazfaults_2014_search/query_main.cfm">fault-source characterization</a> in the National Seismic Hazard Maps. For the hazard maps, both the fault surface trace and the metadata are simplified representations of the geometry and behavior of the fault, based on geologic interpretation.
     </p>
     <p>
       <a href="citation.php">Citation information</a> - when using these data, please provide proper acknowledgment.

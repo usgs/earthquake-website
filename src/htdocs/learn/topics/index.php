@@ -1,7 +1,6 @@
 <?php
-      //  Author:  Tiffany Kalin
-      //  Contact:
-      //  Last  modified:  1/27/2016
+      //  Author: Tiffany Kalin
+      //  Contact: Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Earthquake Topics';
       $HEAD = '
@@ -20,29 +19,44 @@ echo '
   <div class="column two-of-three">
     <h2>Popular</h2>
     <ul>
-      <li><a href="/learn/kids/eqscience.php">
-        The Science of Earthquakes</a> - the basics in brief</li>
-
-      <li><a href="/learn/animations/">
-        Animations for Earthquake Terms &amp; Concepts</a></li>
-
-      <li><a href="https://pubs.usgs.gov/gip/dynamic/dynamic.html">
-        This Dynamic Earth: The Story of Plate Tectonics</a> - comprehensive overview of plate tectonics with excellent graphics</li>
-
-      <li><a href="https://pubs.usgs.gov/imap/2800/">
-        This Dynamic Planet</a> - World Map of Volcanoes, Earthquakes, Impact Craters, and Plate Tectonics.</li>
-
-      <li><a href="/learn/topics/EQ101.pdf">
-        EQ101 Presentation</a></li>
-
-      <li><a href="http://education.usgs.gov/" target="_blank">
-        USGS Education Web Site</a></li>
-
-      <li><a href="http://store.usgs.gov/" target="_blank">
-        USGS Store - Publications and Products</a></li>
-
-      <li><a href="https://www.nationalmap.gov/" target="_blank">
-        USGS National Atlas Maps</a></li>
+      <li>
+        <a href="/learn/kids/eqscience.php">
+        The Science of Earthquakes</a> - the basics in brief.
+      </li>
+      <li>
+        <a href="/learn/animations/">
+        Animations for Earthquake Terms &amp; Concepts</a>
+      </li>
+      <li>
+        <a href="https://pubs.usgs.gov/gip/dynamic/dynamic.html">
+        This Dynamic Earth: The Story of Plate Tectonics</a> - comprehensive overview of plate tectonics with excellent graphics.
+      </li>
+      <li>
+        <a href="https://pubs.usgs.gov/imap/2800/">
+        This Dynamic Planet</a> - World Map of Volcanoes, Earthquakes, Impact Craters, and Plate Tectonics.
+      </li>
+      <li>
+        <a href="/learn/topics/EQ101.pdf">
+        EQ101 Presentation</a> - the basics with lots of images.
+      </li>
+      <li>
+        <a href="http://education.usgs.gov/" target="_blank">
+        USGS Education Web Site</a>
+      </li>
+      <li>
+        <a href="http://store.usgs.gov/" target="_blank">
+        USGS Store - Publications and Products</a>
+      </li>
+      <li>
+        <a href="https://www.nationalmap.gov/" target="_blank">
+        USGS National Atlas Maps</a>
+      </li>
+      <li>
+        <a href="https://www.iris.edu/hq/programs/education_and_outreach"  target="_blank">IRIS Education and Public Outreach</a> - amazing collection of resources!
+      </li>
+      <li>
+        <a href="http://ds.iris.edu/aed2/all_links/">The Active Earth</a> - an index to all IRIS geoscience webpages.
+      </li>
     </ul>
     <ul class="alert" style="margin-right:16px">
       <li><a href="all.php"><strong>All Resources</strong></a></li>

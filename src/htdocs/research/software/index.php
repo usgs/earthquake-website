@@ -40,6 +40,7 @@
   <a href="#PPHASEPICKER">PPHASEPICKER</a>
   <a href="#PDL">PDL</a>
   <a href="#PQLX">PQLX</a>
+  <a href="#Prism">Prism</a>
   <a href="#probab">Probabilistic Seismic Hazard Calculation Software</a>
   <a href="#SATSI">SATSI</a>
   <a href="#SeisRisk">SeisRisk III</a>
@@ -186,7 +187,13 @@ See how our applications work and collaborate with us at <a href="http://github.
       </tr>
       <tr>
         <th>Docs:</th>
-        <td>Online documentation: <a href="/monitoring/edm/cleanstrain/">installation, manual, examples</a></td>
+        <td>Online documentation:
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+          <a href="/monitoring/edm/cleanstrain/">installation, manual, examples</a>
+-->
+
+        </td>
       </tr>
      <tr>
         <th>Download:</th>
@@ -1010,6 +1017,48 @@ also supports negative magnitudes, independent S models, and crustal models from
       Functions (PDF) and writes the results to a MySQL database for quick
       access.
     </p>
+  </li>
+  <li>
+    <h2 id="Prism">Prism: Processing and Review Interface for Strong Motion Data</h2>
+    <a href="prism/"><img src="prism/prism.png" alt="Prism logo" width="150"></a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td><a href="mailto:jmjones@usgs.gov">Jeanne Jones</a>, <a href="https://profile.usgs.gov/ekalkan">Erol Kalkan</a>, <a href="mailto:cdstephens@usgs.gov">Christopher Stephens</a> and <a href="mailto:png@usgs.gov">Peter Ng</a></td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Automatically process raw strong-motion records in COSMOS V0 format
+          and generate COSMOS V1, V2 and V3 products.</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Windows, Mac or Linux</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line and GUI</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Graphics and text files</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>Open file reports and Javadoc</td>
+      </tr>
+      <tr>
+        <th>Release Date</th>
+        <td>Version 1.0, February 2017</td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="prism/">See online documentation</a></td>
+      </tr>
+    </table>
+    <p>PRISM is open-source software used for automatically processing strong-motion records, and is intended to be used by individuals or strong-motion networks. The software package includes a review tool, which is an interactive graphical user interface (GUI) for visually inspecting, editing and processing. PRISM is coded in Java language, and does not dependent on closed-source or proprietary software.</p>
+    <p>PRISM is easy to install and run as a stand-alone system on common operating systems such as Linux, Mac and Windows.</p>
+    <p>PRISM was designed to be flexible and extensible in order to accommodate implementation of new processing techniques. Strong-motion processing steps in the automated workflow are clearly defined, and use a set of customizable parameters—specified in a configuration file—to generate COSMOS V1 (acceleration with mean removed), V2 (baseline-corrected and filtered acceleration, velocity and displacement), and V3 (response spectra, Fourier spectra and intensity measures) data products.</p>
   </li>
   <li>
     <h2 id="probab">Probabilistic Seismic Hazard Calculation Software</h2>

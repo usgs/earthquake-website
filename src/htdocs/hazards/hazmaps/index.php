@@ -60,8 +60,9 @@
     <h2>Hazard Tools</h2>
 
     <a href="/hazards/interactive/">Unified Hazard Tool - BETA</a>
-    <p>Will eventually replace most of the individual tools listed below.</p>
+    <p>Replaces most of the previous individual tools.</p>
 
+<!-- GEOHAZ SERVER TURNED OFF MARCH 1, 2017
     <a href="http://geohazards.usgs.gov/hazards/apps/cmaps/">
       <img class='tool' src="images/cmaps.gif" width="75" alt=""/>
       <p>Custom Hazard Maps<br/>
@@ -95,8 +96,9 @@
       <li><a href="http://geohazards.usgs.gov/deaggint/2002/">U.S., Puerto Rico - 2002</a></li>
       <li><a href="http://geohazards.usgs.gov/deaggint/1996/">U.S., Alaska, Hawaii - 1996</a></li>
       <li><a href="http://geohazards.usgs.gov/deaggband/2009/">Banded Deaggregation - U.S. - 2009</a></li>
-    </ul>
+ -->
 
+    </ul>
 
     <h2>Other Products</h2>
 
@@ -134,7 +136,16 @@
           Includes Afghanistan, Sumatra, State of Gujarat,India.  See also <a href="http://www.seismo.ethz.ch/static/gshap/">Global Seismic Hazard Assessment Program (GSHAP)</a>.
         </p>
       </li>
+    </ul>
 
+    <h2>See also:</h2>
+    <ul>
+      <li>
+        <a href="http://www.conservation.ca.gov/cgs/earthquakes/Pages/Index.aspx">California Hazard Maps</a> - California Geological Survey
+      </li>
+      <li>
+        <a href="http://www.earthquakescanada.nrcan.gc.ca/hazard-alea/index-en.php">Canadian Hazard Maps</a> - Natural Resources Canada
+      </li>
     </ul>
   </section>
 </div>

@@ -1,16 +1,15 @@
 <?php
 // Author: Lisa Wald
 // Contact: David Wald, wald@usgs.gov
-// Last modified: 01/27/2016
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'ShakeMap';
   $NAVIGATION = true;
   $HEAD = '
-    <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
+    <link rel="stylesheet" href="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.css"/>
   ';
   $FOOT = '
-    <script src="/lib/earthquake-list-widget.js"></script>
+    <script src="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.js"></script>
     <script src="index.js"></script>
   ';
   include 'template.inc.php';
@@ -92,7 +91,7 @@ if (!isset($TEMPLATE)) {
       </li>
 
       <li>
-        <a href="/earthquakes/shakemap/list.php?x=1&s=1">
+        <a href="/scenarios/">
         <h4>Scenarios</h4>
         <img src="images/scenario-2x.jpg" alt="" width="75"/></a>
         <p>Earthquake Scenarios describe the expected ground motions and effects of specific hypothetical large earthquakes.</p>

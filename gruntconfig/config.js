@@ -22,7 +22,8 @@ var config = {
     '/ws/network-operations',
     '/scenarios/eventpage/',
     '/scenarios/feed/',
-    '/scenarios/map/'
+    '/scenarios/map/',
+    '/static'
   ],
   src: 'src',
   srcPort: BASE_PORT,

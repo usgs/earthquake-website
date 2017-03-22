@@ -46,7 +46,7 @@
         <p>Real-time waveforms from all over the world.</p>
       </li>
       <li>
-        <a href="buildings/">
+        <a href="nsmp/buildings/">
           <h4>Earthquake Monitoring of Structures</h4>
           <img src="images/buildings.png" width="150"/>
         </a>

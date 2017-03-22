@@ -18,6 +18,11 @@ if (!isset($TEMPLATE)) {
   <div class='column one-of-two'>
 
     <h2>Annual Competitive Grants</h2>
+
+<p>
+  <strong><a href="https://www.grants.gov/web/grants/search-grants.html?keywords=G17AS00030">FY2018 Program Announcement</strong></a>
+</p>
+
     <p>
       External Grants issues an annual Program announcement for competitive proposals for grants and cooperative agreements to support research in earthquake hazards, the physics of earthquakes, earthquake occurrence, and earthquake safety policy.
     </p>
@@ -27,12 +32,17 @@ if (!isset($TEMPLATE)) {
     </p>
 
     <p>
-      The application period is generally open from early March to mid-May. <a href="http://www.grants.gov/web/grants/manage-subscriptions.html">Sign up for subscription notices from Grants.gov</a> regarding <i>"CFDA number 15.807 application period openings"</i>.
+      <!-- The application period is generally open from early March to mid-May.
+    -->
+      <strong>The application period is currently open until May 22, 2017.</strong>
+      <a href="http://www.grants.gov/web/grants/manage-subscriptions.html">Sign up for subscription notices from Grants.gov</a> regarding <i>"CFDA number 15.807 application period openings"</i>.
     </p>
 
+<!--
     <p>
       <strong>A link to the application will be posted here during the application period.</strong>
     </p>
+-->
 
     <ul>
       <li><a href="forpis.php">Information for PIs</a></li>
@@ -48,9 +58,9 @@ if (!isset($TEMPLATE)) {
   <div class='column one-of-two'>
     <h2>Funded External Grants</h2>
     <ul>
-      <li><a href="https://geohazards.usgs.gov/cfusion/external_grants/research.cfm">Funded Research</a></li>
-      <li><a href="https://geohazards.usgs.gov/cfusion/external_grants/networks.cfm">Funded Network Operations</a></li>
-      <li><a href="https://geohazards.usgs.gov/cfusion/external_grants/monitoring_upgrades.cfm">ARRA-Funded Monitoring Upgrades</a></li>
+      <li><a href="/cfusion/external_grants/research.cfm">Funded Research</a></li>
+      <li><a href="/cfusion/external_grants/networks.cfm">Funded Network Operations</a></li>
+      <li><a href="/cfusion/external_grants/monitoring_upgrades.cfm">ARRA-Funded Monitoring Upgrades</a></li>
     </ul>
 
 
@@ -64,6 +74,14 @@ if (!isset($TEMPLATE)) {
       	<th>Proposals funded</th>
       	<th>Proposals recomm. for support by Peer Panels, but insufficient funds available to support</th>
       	<th>Proposals NOT recomm. for support by panels</th>
+      </tr>
+
+      <tr>
+      	<td>2017</td>
+      	<td>212</td>
+      	<td>44 (as of 3/17/17)</td>
+      	<td>67</td>
+      	<td>61</td>
       </tr>
 
       <tr>

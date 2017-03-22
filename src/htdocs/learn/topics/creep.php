@@ -1,17 +1,18 @@
 <?php
-      //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	10/6/2016
-      if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Creep Evidence of Active Faulting';
-      $NAVIGATION	= true;
-      include	'template.inc.php';
-      }
+//	Author:	Tiffany Kalin
+//	Contact:
+if	(!isset($TEMPLATE))	{
+  $TITLE	=	'Creep Evidence of Active Faulting';
+  $NAVIGATION	= true;
+  include	'template.inc.php';
+}
 ?>
 
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
 <figure class="right">
 	<img src="/regional/nca/haywardfault/images/creep_img.gif" alt="offset curb photo" width="214" height="230" />
 </figure>
+-->
 
 <p>
 	Creep is steady fault movement, varying from continuous to episodic with creep events lasting minutes to days. Generally creep occurs without any associated earthquake activity (i.e., aseismic.) Creep has been monitored on the Hayward fault for fifty years (Lienkaemper et al., 2012) and is also observed along some sections of other faults in the San Francisco Bay region, including the San Andreas, Calaveras, Concord-Green Valley and Maacama (<a href="images/Creep_BSSA03.pdf">Galehouse and Lienkaemper, 2003</a>).
@@ -47,7 +48,12 @@
 	 </p>
  </li>
  <li><a href="http://cires.colorado.edu/~bilham/HaywardDecadeCreep.html">Creepmeters</a> on the Hayward Fault<p>Creepmeter array and plot of 12 years of creepmeter data</p></li>
+
+ <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+
  <li><a href="/monitoring/deformation/data/plots/?region=SF">San Francisco Bay Region Crustal Deformation Measurements</a><p>USGS realtime creepmeter data plots</p></li>
+ -->
+
  <li><a href="images/creep_HF2012.pdf">How Deep Does Creep Extend on the Hayward fault, and How Can it Still Cause Major (M6.8) Earthquakes?</a>
    <p><em>Variations in Creep Rate along the Hayward Fault, California, Interpreted as Changes in Depth of Creep</em></p>
  </li>

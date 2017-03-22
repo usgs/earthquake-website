@@ -56,6 +56,57 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-20',
+   'title' => 'Enormous Caribbean Waves Before 1492',
+   'content' => 'Geologists have discovered evidence that unusual seas detached living corals from a Caribbean reef and scattered them far inland, as boulders, during the last centuries before Columbus arrived.',
+   'link' => 'https://www.usgs.gov/news/enormous-caribbean-waves-1492',
+   'modified' => strtotime('2017-03-20'),
+   'thumbnail' => '/images-featured/caribbeanwaves.jpg',
+   'image' => '/images-featured/caribbeanwaves.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-20',
+   'title' => 'Preparing for Tsunami Hazards on Washington’s Pacific Coast',
+   'content' => 'Scientists work with local communities to help residents understand how to prioritize locations for vertical evacuation structures in areas with no natural high ground.',
+   'link' => 'https://www.usgs.gov/news/preparing-tsunami-hazards-washington-s-pacific-coast',
+   'modified' => strtotime('2017-03-20'),
+   'thumbnail' => '/images-featured/tsunami_hazard_sign_blue.jpg',
+   'image' => '/images-featured/tsunami_hazard_sign_blue.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-13',
+   'title' => 'Listen to Earthquakes',
+   'content' => 'Seismometers record vibrations from a wide assortment of ground motion events, each with its own unique seismic signature. A USGS short educational video.',
+   'link' => 'https://www.usgs.gov/media/videos/listen-earthquakes',
+   'modified' => strtotime('2017-03-13'),
+   'thumbnail' => '/images-featured/listen-to-eqs-video.gif',
+   'image' => '/images-featured/listen-to-eqs-video.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-13',
+   'title' => 'Hazards to California\'s Delta Water System',
+   'content' => 'Earthquakes, land subsidence and flooding pose significant threats to California’s fresh water. A USGS short educational video.',
+   'link' => 'https://www.usgs.gov/media/videos/hazards-californias-delta-water-system',
+   'modified' => strtotime('2017-03-13'),
+   'thumbnail' => '/images-featured/delta-water-haz.jpg',
+   'image' => '/images-featured/delta-water-haz.jpg'
+ );
+
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-02',
+   'title' => 'Prehistoric Earthquakes Discovered Along San Andreas Fault',
+   'content' => 'A new USGS study offers a view into the past behavior of large earthquakes along the southern San Andreas Fault. ',
+   'link' => 'https://www.usgs.gov/news/prehistoric-earthquakes-discovered-along-san-andreas-fault',
+   'modified' => strtotime('2017-03-02'),
+   'thumbnail' => '/images-featured/paleo-2017mar.gif',
+   'image' => '/images-featured/paleo-2017mar.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => '2017-03-01',
    'title' => 'New USGS Maps Identify Potential Ground Shaking Hazards for 2017',
    'content' => 'One-year 2017 seismic hazard forecast for the central and eastern United States from induced and natural earthquakes that updates the 2016 one-year forecast.',
