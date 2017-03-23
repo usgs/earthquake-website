@@ -5,6 +5,8 @@ if (!isset($TEMPLATE)){
   $FOOT='';
   $NAVIGATION=true;
   include 'template.inc.php';
+
+  $section = "/learn/topics/shakingsimulations";
 }
 ?>
 
