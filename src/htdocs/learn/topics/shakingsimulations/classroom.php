@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)){
   $TITLE='For Teachers';
-  $HEAD='<link rel="stylesheet" href="style.css"/>';
+  $HEAD='';
   $FOOT='<script src="classroom.js"></script>';
   $NAVIGATION = true;
 

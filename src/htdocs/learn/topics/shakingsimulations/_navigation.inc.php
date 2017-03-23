@@ -2,14 +2,13 @@
 <?php
   $section = "/learn/topics/shakingsimulations";
 
-  echo "<a href='/learn/topics/' class='up-one-level'>Earthquake Topics</a>",
+echo "<a href='/learn/topics/' class='up-one-level'>Earthquake Topics</a>";
 
-  "<section>",
-
+echo navGroup(navItem("${section}/","Ground Shaking Simulations"),
     navItem("${section}/index.php", "Overview") .
-    navItem("${section}/background.php", "Background"),
-  "</section>"
-  ;
+    navItem("${section}/background.php", "Background")
+  );
+
   echo navGroup(navItem("${section}/hayward/","View Animations"),
       navItem("${section}/hayward/", "Hayward Fault Scenarios") .
       navItem("${section}/1906/", "1906 Earthquake") .

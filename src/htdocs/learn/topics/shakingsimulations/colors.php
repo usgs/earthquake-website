@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)){
   $TITLE='Explanation of Colors';
-  $HEAD='<link rel="stylesheet" href="style.css"/>';
+  $HEAD='';
   $FOOT='';
   $NAVIGATION = true;
 

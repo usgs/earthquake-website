@@ -1,7 +1,7 @@
 <?
 if (!isset($TEMPLATE)){
   $TITLE='1906 Slip Model';
-  $HEAD='<link rel="stylesheet" href="/css/nca/base.css"/>';
+  $HEAD='';
   $FOOT='';
 
   include 'template.inc.php';

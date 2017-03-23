@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)){
   $TITLE='Ground Shaking Animations';
-  $HEAD='<link rel="stylesheet" href="style.css"/>';
+  $HEAD='';
   $FOOT='';
   $NAVIGATION=true;
   include 'template.inc.php';
