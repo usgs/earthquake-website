@@ -1,4 +1,4 @@
-<?
+<?php
 if (!isset($TEMPLATE)){
   $TITLE='See Also';
   $HEAD='';
