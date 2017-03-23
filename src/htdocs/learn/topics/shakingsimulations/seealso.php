@@ -1,7 +1,7 @@
-<?
+<?php
 if (!isset($TEMPLATE)){
   $TITLE='See Also';
-  $HEAD='<link rel="stylesheet" href="/css/nca/base.css"/>';
+  $HEAD='';
   $FOOT='';
   $NAVIGATION = true;
 
