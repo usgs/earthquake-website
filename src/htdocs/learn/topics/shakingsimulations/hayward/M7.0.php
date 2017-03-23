@@ -1,9 +1,11 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'M7.0 Earthquake Scenarios - Hayward Fault';
-  $HEAD = '<link rel="stylesheet" href="/lib/hazdev-tablist-0.1.2/hazdev-tablist.css" />';
+  $HEAD = '<link rel="stylesheet" href="/lib/hazdev-tablist-0.1.2/hazdev-tablist.css" />
+  <link rel="stylesheet" href="../style.css"';
   $FOOT = ' <script src="/lib/hazdev-tablist-0.1.2/hazdev-tablist.js"></script>
     <script src="../tablist.js"></script>';
+  $NAVIGATION=true;
   include 'template.inc.php';
 }
 include_once('../buildMovieHtml.inc.php');
@@ -36,13 +38,11 @@ These scenario earthquakes rupture 52 miles (83 km) of the Hayward fault extendi
       <?php print file_get_contents('perspective_description.html') ?>
       <p>The ground moves 18-24 inches (0.3-0.6 m) at locations along the fault. In Livermore the sedimentary basin amplifies the motions so that the maximum displacement is 3.5 ft (1 m).</p>
     </div>
-    <div class = "row">
-      <div class = "column one-of-two">
+
+      <div class = "videos">
       <?php print buildMovieHtml('HaywardM70_SanPabloBayEp_Fremont', 'hayward', 'Fremont (looking north)','6 Mb','24 Mb');?>
-      <?php print buildMovieHtml('HaywardM70_SanPabloBayEp_Oakland', 'hayward', 'Oakland (looking north)','6 Mb','22 Mb');?>
-    </div>
-      <div class = "column one-of-two">
       <?php print buildMovieHtml('HaywardM70_SanPabloBayEp_Livermore', 'hayward', 'Livermore (looking west)','6 Mb','23 Mb');?>
+      <?php print buildMovieHtml('HaywardM70_SanPabloBayEp_Oakland', 'hayward', 'Oakland (looking north)','6 Mb','22 Mb');?>
       <?php print buildMovieHtml('HaywardM70_SanPabloBayEp_SanJose', 'hayward', 'San Jose (looking north)','7 Mb','26 Mb');?>
     </div>
     <?php include "movies_description.html" ?>
@@ -72,21 +72,20 @@ These scenario earthquakes rupture 52 miles (83 km) of the Hayward fault extendi
 
       <p>The ground moves 18-24 inches (0.3-0.6 m) at locations along the fault. In Livermore the sedimentary basin amplifies the motions so that the maximum displacement is 2 ft (0.6 m).</p>
     </div>
-    <div class = "row">
-      <div class = "column one-of-two">
+
+      <div class = "videos">
         <?php print buildMovieHtml('HaywardM70_OaklandEp_Berkeley', 'hayward', 'Berkeley (looking south)','5 Mb','22 Mb');?>
+        <?php print buildMovieHtml('HaywardM70_OaklandEp_Concord', 'hayward', 'Concord (looking west)','6 Mb','27 Mb');?>
         <?php print buildMovieHtml('HaywardM70_OaklandEp_Fremont', 'hayward', 'Fremont (looking north)','6 Mb','24 Mb');?>
+        <?php print buildMovieHtml('HaywardM70_OaklandEp_Livermore', 'hayward', 'Livermore (looking west)','6 Mb','25 Mb');?>
         <?php print buildMovieHtml('HaywardM70_OaklandEp_Napa', 'hayward', 'Napa (looking south)','6 Mb','25 Mb');?>
+        <?php print buildMovieHtml('HaywardM70_OaklandEp_PointPinole', 'hayward', 'Point Pinole (looking south)','5 Mb','20 Mb');?>
         <?php print buildMovieHtml('HaywardM70_OaklandEp_SanFrancisco', 'hayward', 'San Francisco (looking east)','5 Mb','19 Mb');?>
+        <?php print buildMovieHtml('HaywardM70_OaklandEp_SanJose', 'hayward', 'San Jose (looking north)','8 Mb','31 Mb');?>
         <?php print buildMovieHtml('HaywardM70_OaklandEp_SantaRosa', 'hayward', 'Santa Rosa (looking south)','6 Mb','25 Mb');?>
-     </div>
-      <div class = "column one-of-two">
-      <?php print buildMovieHtml('HaywardM70_OaklandEp_Concord', 'hayward', 'Concord (looking west)','6 Mb','27 Mb');?>
-      <?php print buildMovieHtml('HaywardM70_OaklandEp_Livermore', 'hayward', 'Livermore (looking west)','6 Mb','25 Mb');?>
-      <?php print buildMovieHtml('HaywardM70_OaklandEp_PointPinole', 'hayward', 'Point Pinole (looking south)','5 Mb','20 Mb');?>
-      <?php print buildMovieHtml('HaywardM70_OaklandEp_SanJose', 'hayward', 'San Jose (looking north)','8 Mb','31 Mb');?>
+
     </div>
-  </div>
+
   <?php include "movies_description.html" ?>
   </section>
 
@@ -112,15 +111,12 @@ These scenario earthquakes rupture 52 miles (83 km) of the Hayward fault extendi
 
       <p>In Berkeley and Hayward the ground moves about 2-3 ft, while in San Jose and Napa the ground moves only about 1 ft.</p>
     </div>
-    <div class = "row">
-      <div class = "column one-of-two">
+      <div class = "videos">
       <?php print buildMovieHtml('HaywardM70_FremontEp_Berkeley', 'hayward', 'Berkeley (looking south)','6 Mb','22 Mb');?>
-      <?php print buildMovieHtml('HaywardM70_FremontEp_Hayward', 'hayward', 'Hayward (looking east)','5 Mb','22 Mb');?>
-      <?php print buildMovieHtml('HaywardM70_FremontEp_Hayward', 'hayward', 'Hayward (looking east)','6 Mb','24 Mb');?>
-    </div>
-    <div class = "column one-of-two">
       <?php print buildMovieHtml('HaywardM70_FremontEp_Concord', 'hayward', 'Concord (looking west)','7 Mb','28 Mb');?>
+      <?php print buildMovieHtml('HaywardM70_FremontEp_Hayward', 'hayward', 'Hayward (looking east)','5 Mb','22 Mb');?>
       <?php print buildMovieHtml('HaywardM70_FremontEp_PointPinole', 'hayward', 'Point Pinole (looking south)','5 Mb','22 Mb');?>
+      <?php print buildMovieHtml('HaywardM70_FremontEp_Napa', 'hayward', 'Napa (looking south)', '7 Mb', '26 Mb');?>
       <?php print buildMovieHtml('HaywardM70_FremontEp_SanJose', 'hayward', 'San Jose (looking north)','5 Mb','19 Mb');?>
     </div>
     <?php include "movies_description.html" ?>

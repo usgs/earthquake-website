@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = '1906 Earthquake';
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="../style.css"';
   $FOOT = '';
   $NAVIGATION = true;
 
@@ -31,15 +31,13 @@ shaking at the time noted in seconds on each movie frame.
       <img src="./images/mapview_thumb.jpg" alt="alt text"/>
     </a>
   </div>
-  <p>
-    <div class = "column three-of-four">
-      <ul>
-        <h2><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">Movie of shaking intensity</a></h2>
-        <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">normal resolution</a> (960x540, 7 MB)</li>
-        <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hd.mp4">HD resolution</a> (1920x1080, 18 MB)</li>
-      </ul>
-    </div>
-  </p>
+  <div class = "column three-of-four">
+    <ul>
+      <h2><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">Movie of shaking intensity</a></h2>
+      <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">normal resolution</a> (960x540, 7 MB)</li>
+      <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hd.mp4">HD resolution</a> (1920x1080, 18 MB)</li>
+    </ul>
+  </div>
 </div>
 
 <h2 style="clear: both;">Closeup Views of Ground Shaking</h2>
@@ -76,7 +74,7 @@ shaking at the time noted in seconds on each movie frame.
       </map>
       <figcaption>Click on a location on the map or use the links below.</figcaption>
   </figure>
-    <p><ul>
+    <p><ul class="no-style linklist">
             <li><strong>Concord</strong>:<br />
               <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906concord_hires.mp4">normal resolution</a> (960x540, 19 MB)
       </li>

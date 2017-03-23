@@ -10,7 +10,7 @@ if (!isset($TEMPLATE)){
 }
 ?>
 
-<figure class="right">
+<figure class="right" style="max-width: 482px">
   <img src="./1906/images/sf1906plan.gif" alt="Map view of shaking intensity" />
   <figcaption><p>Five second snapshots taken from one of the movies available below.
     Yellow to red colors indicate regions experiencing damaging shaking.
