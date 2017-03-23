@@ -1,7 +1,7 @@
-<?
+<?php
 if (!isset($TEMPLATE)){
   $TITLE='Contributors';
-  $HEAD='<link rel="stylesheet" href="/css/nca/base.css"/>';
+  $HEAD='';
   $FOOT='';
   $NAVIGATION = true;
 
