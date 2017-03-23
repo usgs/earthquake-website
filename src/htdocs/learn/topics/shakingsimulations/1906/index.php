@@ -26,25 +26,20 @@ shaking at the time noted in seconds on each movie frame.
 
 <div class = "row">
   <div class = "column one-of-four">
-    <ul class="no-style linklist">
-      <li>
-        <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">
-          <h4></h4>
-          <img src="./images/mapview_thumb.jpg" alt="alt text"/>
-        </a>
-      </div>
-        <p>
-          <div class = "column one-of-two">
-            <ul>
-              <h2><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">Movie of shaking intensity</a></h2>
-              <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">normal resolution</a> (960x540, 7 MB)</li>
-              <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hd.mp4">HD resolution</a> (1920x1080, 18 MB)</li>
-            </ul>
-      </p>
-      </li>
-
-    </ul>
+    <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">
+      <h4></h4>
+      <img src="./images/mapview_thumb.jpg" alt="alt text"/>
+    </a>
   </div>
+  <p>
+    <div class = "column three-of-four">
+      <ul>
+        <h2><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">Movie of shaking intensity</a></h2>
+        <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">normal resolution</a> (960x540, 7 MB)</li>
+        <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hd.mp4">HD resolution</a> (1920x1080, 18 MB)</li>
+      </ul>
+    </div>
+  </p>
 </div>
 
 <h2 style="clear: both;">Closeup Views of Ground Shaking</h2>
@@ -63,8 +58,8 @@ shaking at the time noted in seconds on each movie frame.
   location.
 </p>
 
-<ul class="no-style linklist">
-  <li>
+
+
     <figure class="right">
       <img src="images/map_all.jpg" style="max-width: none" width="399" height="399" border="0" alt="San Francisco Bay Area Map" usemap="#Map" />
       <map name="Map" id="Map">
@@ -117,5 +112,3 @@ shaking at the time noted in seconds on each movie frame.
       </li>
     </ul>
   </p>
-  </li>
-</ul>

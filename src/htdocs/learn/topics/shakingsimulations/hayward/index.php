@@ -25,23 +25,25 @@ if (!isset($TEMPLATE)) {
       <div>
         <h3>M6.8 Earthquake Scenarios</h3>
         <h4>Hayward Fault</h4>
-        <a href="M6.8.php"><img src="./images/tn-HaywardM68_HaywardEp.jpg" alt="Thumbnail of animation" width="300" height="169"/></a>
+        <a href="M6.8.php"><img src="./images/tn-HaywardM68_HaywardEp.jpg" alt="Thumbnail of animation" /></a>
       </div>
+    </div>
+  </div>
+    <div class="column one-of-three">
       <div class="scenario">
         <div>
           <h3>M7.2 Earthquake Scenarios</h3>
           <h4>Hayward and Rodgers Creek Faults</h4>
-          <a href="M7.2.php"><img src="./images/tn-HaywardM72_SanPabloBayEp.jpg" alt="Thumbnail of animation" width="300" height="169"/></a>
+          <a href="M7.2.php"><img src="./images/tn-HaywardM72_SanPabloBayEp.jpg" alt="Thumbnail of animation" /></a>
         </div>
       </div>
     </div>
-  </div>
   <div class="column one-of-three">
     <div class="scenario">
       <div>
         <h3>M7.0 Earthquake Scenarios</h3>
         <h4>Hayward Fault</h4>
-        <a href="M7.0.php"><img src="./images/tn-HaywardM70_OaklandEp.jpg" alt="Thumbnail of animation" width="300" height="169"/></a>
+        <a href="M7.0.php"><img src="./images/tn-HaywardM70_OaklandEp.jpg" alt="Thumbnail of animation" /></a>
       </div>
     </div>
   </div>
