@@ -1,11 +1,13 @@
 <?
 if (!isset($TEMPLATE)){
   $TITLE='M6.8 Earthquake Scenarios - Hayward Fault';
-  $HEAD='<link rel="stylesheet" href="/lib/hazdev-tablist-0.1.2/hazdev-tablist.css" />';
+  $HEAD='<link rel="stylesheet" href="/lib/hazdev-tablist-0.1.2/hazdev-tablist.css" />
+  <link rel="stylesheet" href="../style.css"';
   $FOOT='
   <script src="/lib/hazdev-tablist-0.1.2/hazdev-tablist.js"></script>
   <script src="../tablist.js"></script>
   ';
+  $NAVIGATION=true;
 
    include 'template.inc.php';
 
@@ -39,23 +41,13 @@ if (!isset($TEMPLATE)){
       <?php print file_get_contents('perspective_description.html'); ?>
       <p>The ground moves about 6-12 inches (0.2-0.3 m) at locations close to the fault. The ground also moves about 12 inches (0.3 m) in Livermore.</p>
     </div>
-    <div class="movies">
-      <div class="row">
-       <div class="column one-of-one">
-          <div class ="row">
-            <div class="column one-of-two">
-              <?php print buildMovieHtml('HaywardM68_OaklandEp_Berkeley', 'hayward', 'Berkeley (looking south)', '5 Mb', '19 Mb'); ?>
-              <?php print buildMovieHtml('HaywardM68_OaklandEp_Fremont', 'hayward', 'Fremont (looking north)', '5 Mb', '20 Mb'); ?>
-              <?php print buildMovieHtml('HaywardM68_OaklandEp_Livermore', 'hayward', 'Livermore (looking west)', '5 Mb', '20 Mb'); ?>
-            </div>
-            <div class="column one-of-two">
-              <?php print buildMovieHtml('HaywardM68_OaklandEp_Oakland', 'hayward', 'Oakland (looking north)', '5 Mb', '19 Mb'); ?>
-              <?php print buildMovieHtml('HaywardM68_OaklandEp_SanJose', 'hayward', 'San Jose (looking north)', '6 Mb', '25 Mb'); ?>
-            </div>
-          </div>
+      <div class="videos">
+        <?php print buildMovieHtml('HaywardM68_OaklandEp_Berkeley', 'hayward', 'Berkeley (looking south)', '5 Mb', '19 Mb'); ?>
+        <?php print buildMovieHtml('HaywardM68_OaklandEp_Oakland', 'hayward', 'Oakland (looking north)', '5 Mb', '19 Mb'); ?>
+        <?php print buildMovieHtml('HaywardM68_OaklandEp_Fremont', 'hayward', 'Fremont (looking north)', '5 Mb', '20 Mb'); ?>
+        <?php print buildMovieHtml('HaywardM68_OaklandEp_SanJose', 'hayward', 'San Jose (looking north)', '6 Mb', '25 Mb'); ?>
+        <?php print buildMovieHtml('HaywardM68_OaklandEp_Livermore', 'hayward', 'Livermore (looking west)', '5 Mb', '20 Mb'); ?>
       </div>
-   </div>
-    </div>
     <?php include "movies_description.html" ?>
   </section>
   <section class="panel" data-title="Hayward Epicenter">
@@ -80,25 +72,20 @@ if (!isset($TEMPLATE)){
       <?php print file_get_contents('perspective_description.html'); ?>
       <p>The ground moves about 6-12 inches (0.2-0.3 m) at locations close to the fault. The ground also moves about 12 inches (0.3 m) in Livermore.</p>
     </div>
-    <div class="movies">
-     <div class="row">
-      <div class="column one-of-one">
-         <div class ="row">
-           <div class="column one-of-two">
-             <?php print buildMovieHtml('HaywardM68_HaywardEp_Berkeley', 'hayward', 'Berkeley (looking south)', '5 Mb', '19 Mb'); ?>
-             <?php print buildMovieHtml('HaywardM68_HaywardEp_Concord', 'hayward', 'Concord (looking west)', '5 Mb', '21 Mb'); ?>
-             <?php print buildMovieHtml('HaywardM68_HaywardEp_Fremont', 'hayward', 'Fremont (looking north)', '5 Mb', '19 Mb'); ?>
-             <?php print buildMovieHtml('HaywardM68_HaywardEp_Livermore', 'hayward', 'Livermore (looking west)', '5 Mb', '19 Mb'); ?>
-           </div>
-           <div class="column one-of-two">
-             <?php print buildMovieHtml('HaywardM68_HaywardEp_Napa', 'hayward', 'Napa (looking south)', '5 Mb', '18 Mb'); ?>
-             <?php print buildMovieHtml('HaywardM68_HaywardEp_SanFrancisco', 'hayward', 'San Francisco (looking east)', '4 Mb', '15 Mb'); ?>
-             <?php print buildMovieHtml('HaywardM68_HaywardEp_SanJose', 'hayward', 'San Jose (looking north)', '6 Mb', '25 Mb'); ?>
-           </div>
-         </div>
-     </div>
-  </div>
-</div>
+
+
+   <div class="videos">
+     <?php print buildMovieHtml('HaywardM68_HaywardEp_Berkeley', 'hayward', 'Berkeley (looking south)', '5 Mb', '19 Mb'); ?>
+     <?php print buildMovieHtml('HaywardM68_HaywardEp_Napa', 'hayward', 'Napa (looking south)', '5 Mb', '18 Mb'); ?>
+     <?php print buildMovieHtml('HaywardM68_HaywardEp_Concord', 'hayward', 'Concord (looking west)', '5 Mb', '21 Mb'); ?>
+     <?php print buildMovieHtml('HaywardM68_HaywardEp_SanFrancisco', 'hayward', 'San Francisco (looking east)', '4 Mb', '15 Mb'); ?>
+     <?php print buildMovieHtml('HaywardM68_HaywardEp_Fremont', 'hayward', 'Fremont (looking north)', '5 Mb', '19 Mb'); ?>
+     <?php print buildMovieHtml('HaywardM68_HaywardEp_SanJose', 'hayward', 'San Jose (looking north)', '6 Mb', '25 Mb'); ?>
+     <?php print buildMovieHtml('HaywardM68_HaywardEp_Livermore', 'hayward', 'Livermore (looking west)', '5 Mb', '19 Mb'); ?>
+
+   </div>
+
+
 <?php include "movies_description.html" ?>
 </section>
 <section class="panel" data-title="Fremont Epicenter">
@@ -121,23 +108,16 @@ if (!isset($TEMPLATE)){
     <?php print file_get_contents('perspective_description.html');?>
     <p>The ground moves about 6-12 inches (0.2-0.3 m) at locations close to the fault. The ground also moves about 12 inches (0.3 m) in Livermore.</p>
   </div>
-<div class="movies">
-  <div class="row">
-   <div class="column one-of-one">
-      <div class ="row">
-        <div class="column one-of-two">
-          <?php print buildMovieHtml('HaywardM68_FremontEp_Berkeley', 'hayward', 'Berkeley (looking south)', '5 Mb', '20 Mb');?>
-          <?php print buildMovieHtml('HaywardM68_FremontEp_Concord', 'hayward', 'Concord (looking west)', '6 Mb', '24 Mb');?>
-          <?php print buildMovieHtml('HaywardM68_FremontEp_Hayward', 'hayward', 'Hayward (looking east)', '5 Mb', '20 Mb');?>
-        </div>
-        <div class="column one-of-two">
-          <?php print buildMovieHtml('HaywardM68_FremontEp_Napa', 'hayward', 'Napa (looking south)', '5 Mb', '18 Mb');?>
-          <?php print buildMovieHtml('HaywardM68_FremontEp_SanJose', 'hayward', 'San Jose (looking north)', '6 Mb', '23 Mb');?>
-        </div>
-      </div>
+
+  <div class="videos">
+    <?php print buildMovieHtml('HaywardM68_FremontEp_Berkeley', 'hayward', 'Berkeley (looking south)', '5 Mb', '20 Mb');?>
+    <?php print buildMovieHtml('HaywardM68_FremontEp_Napa', 'hayward', 'Napa (looking south)', '5 Mb', '18 Mb');?>
+    <?php print buildMovieHtml('HaywardM68_FremontEp_Concord', 'hayward', 'Concord (looking west)', '6 Mb', '24 Mb');?>
+    <?php print buildMovieHtml('HaywardM68_FremontEp_SanJose', 'hayward', 'San Jose (looking north)', '6 Mb', '23 Mb');?>
+    <?php print buildMovieHtml('HaywardM68_FremontEp_Hayward', 'hayward', 'Hayward (looking east)', '5 Mb', '20 Mb');?>
+
   </div>
-</div>
-  </div>
+
   <?php include "movies_description.html" ?>
 </section>
 </div>
