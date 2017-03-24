@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)){
   $TITLE='Background';
-  $HEAD='';
+  $HEAD='<link rel="stylesheet" href="style.css"';
   $FOOT='';
   $NAVIGATION = true;
 
@@ -16,9 +16,9 @@ if (!isset($TEMPLATE)){
     pass and (2) a slip model of the rupture itself.
           </p>
 
-          <h3>3D Geologic Map and Seismic Velocity Model</h3>
+          <h3 class="clear">3D Geologic Map and Seismic Velocity Model</h3>
 
-          <figure class="left">
+          <figure class="left" style="max-width: 598px">
           <a
           href="http://ehpm-earthquake.wr.usgs.gov/data/3dgeologic/"
           ><img src="./images/CC_det2.jpg" alt="3D Geologic Map" /></a>
@@ -55,7 +55,7 @@ if (!isset($TEMPLATE)){
     focusing of waves at unexpected locations.
           </p>
           <h3 class="clear">Slip Model</h3>
-          <figure class="right">
+          <figure class="right" style="max-width: 400px">
           <a href="./slipmodel.php"><img src="./images/slipsong2_bay_ft_small.jpg" alt="Estimated 1906 offset on sections of the San Andreas Fault" /></a>
         <figcaption>  <p><em>Total 1906 estimated slip for sections along the San Andreas Fault.  The horizontal offset across the fault is given in feet.</em></p> </figcaption>
         </figure>
@@ -79,7 +79,7 @@ if (!isset($TEMPLATE)){
     also available.
           </p>
      <h3 class="clear">Shaking Intensity in 1906</h3>
-          <figure class="right">
+          <figure class="right" style="max-width: 284px">
            <a href="http://ehpm-earthquake.wr.usgs.gov/regional/nca/1906/shakemap/"><img src="./images/CalNeva_big2.jpg" alt="1906 ShakeMap" /></a>
         <figcaption>   <p><em>ShakeMap for 1906 constructed from felt reports.</em></p> </figcaption>
          </figure>

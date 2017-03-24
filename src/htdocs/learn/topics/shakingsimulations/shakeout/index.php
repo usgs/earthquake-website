@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Southern California ShakeOut';
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="../style.css"';
   $FOOT = '';
   $NAVIGATION = true;
 
@@ -81,24 +81,24 @@ include_once('../buildMovieHtml.inc.php');
       <tr><td>Watts</td><td align="center">1.2 m (4 ft)</td><td align="center">1.2 m/s (4 ft/s)</td></tr>
       <tr><td>Woodland Hills</td><td align="center">0.4 m (1 ft)</td><td align="center">0.3 m/s (1 ft/s)</td></tr>
     </table>
-<div class = "row">
-  <div class = "column one-of-two">
+
+  <div class = "videos">
     <?php print buildMovieHtml('ShakeOut_BuenaPark', 'shakeout', 'Buena Park', '11 Mb', '45 Mb'); ?>
+    <?php print buildMovieHtml('ShakeOut_Burbank', 'shakeout', 'Burbank', '10 Mb', '38 Mb'); ?>
     <?php print buildMovieHtml('ShakeOut_CajonPass', 'shakeout', 'Cajon Pass', '7 Mb', '27 Mb'); ?>
+    <?php print buildMovieHtml('ShakeOut_Corona', 'shakeout', 'Corona', '8 Mb', '31 Mb'); ?>
     <?php print buildMovieHtml('ShakeOut_HuntingtonBeach', 'shakeout', 'Huntington Beach', '10 Mb', '40 Mb'); ?>
+    <?php print buildMovieHtml('ShakeOut_Lancaster', 'shakeout', 'Lancaster', '7 Mb', '29 Mb'); ?>
     <?php print buildMovieHtml('ShakeOut_LongBeach', 'shakeout', 'Long Beach', '11 Mb', '43 Mb'); ?>
+    <?php print buildMovieHtml('ShakeOut_LosAngeles', 'shakeout', 'Los Angeles', '11 Mb', '41 Mb'); ?>
+    <?php print buildMovieHtml('ShakeOut_Ontario', 'shakeout', 'Ontario', '8 Mb', '33 Mb'); ?>
     <?php print buildMovieHtml('ShakeOut_MarinadelRey', 'shakeout', 'Marina del Rey', '10 Mb', '39 Mb'); ?>
     <?php print buildMovieHtml('ShakeOut_PalmSprings', 'shakeout', 'Palm Springs', '8 Mb', '31 Mb'); ?>
+    <?php print buildMovieHtml('ShakeOut_Ventura', 'shakeout', 'Ventura', '10 Mb', '39 Mb'); ?>
     <?php print buildMovieHtml('ShakeOut_Watts', 'shakeout', 'Watts', '13 Mb', '55 Mb'); ?>
-  </div>
+    <?php print buildMovieHtml('ShakeOut_WoodlandHills', 'shakeout', 'Woodland Hills', '11 Mb', '41 Mb'); ?>
 
-  <div class = "column one-of-two">
-      <?php print buildMovieHtml('ShakeOut_Burbank', 'shakeout', 'Burbank', '10 Mb', '38 Mb'); ?>
-      <?php print buildMovieHtml('ShakeOut_Corona', 'shakeout', 'Corona', '8 Mb', '31 Mb'); ?>
-      <?php print buildMovieHtml('ShakeOut_Lancaster', 'shakeout', 'Lancaster', '7 Mb', '29 Mb'); ?>
-      <?php print buildMovieHtml('ShakeOut_LosAngeles', 'shakeout', 'Los Angeles', '11 Mb', '41 Mb'); ?>
-      <?php print buildMovieHtml('ShakeOut_Ontario', 'shakeout', 'Ontario', '8 Mb', '33 Mb'); ?>
-      <?php print buildMovieHtml('ShakeOut_Ventura', 'shakeout', 'Ventura', '10 Mb', '39 Mb'); ?>
-      <?php print buildMovieHtml('ShakeOut_WoodlandHills', 'shakeout', 'Woodland Hills', '11 Mb', '41 Mb'); ?>
+
+
+
   </div>
-</div>

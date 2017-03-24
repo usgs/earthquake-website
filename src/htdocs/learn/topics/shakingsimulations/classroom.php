@@ -197,7 +197,7 @@ to help teach about seismic waves and earthquake hazards.
     appear.</b></em>
   </p>
 
-<h3 style="clear: left;">1.7 seconds</h3>
+<h3 class="clear" >1.7 seconds</h3>
 
   <figure class="right">
   <img src="./1906/images/sf1906t0017.jpg" alt="Image depicting earthquake at 1.7 seconds" class=rollover />
@@ -232,7 +232,7 @@ to help teach about seismic waves and earthquake hazards.
   surface, while the speedy P-waves have already emerged.
 </p>
 
-<h3 style="clear: left;">2.6 seconds</h3>
+<h3 class="clear">2.6 seconds</h3>
 
 <figure class="right">
   <img src="./1906/images/sf1906t0026.jpg" alt="image depicting earthquake at 2.6 seconds" class=rollover />
@@ -264,7 +264,7 @@ to help teach about seismic waves and earthquake hazards.
   preventing the rupture from extending in both directions.
 </p>
 
-<h3 style="clear: left;">3.4 seconds</h3>
+<h3 class="clear">3.4 seconds</h3>
 
 <figure class="right">
   <img src="./1906/images/sf1906t0034.jpg" alt="image depicting earthquake at 3.4 seconds" class=rollover />
@@ -288,7 +288,7 @@ to help teach about seismic waves and earthquake hazards.
 </p>
 
 
-<h3 style="clear: left;">6.2 seconds</h3>
+<h3 class="clear">6.2 seconds</h3>
 
 <figure class="right">
   <img src="./1906/images/sf1906t0062.jpg" alt="image depicting earthquake at 6.2 seconds" class=rollover />
@@ -318,7 +318,7 @@ to help teach about seismic waves and earthquake hazards.
   together with some of the S-waves.
 </p>
 
-<h3 style="clear: left;">16 seconds</h3>
+<h3 class="clear">16 seconds</h3>
 
 <figure class="right">
   <img src="./1906/images/sf1906t0160.jpg" alt="image depicting earthquake at 16 seconds" class=rollover />
@@ -354,7 +354,7 @@ to help teach about seismic waves and earthquake hazards.
   shaking.
 </p>
 
-<h3 style="clear: left;">30 seconds</h3>
+<h3 class="clear">30 seconds</h3>
 
 <figure class="right">
   <img src="./1906/images/sf1906t0300.jpg" alt="image depicting earthquake at 30 seconds" class=rollover />
@@ -392,7 +392,7 @@ to help teach about seismic waves and earthquake hazards.
   below.
 </p>
 
-<h3 style="clear: left;">After 30 seconds</h3>
+<h3 class="clear">After 30 seconds</h3>
 
 <p>
   <b>About Fault Rupture</b>: The rupture for the 1906
@@ -427,7 +427,7 @@ to help teach about seismic waves and earthquake hazards.
   intense shaking.
 </p>
 
-<h2>Watch a fault "unzip"</h2>
+<h2 class="clear">Watch a fault "unzip"</h2>
 
 <figure class="right">
   <img src="./images/rupture.jpg" alt="Rupture at Tomales Bay" />
@@ -453,7 +453,7 @@ to help teach about seismic waves and earthquake hazards.
   exaggerated deformation it remains attached to the mainland.
 </p>
 
-<h2>Watch a sedimentary basin "ring"</h2>
+<h2 class="clear">Watch a sedimentary basin "ring"</h2>
 
 <figure class="right">
   <img src="./images/santarosa.jpg" alt="Shaking in Santa Rosa" />
@@ -496,7 +496,7 @@ to help teach about seismic waves and earthquake hazards.
   rigid in Tomales Bay.
 </p>
 
-<h2>Illustration of Wave Motions</h2>
+<h2 class="clear">Illustration of Wave Motions</h2>
 
 <figure class="right">
   <img src="./images/surfacewaves.jpg" alt="Shaking in Livermore" />
