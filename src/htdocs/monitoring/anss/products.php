@@ -45,7 +45,7 @@
       Real-time notifications and real-time feeds of earthquakes.
     </p>
   <li>
-    <a href="https://sslearthquake.usgs.gov/ens/">
+    <a href="/ens/">
       <h4>Earthquake Notification Service (ENS)</h4>
       <img src="images/ens.gif" alt="cellphone image" width="75px"/>
     </a>

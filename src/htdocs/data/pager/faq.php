@@ -44,7 +44,7 @@
   <li id='email'>
     <p class='question'>Are PAGER results available by e-mail?</p>
     <p>
-      Currently, PAGER results are not directly available to the public through e-mail. However, users can sign up for earthquake alerts through the USGS <a href="https://sslearthquake.usgs.gov/ens">Earthquake Notification Service (ENS)</a>. This service lets you sign up for alerts from custom geographic regions and magnitude ranges. PAGER results for a specific earthquake can be found by following the link provided in the ENS message and looking under the "Maps” tab. There is up to a 5-minute delay from the time the initial earthquake solution is posted to the web and when the PAGER results are available to view.
+      Currently, PAGER results are not directly available to the public through e-mail. However, users can sign up for earthquake alerts through the USGS <a href="/ens/">Earthquake Notification Service (ENS)</a>. This service lets you sign up for alerts from custom geographic regions and magnitude ranges. PAGER results for a specific earthquake can be found by following the link provided in the ENS message and looking under the "Maps” tab. There is up to a 5-minute delay from the time the initial earthquake solution is posted to the web and when the PAGER results are available to view.
     </p>
   </li>
   <li id='howlong'>
