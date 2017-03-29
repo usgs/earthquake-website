@@ -1,8 +1,8 @@
 <?php
-	$section = "/earthquakes/events/1906calif";
+	$section = "/earthquakes/events/1906calif/virtualtour";
   $NAVIGATION = true;
 
-	echo "<a href='/earthquakes/events/1906calif' class='up-one-level'>Earthquake Events</a>",
+	echo "<a href='/earthquakes/events/1906calif/virtualtour' class='up-one-level'>Earthquake Events</a>",
 
 		"<section>",
 			navItem("${section}/index.php","Introduction") .
