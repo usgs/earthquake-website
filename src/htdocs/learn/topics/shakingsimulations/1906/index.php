@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = '1906 Earthquake';
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="../style.css"';
   $FOOT = '';
   $NAVIGATION = true;
 
@@ -26,23 +26,16 @@ shaking at the time noted in seconds on each movie frame.
 
 <div class = "row">
   <div class = "column one-of-four">
-    <ul class="no-style linklist">
-      <li>
-        <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">
-          <h4></h4>
-          <img src="./images/mapview_thumb.jpg" alt="alt text"/>
-        </a>
-      </div>
-        <p>
-          <div class = "column one-of-two">
-            <ul>
-              <h2><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">Movie of shaking intensity</a></h2>
-              <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">normal resolution</a> (960x540, 7 MB)</li>
-              <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hd.mp4">HD resolution</a> (1920x1080, 18 MB)</li>
-            </ul>
-      </p>
-      </li>
-
+    <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">
+      <h4></h4>
+      <img src="./images/mapview_thumb.jpg" alt="alt text"/>
+    </a>
+  </div>
+  <div class = "column three-of-four">
+    <ul>
+      <h2><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">Movie of shaking intensity</a></h2>
+      <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">normal resolution</a> (960x540, 7 MB)</li>
+      <li><a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hd.mp4">HD resolution</a> (1920x1080, 18 MB)</li>
     </ul>
   </div>
 </div>
@@ -63,8 +56,8 @@ shaking at the time noted in seconds on each movie frame.
   location.
 </p>
 
-<ul class="no-style linklist">
-  <li>
+
+
     <figure class="right">
       <img src="images/map_all.jpg" style="max-width: none" width="399" height="399" border="0" alt="San Francisco Bay Area Map" usemap="#Map" />
       <map name="Map" id="Map">
@@ -81,41 +74,38 @@ shaking at the time noted in seconds on each movie frame.
       </map>
       <figcaption>Click on a location on the map or use the links below.</figcaption>
   </figure>
-    <p><ul>
-            <li><strong>Concord</strong>:<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906concord_hires.mp4">normal resolution</a> (960x540, 19 MB)
-      </li>
-            <li><strong>Fremont</strong>:<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906fremont_hires.mp4">normal resolution</a> (960x540, 20 MB)
-      </li>
-            <li><strong>Livermore</strong>:<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906livermore_hires.mp4">normal resolution</a> (960x540, 20 MB)
-      </li>
-            <li><strong>Palo Alto</strong>:<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906paloalto_hires.mp4">normal resolution</a> (960x540, 18 MB)
-      </li>
-            <li><strong>Richmond</strong>:<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906richmond_hires.mp4">normal resolution</a> (960x540, 24 MB)
-      </li>
-            <li><strong>San Francisco</strong>:<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906sanfrancisco_hires.mp4">normal resolution</a> (960x540, 24 MB),<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906sanfrancisco_hd.mp4">HD resolution</a> (1920x1080, 35 MB)
-      </li>
-            <li><strong>San Jose</strong>:<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906sanjose_hires.mp4">normal resolution</a> (960x540, 22 MB),<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906sanjose_hd.mp4">HD resolution</a> (1920x1080, 73 MB)
-      </li>
-            <li><strong>San Mateo</strong>:<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906sanmateo_hires.mp4">normal resolution</a> (960x540, 17 MB)
-      </li>
-            <li><strong>Santa Rosa</strong>:<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906santarosa_hires.mp4">normal resolution</a> (960x540, 18 MB),<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906santarosa_hd.mp4">HD resolution</a> (1920x1080, 37 MB)
-      </li>
-            <li><strong>Tomales Bay</strong>:<br />
-              <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906tomalesbay_hires.mp4">normal resolution</a> (960x540, 13 MB)
-      </li>
-    </ul>
-  </p>
-  </li>
-</ul>
+  <ul class="no-style linklist">
+          <li><strong>Concord</strong>:<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906concord_hires.mp4">normal resolution</a> (960x540, 19 MB)
+    </li>
+          <li><strong>Fremont</strong>:<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906fremont_hires.mp4">normal resolution</a> (960x540, 20 MB)
+    </li>
+          <li><strong>Livermore</strong>:<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906livermore_hires.mp4">normal resolution</a> (960x540, 20 MB)
+    </li>
+          <li><strong>Palo Alto</strong>:<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906paloalto_hires.mp4">normal resolution</a> (960x540, 18 MB)
+    </li>
+          <li><strong>Richmond</strong>:<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906richmond_hires.mp4">normal resolution</a> (960x540, 24 MB)
+    </li>
+          <li><strong>San Francisco</strong>:<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906sanfrancisco_hires.mp4">normal resolution</a> (960x540, 24 MB),<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906sanfrancisco_hd.mp4">HD resolution</a> (1920x1080, 35 MB)
+    </li>
+          <li><strong>San Jose</strong>:<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906sanjose_hires.mp4">normal resolution</a> (960x540, 22 MB),<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906sanjose_hd.mp4">HD resolution</a> (1920x1080, 73 MB)
+    </li>
+          <li><strong>San Mateo</strong>:<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906sanmateo_hires.mp4">normal resolution</a> (960x540, 17 MB)
+    </li>
+          <li><strong>Santa Rosa</strong>:<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906santarosa_hires.mp4">normal resolution</a> (960x540, 18 MB),<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906santarosa_hd.mp4">HD resolution</a> (1920x1080, 37 MB)
+    </li>
+          <li><strong>Tomales Bay</strong>:<br />
+            <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906tomalesbay_hires.mp4">normal resolution</a> (960x540, 13 MB)
+    </li>
+  </ul>

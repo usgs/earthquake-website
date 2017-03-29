@@ -3,7 +3,7 @@
 echo "<a href='/earthquakes/feed/' class='up-one-level'>Feeds and Notifications</a>";
 
   print navGroup('Real-time Notifications',
-    navItem('https://sslearthquake.usgs.gov/ens/', 'Earthquake Notification Service') .
+    navItem('/ens/', 'Earthquake Notification Service') .
     navItem('/earthquakes/ted/', 'Tweet Earthquake Dispatch')
   );
 

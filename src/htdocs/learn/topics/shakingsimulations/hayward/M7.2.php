@@ -1,8 +1,9 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'M7.0 Earthquake Scenarios - Hayward Fault';
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="../style.css"';
   $FOOT = '';
+  $NAVIGATION=true;
   include 'template.inc.php';
 }
 include_once('../buildMovieHtml.inc.php');
@@ -33,16 +34,15 @@ include_once('../buildMovieHtml.inc.php');
     <?php include "perspective_description.html" ?>
     <p>At locations very close to the faults such as Fremont, Oakland, and Santa Rosa, the ground moves up to 2-3 ft. In San Jose the peak displacement is about 1 ft.</p>
   </div>
-  <div class = "row">
-    <div class = "column one-of-two">
+
+    <div class = "videos">
     <?php print buildMovieHtml('HaywardM72_SanPabloBayEp_Fremont', 'hayward', 'Fremont (looking north)','7 Mb', '26 Mb'); ?>
-    <?php print buildMovieHtml('HaywardM72_SanPabloBayEp_Oakland', 'hayward', 'Oakland (looking north)', '6 Mb', '24 Mb'); ?>
-    <?php print buildMovieHtml('HaywardM72_SanPabloBayEp_SantaRosa', 'hayward', 'Santa Rosa (looking south)', '7 Mb', '27 Mb'); ?>
-  </div>
-    <div class = "column one-of-two">
     <?php print buildMovieHtml('HaywardM72_SanPabloBayEp_Napa', 'hayward', 'Napa (looking south)', '5 Mb', '21 Mb'); ?>
+    <?php print buildMovieHtml('HaywardM72_SanPabloBayEp_Oakland', 'hayward', 'Oakland (looking north)', '6 Mb', '24 Mb'); ?>
     <?php print buildMovieHtml('HaywardM72_SanPabloBayEp_SanJose', 'hayward', 'San Jose (looking north)','8 Mb', '32 Mb'); ?>
+    <?php print buildMovieHtml('HaywardM72_SanPabloBayEp_SantaRosa', 'hayward', 'Santa Rosa (looking south)', '7 Mb', '27 Mb'); ?>
+
   </div>
-</div>
+
 
 <?php include "movies_description.html" ?>

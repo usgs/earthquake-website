@@ -2,15 +2,29 @@
 <?php
   $section = "/learn/topics/shakingsimulations";
 
-  echo "<a href='/learn/topics/' class='up-one-level'>Earthquake Topics</a>",
+  $url = $_SERVER['REQUEST_URI'];
+  $matchesOverview = false;
+  $insideAnimations = false;
 
-  "<section>",
+  if (preg_match("@^{$section}/(index.php)?$@", $url)) {
+    $matchesOverview = true;
+  }
 
-    navItem("${section}/index.php", "Overview") .
-    navItem("${section}/background.php", "Background"),
-  "</section>"
-  ;
-  echo navGroup(navItem("${section}/hayward/","View Animations"),
+  if(preg_match("@^{$section}/hayward/(index.php)?$@", $url) ||
+    preg_match("@^{$section}/1906/(index.php)?$@", $url) ||
+    preg_match("@^{$section}/1989/(index.php)?$@", $url) ||
+    preg_match("@^{$section}/shakeout/(index.php)?$@", $url)){
+      $insideAnimations = true;
+    }
+
+echo "<a href='/learn/topics/' class='up-one-level'>Earthquake Topics</a>";
+
+echo navGroup(navItem("${section}/","Ground Shaking Simulations"),
+    navItem("${section}/", "Overview", $matchesOverview) .
+    navItem("${section}/background.php", "Background")
+  );
+
+  echo navGroup(navItem("${section}/hayward/","View Animations", $insideAnimations),
       navItem("${section}/hayward/", "Hayward Fault Scenarios") .
       navItem("${section}/1906/", "1906 Earthquake") .
       navItem("${section}/1989/", "1989 Loma Prieta Earthquake") .

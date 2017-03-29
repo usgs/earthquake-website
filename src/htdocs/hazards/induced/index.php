@@ -14,7 +14,7 @@
     <figure>
     <img src="images/ProbDamageEQ_2017-300x2.gif" maxwidth="300" alt=""/>
     <figcaption>
-    Map showing chance of damage from an earthquake in the Central and Eastern United States during 2016. Percent chances are represented as follows: pale yellow, less than 1 percent; dark yellow, 1 to 2 percent; orange, 2 to 5 percent; red, 5 to 10 percent; dark red, 10 to 12 percent.
+    Map showing chance of damage from an earthquake in the Central and Eastern United States during 2017. Percent chances are represented as follows: pale yellow, less than 1 percent; dark yellow, 1 to 2 percent; orange, 2 to 5 percent; red, 5 to 10 percent; dark red, 10 to 12 percent.
     </figcaption>
     </figure>
 

@@ -129,7 +129,7 @@
       </li>
       <li>Real-time Notifications
         <ul>
-          <li><a href="https://sslearthquake.usgs.gov/ens/help">ENS - Earthquake Notification Service</a></li>
+          <li><a href="/ens/help/">ENS - Earthquake Notification Service</a></li>
           <li><a href="/earthquakes/ted/">TED - Tweet Earthquake Dispatch</a></li>
         </ul>
       </li>

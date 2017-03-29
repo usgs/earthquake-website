@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Web Development Team,
-// Last modified: 06/14/2016
   if (!isset($TEMPLATE)) {
   $TITLE = 'Real-time Feeds and Notifications';
   $HEAD = '
@@ -31,7 +30,7 @@
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
-        <a href="https://sslearthquake.usgs.gov/ens/">
+        <a href="/ens/">
           <h4>Earthquake Notification Service (ENS)</h4>
           <img src="images/ens-x2.png" class='feeds-list-image'
               alt="Earthquake Notification Service icon"  width="75"/>
@@ -164,6 +163,9 @@
 <h2>For Developers</h2>
 
     <ul>
+      <li>
+        <a href="/fdsnws/event/1/">API Documentation - Earthquake Catalog</a>
+      </li>
       <li>
         <a href="v1.0/changelog.php">Change Log</a>
       </li>
