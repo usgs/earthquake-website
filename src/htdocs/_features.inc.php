@@ -56,6 +56,16 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-29',
+   'title' => 'USGS Seeks Earthquake Hazards Research Proposals',
+   'content' => 'The USGS is currently soliciting project proposals for 2018 grants on earthquake hazards science.',
+   'link' => 'https://www.usgs.gov/news/usgs-seeks-earthquake-hazards-research-proposals',
+   'modified' => strtotime('2017-03-29'),
+   'thumbnail' => '/images-featured/2018grants.jpg',
+   'image' => '/images-featured/2018grants.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => '2017-03-20',
    'title' => 'Enormous Caribbean Waves Before 1492',
    'content' => 'Geologists have discovered evidence that unusual seas detached living corals from a Caribbean reef and scattered them far inland, as boulders, during the last centuries before Columbus arrived.',

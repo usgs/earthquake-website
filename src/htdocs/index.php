@@ -60,6 +60,11 @@ if (!isset($TEMPLATE)) {
     </div>
 -->
 
+<p class='alert'>
+  <img class="nehrp" src="images-home/nehrp.png">
+  The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977. We monitor and report earthquakes, assess earthquake impacts and hazards, and research the causes and effects of earthquakes.
+</p>
+
   </div>
 
 <!-- LEFT COLUMN: WEBSITE SECTIONS and HIGHLIGHTS -->
@@ -149,11 +154,5 @@ if (!isset($TEMPLATE)) {
             </li>
           </ul>
     </div>
-
-    <p class='alert'>
-      <img class="nehrp" src="images-home/nehrp.png">
-      The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977. We monitor and report earthquakes, assess earthquake impacts and hazards, and research the causes and effects of earthquakes.
-    </p>
-
   </div>
 </div>
