@@ -34,8 +34,9 @@ if	(!isset($TEMPLATE))	{
       hazard near the eastern shore of San Francisco Bay.
     </p>
   </li>
+  -->
   <li>
-    <a href="/regional/nca/soiltype/">
+    <a href="sfbay/soiltype/">
       <h4>Soil Type and Shaking Hazard in Oakland, CA</h4>
       <img src="images/soiltype.gif" alt="thumbnail of soil type and shaking hazard"/>
     </a>
@@ -46,8 +47,6 @@ if	(!isset($TEMPLATE))	{
       Francisco Bay Area.
     </p>
   </li>
--->
-
   <li>
     <a href="http://geomaps.wr.usgs.gov/sfgeo/liquefaction/">
       <h4>Liquefaction Susceptibility Map for San Francisco Bay Region</h4>

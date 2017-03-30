@@ -72,7 +72,7 @@
           <img src="images/seminars-2x.png" alt="earthquake podcast" width="150" />
         </a>
         <?php print $seminarHtml; ?>
-        <p>See also: <a href="https://online.wr.usgs.gov/calendar/">USGS Evening Public Lecture Series</p>
+        <p>See also: <a href="https://online.wr.usgs.gov/calendar/">USGS Evening Public Lecture Series</a></p>
       </li>
 
 <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
@@ -99,25 +99,25 @@
 
     <h2>Regional interest</h2>
 
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
     <ul>
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
       <li><a href="/regional/nca/1989/">October 17, 1989 Loma Prieta Earthquake</a></li>
       <li><a href="/regional/nca/1906/">April 18, 1906 San Francisco Earthquake</a></li>
       <li><a href="/regional/nca/1868/">October 21, 1868 Hayward Fault Earthquake</a></li>
       <li><a href="/regional/nca/haywardfault/">Digital Map of the Hayward Fault</a></li>
+-->
       <li><a href="http://bayquakealliance.org/howclose/">How Close to a Fault Do You Live? Interactive Map</a></li>
       <li><a href="https://pubs.usgs.gov/sim/2004/2848/">Earthquakes and Faults in the San Francisco Bay Area</a></li>
+<!--
       <li><a href="/regional/nca/qmap/">Liquefaction Hazard Maps</a></li>
--->
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
       <li><a href="/research/parkfield/">Parkfield Earthquake Experiment</a></li>
 -->
 
       <li><a href="/learn/topics/hayward_paleo/">Hayward Fault Paleoseismology</a></li>
+<!--
       <li><a href="/data/3dgeologic/">3D Geologic and Seismic Velocity Model of the San Francisco Bay Region</a></li>
-      <li><a href="/research/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>
+-->
+      <li><a href="/data/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>
 
 <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
 
