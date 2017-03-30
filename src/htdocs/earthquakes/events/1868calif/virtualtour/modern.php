@@ -63,5 +63,6 @@ include_once ('_functions.inc.php');
     </div>
   </li>
 </ul>
-<h2>What Can I Do?</h2>
+<!--<h2>What Can I Do?</h2>
 <p>To find out what you and your family should do to prepare, and to learn more about earthquake hazards in your community and neighborhood, please see these additional <a href="/regional/nca/resources/">Earthquake Hazard Resources</a>.</p>
+-->

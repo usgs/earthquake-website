@@ -13,7 +13,7 @@ if (!isset($TEMPLATE)){
 <p>Recent geological studies indicate that the average interval between the past five large earthquakes on the Hayward Fault is 140 years, meaning that another large quake can occur at any time. Because the Bay Area&rsquo;s population has grown by more than 25 times since 1868, the next large quake could potentially cause hundreds of deaths and leave thousands homeless.</p>
 
 <p>Over time, memories of the 1868 Hayward earthquake have faded. Using this self-guided, virtual tour of the 1868 quake in Google Earth you can learn about the 1868 earthquake, visualize its effects, and better plan for its expected repeat. You can view historic damage photographs side-by-side with modern photos taken from the same vantage point.&nbsp; You can also learn how urbanization has changed the Bay Area landscape since 1868 and much more, including:</p>
-<p><a href="/instructions.php">Instructions &amp; Tips</a></p>
+<p><a href="instructions.php">Instructions &amp; Tips</a></p>
 
 <ul class="no-style linklist separator">
   <li>
