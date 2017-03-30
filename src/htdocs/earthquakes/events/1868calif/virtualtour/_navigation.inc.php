@@ -1,6 +1,7 @@
 <?php
   $section = "/earthquakes/events/1868calif/virtualtour";
   $NAVIGATION = true;
+  /* echo "<a href='/earthquakes/events/1868calif' class='up-one-level'>Earthquakes</a>",*/
   echo "<a href='/earthquakes/events/1868calif/virtualtour' class='up-one-level'>Earthquakes</a>",
 
   "<section>",
