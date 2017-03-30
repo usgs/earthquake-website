@@ -3,6 +3,7 @@ if (!isset($TEMPLATE)) {
   $TITLE = 'Instructions &amp; Tips';
   $HEAD = '';
   $FOOT = '';
+  $NAVIGATION = true;
 
   include 'template.inc.php';
 }
