@@ -1,6 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Urbanization of the Hayward Fault';
+  $TITLE = 'Global Earthquake Setting';
   $HEAD = '<link rel="stylesheet" href="style.css" />';
   $FOOT = '';
   $NAVIGATION = true;
