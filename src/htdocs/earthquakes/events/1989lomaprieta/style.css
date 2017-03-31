@@ -1,0 +1,40 @@
+blockquote {
+	margin: 3em;
+	padding: 1em .5em;
+	font-style: italic;
+	font-size: 1.1em;
+	font-weight: normal;
+	color: 333;
+	border: 0 solid #DDD;
+	border-width: 2px 0;
+}
+cite {
+  margin: .5em 3em 0 0;
+  font-size: 1.2em;
+  text-align: right;
+  font-style: normal;
+  font-weight: normal;
+  display: block;
+  color: #333;
+}
+
+ol.papers {
+	float: left;
+  margin: 1em 0 0 16px;
+  padding: 0;
+}
+ol.papers li {
+  margin: .25em 0;
+  padding: 0;
+  border: 0;
+  list-style: disc;
+  overflow: visible;
+}
+.linklist p {
+  margin-top: 0;
+}
+
+#seealso {
+	padding-top: 2em;
+	clear: both;
+}
