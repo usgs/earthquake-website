@@ -3,7 +3,7 @@
 
   echo "<a href='/learn/' class='up-one-level'>Learn</a>";
 
-  print navGroup('Establishing the Story of Past Earthquakes on the San Andreas Fault to Inform the Future',
+  print navGroup('Investigating Past Earthquakes on the San Andreas Fault to Inform the Future',
 
     navItem("${section}/topics/safz-paleo/index.php", "Intro &amp; Paleoseismology") .
     navItem("$section/topics/safz-paleo/finding.php", "Finding Paleoearthquakes") .
