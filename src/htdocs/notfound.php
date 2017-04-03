@@ -34,8 +34,7 @@
   </li>
   <li>
     <p>
-      If you still can't find what you're looking for, <strong><a href="https://answers.usgs.gov/cgi-bin/gsanswers">Contact Us</a></strong> for assistance.  Select the Topic <strong>&ldquo;Natural Hazards&rdquo;</strong>, and please include the <strong>URL</strong> of the webpage in question in your message if relevant. Also, tell us if you clicked on the link from another website.<br/>
-      (Example URL: http://earthquake.usgs.gov/path-to-webpage/)
+      If you still can't find what you're looking for, <strong><a href="mailto:lisa@usgs.gov?subject=EHP%20Website%20Email:%20&amp;cc=lkpratt@usgs.gov&amp;body=Please add your specific subject after the pre-entered Subject above. Thank you!">Contact Us</a></strong> for assistance. Also, tell us if you clicked on the link from another website.<br/>
     </p>
   </li>
 </ul>

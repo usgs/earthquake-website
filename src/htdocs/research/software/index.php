@@ -40,6 +40,7 @@
   <a href="#PPHASEPICKER">PPHASEPICKER</a>
   <a href="#PDL">PDL</a>
   <a href="#PQLX">PQLX</a>
+  <a href="#Prism">Prism</a>
   <a href="#probab">Probabilistic Seismic Hazard Calculation Software</a>
   <a href="#SATSI">SATSI</a>
   <a href="#SeisRisk">SeisRisk III</a>
@@ -60,7 +61,7 @@ See how our applications work and collaborate with us at <a href="http://github.
 <ul class="no-style separator linklist">
   <li class="first">
     <h2 id="3DFM">3D focal mechanisms</h2>
-    <a href="http://pubs.usgs.gov/ds/2007/241/">
+    <a href="https://pubs.usgs.gov/ds/2007/241/">
       <img src="images/3DFM.jpg" alt="3DFM Logo" width="146" height="100"/>
     </a>
     <table>
@@ -94,7 +95,7 @@ See how our applications work and collaborate with us at <a href="http://github.
       </tr>
      <tr>
         <th>Download:</th>
-        <td><a href="http://pubs.usgs.gov/ds/2007/241/">See
+        <td><a href="https://pubs.usgs.gov/ds/2007/241/">See
           online documentation</a></td>
       </tr>
     </table>
@@ -186,7 +187,13 @@ See how our applications work and collaborate with us at <a href="http://github.
       </tr>
       <tr>
         <th>Docs:</th>
-        <td>Online documentation: <a href="/monitoring/edm/cleanstrain/">installation, manual, examples</a></td>
+        <td>Online documentation:
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+          <a href="/monitoring/edm/cleanstrain/">installation, manual, examples</a>
+-->
+
+        </td>
       </tr>
      <tr>
         <th>Download:</th>
@@ -436,7 +443,7 @@ into illustration or animation programs for further enhancements.
   </li>
   <li>
     <h2 id="est_noise">est_noise</h2>
-    <a href="http://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">
+    <a href="https://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">
       <img src="images/est_noise.png" alt="Logo" width="150"/>
     </a>
     <table>
@@ -473,7 +480,7 @@ into illustration or animation programs for further enhancements.
       </tr>
       <tr>
         <th>Download</th>
-        <td><a href="http://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">est_noise.tar.gz</a></td>
+        <td><a href="https://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">est_noise.tar.gz</a></td>
       </tr>
     </table>
     <p>
@@ -572,7 +579,7 @@ into illustration or animation programs for further enhancements.
       </tr>
       <tr>
         <th>Manual:</th>
-        <td>Comments in source code; <a href="http://pubs.usgs.gov/of/2015/1009/">Open-File Report</a> and <a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-2016_Graizer_Kalkan_BSSA.pdf">BSSA article</a></td>
+        <td>Comments in source code; <a href="https://pubs.usgs.gov/of/2015/1009/">Open-File Report</a> and <a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-2016_Graizer_Kalkan_BSSA.pdf">BSSA article</a></td>
       </tr>
       <tr>
         <th>Download:</th>
@@ -1012,6 +1019,48 @@ also supports negative magnitudes, independent S models, and crustal models from
     </p>
   </li>
   <li>
+    <h2 id="Prism">Prism: Processing and Review Interface for Strong Motion Data</h2>
+    <a href="prism/"><img src="prism/prism.png" alt="Prism logo" width="150"></a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td><a href="mailto:jmjones@usgs.gov">Jeanne Jones</a>, <a href="https://profile.usgs.gov/ekalkan">Erol Kalkan</a>, <a href="mailto:cdstephens@usgs.gov">Christopher Stephens</a> and <a href="mailto:png@usgs.gov">Peter Ng</a></td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Automatically process raw strong-motion records in COSMOS V0 format
+          and generate COSMOS V1, V2 and V3 products.</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>Windows, Mac or Linux</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line and GUI</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>Graphics and text files</td>
+      </tr>
+      <tr>
+        <th>Manual:</th>
+        <td>Open file reports and Javadoc</td>
+      </tr>
+      <tr>
+        <th>Release Date</th>
+        <td>Version 1.0, February 2017</td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="prism/">See online documentation</a></td>
+      </tr>
+    </table>
+    <p>PRISM is open-source software used for automatically processing strong-motion records, and is intended to be used by individuals or strong-motion networks. The software package includes a review tool, which is an interactive graphical user interface (GUI) for visually inspecting, editing and processing. PRISM is coded in Java language, and does not dependent on closed-source or proprietary software.</p>
+    <p>PRISM is easy to install and run as a stand-alone system on common operating systems such as Linux, Mac and Windows.</p>
+    <p>PRISM was designed to be flexible and extensible in order to accommodate implementation of new processing techniques. Strong-motion processing steps in the automated workflow are clearly defined, and use a set of customizable parameters—specified in a configuration file—to generate COSMOS V1 (acceleration with mean removed), V2 (baseline-corrected and filtered acceleration, velocity and displacement), and V3 (response spectra, Fourier spectra and intensity measures) data products.</p>
+  </li>
+  <li>
     <h2 id="probab">Probabilistic Seismic Hazard Calculation Software</h2>
     <a href="/hazards/">
       <img src="images/probseishaz.jpg" alt="Logo" width="120" height="77" />
@@ -1367,7 +1416,7 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
   <li>
     <h2 id="SLAMMER">SLAMMER - Seismic Landslide Movement Modeled using Earthquake Records</h2>
-    <a href="http://pubs.usgs.gov/tm/12b1/">
+    <a href="https://pubs.usgs.gov/tm/12b1/">
       <img src="images/SLAMMERicon.jpg" alt="Logo" width="120" height="120"/>
     </a>
     <table>
@@ -1393,7 +1442,7 @@ also supports negative magnitudes, independent S models, and crustal models from
       </tr>
       <tr>
         <th>Download:</th>
-        <td><a href="http://pubs.usgs.gov/tm/12b1/">http://pubs.usgs.gov/tm/12b1/</a></td>
+        <td><a href="https://pubs.usgs.gov/tm/12b1/">https://pubs.usgs.gov/tm/12b1/</a></td>
       </tr>
     </table>
     <p>

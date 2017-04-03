@@ -23,8 +23,8 @@
 
 <h2>Organizations</h2>
 <ul>
-  <li><a href="http://earthquake.usgs.gov/contactus/seattle/">USGS Seattle Field Office, Seattle, WA</a></li>
-  <li><a href="http://volcanoes.usgs.gov/observatories/cvo/">USGS Cascades Volcano Observatory</a></li>
+  <li><a href="https://earthquake.usgs.gov/contactus/seattle/">USGS Seattle Field Office, Seattle, WA</a></li>
+  <li><a href="https://volcanoes.usgs.gov/observatories/cvo/">USGS Cascades Volcano Observatory</a></li>
   <li><a href="http://www.pnsn.org/">Pacific Northwest Seismic Network</a></li>
   <li><a href="http://www.oregongeology.org/sub/default.htm">Oregon Dept. of Geology and Mineral Industries</a></li>
   <li><a href="http://www.oregon.gov/OMD/OEM/">Oregon Office of Emergency Management</a></li>

@@ -1,0 +1,1 @@
+Both the PGA and PGV directivities are moderate (&nu; ~ 0.7&beta;), and the PGA and PGV rupture directions agree adequately.  However, the PGA inversion fails to identify the fault plane, while the PGV inversion favors the NE-SW trending nodal plane. The nodal planes are projected on the upper hemisphere. All the stations used are within 90 km of the earthquake.

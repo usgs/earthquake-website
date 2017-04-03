@@ -19,7 +19,7 @@
   <div>
     <h2><a name="recording"></a>The Recording</h2>
     <audio controls>
-      <source src="eqquartet1m2.mp3" type="audio/mpeg">
+      <source src="eqquartet1m2.mp4" type="audio/mpeg">
     Your browser does not support the audio element.
     </audio>
     <p>A recording was done on February 15, 2000 at the Stanford University  Center for Computer Research in Music and Acoustics with the  musicians from the premiere.  Patricio de la Cuadra was the recording engineer. It is presented here in mp3 format. The earthquake sounds include a lot of bass, so if you don't have good speakers on your computer please try using headphones.</p>
@@ -105,7 +105,19 @@
 
 <h2>Related Links</h2>
 <ul>
-  <li>News Stories about the Earthquake Quartet: <a href="http://archives.cnn.com/2000/SHOWBIZ/Music/02/05/earthquake.music/index.html">CNN</a>, <a href="smtimes.php">Associated Press/San Mateo County Times</a></li>
-  <li><a href="http://earthquake.usgs.gov/learn/listen/">Listen to Earthquakes</a>: Learn about seismology by listening to seismograms</li>
-  <li>The PIEQF Installation <a href="http://pieqf.allshookup.org/">web site</a> and <a href="http://earthquake.usgs.gov/research/parkfield/shake/">USGS page</a><a href="http://earthquake.usgs.gov/research/parkfield/shake/"></a>.</li>
+  <li>
+    News Stories about the Earthquake Quartet: <a href="http://archives.cnn.com/2000/SHOWBIZ/Music/02/05/earthquake.music/index.html">CNN</a>, <a href="smtimes.php">Associated Press/San Mateo County Times</a>
+  </li>
+  <li>
+    <a href="https://earthquake.usgs.gov/learn/listen/">Listen to Earthquakes</a>: Learn about seismology by listening to seismograms
+  </li>
+  <li>
+    PIEQF Installation <a href="http://pieqf.allshookup.org/">web site</a>
+
+    <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
+
+     and <a href="https://earthquake.usgs.gov/research/parkfield/shake/">Parkfield research</a>.
+-->
+
+  </li>
 </ul>

@@ -1,0 +1,23 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  9-10-EXP
+GEOLOGICAL SURVEY                                                                                        NOV 12, 2010
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                       SEPTEMBER 2010
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+09  18 06 33.7  43.797 N  105.192 W   0 G           A 1.1   51   35  WYOMING. ML 3.2 (GS). 60 km (35 miles) SSE of Gillette.
+10  19 09 31.4  43.710 N  105.107 W   0 G           A 1.6   96   36  WYOMING. ML 3.1 (GS). 70 km (45 miles) SSE of Gillette.
+13  23 05 50.7  33.095 N  111.063 W   0 G           A 0.7  132   10  ARIZONA. ML 2.8 (GS). 30 km (20 miles) ENE of Florence.
+26  22 20 30.8  33.424 N  111.246 W   0 G           A 1.2   99   16  ARIZONA. ML 2.9 (GS). 30 km (20 miles) E of Apache
+                                                                      Junction. {Note added January 28, 2011:  this event is
+                                                                      now cataloged as an earthquake by the USGS.  Its revised
+                                                                      epicenter and magnitude are available through the 
+                                                                      "Earthquake Search" web-site at 
+                                                                      https://earthquake.usgs.gov/earthquakes/eqarchives/epic/}   
+ 

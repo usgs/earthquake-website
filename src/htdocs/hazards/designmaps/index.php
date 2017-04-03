@@ -1,6 +1,6 @@
 <?php
   if (!isset($TEMPLATE)) {
-    $TITLE = 'Seismic Design Maps &amp; Tools';
+    $TITLE = 'Design Ground Motions';
 
     // Use hazards level nav file
     include_once 'functions.inc.php';

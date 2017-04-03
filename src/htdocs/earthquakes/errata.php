@@ -115,7 +115,7 @@ from the M7.7 Sea of Okhotsk Earthquake on 2012-08-14 02:59:42 UTC.</h3>
   Although the automatic seismic processing system used by UUSS is enormously useful, it is not sophisticated enough to produce robust, definitive results without human oversight. Earthquake reports posted to UUSS and USGS web pages should be viewed cautiously if they are labeled as automatic reports, i.e. not labeled as having been reviewed by a seismologist.  UUSS technical personnel are currently working to address the Yellowstone telemetry problem, but more false alarms are possible until the problem is fixed.
 </p>
 
-<p>See additional information on the <a href="http://volcanoes.usgs.gov/yvo/">Volcano Hazards Program-Yellowstone Observatory</a> website.</p>
+<p>See additional information on the <a href="https://volcanoes.usgs.gov/yvo/">Volcano Hazards Program-Yellowstone Observatory</a> website.</p>
 
 <h2>2010</h2>
 

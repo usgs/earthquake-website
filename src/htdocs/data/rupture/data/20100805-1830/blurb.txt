@@ -1,0 +1,3 @@
+The directivity  is strong, with both rupture velocities limited at (&nu; &equiv; 0.92&beta;).  Both solutions indicate that the EW striking nodal plane is the fault plane.  Note that this rupture direction is nearly opposite to the rupture direction of the 7/22/2010 earthquake.  The nodal planes are projected on the upper hemisphere.  All the stations used are within 70 km of the earthquake.
+ 
+

@@ -25,7 +25,7 @@
 
 <p>
 	Seismologists<br />
-  <a href="http://www.seismosoc.org/seismology-society/education/careers-seismology/" target="_blank">Seismological Society of America </a>
+  <a href="https://www.seismosoc.org/inside/education/careers-seismology/" target="_blank">Seismological Society of America </a>
 </p>
 
 <p>
@@ -98,7 +98,7 @@
 	Although strong academic course work is the most important element of training to be a geophysicist, students interested in geophysics can also benefit from obtaining first-hand experience in the field itself. Access to such experiences depends largely on where you live. If you have access to local field trips conducted by academic or government organizations, they would expose you to the sorts of things geophysicists are interested in. Student internships or summer programs with a geophysical consulting company, an academic geophysics department, or the U.S. Geological Survey would be an invaluable experience.
 </p>
 <p>
-	<a href="http://www.usgs.gov/humancapital/sw/studentandrecentgrads.html" target="_blank">USGS Opportunities for Students</a>
+	<a href="https://www.usgs.gov/humancapital/sw/studentandrecentgrads.html" target="_blank">USGS Opportunities for Students</a>
 </p>
 
 <h2>Where should I go to graduate school?</h2>

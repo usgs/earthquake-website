@@ -3,11 +3,11 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'USGS Earthquake Hazards Program';
   $HEAD = '
-    <link rel="stylesheet" href="/lib/earthquake-list-widget.css"/>
+    <link rel="stylesheet" href="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.css"/>
     <link rel="stylesheet" href="index.css"/>
   ';
   $FOOT = '
-    <script src="/lib/earthquake-list-widget.js"></script>
+    <script src="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.js"></script>
     <script src="index.js"></script>
   ';
   include 'template.inc.php';
@@ -26,6 +26,8 @@ if (!isset($TEMPLATE)) {
         <img class='nehrp' src="images-home/latesteqs-300.jpg" width="150" alt=""/>
       </a>
       Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
+      <br/><br/>
+      <strong><a href="/data/dyfi/">Did You Feel It? Report it Here!</a></strong>
     </p>
 
     <!-- Significant EQs List -->
@@ -45,6 +47,23 @@ if (!isset($TEMPLATE)) {
     <p>
       <a href="earthquakes/browse/significant.php">Significant Earthquakes Archive</a>
     </p>
+
+<!-- 1 Day, All Magnitudes List - need to figure out how to do 2 lists
+
+    <div id="all-earthquakes" class="height_scroll" style="overflow:scroll; background:#f4f4f4;">
+
+      <noscript class="error alert">
+        Javascript is used to load event data. If you can not enable Javascript,
+        you can <a href="earthquakes/feed/v1.0/summary/all_day.csv">view
+        the raw data here</a>.
+      </noscript>
+    </div>
+-->
+
+<p class='alert'>
+  <img class="nehrp" src="images-home/nehrp.png">
+  The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977. We monitor and report earthquakes, assess earthquake impacts and hazards, and research the causes and effects of earthquakes.
+</p>
 
   </div>
 
@@ -135,11 +154,5 @@ if (!isset($TEMPLATE)) {
             </li>
           </ul>
     </div>
-
-    <p class='alert'>
-      <img class="nehrp" src="images-home/nehrp.png">
-      The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977. We monitor and report earthquakes, assess earthquake impacts and hazards, and research the causes and effects of earthquakes.
-    </p>
-
   </div>
 </div>

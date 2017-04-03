@@ -10,7 +10,7 @@ var endtime,
 
 endtime = new Date(Date.UTC(options.year + 1, 0, 1));
 starttime = new Date(Date.UTC(options.year, 0, 1));
-url = 'http://earthquake.usgs.gov/fdsnws/event/1/query.geojson?' +
+url = 'https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?' +
     [
       'callback=eqfeed_callback',
       'endtime=' + endtime.toISOString(),

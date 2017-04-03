@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Bill Leith, leith@usgs.gov
-  // Last modified: 06/23/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
       $TITLE = 'Scientific Earthquake Studies Advisory Committee (SESAC)';
       $NAVIGATION = true;
@@ -34,6 +33,9 @@
 
   <li>Dr. Gregory Beroza<br/>
   Stanford University</li>
+
+  <li> Dr. Goran Ekstrom<br/>
+  Lamont-Doherty Earth Observatory</li>
 
   <li>Ms. Julie Furr<br/>
   Chad Stewart &amp; Associates, Inc.</li>

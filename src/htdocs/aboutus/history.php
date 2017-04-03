@@ -10,7 +10,7 @@
 ?>
 
 <p>
-  (summarized by L. Wald from parts of <a href="http://pubs.usgs.gov/of/1996/of96-260/">"Earthquakes, Minerals and Me"</a> by Robert E. Wallace, USGS Open-File Report 96-260)
+  (summarized by L. Wald from parts of <a href="https://pubs.usgs.gov/of/1996/of96-260/">"Earthquakes, Minerals and Me"</a> by Robert E. Wallace, USGS Open-File Report 96-260)
 </p>
 
 <p>
@@ -43,4 +43,4 @@
 <p>
   The USGS Earthquake Hazard Program is funded by the NEHRP money and also from other sources. NEHRP began with about $60-70 million each year (and inflation has slowly eaten away at it), about half of that going to the USGS.
 </p>
-<p>For the complete report see <a href="http://pubs.usgs.gov/of/1996/of96-260/">"Earthquakes, Minerals and Me"</a> by Robert E. Wallace.</p>
+<p>For the complete report see <a href="https://pubs.usgs.gov/of/1996/of96-260/">"Earthquakes, Minerals and Me"</a> by Robert E. Wallace.</p>

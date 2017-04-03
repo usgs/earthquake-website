@@ -18,7 +18,7 @@
 
 <h2>Topics of Interest</h2>
 <ul>
-  <li><a href="http://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model</a>—Results of 2014 Workshop and Sensitivity Studies (OFR-2015-1070)</li>
+  <li><a href="https://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model</a>—Results of 2014 Workshop and Sensitivity Studies (OFR-2015-1070)</li>
   <li><a href="/research/induced/">Induced Earthquakes</a></li>
 </ul>
 

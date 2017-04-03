@@ -13,7 +13,7 @@
 <h2>Graphical Formats</h2>
 
 <p>
-	<a href="http://pubs.usgs.gov/of/2004/1294/"><b>Documentation</b></a><br/>
+	<a href="https://pubs.usgs.gov/of/2004/1294/"><b>Documentation</b></a><br/>
 </p>
 
 <div class="row">

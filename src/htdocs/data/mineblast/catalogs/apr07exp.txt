@@ -1,0 +1,28 @@
+ 
+ 
+ 
+ 
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  4-07-EXP
+GEOLOGICAL SURVEY                                                                                        JUN 25, 2007
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                         APRIL 2007
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+04  18 02 13.6  43.709 N  105.231 W   0 G           A 0.8   51   33  WYOMING. ML 3.2 (GS). 70 km (40 miles) SSE of Gillette.
+05  18 09 36.2  43.798 N  105.227 W   0 G           A 0.8  113   30  WYOMING. ML 3.2 (GS). 60 km (40 miles) SSE of Gillette.
+06  18 35 02.1  44.177 N  105.204 W   0 G           A 1.5   90   16  WYOMING. ML 2.9 (GS). 25 km (15 miles) ESE of Gillette.
+06  22 08 57.2  40.266 N  107.674 W   0 G           A 1.4   78   13  COLORADO. ML 2.5 (GS). 30 km (20 miles) SSW of Craig.
+09  23 01 01.3* 43.622 N  105.605 W   0 G           B 1.4  107   10  WYOMING. ML 3.0 (GS). 60 km (35 miles) ENE of Midwest.
+11  20 16 50.0  43.804 N  105.186 W   0 G           A 1.2  115   22  WYOMING. ML 3.3 (GS). 60 km (40 miles) SSE of Gillette.
+14  23 45 12.2* 43.696 N  105.187 W   0 G           B 1.4  198   13  WYOMING. ML 2.6 (GS). 70 km (45 miles) SSE of Gillette.
+16  18 07 31.0  43.698 N  105.199 W   0 G           A 0.8  121   23  WYOMING. ML 3.3 (GS). 70 km (45 miles) SSE of Gillette.
+21  15 59 00.9  43.551 N  105.093 W   0 G           A 1.5  133   20  WYOMING. ML 3.2 (GS). 80 km (50 miles) WSW of Newcastle.
+28  18 04 03.3  43.801 N  105.202 W   0 G           A 0.9   94   49  WYOMING. ML 3.4 (GS). 60 km (35 miles) SSE of Gillette.
+ 

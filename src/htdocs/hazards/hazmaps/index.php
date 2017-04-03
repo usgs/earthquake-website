@@ -19,8 +19,13 @@
       <img src="images/us2014.gif" alt=""/>
     </figure>
     <h3>United States - Lower 48</h3>
+    <h4>Short-term Induced Seismicity Models</h4>
     <ul>
+      <li><a href="conterminous/index.php#2017">2017</a></li>
       <li><a href="conterminous/index.php#2016">2016</a></li>
+    </ul>
+    <h4>Long-term Models</h4>
+    <ul>
       <li><a href="conterminous/index.php#2014">2014</a></li>
       <li><a href="conterminous/index.php#2008">2008</a></li>
       <li><a href="conterminous/index.php#2002">2002</a></li>
@@ -41,7 +46,7 @@
     </ul>
     <h3>Guam and Marianas</h3>
     <ul>
-      <li><a href="http://pubs.usgs.gov/of/2012/1015/">2012</a></li>
+      <li><a href="https://pubs.usgs.gov/of/2012/1015/">2012</a></li>
     </ul>
     <h3>Samoa and Pacific Islands</h3>
     <ul>
@@ -54,11 +59,10 @@
 
     <h2>Hazard Tools</h2>
 
-<!--
     <a href="/hazards/interactive/">Unified Hazard Tool - BETA</a>
-    <p>Need description.</p>
--->
+    <p>Replaces most of the previous individual tools.</p>
 
+<!-- GEOHAZ SERVER TURNED OFF MARCH 1, 2017
     <a href="http://geohazards.usgs.gov/hazards/apps/cmaps/">
       <img class='tool' src="images/cmaps.gif" width="75" alt=""/>
       <p>Custom Hazard Maps<br/>
@@ -92,8 +96,9 @@
       <li><a href="http://geohazards.usgs.gov/deaggint/2002/">U.S., Puerto Rico - 2002</a></li>
       <li><a href="http://geohazards.usgs.gov/deaggint/1996/">U.S., Alaska, Hawaii - 1996</a></li>
       <li><a href="http://geohazards.usgs.gov/deaggband/2009/">Banded Deaggregation - U.S. - 2009</a></li>
-    </ul>
+ -->
 
+    </ul>
 
     <h2>Other Products</h2>
 
@@ -131,7 +136,16 @@
           Includes Afghanistan, Sumatra, State of Gujarat,India.  See also <a href="http://www.seismo.ethz.ch/static/gshap/">Global Seismic Hazard Assessment Program (GSHAP)</a>.
         </p>
       </li>
+    </ul>
 
+    <h2>See also:</h2>
+    <ul>
+      <li>
+        <a href="http://www.conservation.ca.gov/cgs/earthquakes/Pages/Index.aspx">California Hazard Maps</a> - California Geological Survey
+      </li>
+      <li>
+        <a href="http://www.earthquakescanada.nrcan.gc.ca/hazard-alea/index-en.php">Canadian Hazard Maps</a> - Natural Resources Canada
+      </li>
     </ul>
   </section>
 </div>

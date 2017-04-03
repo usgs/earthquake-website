@@ -58,7 +58,7 @@
 <h2>Computer Simulation of a Magnitude 7.7 Earthquake in the New Madrid Seismic Zone</h2>
 
 <p>
-  This animation shows the simulated ground motion of the Earth’s surface that could occur in the central U.S. region for a magnitude 7.7 <a href="/learn/glossary/?term=strike-slip">strike-slip</a> earthquake on the southern section of the <a href="/earthquakes/states/events/1811-1812.php">New Madrid seismic zone</a>. The simulation is based on a detailed geologic model of the central U.S. and is intended to show the general character of the long-period ground shaking expected for a large earthquake in the New Madrid seismic zone. It demonstrates the profound focusing effect the Reelfoot rift has on ground shaking produced by earthquakes. Further, the relatively unconsolidated material in the Mississippi embayment amplifies the ground shaking and also traps seismic energy to prolong the duration of ground  shaking.
+  This animation shows the simulated ground motion of the Earth’s surface that could occur in the central U.S. region for a magnitude 7.7 <a href="/learn/glossary/?term=strike-slip">strike-slip</a> earthquake on the southern section of the <a href="/earthquakes/events/1811-1812newmadrid/">New Madrid seismic zone</a>. The simulation is based on a detailed geologic model of the central U.S. and is intended to show the general character of the long-period ground shaking expected for a large earthquake in the New Madrid seismic zone. It demonstrates the profound focusing effect the Reelfoot rift has on ground shaking produced by earthquakes. Further, the relatively unconsolidated material in the Mississippi embayment amplifies the ground shaking and also traps seismic energy to prolong the duration of ground  shaking.
 </p>
 
 <figure class='right sim'>
@@ -99,13 +99,13 @@
 
 	<li><a href="http://ngmdb.usgs.gov/ngmdb/ngm_catalog.ora.html">Preliminary Integrated Geologic Map Databases for the United States</a>.</li>
 
-	<li><a href="http://pubs.usgs.gov/sir/2008/5098/">Digital Surfaces and thickness of the hydro-geologic of the Mississippi Embayment units</a>.</li>
+	<li><a href="https://pubs.usgs.gov/sir/2008/5098/">Digital Surfaces and thickness of the hydro-geologic of the Mississippi Embayment units</a>.</li>
 
 	<li><a href="/data/crust/nam.php">USGS North America compilation of seismic properties</a>.</li>
 
 	<li>The elevation data used is derived using the <a href="http://nationalmap.gov/viewer.html">1-arc second USGS Digital Elevation Model</a> of the region.</li>
 
-	<li>The Vs30 outside the Mississippi Embayment and St. Louis, MO were obtained from the <a href="/hazards/apps/vs30/">USGS Global Vs30 map server</a>.</li>
+	<li>The Vs30 outside the Mississippi Embayment and St. Louis, MO were obtained from the USGS Global Vs30 map server.</li>
 
 	<li>The <a href="http://crystal.isgs.uiuc.edu/nsdihome/webdocs/st-geolb.html">Illinois depth to bedrock</a> was obtained from the Illinois State
 	Geological Survey.</li>

@@ -1,7 +1,7 @@
 {
   "id": "us",
   "title": "USGS National Earthquake Information Center",
-  "url": "http://earthquake.usgs.gov/contactus/golden/neic.php",
+  "url": "https://earthquake.usgs.gov/contactus/golden/neic.php",
   "aliases": null,
   "address": {
     "org": "U.S. Geological Survey\nNational Earthquake Information Center",

@@ -3,10 +3,10 @@
       //	Contact:
       //	Last	modified:	12/05/2016
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Browse Earthquake Topics';
+      $TITLE	=	'Earthquake Topics';
       $NAVIGATION	= true;
       include	'template.inc.php';
-    }
+      }
 
     $topicID = intval(param('topicID'));
 
@@ -18,8 +18,8 @@
       $statement = $pdo->prepare("
           select t.topic, t.pic
           from learn_Topics t
-          where t.approve='yes' AND t.id=:topicID AND
-          exists (select * from learn_LinkTopic lt, learn_Main m where lt.topicID=t.id and lt.linkID=m.id and m.approve='yes')");
+          where t.id=:topicID AND
+          exists (select * from learn_LinkTopic lt, learn_Main m where lt.topicID=t.id and lt.linkID=m.id)");
       try {
         // use bound parameter names
         $statement->execute(array(
@@ -28,12 +28,15 @@
 
         // process data
         while ($row = $statement->fetch(PDO::FETCH_ASSOC)) {
-          $topic = " &mdash; " . $row['topic'];
+          $topic = $row['topic'];
+          //$topic = " &mdash; " . $row['topic'];
+
           $pic = '';
           if (isset($row['pic'])) {
             $pic = '<img class="right" src="/learn/images/topics/' . $row['pic'] . '" alt=""/>';
           }
           $TITLE = $pic . $TITLE . $topic;
+          echo "<h2>$topic</h2>";
         }
 
         // must close cursor before calling execute again
@@ -49,26 +52,17 @@
       // close database connection
       $pdo = null;
     }
-?>
-<p>
-  <a href="all.php">View all topic links<br /></a>
-  <a href="usgs.php">View USGS links only</a><br />
-  <a href="search.php">Search Topics </a>
-</p>
 
-
-
-<?php
 //ONE TOPIC
 if ($topicID != 0) {
   $backLink = '<p><a href="/learn/topics/topics.php">&laquo; Back to Topics</a></p>';
 
-  print $backLink;
+  //print $backLink;
   include_once '/etc/puppet/EHPServer.class.php';
 
   $pdo = EHPServer::getDatabase('earthquake');
-  $statement = $pdo->prepare("select m.id, m.link, m.name, m.description, m.organization from learn_Main m where approve='yes'
-          and exists (select * from learn_LinkTopic where topicID=:topic and linkID=m.id and approve='yes')
+  $statement = $pdo->prepare("select m.id, m.link, m.name, m.description, m.organization from learn_Main m where
+          exists (select * from learn_LinkTopic where topicID=:topic and linkID=m.id)
           order by m.name");
 
   try {
@@ -80,7 +74,7 @@ if ($topicID != 0) {
     //no results
     $count = $statement->rowCount();
     if (!$statement || $count == 0) {
-      print "<h2>No Matching Links were Found</h2>";
+      print "<strong>No Matching Links were Found</strong>";
       return;
     }
 
@@ -125,15 +119,15 @@ if ($topicID != 0) {
         }
       }
 
-      print '<div class="ten column" id="topics">';
+      print '<div>';
 
       //display links
       $num_links = count($links);
-      print '<h2>' . $num_links . ' matching link';
+      print '<strong>' . $num_links . ' matching link';
       if ($num_links != 1) {
         print 's';
       }
-      print ' found</h2>';
+      print " found</strong>";
       print '<ul>';
 
       foreach ($links as $id => $link) {
@@ -158,65 +152,7 @@ if ($topicID != 0) {
     //close db connection
     $pdo = null;
 
-    //include "display.inc.php"; //does it use the database to get the list? uses display.inc.php to show list
-    print $backLink;
     return;
 }
-
-//ALL TOPICS
-include_once '/etc/puppet/EHPServer.class.php';
-
-
-$pdo = EHPServer::getDatabase('earthquake');
-
-$statement = $pdo->prepare("
-		select t.id, t.topic
-		from learn_Topics t
-		where t.approve='yes' and
-			exists (select * from learn_LinkTopic lt, learn_Main m where lt.topicID=t.id and lt.linkID=m.id and m.approve='yes')
-		order by t.topic");
-
-try {
-  // use bound parameter names
-	$statement->execute(array(
-	   ':approve' => 'yes'
-	));
-
-	// process data
-	$last_init = '';
-	$jumpnav = array();
-	$content = '';
-	while ($row = $statement->fetch(PDO::FETCH_ASSOC)) {
-	   $id = $row['id'];
-     $topic = $row['topic'];
-
-	   $init = strtoupper($topic[0]);
-     if ($last_init != $init) {
-		 if ($last_init != "") { $content .= '</ul></li><li>'; }
-		    $last_init = $init;
-				$jumpnav[] = '<a href="#' . $init . '">' . $init . '</a>';
-				$content .= '<a name="' . $init . '"></a><h2>' . $init . '</h2><ul>';
-		 }
-
-		 $content .= '<li><a href="/learn/topics/topics.php?topicID=' . $id . '">' . $topic . '</a></li>';
-
-	}
-
-  $content .= '</ul>'; // close last letter's list
-  print '<div id="jumpnav" align="center">Jump to: ' . join(' | ', $jumpnav) . '</div>';
-  print '<ul id="topics-list" class="no-style"><li>' . $content . '</li></ul>';
-
-	// must close cursor before calling execute again
-	$statement->closeCursor();
-} catch (PDOException $e) {
-  // don't output this on prod...
-	print_r($e);
-}
-
-// free prepared statement
-$statement = null;
-
-// close database connection
-$pdo = null;
 
 ?>

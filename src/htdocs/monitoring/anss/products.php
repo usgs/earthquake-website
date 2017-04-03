@@ -19,7 +19,7 @@
 		</p>
 	</li>
   <li>
-    <a href="http://earthquake.usgs.gov/data/comcat/">
+    <a href="https://earthquake.usgs.gov/data/comcat/">
       <h4>ComCat Earthquake Catalog</h4>
       <img src="images/comcat150.gif" alt="earthquake search image" width="75px"/>
     </a>
@@ -45,7 +45,7 @@
       Real-time notifications and real-time feeds of earthquakes.
     </p>
   <li>
-    <a href="https://sslearthquake.usgs.gov/ens/">
+    <a href="/ens/">
       <h4>Earthquake Notification Service (ENS)</h4>
       <img src="images/ens.gif" alt="cellphone image" width="75px"/>
     </a>

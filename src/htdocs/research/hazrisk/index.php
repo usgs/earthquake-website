@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
-// Contact: Mark pspell_add_to_personal,
-// Last modified: 2016/08/08, Lisa Wald
+// Contact: Mark Petersen
 if (!isset($TEMPLATE)) {
   $TITLE = 'Hazard and Risk Assessment';
   $NAVIGATION = true;
@@ -10,6 +9,7 @@ if (!isset($TEMPLATE)) {
   ob_start();
   include '../_navigation.inc.php';
   $NAVIGATION = ob_get_clean();
+  $CONTACT = 'mpetersen@usgs.gov';
 
   include 'template.inc.php';
 }
@@ -63,9 +63,10 @@ if (!isset($TEMPLATE)) {
 
 <h2>See Also</h2>
 <ul>
-	<li><a href="/hazards/about/basics.php">Earthquake Hazards 101-The Basics</a></li>
-	<li><a href="/hazards/products/">Seismic Hazard Maps &amp; Data</a></li>
-	<li><a href="/hazards/apps/">Custom Hazard &amp; Analysis Tools</a></li>
-	<li><a href="/hazards/designmaps/">Seismic Design Tools</a></li>
-	<li><a href="/hazards/qfaults/">Faults</a></li>
+  <li><a href="/hazards/learn/">Introduction to the Hazard Maps</a></li>
+	<li><a href="/hazards/learn/basics.php">Earthquake Hazards 101-The Basics</a></li>
+  <li><a href="/hazards/qfaults/">Faults</a></li>
+	<li><a href="/hazards/hazmaps/">Seismic Hazard Maps and Site-Specific Data</a></li>
+	<li><a href="/hazards/designmaps/">Design Ground Motions</a></li>
+  <li><a href="/scenarios/">Earthquake Scenarios</a></li>
 </ul>

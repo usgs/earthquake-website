@@ -11,7 +11,7 @@
 ?>
 <ul class="no-style linklist">
 	<li>
-		<a href="http://pubs.usgs.gov/gip/134/">
+		<a href="https://pubs.usgs.gov/gip/134/">
 			<h4>20 Cool Facts About the New Madrid Seismic Zone Poster</h4>
 			<img src="images/20CoolFacts.jpg" alt="20 Cool Facts Poster"/>
 		</a>
@@ -20,7 +20,7 @@
 		</p>
 	</li>
 	<li>
-		<a href="http://pubs.usgs.gov/gip/118/">
+		<a href="https://pubs.usgs.gov/gip/118/">
 			<h4>Bicentennial of the 1811&ndash;1812 New Madrid Earthquake Sequence Poster</h4>
 			<img src="images/newMadrid_poster.png" alt="New Madrid Poster"/>
 		</a>
@@ -29,7 +29,7 @@
 		</p>
 	</li>
 	<li>
-		<a href="http://pubs.usgs.gov/fs/2009/3071/">
+		<a href="https://pubs.usgs.gov/fs/2009/3071/">
 			<h4>Fact Sheet: Earthquake Hazard in the New Madrid Seismic Zone Remains a Concern</h4>
 			<img src="images/newMadrid_FS.png" alt="New Madrid Fact Sheet Picture"/>
 		</a>
@@ -38,7 +38,7 @@
 		</p>
 	</li>
 	<li>
-		<a href="/earthquakes/states/events/1811-1812.php">
+		<a href="/earthquakes/events/1811-1812newmadrid/">
 			<h4>Summary of the 1811&ndash;1812 New Madrid Earthquake Sequence</h4>
 			<img src="images/isoseismal.gif" alt="Isoseismal Picture"/>
 		</a>
@@ -66,7 +66,7 @@
   <li>
   </li>
 	<li>
-		<a href="http://pubs.usgs.gov/gip/119/">
+		<a href="https://pubs.usgs.gov/gip/119/">
 			<h4>Putting Down Roots in Earthquake Country - Central U.S. edition</h4>
 			<img src="images/Roots.png" alt="Central U.S. Roots"/>
 		</a>

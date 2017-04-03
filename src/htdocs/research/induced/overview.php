@@ -51,9 +51,10 @@ if (!isset($TEMPLATE)) {
       USGS scientist Justin Rubinstein gives an overview on human-caused earthquakes.
     </p>
   </div>
+
   <div class='column one-of-two'>
     <h2>Injection-Induced Seismicity</h2>
-  	<a href="/regional/nca/seminars/2013-12-02/">
+  	<a href="seminars/896">
       <img src="images/escvideo.jpg"alt="Bill Ellsworth video" />
     </a>
   	<p>

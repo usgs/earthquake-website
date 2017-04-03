@@ -1,0 +1,22 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  2-09-EXP
+GEOLOGICAL SURVEY                                                                                        APR 16, 2009
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                       FEBRUARY 2009
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC      DEPTH MAGNITUDE Q SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES               GS                STA                                                
+DAY HR MN SEC     LAT       LONG           mb  MS              USED                                                
+ 
+03  22 06 15.5  43.867 N  105.347 W   0 G           A 1.1   98   32  WYOMING. ML 3.3 (GS). 50 km (30 miles) SSE of Gillette.
+10  20 19 10.4  43.451 N  105.068 W   0 G           A 1.2   52   26  WYOMING. ML 3.1 (GS). 80 km (50 miles) NNE of Douglas.
+12  20 02 44.8  45.943 N  106.633 W   0 G           A 1.2   78   21  EASTERN MONTANA. ML 2.8 (GS). NEAR Colstrip.
+17  21 03 59.9  43.754 N  105.229 W   0 G           A 0.9   96   54  WYOMING. ML 3.5 (GS). 65 km (40 miles) SSE of Gillette.
+19  18 54 56.2  43.999 N  105.186 W   0 G           A 1.4   60   29  WYOMING. ML 3.2 (GS). 40 km (25 miles) SE of Gillette.
+21  19 03 01.6  43.800 N  105.201 W   0 G           A 0.9   35   62  WYOMING. ML 3.3 (GS). 55 km (35 miles) SSE of Gillette.
+21  21 02 14.2  43.716 N  105.212 W   0 G           A 1.1   51   46  WYOMING. ML 3.0 (GS). 70 km (40 miles) SSE of Gillette.
+27  22 03 40.1  43.718 N  105.190 W   0 G           A 1.0  122   27  WYOMING. ML 3.4 (GS). 70 km (40 miles) SSE of Gillette.
+ 

@@ -1,0 +1,14 @@
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  2-03-EXP
+GEOLOGICAL SURVEY                                                                                        MAR 17, 2003
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                       FEBRUARY 2003
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES                GS               STA                                                
+DAY HR MN SEC     LAT       LONG            mb  MS             USED                                                
+ 
+05  17 27 17.9  41.563 N  110.455 W    0 G           0.9  175   13  WYOMING. ML 2.0 (GS).
+12  18 59 27.4  43.788 N  105.337 W    0 G           0.7  130   22  WYOMING. ML 3.5 (GS).

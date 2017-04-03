@@ -1,0 +1,48 @@
+.text {
+    background-color: #fff;
+    width: 250px;
+    height: 100px;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    overflow: hidden;
+    padding: 1em .5em;
+    position: relative;
+}
+
+h3 {
+  margin-top: 1em;
+  text-align: center;
+  vertical-align: middle;
+  color: black;
+}
+
+#font {
+  text-decoration: none;
+}
+
+.elementary {
+  background-color: #8bc543;
+}
+
+.middle {
+  background-color: #d4eef4;
+}
+
+.high {
+  background-color: #d89385;
+}
+
+.college {
+  background-color: #f4b840;
+}
+
+.footer {
+  background-color: #EEE;
+  padding: 16px;
+}
+
+.output-descriptor {
+  display: block;
+  color: #666;
+  font-size: .9em;
+}

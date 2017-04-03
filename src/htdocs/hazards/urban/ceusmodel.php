@@ -83,13 +83,13 @@
 
 	<li><a href="http://ngmdb.usgs.gov/ngmdb/ngm_catalog.ora.html">Preliminary Integrated Geologic Map Databases for the United States</a>.</li>
 
-	<li><a href="http://pubs.usgs.gov/sir/2008/5098/">Digital Surfaces and thickness of the hydro-geologic of the Mississippi Embayment units</a>.</li>
+	<li><a href="https://pubs.usgs.gov/sir/2008/5098/">Digital Surfaces and thickness of the hydro-geologic of the Mississippi Embayment units</a>.</li>
 
 	<li><a href="/data/crust/nam.php">USGS North America compilation of seismic properties</a>.</li>
 
 	<li>The elevation data used is derived using the <a href="http://nationalmap.gov/viewer.html">1-arc second USGS Digital Elevation Model</a> of the region.</li>
 
-	<li>The Vs30 outside the Mississippi Embayment and St. Louis, MO were obtained from the <a href="/hazards/apps/vs30/">USGS Global Vs30 map server</a>.</li>
+	<li>The Vs30 outside the Mississippi Embayment and St. Louis, MO were obtained from the <a href="https://github.com/usgs/earthquake-global_vs30">USGS Global Vs30 map server</a>.</li>
 
 	<li>The <a href="http://www.isgs.illinois.edu/seismic-imaging-receiver-based-refraction-processing">Illinois depth to bedrock</a> was obtained from the Illinois State Geological Survey.</li>
 

@@ -1,0 +1,21 @@
+cite {
+  font-style: italic;
+}
+.align-right {
+  float: right;
+}
+
+.directions {
+  margin: 0 auto;
+  max-width: 784px;
+}
+
+.distributions {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 768px;
+}
+.distributions figure {
+  max-width: 384px;
+}

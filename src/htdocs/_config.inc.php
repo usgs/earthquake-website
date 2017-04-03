@@ -1,7 +1,7 @@
 <?php
 
 // site search url, leave blank for all usgs
-$SITE_URL = 'http://earthquake.usgs.gov';
+$SITE_URL = 'https://earthquake.usgs.gov';
 
 // navigation above search, below section navigation
 $SITE_SITENAV =
@@ -46,7 +46,8 @@ $HEAD =
 
 // comments and questions default
 if (!isset($CONTACT)) {
-  $CONTACT_URL = 'https://answers.usgs.gov/cgi-bin/gsanswers';
+  /* $CONTACT_URL = 'https://answers.usgs.gov/cgi-bin/gsanswers';  */
+  $CONTACT_URL = 'mailto:lisa@usgs.gov?subject=EHP%20Website%20Email:%20&cc=lkpratt@usgs.gov&body=Please add your specific subject after the pre-entered Subject above. Thank you!';
 }
 else {
   $CONTACT_URL = 'mailto:{CONTACT}?subject=EHP%20Website%20Email%20';

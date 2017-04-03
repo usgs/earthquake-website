@@ -46,9 +46,9 @@ if (!isset($TEMPLATE)) {
 
     <h3>Looking for Something Else?</h3>
     <ul>
-      <li><a href="http://store.usgs.gov/">USGS Maps and Publications</a></li>
-      <li><a href="http://www.usgs.gov/ohr/">USGS Employment Opportunities</a></li>
-      <li><a href="http://www.usgs.gov/">USGS - Everything!</a></li>
+      <li><a href="https://store.usgs.gov/">USGS Maps and Publications</a></li>
+      <li><a href="https://www.usgs.gov/ohr/">USGS Employment Opportunities</a></li>
+      <li><a href="https://www.usgs.gov/">USGS - Everything!</a></li>
     </ul>
 
   </div>

@@ -90,7 +90,7 @@
 				</ul>
 			</li>
 			<li>
-				<a href="http://pubs.usgs.gov/fs/2011/3021/" target="_blank">
+				<a href="https://pubs.usgs.gov/fs/2011/3021/" target="_blank">
 				The Global Seismographic Network</a> (FS-2011-3021)
 			</li>
 		</ul>

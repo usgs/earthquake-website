@@ -1,0 +1,46 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  1-99-EXP
+GEOLOGICAL SURVEY                                                                                        JUL  9, 1999
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                        JANUARY 1999
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+06  18 46 15.1? 32.68  N  109.37  W    0 G           1.4    8  EASTERN ARIZONA. ML 2.7 (GS). 20 miles (40 km) ESE of
+                                                                Safford, Arizona.
+09  16 35 41.1  40.536 N  112.154 W    0 G           0.8   15  UTAH. ML 2.6 (GS). 5 miles (10 km) E of Tooele, Utah.
+10  18 49 18.2  41.842 N  108.714 W    0 G           1.1   25  WYOMING. ML 3.3 (GS). 30 miles (50 km) NE of Rock Springs,
+                                                                Wyoming.
+12  23 02 32.4  40.380 N  107.802 W    0 G           1.4   12  COLORADO. ML 2.6 (GS). 15 miles (30 km) SW of Craig,
+                                                                Colorado.
+14  16 39 12.2  41.687 N  108.617 W    0 G           1.2   16  WYOMING. ML 2.4 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+15  21 33 28.1* 32.715 N  109.319 W    0 G           0.7    7  EASTERN ARIZONA. ML 2.8 (GS). 25 miles (40 km) ESE of
+                                                                Safford, Arizona.
+16  17 00 32.6  41.793 N  108.711 W    0 G           1.1   17  WYOMING. ML 2.9 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Colorado.
+16  21 03 53.8  40.544 N  112.094 W    0 G           1.1   13  UTAH. ML 2.6 (GS). 10 miles (20 km) E of Tooele, Utah.
+18  16 52 43.7  40.542 N  112.200 W    0 G           0.6   16  UTAH. ML 2.6 (GS). NEAR Tooele, Utah.
+19  23 08 20.4  40.271 N  107.837 W    0 G           1.4   13  COLORADO. ML 2.8 (GS). 25 miles (40 km) SW of Craig,
+                                                                Colorado.
+20  18 50 59.0* 32.592 N  109.381 W    0 G           1.4   10  EASTERN ARIZONA. ML 2.8 (GS). 25 miles (40 km) SE of
+                                                                Safford, Arizona.
+21  23 00 52.4* 40.581 N  107.756 W    0 G           1.2    9  COLORADO. ML 2.7 (GS). 10 miles (20 km) WNW of Craig,
+                                                                Colorado.
+22  18 08 33.2  40.424 N  107.448 W    0 G           1.2   13  COLORADO. ML 2.5 (GS). 10 miles (10 km) SE of Craig,
+                                                                Colorado.
+24  16 49 17.9  40.528 N  112.198 W    0 G           1.2   17  UTAH. ML 2.5 (GS). 5 miles (10 km) E of Tooele, Utah.
+25  20 06 31.6* 43.641 N  105.180 W    0 G           1.2   11  WYOMING. ML 3.1 (GS). 50 miles (80 km) SSE of Gillette,
+                                                                Wyoming.
+27  20 06 21.0  43.714 N  105.246 W    0 G           1.2   13  WYOMING. ML 3.3 (GS). 45 miles (70 km) SSE of Gillette,
+                                                                Wyoming.
+27  21 22 09.3  40.531 N  112.172 W    0 G           0.9   16  UTAH. ML 2.5 (GS). 5 miles (10 km) E of Tooele, Utah.
+28  22 28 09.1  40.496 N  107.559 W    0 G           1.0   10  COLORADO. ML 2.7 (GS). NEAR Craig, Colorado.
+30  21 17 20.4  41.786 N  108.796 W    0 G           0.9   22  WYOMING. ML 2.6 (GS). 25 miles (40 km) ENE of Rock Springs,
+                                                                Wyoming.
+31  18 48 10.9  40.570 N  112.211 W    0 G           0.8   18  UTAH. ML 2.5 (GS). NEAR Tooele, Utah.

@@ -1,0 +1,61 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  5-98-EXP
+GEOLOGICAL SURVEY                                                                                        JUL 28, 1998
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                          MAY 1998
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+01  16 02 39.4  40.588 N  112.178 W    0 G           0.7    8  UTAH. ML 2.0 (GS). 5 miles (10 km) ESE of Tooele, Utah.
+01  20 20 53.9* 43.814 N  105.173 W    0 G           1.2    9  WYOMING. ML 3.0 (GS). 35 miles (60 km) SSE of Gillette,
+                                                                Wyoming.
+01  20 38 04.4  46.735 N  122.828 W    0 G           1.2    7  WASHINGTON. NEAR Centralia, Washington.
+01  20 41 23.7* 37.303 N   81.848 W    0 G           1.4    8  WEST VIRGINIA. mbLg 3.1 (GS). 35 miles (60 km) W of
+                                                                Bluefield, West Virginia.
+01  21 50 40.6* 40.504 N  107.503 W    0 G           0.8    6  COLORADO. ML 2.2 (GS). NEAR Craig, Colorado.
+02  21 53 54.1* 43.470 N  104.893 W    0 G           1.0    8  WYOMING. ML 2.9 (GS). 45 miles (70 km) SW of Newcastle,
+                                                                Wyoming.
+03  06 05 49.3  40.462 N  106.918 W    0 G           0.7   13  COLORADO. ML 2.7 (GS). NEAR Steamboat Springs, Colorado.
+03  19 29 46.9* 43.835 N  105.327 W    0 G           1.2    7  WYOMING. ML 2.6 (GS). 35 miles (50 km) SSE of Gillette,
+                                                                Wyoming.
+06  16 45 21.6? 36.71  N  110.05  W    0 G           0.2    5  EASTERN ARIZONA. ML 2.3 (GS). 15 miles (30 km) S of Kayenta,
+                                                                Arizona.
+06  17 15 35.1* 39.600 N   80.088 W    0 G           1.1    5  WEST VIRGINIA. mbLg 2.6 (GS). 5 miles (10 km) WSW of
+                                                                Morgantown, West Virginia.
+07  18 02 41.2* 39.634 N   79.964 W    0 G           0.8    6  WEST VIRGINIA. mbLg 2.5 (GS). NEAR Morgantown, West Virginia.
+07  19 37 29.4* 37.652 N   81.877 W    0 G           1.3    7  WEST VIRGINIA. mbLg 3.0 (GS). 20 miles (40 km) E of
+                                                                Williamson, West Virginia.
+07  19 51 59.4  37.567 N   82.008 W    0 G           0.6    6  WEST VIRGINIA. mbLg 2.6 (GS). 15 miles (30 km) ESE of
+                                                                Williamson, West Virginia.
+08  14 23 23.6  40.490 N  107.287 W    0 G           1.2   10  COLORADO. ML 2.5 (GS). 15 miles (20 km) E of Craig, Colorado.
+12  20 00 18.7  37.692 N   81.587 W    0 G           0.9    6  WEST VIRGINIA. mbLg 3.2 (GS). 25 miles (40 km) WSW of
+                                                                Beckley, West Virginia.
+13  21 10 33.3* 38.038 N   81.188 W    0 G           1.1    7  WEST VIRGINIA. mbLg 3.0 (GS). 20 miles (30 km) N of Beckley,
+                                                                West Virginia.
+17  00 55 07.8* 43.504 N  105.036 W    0 G           1.3    7  WYOMING. ML 2.9 (GS). 50 miles (80 km) WSW of Newcastle,
+                                                                Wyoming.
+17  17 02 47.6  40.534 N  112.172 W    0 G           0.9   13  UTAH. ML 2.1 (GS). 5 miles (10 km) E of Tooele, Utah.
+18  21 32 26.6* 38.586 N   80.605 W    0 G           0.7    6  WEST VIRGINIA. mbLg 3.2 (GS). 25 miles (40 km) N of
+                                                                Richwood, West Virginia.
+19  17 50 27.6  40.532 N  112.197 W    0 G           0.7    9  UTAH. ML 2.3 (GS). NEAR Tooele, Utah.
+21  21 32 45.3  46.704 N  122.781 W    0 G           1.0    7  WASHINGTON. 10 miles (10 km) E of Centralia, Washington.
+22  22 01 55.0  40.214 N  107.802 W    0 G           1.3   13  COLORADO. ML 2.6 (GS). 25 miles (40 km) SSW of Craig,
+                                                                Colorado.
+23  15 27 27.8  41.811 N  108.524 W    0 G           1.3   18  WYOMING. ML 2.7 (GS). 40 miles (60 km) ENE of Rock Springs,
+                                                                Wyoming.
+24  15 10 44.5  40.556 N  112.136 W    0 G           1.0   18  UTAH. ML 2.5 (GS). 10 miles (10 km) ENE of Tooele, Utah.
+25  19 46 14.9  41.816 N  108.776 W    0 G           1.0   20  WYOMING. ML 2.6 (GS). 25 miles (40 km) NE of Rock Springs,
+                                                                Wyoming.
+26  21 58 47.1  40.339 N  107.789 W    0 G           0.7   12  COLORADO. ML 2.8 (GS). 20 miles (30 km) SW of Craig,
+                                                                Colorado.
+27  22 41 40.7  41.927 N  108.866 W    0 G           1.1   12  WYOMING. ML 2.4 (GS). 30 miles (50 km) NE of Rock Springs,
+                                                                Wyoming.
+29  15 49 42.1  41.817 N  108.719 W    0 G           1.1   14  WYOMING. ML 2.8 (GS). 30 miles (50 km) ENE of Rock Springs,
+                                                                Wyoming.
+31  20 22 32.0  38.897 N  107.472 W    0 G           0.9   16  COLORADO. ML 3.0 (GS). 35 miles (60 km) NE of Montrose,
+                                                                Colorado.

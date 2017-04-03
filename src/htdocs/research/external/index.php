@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Jill Franks, jfranks@usgs.gov
-// Last modified: Lisa Wald, 2016/08/22
 if (!isset($TEMPLATE)) {
   $TITLE = 'External Grants';
   $NAVIGATION = true;
@@ -19,6 +18,11 @@ if (!isset($TEMPLATE)) {
   <div class='column one-of-two'>
 
     <h2>Annual Competitive Grants</h2>
+
+<p>
+  <strong><a href="https://www.grants.gov/web/grants/search-grants.html?keywords=G17AS00030">FY2018 Program Announcement</strong></a>
+</p>
+
     <p>
       External Grants issues an annual Program announcement for competitive proposals for grants and cooperative agreements to support research in earthquake hazards, the physics of earthquakes, earthquake occurrence, and earthquake safety policy.
     </p>
@@ -28,12 +32,17 @@ if (!isset($TEMPLATE)) {
     </p>
 
     <p>
-      The application period is generally open from early March to mid-May. <a href="http://www.grants.gov/web/grants/manage-subscriptions.html">Sign up for subscription notices from Grants.gov</a> regarding <i>"CFDA number 15.807 application period openings"</i>.
+      <!-- The application period is generally open from early March to mid-May.
+    -->
+      <strong>The application period is currently open until May 22, 2017.</strong>
+      <a href="http://www.grants.gov/web/grants/manage-subscriptions.html">Sign up for subscription notices from Grants.gov</a> regarding <i>"CFDA number 15.807 application period openings"</i>.
     </p>
 
+<!--
     <p>
       <strong>A link to the application will be posted here during the application period.</strong>
     </p>
+-->
 
     <ul>
       <li><a href="forpis.php">Information for PIs</a></li>
@@ -49,9 +58,9 @@ if (!isset($TEMPLATE)) {
   <div class='column one-of-two'>
     <h2>Funded External Grants</h2>
     <ul>
-      <li><a href="research.php">Funded Research</a></li>
-      <li><a href="networks.php">Funded Network Operations</a></li>
-      <li><a href="monitoring_upgrades.php">ARRA-Funded Monitoring Upgrades</a></li>
+      <li><a href="/cfusion/external_grants/research.cfm">Funded Research</a></li>
+      <li><a href="/cfusion/external_grants/networks.cfm">Funded Network Operations</a></li>
+      <li><a href="/cfusion/external_grants/monitoring_upgrades.cfm">ARRA-Funded Monitoring Upgrades</a></li>
     </ul>
 
 
@@ -65,6 +74,14 @@ if (!isset($TEMPLATE)) {
       	<th>Proposals funded</th>
       	<th>Proposals recomm. for support by Peer Panels, but insufficient funds available to support</th>
       	<th>Proposals NOT recomm. for support by panels</th>
+      </tr>
+
+      <tr>
+      	<td>2017</td>
+      	<td>212</td>
+      	<td>44 (as of 3/17/17)</td>
+      	<td>67</td>
+      	<td>61</td>
       </tr>
 
       <tr>
@@ -139,7 +156,7 @@ if (!isset($TEMPLATE)) {
 <h2>About External Research Grants</h2>
 
 <p>
-  The <a href="http://www.usgs.gov/">U.S. Geological Survey (USGS)</a> provides
+  The <a href="https://www.usgs.gov/">U.S. Geological Survey (USGS)</a> provides
   support for research that will assist in achieving the goals of the Earthquake
   Hazards Program. The goal is to mitigate earthquake losses that can occur in
   many parts of the nation by providing earth science data and assessments
@@ -167,11 +184,11 @@ if (!isset($TEMPLATE)) {
   Specific objectives and research tasks identified as measures of progress
   towards the goals of these program elements are described in greater detail in
   the past or current Research Priorities section of the <a
-  href="http://www.usgs.gov/contracts/nehrp/">Announcement of Funding
+  href="https://www.usgs.gov/contracts/nehrp/">Announcement of Funding
   Opportunities</a>. The application period for grants is generally open from
   mid-February until mid-May each year.
 </p>
 
 <p>
-  Unsolicited Proposals may be submitted out of cycle only in cases where there is a compelling circumstance or emergency that must be acted on before the next competitive grant cycle.&nbsp; Proposers should contact the appropriate Regional or Topical Coordinator prior to submitting out-of-cycle proposals. See <a href="http://www.usgs.gov/contracts/unsolbk.html">Guidance for submitting unsolicited proposals</a>.
+  Unsolicited Proposals may be submitted out of cycle only in cases where there is a compelling circumstance or emergency that must be acted on before the next competitive grant cycle.&nbsp; Proposers should contact the appropriate Regional or Topical Coordinator prior to submitting out-of-cycle proposals. See <a href="https://www.usgs.gov/contracts/unsolbk.html">Guidance for submitting unsolicited proposals</a>.
 </p>

@@ -14,7 +14,7 @@
   <h3>Collaborator Links</h3>
   <ul>
     <li>
-      <a href="http://earthquake.usgs.gov/monitoring/gsn/">
+      <a href="https://earthquake.usgs.gov/monitoring/gsn/">
         USGS GSN Program
       </a>
     </li>
@@ -45,7 +45,7 @@
       </a>
     </li>
     <li>
-      <a href="http://earthquake.usgs.gov/regional/states/index.php?regionID=31">
+      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=31">
         New Mexico Earthquake Information
       </a>
     </li>

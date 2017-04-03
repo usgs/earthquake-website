@@ -8,7 +8,7 @@ $EQ_FEATURES = new Features();
 $EQ_FEATURES->id = 'usgs_earthquake_home';
 $EQ_FEATURES->title = 'USGS Earthquake Hazards Program Featured Items';
 $EQ_FEATURES->author = 'U.S. Geological Survey';
-$EQ_FEATURES->siteUrl = 'http://earthquake.usgs.gov/';
+$EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 /**
@@ -54,6 +54,107 @@ $EQ_FEATURES->baseUrl = '';
  *               strtotime('2014-10-31')
  *
  */
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-29',
+   'title' => 'USGS Seeks Earthquake Hazards Research Proposals',
+   'content' => 'The USGS is currently soliciting project proposals for 2018 grants on earthquake hazards science.',
+   'link' => 'https://www.usgs.gov/news/usgs-seeks-earthquake-hazards-research-proposals',
+   'modified' => strtotime('2017-03-29'),
+   'thumbnail' => '/images-featured/2018grants.jpg',
+   'image' => '/images-featured/2018grants.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-20',
+   'title' => 'Enormous Caribbean Waves Before 1492',
+   'content' => 'Geologists have discovered evidence that unusual seas detached living corals from a Caribbean reef and scattered them far inland, as boulders, during the last centuries before Columbus arrived.',
+   'link' => 'https://www.usgs.gov/news/enormous-caribbean-waves-1492',
+   'modified' => strtotime('2017-03-20'),
+   'thumbnail' => '/images-featured/caribbeanwaves.jpg',
+   'image' => '/images-featured/caribbeanwaves.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-20',
+   'title' => 'Preparing for Tsunami Hazards on Washington’s Pacific Coast',
+   'content' => 'Scientists work with local communities to help residents understand how to prioritize locations for vertical evacuation structures in areas with no natural high ground.',
+   'link' => 'https://www.usgs.gov/news/preparing-tsunami-hazards-washington-s-pacific-coast',
+   'modified' => strtotime('2017-03-20'),
+   'thumbnail' => '/images-featured/tsunami_hazard_sign_blue.jpg',
+   'image' => '/images-featured/tsunami_hazard_sign_blue.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-13',
+   'title' => 'Listen to Earthquakes',
+   'content' => 'Seismometers record vibrations from a wide assortment of ground motion events, each with its own unique seismic signature. A USGS short educational video.',
+   'link' => 'https://www.usgs.gov/media/videos/listen-earthquakes',
+   'modified' => strtotime('2017-03-13'),
+   'thumbnail' => '/images-featured/listen-to-eqs-video.gif',
+   'image' => '/images-featured/listen-to-eqs-video.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-13',
+   'title' => 'Hazards to California\'s Delta Water System',
+   'content' => 'Earthquakes, land subsidence and flooding pose significant threats to California’s fresh water. A USGS short educational video.',
+   'link' => 'https://www.usgs.gov/media/videos/hazards-californias-delta-water-system',
+   'modified' => strtotime('2017-03-13'),
+   'thumbnail' => '/images-featured/delta-water-haz.jpg',
+   'image' => '/images-featured/delta-water-haz.jpg'
+ );
+
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-02',
+   'title' => 'Prehistoric Earthquakes Discovered Along San Andreas Fault',
+   'content' => 'A new USGS study offers a view into the past behavior of large earthquakes along the southern San Andreas Fault. ',
+   'link' => 'https://www.usgs.gov/news/prehistoric-earthquakes-discovered-along-san-andreas-fault',
+   'modified' => strtotime('2017-03-02'),
+   'thumbnail' => '/images-featured/paleo-2017mar.gif',
+   'image' => '/images-featured/paleo-2017mar.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-03-01',
+   'title' => 'New USGS Maps Identify Potential Ground Shaking Hazards for 2017',
+   'content' => 'One-year 2017 seismic hazard forecast for the central and eastern United States from induced and natural earthquakes that updates the 2016 one-year forecast.',
+   'link' => 'https://www.usgs.gov/news/new-usgs-maps-identify-potential-ground-shaking-hazards-2017',
+   'modified' => strtotime('2017-03-01'),
+   'thumbnail' => '/images-featured/ProbDamageEQ_2017-150x2.gif',
+   'image' => '/images-featured/ProbDamageEQ_2017-150x2.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-02-21',
+   'title' => 'A Fresh Look at Old Data Sheds Light on Central U.S. Quake Origins and Potential',
+   'content' => 'Small variations in the density of the earth’s crust influence where earthquakes may occur in the central U.S. These new findings published today in Nature Communications may allow scientists to map where future seismicity in the center of the country is most likely.',
+   'link' => 'https://www.usgs.gov/news/a-fresh-look-old-data-sheds-light-central-us-quake-origins-and-potential',
+   'modified' => strtotime('2017-02-21'),
+   'thumbnail' => '/images-featured/fresh-old.jpg',
+   'image' => '/images-featured/fresh-old.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-02-07',
+   'title' => 'Community Announcement: USGS Ground Motion Study in the Walnut Creek/Concord Area Looking for Volunteers',
+   'content' => 'The U. S. Geological Survey is seeking volunteers to host temporary seismic stations in the Walnut Creek/Pleasant Hill/Concord California area. Volunteers will be assisting with a new ground motion study that will begin in March 2017.',
+   'link' => 'https://www.usgs.gov/news/community-announcement-usgs-ground-motion-study-walnut-creekconcord-area-looking-volunteers',
+   'modified' => strtotime('2017-02-07'),
+   'thumbnail' => '/images-featured/bitterroot.gif',
+   'image' => '/images-featured/bitterroot.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-01-23',
+   'title' => 'Maps Made With Light Show the Way',
+   'content' => 'The USGS’ National Geospatial Program is in year one of an 8-year program to create the first publicly available, national 3D elevation map using lidar. lidar shows not only vegetation and objects on the land’s surface, but the structures beneath such as fault lines.',
+   'link' => 'https://www.usgs.gov/news/maps-made-light-show-way',
+   'modified' => strtotime('2017-01-23'),
+   'thumbnail' => '/images-featured/K2.jpg',
+   'image' => '/images-featured/K2.jpg'
+ );
 
  $EQ_FEATURES->items[] = array(
    'id' => '2016-12-12',

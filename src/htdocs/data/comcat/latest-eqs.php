@@ -268,7 +268,7 @@
   <dd>
     <p>
       The data used for these features was acquired from the
-      <a href="http://geohazards.usgs.gov/cfusion/hazfaults_2014_search/query_main.cfm">Hazard Faults
+      <a href="https://earthquake.usgs.gov/cfusion/hazfaults_2014_search/query_main.cfm">Hazard Faults
       Database for the United States</a>. See the <a href="/hazards/qfaults/">
       Quaternary Fault and Fold Database of the United States</a> for more
       information.
@@ -280,9 +280,9 @@
 
     <p>
       The
-      <a href="http://pubs.usgs.gov/of/1996/532/fig25ss.gif" target="_blank">
+      <a href="https://pubs.usgs.gov/of/1996/532/fig25ss.gif" target="_blank">
       known active fault segments in California and Nevada can be seen in Figure
-      25</a> of <a href="http://pubs.usgs.gov/of/1996/532/"  target="_blank">
+      25</a> of <a href="https://pubs.usgs.gov/of/1996/532/"  target="_blank">
       USGS Open-File Report 96-532: National Seismic Hazard Maps, June 1996:
       Documentation</a> by Arthur Frankel, Charles Mueller, Theodore Barnhard,
       David Perkins, E.V. Leyendecker, Nancy Dickman, Stanley Hanson, and
@@ -292,7 +292,7 @@
     <p>
       For northern California, the potential sources of earthquakes larger than
       magnitude 6 are documented in
-      <a href="http://pubs.usgs.gov/of/1996/0705/" target="_blank">
+      <a href="https://pubs.usgs.gov/of/1996/0705/" target="_blank">
       Open-File Report 96-705: Database of Potential Sources for Earthquakes
       Larger than Magnitude 6 in Northern California</a> by the Working Group on
       Northern California Earthquake Potential (chaired by Jim Lienkaemper).
@@ -415,7 +415,6 @@
 </p>
 <ul>
   <li>Local System Time – the time setting of your device</li>
-  <li>Event Epicenter Time – the time in each earthquake epicenter region</li>
   <li>UTC – Universal Coordinated Time (similar to GMT)</li>
 </ul>
 

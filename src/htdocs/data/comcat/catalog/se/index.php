@@ -54,7 +54,7 @@ The SE network authoritative polygon covers the eastern part of the CERI catalog
     <li>CO, <a href="http://scsn.seis.sc.edu/">University of South Carolina</a></li>
     <li>SE, <a href="http://www.magma.geos.vt.edu/vtso/">Virginia Tech</a></li>
     <li>TA, <a href="http://www.iris.edu/hq/">IRIS</a></li>
-    <li>US, <a href="http://earthquake.usgs.gov/contactus/golden/neic.php">USGS</a></li>
+    <li>US, <a href="/contactus/golden/neic.php">USGS</a></li>
     <li>N4, <a href="http://www.usarray.org/ceusn">IRIS/USGS</a></li>
   </ul>
 </ul>
@@ -69,4 +69,3 @@ Because the network has evolved over the years, there is no guarantee of consist
   <li>1995-present: earthquakes reported by SLU and/or CERI </li>
   <li>2003-present: addition of CERI East TN earthquakes and contributions from the SEUSSN bulletins</li>
 </ul>
-

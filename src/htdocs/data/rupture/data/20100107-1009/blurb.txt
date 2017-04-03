@@ -1,0 +1,2 @@
+The PGA and PGV directivities are both weak, with &nu; ~ 0.5&beta;.  The PGV rupture direction is almost straight updip, and slightly favors the NS striking plane (that is, the Calaveras fault) as the fault plane.  The PGA rupture direction favors the EW striking plane.  This discrepancy may be due to a combination of the weak directivity and a lack of stations to the east.  The nodal planes are projected on the upper hemisphere.  All the stations used are within 70 km of the earthquake.
+

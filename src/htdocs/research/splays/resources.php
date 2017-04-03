@@ -18,7 +18,7 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-  <a href="http://earthquake.usgs.gov/earthquakes/events/alaska1964/">
+  <a href="https://earthquake.usgs.gov/earthquakes/events/alaska1964/">
   The Great Alaska Earthquake and Tsunami of March 27, 1964</a>
   </li>
   <li>

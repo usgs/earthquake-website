@@ -1,0 +1,4 @@
+The PGA and PGV directivities are relatively weak (&nu; ~ 0.6&beta;), but the rupture directions are consistent.  Both inversions identify the NE-SW trending nodal plane as the fault plane.  Note that this fault plane differs from the fault plane identified for the nearby M4.4 earthquake (08/02/2006).  The nodal planes are projected on the upper hemisphere. All the stations used are within 90 km of the earthquake.
+
+
+

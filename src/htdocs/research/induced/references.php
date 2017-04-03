@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Justin Rubenstein
-// Last modified: Lisa Wald, 2016/08/22
 if (!isset($TEMPLATE)) {
   $TITLE = 'Induced Earthquakes';
   $NAVIGATION = true;
@@ -15,7 +14,11 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Choy, G. L., Rubinstein, J. L., Yeck, W. L., McNamara, D. E., Mueller, C. S., Boyd, O. S., 2016, A Rare Moderate-Sized (Mw 4.9) Earthquake in Kansas: Rupture Process of the Milan, Kansas, Earthquake of 12 November 2014 and Its Relationship to Fluid Injection, Seismol. Res. Letters, v. 87, p. 1-9,   DOI: 10.1785/0220160100.
+    Choy, G. L., Rubinstein, J. L., Yeck, W. L., McNamara, D. E., Mueller, C. S., Boyd, O. S. (<strong>2016</strong>) A Rare Moderate-Sized (Mw 4.9) Earthquake in Kansas: Rupture Process of the Milan, Kansas, Earthquake of 12 November 2014 and Its Relationship to Fluid Injection, Seismol. Res. Letters, v. 87, p. 1-9,   DOI: 10.1785/0220160100.
+  </li>
+
+  <li>
+    NJ van der Elst, MT Page, DA Weiser, THW Goebel, SM Hosseini (<strong>2016</strong>),  <a href="http://onlinelibrary.wiley.com/doi/10.1002/2016JB012818/abstract">Induced earthquake magnitudes are as large as (statistically) expected</a>, Journal of Geophysical Research: Solid Earth 121 (6), 4575–4590.
   </li>
 
   <li>
@@ -73,7 +76,7 @@ if (!isset($TEMPLATE)) {
     McNamara, D. E., H. M. Benz, R. B. Herrmann, E. A. Bergman, P. Earle, A. Holland, R. Baldwin, and A. Gassner (<strong>2015</strong>), Earthquake hypocenters and focal mechanisms in central Oklahoma reveal a complex system of reactivated subsurface strikeslip faulting, <em>Geophysical Research Letters, http://dx.doi. org/10.1002/2014GL062730</em>.
   </li>
   <li>
-    Petersen, M. D. et al. (<strong>2015</strong>), <a href="http://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazards Models: Workshop and Sensitivity Studies</a>, <em>U. S. Geological Survey Open-File Report 2015-1070</em>.
+    Petersen, M. D. et al. (<strong>2015</strong>), <a href="https://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazards Models: Workshop and Sensitivity Studies</a>, <em>U. S. Geological Survey Open-File Report 2015-1070</em>.
   </li>
   <li>
     Rubinstein, J.L. and Mahani, A. B (<strong>2015</strong>), <a href="https://profile.usgs.gov/myscience/upload_folder/ci2015Jun1012005755600Induced_EQs_Review.pdf">Myths and Facts on Wastewater Injection, Hydraulic Fracturing, Enhanced Oil Recovery, and Induced Seismicity</a>, <em>Seismological Research Letters Volume 86, Number 4 July/August 2015, doi: 10.1785/0220150067</em>.
@@ -164,7 +167,7 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Nicholson, C. and R.L. Wesson (<strong>1990</strong>), <a href="http://pubs.usgs.gov/bul/1951/report.pdf">Earthquake hazard associated with deep well injection: A report to the U.S. Environment Protection Agency</a>, <em>US Geological Survey Bulletin 1951, 74pp</em>.
+    Nicholson, C. and R.L. Wesson (<strong>1990</strong>), <a href="https://pubs.usgs.gov/bul/1951/report.pdf">Earthquake hazard associated with deep well injection: A report to the U.S. Environment Protection Agency</a>, <em>US Geological Survey Bulletin 1951, 74pp</em>.
   </li>
 </ul>
 

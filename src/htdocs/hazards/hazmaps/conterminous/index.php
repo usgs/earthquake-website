@@ -1,6 +1,6 @@
 <?php
   // Author: Lisa Wald
-  // Contact:
+  // Contact: Mark Peterson
     if (!isset($TEMPLATE)) {
       $TITLE = 'United States - Lower 48';
       $NAVIGATION = true;
@@ -8,8 +8,21 @@
     }
 ?>
 
-<h2 id="2016">2016</h2>
+<h2 id="2017">2017 Short-term Induced Seismicity Model</h2>
+<p>
+  The U.S Geological Survey (USGS) has produced a one-year 2017 seismic hazard forecast for the central and eastern United States from induced and natural earthquakes that updates the 2016 one-year forecast; this map is intended to provide information to the public and to facilitate the development of induced seismicity forecasting models, methods, and data. The 2017 hazard model applies the same methodology and input logic tree as the 2016 forecast, but with an updated earthquake catalog.
+</p>
+<p>
+  The 2016 forecast indicated high seismic hazard (greater than 1% probability of potentially damaging ground shaking in one-year) in five focus areas: Oklahoma-Kansas, the Raton Basin (Colorado/New Mexico border), north Texas, north Arkansas, and the New Madrid seismic zone. During 2016, several damaging induced earthquakes occurred in Oklahoma within the highest hazard region of the 2016 forecast; all of the 21 magnitude (M) ≥ 4 and three M ≥ 5 earthquakes occurred within the highest hazard area in the 2016 forecast. Outside the Oklahoma-Kansas focus area, two earthquakes with M ≥ 4 occurred near Trinidad, Colorado (in the Raton Basin focus area), but no earthquakes with M &ge; 2.7 were observed in the north Texas or north Arkansas focus areas. Several observations of damaging ground shaking levels were also recorded in the highest hazard region of Oklahoma. The 2017 forecasted seismic rates are lower in regions of induced activity due to lower rates of earthquakes in 2016 compared to 2015, which may be related to decreased wastewater injection, caused by regulatory actions or by a decrease in unconventional oil and gas production. Nevertheless, the 2017 forecasted hazard is still significantly elevated in Oklahoma compared to the hazard calculated from seismicity before 2009.
+</p>
+<ul>
+  <li>
+    <a href="/hazards/induced/index.php#2017">2017 One-Year Seismic Hazard Model from Induced and Natural Earthquakes</a>
+  </li>
+</ul>
+<hr/>
 
+<h2 id="2016">2016 Short-term Induced Seismicity Model</h2>
 <p>
   The U.S. Geological Survey (USGS) has produced a 1-year seismic hazard forecast for 2016 for the Central and Eastern United States (CEUS) that includes contributions from both induced and natural earthquakes. The model assumes that earthquake rates calculated from several different time windows will remain relatively stationary and can be used to forecast earthquake hazard and damage intensity for the year 2016. This assessment is the first step in developing an operational earthquake forecast for the CEUS, and the analysis could be revised with updated seismicity and model parameters. Consensus input models consider alternative earthquake catalog durations, smoothing parameters, maximum magnitudes, and ground motion estimates, and represent uncertainties in earthquake occurrence and diversity of opinion in the science community.
 </p>
@@ -18,15 +31,15 @@
 </p>
 <ul>
   <li>
-    <a href="http://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> (USGS OFR 2015-1070)
+    <a href="/hazards/induced/index.php#2016">2016 One-Year Seismic Hazard Model from Induced and Natural Earthquakes</a>
   </li>
   <li>
-    <a href="/hazards/induced/">2016 One-Year Seismic Hazard Model from Induced and Natural Earthquakes</a>
+    <a href="https://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> (USGS OFR 2015-1070)
   </li>
 </ul>
 
 <hr/>
-<h2 id="2014">2014</h2>
+<h2 id="2014">2014 Long-term Model</h2>
 
 <p>
   The 2014 U.S. Geological Survey (USGS) National Seismic Hazard Maps display earthquake ground motions for various probability levels across the United States and are applied in seismic provisions of building codes, insurance rate structures, risk assessments, and other public policy. The updated maps represent an assessment of the best available science in earthquake hazards and incorporate new findings on earthquake ground shaking, faults, seismicity, and geodesy. The USGS National Seismic Hazard Mapping Project developed these maps by incorporating information on potential earthquakes and associated ground shaking obtained from interaction in science and engineering workshops involving hundreds of participants, review by several science organizations and State surveys, and advice from expert panels and a Steering Committee. The new probabilistic hazard maps represent an update of the seismic hazard maps; previous versions were developed by Petersen and others (2008) and Frankel and others (2002), using the methodology developed Frankel and others (1996). Algermissen and Perkins (1976) published the first probabilistic seismic hazard map of the United States which was updated in Algermissen and others (1990).
@@ -59,15 +72,15 @@
   <li><a href="https://github.com/usgs/nshmp-haz-catalogs">Catalogs</a>
   </li>
 
-  <li><a href="http://geohazards.usgs.gov/cfusion/hazfaults_2014_search/query_main.cfm">Faults Database Search</a>
+  <li><a href="/cfusion/hazfaults_2014_search/query_main.cfm">Faults Database Search</a>
   </li>
 
   <li><a href="/hazards/qfaults/map/hazfault2014.html">Fault Source Map</a></li>
 
-  <li><strong><a href="http://pubs.usgs.gov/of/2014/1091/">Hazard Model Documentation</a> (USGS OFR 2014-1091)</strong></li>
-  <li><a href="http://pubs.usgs.gov/of/2013/1293/
+  <li><strong><a href="https://pubs.usgs.gov/of/2014/1091/">Hazard Model Documentation</a> (USGS OFR 2014-1091)</strong></li>
+  <li><a href="https://pubs.usgs.gov/of/2013/1293/
 ">Geodetic and Geologic Slip Model Documentation</a> (USGS OFR 2014-1293)</li>
-  <li><a href="http://pubs.usgs.gov/sim/3325/">Seismic-Hazard Maps for the Conterminous United States, 2014</a> (USGS Scientific Investigations Map 3325)</li>
+  <li><a href="https://pubs.usgs.gov/sim/3325/">Seismic-Hazard Maps for the Conterminous United States, 2014</a> (USGS Scientific Investigations Map 3325)</li>
 </ul>
 
 <h3>Additional Information</h3>
@@ -76,12 +89,12 @@
   The California portion of the 2104 NSHMP is based on the Uniform California Earthquake Rupture Forecast version 3 (UCERF3). The model was developed by Working Group on California Earthquake Probabilities (WGCEP). For more information see:
 </p>
   <ul>
-    <li><a href="http://pubs.usgs.gov/of/2013/1165/">Uniform California Earthquake Rupture Forecast, Version 3 (UCERF3)-The Time-Independent Model</a> (USGS OFR 2013-1165)</li>
+    <li><a href="https://pubs.usgs.gov/of/2013/1165/">Uniform California Earthquake Rupture Forecast, Version 3 (UCERF3)-The Time-Independent Model</a> (USGS OFR 2013-1165)</li>
     <li><a href="http://www.wgcep.org/">Working Group on California Earthquake Probabilities (WGCEP)</a></li>
   </ul>
 
 <hr/>
-<h2 id="2008">2008</h2>
+<h2 id="2008">2008 Long-term Model</h2>
 
 <p>
   The 2008 U.S. Geological Survey (USGS) National Seismic Hazard Maps display earthquake ground motions for various probability levels across the United States and are applied in seismic provisions of building codes, insurance rate structures, risk assessments, and other public policy. This update of the maps incorporates new findings on earthquake ground shaking, faults, seismicity, and geodesy. The resulting maps are derived from seismic hazard curves calculated on a grid of sites across the United States that describe the frequency of exceeding a set of ground motions.
@@ -99,9 +112,9 @@
   <li><a href="2008/curvedata-rev3.php">Hazard Curve Data</a> - Revision III</li>
   <li><a href="https://github.com/usgs/nshmp-haz-fortran/releases/tag/nshm2008r3">Source Code - Revision III</a></li>
   <li><a href="2008/catalogs.php">Catalogs</a></li>
-  <li><a href="http://geohazards.usgs.gov/cfusion/hazfaults_2008_search">Faults Database Search</a></li>
+  <li><a href="/cfusion/hazfaults_2008_search/query_main.cfm">Faults Database Search</a></li>
   <li><a href="/hazards/qfaults/map/hazfault2008.html">Fault Source Map</a></li>
-  <li><a href="http://pubs.usgs.gov/of/2008/1128/">Documentation for the 2008 Update of the United States National Seismic Hazard Maps</a> (USGS OFR 2008-1128)</li>
+  <li><a href="https://pubs.usgs.gov/of/2008/1128/">Documentation for the 2008 Update of the United States National Seismic Hazard Maps</a> (USGS OFR 2008-1128)</li>
 </ul>
 
 <h3>Additional Information</h3>
@@ -110,12 +123,12 @@
   <li><a href="2008/update200812.php">Revision II, December 2008</a> (the basis for the <a href="/hazards/designmaps/usdesign.php">Design Maps</a>)</li>
   <li><a href="2008/update201001.php">Revision III, January 2010</a></li>
 
-  <li><a href="http://pubs.usgs.gov/fs/2008/3018/">2008 United States National Seismic Hazard Maps</a> - (USGS Fact Sheet 2008-3018)</li>
-  <li><a href="http://pubs.usgs.gov/sim/3195/">Seismic-Hazard Maps for the Conterminous United States, 2008</a> (USGS Scientific Investigations Map 3195)</li>
-  <li><a href="http://pubs.usgs.gov/of/2007/1437/l/of2007-1437l.pdf">Appendix L: Cascadia Subduction Zone</a> (USGS OFR 2007-1437L)</li>
-  <li><a href="http://pubs.usgs.gov/fs/2009/3071/">Earthquake Hazard in the New Madrid Seismic Zone Remains a Concern</a> (USGS Fact Sheet 2009-3071)
+  <li><a href="https://pubs.usgs.gov/fs/2008/3018/">2008 United States National Seismic Hazard Maps</a> - (USGS Fact Sheet 2008-3018)</li>
+  <li><a href="https://pubs.usgs.gov/sim/3195/">Seismic-Hazard Maps for the Conterminous United States, 2008</a> (USGS Scientific Investigations Map 3195)</li>
+  <li><a href="https://pubs.usgs.gov/of/2007/1437/l/of2007-1437l.pdf">Appendix L: Cascadia Subduction Zone</a> (USGS OFR 2007-1437L)</li>
+  <li><a href="https://pubs.usgs.gov/fs/2009/3071/">Earthquake Hazard in the New Madrid Seismic Zone Remains a Concern</a> (USGS Fact Sheet 2009-3071)
   </li>
-  <li><a href="http://pubs.usgs.gov/of/2007/1437/">The Uniform California Earthquake Rupture Forecast, Version 2 (UCERF2)</a> (USGS OFR 2007-1437)
+  <li><a href="https://pubs.usgs.gov/of/2007/1437/">The Uniform California Earthquake Rupture Forecast, Version 2 (UCERF2)</a> (USGS OFR 2007-1437)
   </li>
   <li><a href="http://www.wgcep.org/">Working Group on California Earthquake Probabilities</a></li>
   <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2008/99HQGR0098.pdf" title="2001, P. Sommerville et al. Final Report">Ground Motion Attenuation Relations for the Central and Eastern United States</a> (USGS-funded)
@@ -123,7 +136,7 @@
 </ul>
 
 <hr/>
-<h2 id="2002">2002</h2>
+<h2 id="2002">2002 Long-term Model</h2>
 
 <p>
   Following the release of the 2002 United States hazard maps and data, two subsequent updates were released. The first in April of 2003 and the second in October of 2003. Descriptions of each release can be found below. <strong>What is currently made available on our web site reflects the updated data and image files.</strong>
@@ -133,9 +146,9 @@
   <li><a href="2002/maps.php">Maps</a></li>
   <li><a href="2002/data.php">Data</a></li>
   <li>Source Code is not available.</li>
-  <li><a href="http://geohazards.usgs.gov/cfusion/hazfaults_2002_search">Faults Database Search</a></li>
+  <li><a href="/cfusion/hazfaults_2002_search/query_main.cfm">Faults Database Search</a></li>
   <li><a href="/hazards/qfaults/map/hazfault2002.html">Fault Source Map</a></li>
-  <li><a href="http://pubs.usgs.gov/of/2002/ofr-02-420/">Documentation for the 2002 Update of the National Seismic Hazard Maps</a> (USGS OFR 02-420)</li>
+  <li><a href="https://pubs.usgs.gov/of/2002/ofr-02-420/">Documentation for the 2002 Update of the National Seismic Hazard Maps</a> (USGS OFR 02-420)</li>
 </ul>
 
 <h3>Additional Information</h3>
@@ -143,11 +156,11 @@
   <li><a href="2002/update_2002apr.php">Revision I, April 2003</a></li>
   <li><a href="2002/update_2002oct.php">Revision II, October 2003</a></li>
   <li><a href="http://geopubs.wr.usgs.gov/open-file/of02-123/">Implosion, Earthquake, and Explosion Recordings from the 2000 Seattle Kingdome Seismic Hazards Investigation of Puget Sound (SHIPS), Washington</a> (USGS OFR 02-123)</li>
-  <li><a href="http://pubs.usgs.gov/of/2002/ofr-02-0073/ofr-02-0073.html">Investigation of an Earthquake Swarm near Trinidad, Colorado, August-October 2001</a> (USGS OFR 02-0073)</li>
+  <li><a href="https://pubs.usgs.gov/of/2002/ofr-02-0073/ofr-02-0073.html">Investigation of an Earthquake Swarm near Trinidad, Colorado, August-October 2001</a> (USGS OFR 02-0073)</li>
 </ul>
 
 <hr/>
-<h2 id="1996">1996</h2>
+<h2 id="1996">1996 Long-term Model</h2>
 
 <p>
   The computations for these maps and data used 50 year return periods on firm rock at 760 m/sec. All of the maps were prepared by combining hazard derived from spatially- smoothed historic seismicity with hazard from fault-specific sources. For more information please read our full documentation.
@@ -160,17 +173,17 @@
   <li><a href="1996/maps.php">Maps</a></li>
   <li><a href="1996/data.php">Data</a></li>
   <li>Source Code is not available.</li>
-  <li><a href="http://pubs.usgs.gov/of/1996/532/">National Seismic Hazard Maps: Documentation June 1996</a> (OFR 96-532) and <a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/1996/documentation/US1996Figures.zip">Figures from Open-File Report</a> (6 MB Zip file)</li>
+  <li><a href="https://pubs.usgs.gov/of/1996/532/">National Seismic Hazard Maps: Documentation June 1996</a> (OFR 96-532) and <a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/1996/documentation/US1996Figures.zip">Figures from Open-File Report</a> (6 MB Zip file)</li>
 </ul>
 
 <h3>Additional Information</h3>
 <ul>
   <li>
-    <a href="http://pubs.usgs.gov/fs/1996/fs183-96/fs183-96.pdf"
+    <a href="https://pubs.usgs.gov/fs/1996/fs183-96/fs183-96.pdf"
     >Hazard Maps Help Save Lives and Property</a> (USGS Fact Sheet 96-183)</a>
   </li>
   <li>
-    <a href="http://pubs.usgs.gov/of/1996/ofr-96-0723/">Site-Response Maps for the Los Angeles Region Based on Earthquake Ground Motions</a> (USGS OFR 96-723)
+    <a href="https://pubs.usgs.gov/of/1996/ofr-96-0723/">Site-Response Maps for the Los Angeles Region Based on Earthquake Ground Motions</a> (USGS OFR 96-723)
   </li>
   <li>
     <a href="http://pubs.er.usgs.gov/usgspubs/ofr/ofr97464">Preparation of Earthquake Catalogs for the National Seismic-Hazard Maps : Contiguous 48 States</a> (USGS OFR 97-464)

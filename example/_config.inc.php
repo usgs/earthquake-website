@@ -1,7 +1,7 @@
 <?php
 
 // site search url, leave blank for all usgs
-$SITE_URL = 'http://earthquake.usgs.gov';
+$SITE_URL = 'https://earthquake.usgs.gov';
 
 // navigation above search, below section navigation
 $SITE_SITENAV =

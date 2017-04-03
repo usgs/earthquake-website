@@ -1,0 +1,123 @@
+ 
+ 
+ 
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO.  5-02-EXP
+GEOLOGICAL SURVEY                                                                                        JUN 28, 2002
+ 
+                                      ROUTINE MINING SEISMICITY IN THE UNITED STATES
+ 
+                                                          MAY 2002
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  GAP  NO.   F-E REGION, CONTRIBUTED MAGNITUDES AND COMMENTS
+      UTC          COORDINATES                GS               STA                                                
+DAY HR MN SEC     LAT       LONG            mb  MS             USED                                                
+ 
+01  19 10 11.1  44.144 N  105.415 W    0 G           0.8  151   14  WYOMING. ML 2.7 (GS). 10 miles (20 km) SSE of Gillette.
+01  19 29 13.5  40.533 N  112.191 W    0 G           0.5   55   18  UTAH. ML 1.8 (GS). 5 miles (10 km) E of Tooele.
+01  22 15 10.0  41.977 N  108.860 W    0 G           1.1   85   17  WYOMING. ML 2.5 (GS). 30 miles (50 km) NNE of Rock
+                                                                     Springs.
+01  23 50 25.5  39.647 N  110.630 W    0 G           0.5  152   10  UTAH. ML 1.7 (GS). 10 miles (15 km) ENE of Price.
+02  15 54 59.3  41.766 N  110.746 W    0 G           1.2   83   17  WYOMING. ML 1.8 (GS). 35 miles (60 km) NNE of Evanston.
+02  18 08 43.6  41.681 N  108.724 W    0 G           0.9   82   16  WYOMING. ML 2.1 (GS). 25 miles (40 km) ENE of Rock
+                                                                     Springs.
+02  19 59 03.5  36.546 N  108.502 W    0 G           0.8  112    7  NEW MEXICO. ML 2.0 (GS). 20 miles (30 km) SW of
+                                                                     Farmington.
+02  20 13 35.8  44.121 N  105.177 W    0 G           1.0  141   14  WYOMING. ML 3.2 (GS). 20 miles (30 km) SE of Gillette.
+02  22 22 02.3  40.521 N  112.171 W    0 G           0.4  129   11  UTAH. ML 1.6 (GS). 5 miles (10 km) E of Tooele.
+03  17 21 04.7  40.533 N  112.171 W    0 G           0.8   54   19  UTAH. ML 1.9 (GS). 5 miles (10 km) E of Tooele.
+03  18 00 00.4  40.637 N  109.459 W    0 G           0.7  134   11  UTAH. ML 1.9 (GS). 15 miles (20 km) NNE of Vernal.
+03  18 27 10.3  36.592 N  108.400 W    0 G           0.9  149   10  NEW MEXICO. ML 2.3 (GS). 15 miles (20 km) SW of
+                                                                     Farmington.
+03  19 33 37.1  40.526 N  112.184 W    0 G           0.6   55   15  UTAH. ML 1.8 (GS). 5 miles (10 km) E of Tooele.
+03  21 31 37.8  46.695 N  122.778 W    0 G           1.2  123    7  WASHINGTON. ML 1.8 (GS). 10 miles (15 km) E of
+                                                                     Centralia.
+04  17 02 27.9  40.557 N  112.167 W    0 G           0.5   41   23  UTAH. ML 2.1 (GS). 5 miles (10 km) ENE of Tooele, UT.
+04  19 11 31.6  39.658 N  110.653 W    0 G           0.6  163    9  UTAH. ML 1.3 (GS). 10 miles (15 km) ENE of Price.
+04  21 37 10.4  46.694 N  122.802 W    0 G           1.3  125    8  WASHINGTON. ML 2.3 (GS). 5 miles (10 km) ESE of
+                                                                     Centralia.
+04  22 06 57.5  40.306 N  107.765 W    0 G           0.9   72   25  COLORADO. ML 3.1 (GS). 20 miles (30 km) SW of Craig.
+05  15 32 13.6  40.300 N  107.773 W    0 G           0.8   72   24  COLORADO. ML 3.3 (GS). 20 miles (30 km) SW of Craig.
+05  15 39 38.5  40.519 N  112.159 W    0 G           0.4   56   16  UTAH. ML 1.7 (GS). 5 miles (10 km) E ot Tooele.
+05  21 06 30.4  40.522 N  112.168 W    0 G           0.3   65   14  UTAH. ML 1.9 (GS). 10 miles (15 km) E of Tooele.
+05  23 46 33.2  44.087 N  105.352 W    0 G           1.0  145    9  WYOMING. ML 2.5 (GS). 15 miles (25 km) SSE of Gillette.
+06  18 04 24.7  41.695 N  110.627 W    0 G           0.4  139   18  WYOMING. ML 1.9 (GS). 35 miles (55 km) NNE of Evanston.
+06  20 56 08.4  43.806 N  105.146 W    0 G           0.7  132    9  WYOMING. ML 2.4 (GS). 40 miles (60 km) SSE of Gillette.
+06  22 18 52.0  40.251 N  107.790 W    0 G           0.7   67   20  COLORADO. ML 3.2 (GS). 20 miles (35 km) SW of Craig.
+07  18 50 41.4  32.915 N  109.266 W    0 G           0.6  185   10  EASTERN ARIZONA. ML 2.5 (GS). 10 miles (15 km) SSE of
+                                                                     Clifton.
+07  19 44 15.2* 32.979 N  109.327 W    0 G           1.0  180    7  EASTERN ARIZONA. ML 2.4 (GS). 5 miles (10 km) SSW of
+                                                                     Clifton.
+07  22 03 50.5  40.365 N  107.743 W    0 G           0.6   73   29  COLORADO. ML 3.2 (GS). 15 miles (25 km) SW of Craig.
+08  16 36 05.0  40.525 N  112.186 W    0 G           0.6   56   17  UTAH. ML 1.8 (GS). 5 miles (10 km) E of Tooele.
+08  18 05 53.7  43.759 N  104.981 W    0 G           0.7  146   12  WYOMING. ML 2.9 (GS). 40 miles (65 km) W of Newcastle.
+08  20 01 35.7  40.533 N  112.228 W    0 G           0.3  163   10  UTAH. ML 1.5 (GS). Near Tooele.
+09  18 48 38.4  41.791 N  110.663 W    0 G           0.6  138   21  WYOMING. ML 1.9 (GS). 40 miles (65 km) NNE of Evanston.
+09  20 00 32.0  43.670 N  105.180 W    0 G           1.0  123   23  WYOMING. ML 3.2 (GS). 45 miles (75 km) SSE of Gillette.
+09  22 11 52.0  42.935 N  111.459 W    0 G           0.6  133   11  EASTERN IDAHO. ML 1.9 (GS). 30 miles (50 km) WNW of
+                                                                     Afton.
+09  23 20 49.0  33.087 N  109.396 W    0 G           0.9  136   12  EASTERN ARIZONA. ML 2.7 (GS). 5 miles (10 km) WNW of
+                                                                     Clifton.
+10  14 28 25.4  39.629 N  110.676 W    0 G           1.2  116   17  UTAH. ML 1.9 (GS). 5 miles (10 km) ENE of Price.
+10  19 05 45.8  43.612 N  105.296 W    0 G           1.1  114   38  WYOMING. ML 3.7 (GS). 50 miles (75 km) SSE of Gillette.
+10  20 05 33.2* 43.606 N  105.176 W    0 G           1.0  249    9  WYOMING. ML 2.7 (GS). 50 miles (80 km) SSE of Gillette.
+10  21 48 18.0  32.449 N  108.955 W    0 G           1.0  173   12  NEW MEXICO. ML 3.2 (GS). 15 miles (25 km) WNW of
+                                                                     Lordsburg.
+12  01 07 12.8  40.432 N  107.115 W    0 G           1.1  194   26  COLORADO. ML 3.1 (GS). 15 miles (25 km) WSW of
+                                                                     Steamboat Springs.
+12  19 59 54.1  40.549 N  112.173 W    0 G           0.5   56   14  UTAH. ML 1.3 (GS). 5 miles (10 km) ENE of Tooele.
+13  18 06 44.1  40.520 N  112.233 W    0 G           0.3  108    9  UTAH. ML 1.2 (GS). Near Tooele.
+13  21 21 45.2  46.717 N  122.783 W    0 G           1.1  126   11  WASHINGTON. 10 miles (15 km) E of Centralia.
+14  21 50 35.8  44.151 N  105.390 W    0 G           0.9  122   25  WYOMING. ML 3.2 (GS). 10 miles (20 km) SSE of Gillette.
+14  22 21 17.1  43.657 N  105.203 W    0 G           0.7  123   21  WYOMING. ML 3.3 (GS). 45 miles (75 km) SSE of Gillette.
+15  18 22 37.1  41.743 N  108.828 W    0 G           1.3   81   17  WYOMING. ML 2.4 (GS). 20 miles (35 km) ENE of Rock
+                                                                     Springs.
+15  20 28 59.2  32.660 N  109.195 W    0 G           1.2  132   11  EASTERN ARIZONA. ML 2.4 (GS). 30 miles (45 km) SSE of
+                                                                     Clifton.
+17  18 01 28.4  40.346 N  107.789 W    0 G           0.5   72   15  COLORADO. ML 2.3 (GS). 15 miles (30 km) SW of Craig.
+17  19 53 07.1  36.477 N  110.483 W    0 G           0.5   63   20  EASTERN ARIZONA. ML 2.8 (GS). 20 miles (35 km) SW of
+                                                                     Kayenta.
+17  21 19 38.5  44.066 N  105.360 W    0 G           0.8  146   11  WYOMING. ML 2.4 (GS). 20 miles (30 km) SSE of Gillette.
+20  12 56 23.7  44.169 N  105.414 W    0 G           0.7  160   13  WYOMING. ML 2.7 (GS). 10 miles (15 km) SSE of Gillette.
+22  17 34 24.9  41.105 N  112.863 W    0 G           0.5   75   13  UTAH. ML 1.8 (GS). 45 miles (75 km) W of Ogden.
+22  19 45 30.2  40.518 N  112.181 W    0 G           0.7   66   11  UTAH. ML 1.8 (GS). 5 miles (10 km) E of Tooele.
+22  22 05 59.3  40.316 N  107.778 W    0 G           1.1   89   17  COLORADO. ML 2.7 (GS). 20 miles (30 km) SW of Craig.
+23  19 33 12.0  43.617 N  105.252 W    0 G           0.9  124   16  WYOMING. ML 3.1 (GS). 50 miles (75 km) SSE of Gillette.
+23  19 54 46.8  32.749 N  109.231 W    0 G           0.6  195    8  EASTERN ARIZONA. ML 2.5 (GS). 20 miles (35 km) S of
+                                                                     Clifton.
+24  15 11 54.5  40.530 N  112.181 W    0 G           0.5   55   14  UTAH. ML 1.4 (GS). 5 miles (10 km) E of Tooele.
+25  15 43 08.9  40.533 N  112.170 W    0 G           0.4   65   11  UTAH. ML 1.2 (GS). 5 miles (10 km) E of Tooele.
+25  22 09 14.6  44.111 N  105.359 W    0 G           1.1  147   22  WYOMING. ML 3.1 (GS). 15 miles (25 km) SSE of Gillette.
+26  18 04 53.1  43.725 N  105.228 W    0 G           1.1  120   11  WYOMING. ML 3.0 (GS). 40 miles (65 km) SSE of Gillette.
+26  19 14 18.8  40.545 N  112.180 W    0 G           0.8   54   17  UTAH. ML 1.8 (GS). 5 miles (10 km) E of Tooele.
+26  22 17 36.1  42.856 N  111.404 W    0 G           0.6  109   16  EASTERN IDAHO. ML 1.5 (GS). 25 miles (40 km) WNW of
+                                                                     Afton.
+26  23 34 31.0  44.225 N  105.411 W    0 G           0.9  154   10  WYOMING. ML 2.8 (GS). 5 miles (10 km) SE of Gillette.
+
+28  15 11 09.9  40.529 N  112.182 W    0 G           0.3   55   12  UTAH. ML 1.4 (GS). 5 miles (10 km) E of Tooele.
+28  19 00 11.6  41.129 N  112.877 W    0 G           0.5  108   12  UTAH. ML 1.8 (GS). 50 miles (75 km) W of Ogden.
+28  20 55 31.0  41.120 N  112.880 W    0 G           0.4  107   12  UTAH. ML 1.7 (GS). 45 miles (75 km) W of Ogden.
+28  22 10 37.1  40.281 N  107.796 W    0 G           0.5   78   16  COLORADO. ML 2.7 (GS). 20 miles (35 km) SW of Craig.
+28  22 12 50.0  46.779 N  122.700 W    0 G           0.6  132   10  WASHINGTON. ML 2.4 (GS). 15 miles (20 km) ENE of
+                                                                     Centralia.
+28  22 46 56.3  43.643 N  105.353 W    0 G           0.7  120   12  WYOMING. ML 3.0 (GS). 45 miles (75 km) S of Gillette.
+29  18 41 19.6  32.597 N  109.126 W    0 G           1.0  164   12  EASTERN ARIZONA. ML 2.9 (GS). 30 miles (35 km) WNW of
+                                                                     Lordsburg.
+29  20 00 43.2  43.682 N  105.257 W    0 G           1.0  120   20  WYOMING. ML 3.3 (GS). 45 miles (70 km) SSE of Gillette.
+30  20 02 08.4  43.702 N  105.275 W    0 G           1.0  127   13  WYOMING. ML 3.2 (GS). 45 miles (70 km) SSE of Gillette.
+30  21 16 39.5  41.626 N  108.738 W    0 G           0.7   79   22  WYOMING. ML 3.2 (GS). 25 miles (40 km) E of Rock
+                                                                     Springs.
+30  21 35 15.0  33.047 N  109.408 W    0 G           0.6  174   14  EASTERN ARIZONA. ML 2.7 (GS). 5 miles (10 km) W of
+                                                                     Clifton.
+30  23 45 00.1  33.032 N  109.337 W    0 G           0.4  114    7  EASTERN ARIZONA. ML 2.6 (GS). Near Clifton.
+31  16 20 38.1  40.540 N  112.167 W    0 G           0.4   65   10  UTAH. ML 1.2 (GS). 5 miles (10 km) E of Tooele.
+31  17 41 12.6  32.971 N  109.314 W    0 G           0.5  180    8  EASTERN ARIZONA. ML 2.9 (GS). Near Clifton.
+31  19 37 58.6  44.079 N  105.381 W    0 G           0.8  144   24  WYOMING. ML 3.4 (GS). 15 miles (25 km) SSE of Gillette.
+31  19 45 18.1  40.526 N  112.190 W    0 G           0.5   66   10  UTAH. ML 1.1 (GS). 5 miles (10 km) E of Tooele.
+31  20 05 29.3  36.650 N  108.501 W    0 G           1.0  113    9  NEW MEXICO. ML 3.2 (GS). 15 miles (30 km) WSW of
+                                                                     Farmington.
+31  21 54 09.4  44.303 N  105.451 W    0 G           1.0  159   13  WYOMING. ML 3.2 (GS). Near Gillette.
+31  22 03 08.0  40.280 N  107.760 W    0 G           0.8   78   12  COLORADO. ML 3.0 (GS). 20 miles (30 km) SW of Craig.
+
+

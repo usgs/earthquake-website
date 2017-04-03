@@ -1,0 +1,77 @@
+ 
+U.S. DEPARTMENT OF THE INTERIOR                                                                         NO. 11-97-EXP
+GEOLOGICAL SURVEY                                                                                        DEC 30, 1997
+ 
+                                     PROBABLE MINING EXPLOSIONS IN THE UNITED STATES
+ 
+                                                       NOVEMBER 1997
+ 
+ 
+  ORIGIN TIME       GEOGRAPHIC       DEPTH MAGNITUDE  SD  NO.      REGION,  CONTRIBUTED  MAGNITUDES  AND  COMMENTS
+      UTC          COORDINATES                GS          STA
+DAY HR MN SEC     LAT       LONG            MB  Msz       USED
+ 
+02  00 03 47.0  40.188 N  107.804 W    0 G           0.6   14  COLORADO. ML 2.1 (GS). Near Craig.
+02  16 30 31.1  40.528 N  112.162 W    0 G           0.4   15  UTAH. ML 2.1 (GS). Near Copperton.
+02  16 50 11.4  40.486 N  106.848 W    0 G           0.6   16  COLORADO. ML 2.3 (GS). Near Steamboat Springs.
+03  20 10 47.8* 38.056 N   81.156 W    0 G           1.0    5  WEST VIRGINIA. mbLg 3.3 (GS). Near Beckley.
+03  22 10 19.0* 38.019 N   81.286 W    0 G           0.6    7  WEST VIRGINIA. mbLg 2.7 (GS). Near Beckley.
+03  23 07 20.6  40.288 N  107.770 W    0 G           0.7   13  COLORADO. ML 2.0 (GS). Near Craig.
+04  21 24 59.1? 37.73  N   82.00  W    0 G           0.6    7  WEST VIRGINIA. mbLg 2.8 (GS). 15 miles ENE of Williamson.
+04  22 00 19.7  40.529 N  112.181 W    0 G           0.6   15  UTAH. ML 2.1 (GS). Near Copperton.
+05  20 03 23.0? 37.96  N   81.73  W    0 G           0.4    6  WEST VIRGINIA. mbLg 3.1 (GS). 25 miles SSW of Charleston.
+05  20 36 34.0? 31.59  N  108.46  W    0 G           0.5    9  NEW MEXICO-CHIHUAHUA BORDER REG. ML 2.9 (GS). 50 miles WSW
+                                                                of Columbus, New Mexico.
+06  20 37 08.8  40.510 N  112.177 W    0 G           0.6    9  UTAH. ML 2.1 (GS). Near Copperton.
+06  21 32 14.0* 37.435 N   82.198 W    0 G           0.6    5  WEST VIRGINIA. mbLg 3.0 (GS). 15 miles SSE of Williamson.
+06  23 09 11.5  40.302 N  107.755 W    0 G           0.7   17  COLORADO. ML 2.5 (GS). Near Craig.
+07  19 00 01.4  40.495 N  107.093 W    0 G           0.9    9  COLORADO. ML 2.2 (GS). Near Steamboat Springs.
+07  20 57 31.9* 38.445 N   81.354 W    0 G           0.7    7  WEST VIRGINIA. mbLg 3.1 (GS). 15 miles ENE of Charleston.
+07  23 21 29.0  40.302 N  107.801 W    0 G           0.5   13  COLORADO. ML 2.3 (GS). Near Craig.
+08  17 22 55.9  37.798 N   81.657 W    0 G           0.6   11  WEST VIRGINIA. mbLg 3.2 (GS). Near Beckley.
+08  23 02 35.8  40.274 N  107.783 W    0 G           0.5   11  COLORADO. ML 2.1 (GS). Near Craig.
+08  23 05 33.5  40.490 N  106.912 W    0 G           0.5   15  COLORADO. ML 2.4 (GS). Near Steamboat Springs.
+09  16 10 45.1  40.523 N  112.171 W    0 G           0.4   16  UTAH. ML 2.1 (GS). Near Copperton.
+09  19 18 53.0* 42.634 N  107.059 W    0 G           0.9    7  WYOMING. ML 2.1 (GS). E of Jeffrey City.
+09  21 08 25.4  40.519 N  112.173 W    0 G           0.5   17  UTAH. ML 2.2 (GS). Near Copperton.
+09  21 21 30.9  41.779 N  108.786 W    0 G           0.6   14  WYOMING. ML 2.4 (GS). Near Rock Springs.
+10  18 24 46.3  38.470 N   81.113 W    0 G           0.5    7  WEST VIRGINIA. mbLg 2.8 (GS). 30 miles ENE of Charleston.
+10  20 12 09.3  36.590 N  110.391 W    0 G           0.8   10  EASTERN ARIZONA. ML 2.6 (GS). Black Mesa.
+10  23 05 57.7  40.309 N  107.824 W    0 G           0.6   12  COLORADO. ML 2.1 (GS). Near Craig.
+11  00 06 45.7  41.792 N  108.871 W    0 G           0.7   12  WYOMING. ML 2.2 (GS). Near Rock Springs.
+11  17 35 57.8  41.949 N  106.949 W    0 G           0.4    6  WYOMING. ML 2.1 (GS). W of Hanna.
+11  18 27 50.4* 41.823 N  108.503 W    0 G           0.7    9  WYOMING. ML 2.1 (GS). Near Rock Springs.
+12  15 23 59.7* 37.273 N   81.550 W    0 G           0.6    5  WEST VIRGINIA. mbLg 2.5 (GS). 20 km W of Bluefield.
+13  00 00 42.6  41.800 N  108.675 W    0 G           0.6   20  WYOMING. ML 2.4 (GS). Near Rock Springs.
+13  17 57 14.5  42.001 N  106.878 W    0 G           0.5    6  WYOMING. ML 2.1 (GS). W of Hanna.
+14  19 21 41.4? 46.77  N  122.82  W    0 G           0.1    4  WASHINGTON. Near Centralia.
+15  23 15 05.0  41.837 N  108.825 W    0 G           0.4   13  WYOMING. ML 2.2 (GS). Near Rock Springs.
+15  23 18 39.8  40.319 N  107.781 W    0 G           0.6   16  COLORADO. ML 2.9 (GS). Near Craig.
+15  23 23 14.4  40.366 N  107.836 W    0 G           0.6   11  COLORADO. ML 2.3 (GS). Near Craig.
+16  16 29 32.5* 43.522 N  105.064 W    0 G           1.0    7  WYOMING. ML 2.9 (GS). Southern Powder River Basin.
+16  21 38 02.2  43.738 N  105.250 W    0 G           0.6   12  WYOMING. ML 2.9 (GS). Southern Powder River Basin.
+16  23 06 44.9  40.263 N  107.771 W    0 G           0.7   11  COLORADO. ML 2.1 (GS). Near Craig.
+17  17 07 02.4  41.789 N  108.861 W    0 G           0.6   17  WYOMING. ML 2.4 (GS). Near Rock Springs.
+17  20 26 54.3? 31.39  N  108.76  W    0 G           0.6    6  NEW MEXICO-CHIHUAHUA BORDER REG. ML 2.3 (GS). 45 miles E of
+                                                                Douglas, Arizona.
+17  21 08 45.8  43.685 N  105.260 W    0 G           0.6   21  WYOMING. ML 3.4 (GS). Southern Powder River Basin.
+17  22 28 27.3  40.696 N  109.548 W    0 G           0.6   10  UTAH. ML 2.0 (GS). Near Vernal.
+18  16 40 36.2  41.811 N  108.753 W    0 G           0.4   10  WYOMING. ML 2.0 (GS). Near Rock Springs.
+18  17 53 29.8  42.025 N  106.892 W    0 G           0.6   12  WYOMING. ML 2.6 (GS). W of Hanna.
+20  17 45 10.0  40.549 N  112.173 W    0 G           0.6   13  UTAH. ML 2.0 (GS). Near Copperton.
+20  18 29 02.1* 38.073 N   81.694 W    0 G           1.1    6  WEST VIRGINIA. mbLg 3.0 (GS). 20 miles S of Charleston.
+20  22 52 15.7  40.615 N  109.576 W    0 G           0.8   11  UTAH. ML 2.1 (GS). Near Vernal.
+21  16 08 15.7* 43.105 N  105.740 W    0 G           0.6    6  WYOMING. ML 2.4 (GS). NE of Casper.
+21  18 37 50.0  40.546 N  112.215 W    0 G           0.7   19  UTAH. ML 2.0 (GS). Near Copperton.
+21  20 50 26.8* 41.817 N  108.455 W    0 G           0.9   10  WYOMING. ML 2.0 (GS). Near Rock Springs.
+21  21 06 31.1* 32.848 N  109.447 W    0 G           0.5    7  EASTERN ARIZONA. ML 2.1 (GS). 15 miles E of Safford.
+23  20 29 22.5* 35.499 N  108.958 W    0 G           1.3    9  NEW MEXICO. ML 2.0 (GS). Near Gallup.
+23  22 12 15.4  41.853 N  108.677 W    0 G           0.7   21  WYOMING. ML 3.0 (GS). Near Rock Springs.
+25  22 14 16.8  41.769 N  108.814 W    0 G           0.8   17  WYOMING. ML 2.7 (GS). Near Rock Springs.
+26  17 09 04.3* 41.721 N  107.551 W    0 G           0.8    5  WYOMING. ML 2.3 (GS). W of Rawlins.
+26  22 24 26.5? 37.88  N   81.03  W    0 G           0.8    4  WEST VIRGINIA. mbLg 2.4 (GS). Near Beckley.
+26  22 54 28.8* 41.376 N  107.775 W    0 G           1.4    9  WYOMING. ML 2.3 (GS). SW of Rawlins.
+27  16 19 24.3? 31.32  N  108.75  W    0 G           0.5    8  NEW MEXICO-CHIHUAHUA BORDER REG. ML 2.6 (GS). 45 miles E of
+                                                                Douglas, Arizona.
+28  23 00 01.1  40.310 N  107.702 W    0 G           1.0   17  COLORADO. ML 3.1 (GS). Near Craig.
+29  23 05 50.4  40.271 N  107.783 W    0 G           0.8   13  COLORADO. ML 2.3 (GS). Near Craig.

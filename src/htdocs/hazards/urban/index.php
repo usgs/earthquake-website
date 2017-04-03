@@ -17,6 +17,8 @@ if	(!isset($TEMPLATE))	{
 
 <h2 id="ca">California</h2>
 <ul class="no-style linklist">
+
+<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
   <li>
     <a href="/regional/nca/alameda/">
       <h4>Liquefaction Hazard in Oakland, CA</h4>
@@ -32,8 +34,9 @@ if	(!isset($TEMPLATE))	{
       hazard near the eastern shore of San Francisco Bay.
     </p>
   </li>
+  -->
   <li>
-    <a href="/regional/nca/soiltype/">
+    <a href="sfbay/soiltype/">
       <h4>Soil Type and Shaking Hazard in Oakland, CA</h4>
       <img src="images/soiltype.gif" alt="thumbnail of soil type and shaking hazard"/>
     </a>

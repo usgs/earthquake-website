@@ -3,7 +3,14 @@
       //	Contact: Andy Michael
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Rock Type Effects';
-      $HEAD = '<link rel="stylesheet" href="styles.css"/>';
+      $HEAD = '
+        <link rel="stylesheet" href="/lib/hazdev-webutils-0.1.8/hazdev-webutils.css"/>
+        <link rel="stylesheet" href="styles.css"/>
+      ';
+      $FOOT = '
+        <script src="/lib/hazdev-webutils-0.1.8/hazdev-webutils.js"></script>
+        <script src="learnListenModalView.js"></script>
+      ';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
@@ -39,18 +46,23 @@
 <h3>Seismometer One</h3>
 <p>
 	<audio controls>
-		<source src="wavs/pst.wav" type="audio/wav"/>
+		<source src="mp4s/pst.mp4" type="audio/mp4"/>
 	Your browser does not support the audio element.
 	</audio>
 </p>
 <h3>Seismometer Two</h3>
 <p>
 	<audio controls>
-		<source src="wavs/pmm.wav" type="audio/wav"/>
+		<source src="mp4s/pmm.mp4" type="audio/mp4"/>
 	Your browser does not support the audio element.
 	</audio>
 </p>
-<p>
-	Which seismometer was on the solid rock: <a href="answers/pst.php">One </a>
-  or <a href="answers/pmm.php">Two</a>?
-</p>
+<div>
+  <p>
+  	Which seismometer was on the solid rock:
+  </p>
+  <button class="pst" value ="Seiso One" onMouseOver="pst()"> Seisometer One</button>
+  or
+  <button class="pmm" value="Seiso Two" onMouseOver="pmm()">Seisometer Two</button>
+  ?
+</div>

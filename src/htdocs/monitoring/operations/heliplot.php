@@ -67,7 +67,7 @@ if (!isset($TEMPLATE)) {
   Last update:
   <?php
     echo date('F d, Y H:i:s',
-        strtotime(file_get_contents($NETOPS_HELIPLOT_URL . '/tt_update'))
+        strtotime(file_get_contents($NETOPS_HELIPLOT_UPDATE_URL))
       );
   ?>
   UTC

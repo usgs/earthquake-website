@@ -8,7 +8,7 @@ include '../_contributor.inc.php';
   <li><a href="http://www.eas.slu.edu/Earthquake_Center" target="_blank">St. Louis University Earthquake Center</a></li>
 	<li><a href="http://www.geology.ar.gov/geohazards/earthquakes.htm">Arkansas Geological Survey</a></li>
 	<li><a href="http://www.iris.edu/hq/">IRIS</a></li>
-  <li><a href="http://earthquake.usgs.gov/" target="_blank">United States Geological Survey</a></li>
+  <li><a href="https://earthquake.usgs.gov/" target="_blank">United States Geological Survey</a></li>
   <li><a href="http://www.geos.vt.edu/" target="_blank">Virginia Tech Geosciences</a></li>
 
 </ul>

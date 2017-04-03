@@ -3,7 +3,14 @@
       //	Contact: Andy Michael
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Earthquake Fault Length Effects';
-      $HEAD = '<link rel="stylesheet" href="styles.css"/>';
+      $HEAD = '
+        <link rel="stylesheet" href="/lib/hazdev-webutils-0.1.8/hazdev-webutils.css"/>
+        <link rel="stylesheet" href="styles.css"/>
+      ';
+      $FOOT = '
+        <script src="/lib/hazdev-webutils-0.1.8/hazdev-webutils.js"></script>
+        <script src="learnListenModalView.js"></script>
+      ';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
@@ -34,18 +41,23 @@
 <h3>Earthquake One</h3>
 <p>
 	<audio controls>
-		<source src="wavs/petrolia1a.wav" type="audio/wav"/>
+		<source src="mp4s/petrolia1a.mp4" type="audio/mp4"/>
 	Your browser does not support the audio element.
 	</audio>
 </p>
 <h3>Earthquake Two</h3>
 <p>
 	<audio controls>
-		<source src="wavs/petrolia2a.wav" type="audio/wav"/>
+		<source src="mp4s/petrolia2a.mp4" type="audio/mp4"/>
 	Your browser does not support the audio element.
 	</audio>
 </p>
-<p>
-  Which earthquake had the shorter fault: <a href="answers/p1.php">One </a>
-  or <a href="answers/p2.php">Two</a>?
-</p>
+<div>
+  <p>
+    Which earthquake had the shorter fault:
+  </p>
+  <button class="p1" value="Earthquake One" onMouseOver="p1()">Earthquake One</button>
+  or
+  <button class="p2" value="Earthquake Two" onMouseOver="p2()">Earthquake Two</button>
+  ?
+</div>

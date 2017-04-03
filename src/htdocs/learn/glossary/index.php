@@ -8,68 +8,48 @@
     include 'template.inc.php';
   }
 
-  include_once '/etc/puppet/EHPServer.class.php';
-  $pdo = EHPServer::getDatabase('earthquake');
-
+  include_once "functions.glossary.inc.php";
   //defaults
   $alpha = "";
   $term = "";
-  $termID = "";
+  $termid = "";
 
-  $statement = $pdo->prepare("
-      SELECT id, term
-      from glossary
-      ORDER BY term");
+  include_once '/etc/puppet/EHPServer.class.php';
+  $pdo = EHPServer::getDatabase('earthquake');
 
-  try {
-    // use bound parameter names
-    $statement->execute(array(
-    ));
+  //check url for term
+	if(isset($_GET['term'])) {
+		$term = $_GET['term'];
+	}
 
-    while ($row = $statement->fetch(PDO::FETCH_ASSOC)) {
-      echo '<a href="index.php?termID=' .$row['id']. '">'. $row['term'].'</a><br/>';
-    }
+	//check url for termid last
+	if(isset($_GET['termID'])) {
+		$termid = $_GET['termID'];
+	} elseif (isset($_GET['termid'])) {
+		$termid = $_GET['termid'];
+	}
 
-    // must close cursor before calling execute again
-    $statement->closeCursor();
+	$row = glossary_term($term, $termid, $pdo);
+
+  //check for alpha
+  if(isset($_GET['alpha'])) {
+    $alpha = $_GET['alpha'];
   }
 
-  catch (PDOException $e) {
-    // don't output this on prod...
-  print_r($e);
+  //if needed, update title
+  if(sizeof($row) != 0) {
+    $term = $row['term'];
+    $TITLE .= " - $term";
   }
 
-  // free prepared statement
-  $statement = null;
+  $nav = "<div id=\"glossary-nav\">" . glossary_navigation() . "</div>\n";
 
-  // close database connection
-  $pdo = null;
-
-?>
-
-<?php
-/*
-*********************OLD CODE*******************************************
-
-
-
-$row = glossary_term($term, $termid, $db);
-
-
-//check for alpha
-if(isset($_GET['alpha'])) {
-  $alpha = $_GET['alpha'];
-}
-
-    //actual display
-    $nav = "<div id=\"glossary-nav\">" . glossary_navigation() . "</div>\n";
-    $row = glossary_term($term, $termid, $db);
-
+    $row = glossary_term($term, $termid, $pdo);
     if(sizeof($row)) {
-      print $nav . glossary_term_navigation($row['term'], $db) . "<br />";
+      print $nav . glossary_term_navigation($row['term'], $pdo) . "<br />";
 
       //display term
-      print display_glossary_term($row, $db);
+      print display_glossary_term($row, $pdo);
 
     } else {
       //display index
@@ -80,9 +60,11 @@ if(isset($_GET['alpha'])) {
 
       $alpha = strtoupper($alpha);
       print preg_replace( "/^(.*)<a href=\".*?=$alpha\">(.*?)<\/a>(.*)$/", "$1<strong>$2</strong>$3", $nav );
-      print "<hr/>";
+      //print "<hr />";
       print $index;
     }
 
+    // close database connection
+    $pdo = null;
+
 ?>
-  */

@@ -75,7 +75,7 @@ if (isSet($_POST['submit'])) { // user submitted form
     </ul>';
 
   // Email alert
-  $admin = 'shane@usgs.gov';
+  $admin = 'shane@usgs.gov, garcia@usgs.gov, shaefner@usgs.gov';
   //$admin = 'shaefner@usgs.gov';
   $headers = "MIME-Version: 1.0" . "\r\n";
   $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
@@ -106,6 +106,9 @@ if (isSet($_POST['submit'])) { // user submitted form
       our scientific goals and promote earthquake hazard products in Northern
       California.</p>
 
+    <h3>Agenda</h3>
+    <p><a href="Earthquake-Hazards-Workshop-Agenda.pdf">Agenda</a> (Adobe .pdf file)</p>
+
     <h3>Tentative Sessions</h3>
     <ul>
       <li>Earthquake sources, liquefaction, and landslides in the South Bay</li>
@@ -117,14 +120,6 @@ if (isSet($_POST['submit'])) { // user submitted form
       <li>Unmanned aerial vehicles for earthquake response</li>
     </ul>
 
-    <!--
-
-    <ul>
-    <li><a href="Agenda-2017.pdf">Agenda</a> (Adobe .pdf file)</li>
-    </ul>
-
-    -->
-
     <p>All researchers are encouraged to present a poster on their work related
       to the seismic hazards and risk in Northern California. Researchers with
       NEHRP external grants funded for FY16 and FY17 are especially encouraged
@@ -135,16 +130,20 @@ if (isSet($_POST['submit'])) { // user submitted form
       earthquake hazards and risk in Northern California.</p>
   </div>
   <div class="two-of-five column">
+    <h3>NASA Campus Map</h3>
     <figure>
       <a href="http://www.nasa.gov/images/content/530289main_NRP_map_full.jpg">
         <img src="nasa-map.jpg" alt="NASA Campus Map" />
       </a>
-      <figcaption>NASA Campus Map</figcaption>
     </figure>
-    <p>Public Transport:</p>
+    <h3>Public Transport</h3>
     <ul>
       <li><a href="http://www.caltrain.com/">Caltrain</a></li>
       <li><a href="http://www.vta.org/">VTA Light Rail</a></li>
+      <li><a href="NASA-Ames-Shuttle-Service.pdf">NASA Shuttle Schedule</a> (Adobe .pdf file)<br />
+      The NASA Shuttle is open to anyone with a government ID. For non-government
+      attendees, <a href="http://www.vta.org/routes/rt81">VTA route 81</a> runs
+      between Moffett Field and the Caltrain station</li>
     </ul>
   </div>
 </div>
@@ -155,6 +154,31 @@ if (isSet($_POST['submit'])) { // user submitted form
     return;
   }
 ?>
+
+<h3>Lodging</h3>
+
+<ul class="no-style lodging">
+  <li>The Exchange Lodge<br />
+  North Akron Building N19 Moffett Field, CA 94035<br />
+  (650) 603-7100<br />
+  RATE: $55&ndash;$65</li>
+  <li>Navy Lodge<br />
+  593 Vernon Ave, Mountain View, CA 94043<br />
+  (650) 962-1542  (outside of the base)<br />
+  RATE:  $99/night (50 rooms)</li>
+  <li>Ramada Mountain View<br />
+  55 Fairchild Dr, Mountain View, CA 94043<br />
+  (650) 967-6856<br />
+  RATE:  $259-279; Govt rate: $206 (no shuttle)</li>
+  <li>Quality Inn &amp; Suites at NASA Ames<br />
+  5 Fairchild Dr., Mountain View, CA 94043<br />
+  (650) 934-0155<br />
+  RATE:  $249; Govt rate: $223 (no shuttle)</li>
+  <li>County Inn (3.3 Stars)<br />
+  850 Leong Dr., Mountain View, CA 94043<br />
+  (650) 961-1131<br />
+  RATE:  $219; no Govt rate (no shuttle)</li>
+</ul>
 
 <h3>Registration Form</h3>
 
@@ -169,7 +193,7 @@ if (isSet($_POST['submit'])) { // user submitted form
 
 <p><span class="required">*</span> = Required</p>
 
-<form action="https://earthquake.usgs.gov/contactus/menlo/workshop/" 
+<form action="https://earthquake.usgs.gov/contactus/menlo/workshop/"
   name="workshop" id="workshop" method="post" enctype="application/x-www-form-urlencoded">
 
   <fieldset form="workshop">
@@ -247,4 +271,4 @@ if (isSet($_POST['submit'])) { // user submitted form
 
 </form>
 
-<p class="privacy"><a href="http://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>
+<p class="privacy"><a href="https://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>

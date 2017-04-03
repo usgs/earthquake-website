@@ -4,7 +4,7 @@
   <h3>Collaborator Links</h3>
   <ul>
     <li>
-      <a href="http://earthquake.usgs.gov/monitoring/gsn/">
+      <a href="https://earthquake.usgs.gov/monitoring/gsn/">
         USGS GSN Program
       </a>
     </li>
