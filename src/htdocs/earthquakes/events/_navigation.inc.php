@@ -12,6 +12,7 @@
     navItem("${section}/1857sca/", "The Great M7.9 1857 Fort Tejon Earthquake") .
     navItem("${section}/1811-1812newmadrid/", "The New Madrid Earthquakes 1811-1812") ,
     navItem("${section}/1989lomaprieta/", "October 17, 1989 Loma Prieta Earthquake") ,
+    navItem("${section}/1868calif/virtualtour" "A Virtual Tour of the 1868 Hayward Earthquake in Google Earth"
 
   "</section>"
   ;
