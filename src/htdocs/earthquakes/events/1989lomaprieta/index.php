@@ -8,7 +8,8 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 <p>On October 17, 1989, at 5:04:15 p.m. (PDT), a magnitude 6.9 earthquake severely shook the San Francisco and Monterey Bay regions. The epicenter was located near Loma Prieta peak in the Santa Cruz Mountains, approximately 14 km (9 mi) northeast of Santa Cruz and 96 km (60 mi) south-southeast of San Francisco.</p>
-<blockquote>The 1989 Loma Prieta earthquake ended decades of tranquility in the San Francisco Bay region. It was a wakeup call to prepare for the potentially even more devastating shocks that are inevitable in the future. Since 1989, the work of the U.S. Geological Survey and other organizations has improved understanding of the seismic threat in the Bay region, promoted awareness of earthquake hazards, and contributed to more effective strategies to reduce earthquake losses. These efforts will help reduce the impact of future large quakes in the San Francisco Bay region.
+<blockquote class="alert info no-icon">
+  The 1989 Loma Prieta earthquake ended decades of tranquility in the San Francisco Bay region. It was a wakeup call to prepare for the potentially even more devastating shocks that are inevitable in the future. Since 1989, the work of the U.S. Geological Survey and other organizations has improved understanding of the seismic threat in the Bay region, promoted awareness of earthquake hazards, and contributed to more effective strategies to reduce earthquake losses. These efforts will help reduce the impact of future large quakes in the San Francisco Bay region.
 	<cite>Robert Page, U.S. Geological Survey</cite>
 </blockquote>
 
