@@ -8,13 +8,13 @@ if (!isset($TEMPLATE)){
 }
 ?>
 
-<p class="alert">
+<blockquote class="alert info no-icon">
 	Because of its location in the heart of the Bay Area, then having a total
 	population of about 260,000, and its magnitude, variously estimated as
 	between 6.8 and 7.0, this earthquake was one of the most destructive in
 	California history. Property loss was extensive and 30 people were killed.
 	<a href="/regional/states/events/1868_10_21.php">Read more</a> &raquo;
-</p>
+</blockquote>
 
 <ul class="no-style linklist separator">
   <li>
