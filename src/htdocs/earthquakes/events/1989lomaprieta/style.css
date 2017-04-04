@@ -24,6 +24,11 @@ ol.papers li {
   margin-top: 0;
 }
 
+.linklist img {
+  width: 150px;
+}
+
+
 #seealso {
 	padding-top: 2em;
 	clear: both;
