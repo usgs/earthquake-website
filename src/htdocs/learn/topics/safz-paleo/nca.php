@@ -10,7 +10,7 @@
 ?>
 
 <figure>
-  <img src='images/norcal.jpg' alt='Northern CA map'/>
+  <img src='images/nca.gif' alt='Northern CA map'/>
   <figcaption>
     Map of faults in northern California. Bold numbers show the average time between big earthquakes, determined at paleoseismic sites (triangles). Thick red lines show the extent of historic ruptures. (Kate Scharer, USGS)
   </figcaption>
