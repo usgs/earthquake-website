@@ -3,7 +3,7 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'April 18, 1906 San Francisco Earthquake';
   $HEAD = '<link rel="stylesheet" href="style.css" />';
-  $FOOT = '';
+  $NAVIGATION  = true;
 
   include 'template.inc.php';
 }
