@@ -36,7 +36,7 @@ if (!isset($TEMPLATE)){
 <ul class="no-style linklist separator">
 	<li>
 		<h3><a & href = "virtualtour/"/a></h3>
-		<img src="/regional/nca/1906/googleearth.jpg" alt=""/>
+		<img src="images/googleearth.jpg" alt=""/>
 		<h3><a & href = "virtualtour/"/a>Virtual Tour of the 1868 Hayward Earthquake in Google Earth&trade;</a></h3>
 		<p>Interactive self-guided tour of San Francisco Bay Area faults and
 	  earthquake history featuring ground-shaking maps, historic photographs,
@@ -53,7 +53,7 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<h3><a & href = "/regional/nca/simulations/hayward/"/a></h3>
-			<img src="images/hayward.jpg" alt=""/>
+			<img src="images/hayward-1.jpg" alt=""/>
 		<h3><a & href = "/regional/nca/simulations/hayward/"/a>Active Traces of the Hayward Fault</h3></a>
 		<p>Map showing active fault traces within the Hayward Fault Zone, including
 		a virtual tour of the Hayward fault in the east San Francisco Bay Region
