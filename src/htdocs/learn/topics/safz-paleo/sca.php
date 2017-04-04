@@ -11,7 +11,7 @@
 ?>
 
 <figure>
-  <img src='images/socal.jpg' alt='Southern CA map'/>
+  <img src='images/sca.gif' alt='Southern CA map'/>
   <figcaption>
     Map of faults in southern California. Bold numbers show the average time between big earthquakes, determined at paleoseismic sites (triangles). Thick red lines show the extent of historic ruptures. (Kate Scharer, USGS)
   </figcaption>
