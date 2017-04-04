@@ -1,3 +1,7 @@
+.linklist img {
+  width: 150px;
+}
+
 blockquote {
   margin: 2em 3em;
   padding: .5em .75em;

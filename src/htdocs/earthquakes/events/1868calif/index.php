@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)){
   $TITLE='October 21, 1868 Hayward Fault Earthquake';
-  $HEAD='';
+  $HEAD='<link rel="stylesheet" href="style.css" />';
   $FOOT='';
   $NAVIGATION=true;
   include 'template.inc.php';

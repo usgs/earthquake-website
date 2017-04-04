@@ -8,6 +8,10 @@
   font-family: Georgia;
 }
 
+.linklist img {
+  width: 150px;
+}
+
 .disclaimer {
   padding-top: 1em;
 }
