@@ -3,7 +3,7 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'April 18, 1906 San Francisco Earthquake';
   $HEAD = '<link rel="stylesheet" href="style.css" />';
-  $FOOT = '';
+  $NAVIGATION  = true;
 
   include 'template.inc.php';
 }
@@ -21,7 +21,7 @@ if (!isset($TEMPLATE)) {
     <p>Interactive tour of San Francisco Bay Area faults and earthquake history featuring ground-shaking maps, historic photographs, quotes from earthquake survivors, and more.</p>
   </li>
   <li>
-    <a href="/learn/topics/shakingsimulations/">
+    <a href="/learn/topics/shakingsimulations/1906/">
       <h3>1906 Ground Motion Simulations</h3>
       <img src="img/simulations.jpg" alt="Earthquake simulation">
     </a>
