@@ -83,13 +83,6 @@
         </a>
         <p>This short video gives an overview of the USGS Menlo Park Science Center in California. It briefly introduces you to the San Francisco Bay Area, shows the campus and facilities, and includes interviews with scientists describing their work.</p>
       </li>
-      <li>
-        <a href="/regional/nca/ucerf/">
-          <h4>2008 Bay Area Earthquake Probabilities</h4>
-          <img src="images/ucerf-2x.jpg" alt="probability map" width="150" />
-        </a>
-        <p>The probability of a magnitude 6.7 or greater earthquake in the Greater Bay Area is 63%, about 2 out of 3, in the next 30 years.</p>
-      </li>
 -->
 </ul>
 
@@ -100,12 +93,10 @@
     <h2>Regional interest</h2>
 
     <ul>
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-      <li><a href="/regional/nca/1989/">October 17, 1989 Loma Prieta Earthquake</a></li>
-      <li><a href="/regional/nca/1906/">April 18, 1906 San Francisco Earthquake</a></li>
-      <li><a href="/regional/nca/1868/">October 21, 1868 Hayward Fault Earthquake</a></li>
+      <li><a href="/earthquakes/events/1989lomaprieta/">October 17, 1989 Loma Prieta Earthquake</a></li>
+      <li><a href="/earthquakes/events/1906calif/">April 18, 1906 San Francisco Earthquake</a></li>
+      <li><a href="/earthquakes/events/1868calif/">October 21, 1868 Hayward Fault Earthquake</a></li>
       <li><a href="/regional/nca/haywardfault/">Digital Map of the Hayward Fault</a></li>
--->
       <li><a href="http://bayquakealliance.org/howclose/">How Close to a Fault Do You Live? Interactive Map</a></li>
       <li><a href="https://pubs.usgs.gov/sim/2004/2848/">Earthquakes and Faults in the San Francisco Bay Area</a></li>
 <!--
@@ -114,9 +105,7 @@
 -->
 
       <li><a href="/learn/topics/hayward_paleo/">Hayward Fault Paleoseismology</a></li>
-<!--
       <li><a href="/data/3dgeologic/">3D Geologic and Seismic Velocity Model of the San Francisco Bay Region</a></li>
--->
       <li><a href="/data/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>
 
 <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
