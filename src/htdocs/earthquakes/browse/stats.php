@@ -3,19 +3,13 @@
   // Contact: Paul Earle,
   // Last modified: 03/01/2016
   if (!isset($TEMPLATE)) {
-      $TITLE = 'Earthquake Statistics';
-      $FOOT =
-          '<script src="stats.js" type="text/javascript"></script>';
-      $NAVIGATION = true;
-      include 'template.inc.php';
+  $TITLE = 'Earthquake Statistics';
+  $NAVIGATION = true;
+  include 'template.inc.php';
   }
 ?>
-<noscript>
-  This page requires javascript.
-  Please enable javascript and refresh, or
-    <a href="/earthquakes/search/">use the Earthquake Search</a>.
-</noscript>
 
+<h2>Worldwide Earthquakes 2000&ndash;2015</h2>
 <div class="horizontal-scrolling">
   <table>
 
@@ -44,402 +38,34 @@
     <tbody>
       <tr>
         <th scope="row">8.0+</th>
-        <td id = "2000_8.0_world">
-          <!--<script>
-            var options = [2000, 8.0, "2000_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id = "2001_8.0_world">
-          <!--<script>
-            options = [2001, 8.0, "2001_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id = "2002_8.0_world">
-          <!--<script>
-            options = [2002, 8.0, "2002_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2003_8.0_world">
-          <!--<script>
-            options = [2003, 8.0, "2003_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2004_8.0_world">
-          <!--<script>
-            options = [2004, 8.0, "2004_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2005_8.0_world">
-          <!--<script>
-            options = [2005, 8.0, "2005_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2006_8.0_world">
-          <!--<script>
-            options = [2006, 8.0, "2006_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2007_8.0_world">
-          <!--<script>
-            options = [2007, 8.0, "2007_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2008_8.0_world">
-          <!--<script>
-            options = [2008, 8.0, "2008_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2009_8.0_world">
-          <!--<script>
-            options = [2009, 8.0, "2009_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2010_8.0_world">
-          <!--<script>
-            options = [2010, 8.0, "2010_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2011_8.0_world">
-          <!--<script>
-            options = [2011, 8.0, "2011_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2012_8.0_world">
-          <!--<script>
-            options = [2012, 8.0, "2012_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2013_8.0_world">
-          <!--<script>
-            options = [2013, 8.0, "2013_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2014_8.0_world">
-          <!--<script>
-            options = [2014, 8.0, "2014_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2015_8.0_world">
-          <!--<script>
-            options = [2015, 8.0, "2015_8.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
+        <td>1</td><td>1</td><td>0</td><td>1</td><td>2</td>
+        <td>1</td><td>2</td><td>4</td><td>0</td><td>1</td>
+        <td>1</td><td>1</td><td>2</td><td>2</td><td>1</td>
+        <td>1</td>
       </tr>
 
       <tr>
         <th scope="row">7&ndash;7.9</th>
-        <td id="2000_7.0_world">
-          <!--<script>
-            options = [2000, 7.0, "2000_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2001_7.0_world">
-          <!--<script>
-            options = [2001, 7.0, "2001_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2002_7.0_world">
-          <!--<script>
-            options = [2002, 7.0, "2002_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2003_7.0_world">
-          <!--<script>
-            options = [2003, 7.0, "2003_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2004_7.0_world">
-          <!--<script>
-            options = [2004, 7.0, "2004_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2005_7.0_world">
-          <!--<script>
-            options = [2005, 7.0, "2005_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2006_7.0_world">
-          <!--<script>
-            options = [2006, 7.0, "2006_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2007_7.0_world">
-          <!--<script>
-            options = [2007, 7.0, "2007_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2008_7.0_world">
-          <!--<script>
-            options = [2008, 7.0, "2008_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2009_7.0_world">
-          <!--<script>
-            options = [2009, 7.0, "2009_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2010_7.0_world">
-          <!--<script>
-            options = [2010, 7.0, "2010_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2011_7.0_world">
-          <!--<script>
-            options = [2011, 7.0, "2011_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2012_7.0_world">
-          <!--<script>
-            options = [2012, 7.0, "2012_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2013_7.0_world">
-          <!--<script>
-            options = [2013, 7.0, "2013_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2014_7.0_world">
-          <!--<script>
-            options = [2014, 7.0, "2014_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2015_7.0_world">
-          <!--<script>
-            options = [2015, 7.0, "2015_7.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
+        <td>14</td><td>15</td><td>13</td><td>14</td><td>14</td>
+        <td>10</td><td> 9</td><td>14</td><td>12</td><td>16</td>
+        <td>23</td><td>19</td><td>12</td><td>17</td><td>11</td>
+        <td>18</td>
       </tr>
 
       <tr>
         <th scope="row">6&ndash;6.9</th>
-        <td id="2000_6.0_world">
-          <!--<script>
-            options = [2000, 6.0, "2000_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2001_6.0_world">
-          <!--<script>
-            options = [2001, 6.0, "2001_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2002_6.0_world">
-          <!--<script>
-            options = [2002, 6.0, "2002_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2003_6.0_world">
-          <!--<script>
-            options = [2003, 6.0, "2003_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2004_6.0_world">
-          <!--<script>
-            options = [2004, 6.0, "2004_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2005_6.0_world">
-          <!--<script>
-            options = [2005, 6.0, "2005_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2006_6.0_world">
-          <!--<script>
-            options = [2006, 6.0, "2006_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2007_6.0_world">
-          <!--<script>
-            options = [2007, 6.0, "2007_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2008_6.0_world">
-          <!--<script>
-            options = [2008, 6.0, "2008_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2009_6.0_world">
-          <!--<script>
-            options = [2009, 6.0, "2009_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2010_6.0_world">
-          <!--<script>
-            options = [2010, 6.0, "2010_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2011_6.0_world">
-          <!--<script>
-            options = [2011, 6.0, "2011_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2012_6.0_world">
-          <!--<script>
-            options = [2012, 6.0, "2012_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2013_6.0_world">
-          <!--<script>
-            options = [2013, 6.0, "2013_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2014_6.0_world">
-          <!--<script>
-            options = [2014, 6.0, "2014_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2015_6.0_world">
-          <!--<script>
-            options = [2015, 6.0, "2015_6.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
+        <td>146</td><td>121</td><td>127</td><td>140</td><td>141</td>
+        <td>140</td><td>142</td><td>178</td><td>168</td><td>144</td>
+        <td>150</td><td>185</td><td>108</td><td>123</td><td>143</td>
+        <td>127</td>
       </tr>
 
       <tr>
         <th scope="row">5&ndash;5.9</th>
-        <td id="2000_5.0_world">
-          <!--<script>
-            options = [2000, 5.0, "2000_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2001_5.0_world">
-          <!--<script>
-            options = [2001, 5.0, "2001_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2002_5.0_world">
-          <!--<script>
-            options = [2002, 5.0, "2002_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2003_5.0_world">
-          <!--<script>
-            options = [2003, 5.0, "2003_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2004_5.0_world">
-          <!--<script>
-            options = [2004, 5.0, "2004_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2005_5.0_world">
-          <!--<script>
-            options = [2005, 5.0, "2005_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2006_5.0_world">
-          <!--<script>
-            options = [2006, 5.0, "2006_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2007_5.0_world">
-          <!--<script>
-            options = [2007, 5.0, "2007_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2008_5.0_world">
-          <!--<script>
-            options = [2008, 5.0, "2008_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2009_5.0_world">
-          <!--<script>
-            options = [2009, 5.0, "2009_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2010_5.0_world">
-          <!--<script>
-            options = [2010, 5.0, "2010_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2011_5.0_world">
-          <!--<script>
-            options = [2011, 5.0, "2011_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2012_5.0_world">
-          <!--<script>
-            options = [2012, 5.0, "2012_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2013_5.0_world">
-          <!--<script>
-            options = [2013, 5.0, "2013_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2014_5.0_world">
-          <!--<script>
-            options = [2014, 5.0, "2014_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
-        <td id="2015_5.0_world">
-          <!--<script>
-            options = [2015, 5.0, "2015_5.0_world"];
-          </script>
-          <script src="stats.js" type="text/javascript"></script>-->
-        </td>
+        <td>1344</td><td>1224</td><td>1201</td><td>1203</td><td>1515</td>
+        <td>1693</td><td>1712</td><td>2074</td><td>1768</td><td>1896</td>
+        <td>2209</td><td>2276</td><td>1401</td><td>1453</td><td>1574</td>
+        <td>1419</td>
       </tr>
 
       <tr >
@@ -481,87 +107,37 @@
 
       <tr>
         <th scope="row">8+</th>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
+        <td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+        <td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+        <td>0</td><td>0</td><td>0</td>
       </tr>
 
       <tr>
         <th scope="row">7&ndash;7.9</th>
-        <td>0</td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
-        <td>0</td>
-        <td>1</td>
-        <td>0</td>
-        <td>1</td>
-        <td>0</td>
-        <td>0</td>
-        <td>1</td>
-        <td>1</td>
-        <td>0</td>
+        <td>0</td><td>1</td><td>1</td><td>2</td><td>0</td>
+        <td>1</td><td>0</td><td>1</td><td>0</td><td>0</td>
+        <td>1</td><td>1</td><td>0</td>
       </tr>
 
       <tr>
         <th scope="row">6&ndash;6.9</th>
-        <td>6</td>
-        <td>5</td>
-        <td>4</td>
-        <td>7</td>
-        <td>2</td>
-        <td>4</td>
-        <td>7</td>
-        <td>9</td>
-        <td>9</td>
-        <td>4</td>
-        <td>8</td>
-        <td>3</td>
-        <td>5</td>
+        <td>6</td><td>5</td><td>4</td><td>7</td><td>2</td>
+        <td>4</td><td>7</td><td>9</td><td>9</td><td>4</td>
+        <td>8</td><td>3</td><td>5</td>
       </tr>
 
       <tr>
         <th scope="row">5&ndash;5.9</th>
-        <td>63</td>
-        <td>41</td>
-        <td>63</td>
-        <td>54</td>
-        <td>25</td>
-        <td>47</td>
-        <td>51</td>
-        <td>72</td>
-        <td>85</td>
-        <td>58</td>
-        <td>89</td>
-        <td>51</td>
-        <td>27</td>
+        <td>63</td><td>41</td><td>63</td><td>54</td><td>25</td>
+        <td>47</td><td>51</td><td>72</td><td>85</td><td>58</td>
+        <td>89</td><td>51</td><td>27</td>
       </tr>
 
       <tr >
         <th scope="row">Estimated<br/>Deaths</th>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>2</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
-        <td>0</td>
+        <td>0</td><td>0</td><td>0</td><td>2</td><td>0</td>
+        <td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+        <td>0</td><td>0</td><td>0</td>
       </tr>
 
     </tbody>
@@ -591,58 +167,26 @@
   <tbody>
     <tr>
       <th scope="row"> 8+</th>
-      <td id = "1990_8.0_world"></td>
-      <td id = "1991_8.0_world"></td>
-      <td id = "1992_8.0_world"></td>
-      <td id = "1993_8.0_world"></td>
-      <td id = "1994_8.0_world"></td>
-      <td id = "1995_8.0_world"></td>
-      <td id = "1996_8.0_world"></td>
-      <td id = "1997_8.0_world"></td>
-      <td id = "1998_8.0_world"></td>
-      <td id = "1999_8.0_world"></td>
+      <td> 0</td><td> 0</td><td> 0</td><td> 0</td><td> 2</td>
+      <td> 2</td><td> 1</td><td> 0</td><td> 1</td><td> 0</td>
     </tr>
 
     <tr>
       <th scope="row">7&ndash;7.9</th>
-      <td id = "1990_7.0_world"></td>
-      <td id = "1991_7.0_world"></td>
-      <td id = "1992_7.0_world"></td>
-      <td id = "1993_7.0_world"></td>
-      <td id = "1994_7.0_world"></td>
-      <td id = "1995_7.0_world"></td>
-      <td id = "1996_7.0_world"></td>
-      <td id = "1997_7.0_world"></td>
-      <td id = "1998_7.0_world"></td>
-      <td id = "1999_7.0_world"></td>
+      <td>18</td><td>16</td><td> 13</td><td> 12</td><td> 11</td>
+      <td> 18</td><td> 14</td><td> 16</td><td> 11</td><td> 18</td>
     </tr>
 
     <tr>
       <th scope="row">6&ndash;6.9</th>
-      <td id = "1990_6.0_world"></td>
-      <td id = "1991_6.0_world"></td>
-      <td id = "1992_6.0_world"></td>
-      <td id = "1993_6.0_world"></td>
-      <td id = "1994_6.0_world"></td>
-      <td id = "1995_6.0_world"></td>
-      <td id = "1996_6.0_world"></td>
-      <td id = "1997_6.0_world"></td>
-      <td id = "1998_6.0_world"></td>
-      <td id = "1999_6.0_world"></td>
+      <td>109</td><td> 96</td><td> 166</td><td> 137</td><td> 146</td>
+      <td>183</td><td> 149</td><td> 120</td><td> 117</td><td> 116</td>
     </tr>
 
     <tr>
       <th scope="row">5&ndash;5.9</th>
-      <td id = "1990_5.0_world"></td>
-      <td id = "1991_5.0_world"></td>
-      <td id = "1992_5.0_world"></td>
-      <td id = "1993_5.0_world"></td>
-      <td id = "1994_5.0_world"></td>
-      <td id = "1995_5.0_world"></td>
-      <td id = "1996_5.0_world"></td>
-      <td id = "1997_5.0_world"></td>
-      <td id = "1998_5.0_world"></td>
-      <td id = "1999_5.0_world"></td>
+      <td> 1617</td><td> 1457</td><td> 1498</td><td> 1426</td><td> 1542</td>
+      <td> 1318</td><td> 1222</td><td> 1113</td><td> 979</td><td> 1104</td>
     </tr>
 
     <tr>
