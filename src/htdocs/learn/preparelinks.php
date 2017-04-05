@@ -16,8 +16,7 @@
 			$statement = $pdo->prepare("
 				SELECT m.id, m.link, m.name, m.description, m.organization
 				FROM learn_Main m
-				WHERE approve='yes'
-				AND
+        WHERE
 				EXISTS(
 					SELECT * FROM learn_LinkTopic lt
 					WHERE lt.topicID=:topicID AND lt.linkID=m.id)
