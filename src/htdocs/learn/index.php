@@ -4,6 +4,16 @@
   if (!isset($TEMPLATE)) {
     $TITLE = 'Learn';
     $NAVIGATION = false;
+    $HEAD = '
+      <link rel="stylesheet" href="/lib/leaflet-0.7.7/leaflet.css"/>
+      <link rel="stylesheet" href="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.css"/>
+    ';
+    $FOOT = '
+      <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
+      <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
+      <script src="/lib/hazdev-webutils-0.1.8/hazdev-webutils.js"></script>
+      <script src="today/index.js"></script>
+    ';
     include 'template.inc.php';
   }
 ?>
