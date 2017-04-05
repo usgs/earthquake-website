@@ -38,17 +38,21 @@ echo "
         return;
       }
         //print out data
+        $scriptIDArray = [];
+        $scriptClassArray = [];
         while ($fact = $query->fetch(PDO::FETCH_ASSOC)) {
           $mag = $fact['magnitude'];
-          $country = $fact['country'];
+          $country = $fact['location'];
+          $scriptIDArray[] = $country;
           $year = $fact['year'];
-          $image = $fact['image'];
           $comment = $fact['comment'];
+          $name = "map_" . $fact['country'];
+          $scriptClassArray[] = $name;
 					  echo sprintf('<h3 style="color:black">M%s - %s, %s</h3>',
                         $mag,
 												(strpos($country,':'))?substr($country,strpos($country, ':')+1):$country,
 												$year);
-							echo '<figure class="left">' . $image . '</figure>';
+              echo '<div id="' . $name . '" style="height:300px;max-width:100%;margin:20px 0px"></div>';
 						echo '<p>' . $comment . '</p>';
         }
 
@@ -68,3 +72,8 @@ echo "
     <a href=\"today/\">Today in Earthquake History</a>
   </p>
 ";
+
+echo '<script type="text/javascript">
+        var scriptIDArray = ' . json_encode($scriptIDArray) . ';
+        var scriptClassArray = ' . json_encode($scriptClassArray) . ';
+      </script>';
