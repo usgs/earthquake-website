@@ -10,11 +10,11 @@ if (!isset($TEMPLATE)) {
 include_once ('_functions.inc.php');
 
 ?>
-<ul class="no-style separator">
+<ul class="no-style">
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/Epicenter_tile.jpg" alt="Origin Time And Epicenter"/></h3>
+        <h3><img src="images/Epicenter_tile.jpg" alt="Image of the Origin Time And Epicenter of the Northern California Earthquake in 1906"/></h3>
       </div>
       <div class="column four-of-five">
     <figure>
@@ -28,7 +28,7 @@ include_once ('_functions.inc.php');
 <li>
   <div class="row">
   <div class="column one-of-five">
-    <h3><img src="images/Seismogram_tile3.jpg" alt="Seismogram"/></h3>
+    <h3><img src="images/Seismogram_tile3.jpg" alt="Image of Seismograms"/></h3>
   </div>
   <div class="column four-of-five">
     <figure>
@@ -42,7 +42,7 @@ include_once ('_functions.inc.php');
 <li>
   <div class="row">
     <div class="column one-of-five">
-      <h3><img src="images/RuptureSlip.jpg" alt="Rupture Length and Slip"/></h3>
+      <h3><img src="images/RuptureSlip.jpg" alt="Image of the Rupture Length and Slip"/></h3>
     </div>
     <div class="column four-of-five">
       <figure>
@@ -56,7 +56,7 @@ include_once ('_functions.inc.php');
 <li>
   <div class="row">
     <div class="column one-of-five">
-      <h3><img src="images/tour2.jpg" alt="Tour of the Rupture"/></h3>
+      <h3><img src="images/tour2.jpg" alt="Image of a Tour of the Rupture"/></h3>
     </div>
     <div class="column four-of-five">
       <figure>
@@ -71,7 +71,7 @@ include_once ('_functions.inc.php');
 <li>
   <div class="row">
     <div class="column one-of-five">
-      <h3><img src="images/shake_quotes.jpg" alt="Shaking Intensity"/></h3>
+      <h3><img src="images/shake_quotes.jpg" alt="Imag of Shaking Intensity in the Bay Area"/></h3>
     </div>
     <div class="column four-of-five">
       <figure>

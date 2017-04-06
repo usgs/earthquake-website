@@ -4,7 +4,7 @@
 
 	//echo "<a href='/earthquakes/events/1906calif' class='up-one-level'>1906 Earthquake</a>",
 
-		"<section>",
+		"<section>".
 			navItem("${section}/index.php","Introduction") .
 			navItem("${section}/global.php","Global Geologic Setting of the 1906 Earthquake") .
 			navItem("${section}/bayarea.php", "The San Andreas and Other Bay Area Faults") .

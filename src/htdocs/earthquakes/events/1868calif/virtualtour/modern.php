@@ -9,11 +9,11 @@ if (!isset($TEMPLATE)){
 include_once ('_functions.inc.php');
 ?>
 
-<ul class="no-style separator">
+<ul class="no-style">
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/EQprobability2.jpg" alt=""/></h3>
+        <h3><img src="images/EQprobability2.jpg" alt="Image showing the likelihood of a damaging earthquake in the Bay Area"/></h3>
     </div>
       <div class="column four-of-five">
         <h3> How Likely is a Damaging Earthquake in the Bay Area? </h3>
@@ -26,7 +26,7 @@ include_once ('_functions.inc.php');
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/urban.jpg" alt=""/></h3>
+        <h3><img src="images/urban.jpg" alt="Image showing at risk populations in modern urban areas"/></h3>
     </div>
       <div class="column four-of-five">
         <h3> At Risk Populations: Modern Urban Areas </h3>
@@ -39,7 +39,7 @@ include_once ('_functions.inc.php');
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/liq.jpg" alt=""/></h3>
+        <h3><img src="images/liq.jpg" alt="Image showing the likelihood of liquification"/></h3>
     </div>
       <div class="column four-of-five">
         <figure>
@@ -54,7 +54,7 @@ include_once ('_functions.inc.php');
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/lifelines.jpg" alt=""/></h3>
+        <h3><img src="images/lifelines.jpg" alt="Image showing infrastructure and lifelines along the Hayward Fault"/></h3>
     </div>
       <div class="column four-of-five">
         <h3> Are Our Infrastructure and Lifelines near the Hayward Fault at Risk? </h3>

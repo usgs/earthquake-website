@@ -11,11 +11,11 @@ if (!isset($TEMPLATE)) {
 include_once ('_functions.inc.php');
 
 ?>
-<ul class="no-style separator">
+<ul class="no-style">
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/plates.jpg" alt="Tectonic Plate Boundaries"/></h3>
+        <h3><img src="images/plates.jpg" alt="Image of Tectonic Plate Boundaries"/></h3>
       </div>
       <div class="column four-of-five">
     <figure>
@@ -29,7 +29,7 @@ include_once ('_functions.inc.php');
 <li>
   <div class="row">
   <div class="column one-of-five">
-    <h3><img src="images/RealTimeEQ3.jpg" alt="Real-Time Earthquakes"/></h3>
+    <h3><img src="images/RealTimeEQ3.jpg" alt="Image of Real-Time Earthquakes"/></h3>
   </div>
   <div class="column four-of-five">
     <figure>
@@ -43,7 +43,7 @@ include_once ('_functions.inc.php');
 <li>
   <div class="row">
   <div class="column one-of-five">
-    <h3><img src="images/SAF_ruptures.jpg" alt="Plate Boundary Ruptures Along Western North America"/></h3>
+    <h3><img src="images/SAF_ruptures.jpg" alt="Image of Plate Boundary Ruptures Along Western North America"/></h3>
   </div>
   <div class="column four-of-five">
     <figure>
