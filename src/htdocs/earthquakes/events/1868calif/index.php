@@ -19,8 +19,8 @@ if (!isset($TEMPLATE)){
 <ul class="no-style linklist">
   <li>
 			<a href = "https://pubs.usgs.gov/fs/2008/3019/">
-        <img src="images/factsheet.jpg" alt="The Hayward Fault&mdash;Is It Due for a Repeat of the Powerful 1868 Earthquake?"/>
         <h3>The Hayward Fault&mdash;Is It Due for a Repeat of the Powerful 1868 Earthquake?</h3>
+        <img src="images/factsheet.jpg" alt="The Hayward Fault&mdash;Is It Due for a Repeat of the Powerful 1868 Earthquake?"/>
       </a>
 			<p>USGS scientists describe the Hayward fault as a tectonic time bomb, due
 			anytime for another magnitude 6.8 to 7.0 earthquake. Because such a quake
@@ -36,8 +36,8 @@ if (!isset($TEMPLATE)){
 <ul class="no-style linklist">
 	<li>
 		<a href = "virtualtour/">
-		  <img src="images/googleearth.jpg" alt="Photo of Google Earth"/>
       <h3>Virtual Tour of the 1868 Hayward Earthquake in Google Earth&trade;</h3>
+      <img src="images/googleearth.jpg" alt="Photo of Google Earth"/>
     </a>
 		<p>Interactive self-guided tour of San Francisco Bay Area faults and
 	  earthquake history featuring ground-shaking maps, historic photographs,
@@ -46,8 +46,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "/learn/topics/shakingsimulations/hayward">
-		  <img src="images/hayward.jpg" alt="Photo of the Hayward Fault"/>
       <h3>Hayward Fault Scenario Earthquake Animations</h3>
+      <img src="images/hayward.jpg" alt="Photo of the Hayward Fault"/>
     </a>
 		<p>Computer simulations of large, anticipated earthquakes on the Hayward
 		and Rodgers Creek faults.</p>
@@ -55,8 +55,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "/regional/nca/simulations/hayward/">
-			<img src="images/hayward-1.jpg" alt="Photo of the Traces of the Hayward Fault"/>
       <h3>Active Traces of the Hayward Fault</h3>
+      <img src="images/hayward-1.jpg" alt="Photo of the Traces of the Hayward Fault"/>
     </a>
 		<p>Map showing active fault traces within the Hayward Fault Zone, including
 		a virtual tour of the Hayward fault in the east San Francisco Bay Region
@@ -65,8 +65,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "http://pubs.usgs.gov/sim/3045/">
-			<img src="images/3dmap.gif" alt="Photo of the Three-Dimensional Geologic Map of the Hayward Fault Zone"/>
       <h3>Three-Dimensional Geologic Map of the Hayward Fault Zone</h3>
+      <img src="images/3dmap.gif" alt="Photo of the Three-Dimensional Geologic Map of the Hayward Fault Zone"/>
     </a>
 		<p>Modified Mercalli Intensity maps for the Hayward earthquake plotted in
 		ShakeMap format.</p>
@@ -74,8 +74,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "http://pubs.usgs.gov/of/2008/1121/"/a>
-		  <img src="images/1868intensity.jpg" alt="Photo of the Intensity Maps for the 1868 Hayward Earthquake"/>
       <h3>Intensity Maps for the 1868 Hayward Earthquake</h3>
+      <img src="images/1868intensity.jpg" alt="Photo of the Intensity Maps for the 1868 Hayward Earthquake"/>
     </a>
 		<p>Modified Mercalli Intensity maps for the Hayward earthquake plotted in
 		ShakeMap format. </p>
@@ -83,8 +83,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "http://geomaps.wr.usgs.gov/gump/people/ponce/hayward_fault/hf.html">
-		  <img src="images/geometry.jpg" alt="Image of the Geometry and Evolution of the Hayward Fault"/>
       <h3>Geometry and Evolution of the Hayward Fault</h3>
+      <img src="images/geometry.jpg" alt="Image of the Geometry and Evolution of the Hayward Fault"/>
     </a>
 		<p>Geophysical data along the Hayward Fault are used to investigate the
 		nature, spatial relationship, and evolution of the Hayward Fault Zone. </p>
@@ -92,8 +92,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "/research/structure/3dgeologic/Hayward_geology05.pdf">
-		  <img src="images/3d.jpg" alt="Image of a Three-dimensional Geologic Map of the Hayward Fault"/>
-		  <h3>Three-dimensional Geologic Map of the Hayward Fault</h3>
+      <h3>Three-dimensional Geologic Map of the Hayward Fault</h3>
+      <img src="images/3d.jpg" alt="Image of a Three-dimensional Geologic Map of the Hayward Fault"/>
     </a>
 		<p>A recent paper on the Hayward Fault Model by Russell Graymer and others.
 		Correlation of rock units with variations in seismicity, creep rate, and
@@ -107,8 +107,8 @@ if (!isset($TEMPLATE)){
 <ul class="no-style linklist">
 	<li>
 		<a href = "http://pubs.usgs.gov/of/2008/1135/">
-		  <img src="images/greenguide.jpg" alt="Photo of the Hayward Fault"/>
       <h3>Where&rsquo;s the Hayward Fault? A Green Guide to the Fault</h3>
+      <img src="images/greenguide.jpg" alt="Photo of the Hayward Fault"/>
     </a>
 		<p>Self-guided field trips to one of North America&rsquo;s most dangerous
 		earthquake faults, the Hayward Fault. Locations were chosen because of
@@ -118,8 +118,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "fld007_17e.pdf">
-		  <img src="images/fieldguide.jpg" alt="Cover of the 2006 Field Guide to the Hayward Fault"/>
       <h3>2006 Field Guide to the Hayward Fault (13 MB pdf)</h3>
+      <img src="images/fieldguide.jpg" alt="Cover of the 2006 Field Guide to the Hayward Fault"/>
     </a>
 		<p>A detailed geologic and architectural field guide to 11 stops along the
 		Hayward Fault, including UC Berkeley Campus and Memorial Stadium, Point
@@ -131,8 +131,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "http://pubs.usgs.gov/bul/b2188/b2188ch2.pdf"/>
-		  <img src="images/slide.jpg" alt="Photo of debris flows on the Hayward Fault"/>
-		  <h3>Field Guide to the Hayward Fault (29 MB pdf)</h3>
+      <h3>Field Guide to the Hayward Fault (29 MB pdf)</h3>
+      <img src="images/slide.jpg" alt="Photo of debris flows on the Hayward Fault"/>
     </a>
 		<p>Download a 2001 U.S. Geological Survey Field Guide to the Hayward Fault
 		in Downtown Hayward and at the Caldecott Tunnel (between Orinida and
@@ -141,9 +141,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "http://geomaps.wr.usgs.gov/sfbay/hayward-ft.html">
-		  <img src="images/curb.jpg" alt="Photo of a curb damaged by the Hayward Fault"/>
-      <href = "http://geomaps.wr.usgs.gov/sfbay/hayward-ft.html">
-		  <h3>Hayward Fault Earthquake Loss Scenario</h3>
+      <h3>Field Guide to the Hayward Fault, Downtown Hayward</h3>
+      <img src="images/curb.jpg" alt="Photo of a curb damaged by the Hayward Fault"/>
     </a>
 		<p>Explore the Hayward Fault in Hayward using this online field guide
 		prepared for the 2000 U.S. Geological Survey Open House.</p>
@@ -156,8 +155,8 @@ if (!isset($TEMPLATE)){
 <ul class="no-style linklist">
   <li>
 		<a href = "https://www.eeri.org/projects/earthquake-scenarios/hayward-fault-scenario/">
-		  <img src="images/eeri.jpg" alt="Cover of the Scenario for a magintude 7.0 earthquake on the Hayward Fault"/>
-		  <h3>Hayward Fault Earthquake Loss Scenario</h3>
+      <h3>Hayward Fault Earthquake Loss Scenario</h3>
+      <img src="images/eeri.jpg" alt="Cover of the Scenario for a magintude 7.0 earthquake on the Hayward Fault"/>
     </a>
 		<p>This 1996 report (updated in 2010) by the Earthquake Engineering Research Institute
 		describes what losses are expected to result from magnitude 7 earthquake
@@ -175,8 +174,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "http://1868alliance.org/">
-		  <img src="images/1868.gif" alt="Photo of the 1868 Hayward Earthquake Alliance logo"/>
-		  <h3>1868 Hayward Earthquake Alliance</h3>
+      <h3>1868 Hayward Earthquake Alliance</h3>
+      <img src="images/1868.gif" alt="Photo of the 1868 Hayward Earthquake Alliance logo"/>
     </a>
 		<p>This web site was created to help coordinate and promote efforts and
 		activities between organizations throughout the greater San Francisco Bay
@@ -185,8 +184,8 @@ if (!isset($TEMPLATE)){
 
 	<li>
 		<a href = "http://seismo.berkeley.edu/~burgmann/RESEARCH/research_HF.html">
-		  <img src="images/insar.jpg" alt="insar image of the Hayward Fault">
       <h3>The Accumulation of Interseismic Strain Along the Hayward Fault</h3>
+      <img src="images/insar.jpg" alt="insar image of the Hayward Fault">
     </a>
 		<p>Interseismic surface deformation along the Hayward Fault monitored with
 		Interferometric Synthetic Aperture Radar (InSAR) and the Global
