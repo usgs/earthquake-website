@@ -20,7 +20,7 @@ if (!isset($TEMPLATE)){
 
           <figure class="left" style="max-width: 598px">
           <a
-          href="http://ehpm-earthquake.wr.usgs.gov/data/3dgeologic/"
+          href="/data/3dgeologic/"
           ><img src="./images/CC_det2.jpg" alt="3D Geologic Map" /></a>
           <figcaption><p><em> Oblique view,
           looking from the southwest toward San Francisco Bay. The
@@ -35,7 +35,7 @@ if (!isset($TEMPLATE)){
     characteristics of the earthquake and the geologic
     materials through which the seismic waves must pass
     from the fault to the site.  A new <a
-    href="http://ehpm-earthquake.wr.usgs.gov/data/3dgeologic/">
+    href="/data/3dgeologic/">
     3-D Geologic Map and Seismic Velocity Model</a> for
     Central California and the San Francisco Bay region
     was constructed in 2006 to provide the computer simulations
@@ -80,7 +80,7 @@ if (!isset($TEMPLATE)){
           </p>
      <h3 class="clear">Shaking Intensity in 1906</h3>
           <figure class="right" style="max-width: 284px">
-           <a href="http://ehpm-earthquake.wr.usgs.gov/regional/nca/1906/shakemap/"><img src="./images/CalNeva_big2.jpg" alt="1906 ShakeMap" /></a>
+           <a href="/earthquakes/events/1906calif/shakemap/"><img src="./images/CalNeva_big2.jpg" alt="1906 ShakeMap" /></a>
         <figcaption>   <p><em>ShakeMap for 1906 constructed from felt reports.</em></p> </figcaption>
          </figure>
           <p>
@@ -90,7 +90,7 @@ if (!isset($TEMPLATE)){
     earthquake.  These descriptions have been recently
     re-evaluated in terms of modern intensity scales, and
     used to construct a <a
-    href="http://ehpm-earthquake.wr.usgs.gov/regional/nca/1906/shakemap/">ShakeMap</a>
+    href="/earthquakes/events/1906calif/shakemap/">ShakeMap</a>
     for the event.
           </p>
           <p>

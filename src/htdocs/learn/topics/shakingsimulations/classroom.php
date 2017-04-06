@@ -384,7 +384,7 @@ to help teach about seismic waves and earthquake hazards.
   enough to handle these small features). The actual observed
   shaking was much more severe around the Bay than these
   simulations show. Take a closer look at the <a
-  href="http://ehpm-earthquake.wr.usgs.gov/regional/nca/1906/shakemap/">actual
+  href="/earthquakes/events/1906calif/shakemap/">actual
   shaking intensity on the Bay margins during 1906</a>.
 </p>
 <p>
