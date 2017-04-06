@@ -8,7 +8,7 @@ if (!isset($TEMPLATE)){
   include 'template.inc.php';
 }
 ?>
-<ul class="no-style separator">
+<ul class="no-style">
   <li>
     <div class="row">
       <div class="column one-of-five">
