@@ -1,0 +1,16 @@
+.kml a {
+  display: block;
+  float: left;
+  margin-right: .5em;  padding-left: 22px;
+  background: url(images/ge_icon.gif) 0 0 no-repeat;
+}
+.kml span {
+  font-family: Georgia;
+}
+
+.disclaimer {
+  padding-top: 1em;
+}
+.clear li {
+  clear: both;
+}
