@@ -9,11 +9,11 @@ if (!isset($TEMPLATE)) {
 include_once ('_functions.inc.php');
 ?>
 
-<ul class="no-style seperator">
+<ul class="no-style">
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/faulttrace.jpg" alt=""/><h3>
+        <h3><img src="images/faulttrace.jpg" alt="Image of the Detailed Mapping of the Hayward Fault"/><h3>
       </div>
       <div class="column four-of-five">
         <h3> Detailed Mapping of the Hayward Fault </h3>
@@ -26,7 +26,7 @@ include_once ('_functions.inc.php');
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/trench.jpg" alt=""/></h3>
+        <h3><img src="images/trench.jpg" alt="Photo of Dating Ancient Earthquakes along the Hayward Fault"/></h3>
       </div>
       <div class="column four-of-five">
         <h3> Dating Ancient Earthquakes along the Hayward Fault </h3>
@@ -39,7 +39,7 @@ include_once ('_functions.inc.php');
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/creep.jpg" alt=""/></h3>
+        <h3><img src="images/creep.jpg" alt="Image examining Creep on the Hayward Fault"/></h3>
       </div>
       <div class="column four-of-five">
         <h3> Creep on the Hayward Fault </h3>
@@ -52,7 +52,7 @@ include_once ('_functions.inc.php');
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/lidar.jpg" alt=""/></h3>
+        <h3><img src="images/lidar.jpg" alt="Photo of the Hayward Fault mapped from airplanes"/></h3>
       </div>
       <div class="column four-of-five">
         <h3> Mapping the Hayward Fault from Airplanes </h3>
@@ -65,7 +65,7 @@ include_once ('_functions.inc.php');
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/modern.jpg" alt=""/></h3>
+        <h3><img src="images/modern.jpg" alt="Image of a Hayward Fault "Airquake""/></h3>
       </div>
       <div class="column four-of-five">
         <h3> 3D Hayward Fault &ldquo;Airquakes&rdquo; </h3>
