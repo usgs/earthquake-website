@@ -16,34 +16,35 @@ if (!isset($TEMPLATE)) {
 
 <ul class="no-style linklist">
 	<li>
-		<a href = 'http://pubs.usgs.gov/fs/2014/3092/'>
-      <img src="img/baybridge.jpg" alt="Image of the Bay Bridge"/>
+		<a href = "http://pubs.usgs.gov/fs/2014/3092/">
       <h3>Progress Towards a Safer Future Since the 1989 Loma Prieta Earthquake</h3>
+      <img src="img/baybridge.jpg" alt="Image of the Bay Bridge"/>
+
     </a>
 		<p>Earthquakes remain an ongoing threat to the San Francisco Bay region. This USGS Factsheet examines earthquake hazards in the region, including probabilities, preparedness, and communicating hazards.</p>
 	</li>
 
 	<li>
-		<a href = '/earthquakes/states/events/1989_10_18.php'>
-      <img src="img/summary.jpg" alt="Image of the Bay Bridge"/>
+		<a href = "/earthquakes/states/events/1989_10_18.php">
       <h3>Loma Prieta Earthquake</h3>
+      <img src="img/summary.jpg" alt="Image of the Bay Bridge"/>
      </a>
 		<p>Summary and historical account of the earthquake including photos.</p>
 	</li>
 
 	<li>
-		<a href = '/learn/topics/shakingsimulations/1989/'>
-      <img src="img/simulations.jpg" alt="Image of Ground Shaking Simulations"/>
+		<a href = "/learn/topics/shakingsimulations/1989/">
       <h3>Ground Shaking Animations</h3>
+      <img src="img/simulations.jpg" alt="Image of Ground Shaking Simulations"/>
     </a>
 		<p>To better understand the distribution of shaking from past and anticipated future earthquakes, seismologists have constructed computer models of earthquakes and the resulting ground shaking. This movie shows shaking intensity as the seismic waves travel away from
 		the earthquake epicenter over time.</p>
 	</li>
 
 	<li>
-		<a href = '/earthquakes/eventpage/usp00040t8#shakemap'>
+		<a href = "/earthquakes/eventpage/usp00040t8#shakemap">
+      <h3>Shakemap</h3>
       <img src="img/shakemap.jpg" alt="Image of a map showing ground motion and shaking intensity"/>
-		  <h3>Shakemap</h3>
     </a>
 		<p>Map showing ground motion and shaking intensity based on instrumental
 		measurements of shaking along with information about local geology and the
@@ -51,27 +52,27 @@ if (!isset($TEMPLATE)) {
 	</li>
 
 	<li>
-		<a href = '/earthquakes/eventpage/usp00040t8#dyfi'>
+		<a href = "/earthquakes/eventpage/usp00040t8#dyfi">
+      <h3>Did You Feel It?</h3>
       <img src="img/dyfi.jpg" alt="Image of a map showing where people throughout California felth the earthquake"/>
-		  <h3>Did You Feel It?</h3>
     </a>
 		<p>Map of shaking intensity based on 15,000+ reports from citizens who experienced the
 		earthquake.</p>
 	</li>
 
 	<li>
-		<a href = 'http://pubs.usgs.gov/dds/dds-29/'>
+		<a href = "http://pubs.usgs.gov/dds/dds-29/">
+      <h3>USGS Photos of Loma Prieta Earthquake Damage</h3>
       <img src="img/damage.jpg" alt="Photo showing damage resulting from the Loma Prieta Earthquake"/>
-		  <h3>USGS Photos of Loma Prieta Earthquake Damage</h3>
     </a>
 		<p>More than 100 photos by John K. Nakata, Charles E. Meyer, and others portray some of the
 		damage resulting from the earthquake.</p>
 	</li>
 
 	<li>
-		<a href = 'papers.php'>
+		<a href = "papers.php">
+      <h3>USGS Photos of Loma Prieta Earthquake Damage</h3>
       <img src="img/radiotower.jpg" alt="Image of a destroyed Radio Tower"/>
-		  <h3>USGS Photos of Loma Prieta Earthquake Damage</h3>
     </a>
 		<p>Four Loma Prieta Earthquake Professional Papers, each containing multiple
 		chapters, document the magnitude 6.9 earthquake that shook the San

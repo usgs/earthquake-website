@@ -33,7 +33,7 @@ if (!isset($TEMPLATE)){
 
 <h2> New Science and Products </h2>
 
-<ul class="no-style linklist separator">
+<ul class="no-style linklist">
 	<li>
 		<a href = "virtualtour/">
 		  <img src="images/googleearth.jpg" alt="Photo of Google Earth"/>

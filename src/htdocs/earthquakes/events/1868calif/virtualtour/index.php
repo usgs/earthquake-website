@@ -15,7 +15,7 @@ if (!isset($TEMPLATE)){
 <p>Over time, memories of the 1868 Hayward earthquake have faded. Using this self-guided, virtual tour of the 1868 quake in Google Earth you can learn about the 1868 earthquake, visualize its effects, and better plan for its expected repeat. You can view historic damage photographs side-by-side with modern photos taken from the same vantage point.&nbsp; You can also learn how urbanization has changed the Bay Area landscape since 1868 and much more, including:</p>
 <p><a href="instructions.php">Instructions &amp; Tips</a></p>
 
-<ul class="no-style linklist r">
+<ul class="no-style linklist">
   <li>
       <figure class="left">
           <a href="global.php"> <h4> <img src="images/global_setting_tile2.jpg" alt="Image of Google Earth"/> </h4> </a>
