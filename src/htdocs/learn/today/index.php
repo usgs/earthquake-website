@@ -6,9 +6,15 @@
       $TITLE	=	'Today in Earthquake History';
       $NAVIGATION	= true;
       $HEAD = '
-        <link rel="stylesheet" href="index.css"/>
         <link rel="stylesheet" href="/lib/leaflet-0.7.7/leaflet.css"/>
-        <link rel="stylesheet" href="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.css"/>';
+        <link rel="stylesheet" href="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.css"/>
+      ';
+      $FOOT = '
+        <script src="/lib/leaflet-0.7.7/leaflet.js"></script>
+        <script src="/lib/hazdev-leaflet-0.1.3/hazdev-leaflet.js"></script>
+        <script src="/lib/hazdev-webutils-0.1.8/hazdev-webutils.js"></script>
+        <script src="index.js"></script>
+      ';
       include	'template.inc.php';
       }
 
@@ -26,6 +32,12 @@ $date = strtotime("${mm}/${dd}");
 $dd = date('d', $date);
 $mm = date('m', $date);
 $date = date('F jS', strtotime("${mm}/${dd}"));
+echo '<noscript>
+  This page requires javascript.
+  Please enable javascript and refresh, or
+    <a href="/earthquakes/search/">use the Earthquake Search</a>.
+</noscript>';
+
 echo "
 <div class=\"row\">
 	<div class=\"column two-of-three\">
@@ -51,13 +63,17 @@ echo "
 			}
 			echo '
 			<ul class="no-style linklist">';
+      $scriptIDArray = [];
+      $scriptClassArray = [];
 				//print out data
 				while ($fact = $query->fetch(PDO::FETCH_ASSOC)) {
           $mag = $fact['magnitude'];
-          $country = $fact['country'];
+          $country = $fact['location'];
+          $scriptIDArray[] = $country;
           $year = $fact['year'];
-          $image = $fact['image'];
           $comment = $fact['comment'];
+          $name = "map_" . $fact['country'];
+          $scriptClassArray[] = $name;
 					echo '<li class="alert" style="padding:1em">';
 							echo '<h4 style="color:black">' .
 							      sprintf('M%s - %s, %s',
@@ -65,18 +81,20 @@ echo "
 														(strpos($country,':'))?substr($country,strpos($country, ':')+1):$country,
 														$year) .
 										'</h4>';
-							echo '<figure class="left">' . $image . '</figure>';
+
+							echo '<div id="' . $name . '" style="height:300px;max-width:100%;margin:20px 0px"></div>';
 						echo '<p>' . $comment . '</p>';
 					echo '</li>';
 				}
-			echo '</ul>';
 
+			echo '</ul>';
 			$query->closeCursor();
 		} catch (PDOException $e) {
 			// don't output this on prod...
 			print_r($e);
 		}
 		$query = null;
+
 	echo '
 	</div>
 	<div class="column one-of-three">
@@ -136,3 +154,8 @@ echo "
 </div>';
 
 $pdo = null;
+
+echo '<script type="text/javascript">
+        var scriptIDArray = ' . json_encode($scriptIDArray) . ';
+        var scriptClassArray = ' . json_encode($scriptClassArray) . ';
+      </script>';

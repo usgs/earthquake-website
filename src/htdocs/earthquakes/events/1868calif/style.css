@@ -1,0 +1,14 @@
+.linklist img {
+  width: 150px;
+}
+
+blockquote {
+  margin: 2em 3em;
+  padding: .5em .75em;
+  font-style: italic;
+  font-size: 1.1em;
+  font-weight: normal;
+  color: 333;
+  background: #f6fdec;
+  border: 1px solid #DDD;
+}
