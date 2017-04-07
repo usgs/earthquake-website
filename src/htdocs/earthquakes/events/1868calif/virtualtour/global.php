@@ -9,11 +9,11 @@ if (!isset($TEMPLATE)) {
 include_once ('_functions.inc.php');
 ?>
 
-<ul class="no-style separator">
+<ul class="no-style">
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/plates.jpg" alt=""/></h3>
+        <h3><img src="images/plates.jpg" alt="Photo of Tectonic Plates Boundaries"/></h3>
       </div>
       <div class="column four-of-five">
         <h3> Tectonic Plates Boundaries </h3>
@@ -26,7 +26,7 @@ include_once ('_functions.inc.php');
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/RealTimeEQ3.jpg" alt=""/></h4>
+        <h3><img src="images/RealTimeEQ3.jpg" alt="Image showing a Real-Time Earthquake"/></h4>
       </div>
       <div class="column four-of-five">
         <h3> Real-Time Earthquakes </h3>

@@ -9,11 +9,11 @@ if (!isset($TEMPLATE)) {
 include_once ('_functions.inc.php');
 ?>
 
-<ul class="no-style separator">
+<ul class="no-style">
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/shakemap.jpg" alt=""/></h3>
+        <h3><img src="images/shakemap.jpg" alt="Photo of the Shaking Intensity of the Hayward Fault"/></h3>
       </div>
       <div class="column four-of-five">
         <h3> Shaking Intensity </h3>
@@ -25,7 +25,7 @@ include_once ('_functions.inc.php');
     <li>
       <div class="row">
         <div class="column one-of-five">
-          <h3><img src="images/photos.jpg" alt=""/></h3>
+          <h3><img src="images/photos.jpg" alt="Photo of the Bay Area in 1868"/></h3>
         </div>
         <div class="column four-of-five">
           <h3> The Bay Area in 1868 </h3>

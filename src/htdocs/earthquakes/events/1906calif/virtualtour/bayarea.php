@@ -16,7 +16,7 @@ include_once ('_functions.inc.php');
   <li>
     <div class="row">
       <div class="column one-of-five">
-        <h3><img src="images/BayArea_Setting_tile3.jpg" alt="Bay Area Faults"/></h3>
+        <h3><img src="images/BayArea_Setting_tile3.jpg" alt="Image of Bay Area Faults"/></h3>
       </div>
       <div class="column four-of-five">
     <figure>
@@ -31,7 +31,7 @@ include_once ('_functions.inc.php');
 <li>
   <div class="row">
   <div class="column one-of-five">
-    <h3><img src="images/BayAreaRuptures.jpg" alt="Historic Ruptures"/></h3>
+    <h3><img src="images/BayAreaRuptures.jpg" alt="Image of Historic Ruptures in the Bay Area"/></h3>
   </div>
   <div class="column four-of-five">
     <figure>
