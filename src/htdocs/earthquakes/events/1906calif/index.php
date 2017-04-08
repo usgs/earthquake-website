@@ -46,13 +46,13 @@ if (!isset($TEMPLATE)) {
 <h2>Publications and Documentaries</h2>
 
 <ul class="no-style linklist">
-<!--  <li>
+  <li>
     <a href="18april/">
       <h3>1906 San Francisco Earthquake</h3>
       <img src="img/1906-damage.jpg" alt="Photo of SF City Hall damage">
     </a>
     <p>Scientific overview of the M 7.8 earthquake that occurred on the San Andreas fault on April 18, 1906.</p>
-  </li>-->
+  </li>
   <li>
     <a href="http://pubs.usgs.gov/gip/2006/16/">
       <h3>Where&rsquo;s the San Andreas Fault? A Guidebook to Tracing the Fault on Public Lands in the San Francisco Bay Region</h3>
