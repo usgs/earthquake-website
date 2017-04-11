@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Paul Earle,
-  // Last modified: 03/01/2016
   if (!isset($TEMPLATE)) {
   $TITLE = 'Earthquake Statistics';
   $NAVIGATION = true;
@@ -255,53 +254,6 @@
     </tbody>
   </table>
 </div>
-
-<h2>Average Annual Number of Earthquakes by Magnitude</h2>
-<table>
-
-  <tr>
-    <th>Magnitude</th>
-    <th>Annual Average</th>
-  </tr>
-
-  <tr>
-    <td>8 and higher</td>
-    <td>1 &sup1;</td>
-  </tr>
-  <tr>
-    <td> 7 - 7.9 </td>
-    <td> 17 &sup1; </td>
-  </tr>
-  <tr>
-    <td> 6 - 6.9 </td>
-    <td> 134 &sup2; </td>
-  </tr>
-  <tr>
-    <td> 5 - 5.9 </td>
-    <td> 1319 &sup2;</td>
-  </tr>
-  <tr>
-    <td> 4 - 4.9 </td>
-    <td> 13,000<br /><small>(estimated)</small></td>
-  </tr>
-  <tr>
-    <td> 3 - 3.9 </td>
-    <td> 130,000<br /><small>(estimated)</small></td>
-  </tr>
-  <tr>
-    <td> 2 - 2.9 </td>
-    <td> 1,300,000<br /><small>(estimated)</small></td>
-  </tr>
-
-  <tr>
-    <td colspan="3">
-      &sup1; Based on observations since 1900.
-      <br />
-      &sup2; Based on observations since 1990.
-    </td>
-  </tr>
-
-</table>
 
 <h2>Earthquake Counts by State 2010-2015 (M3+)</h2>
 <p>Counts are as of March 10, 2016</p>
