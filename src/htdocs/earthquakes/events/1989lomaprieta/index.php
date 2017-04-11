@@ -8,10 +8,10 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 <p>On October 17, 1989, at 5:04:15 p.m. (PDT), a magnitude 6.9 earthquake severely shook the San Francisco and Monterey Bay regions. The epicenter was located near Loma Prieta peak in the Santa Cruz Mountains, approximately 14 km (9 mi) northeast of Santa Cruz and 96 km (60 mi) south-southeast of San Francisco.</p>
-<blockquote class="alert info no-icon">
+<div class="alert info no-icon">
   The 1989 Loma Prieta earthquake ended decades of tranquility in the San Francisco Bay region. It was a wakeup call to prepare for the potentially even more devastating shocks that are inevitable in the future. Since 1989, the work of the U.S. Geological Survey and other organizations has improved understanding of the seismic threat in the Bay region, promoted awareness of earthquake hazards, and contributed to more effective strategies to reduce earthquake losses. These efforts will help reduce the impact of future large quakes in the San Francisco Bay region.
 	<cite>Robert Page, U.S. Geological Survey</cite>
-</blockquote>
+</div>
 
 
 <ul class="no-style linklist">
@@ -25,7 +25,8 @@ if (!isset($TEMPLATE)) {
 	</li>
 
 	<li>
-		<a href = "/earthquakes/states/events/1989_10_18.php">
+		<!--<a href = "/earthquakes/states/events/1989_10_18.php"> -->
+    <a>
       <h3>Loma Prieta Earthquake</h3>
       <img src="img/summary.jpg" alt="Image of the Bay Bridge"/>
      </a>
@@ -42,7 +43,8 @@ if (!isset($TEMPLATE)) {
 	</li>
 
 	<li>
-		<a href = "/earthquakes/eventpage/usp00040t8#shakemap">
+		<!-- <a href = "/earthquakes/eventpage/usp00040t8#shakemap"> -->
+    <a>
       <h3>Shakemap</h3>
       <img src="img/shakemap.jpg" alt="Image of a map showing ground motion and shaking intensity"/>
     </a>
@@ -52,7 +54,8 @@ if (!isset($TEMPLATE)) {
 	</li>
 
 	<li>
-		<a href = "/earthquakes/eventpage/usp00040t8#dyfi">
+		<!-- <a href = "/earthquakes/eventpage/usp00040t8#dyfi"> -->
+    <a>
       <h3>Did You Feel It?</h3>
       <img src="img/dyfi.jpg" alt="Image of a map showing where people throughout California felth the earthquake"/>
     </a>
