@@ -56,6 +56,26 @@ $EQ_FEATURES->baseUrl = '';
  */
 
  $EQ_FEATURES->items[] = array(
+   'id' => '2017-04-11',
+   'title' => 'Earthquake Early Warning: Vital for City Transit',
+   'content' => 'Although no one can reliably predict earthquakes, today’s technology is advanced enough to rapidly detect seismic waves as an earthquake begins, calculate the maximum expected shaking, and send alerts to surrounding areas before damage can occur. This technology is known as “earthquake early warning” (EEW).',
+   'link' => 'https://www.usgs.gov/news/earthquake-early-warning-vital-city-transit',
+   'modified' => strtotime('2017-04-11'),
+   'thumbnail' => '/images-featured/eew_banner.gif',
+   'image' => '/images-featured/eew_banner.gif'
+ );
+
+ $EQ_FEATURES->items[] = array(
+   'id' => '2017-04-11',
+   'title' => '&ldquo;ShakeAlert&CloseCurlyDoubleQuote; Earthquake Early Warning System Goes West Coast Wide',
+   'content' => 'The U.S. Geological Survey along with university, state and private-sector partners will highlight the rollout of Version 1.2 of the USGS ShakeAlert earthquake early warning system on April 10, 2017.',
+   'link' => 'https://www.usgs.gov/news/shakealert-earthquake-early-warning-system-goes-west-coast-wide',
+   'modified' => strtotime('2017-04-11'),
+   'thumbnail' => '/images-featured/EEWimage390.jpg',
+   'image' => '/images-featured/EEWimage390.jpg'
+ );
+
+ $EQ_FEATURES->items[] = array(
    'id' => '2017-03-29',
    'title' => 'USGS Seeks Earthquake Hazards Research Proposals',
    'content' => 'The USGS is currently soliciting project proposals for 2018 grants on earthquake hazards science.',
