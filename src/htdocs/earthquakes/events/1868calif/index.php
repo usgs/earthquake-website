@@ -8,13 +8,13 @@ if (!isset($TEMPLATE)){
 }
 ?>
 
-<blockquote class="alert info no-icon">
+<div class="alert info no-icon">
 	Because of its location in the heart of the Bay Area, then having a total
 	population of about 260,000, and its magnitude, variously estimated as
 	between 6.8 and 7.0, this earthquake was one of the most destructive in
 	California history. Property loss was extensive and 30 people were killed.
-	<a href="/regional/states/events/1868_10_21.php">Read more</a> &raquo;
-</blockquote>
+	<!--<a href="/regional/states/events/1868_10_21.php">Read more</a> &raquo; -->
+</div>
 
 <ul class="no-style linklist">
   <li>
@@ -54,7 +54,8 @@ if (!isset($TEMPLATE)){
 	</li>
 
 	<li>
-		<a href = "/regional/nca/simulations/hayward/">
+		<!--<a  href = "/regional/nca/simulations/hayward/"> -->
+    <a>
       <h3>Active Traces of the Hayward Fault</h3>
       <img src="images/hayward-1.jpg" alt="Photo of the Traces of the Hayward Fault"/>
     </a>
@@ -91,7 +92,8 @@ if (!isset($TEMPLATE)){
 	</li>
 
 	<li>
-		<a href = "/research/structure/3dgeologic/Hayward_geology05.pdf">
+		<!--<a href = "/research/structure/3dgeologic/Hayward_geology05.pdf"> -->
+    <a>
       <h3>Three-dimensional Geologic Map of the Hayward Fault</h3>
       <img src="images/3d.jpg" alt="Image of a Three-dimensional Geologic Map of the Hayward Fault"/>
     </a>
@@ -164,8 +166,9 @@ if (!isset($TEMPLATE)){
 	</li>
 
 	<li>
-    <a href = "http://bssa.geoscienceworld.org/site/misc/HaywardConf.xhtml">
-		    <h3>Hayward Fault and 1868 Earthquake Special Collection</h3>
+    <!-- <a href = "http://bssa.geoscienceworld.org/site/misc/HaywardConf.xhtml"> -->
+    <a>
+        <h3>Hayward Fault and 1868 Earthquake Special Collection</h3>
     </a>
 		<p>The Seismological Society of America (SSA) created a virtual special
 		issue of BSSA containing previously published BSSA articles focusing on
