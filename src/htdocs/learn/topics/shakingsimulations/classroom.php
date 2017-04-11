@@ -88,7 +88,7 @@ to help teach about seismic waves and earthquake hazards.
 <ol>
   <li>
     Give some <a
-    href="http://ehpm-earthquake.wr.usgs.gov/regional/nca/1906/18april/">background on the 1906 earthquake</a>. Share stories and photos of
+    href="/earthquakes/events/1906calif/18april/">background on the 1906 earthquake</a>. Share stories and photos of
     the damage caused by this earthquake.
 </li>
 <li>
