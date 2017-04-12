@@ -67,7 +67,7 @@ $EQ_FEATURES->baseUrl = '';
 
  $EQ_FEATURES->items[] = array(
    'id' => '2017-04-11',
-   'title' => '&ldquo;ShakeAlert&CloseCurlyDoubleQuote; Earthquake Early Warning System Goes West Coast Wide',
+   'title' => '&quot;ShakeAlert&quot; Earthquake Early Warning System Goes West Coast Wide',
    'content' => 'The U.S. Geological Survey along with university, state and private-sector partners will highlight the rollout of Version 1.2 of the USGS ShakeAlert earthquake early warning system on April 10, 2017.',
    'link' => 'https://www.usgs.gov/news/shakealert-earthquake-early-warning-system-goes-west-coast-wide',
    'modified' => strtotime('2017-04-11'),
