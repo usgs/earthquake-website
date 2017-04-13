@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'April 18, 1906 San Francisco Earthquake';
+  $TITLE = 'M7.9 April 18, 1906 San Francisco Earthquake';
   $HEAD = '<link rel="stylesheet" href="style.css" />';
   $NAVIGATION  = true;
 
