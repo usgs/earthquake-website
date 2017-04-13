@@ -1,6 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
-  $TITLE = 'October 17, 1989 Loma Prieta Earthquake';
+  $TITLE = 'M6.9 October 17, 1989 Loma Prieta Earthquake';
   $HEAD = '<link rel="stylesheet" href="style.css" />';
   $FOOT = '';
   $NAVIGATION = true;
