@@ -1,6 +1,6 @@
 <?php
 if (!isset($TEMPLATE)){
-  $TITLE='October 21, 1868 Hayward Fault Earthquake';
+  $TITLE='M6.8 October 21, 1868 Hayward Fault Earthquake';
   $HEAD='<link rel="stylesheet" href="style.css" />';
   $FOOT='';
   $NAVIGATION=true;
