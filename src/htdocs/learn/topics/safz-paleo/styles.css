@@ -1,20 +1,23 @@
+figure.lidar, figure.lidar img {
+  min-width: 400px;
+  max-width: 600px;
+}
+figure.wall {
+  max-width: 800px;
+}
 figure.charcoal {
   max-width: 200px;
 }
-
 figure.results {
-  max-width: 400px;
+  max-width: 300px;
 }
-
 figure.safz {
   max-width: 288px;
 }
-
 figure.cartoon {
-  max-width: 296px;
+  max-width: 200px;
   margin-bottom: 16px;
 }
-
 figure.trench {
   margin-bottom: 16px;
 }
