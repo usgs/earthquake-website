@@ -78,6 +78,7 @@
   <li><a href="/hazards/qfaults/map/hazfault2014.html">Fault Source Map</a></li>
 
   <li><strong><a href="https://pubs.usgs.gov/of/2014/1091/">Hazard Model Documentation</a> (USGS OFR 2014-1091)</strong></li>
+  <li><strong><a href="https://github.com/usgs/nshmp-haz-fortran/wiki">OFR Errata and User Q &amp; A</a></strong></li>
   <li><a href="https://pubs.usgs.gov/of/2013/1293/
 ">Geodetic and Geologic Slip Model Documentation</a> (USGS OFR 2014-1293)</li>
   <li><a href="https://pubs.usgs.gov/sim/3325/">Seismic-Hazard Maps for the Conterminous United States, 2014</a> (USGS Scientific Investigations Map 3325)</li>
