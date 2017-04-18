@@ -1,0 +1,28 @@
+ul.referencelist ol {
+  margin-left: 2.5em;
+}
+ul.referencelist ol li {
+	margin: .25em 0;
+  padding: 0 1em;
+  display: inline;
+}
+
+blockquote {
+  margin: 2em 3em;
+  padding: .5em .75em;
+  font-style: italic;
+  font-size: 1.1em;
+  font-weight: normal;
+  color: 333;
+  background: #f6fdec;
+  border: 1px solid #DDD;
+}
+cite {
+  margin: .5em 3em 0 0;
+  font-size: 1.2em;
+  text-align: right;
+  font-style: normal;
+  font-weight: normal;
+  display: block;
+  color: #333;
+}

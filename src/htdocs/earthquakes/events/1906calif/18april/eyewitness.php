@@ -15,5 +15,5 @@ if (!isset($TEMPLATE)) {
                   <p>Many <a href="http://www.sfmuseum.org/1906/ew.html">eyewitness
                   accounts</a> and photos of the disaster.</p>
 
-<center><img src="images/fire.gif" alt="San Francisco residents watch the city burn." /></a>
-<p>San Francisco residents watch the city burn.</p></center>
+<img src="images/fire.gif" alt="San Francisco residents watch the city burn." /></a>
+<p>San Francisco residents watch the city burn.</p>
