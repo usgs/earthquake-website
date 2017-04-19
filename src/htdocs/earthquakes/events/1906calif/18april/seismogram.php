@@ -11,7 +11,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 
-<center><img src="images/gotNS0_small.gif" alt="Seismogram recorded in Gottingen, Germany." /></center>
+<img src="images/gotNS0_small.gif" alt="Seismogram recorded in Gottingen, Germany." />
 
 
 <p>Above is a <a href="got_seismogram.php"> seismogram recorded in Gottingen, Germany</a>, 9100 kilometers away. It shows how the ground moved in Germany as a result of the 1906 San Francisco earthquake. Time advances from left to right. Small wiggles, beginning 1/2 inch from left end, signal arrival of first compressional (P) waves. Large wiggles half way along represent arrival of slower-traveling shear (S) waves. The part of the record shown here spans about 1600 seconds or 26 minutes. The instrument subsequently went off-scale when surface waves arrived.<p>

@@ -13,8 +13,8 @@ if (!isset($TEMPLATE)) {
 
 <p>Here is what the shaking looked like in Gottingen, Germany, 9100 kilometers away:</p>
 
-<center><img src="images/gotNS.gif" alt="1906 - NS component recorded at Gottingen, Germany." /></center>
-<center><img src="images/gotEW.gif" alt="1906 - EW component recorded at Gottingen, Germany." /></center>
+<img src="images/gotNS.gif" alt="1906 - NS component recorded at Gottingen, Germany." />
+<img src="images/gotEW.gif" alt="1906 - EW component recorded at Gottingen, Germany." />
 
 <p> P (the direct, compressional wave) travels fastest and marks the first arrival of waves from the earthquake. S marks the arrival of the slower S or shear wave. P waves generally do not cause as much shaking as some of the larger, later arriving shear waves. The lines PP, PPP, SS and SSS indicate the arrivals of waves which have bounced once or twice off the surface of the earth in travelling to the seismograph.</p>
 

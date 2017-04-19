@@ -16,7 +16,7 @@ if (!isset($TEMPLATE)) {
 
 <p> If the Loma Prieta (M~7.0) trace looks smaller, it is because the 1906 (M~7.8) earthquake released approximately 16 times more energy:</p>
 
-<center><img src="images/1906_loma_prieta.gif" alt="Comparison of 1906 and Loma Prieta records at Gottingen, Germany."  /></center>
+<img src="images/1906_loma_prieta.gif" alt="Comparison of 1906 and Loma Prieta records at Gottingen, Germany."  />
 
 <p>Because we have much more extensive information about the ground motion that accompanied the 1989 earthquake, we can work backwards and infer what the ground motions must have been like in 1906.</p>
 

@@ -39,12 +39,10 @@ Actually, the distortion is spread over many miles
 and can only be seen with precise instrumentation
 (e.g. <a href="http://quake.usgs.gov/research/deformation/gps/index.html">GPS</a>).</p>
 
-<center>
 <div style="max-width: 440px"><img src="images/ElasticRebound.gif" alt="Elastic Rebound" /></a></div>
 
 <div style="max-width: 266px"><a href="images/fenceoffset_big.html" title="Click for a larger image" ><img src="images/fenceoffset.gif" alt="A fence that was offset about 8.5 feet along the trace of the fault." /></a>
 <p>This picture, taken near Bolinas in Marin County by G.K. Gilbert, shows a fence that was offset about 8.5 feet along the trace of the fault (from <a href="http://seismo.berkeley.edu/seismo/hayward/seismicity.hist_1906.html">Steinbrugge Collection of the UC Berkeley Earthquake Engineering Research Center</a>).</p></div>
-</center>
 
 <p>For more details see:</p>
 <p>Reid, H.F., <em>The Mechanics of the Earthquake, The California

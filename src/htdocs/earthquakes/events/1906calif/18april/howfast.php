@@ -20,7 +20,7 @@ if (!isset($TEMPLATE)) {
 <p> Note, however, that the rupture itself probably propagated
                     at a speed of about 2.7 km/sec or 5,800 mi/hr. (See the paper
                     by <a href="references.php#wald">Wald and others</a>.)</p>
-<center>
+
 <div style="max-width: 650px"><img src="images/train.gif" alt="Train knocked over at Pt. Reyes Station." />
    <p> "At Point Reyes Station at the head
                             of Tomales bay the 5:15 train for San Francisco was
@@ -36,4 +36,3 @@ if (!isset($TEMPLATE)) {
                             the picture of the train here presented." (From "The
                             1906 California Earthquake", David Starr Jordan, Editor,
                             1907, A.M. Robertson, San Francisco.)</p></div>
-</center>

@@ -13,7 +13,6 @@ if (!isset($TEMPLATE)) {
 
 <h2> 5:12 AM - April 18, 1906 </h2>
 
-<center>
 <div style="max-width: 461px">
   <img src="images/damage6.jpg" alt="San Francisco City Hall after the 1906 Earthquake."/>
   <p>San Francisco City Hall after the 1906 Earthquake. (from <a href="http://seismo.berkeley.edu/faq/1906_0.html">Steinbrugge Collection of the UC Berkeley Earthquake Engineering Research
@@ -62,4 +61,3 @@ underlying geologic conditions. Areas situated in sediment-filled valleys sustai
 
 
 <p><a href="images/sf06.city.html">Aerial view of the city</a> taken from a series of kites five weeks after the earthquake and fire (154K).</p>
-</center>

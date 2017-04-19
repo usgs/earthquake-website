@@ -49,7 +49,7 @@ M7's. </p>
 earthquakes on Bay area faults in the decades leading up to the repeat
 of the 1906 earthquake -- i.e., over the next several decades.</p>
 
-<center><img src="images/WS_Fig_3-lrg.jpg" alt="Tombstone plot showing distribution of large earthquakes since about 1850." /></a></center>
+<img src="images/WS_Fig_3-lrg.jpg" alt="Tombstone plot showing distribution of large earthquakes since about 1850." /></a>
 
 <p> The Working Group on California Earthquake Probabilities estimated after
 the 1989 Loma Prieta earthquake that the probability of a magnitude 7

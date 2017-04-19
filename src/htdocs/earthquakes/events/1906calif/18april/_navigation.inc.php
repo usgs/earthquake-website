@@ -14,12 +14,7 @@
     navItem("${section}/", "Introduction", $matchesIntro)
   ;
 
-  if(preg_match("@^{$section}/howlong.php$@", $url) ||
-    preg_match("@^{$section}/offset.php$@", $url) ||
-    preg_match("@^{$section}/shaking.php$@", $url) ||
-    preg_match("@^{$section}/howfast.php$@", $url) ||
-    preg_match("@^{$section}/intensity.php$@", $url) ||
-    preg_match("@^{$section}/magnitude.php$@", $url))
+  if(preg_match("@^{$section}/(howlong|offset|shaking|howfast|intensity|magnitude).php$@", $url))
     {
       echo "</section>";
       echo navGroup(navItem("${section}/howlong.php", "How Big was the Earthquake?"),
@@ -41,11 +36,7 @@
     navItem("${section}/whenagain.php", "When will it Happen Again?")
   ;
 
-  if(preg_match("@^{$section}/revolution.php$@", $url) ||
-    preg_match("@^{$section}/reid.php$@", $url) ||
-    preg_match("@^{$section}/soil.php$@", $url) ||
-    preg_match("@^{$section}/whateffect.php$@", $url) ||
-    preg_match("@^{$section}/paleo.php$@", $url))
+  if(preg_match("@^{$section}/(revolution|reid|soil|whateffect|paleo).php$@", $url))
     {
       echo "</section>";
       echo navGroup(navItem("${section}/revolution.php", "What was Learned Scientifically from 1906"),
