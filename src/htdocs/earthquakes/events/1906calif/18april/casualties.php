@@ -10,10 +10,8 @@ if (!isset($TEMPLATE)) {
 }
 
 ?>
-<center>
-  <div  style="max-width: 539px"><img src="images/stanford.gif" alt="Stanford University 1906 Earthquake damage." />
-  <p>Stanford University 1906 Earthquake damage.</p></div>
-</center>
+<div style="max-width: 539px"><img src="images/stanford.gif" alt="Stanford University 1906 Earthquake damage." />
+<p>Stanford University 1906 Earthquake damage.</p></div>
 
 
                   <h2>Dead - More than 3,000</h2>

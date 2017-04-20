@@ -33,7 +33,7 @@ is moving, on the average, over geologic time (slip rate). More information
 about the geologically recent past behavior of active faults allows better
 forecasts of their future behavior.</p>
 
-<center><img src="images/trenchsites.gif" alt="Map showing the 1906 rupture of the San Andreas fault." /></a><p>Map showing the 1906 rupture of the San Andreas fault.</p></center>
+<img src="images/trenchsites.gif" alt="Map showing the 1906 rupture of the San Andreas fault." /></a><p>Map showing the 1906 rupture of the San Andreas fault.</p>
 
 <table>
     <caption>Table 1. Slip rates at various locations along the San Andreas Fault.</caption>

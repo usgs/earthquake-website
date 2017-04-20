@@ -38,7 +38,7 @@ if (!isset($TEMPLATE)) {
   are also useful for determining the amount of 1906 offset and the width
   of the fault zone.</p>
 
-<center>
+
 <div style="max-width: 455px"><img src="images/carol_81.gif" alt="Offset road." /></a><p>Photograph taken after the 1906 earthquake showing offset of road
       (road is now highway 92 across Crystal Springs reservoir). Courtesy
       of <a href="http://www.lib.berkeley.edu/BANC/">Bancroft Library</a>.</p></div>
@@ -58,4 +58,3 @@ if (!isset($TEMPLATE)) {
       San Andreas Lake and Crystal Springs Reservoir. Both the offset fence
       and tree line can still be seen today. Courtesy of <a href="http://www.lib.berkeley.edu/BANC/">Bancroft
       Library</a>.</p></div>
-</center>
