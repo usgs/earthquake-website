@@ -1,0 +1,14 @@
+The hypocenter files used in the 3d aplet are the "name.3d" files
+
+To make a name.3d file from a hypocenter file:
+     make3d hypocenter_file
+
+The result will be returned as "hypocenter_file.3d"
+
+The script "make3d" runs a script on pwave which, in turn, runs a BATCH Splus run. Its a bit of a Rube Goldberg, but it works.  
+
+Currently, the only hypocenter file format allowed is the Double Difference format. Should be easy to allow hypoinverse files. 
+
+######### Notes about the aplet ################
+1. The file "live.jar" is the applet archive. It tells java what to do.
+2. "parkfield.html" is the web page. It calls the aplet. 
