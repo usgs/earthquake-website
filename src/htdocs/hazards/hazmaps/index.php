@@ -59,7 +59,7 @@
 
     <h2>Hazard Tools</h2>
 
-    <a href="/hazards/interactive/">Unified Hazard Tool - BETA</a>
+    <a href="/hazards/interactive/">Unified Hazard Tool</a>
     <p>Replaces most of the previous individual tools.</p>
 
 <!-- GEOHAZ SERVER TURNED OFF MARCH 1, 2017
