@@ -12,7 +12,7 @@ include '../_contributor.inc.php';
   <li><a href="https://earthquake.usgs.gov/contactus/pasadena/" target="_blank">USGS Pasadena</a></li>
 </ul>
 
-<h2 id="contributingNetworks"><a href="http://www/ncedc/org/ncss/index.html">Contributing Networks</a></h2>
+<h2 id="contributingNetworks"><a href="http://www.ncedc.org/ncss/index.html">Contributing Networks</a></h2>
 <ul>
   <li>California Department of Water Resources</li>
   <li>Calpine</li>
