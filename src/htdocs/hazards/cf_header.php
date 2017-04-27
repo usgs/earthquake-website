@@ -1,8 +1,10 @@
 <?php
+
 if (!isset($TEMPLATE)) {
-	$TITLE =  htmlspecialchars($_GET["name"]);
-  $NAVIGATIOM = true;
-	$HEAD = '<base href="https://earthquake.usgs.gov/hazards/">';
+  $TITLE =  htmlspecialchars($_GET['name']);
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
-	exit();
+
+// exit before content or footer
+exit();
