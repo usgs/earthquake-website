@@ -106,6 +106,11 @@
 <p>
    Earthquake magnitudes are a reflection of the area of the fault rupture (the length and depth of the fault plane) and the amount of slip, or offset, that occurred on the fault.  To estimate the magnitude of prehistoric earthquakes, scientists try to determine the amount of offset to features on the surface such as streams or gullies. The size of the offset is essentially correlated to the size of the earthquake. For example, an M7 will cause the ground to be offset by an average of about 1 meter, while a M7.5 has an average offset of about 2.6 meters.  Secondary evidence may also be used to estimate the size of a region that was shaken by the earthquake. For example, the locations of sand blows and other liquefaction features or evidence of earthquake-induced landslides can be mapped across a region to determine the extent and severity of shaking.  The pattern of shaking is then compared with the pattern of earthquakes of known magnitudes to determine what magnitude best fits the observations.
 </p>
+<p>
+  -written by Lisa Wald and Kate Scharer, U.S. Geological Survey
+
+
+</p>
 
 <h2>Additional Resources</h2>
 <ul>

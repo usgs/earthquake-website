@@ -11,49 +11,15 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
-/**
- * Items at top of list are featured
- *
- * Each Item is an array with the following keys:
- *   id {String}
- *      unique identifier without spaces.
- *      for example:
- *         'induced'
- *
- *   title {String|HTML}
- *         item title.
- *
- *   content {String|HTML}
- *           item summary.
- *
- *   link {String}
- *        relative item link.
- *
- *   modified {Integer}
- *            unix epoch timestamp.
- *            for example:
- *                filemtime('induced/index.php')
- *                strtotime('2014-10-01')
- *
- *   thumbnail {String}
- *             relative path to thumbnail image.
- *             Used by items in atom format.
- *
- *   image {String}
- *         relative path to full size image.
- *         Only used by "featured" items in html format.
- *
- *   tags {Array<String>} optional.
- *        Array of categories for item.
- *        Only used by atom format.
- *
- *   publish {Integer} optional.
- *           a time when item should be "published".
- *           if no publish time is specified, or the time is in the past, the item will be shown.
- *           for example:
- *               strtotime('2014-10-31')
- *
- */
+$EQ_FEATURES->items[] = array(
+  'id' => '2017-05-01',
+  'title' => 'Introduction to Paleoseismology',
+  'content' => 'What is paleoseismology, and how are scientists using it? An introduction that non-scientists can understand.',
+  'link' => 'https://earthquake.usgs.gov/learn/topics/paleo-intro/',
+  'modified' => strtotime('2017-05-01'),
+  'thumbnail' => '/images-featured/paleo-intro.gif',
+  'image' => '/images-featured/paleo-intro.gif'
+);
 
  $EQ_FEATURES->items[] = array(
    'id' => '2017-04-11',
@@ -306,3 +272,47 @@ $EQ_FEATURES->items[] = array(
   'thumbnail' => 'images-featured/rodgers-creek.gif',
   'image' => 'images-featured/rodgers-creek.gif'
 );
+
+/**
+ * Items at top of list are featured
+ *
+ * Each Item is an array with the following keys:
+ *   id {String}
+ *      unique identifier without spaces.
+ *      for example:
+ *         'induced'
+ *
+ *   title {String|HTML}
+ *         item title.
+ *
+ *   content {String|HTML}
+ *           item summary.
+ *
+ *   link {String}
+ *        relative item link.
+ *
+ *   modified {Integer}
+ *            unix epoch timestamp.
+ *            for example:
+ *                filemtime('induced/index.php')
+ *                strtotime('2014-10-01')
+ *
+ *   thumbnail {String}
+ *             relative path to thumbnail image.
+ *             Used by items in atom format.
+ *
+ *   image {String}
+ *         relative path to full size image.
+ *         Only used by "featured" items in html format.
+ *
+ *   tags {Array<String>} optional.
+ *        Array of categories for item.
+ *        Only used by atom format.
+ *
+ *   publish {Integer} optional.
+ *           a time when item should be "published".
+ *           if no publish time is specified, or the time is in the past, the item will be shown.
+ *           for example:
+ *               strtotime('2014-10-31')
+ *
+ */
