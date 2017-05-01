@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
 // Contact: Justin Rubenstein
-// Last modified: Lisa Wald, 2016/08/20
+// Last modified: Lisa Wald, 2017/05/01
 if (!isset($TEMPLATE)) {
   $TITLE = 'Induced Earthquakes';
   $NAVIGATION = true;
@@ -54,7 +54,7 @@ if (!isset($TEMPLATE)) {
 
   <div class='column one-of-two'>
     <h2>Injection-Induced Seismicity</h2>
-  	<a href="seminars/896">
+  	<a href="/contactus/menlo/seminars/896">
       <img src="images/escvideo.jpg"alt="Bill Ellsworth video" />
     </a>
   	<p>
