@@ -51,7 +51,7 @@ if ($address || $email || $tel) {
   echo '<h2 id="contact">Contact</h2>';
 
   if ($address) {
-    echo '<h3 id="mailing-address">Mailing Address</h3>';
+    echo '<h3 id="mailing-address">Address</h3>';
 
     if (!isset($address[0])) {
       // convert non-numerically indexed array
