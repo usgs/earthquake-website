@@ -30,10 +30,6 @@
       High-rate GPS networks in the San Francisco Bay Area and Long Valley.
     </p>
   </li>
-
-  <!--rt fault data-->
-  <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
   <li>
     <a href="/monitoring/deformation/data/">
       <h4>Fault Creep, Borehole Strain, and Tiltmeter Monitoring Measurements</h4>
@@ -43,9 +39,6 @@
       tiltmeters and other geophysical instruments.
     </p>
   </li>
--->
-
-  <!--creep-->
   <li>
     <a href="https://pubs.usgs.gov/of/2009/1119/">
       <h4>Alinement Array Data</h4>
