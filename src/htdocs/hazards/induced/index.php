@@ -29,7 +29,7 @@
   <div class="column one-of-two">
     <h3>Documentation</h3>
     <p>
-      <a href="http://srl.geoscienceworld.org/content/early/recent">
+      <a href="http://dx.doi.org/10.1785/0220170005">
       2017 One-Year Seismic Hazard Forecast for the Central and Eastern United States from Induced and Natural Earthquakes</a> - Seis. Res. Lett., v.88, n.3
     </p>
 
