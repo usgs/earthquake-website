@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Shot coordinates and origin times: Catchings et al. shots</title>
+<meta http-equiv="Content-Type" content="text/html; charset=" />
+</head>
+<body>
+<p><img src="/Images/usgs_sm.blk.gif" width="72" height="20" alt="USGS logo" /></p>
+<h2>Shot Locations and Origin Times for Catchings, Rymer and Smithson Survey, Parkfield, November 2003 (from Rufus Catchings, 2/23/04)</h2>
+<h3>Notes from Rufus:</h3>
+  <p>Below are locations and shot times for our shots (a total of 58).</p>
+  <p>Locations are fairly precise (1-2 m), and they have been checked in several ways.  Timing is as precise as we can get it, as I explain below.  By imputing the geometry of our cabled array and comparing it with GPS data, Mark Goldman and I found some major errors in the preliminary shot locations and times that I sent out from the field. I also found several typos the resulted in shot point mislocations from our preliminary field file.</p>
+  <p>All locations except the offline shots were located using Trond Ryberg's differential GPS in WGS84 reference, whereas the preliminary locations were done exclusively with a hand-help GPS (also WGS84).  All locations were also checked against the known geophone locations of the cabled array.  The offline shots were located only with a hand-held GPS. However, we compared the hand-help GPS locations against Trond's locations for a sampling of stations across the entire array, and we found that both GPS values were within about 2 m (xyz).  Thus, the locations for the offline shots should be accurate to within about 2 m.  Mike Rymer also checked these offline locations against a DEM and found the locations to be correct to within his resolution.  We added 33 m to all elevations from Trond's GPS, to correct from height above WGS84 ellipsoid to elevation MSL, but the 33 m was already added in for our hand-held GPS.</p>
+  <p>The two master clocks and the shooting system clock that we got from Tom Burdette was apparently off by about 88 to 96 ms for the first few days of shooting.  We used one master clock as a reference and set the shooting system and other master clock (used to trigger the seismographs) with the reference master clock. Because we didn't know how far off the reference clock was by the fourth day of shooting, we set the shooting system clock and the seismograph master clock an additional 311 ms late on the 4th day, so that we would not shoot too early and miss data, resulting in a total of about 407 ms off from GPS time.  By the time the Hole/Ryberg shots were fired, Tom provided everyone with a properly set clock, so the Hole/Ryberg times are accurate.</p>
+  <p>We built in redundancy for accurate timing into our array by co-locating with YongGang Li's seismographs that have GPS timing. Over the past two weeks, we have done a number of cross-correlations of data from the co-located sites to check timing.  Because YongGang's sampling rate is 10 ms, the timing error may be as much as 10 ms.  However, by making multiple measurements, we found that most correlations varied by only about 5 ms from shot to shot.  We corrected timing on the attached files on the basis of YongGang's timing, which he was kind enough to provide.</p>
+  <p>On Day 4 of shooting, we fired many shots over a period of about 8 hours.  There was no siginifcant drift (< 5 ms) during the entire period of shooting except for the very last shot of the day, when there was about 85 ms of drift on the shooting clock.  All clock drift has been corrected for in the shot times given below. </p>
+<pre>
+Station#, Latitude (deg WGS84), Longitude (deg WGS84), Elevation (m MSL), SP#orLoc, Year, Day, Hour, Minute, Second
+8,35.9718634,-120.5553754,650.68,exp(SP1),2003,319,0,33,59.907
+18,35.97215808,-120.554962,655.27,exp(SP2),2003,319,0,39,59.907
+28,35.97244912,-120.5545488,657.07,exp(SP3),2003,319,0,45,59.907
+38,35.97274986,-120.5541309,657.19,exp(SP4),2003,319,21,25,59.912
+48,35.97305707,-120.5537248,663.13,exp(SP5),2003,319,21,30,59.912
+58,35.97335821,-120.5533228,666.63,exp(SP6),2003,319,21,36,59.912
+68,35.97365904,-120.5529153,663.04,exp(SP7),2003,319,21,42,59.912
+81,35.9740501,-120.5523791,661.45,exp(SP8),2003,319,22,16,59.912
+87,35.97422817,-120.5521361,661.99,exp(SP9),2003,319,22,27,59.912
+95,35.9744705,-120.5518024,661.12,exp(SP10),2003,319,22,32,59.912
+98,35.97455799,-120.5516806,663.86,exp(SP11),2003,319,22,37,59.912
+108,35.97485158,-120.5512704,663.34,exp(SP12),2003,319,22,42,59.912
+118,35.97516681,-120.5508437,666.96,exp(SP13),2003,319,22,49,59.912
+128,35.9754417,-120.5504526,661.26,exp(SP14),2003,319,22,53,59.912
+138,35.97575764,-120.5500544,661.82,exp(SP15),2003,320,22,18,59.904
+168,35.97666989,-120.5489104,680.32,exp(SP16),2003,320,22,33,59.904
+178,35.9769737,-120.5484995,686.2,exp(SP17),2003,320,22,38,59.904
+188,35.97727107,-120.548087,682.66,exp(SP18),2003,320,22,44,59.904
+198,35.97756162,-120.5476829,677.4,exp(SP19),2003,320,22,49,59.904
+218,35.97814156,-120.5468864,689.32,exp(SP20),2003,320,22,57,59.904
+238,35.9787401,-120.5460659,695.28,exp(SP21),2003,320,23,4,59.904
+258,35.97932314,-
+120.5452519,680.24,exp(SP22)_3m_SW_of_SW13,2003,320,23,13,59.904
+278,35.97991991,-120.5444336,685.56,exp(SP23),2003,320,23,20,59.904
+302,35.98062916,-120.5434495,687.6,exp(SP24),2003,320,23,28,59.904
+322,35.98121518,-120.5426214,688.34,exp(SP25),2003,320,23,36,59.904
+342,35.98180575,-120.5418345,704.13,exp(SP26),2003,320,23,44,59.904
+362,35.98240892,-120.5410316,711.72,exp(SP27),2003,320,23,52,59.904
+382,35.98300036,-120.5402273,726.71,exp(SP28),2003,320,23,58,59.904
+402,35.98354949,-120.539448,764.05,exp(SP29),2003,321,0,8,59.904
+416,35.9839506,-120.5388955,776.26,exp(SP30)_1m_SW_of_SW08,2003,321,0,15,59.904
+456,35.98515663,-120.5373331,735.86,exp(SP31),2003,321,0,25,59.904
+478,35.9857979,-120.5364465,720.1,exp(SP32)_co-
+located_with_NE04,2003,321,0,31,59.904
+498,35.98639161,-120.5356393,715.68,exp(SP33)_3m_SW_of_NE08,2003,321,0,37,59.904
+520,35.98703013,-120.5347591,691.61,exp(SP34),2003,321,0,42,59.904
+3,35.9716841,-120.5488194,668.65,exp(SP35),2003,321,19,1,59.575
+8,35.97183529,-120.5490097,668.53,exp(SP36),2003,321,18,57,59.575
+18,35.97215323,-120.5493889,669.06,exp(SP37),2003,321,18,51,59.575
+28,35.97246913,-120.5497775,673.3,exp(SP38),2003,321,18,46,59.575
+38,35.97277645,-120.5501587,687.42,exp(SP39),2003,321,18,41,59.575
+46,35.9730212,-120.5504616,693.77,exp(SP40),2003,321,18,37,59.575
+68,35.97364456,-120.5512643,660.88,exp(SP41),2003,321,18,20,59.575
+78,35.9739514,-120.5516612,661.66,exp(SP42),2003,321,18,13,59.575
+98,35.9745561,-120.5524687,666.26,exp(SP43),2003,321,18,3,59.575
+108,35.97484738,-120.5528548,681.96,exp(SP44),2003,321,17,49,59.575
+118,35.97515935,-120.5532507,682.95,exp(SP45),2003,321,17,50,59.575
+128,35.97547409,-120.5536343,677.63,exp(SP46),2003,321,17,43,59.575
+138,35.97579841,-120.554008,675.3,exp(SP47),2003,321,17,38,59.575
+148,35.97611959,-120.5543878,676.3,exp(SP48),2003,321,17,33,59.575
+158,35.97644779,-120.5547747,678.28,exp(SP49),2003,321,17,28,59.575
+168,35.97675116,-120.5551758,680.17,exp(SP50),2003,321,17,24,59.575
+176,35.97701065,-120.5554923,680.33,exp(SP51),2003,321,17,20,59.575
+177,35.9841667,-120.5526333,786.69,SP 51 (NwF1),2003,321,22,51,59.575
+178,35.9848,-120.5517,774.2,SP 52 (NwF2),2003,321,23,4,59.575
+179,35.9853167,-120.5503167,745.25,SP 53 (NwF3),2003,321,23,13,59.575
+180,35.9690167,-120.5346,758.96,SP 54 (SeF1),2003,321,23,45,59.575
+181,35.9676333,-120.5357333,731.22,SP 55 (SeF2),2003,322,0,1,59.575
+182,35.9682167,-120.53805,735.49,SP 56 (SeF3),2003,322,0,14,59.575
+183,35.9800333,-120.5316333,766.88,SP 57 (SeSAF1),2003,322,0,48,59.490
+</pre>
+</body>
+</html>

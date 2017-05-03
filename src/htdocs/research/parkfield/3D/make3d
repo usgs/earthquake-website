@@ -1,0 +1,15 @@
+#! /bin/csh -f
+#
+#
+# script to convert hypocenter data into 3d format on pwave
+# and to copy the result back to quake
+
+set output = $1.3d
+
+rcp $1 pwave:/home/reasen/3D/plot3d.input
+rsh pwave '/home/reasen/3D/make3d_script'
+
+rcp pwave:/home/reasen/plot.3d ./$output
+ls -l $output
+
+

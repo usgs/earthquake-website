@@ -1,0 +1,163 @@
+<HTML>
+<HEAD>
+<TITLE>3D-DD}</TITLE>
+
+<SCRIPT language="JavaScript">
+function selectGraphic() {
+  var selected = window.document.graphic.file.value;
+  document.cookie = "selected=" + selected;
+  window.location = './test2.htm';
+  }
+</SCRIPT>
+
+</HEAD>
+<BODY bgcolor='ffffff'>
+
+<hr>
+<H3><em>Double Difference hypocenters in 3D</em></H3><hr>
+
+Enter filename:<BR>
+
+<FORM name="graphic" onSubmit = selectGraphic();>
+  <INPUT type="text" name="file">
+  <INPUT type="submit" name="Submit" value="Display">
+</FORM> 
+
+<TABLE>
+  <TR>
+    <TD><FONT size=4>You can interactively rotate the graphics <A href="#Operation">by 
+      mouse</A></FONT>
+  </TR>
+  <TR> 
+    <TD> 
+      <SCRIPT language="JavaScript">
+        if (document.cookie) {
+        var the_cookie = unescape(document.cookie);
+        var select_array = the_cookie.split("selected=");
+        var filename = select_array[1];
+        window.document.graphic.file.value = filename;
+        document.writeln('<APPLET ARCHIVE="live.jar" CODE="Live.class" WIDTH=600 HEIGHT=600 ALIGN=LEFT HSPACE=10>');
+        document.writeln('<PARAM NAME=BGCOLOR VALUE=#000000>');
+        document.writeln('<PARAM NAME=INPUT_FILE VALUE="' + filename + '">');
+        document.writeln('</APPLET>');
+      }
+    </SCRIPT>
+  </TR>
+</TABLE>
+
+<hr>
+<A NAME="Operation"></A>
+<UL>
+<P>
+<FONT SIZE=5><B>Operation</B></FONT>
+</P>
+
+<P>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 BGCOLOR=#FFD0D0>
+<TR BGCOLOR=#FFA0A0>
+<TH ALIGN=LEFT>
+user action
+</TH>
+<TH ALIGN=LEFT>
+applet reaction
+</TH>
+</TR>
+<TR>
+<TD>
+dragging (left mouse button pressed)
+</TD>
+<TD>
+rotating about an axis in the picture
+</TD>
+</TR>
+<TR>
+<TD>
+releasing left mouse button while dragging
+</TD>
+<TD>
+spinning about an axis in the picture
+</TD>
+</TR>
+<TR>
+<TD>
+SHIFT key pressed plus vertical dragging
+</TD>
+<TD>
+zooming
+</TD>
+</TR>
+<TR>
+<TD>
+SHIFT key pressed plus horizontal dragging
+</TD>
+<TD>
+rotating about an axis perpendicular to the picture
+</TD>
+</TR>
+<TR>
+<TD>
+CONTROL key pressed plus vertical dragging
+</TD>
+<TD>
+changing focal length
+</TD>
+</TR>
+<TR>
+<TD>
+CONTROL key pressed plus horizontal dragging
+</TD>
+<TD>
+changing strength of stereo effect
+</TD>
+</TR>
+<TR>
+<TD>
+META (ALT) key (or right mouse button) pressed plus vertical dragging
+</TD>
+<TD>
+stripping parts of the graphics
+</TD>
+</TR>
+<TR>
+<TD>
+&quot;o&quot; key 
+</TD>
+<TD>
+printing parameter settings to the Java console (aka Java messages window)
+</TD>
+</TR>
+<TR>
+<TD>
+&quot;s&quot; key 
+</TD>
+<TD>
+toggling between single picture, stereo pictures for diverge fusing
+and stereo pictures for cross fusing
+</TD>
+</TR>
+<TR>
+<TD>
+<TT>HOME</TT> key
+</TD>
+<TD>
+restoring original perspective (no spinning)
+</TD>
+</TR>
+</TABLE>
+<FONT SIZE=2>User interface for all graphics.</FONT>
+</P>
+<UL>
+<A HREF="http://wwwvis.informatik.uni-stuttgart.de/~kraus/LiveGraphics3D/index.html">
+LiveGraphics3D</A>
+0.50 by
+<A HREF="http://wwwvis.informatik.uni-stuttgart.de/~kraus/index.html">
+Martin Kraus</A>
+<P>
+This interface by Scott Haefner and Bill Ellsworth
+U.S. Geological Survey, Menlo Park, California, USA
+</P>
+<P>
+Last modified 12/01/2000
+</P>
+</BODY>
+</HTML>
