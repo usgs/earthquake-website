@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<link rel="stylesheet" href="/css/nca/base.css" type="text/css" media="screen,projection" />
+</head>
+<body>
+<p><img src="/Images/usgs_sm.blk.gif" width="72" height="20" alt="USGS logo" />
+</p>
+<h1>Instructions for determining accurate station and shot elevations for the Oct/Nov 2003 Parkfield site characterization studies</h1>
+    <p><a href="http://gretchen.geo.rpi.edu/roecker/paso/proj/proj.html">more details</a></p>
+  <h2>1) For Stations Located with High-Accuracy GPS Receivers </h2>
+    <p>People with high-accuracy GPS fixes (i.e., either differential GPS or observation times of at least 2-3 days per station) should use the <a href="http://www.ngs.noaa.gov">National Geodetic Survey web site</a> to correct their WGS84 height above ellipsoid (HAE) to elevation above mean sea level (MSL).  This website  has a calculator for geoid height.  If you go to the website and then hit geodetic toolkit and GEOID03, you can input a lat/lon and get a geoid height (They request coordinates in NAD83, which for our purposes is identical to WGS84).  This height should then be added to the WGS84 HAE to get elevation above MSL. For example, for the SAFOD Pilot Hole wellhead HAE (WGS84) is 627.30 m. &nbsp;Using the WGS84 coordinates for this site (lat 35.97425794 deg, long -120.55210714 deg) in the NGS web site gives a geoid height of -33.164 m (i.e., the geoid is 33.164 me <em> below </em> the reference ellipsoid).&nbsp;Adding 33.164 m to the HAE gives us a ground elevation at the Pilot Hole wellhead of 660.46 m MSL. </p>
+  <h2>2) For Stations Located with Low-Accuracy GPS Receivers </h2>
+    <p>People with low-accuracy GPS fixes (i.e., using standard hand-held receivers, for which elevation accuracy is very poor) should disregard their GPS-derived elevations and get elevations instead by plotting GPS-determined lat/long on USGS paper topographic maps or digital elevation models (DEMs). </p>
+    <p>The latest and most accurate generation of DEMs (30 m) are available from the <a href="http://seamless.usgs.gov">USGS National Elevation Dataset</a> (NED).  DEMs available from the NED are now registered to WGS84, which means you can use your GPSlat/long directly to get an elevation from NED.  Detailed instructions and a FORTAN routine for determining elevations from these DEMs are given on <a href="http://gretchen.geo.rpi.edu/roecker/paso/proj/proj.html">Steve Roecker's web site</a>. You should NOT use the Shuttle Radar Topography Mission (SRTM) 30 m data base to determine elevations, as this database apparently has  been smoothed for civilian users and has significant errors of up to 10s of meters. </p>
+    <p>If you determine elevations from paper USGS 7 1/2 minute topographic maps (or digital rasterized versions of same), you will need to make sure that your GPS lat/long values &#8212; which are typically, but not necessarily, in WGS84  &#8212; are corrected to the datum used in the topographic maps. The datum for USGS paper topographic maps is NAD27, which can be converted to the NAD83 horizontal datum (equivalent to WGS84) manually following instructions printed on each map. </p>
+    <p>The inherent accuracy limitations for USGS topo maps (and the DEMS derived from them) is typically about +- half a contour interval, although it can be worse than this in steep or heavily vegetated areas.  This is much better than delivered by most GPS handhelds, whose elevations can be in error by several 10s of meters.  Steve Roecker did spot checks of the USGS 30 m DEM data obtained from the NED web site against the 7 1/2 min topographic maps around Parkfield and found that the elevations were consistent to within the contour intervals of the topo maps, or better.  However, since large interpolation errors have been discovered in past DEMs, you should cross check DEM-derived elevations with elevations determined from a standard 7 1/2 min USGS topographic map just to make sure the values you get are reasonable.</p>
+</body>
+</html>

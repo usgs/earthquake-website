@@ -1,0 +1,37 @@
+Instructions for setting-up and running LiveGraphics3D
+
+1. Download the Java applets for running LiveGraphics3d from
+
+http://wwwvis.informatik.uni-stuttgart.de/~kraus/LiveGraphics3D/index.html
+
+Follow the instructions for your machine (do it on your fastest machine).
+
+Put the files live.jar and any *.Class files into the directory
+from which you will be running LiveGraphics3D.
+
+While you are at this website, you might want to try some of
+the examples to make sure that Java is running properly in your
+browser.  If not, you will need to get the examples to run before
+proceeding.
+
+2. Put the file 3d.htm into the same directory.  Put the 3D graphics
+files (I name them *.3d) into the same directory.
+
+3. Open 3d.htm with your browser.  You should see the control options.
+They will appear below the plot after you input a file name.
+
+4. Enter one of the file names into the message window and push "Display".
+
+Push the left button to spin the plot.
+Push the "Home" button to reset the plot.
+Hold "Shift" while pushing the left button and dragging vertically to resize.
+Hold "Control" while pushing the left button and dragging up to
+change the perspective.  The default view point is currently a
+bit close to the plot space for my taste.
+
+5. Try typing 's' to put it into stereoscopic mode.  You will probably
+want to enlarge the view.
+
+If the two plots in the stereo pair are too far apart for you to see
+them in stereo (should be 6-8 cm on your screen), edit "WIDTH=" in 3d.htm.
+
