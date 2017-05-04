@@ -28,6 +28,8 @@ if (!isset($TEMPLATE)) {
       Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
       <br/><br/>
       <strong><a href="/data/dyfi/">Did You Feel It? Report it Here!</a></strong>
+      <br/><br/>
+      <a href="/ens/">Subscribe to Earthquake Notifications</a>
     </p>
 
     <!-- Significant EQs List -->

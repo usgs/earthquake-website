@@ -63,17 +63,13 @@
       <td>
         <ul>
           <li>
-            <a href="/designmaps/us/regions.php">Regional Minimum and Maximum
+            <a href="https://www.sciencebase.gov/catalog/item/58e79219e4b09da6799c0dec">Regional Minimum and Maximum
             Design Values</a> (Minimum and maximum S<sub>S</sub>, S
             <sub>1</sub>, and PGA values for: 50 U.S. States; Washington, D.C.;
             3,222 counties; and most ZIP codes)
           </li>
           <li><a href="datasets/">Data files of gridded values</a></li>
           <li><a href="pdfs/">Mapped design values</a></li>
-          <li>
-            <a href="index.php">Seismic design maps and tools</a> (Older U.S.
-            or worldwide design)
-          </li>
         </ul>
       </td>
     </tr>
