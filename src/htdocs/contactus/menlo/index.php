@@ -75,16 +75,14 @@
         <p>See also: <a href="https://online.wr.usgs.gov/calendar/">USGS Evening Public Lecture Series</a></p>
       </li>
 
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
       <li>
-        <a href="/regional/nca/campus/">
+        <a href="campus/">
           <h4>Campus Video Presentation</h4>
-          <img src="images/campus-2x.jpg" alt="thumbnail image of video" width="150" />
+          <img src="campus/poster.jpg" alt="thumbnail image of video" width="150" />
         </a>
-        <p>This short video gives an overview of the USGS Menlo Park Science Center in California. It briefly introduces you to the San Francisco Bay Area, shows the campus and facilities, and includes interviews with scientists describing their work.</p>
+        <p>This short video gives an overview of the USGS Earthquake Science Center in Menlo Park, California.</p>
       </li>
--->
-</ul>
+    </ul>
 
   </div>
 
