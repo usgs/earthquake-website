@@ -34,13 +34,13 @@ if (!isset($TEMPLATE)){
     <figure>
       <h3>Maps and Database</h3>
       <ul class="align-left">
-          <li><a href="/regional/nca/haywardfault/pdf/hf_pagesized.pdf">Page-sized</a> map (pdf)</li>
-          <li><a href="/regional/nca/haywardfault/pdf/poster_100k.pdf">Poster</a> (24" x 36" pdf) of the map</li>
-          <li><a href="/regional/nca/haywardfault/gis/index.php">Download GIS data</a></li>
+          <li><a href="/learn/topics/haywardfault/pdf/hf_pagesized.pdf">Page-sized</a> map (pdf)</li>
+          <li><a href="/learn/topics/haywardfault/pdf/poster_100k.pdf">Poster</a> (24" x 36" pdf) of the map</li>
+          <li><a href="/learn/topics/haywardfault/gis/index.php">Download GIS data</a></li>
           <li>Interactive Maps
             <ul>
-              <li><a href="/regional/nca/haywardfault/tiled/index.php">Tiled map</a></li>
-          <li><a href="/regional/nca/haywardfault/zoomable/index.php">Zoomable map</a></li>
+              <li><a href="/learn/topics/haywardfault/tiled/index.php">Tiled map</a></li>
+          <li><a href="/learn/topics/haywardfault/zoomable/index.php">Zoomable map</a></li>
         </ul>
           </li>
         </ul>
