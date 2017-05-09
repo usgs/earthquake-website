@@ -1,15 +1,18 @@
 <?php
-	$section = "/data/3dgeologic";
-  $NAVIGATION = true;
+  $section = "/data/3dgeologic";
+  $url = $_SERVER['REQUEST_URI'];
 
-	echo "<a href='/data/' class='up-one-level'>Data and Products</a>",
+  $matchesOverview = false;
+  if (preg_match("@^{$section}/(index.php)?$@",  $url)) {
+    $matchesOverview = true;
+  }
 
-		"<section>",
-			navItem("${section}/","Overview") .
-			navItem("${section}/download.php","Download") .
-			navItem("${section}/documentation.php", "Documentation") .
+  echo '<a href="/data/" class="up-one-level">Data and Products</a>',
 
-		"</section>"
-		;
+  '<section>',
+    navItem("${section}/", 'Overview', $matchesOverview) .
+    navItem("${section}/download.php", 'Download') .
+    navItem("${section}/documentation.php", 'Documentation') .
+  '</section>';
 
 ?>
