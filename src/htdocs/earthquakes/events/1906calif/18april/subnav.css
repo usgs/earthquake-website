@@ -1,0 +1,33 @@
+/* styles for 'sub' navGroup */
+.site-sectionnav > section > section > a,
+.site-sectionnav > section > section > header {
+  color: #333;
+  display: block;
+}
+
+.site-sectionnav > section > section > a {
+  font-size: .88em;
+  padding: .25em 1em .25em 1.5em;
+  transition: background .25s ease-out;
+}
+.site-sectionnav > section > section > a:hover {
+  background-color: #f4f4f4;
+}
+.site-sectionnav > section > section > a:visited {
+  color: #333;
+}
+
+.site-sectionnav > section > section > header {
+  font-size: .88em;
+  padding: .66667em 1.13636em;
+  position: relative;
+}
+.site-sectionnav > section > section > header:before {
+  background-image: linear-gradient(90deg, transparent 0, rgba(0, 0, 0, .1) 2.5em, transparent);
+  content: '';
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
