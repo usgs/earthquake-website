@@ -2,7 +2,10 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'How long did the shaking last?';
-  $HEAD = '<link rel="stylesheet" href="style.css" />';
+  $HEAD = '
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="subnav.css" />
+  ';
   $NAVIGATION  = true;
 
   include 'template.inc.php';
