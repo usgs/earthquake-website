@@ -1,6 +1,6 @@
 <?php
 if (!isset($TEMPLATE)){
-  $TITLE='Ground Shaking Animations';
+  $TITLE='Ground Shaking Simulations';
   $HEAD='';
   $FOOT='';
   $NAVIGATION=true;
