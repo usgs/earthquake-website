@@ -1,10 +1,8 @@
-
-
 <?php
 
 if (!isset($TEMPLATE)) {
   $TITLE = '1906 Marked the Dawn of the Scientific Revolution';
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="subnav.css" />';
   $NAVIGATION  = true;
 
   include 'template.inc.php';

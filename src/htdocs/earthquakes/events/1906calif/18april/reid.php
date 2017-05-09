@@ -2,7 +2,7 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = "Reid's Elastic Rebound Theory";
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="subnav.css" />';
   $NAVIGATION  = true;
 
   include 'template.inc.php';
