@@ -1,4 +1,3 @@
-
 <?php
 
   $section = "/hazards/urban/sfbay/liquefaction";

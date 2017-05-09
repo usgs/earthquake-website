@@ -13,11 +13,11 @@
     $seminar = $seminarArray['seminar'];
 
     $seminarHtml = sprintf('
-      <h5>%s</h5>
-      <p>%s by %s</p>',
-      date('l F j, Y \a\\t g:iA', $seminar['timestamp']),
+      <p>%s by %s</p>
+      <h5>%s</h5>',
       $seminar['topic'],
-      $seminar['speaker']
+      $seminar['speaker'],
+      date('l F j, Y \a\\t g:iA', $seminar['timestamp'])
     );
 
     include 'template.inc.php';
@@ -42,9 +42,7 @@
 
     <ul>
       <li><a href="menloloc.php">Contact info and driving directions</a></li>
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-      <li><a href="/regional/nca/directory/">Staff Directory</a></li>
--->
+      <li><a href="staff/">Staff Directory</a></li>
     </ul>
 
    </div>
@@ -75,16 +73,14 @@
         <p>See also: <a href="https://online.wr.usgs.gov/calendar/">USGS Evening Public Lecture Series</a></p>
       </li>
 
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
       <li>
-        <a href="/regional/nca/campus/">
+        <a href="campus/">
           <h4>Campus Video Presentation</h4>
-          <img src="images/campus-2x.jpg" alt="thumbnail image of video" width="150" />
+          <img src="campus/poster.jpg" alt="thumbnail image of video" width="150" />
         </a>
-        <p>This short video gives an overview of the USGS Menlo Park Science Center in California. It briefly introduces you to the San Francisco Bay Area, shows the campus and facilities, and includes interviews with scientists describing their work.</p>
+        <p>This short video gives an overview of the USGS Earthquake Science Center in Menlo Park, California.</p>
       </li>
--->
-</ul>
+    </ul>
 
   </div>
 
@@ -99,11 +95,8 @@
       <li><a href="/regional/nca/haywardfault/">Digital Map of the Hayward Fault</a></li>
       <li><a href="http://bayquakealliance.org/howclose/">How Close to a Fault Do You Live? Interactive Map</a></li>
       <li><a href="https://pubs.usgs.gov/sim/2004/2848/">Earthquakes and Faults in the San Francisco Bay Area</a></li>
-<!--
-      <li><a href="/regional/nca/qmap/">Liquefaction Hazard Maps</a></li>
+      <li><a href="/hazards/urban/sfbay/liquefaction/">Liquefaction Hazard Maps</a></li>
       <li><a href="/research/parkfield/">Parkfield Earthquake Experiment</a></li>
--->
-
       <li><a href="/learn/topics/hayward_paleo/">Hayward Fault Paleoseismology</a></li>
       <li><a href="/data/3dgeologic/">3D Geologic and Seismic Velocity Model of the San Francisco Bay Region</a></li>
       <li><a href="/data/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>

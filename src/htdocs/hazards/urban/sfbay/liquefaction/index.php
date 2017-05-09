@@ -7,6 +7,7 @@ if (!isset($TEMPLATE)) {
 
   include 'template.inc.php';
 }
+
 ?>
 
 <h2>Overview</h2>
@@ -36,4 +37,5 @@ if (!isset($TEMPLATE)) {
     </a>
     <p>This map shows the likelihood of liquefaction in Northern Santa Clara County during a magnitude 7.8 earthquake on the northernmost segments of the San Andreas Fault.</p>
   </li>
+
 </ul>

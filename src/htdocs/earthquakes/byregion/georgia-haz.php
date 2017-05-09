@@ -11,7 +11,7 @@
 
 <h2>2014 Seismic Hazard Map</h2>
 <p>
-<img src="images/georgia_haz.jpg" alt="Seismic Hazard Map"/>
+<img src="images/georgia-haz.jpg" alt="Seismic Hazard Map"/>
 </p>
 <p>
 <a href="/hazards/">USGS National Seismic Hazard Maps</a>

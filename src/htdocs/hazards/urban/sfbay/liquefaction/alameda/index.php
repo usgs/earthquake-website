@@ -14,6 +14,7 @@ if (!isset($TEMPLATE)) {
 <div>
   <a href="http://pubs.usgs.gov/of/2002/of02-296/of02-296_2liq-sg.pdf"><img src="images/liquefaction2.gif" alt="map showing liquefaction hazard"/></a>
   <p>This map shows the liquefaction hazard in
+
                 the communities of Alameda, Berkeley, Emeryville, Oakland, and
                 Piedmont for a magnitude 7.1 earthquake on the Hayward fault.
                 The map predicts the approximate percentage of each designated
@@ -26,6 +27,7 @@ if (!isset($TEMPLATE)) {
                 scale and should not be used for site-specific design and consideration.
                 Subsurface conditions can vary abruptly and borings are required
                 to address the hazard at a given location.</p>
+
   <p><a href="http://pubs.usgs.gov/of/2002/of02-296/of02-296_2liq-sg.pdf">High quality printable image</a>.</p>
 </div>
 

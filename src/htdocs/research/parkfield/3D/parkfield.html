@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Parkfield Earthquakes</title>
+<link rel="stylesheet" href="/css/nca/base.css" type="text/css" media="screen,projection" />
+</head>
+<body>
+<p><img src="/images/usgs_sm.blk.gif" width="72" height="20" alt="USGS logo" />
+</p>
+<h2>3-D Display of Earthquakes at Parkfield</h2>
+    <ul>
+        <li>The red lines represent the trace of the San Andreas fault (at the surface).</li>
+        <li>Most earthquakes are shown as white points.</li>
+        <li>Earthquakes with fault plane solutions are represented by blue rectangle, oriented in a selected fault plane</li>
+        <li>The image may be rotated, zoomed, and set spinning with your mouse.</li>
+    </ul>
+
+        <applet archive="live.jar" code="Live.class" width="600" height="600" align="left" hspace="10">
+            <param name="BGCOLOR" value="#000000" />
+            <param name="INPUT_FILE" value="parkfield.3d" />
+        </applet>
+
+        <table cellspacing="1" class="tabular">
+          <caption><strong>Instructions</strong></caption>
+          <tr>
+            <th>Operation</th>
+            <th>Effect</th>
+          </tr>
+          <tr>
+            <td>Drag mouse (left mouse button pressed)</td>
+            <td>Rotate about an axis in the picture</td>
+          </tr>
+          <tr>
+            <td>Release mouse while dragging</td>
+            <td>Spin about an axis in the picture</td>
+          </tr>
+          <tr>
+            <td>Click mouse</td>
+            <td>Stop spinning</td>
+          </tr>
+          <tr>
+            <td>Drag mouse vertically with <tt>SHIFT</tt> key pressed</td>
+            <td>Zoom</td>
+          </tr>
+          <tr>
+            <td>Drag mouse horizontally with <tt>SHIFT</tt> key pressed</td>
+            <td>Rotate about axis perpendicular to screen</td>
+          </tr>
+          <tr>
+            <td>Drag mouse vertically with <tt>CONTROL</tt> key pressed</td>
+            <td>changing focal length</td>
+          </tr>
+          <tr>
+            <td>Drag mouse horizontally with <tt>CONTROL</tt> key pressed</td>
+            <td>changing strength of stereo effect</td>
+          </tr>
+          <tr>
+            <td>Drag mouse vertically with <tt>META (ALT)</tt> key (or right mouse button) pressed</td>
+            <td>stripping parts of the graphics</td>
+          </tr>
+          <tr>
+            <td>&#8220;o&#8221; key</td>
+            <td>printing parameter settings to the Java console (aka Java messages window)</td>
+          </tr>
+          <tr>
+            <td>&#8220;s&#8221; key</td>
+            <td>toggle between single picture, stereo pictures for diverge fusing
+and stereo pictures for cross fusing</td>
+          </tr>
+          <tr>
+            <td><tt>HOME</tt> key </td>
+            <td>restore original perspective</td>
+          </tr>
+
+        </table>
+
+
+</body>
+</html>
+ 
