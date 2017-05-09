@@ -1,16 +1,21 @@
 <?php
-	$section = "/hazards/urban/sfbay/liquefaction";
-  $NAVIGATION = true;
 
-	echo "<a href='/hazards/urban/sfbay/liquefaction/' class='up-one-level'>Liquefaction Hazard Maps</a>",
+  $section = "/hazards/urban/sfbay/liquefaction";
+  $url = $_SERVER['REQUEST_URI'];
 
-		"<section>".
-      navItem("${section}/","Overview") .
-			navItem("${section}/sfbay/", "San Francisco Bay Area") .
-			navItem("${section}/alameda/","Northwestern Alameda County") .
+  $matchesOverview = false;
+  if (preg_match("@^{$section}/(index.php)?$@", $url)) {
+    $matchesOverview = true;
+  }
+
+  echo "<a href='/hazards/urban/' class='up-one-level'>Urban Seismic Hazards</a>",
+
+    "<section>" .
+      navItem("${section}/", "Overview", $matchesOverview) .
+      navItem("${section}/sfbay/", "San Francisco Bay Area") .
+      navItem("${section}/alameda/","Northwestern Alameda County") .
       navItem("${section}/scvalley/","Northern Santa Clara Valley") .
-
-		"</section>"
-		;
+    "</section>"
+  ;
 
 ?>
