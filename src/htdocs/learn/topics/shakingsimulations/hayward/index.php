@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Hayward Fault Scenario Earthquakes';
+  $TITLE = 'Hayward Fault Scenarios';
   $HEAD = '';
   $FOOT = '';
   $NAVIGATION = true;
