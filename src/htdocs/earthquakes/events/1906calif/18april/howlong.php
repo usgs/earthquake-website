@@ -2,7 +2,7 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'How long was the 1906 rupture?';
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="subnav.css" />';
   $NAVIGATION  = true;
 
   include 'template.inc.php';

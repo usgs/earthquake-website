@@ -2,7 +2,7 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'How fast did the ground move?';
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="subnav.css" />';
   $NAVIGATION  = true;
 
   include 'template.inc.php';

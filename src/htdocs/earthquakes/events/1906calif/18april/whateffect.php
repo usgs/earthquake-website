@@ -2,7 +2,7 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'Big Quakes can be Followed by Decades of Inactivity';
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="subnav.css" />';
   $NAVIGATION  = true;
 
   include 'template.inc.php';

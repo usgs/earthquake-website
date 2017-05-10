@@ -2,7 +2,7 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'References';
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="subnav.css" />';
   $NAVIGATION  = true;
 
   include 'template.inc.php';
