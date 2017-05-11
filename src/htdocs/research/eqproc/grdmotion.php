@@ -28,11 +28,6 @@ if (!isset($TEMPLATE)) {
 </p>
 <p>
   Many faults in the San Francisco Bay area are not completely stuck, but instead they undergo fault creep, steady motions along the fault. If these motions proceed as rapidly as the plates slide past each other, then the fault is essentially &lsquo;unstuck&rsquo; and no stress builds up. This is the case for portions of the Hayward fault, Calaveras fault, and San Andreas fault.
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-  <a href="/monitoring/edm/parkfield/continuous.php">San Andreas fault</a>.
--->
-
 </p>
 <p>
   Measureable motions above the &lsquo;background&rsquo; often occur days, months, or even years after an earthquake occurs, even though the causative faults are stuck. This usually happens after magnitude > 7 earthquakes. Such motions continued for several years following the 1999 M7.1 Hector Mine earthquake in the Mojave Desert, California. Such large earthquake impart large stresses into the Earth&rsquo;s lower crust and mantle, the layer between the crust and the core. The lower crust and mantle have higher temperature than the upper crust (the upper ~15 km), and minerals like quartz will flow at these higher temperatures. As a result, stresses that lead to earthquakes tend to be concentrated in the continental upper crust, but the gradual dissipation of these stresses in the ductile layer will lead to continued crustal motions for years after a large earthquake.
@@ -63,9 +58,5 @@ if (!isset($TEMPLATE)) {
 </p>
 <p>
   The horizontal velocity field in the San Francisco Bay area is constrained by <a href="/monitoring/gps/">continuous GPS (CGPS) and survey-mode GPS (SGPS) measurements</a>. These velocities are almost parallel to the regional faults and decrease from west to east as one approaches the interior of the North American plate.  While a gradual transition across the San Andreas Fault indicates that it is locked, the abrupt transition across the southern Hayward fault indicates that it is creeping.  This is confirmed by creepmeter measurements across the Hayward fault.
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-  <a href="/monitoring/deformation/data/plots/?region=SF">creepmeter measurements across the Hayward fault</a>.
--->
-
+  <a href="/monitoring/deformation/data/plots.php">creepmeter measurements across the Hayward fault</a>.
 </p>
