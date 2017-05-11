@@ -86,18 +86,19 @@
 
   <div class="column one-of-three">
 
-    <h2>Regional interest</h2>
+    <h2>Regional Interest</h2>
 
     <ul>
       <li><a href="/earthquakes/events/1989lomaprieta/">October 17, 1989 Loma Prieta Earthquake</a></li>
       <li><a href="/earthquakes/events/1906calif/">April 18, 1906 San Francisco Earthquake</a></li>
       <li><a href="/earthquakes/events/1868calif/">October 21, 1868 Hayward Fault Earthquake</a></li>
-      <li><a href="/regional/nca/haywardfault/">Digital Map of the Hayward Fault</a></li>
-      <li><a href="http://bayquakealliance.org/howclose/">How Close to a Fault Do You Live? Interactive Map</a></li>
-      <li><a href="https://pubs.usgs.gov/sim/2004/2848/">Earthquakes and Faults in the San Francisco Bay Area</a></li>
-      <li><a href="/hazards/urban/sfbay/liquefaction/">Liquefaction Hazard Maps</a></li>
-      <li><a href="/research/parkfield/">Parkfield Earthquake Experiment</a></li>
+      <li><a href="/learn/topics/haywardfault/">Google Earth Hayward Fault Tour</a></li>
+      <li><a href="/learn/topics/geologicmaps/">Bay Area Geologic Maps in Google Earth</a></li>
       <li><a href="/learn/topics/hayward_paleo/">Hayward Fault Paleoseismology</a></li>
+      <li><a href="/hazards/urban/sfbay/liquefaction/">Liquefaction Hazard Maps</a></li>
+      <li><a href="https://bayquakealliance.org/howclose/">How Close to a Fault Do You Live? Interactive Map</a></li>
+      <li><a href="https://pubs.usgs.gov/sim/2004/2848/">Earthquakes and Faults in the San Francisco Bay Area</a></li>
+      <li><a href="/research/parkfield/">Parkfield Earthquake Experiment</a></li>
       <li><a href="/data/3dgeologic/">3D Geologic and Seismic Velocity Model of the San Francisco Bay Region</a></li>
       <li><a href="/data/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>
 
