@@ -54,8 +54,6 @@
 
 
   <!--edm-->
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
   <li>
     <a href="/monitoring/edm/">
       <h4>Two-color Electronic Distance Meter (EDM)</h4>
@@ -65,7 +63,6 @@
       were made in Parkfield, Long Valley, and Southern California.
     </p>
   </li>
--->
 
   <!--data-->
   <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
