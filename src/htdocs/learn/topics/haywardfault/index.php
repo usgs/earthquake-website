@@ -17,9 +17,8 @@ if (!isset($TEMPLATE)){
       <div class="column four-of-five">
     <figure>
       <h3>Virtual Tour using Google Earth</h3>
-      <p>To start the tour, open the map and tour folder in GoogleEarth. Select the &#8220;Hayward Fault Virtual Helicopter Tour&#8221; file, click the play button (triangle) located below the &#8220;Places&#8221; panel. Bundled with the map and tour are: 1) photographs showing evidence of <a href="/learn/topics/creep/">creep</a> and other aspects of faulting, 2) locations of creep, 3) locations of exploratory trenches crossing the fault,  4) moving landslides (from InSAR, only available for northern Berkeley Hills), and the kilometer grid used in the published map.</p>
-        <p>Requires <a href="http://earth.google.com/">Google Earth</a> (free download)</p>
-        <p class="kml"><a href="kml/HaywardFaultTour.kmz">Hayward fault map and tour</a></p>
+      <p>To start the tour, download and open the &ldquo;Hayward Fault Map and Tour&rdquo; file in <a href="http://earth.google.com/">Google Earth</a> (free download), then click the &ldquo;Play Tour&rdquo; button located at the bottom of the &ldquo;Places&rdquo; panel. Bundled with the map and tour are: 1) photographs showing evidence of <a href="/learn/topics/creep.php">creep</a> and other aspects of faulting, 2) locations of creep, 3) locations of exploratory trenches crossing the fault,  4) moving landslides (from InSAR, only available for northern Berkeley Hills), and the kilometer grid used in the published map.</p>
+        <p class="kml"><a href="kml/HaywardFaultTour.kmz">Hayward Fault Map and Tour</a></p>
           <br/><figcaption>This map is informational only and is not a regulatory map. <a href="http://maps.conservation.ca.gov/cgs/informationwarehouse/index.html?map=regulatorymaps">Official state Earthquake Fault Zone maps</a> that govern construction setbacks and disclosure are produced by the <a href="http://gmw.consrv.ca.gov/shmp/">California Geological Survey</a>.</figcaption>
     </figure>
   </div>
@@ -39,8 +38,8 @@ if (!isset($TEMPLATE)){
           <li><a href="/learn/topics/haywardfault/gis/index.php">Download GIS data</a></li>
           <li>Interactive Maps
             <ul>
-              <li><a href="/learn/topics/haywardfault/tiled/index.php">Tiled map</a></li>
-          <li><a href="/learn/topics/haywardfault/zoomable/index.php">Zoomable map</a></li>
+              <li><a href="/learn/topics/haywardfault/tiled/">Tiled map</a></li>
+          <li><a href="/learn/topics/haywardfault/zoomable/">Zoomable map</a></li>
         </ul>
           </li>
         </ul>
