@@ -1,6 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:
+      //  Contact: Scott Haefner or Greg Smoczyk
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Google Earth/KML Files';
       $NAVIGATION  = true;
@@ -14,12 +14,10 @@
 <div class="row">
   <div class="column three-of-five">
     <ul class="linklist">
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
       <li>
         <a href="/earthquakes/feed/v1.0/kml.php">
           <h4>Real-Time Earthquakes</h4>
-          <img src="/regional/nca/1868virtualtour/images/RealTimeEQ3.jpg" alt="Real Time Earthquakes"/>
+          <img src="/earthquakes/events/1868calif/virtualtour/images/RealTimeEQ3.jpg" alt="Real Time Earthquakes"/>
         </a>
         <p>
           Display real-time earthquakes,
@@ -27,8 +25,6 @@
           earthquake options including color by age/depth.
         </p>
       </li>
--->
-
       <li>
         <a href="http://usgs.github.io/shakemap/products.html#google-earth-overlay">
           <h4>ShakeMaps</h4>
@@ -79,10 +75,8 @@
           The outermost shell of the Earth consists of a mosaic of rigid &ldquo;plates&rdquo; that have been moving relative to one another for hundreds of millions of years.
         </p>
       </li>
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
       <li>
-        <a href="/regional/nca/bayarea/">
+        <a href="/learn/topics/geologicmaps/">
           <h4>San Francisco Bay Area Geologic Maps</h4>
           <img src="images/bayarea.jpg" alt="Bay Area"/>
         </a>
@@ -91,9 +85,9 @@
         </p>
       </li>
       <li>
-        <a href="/regional/nca/1868virtualtour/">
+        <a href="/earthquakes/events/1868calif/virtualtour/">
           <h4>Virtual Tour of the 1868 Hayward Earthquake</h4>
-          <img src="/regional/nca/1868virtualtour/images/modernHaz.jpg" alt="Modern Hazard"/>
+          <img src="/earthquakes/events/1868calif/images/modernHaz.jpg" alt="Modern Hazard"/>
         </a>
         <p>
           Using this self-guided, virtual tour of the 1868 quake in
@@ -105,9 +99,9 @@
         </p>
       </li>
       <li>
-        <a href="/regional/nca/virtualtour/">
+        <a href="/earthquakes/events/1906calif/virtualtour/">
           <h4>Virtual Tour of the 1906 San Francisco Earthquake</h4>
-          <img src="/regional/nca/virtualtour/images/RuptureSlip.jpg" alt="Rupture Slip"/>
+          <img src="/earthquakes/events/1906calif/virtualtour/images/RuptureSlip.jpg" alt="Rupture Slip"/>
         </a>
         <p>
           Interactive tour of San Francisco
@@ -132,12 +126,10 @@
           zoomed into an area of interest.
         </p>
       </li>
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
       <li>
-        <a href="/regional/nca/haywardfault/">
+        <a href="/learn/topics/haywardfault/">
           <h4>Digital Map of the Hayward Fault</h4>
-          <img src="/regional/nca/haywardfault/images/stadium_sm.jpg" alt="Hayward Fault Stadium"/>
+          <img src="/learn/topics/haywardfault/images/stadium_sm.jpg" alt="Hayward Fault Stadium"/>
         </a>
         <p>
           Map showing active fault traces within the Hayward Fault Zone,
@@ -146,8 +138,6 @@
           viewed in the Google Earth.
         </p>
       </li>
-
--->
       <li>
         <a href="http://geomaps.wr.usgs.gov/sfgeo/geologic/downloads.html">
           <h4>San Francisco Bay Region Geology and Faults</h4>

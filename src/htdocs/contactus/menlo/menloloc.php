@@ -20,21 +20,13 @@
       <a href="mailto:garcia@usgs.gov">Susan Garcia</a><br/>
       650-329-4668
     </p>
-
-<!-- *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-    <p>
-      <b>Staff Directory:<br/>
-      </b><a href="/regional/nca/directory/">Earthquake Science Center</a>
-    </p>
--->
-
     <p>
       <b>Write </b>to us at:<br/>
       U.S. Geological Survey<br/>
       345 Middlefield Road<br/>
 		    MS 977<br/>
         Menlo Park, California 94025
-        </p>
+      </p>
   	<p>
   		<b>Telephone</b> us at:<br/>
     	650-329-4668, and speak with Susan Garcia, who will help

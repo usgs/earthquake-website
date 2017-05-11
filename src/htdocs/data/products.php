@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Lisa Wald,
-  // Last modified: 6/15/2016
   if (!isset($TEMPLATE)) {
   $TITLE = 'Products';
   $NAVIGATION = true;
@@ -68,19 +67,6 @@
         <a href="/learn/kml.php">Google Earth/KML Files</a> for earthquakes, faults, and other special studies.
       </p>
     </div>
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
-    <div class="alert" style="margin-bottom:16px">
-      <figure class="right">
-        <img src="images/sf-2x.jpg" width="75" alt=""/>
-      </figure>
-    	<h3 id="sfbay">San Francisco Bay Area Maps</h3>
-      <p>
-        <a href="/regional/nca/maps/">San Francisco Bay Area Maps</a> for faults, shaking hazards, earthquake probabilities, and liquefaction hazards.
-      </p>
-    </div>
--->
 
     <div class="alert" style="margin-bottom:16px">
       <figure class="right">
