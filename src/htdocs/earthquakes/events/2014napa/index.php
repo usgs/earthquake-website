@@ -23,13 +23,7 @@
 </figure>
 
 <p>
-  In the wee hours of Sunday morning at 3:20am, the residents and wineries of Napa Valley were shaken by a magnitude 6.0 earthquake, the largest in the San Francisco Bay Area in over 25 years, and the first since the M7.9 1906 earthquake
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-  <a href-"/regional/nca/1906/">M7.9 1906 earthquake</a>
--->
-
-  to rupture on the surface. Residents in this area feel small earthquakes often, and they generally pause for a moment and then go back to whatever they were doing. But this was no small earthquake, and as the small representative sample of <a href="https://jawbone.com/blog/napa-earthquake-effect-on-sleep/">Jawbone&copy; data</a> shows, many residents had trouble going back to sleep after this one.
+  In the wee hours of Sunday morning at 3:20am, the residents and wineries of Napa Valley were shaken by a magnitude 6.0 earthquake, the largest in the San Francisco Bay Area in over 25 years, and the first since the <a href="/earthquakes/events/1906calif/">M7.9 1906 earthquake</a> to rupture on the surface. Residents in this area feel small earthquakes often, and they generally pause for a moment and then go back to whatever they were doing. But this was no small earthquake, and as the small representative sample of <a href="https://jawbone.com/blog/napa-earthquake-effect-on-sleep/">Jawbone&copy; data</a> shows, many residents had trouble going back to sleep after this one.
 </p>
 <p>
   In the days, weeks and months that followed, scientists collected and analyzed data from instruments that recorded the event. Many others spread out across the Napa Valley and surrounding area to collect additional data such as fault rupture expressed on the ground surface, as well as shaking induced damage to buildings and infrastructure. Data collected from <a href="/research/wasatch/collect.php">airborne LIDAR</a> were used to look for effects on the ground surface. In addition, airborne and ground-based LIDAR data were collected in areas known to have surface cracks to measure and describe what happened. The following summary is what USGS (and USGS-funded) scientists have learned from the data one year after the earthquake.

@@ -24,11 +24,8 @@
     </tr>
     <tr>
       <td><b>1.</b></td>
-      <td>7.8</td>
-      
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-      <td><a href="/regional/nca/1906/">1906 San Francisco, California Earthquake</a></td>
--->
+      <td>7.8</td>      
+      <td><a href="/earthquakes/events/1906calif/">1906 San Francisco, California Earthquake</a></td>
       <td>1906 San Francisco, California Earthquake</td>
       <td>Near San Pablo Bay, California</td>
       <td>1906-04-18</td>

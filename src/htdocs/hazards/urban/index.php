@@ -17,21 +17,17 @@ if	(!isset($TEMPLATE))	{
 
 <h2 id="ca">California</h2>
 <ul class="no-style linklist">
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
   <li>
-    <a href="/regional/nca/alameda/">
-      <h4>Liquefaction Hazard in Oakland, CA</h4>
+    <a href="/hazards/urban/sfbay/liquefaction/">
+      <h4>Liquefaction Hazard Maps for San Francisco Bay Area</h4>
       <img src="images/oakland.gif" alt="thumbnail of Liquefaction hazard map of Oakland area"/>
     </a>
     <p>
-      The liquefaction hazard map
-      predicts the approximate percentage of each designated area that will have
+      The liquefaction hazard maps for the SF Bay Area, NW Alameda County, and N Santa Clara Valley predict the approximate percentage of each designated area that will have
       surface manifestations of liquefaction during an M7.1 earthquake on the
       Hayward fault. An earthquake of this magnitude is expected if the whole
       Hayward fault ruptures in a single event (Working Group on California
-      Earthquake Probabilities, 1999). This event dominates the deaggregated
-      hazard near the eastern shore of San Francisco Bay.
+      Earthquake Probabilities, 1999).
     </p>
   </li>
   -->
@@ -60,7 +56,7 @@ if	(!isset($TEMPLATE))	{
   </li>
   <li>
     <a href="http://www.abag.ca.gov/bayarea/eqmaps/">
-      <h4>San Francisco Bay Area Hazard Maps</h4>
+      <h4>Hazard Maps for San Francisco Bay Area</h4>
       <img src="images/abag.gif" alt="thumbnail of ABAG logo"/>
     </a>
     <p>
@@ -71,7 +67,7 @@ if	(!isset($TEMPLATE))	{
   </li>
   <li>
     <a href="http://www.conservation.ca.gov/cgs/shzp/Pages/Index.aspx">
-      <h4>California Seismic Hazard Maps</h4>
+      <h4>Seismic Hazard Maps for California</h4>
       <img src="images/ca.gif" alt="thumbnail of CA.GOV logo"/>
     </a>
     <p>

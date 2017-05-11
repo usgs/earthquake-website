@@ -115,16 +115,9 @@
 
       <p>
         Currently to make geodetic observations the USGS uses the Global Positioning System (GPS) and also other techniques.
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
         (<a href="/monitoring/deformation/data/instruments.php">creepmeters, tiltmeters, strainmeters, magnetometers, pore pressure monitors</a>).
--->
       </p>
       <ul>
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
         <li><a href="/monitoring/deformation/data/">Crustal Deformation Data</a> </li>
         <li><a href="/monitoring/deformation/data/plots/">Crustal Deformation Data Plots</a></li>
 -->
@@ -204,14 +197,11 @@
         <li><a href="/hazards/hazmaps/">National Hazard Map Data</a></li>
         <li><a href="/hazards/urban/">Urban Hazard Map Data</a></li>
       </ul>
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
       <ul>
-        <li><a href="/regional/nca/soiltype/">Soil Type and Shaking Hazard in the San Francisco Bay Area</a></li>
-        <li><a href="/regional/nca/alameda/shaking.php">Shaking Hazard in Alameda County, CA</a></li>
-        <li><a href="/regional/nca/qmap/">Liquefaction Hazard in San Francisco Bay Area, NW Alameda County, N Santa Clara Valley, CA</a></li>
+        <li><a href="/hazards/urban/sfbay/soiltype/">Soil Type and Shaking Hazard in the San Francisco Bay Area</a></li>
+        <li><a href="/hazards/urban/sfbay/liquefaction/alameda/shaking.php">Shaking Hazard in Alameda County, CA</a></li>
+        <li><a href="/hazards/urban/sfbay/liquefaction/">Liquefaction Hazard in San Francisco Bay Area, NW Alameda County, N Santa Clara Valley, CA</a></li>
       </ul>
--->
 
        <h4>Faults and Folds</h4>
 
@@ -247,15 +237,9 @@
       <h3 id="other">Other Data Sources</h3>
 
       <ul>
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
-        <li><a href="/regional/nca/maps/">San Francisco Bay Area Data &amp; Maps</a></li>
         <li><a href="/research/parkfield/livedata.php">Parkfield Geophysical Data</a></li>
         <li><a href="/research/parkfield/2003site.php">SAFOD Data</a></li>
         <li><a href="/learn/topics/flinn_engdahl.php">Flinn-Engdahl Regionalization Files</a></li>
--->
-
         <li><a href="/data/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>
       </ul>
     </div>
