@@ -130,17 +130,16 @@
           <li><a href="http://www.scign.org/realtime/">Southern California</a></li>
         </ul>
         </li>
+        <li>USGS once used Electronic Distance Measurement (EDM) with two different instruments:
+        <ul>
 
 <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
 
-        <li>USGS once used Electronic Distance Measurement (EDM) with two different instruments:
-        <ul>
           <li><a href="/monitoring/deformation/geodolite/">Geodolite (1970 to 1992)</a></li>
+-->
           <li><a href="/monitoring/edm/ ">Two Color EDM (1984 to 2005)</a></li>
         </ul>
         </li>
--->
-
       </ul>
     </div>
 

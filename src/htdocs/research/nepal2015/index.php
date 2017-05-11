@@ -72,11 +72,7 @@ if (!isset($TEMPLATE)) {
 <h2>What We Know So Far</h2>
 <p>
   The epicenter of the earthquake was west of the Kathmandu Valley, but the rupture propagated east towards the valley and the capital city of Kathmandu.  The earthquake originated at a relatively shallow depth of 12-15 km (7.5-9.3 mi). The InSar
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-  <a href="/regional/nca/1868virtualtour/bayarea.php">InSar</a>
--->
-
+  <a href="/earthquakes/events/1868calif/virtualtour/bayarea.php">InSar</a>
   data indicated that there was no surface rupture, either along a new trace or along known fault lines from previous earthquakes.  Scientists subsequently confirmed this by conducting a field survey in the Kathmandu Valley.  Field data and seismic data indicate that the 2015 fault rupture broke adjacent to the 1934 rupture, and it appears that a larger rupture occurred historically adjacent to the other end too.  Scientists observed impressive ground fractures observed in Kausaltar, but they were the result of local site conditions and shaking, not tectonic displacement.
 </p>
 <p>
