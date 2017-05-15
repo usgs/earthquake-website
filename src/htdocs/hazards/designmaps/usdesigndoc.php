@@ -292,7 +292,6 @@
       <dt>2</dt><dd>Site Class C</dd>
       <dt>3</dt><dd>Site Class D</dd>
       <dt>4</dt><dd>Site Class E</dd>
-      <dt>5</dt><dd>Site Class F</dd>
     </dl>
   </li>
   <li><code>riskcategory</code>:
