@@ -1,0 +1,5 @@
+a-scene {
+  max-width: 1000px;
+  padding: 25%; /* sets height to 50% of width */
+  width: 100%;
+}
