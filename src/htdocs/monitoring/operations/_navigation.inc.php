@@ -17,6 +17,11 @@
       navItem($NETOPS_ISSUES_URL . '/' . $virtualNetwork .
           'station_status.csv', 'Issues (CSV)')
     );
+
+      if ($virtualNetwork == 'ANSS') {
+        echo '<a href="http://wiki.anss-sis.scsn.org/SIStrac">ANSS Station Information System</a>';
+      }
+
   } else {
     echo
       navItem('?virtual_network=ANSS', 'ANSS Stations') .

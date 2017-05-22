@@ -71,7 +71,7 @@ if (!isset($TEMPLATE)) {
           <h4>Search DYFI Archives</h4>
           <img src="/data/shakemap/images/search-2x.gif" alt="" width="75"/>
         </a>
-        <p>This search is configured to return only events with DYFI products. You may enter additional search parameters. The default time window is the past 30 days.</p>
+        <p>This search is configured to return only events with DYFI products. You may enter additional search parameters for magnitude threshold, time window, and geographic area.</p>
       </li>
       <li>
         <a href="summary-maps.php">
