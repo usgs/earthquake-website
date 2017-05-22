@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:
-      //  Last  modified: 11/10/2016
+      //  Contact: Cecily Wolfe
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'ANSS Committees';
       $NAVIGATION  = true;
@@ -51,8 +50,8 @@
       <td><p>URS Corporation</p></td>
     </tr>
     <tr>
-      <td><p>Langston, Charles<br />(SSA)</p></td>
-      <td><p>University of Memphis</p></td>
+      <td><p>Chapman, Martin<br />(SSA)</p></td>
+      <td><p>Virginia Tech</p></td>
     </tr>
   </table>
   <h3>The ANSS National Steering Committee is made up of the following representatives:</h3>
