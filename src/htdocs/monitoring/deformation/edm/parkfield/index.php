@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = '';
+  $TITLE = 'Parkfield';
   $HEAD = '';
   $FOOT = '';
   $NAVIGATION = true;

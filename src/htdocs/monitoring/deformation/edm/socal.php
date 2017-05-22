@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = '';
+  $TITLE = 'Southern California';
   $HEAD = '';
   $FOOT = '';
   $NAVIGATION = true;

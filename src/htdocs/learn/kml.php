@@ -87,7 +87,7 @@
       <li>
         <a href="/earthquakes/events/1868calif/virtualtour/">
           <h4>Virtual Tour of the 1868 Hayward Earthquake</h4>
-          <img src="/earthquakes/events/1868calif/images/modernHaz.jpg" alt="Modern Hazard"/>
+          <img src="/earthquakes/events/1868calif/virtualtour/images/modernHaz.jpg" alt="Modern Hazard"/>
         </a>
         <p>
           Using this self-guided, virtual tour of the 1868 quake in
@@ -109,8 +109,6 @@
           maps, historic photographs, quotes from earthquake survivors, and more.
         </p>
       </li>
--->
-
       <li>
         <a href="/data/NoCal_GeoES_LiDAR_hs.kmz">
           <h4>Northern California LiDAR Hillshades</h4>
