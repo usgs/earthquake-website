@@ -30,10 +30,9 @@ if	(!isset($TEMPLATE))	{
       Earthquake Probabilities, 1999).
     </p>
   </li>
-  -->
   <li>
     <a href="sfbay/soiltype/">
-      <h4>Soil Type and Shaking Hazard in Oakland, CA</h4>
+      <h4>Soil Type and Shaking Hazard in the San Francisco Bay Area</h4>
       <img src="images/soiltype.gif" alt="thumbnail of soil type and shaking hazard"/>
     </a>
     <p>

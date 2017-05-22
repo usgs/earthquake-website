@@ -255,13 +255,7 @@
 </p>
 
 <p>
-  <a class="url-example"
-  href="/designmaps/us/inc/data-api.inc.php?latitude=40&amp;longitude=-105&amp;edition=ibc-2009&amp;variant=0&amp;siteclass=3&amp;riskcategory=0">https://earthquake.usgs.gov/designmaps/us/inc/data-api.inc.php?
-  <span class="url-example-params">latitude=40&amp;
-  longitude=-105&amp;
-  edition=ibc-2009&amp;
-  siteclass=3&amp;
-  riskcategory=0</span></a>
+  <a class="url-example" href="/designmaps/us/inc/data-api.inc.php?latitude=40&amp;longitude=-105&amp;edition=ibc-2009&amp;variant=0&amp;siteclass=3&amp;riskcategory=0">https://earthquake.usgs.gov/designmaps/us/inc/data-api.inc.php?latitude=40&amp;longitude=-105&amp;edition=ibc-2009&amp;siteclass=3&amp;riskcategory=0</a>
 </p>
 
 <p>Each parameter has a different set of options:</p>
@@ -298,7 +292,6 @@
       <dt>2</dt><dd>Site Class C</dd>
       <dt>3</dt><dd>Site Class D</dd>
       <dt>4</dt><dd>Site Class E</dd>
-      <dt>5</dt><dd>Site Class F</dd>
     </dl>
   </li>
   <li><code>riskcategory</code>:

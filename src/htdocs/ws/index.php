@@ -20,5 +20,7 @@
 <h2>Web APIs</h2>
 <ul>
   <li><a href="/fdsnws/event/1/">Earthquakes</a> - real-time and catalog (ComCat).</li>
-  <li><a href="geoserve/">GeoServe</a> - places, regions and layers used in Latest Earthquakes.</li>
+  <li><a href="/ws/geoserve/">GeoServe</a> - places, regions and layers used in Latest Earthquakes.</li>
+  <li><a href="/nshmp-haz-ws/">US Hazard</a></li>
+  <li><a href="/ws/designmaps/">US Seismic Design</a></li>
 </ul>
