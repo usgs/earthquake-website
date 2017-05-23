@@ -6,7 +6,7 @@
     $NAVIGATION = true;
     include 'template.inc.php';
   }
-  $ftp = 'ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data/downloads';
+  $ftp = 'ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data';
 ?>
 
 <p>
@@ -34,8 +34,8 @@
           <td class="sa">Peak Ground Acceleration</td>
           <td class="pe">Not Applicable</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.pga.txt.gz" title="8 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.pga.bin.gz" title="15 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.pga.txt.gz" title="8 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.pga.bin.gz" title="15 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -43,8 +43,8 @@
           <td class="sa">Peak Ground Acceleration</td>
           <td class="pe">10&#37; in 50 Years</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.pga.10pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.pga.10pc50.bin.gz" title="2 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.pga.10pc50.txt.gz" title="3 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.pga.10pc50.bin.gz" title="2 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -52,8 +52,8 @@
           <td class="sa">Peak Ground Acceleration</td>
           <td class="pe">2&#37; in 50 Years</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.pga.2pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.pga.2pc50.bin.gz" title="2 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.pga.2pc50.txt.gz" title="3 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.pga.2pc50.bin.gz" title="2 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -61,8 +61,8 @@
           <td class="sa">0.1 Second (10Hz)</td>
           <td class="pe">Not Applicable</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.0p10.txt.gz" title="7 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.0p10.bin.gz" title="15 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p10.txt.gz" title="7 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p10.bin.gz" title="15 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -70,8 +70,8 @@
           <td class="sa">0.2 Second (5Hz)</td>
           <td class="pe">Not Applicable</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.0p20.txt.gz" title="7 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.0p20.bin.gz" title="15 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.txt.gz" title="7 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.bin.gz" title="15 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -79,8 +79,8 @@
           <td class="sa">0.2 Second (5Hz)</td>
           <td class="pe">10&#37; in 50 Years</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.0p20.10pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.0p20.10pc50.bin.gz" title="2 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.10pc50.txt.gz" title="3 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.10pc50.bin.gz" title="2 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -88,8 +88,8 @@
           <td class="sa">0.2 Second (5Hz)</td>
           <td class="pe">2&#37; in 50 Years</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.0p20.2pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.0p20.2pc50.bin.gz" title="2 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.2pc50.txt.gz" title="3 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.2pc50.bin.gz" title="2 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -97,8 +97,8 @@
           <td class="sa">0.3 Second (3.33Hz)</td>
           <td class="pe">Not Applicable</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.0p33.txt.gz" title="8 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.0p33.bin.gz" title="16 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p33.txt.gz" title="8 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p33.bin.gz" title="16 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -106,8 +106,8 @@
           <td class="sa">0.5 Second (2Hz)</td>
           <td class="pe">Not Applicable</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.0p50.txt.gz" title="8 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.0p50.bin.gz" title="16 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p50.txt.gz" title="8 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p50.bin.gz" title="16 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -115,8 +115,8 @@
           <td class="sa">1.0 Second (1Hz)</td>
           <td class="pe">Not Applicable</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.1p00.txt.gz" title="8 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.1p00.bin.gz" title="17 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.txt.gz" title="8 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.bin.gz" title="17 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -124,8 +124,8 @@
           <td class="sa">1.0 Second (1Hz)</td>
           <td class="pe">10&#37; in 50 Years</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.1p00.10pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.1p00.10pc50.bin.gz" title="2 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.10pc50.txt.gz" title="3 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.10pc50.bin.gz" title="2 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -133,8 +133,8 @@
           <td class="sa">1.0 Second (1Hz)</td>
           <td class="pe">2&#37; in 50 Years</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.1p00.2pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.1p00.2pc50.bin.gz" title="2 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.2pc50.txt.gz" title="3 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.2pc50.bin.gz" title="2 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -142,8 +142,8 @@
           <td class="sa">2.0 Second (0.5Hz)</td>
           <td class="pe">Not Applicable</td>
           <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/2002.US.2p00.txt.gz" title="8 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/2002.US.2p00.bin.gz" title="16 Mb">BINARY</a>
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.2p00.txt.gz" title="8 Mb">TEXT</a> |
+            <a href="<?php echo $ftp; ?>/downloads/2002.US.2p00.bin.gz" title="16 Mb">BINARY</a>
           ]</td>
         </tr>
       </tbody>
@@ -182,10 +182,10 @@
     <p>
       For convenience we provide sample binary file readers for potential
       developers to examine the source and get a better idea of how to read the
-      file format. <a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data/USParser.jar" >Download our reader</a> (requires
-      <a target="_blank" href="http://www.java.com">Java</a>&trade;). To use
-      this application, open a command line terminal and type: <code>java -jar
-      USParser.jar &lt;datafile&gt;</code>.
+      file format. <a href="<?php echo $ftp; ?>/USParser.jar">Download our reader</a>
+      (requires <a target="_blank" href="https://www.java.com">Java</a>&trade;).
+      To use this application, open a command line terminal and type:
+      <code>java -jar USParser.jar &lt;datafile&gt;</code>.
 
   </div>
 
@@ -193,21 +193,32 @@
 
     <h3>Catalog Data</h3>
     <p>
-      In addition to the output data files below we also make available to you the catalog data used when performing our analysis.
+      In addition to the output data files below we also make available to you
+      the catalog data used when performing our analysis.
     </p>
     <ul>
-      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data/catalogs/wmm2001.txt">Western U.S. Moment Magnitude Catalog</a></li>
-      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data/catalogs/emb2001.txt">Central and Eastern U.S. Bodywave Magnitude Catalog</a></li>
+      <li><a href="<?php echo $ftp; ?>/catalogs/wmm2001.txt">Western U.S. Moment Magnitude Catalog</a></li>
+      <li><a href="<?php echo $ftp; ?>/catalogs/emb2001.txt">Central and Eastern U.S. Bodywave Magnitude Catalog</a></li>
     </ul>
 
     <h4>Cautionary Note</h4>
     <p>
-      We understand why you might be interested in obtaining these catalog files, but are concerned that they might be misused. We have merged catalogs from several different sources, and used fairly subjective criteria to rank our preferences. We have used simple, automated schemes to compute magnitudes and remove aftershocks. To the extent that the original catalogs are not valid research tools, neither are ours! Please read the accompanying documentation, and ask whether these catalogs suit your purpose.
+      We understand why you might be interested in obtaining these catalog
+      files, but are concerned that they might be misused. We have merged
+      catalogs from several different sources, and used fairly subjective
+      criteria to rank our preferences. We have used simple, automated schemes
+      to compute magnitudes and remove aftershocks. To the extent that the
+      original catalogs are not valid research tools, neither are ours! Please
+      read the accompanying documentation, and ask whether these catalogs suit
+      your purpose.
     </p>
+
     <h4>Column Definitions</h4>
     <p>
-      Each file is white-space delimiter ASCII data organized into the following columns:
+      Each file is white-space delimiter ASCII data organized into the
+      following columns:
     </p>
+
     <ol>
       <li>Magnitude (mb for CEUS, Mw for WUS)</li>
       <li>Longitude (decimal degrees, east)</li>
@@ -221,6 +232,5 @@
       <li>Second</li>
       <li>Name of source catalog</li>
     </ol>
-
   </div>
 </div>
