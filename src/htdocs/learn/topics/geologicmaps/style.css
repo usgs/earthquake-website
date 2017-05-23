@@ -8,9 +8,6 @@
   font-family: Georgia;
 }
 
-.disclaimer {
-  padding-top: 1em;
-}
-.clear li {
-  clear: both;
+.one-of-two > a > img {
+  margin-top: 1em;
 }
