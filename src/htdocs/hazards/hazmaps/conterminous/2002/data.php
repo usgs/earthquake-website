@@ -185,7 +185,7 @@
       file format. <a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data/USParser.jar" >Download our reader</a> (requires
       <a target="_blank" href="http://www.java.com">Java</a>&trade;). To use
       this application, open a command line terminal and type: <code>java -jar
-      HIParser.jar &lt;datafile&gt;</code>.
+      USParser.jar &lt;datafile&gt;</code>.
 
   </div>
 
