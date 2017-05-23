@@ -9,16 +9,18 @@
   $ftp = 'ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data';
 ?>
 
-<p>
-  Data files are presented in two formats, text and binary. Both formats for
-  a given file contain the same information. The text file is white-space
-  delimited and can easily be imported into your favorite spreadsheet
-  application (i.e. Microsoft Excel&trade;) for further analysis. The binary
-  format is more useful for programatic access from custom pieces of software.
-</p>
 
 <div class="row">
   <div class="column three-of-five">
+    <h2>Gridded Data</h2>
+    <p>
+      Gridded data files are presented in two formats, text and binary. Both
+      formats for a given file contain the same information. The text file is
+      white-space delimited and can easily be imported into a spreadsheet
+      application (eg. Microsoft Excel&trade;) for further analysis. The binary
+      format is more useful for programatic access from custom software.
+    </p>
+
     <table>
       <thead>
         <tr>
@@ -149,18 +151,21 @@
       </tbody>
     </table>
 
-    <h2>File Formats</h2>
+    <h3>File Formats</h3>
+
+    <h4>Text File Formats</h4>
     <p>
-      <h3>Text File Formats</h3>
       These files are simple white-space delimited files. The format should be
       farily easy to decipher without much guidance.
     </p>
+
+    <h4>Binary File Formats</h4>
     <p>
-      <h3>Binary File Formats</h3>
       These files were created from the text files and have the same format. In
       order to help with programatic reading of these files there is additional
       header information at the top of these files. Header information contains:
     </p>
+
     <ul>
       <li>
         FileType (int)<br/>
@@ -172,13 +177,15 @@
       <li>Minimum Longitude (double)</li>
       <li>Maximum Longitude (double)</li>
       <li>
-        Grid Spacing (double) - The decimal degree increment between adjacent latitudes/longitudes
+        Grid Spacing (double) - The decimal degree increment between adjacent
+        latitudes/longitudes
       </li>
       <li>
-        Num Curve Points (int) - The number of points per hazard curve. This value is only present
-          in hazard curve files.
+        Num Curve Points (int) - The number of points per hazard curve. This
+        value is only present in hazard curve files.
       </li>
     </ul>
+
     <p>
       For convenience we provide sample binary file readers for potential
       developers to examine the source and get a better idea of how to read the
@@ -186,22 +193,21 @@
       (requires <a target="_blank" href="https://www.java.com">Java</a>&trade;).
       To use this application, open a command line terminal and type:
       <code>java -jar USParser.jar &lt;datafile&gt;</code>.
-
   </div>
 
   <div class="column two-of-five">
-
-    <h3>Catalog Data</h3>
+    <h2>Catalog Data</h2>
     <p>
       In addition to the output data files below we also make available to you
       the catalog data used when performing our analysis.
     </p>
+
     <ul>
       <li><a href="<?php echo $ftp; ?>/catalogs/wmm2001.txt">Western U.S. Moment Magnitude Catalog</a></li>
       <li><a href="<?php echo $ftp; ?>/catalogs/emb2001.txt">Central and Eastern U.S. Bodywave Magnitude Catalog</a></li>
     </ul>
 
-    <h4>Cautionary Note</h4>
+    <h3>Cautionary Note</h3>
     <p>
       We understand why you might be interested in obtaining these catalog
       files, but are concerned that they might be misused. We have merged
@@ -213,9 +219,9 @@
       your purpose.
     </p>
 
-    <h4>Column Definitions</h4>
+    <h3>Column Definitions</h3>
     <p>
-      Each file is white-space delimiter ASCII data organized into the
+      Each file contains white-space delimited ASCII data organized into the
       following columns:
     </p>
 
