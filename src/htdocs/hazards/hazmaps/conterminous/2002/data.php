@@ -20,11 +20,11 @@
   <div class="column three-of-five">
     <table>
       <tr>
-    		<th>File Contents</th>
-    		<th>Spectral Acceleration</th>
-    		<th>Return Period</th>
-    		<th>Downloads</th>
-    	</tr>
+        <th>File Contents</th>
+        <th>Spectral Acceleration</th>
+        <th>Return Period</th>
+        <th>Downloads</th>
+      </tr>
       <tr>
         <td class="type">Hazard Curves</td><td class="sa">Not Applicable</td><td class="pe">Not Applicable</td><td class="downloads">[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data/downloads/2002.US.0p10.txt.gz" title="7 Mb">TEXT</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data/downloads/2002.US.0p10.bin.gz" title="15 Mb">BINARY</a> ]</td>
       </tr>
