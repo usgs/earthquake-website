@@ -1,0 +1,2278 @@
+agu   a1         n 38 48 00.00   -122 24 00.00      n   20.00
+agu   a2         n 38 48 00.01   -122 24 00.01      n   20.01
+agu   a3         n 38 48 00.02   -122 24 00.02      n   20.02
+agu   a4         n 38 48 00.03   -122 24 00.03      n   20.03
+agu   b1         n 38 48 00.04   -122 24 00.04      n   20.04
+agu   b2         n 38 48 00.05   -122 24 00.05      n   20.05
+agu   b3         n 38 48 00.06   -122 24 00.06      n   20.06
+agu   b4         n 38 48 00.07   -122 24 00.07      n   20.07
+anza  7-8-28     n 33 30 44.8    -117 43 59.8       n  287.60   bb '7-8-28' Orange Co Surv.
+anza  arling     a 33 52 16.842  -117 28 14.350     d  564.00   aa 'arling 1974' NCER
+anza  arling80   n 33 52 17.000  -117 28 14.000     n  564.00   aa 'arling l980' USGS
+anza  asbesrm1   n 33 37 39.000  -116 27 29.000     n 1600.20   hh 'asbestos no 1 l939' USCGS
+anza  asbestos   a 33 37 39.304  -116 27 29.872     a 1604.80   bb 'asbestos l939' USCGS
+anza  bachelor   a 33 36 19.504  -117 03 41.192     a  780.00   bb 'bachelor 1939' USCGS
+anza  bee        a 33 43 44.305  -117 41 55.185     a  535.00   bb 'bee 1928' USCGS
+anza  berdoo     a 33 51 40.370  -116 05 17.382     i 1645.92   hh 'littel berdoo 1931' MWDSC
+anza  black      a 33 48 22.480  -117 39 42.731     a  825.90   bb 'black 1928' USCGS
+anza  brink 2    a 34 00 49.554  -117 08 17.971     i  694.56   bb 'brink 2 1967' USCGS
+anza  brinkrm2   n 34 00 49.000  -117 08 17.000     i  695.23   hh 'brink no 2 1950' USCGS
+anza  coahuila   a 33 35 00.079  -116 46 54.439     d 1708.00   bb 'coahuila 1939' USCGS
+anza  david      a 33 54 29.329  -116 59 45.402     i  870.20   bb 'david 19??' MWDSC 1931
+anza  david 2    a 33 54 29.329  -116 59 45.402     i  870.20   bb 'david 1986' MWDSC 1986
+anza  davidrm1   n 33 54 29.0    -116 59 45.0       i  870.00   bb 
+anza  davidrm2   n 33 54 29.0    -116 59 45.0       i  870.00   bb 
+anza  davis      n 33 54 29.0    -116 59 45.0       n  870.00   aa 'davis 1988' NCER 
+anza  davisrm1   n 33 54 29.0    -116 59 45.0       n  870.00   aa 'davis 1988' NCER 
+anza  davisrm2   n 33 54 29.0    -116 59 45.0       n  870.00   aa 'davis 1988' NCER 
+anza  double     d 33 43 26.02890-117 07 20.37309   d  784.56   bb 'double 1939' USCGS
+anza  elsinore   a 33 36 08.638  -117 20 32.696     d 1090.00   bb 'elsinore 1939' USCGS 
+anza  elsinrm4   n 33 36 09.     -117 20 33.        n 1089.30   oo 'elsinore no 4 1939' USC&GS 
+anza  eve        e 33 38 55.468  -116 33 34.286     e 2149.97   bb 'tri sta eve' USCE 1939
+anza  eve rm1    n 33 38 55.000  -116 33 34.000     i 2150.38   bb 'ref to eve no 1' USCE
+anza  gander     d 33 57 21.000  -117 06 49.000     d  774.00   bb 'gander mt elev 3557' USCE
+anza  hay rm1    n 33 40 54.000  -116 27 35.000     e 1163.23   hh 'to haystack 114.2 ft rm 1' USCE
+anza  haystack   e 33 40 54.312  -116 27 34.863     e 1160.77   bb 'haystack 1951 3rd Ord 30th E.B.T. Bn.' USCE
+anza  ida        a 33 47 54.319  -117 19 20.034     a  779.20   bb 'ida 1939' USCGS
+anza  jason      p 33 33 41.37898-116 47 53.94089   i 1427.00   aa 'jason 1974' NCER
+anza  jurupa 3   d 34 01 56.000  -117 26 30.000     a  675.80   bb 'jurupa 3 1973' NGS
+anza  kellncer   n 34 11 45.0    -117 02 55.0       n 2398.97   ee 'kell NCER 1977' USGS
+anza  kitching   d 33 58 31.000  -116 45 29.000     i 1249.26   cc 'kitching 1960' CDWR
+anza  kitchrm2   d 33 58 31.000  -116 45 29.000     i 1244.69   hh 'kitching no 2 1960' CDWR
+anza  laquinta   p 33 42 14.47625-116 18 42.57343   a  383.40   bb 'laquinta 1931' MWDSC
+anza  lomaaux2   n 33 45 55.     -117 44 44.        n  399.75   cc 'lomas aux2 3-85' Orange Co Surv.
+anza  lomancer   m 33 45 54.750  -117 44 43.958     g  400.03   ee 'lomas ncer 1978' NCER
+anza  lomas      a 33 45 54.675  -117 44 44.594     a  399.70   bb 'lomas 1928' USCGS
+anza  lookout    a 33 33 11.774  -116 34 23.749     d 1704.00   bb 'lookout 1939' USCGS
+anza  martfour   n 33 31 25.     -116 11 24.        n  204.86   gg 'marti four ' NCER
+anza  martinez   a 33 31 25.054  -116 11 23.989     a  204.40   bb 'martinez 1939' USCGS
+anza  menifee    a 33 43 05.576  -117 13 40.337     a  686.00   bb 'menifee 1939' USCGS
+anza  micro      d 33 52 27.000  -117 11 25.000     d  783.00   cc 'micro 1965' CDWR
+anza  microrm1   o 33 52 27.000  -117 11 25.000     i  784.00   hh 'micro rm 1' CDWR
+anza  moore      d 33 42 50.41867-117 13 22.1168    d  647.40   aa 'moore 1983' NCER
+anza  moss       p 33 27 16.63482-116 41 53.88765   d 1725.00   aa 'moss 1974' NCER
+anza  nelson     a 33 49 22.68810-117 04 11.32348   a  808.50   bb 'nelson 1931' MWDSC
+anza  niguel     a 33 30 44.819  -117 43 59.813     a  287.60   cc unstamped copper bolt in concrete
+anza  niguel a   a 33 30 52.2148 -117 43 45.8264    a  272.60   bb 'niguel a 1884-1981' NGS 
+anza  pollycgs   a 33 41 16.458  -116 55 32.201     a 1019.70   bb 'polly 1939 1973' NGS
+anza  pollydmg   d 33 41 16.000  -116 55 32.000     i 1018.95   cc 'polly 1970' CDMG
+anza  ranger     a 33 50 39.823  -116 49 28.192     d 1549.00   bb 'ranger 1931' MWDSC
+anza  road       e 33 31 36.642  -116 35 18.118     e 1518.90   bb 'tri sta road' USCE 1939
+anza  roundtop   a 33 31 26.998  -116 54 34.949     d  788.00   bb 'roundtop 1939' USCGS
+anza  san        n 33 42 38.000  -117 31 59.000     d 1729.00   aa 'san 1974' NCER
+anza  san 2      n 33 42 38.000  -117 31 59.000     n 1721.99   aa 'an 1981' NCER
+anza  san joaq   a 33 36 21.552  -117 48 39.930     a  355.20   bb 'san joaquin 1928' USCGS
+anza  san juan   a 33 54 49.467  -117 44 14.004     a  542.60   cc 'san juan 1896' USCGS  
+anza  santiago   a 33 42 37.886  -117 31 59.903     a 1733.53   cc unstamped copper bolt in rock embedded in concrete 
+anza  sheep      e 33 35 08.933  -116 22 32.257     e 1567.00   ff 'sheep 1955' USCE 
+anza  sier       a 33 51 00.476  -117 39 10.107     a  928.17   bb 'sier 1928-1973' NGS
+anza  stubbe     d 33 57 13.2    -116 46 25.55      d  932.70   aa 'stubbe 1974' USGS
+anza  thom cgs   d 33 37 16.000  -116 40 54.000     i 2076.00   bb 'thomas 1939' USCGS
+anza  thom2asu   n 33 37 16.     -116 40 54.        n 2073.39 
+anza  thomas     a 33 37 16.745  -116 40 54.884     d 2076.00      'thomas 1970' CDMG
+anza  thomasec   d 33 37 16.000  -116 40 54.000     d 2073.39   cc 'thomas ecc 1970' CDMG
+anza  thomecc2   d 33 37 16.000  -116 40 54.000     d 2075.49   ff 'thomas ecc no 2' CDMG
+anza  toro       p 33 31 24.75807-116 25 29.85235   d 2657.00   bb unstamped USGS
+anza  toro 80    p 33 31 24.75807-116 25 29.85235   n 2657.00   bb 'toro 1980' USGS
+arena boyle      a 38 58 53.006  -123 42 17.742     d   14.63   bb 'boyle 1929' USCGS
+arena cable      n 38 58 53.     -123 42 17.        n   14.63   gg unstamped
+arena clark      a 38 59 36.573  -123 37 52.627     a  624.00
+arena clark 2    a 38 59 36.956  -123 37 52.715     d  623.30   bb 'clark 2 1930' USCGS
+arena clarkecc   n 38 59 36.0    -123 37 52.0       n  624.00   aa 'clark ecc 1983' NCER
+arena dunn       a 39 00 38.813  -123 38 39.502     a  587.00   bb 'dunn 1891 1919' USCGS
+arena dunz ecc   n 39 00 38.0    -123 38 39.0       n  587.00   aa 'dunz ecc 1983' NCER
+arena gonzo 83   n 38 59 36.0    -123 37 52.0       n  624.00   gg 'gonzo 1983'
+arena highbluf   a 38 54 02.839  -123 41 52.146     d   75.90   bb 'high bluff 1879 1929' USCGS
+arena lane       a 39 00 33.443  -123 41 34.376     d   50.60   bb 'lane 1891 1919' USCGS
+arena ptarena    a 38 55 17.896  -123 43 35.727     d   12.50   bb 'pt arena latsta 1870 1929' USCGS
+arena shoemak2   a 38 57 58.752  -123 40 59.226     d   68.28   rr unstamped nail head
+arena smith 2    a 38 54 45.855  -123 42 31.682     d   71.02   bb 'smith 2 1906 1973' NGS
+arena spur 2     a 38 59 15.323  -123 40 12.587     d  152.10
+arena spur2rm5   n 38 59 15.323  -123 40 12.587     n  152.10   hh 'spur 2 no 5 1906 1930' USCGS
+badla b land     d 34 00 12.     -117 11 08.        d  596.20      
+badla bicknell   a 33 58 50.87479-117 10 24.4745    d  769.62 
+badla drive      a 33 59 02.81723-117 11 59.59684   a  864.41
+badla hike       d 33 59 48.     -117 11 45.        d         
+badla ordway     a 33 59 59.87428-117 10 22.92816   a  586.13 
+barst alvord     p 35 05 49.95655-116 37 05.78512   b 1053.39   ee 'alvord 1947' USGS
+barst barstow2   p 35 05 26.77202-116 56 18.19369   a 1377.90   bb 'barstow 2 1965' USCGS
+barst cal ecc    n 34 59 44.0    -116 50 15.0       n 1384.56   aa 'calico ecc NCER 1980' USGS
+barst cal ncer   p 34 59 43.96615-116 50 15.33973   g 1384.56   hh 'calico NCER 1979' USGS
+barst calico     b 34 59 43.908  -116 50 15.189     g 1383.89   bb 'calico 1964' USCGS
+barst flash      p 34 49 26.27919-117 00 56.95292   a  959.70   bb 'flash 1940 1972' USCGS
+barst harvard    p 34 56 06.06440-116 39 56.95540   a  621.34   bb 'harvard 1957' USCGS
+barst lava       p 34 46 32.79569-116 46 32.42532   b 1464.90   ee 'lava 1954' USGS
+barst mell rm1   n 34 57 13.     -117 07 44.        n  892.00   hh 'mellody no 1 1960' USCE
+barst mellody    p 34 57 13.75551-117 07 44.15225   a  891.85   ff '1952' USCE most of stamping illegible
+barst paradise   p 35 08 19.34672-116 49 59.11624   a 1104.30   bb 'paradise 1964' USCGS
+barst parausgs   b 35 08 06.869  -116 50 11.456     b 1103.07   ee 'paradise 1947' USGS
+batca d70        d 33 26 00.     -115 50  4.        d  -57.00
+batca line       d 33 26 38.     -115 47 25.        d  -36.38
+batca s31        d 33 25 38.     -115 46 09.        d  -28.95
+batca salton     d 33 25 50.     -115 48 52.        d   28.96
+batca saltonaz   d 33 25 18.     -115 49 39.        d  -58.22
+batca sand       d 33 25 56.     -115 47 56.        d   -6.10
+batca z1255      d 33 24 32.     -115 48 44.        d  -56.69
+bayn  angel      n 37 51 42.     -122 25 45.        n  238.05   bb unstamped USCGS mark
+bayn  antonio    a 38 11 36.954  -122 44 00.866     a  356.80   bb 'antonio 1930' USGS
+bayn  arrow      a 38 16 27.329  -122 23 56.532     h  297.36   bb 'arrowhead 1929' USCGS
+bayn  bald ecc   p 37 53 01.6723 -122 13 14.6659    n  583.10   aa 'bald ecc 1977' NCER
+bayn  baldpeak   a 37 53 01.091  -122 13 15.234     a  583.10   bb 'bald peak EBMUD 1946' USCGS and state survey
+bayn  bigrock1   d 38 03 35.6    -122 36 11.        g  579.12   aa 'big rock 1 1978' NCER
+bayn  bol rm1    d 37 56 28.     -122 43 55.        n  285.83   cc 'bolinas rm 1' State of Cal
+bayn  bol rm3    d 37 56 28.     -122 43 55.        n  285.83   aa 'bolinas rm 3 1984' NCER
+bayn  bolinas    d 37 56 28.     -122 43 55.        d  286.50   cc unstamped brass disk
+bayn  burn ecc   d 38 20 51.     -122 51 50.        n  275.16   aa 'burnside ecc 1978' NCER
+bayn  burnside   b 38 20 52.055  -122 51 49.936     b  280.00   bb 'burnside 1932' USCGS
+bayn  davidson   d 37 44 21.2    -122 27 03.        i  277.40   cc unstamped brass plug in concrete post - NCER
+bayn  diablo     a 37 52 54.387  -121 54 47.107     a 1173.10   ii 'diablo ecc 1961' CDWR
+bayn  diablo 2   p 37 52 54.9136 -121 54 49.2066    g 1168.70   cc 'diablo ecc rm2 1962' CDWR
+bayn  diaecrm2   a 37 52 54.     -121 54 47.        g 1169.32   ww 'diablo ecc rm2' CDWR
+bayn  farallon   i 37 41 57.463  -123 00 02.798     i  103.94   bb 'farallon 2' USCGS
+bayn  hills      p 37 56 13.0721 -122 07 37.7107    a  452.30   bb 'hills' EBMUD
+bayn  kirby      a 38 10 03.336  -121 55 10.801     i  110.00   bb 'kirby 1922' USCGS
+bayn  lopez      a 38 07 27.552  -122 07 48.434     i  336.20   bb 'lopez 1932' USCGS
+bayn  lopez 4    n 38 07 51.     -122 08 04.        n  352.99   aa 'lopez 4' NCER
+bayn  lopezecc   d 38 07 51.6    -122 08 04.        g  352.99   aa 'lopez ecc 1978' NCER
+bayn  mt vaca    d 38 24 04.4    -122 06 18.        f  859.00   aa 'mt vaca 1977' NCER
+bayn  nicasio    d 38 04 50.4    -122 45 54.        i  390.10   aa 'nicasio 1979' NCER
+bayn  nike       d 37 36 49.6    -122 27 25.        f  368.80   ii 'nike 1960' CDWR
+bayn  petaluma   a 38 20 45.255  -122 34 43.745     a  750.60   bb 'petaluma 1930 1941' USCGS
+bayn  potrero    a 38 12 09.604  -121 57 16.301     a  123.50   bb 'potero ava 1922' USCGS
+bayn  pt reyes   n 38 04 47.0    -122 52 03.0       i  406.35   hh 'pt reyes hill 2 no. 5 1951' USCGS
+bayn  ptreyhd3   a 37 59 47.2839 -123 00 49.596     a  185.70   bb 'pt reyes head 3 1960' USCGS
+bayn  ptreyhl2   n 38 04 47.0    -122 52 03.0       i  406.35   
+bayn  rector     a 38 25 27.823  -122 17 26.807     a  649.60   bb 'rector 1932' USCGS
+bayn  sanpablo   a 37 57 31.990  -122 24 54.033     a   99.90   bb 'san pablo ridge 1897 1917' USCGS
+bayn  sleepy     d 38 13 55.105  -122 29 47.344     i  259.39   bb 'sleepy 1930' USCGS
+bayn  stinger    d 38 03 41.2    -122 36 22.        g  579.12   aa unstamped NCER brass disk in galvanized pipe
+bayn  sweeney    d 37 36 36.     -122 27 27.        g  380.55   aa 'sweeney rdg 1978' NCER
+bayn  tam 3      d 37 55 25.     -122 35 40.        f  774.55   cc 'tam 3 1971' CDMG
+bayn  tam3 rm2   d 37 55 25.     -122 35 40.        g  774.00   cc 'tam 3 rm2' CDWR
+bayn  tamal 2    a 37 55 24.749  -122 35 43.727     a  784.40   bb 'tamalpais 2 1951-1969' USCGS
+bayn  tulu rm1   n 38 15 51.     -122 12 56.        i  512.77   hh 'tulucay no. 1 1932' USCGS
+bayn  tulucay    a 38 15 51.717  -122 12 56.693     d  514.00   bb 'tulucay 1932' USCGS
+bayn  vaca dmg   d 38 24 04.4    -122 06 18.0       n  859.20   gg 'mt vaca 1976' CDMG
+bayn  vaca ecc   d 38 24 04.4    -122 06 18.0       n  859.00   cc unstamped bolt
+bayn  weid rm1   a 37 44 18.     -121 59 37.        n  563.24   hh 'weidemann no 1 1947' USGS
+bayn  weid rm2   a 37 44 18.     -121 59 37.        n  563.24   hh 'weidemann no 2 1947' USGS
+bayn  weid2rm3   a 37 44 18.     -121 59 37.        n  563.20   hh 'weidemann 2 no 3' USCGS
+bayn  weidem 2   a 37 44 18.142  -121 59 37.737     a  563.90   bb 'weidemann 2 1951' USCGS
+bayn  witt rm1   n 38 02 22.     -122 49 14.        n  427.90      'wittenburg no 1 1930' USCGS 
+bayn  wittenec   n 38 02 22.     -122 49 14.        g  427.90   aa 'wittenburg ecc 1972' NCER
+bays  allison    p 37 29 56.3283 -121 52 12.8316    a  811.10   ii 'V A 2659' USGS 
+bays  alum       a 37 24 43.838  -121 48 04.082     a  647.70   bb 'alum 1947 1975' NGS
+bays  amer rm3   a 37 17 15.942  -121 51 53.019     n  137.74   hh 'american no. 3 1947-1959' USCGS
+bays  amer rm5   n 37 17 16.     -121 51 53.        n  134.87   hh 'american no 5 1947 1972' Cal Div Hwy
+bays  american   p 37 17 15.8546 -121 51 53.4355    a  134.20   bb 'american 1947-1972' USCGS
+bays  bald ecc   p 37 53 01.6723 -122 13 14.6659    n  583.10   aa 'bald ecc 1977' NCER
+bays  biel       p 37 13 21.75294-122 05 34.58010   n  981.46   aa 'biel 1971' NCER
+bays  blk mtn    d 37 19 09.2    -122 08 46.        e  856.10   bb 'black mountain 1943-3572' USCE
+bays  bmt rf     p 37 19 02.87524-122 08 48.41158   g  859.54   ee 'black mtn rad. fac.' NCER
+bays  butano     a 37 13 33.207  -122 17 59.681     a  522.40   bb 'butano 0003 1643 34-19 1938' USCE
+bays  canada     a 37 01 13.439  -121 26 48.909     a  499.70   bb 'canada 1947' USCGS
+bays  chabot 2   a 37 43 27.907  -122 07 05.806     a  246.30   
+bays  chabot 3   n 37 43 28.000  -122 07 06.000     n  246.30   bb 'chabot 3 1964' EBMUD
+bays  crane      p 37 36 21.48507-121 37 09.28457   a  900.70   bb 'crane 1946' USCGS
+bays  cranerm1   n 37 36 21.     -121 37 09.        n  900.05   hh 'crane no. 1 1946' USCGS
+bays  cranusgs   i 37 36 21.855  -121 37 09.51      n  900.70   ee unstamped USGS brass tablet
+bays  crossrm1   d 37 27 25.2    -122 16 18.        g  269.55   vv 'cross rm1' NCER
+bays  diablo     a 37 52 54.387  -121 54 47.107     a 1173.10   ii 'diablo ecc 1961' CDWR
+bays  diablo 2   p 37 52 54.9136 -121 54 49.2066    g 1168.70   cc 'diablo ecc rm2 1962' CDWR
+bays  diaecrm2   a 37 52 54.     -121 54 47.        g 1169.32   ww 'diablo ecc rm2' CDWR
+bays  dool rm2   n 37 44 28.0    -121 49 42.8       n  372.62   hh 'doolan no. 2 1947' USCGS
+bays  doolan 2   p 37 44 28.2912 -121 49 42.8322    a  373.20   bb 'doolan 2 1957' USCGS
+bays  dump       d 37 14 38.     -122 23 56.        d   86.87   ee 'dump NCER 1976' USGS
+bays  eagle rk   a 37 08 51.554  -122 11 39.199     a  758.30   bb 'eagle rock 1938' USCE
+bays  fair       d 36 57 06.     -121 44 10.        f   30.80   cc 'fair 1959' CDWR
+bays  gilroy     a 36 58 47.368  -121 36 54.823     a  602.80   bb 'gilroy 1930' USCGS
+bays  gilroy 2   n 36 58 47.     -121 36 55.        n  602.80   ee 'gilroy no. 1 1984' USGS  
+bays  hamecrm2   d 37 20 28.8    -121 38 31.        f 1284.50   hh 'mt hamilton ecc no 2 1947' USC&GS
+bays  hamil ec   d 37 20 28.8    -121 38 31.        f 1284.17   ii 'mt hamilton ecc 1960' CDWR
+bays  hamilton   p 37 20 30.45791-121 38 31.02235   f 1284.20   bb unstamped USCGS 1947
+bays  hamscrew   n 37 20 29.     -121 38 31.        n 1284.17
+bays  hills      p 37 56 13.0721 -122 07 37.7107    a  452.30   bb 'hills' EBMUD
+bays  llagas     d 37 07 58.8    -121 40 01.        i  189.00   aa 'llagz 1971' NCER
+bays  loma       a 37 06 39.818  -121 50 35.130     a 1156.80   
+bays  loma az    d 37 06 32.     -121 50 38.        i 1151.31  
+bays  loma dwr   p 37 06 39.46731-121 50 35.43715   n 1157.88   cc unstamped CDWR
+bays  loma use   p 37 06 39.96379-121 50 35.88148   f 1157.38   ff 'loma prieta 2 1957' USCE
+bays  lomancer   p 37 06 39.96458-121 50 35.88193   n 1157.38   aa 'LOMA 1983' NCER
+bays  lp1        d 37 06 32.     -121 50 38.        i 1151.31   aa 'loma prieta net 1' NCER
+bays  mindego    a 37 19 12.397  -122 11 55.020     a  784.00   bb 'mindego 1947' USCGS
+bays  mochoecc   p 37 28 38.84549-121 33 17.59085   n 1246.33   aa 'mocho ecc 1973' NCER
+bays  mt stake   p 37 19 20.56172-121 24 26.80789   b 1159.58   bb unstamped USGS brass cap
+bays  nike       d 37 36 49.6    -122 27 25.        f  368.80   ii 'nike 1960' CDWR
+bays  pom        a 37 18 33.007  -122 22 35.959     a  253.50   bb 'pom 1931 1958' USCGS
+bays  rdhillec   p 37 33 13.4517 -122 05 36.0588    n   86.78   aa 'red hill top ecc 1972' NCER
+bays  redhlltp   d 37 33 14.     -122 05 37.        f   88.50   bb 'red hill top 1947' USCGS
+bays  rock 2     b 37 48 54.294  -122 03 37.398     b  616.76   ee 'rock 2 1954' USGS
+bays  rose2rm5   p 37 30 40.3469 -121 43 25.0098    a 1163.00   hh 'rose 2 no. 5 1957' USCGS
+bays  sheep      a 37 06 54.645  -121 30 56.963     a  850.40   bb 'sheep 1947' USCGS
+bays  sheeprm1   n 37 06 54.     -121 30 56.        f  849.46   hh 'sheep no. 1 1947' USCGS
+bays  sheeprm2   n 37 06 54.     -121 30 56.        n  849.78   hh 'sheep no. 2 1947' USCGS
+bays  shelfdq    d 37 30 37.2    -122 16 31.8       i  166.31   aa 'qffset 1971' NCER
+bays  skyline    p 37 48 40.1067 -122 10 13.9924    d  441.96   bb 'skyline 1961' CDWR
+bays  sun        n 37 37 12.     -121 55 16.        n  657.25   aa 'sun 1983' NCER
+bays  sun rm1    n 37 37 12.     -121 55 16.        n  667.27   hh 'sunol no. 1 1947' USCGS
+bays  sun rm2    n 37 37 12.     -121 55 16.        n  664.90
+bays  sun2 rm3   n 37 37 12.     -121 55 16.        n  665.27
+bays  sunol 2    p 37 37 12.3544 -121 55 16.8173    f  667.10   bb 'sunol 2 1951' USCGS
+bays  sweeney    d 37 36 36.     -122 27 27.        g  380.55   aa 'sweeney rdg 1978' NCER
+bays  usgs no7   d 37 37 00.     -121 42 15.        d  238.96
+bays  vern       p 37 37 52.1106 -121 50 12.1988    a  385.30   bb 'vern 1947' USCGS
+bays  weid rm1   a 37 44 18.     -121 59 37.        n  563.24   hh 'weidemann no 1 1947' USGS
+bays  weid2rm3   a 37 44 18.     -121 59 37.        n  563.20   hh 'weidemann 2 no 3' USCGS
+bays  weidem 2   a 37 44 18.142  -121 59 37.737     a  563.90   bb 'weidemann 2 1951' USCGS
+benit benito     a 36 22 11.03975-120 38 36.79807   a 1597.60   bb 'san benito 1931' USCGS
+benit bitter     a 36 25 00.141  -120 58 51.252     i  838.20   bb 'bitter 1944' USCGS
+benit bonito     a 36 32 40.96317-120 52 19.98797   a 1077.40   bb 'bonito 1962' USCGS
+benit call       b 36 36 34.38680-121 03 47.15997   b 1203.20   ss '11-19-1917 3943 VA' USGS
+benit cane       b 36 24 48.11003-120 46 50.24824   b 1247.20   ee 'cane re 1939' USGS
+benit ciervo     a 36 26 43.77313-120 28 47.07993   a  553.00   bb 'ciervo 1944' USCGS
+benit ciervomt   b 36 28 24.49313-120 34 44.16946   b 1033.61   ee 'ciervo mtn rs 1939' USGS
+benit douglas    a 36 35 20.41344-120 29 38.91853   a  107.85
+benit grisusgs   b 36 30 12.46041-120 43 40.82881   b  945.20   ee 'griswold rs 1969' USGS
+benit hepsedam   a 36 18 52.54797-120 49 25.09674   f 1364.40   gg unstamped copper rod USCGS
+benit laguna     a 36 52 00.79655-120 50 42.50047   a  403.30   bb 'laguna 1943' USCGS
+benit ley        a 36 27 10.96814-120 53 36.04523   a 1217.00   bb 'ley 1962' USCGS
+benit ortigapk   a 36 47 40.12246-120 55 19.65953   a 1007.00   bb 'ortigalita pk 1943' USCGS
+benit panoche    a 36 41 52.71037-120 44 18.32364   a  617.30   bb 'panoche 1943' USCGS
+benit rebar      n 36 41 30.0    -120 34 00.0       n  103.68   gg unstamped steel bar NCER
+benit red        b 36 41 06.90738-120 55 57.76498   b 1116.80   ee 'red 1940' USGS
+benit russell    a 36 46 41.78087-120 40 28.34088   a  101.12
+benit smoker     a 36 32 14.43367-120 59 57.95100   a 1166.60   bb 'smoker 1962' USCGS
+benit stubble2   a 36 41 30.00622-120 34 00.28642   a  103.00   bb 'stubble 2 1962' USCGS
+benit tum        a 36 36 40.23940-120 39 51.56645   a  409.60   bb 'tum 1962' USCGS
+black court      d 38 41 58.     -123 25 33.        d  113.37
+black miller     d 38 41 49.     -123 23 50.        d  291.88
+black timber     d 38 42 26.     -123 26 09.        d  137.79 
+bmt   bmt10      b 37 17 24.7902 -122 09 07.9946    b  711.64   ee 'r.h.' NCER
+bmt   bmt10rm1   n 37 17 25.0    -122 09 08.0       i  711.30   aa 'bmt 10 rm 1 1977' NCER
+bmt   bmt11      b 37 17 42.4982 -122 09 56.4468    b  752.67   ee 'insfpr' USGS
+bmt   bmt7       b 37 18 34.3510 -122 10 52.0730    b  763.79   bb 'skyl. 2' NCER
+bmt   bmt8       b 37 19 03.0000 -122 08 48.0000    b  859.54   ee 'blk mtn rad fac' NCER
+bmt   bmt9       b 37 18 22.4037 -122 07 55.1410    b  800.53   ee 'bmt 9' USGS
+bmt   bmt rf     p 37 19 02.87524-122 08 48.41158   g  859.54   ee 'black mtn rad. fac.' NCER
+bmt   bony       d 37 19 53.0    -122 12 10.0       d  597.00   aa 'bony fingers 1980' USGS
+bmt   mindego    a 37 19 12.397  -122 11 55.020     a  784.00   bb 'mindego 1947' USGS
+bmt   pasture    d 37 19 08.0    -122 09 04.0       d  823.00   aa 'pasture 1980' NCER
+bmt   pawt       d 37 19 30.0    -122 10 00.0       i  743.70   bb 'erc bm 1' USGS
+bmt   rf1        b 37 19 53.1641 -122 12 51.4272    b  744.35   ee 'rad fac' USGS
+bmt   rf5reset   d 37 19 19.0    -122 12 06.0       b  783.34   aa 'rf 5 reset' NCER
+bmt   sierra     d 37 24 35.0    -122 18 28.0       d  736.70   bb 'sierra 1981' NCER
+bmt   sky1       n 37 18 34.0    -122 10 52.0       i  764.90   ee 'monitor net skyl. 1' NCER
+bmt   windy      d 37 21 53.0    -122 14 43.0       d  580.00   bb 'windy 1975' Cal Div Of Hwys
+bodeg aster      d 38 18 54.     -123 01 30.        d   38.30
+bodeg asterrm1   d 38 18 54.     -123 01 30.        d   38.30
+bodeg bodegahd   a 38 18 28.29851-123 03 44.19672   a   72.93
+bodeg doran      d 38 18 48.     -123 02 40.        d    5.36
+bodeg fin rm2    n 38 18 05.31416-123 03 19.47062   n   58.70
+bodeg finback    c 38 18 05.31416-123 03 19.47062   c   59.93
+bodeg gaffney    e 38 19 08.84129-123 03 17.45048   e    6.35
+bodeg knob       d 38 19 17.     -123 01 58.        d   11.00
+bodeg knob res   d 38 19 17.     -123 01 58.        d   11.00
+bodeg salmon     c 38 19 48.72176-123 02 34.60767   c   19.84
+bodeg tide       d 38 20 00.     -123 01 40.0       d  131.85
+bolin vierra     d 38 56 12.     -122 42 31.        d  104.00
+bolin vierra 2   d 38 56 11.     -122 41 13.        d  114.00
+bolin vierra 3   d 38 56 54.     -122 41 28.        d  219.00
+bolin vierra 4   d 38 57 14.     -122 42 25.        d  155.00
+bolin wood       d 38 55 34.     -122 40 47.        d    3.00
+cajon brink 2    a 34 00 49.55404-117 08 17.97096   f  694.56   bb 'brink 2 1967' USCGS
+cajon brinkrm2   n 34 00 49.0    -117 08 17.0       n  695.23   hh 'brink no 2 1950' USCGS
+cajon cajon      a 34 20 49.91410-117 27 00.69931   b 1341.20   bb 'cajon 1934' USCGS
+cajon calo       a 34 16 15.74713-117 25 24.13297   i 1621.80   bb 'calo 1949' USCGS
+cajon circle     b 34 20 31.765  -117 35 01.708     b 2095.50   ee 'circle 1955' USGS
+cajon divide     o 34 04 41.0    -116 58 06.0       f 1898.09   ii 'divide 1960' CDWR
+cajon jurupa 3   a 34 01 56.37148-117 26 30.76498   a  675.80   bb 'jurupa 3 1973' NGS
+cajon keller     a 34 11 45.551  -117 02 55.178     f 2401.26   bb 'keller 1928' USCGS
+cajon keller 2   n 34 11 45.0    -117 02 55.0       f 2400.34   bb 'keller 2 1960' CDWR
+cajon kellncer   n 34 11 45.0    -117 02 55.0       n 2398.97   ee 'kell 1977' USGS NCER
+cajon lytle 2    a 34 15 53.72765-117 29 09.78586   b 1312.40   bb 'lytle 2 1963' USCGS
+cajon phel rm1   n 34 23 08.0    -117 33 41.0       n 1579.93   hh 'phelan no 1 1934' USCGS
+cajon phelan 2   a 34 23 08.35671-117 33 41.28305   a 1581.30   bb 'phelan 2 1934-1963' USCGS
+cajon raf rm3    n 34 12 55.0    -117 31 36.0       n 1926.44   hh 'rafael no 3 1934' USCGS
+cajon rafael     a 34 12 55.25350-117 31 36.68150   a 1927.40   bb 'rafael 1934' USCGS
+cajon sev rm2    n 34 13 00.0    -117 29 18.0       n 1595.33   hh 'sevaine no 2 1949' USCGS
+cajon sevaine    a 34 13 00.38854-117 29 18.50090   f 1594.31   bb 'sevaine 1949' USCGS
+cajon sheep      k 34 18 05.0243 -117 33 02.0270    k 1725.38   gg 'SB Co 36-19 1969 Surv' SB Co
+cajon straw 2    n 34 13 55.0    -117 14 00.0       n 1875.59   cc steel rod with unstamped brass cap
+cajon straw 3    n 34 13 55.0    -117 14 00.0       f 1875.52   cc 'strawberry 3 1961' CDWR
+cajon strawpin   n 34 13 55.0    -117 14 00.0       n 1875.47   gg unstamped shank with punch
+cajon strawunk   n 34 13 55.0    -117 14 00.0       n 1875.59   cc unstamped plug
+cajon strwbrry   a 34 13 55.35870-117 14 00.30860   f 1875.26   bb 'strawberry 1928' USCGS
+calav cal1       b 37 27 06.9993 -121 46 34.9983    b  613.95   ee 'cal 1' USGS
+calav cal2       p 37 29 04.51131-121 46 42.23502   b  759.69   ee 'cal 2' USGS
+calav cal3       p 37 28 19.1336 -121 44 42.68703   b  950.06   ee 'cal 3' USGS
+calav cal4       p 37 26 02.83097-121 44 46.77313   b  938.09   ee 'cal 4' USGS
+calav cal5       p 37 25 00.62197-121 47 15.88470   b  685.37   ee 'cal 5' USGS
+calav cal6       b 37 25 56.8980 -121 48 43.0048    b  514.30   ee 'cal 6' USGS
+calav cal6a      p 37 25 56.91822-121 48 42.95680   i  514.15   aa 'cal 6a 1973' NCER
+calav cal7       p 37 28 27.48865-121 49 40.09063   b  329.73   ee 'cal 7' USGS
+calav cal7 rm1   p 37 28 27.41615-121 49 40.12905   n  329.83   vv 'cal 7 rm1' NCER
+carho bare rm1   d 35 55 48.8    -120 26 27.0       d  605.34  
+carho break      d 35 53 16.2    -120 27 40.5       d  592.84
+carho can perm   d 35 56 21.0    -120 25 57.0       d  599.24
+carho can rm1    d 35 56 21.0    -120 25 57.0       d  599.24
+carho car hill   d 35 53 17.0    -120 25 46.5       d  513.59
+carho creekrm3   d 35 50 49.0    -120 23 35.9       d  439.83
+carho gonw rm2   d 35 50 01.2    -120 21 10.4       d  482.80
+carho hogs rm1   d 35 52 01.2    -120 28 41.8       d  791.89
+carho lang rm1   d 35 53 58.8    -120 28 21.0       d  592.24
+carho mas2 rm1   d 35 49 57.5    -120 26 33.0       d  683.68
+carho mel ecc    d 35 52 12.1    -120 22 26.0       d  551.40
+carho mid rm1    d 35 55 17.0    -120 28 02.2       d  696.47
+carho mide rm1   d 35 55 18.6    -120 27 30.0       d  605.94
+carho pitt rm3   d 35 55 22.5    -120 28 33.0       d  682.70
+carho slopetem   d 35 55 25.4    -120 24 06.8       d  801.63
+carho tablerm2   d 35 54 30.0    -120 21 55.5       d  742.19
+carri al ncer    n 35 11 06.     -120 05 02.        g 1146.66   bb 'allen NCER 1977' USGS
+carri allen      p 35 11 06.96644-120 05 02.44701   b 1149.10   bb 'VA 3770' USGS
+carri berros     p 35 03 37.62412-120 26 08.56178   b  549.86   bb 'berros 1964' USGS
+carri biddle     p 35 09 40.54286-120 28 26.29746   a  559.10   bb 'biddle 1932' USCGS
+carri caliente   p 35 02 11.00598-119 45 33.56404   l 1556.42   ii 'caliente 1959' CDWR
+carri carrizo    p 35 15 00.14526-119 50 48.69609   i  596.10   bb 'carrizo NCER 1977' USGS
+carri cauvel     p 35 21 29.07398-119 50 59.74423   b 1198.48   bb 'cauvel 1926' USCGS
+carri crock 88   p 35 14 32.     -119 43 25.        b 1205.79  
+carri crocker    p 35 14 31.72222-119 43 25.14418   b 1205.79   bb 'crocker 1942' USFS
+carri glo 13     p 35 26 28.45114-119 39 10.66899   a  126.85   jj 'sc t28s r21e s36 r22e s31 t29s r223 s6 1926' GLO
+carri glo ncer   n 35 26 28.     -119 39 10.        n  127.65   aa 'glo 13' NCER
+carri gould      p 35 24 49.14572-119 45 54.96022   b  427.33   bb unstamped USGS disk
+carri hath 2     p 35 10 56.25636-120 14 05.35347   b  830.28   bb 'hathway 2 1965' USGS
+carri hemreck    d 35 08 51.66   -120 25 53.47      d  479.45   aa 'hemreck 1984' NCER
+carri kittncer   n 35 17 26.     -119 45 46.        g 1319.16   ee 'kittncer 1977' USGS
+carri madre 80   n 35 04 32.     -120 03 58.        n  991.82   aa 'madre ecc 1980' NCER
+carri madreecc   p 35 04 32.31173-120 03 58.08737   b  991.82   bb 'madre ecc 1959' USFS
+carri mckttrck   a 35 17 26.617  -119 45 46.850     f 1320.60   bb 'mckittrick 1926' USCGS
+carri mckttrm5   n 35 17 27.0    -119 45 46.0       f 1319.21   hh 'mckittrick no. 5 1926 1972' USCGS
+carri painted    p 35 09 12.84835-119 48 26.05056   b  618.04   ee 'painted 1958' USGS
+carri saltos     p 35 08 00.24099-119 54 03.49106   b 1104.29   ee 'saltos 1958' USGS
+carri stanley2   p 35 04 22.67910-120 15 01.15564   b  758.95   bb 'stanley 2 1966' USCGS
+carri sycamore   p 35 07 31.96396-119 59 52.21475   b  890.63   ee 'sycamore 1958' USGS
+carri turkey     b 35 15 40.544  -119 57 15.629     b  859.23   bb 'turkey 1958' USGS
+carri welport    p 35 21 31.77344-119 40 50.26105   b  286.21   ee 'b11 1930' USGS
+chamb chamb 1    d 36 55 58.     -121 39 12.        d        
+chamb chamb 2    d 36 55 16.6    -121 38 07.6       d  375.0
+chamb chamb 3    d 36 55 09.7    -121 38 38.4       d  291.0
+chamb chamb 4    d 36 55 24.4    -121 39 26.        d  299.0
+chamb chamb 6    d 36 56 06.     -121 38 59.9       d  395.0
+chamb p1           36 50 18.28   -121 32 30.12         144.0
+chamb p2           36 50 19.0    -121 35 11.76         320.0
+chamb p3           36 53 50.3    -121 32 14.64         344.7
+chamb p4           36 53 13.75   -121 35 07.8          219.5
+chamb p5           36 53 30.93   -121 37 17.4          231.6
+chamb p6           36 55 15.6    -121 35 08.9          249.0
+chamb p7         a 36 55 51.672  -121 38 35.092     a  501.90   bb 'chamberlain
+chamb p8           36 55 49.2    -121 40 02.28         190.5
+charl alex       a 33 07 14.883  - 80 14 44.196     a   24.
+charl arrant     a 33 22 38.329  - 80 40 17.691     a   47.
+charl bass       a 33 02 57.35   - 79 57 43.37      a    1.
+charl bog        a 32 54 57.467  - 79 49 13.520     a    2.
+charl brookgr    a 33 30 55.96566- 79  5 18.98293   a
+charl bruce      a 32 38 32.18961- 79 58 25.69497   a    3.4
+charl bula       a 32 51 43.000  - 80 07 34.225     a   10.36
+charl capers     a 32 51 34.24760- 79 42 25.47027   a    2.3
+charl chandler   a 32 51 21.874  - 79 54 08.882     a    2.
+charl charles    a 32 41 42.65223- 79 53 01.74761   a    1.
+charl charlie    a 33 07 37.00800- 80 32 08.47400   a   27.4
+charl crescent   a 32 49 24.824  - 79 47 36.983     a    1.
+charl culler     a 33 32 00.98400- 80 53 56.46100   a   88.4
+charl edisto e   a 32 33 15.30132- 80 13 34.36879   a    3.19
+charl edisto w   a 32 30 28.30243- 80 19 34.83218   a    3.35
+charl enfinger   a 33 14 53.35400- 80 29 39.88300   a   32.9
+charl francis    a 32 47 08.77679- 79 56 12.71148   a   60.8
+charl gramling   a 33 27 35.575  - 80 45 36.575     a   49.
+charl heape      a 32 57 19.053  - 80 07 24.548     a   15.86
+charl huff       a 33 10 48.45600- 80 20 58.30900   a   33.1
+charl james      a 33 17 52.270  - 79 40 58.972     a    8.
+charl lime       a 32 58 15.714  - 80 13 04.816     a   19.43
+charl long       a 32 40 55.495  - 79 56 50.762     a    2.
+charl meyers     a 33 18 07.380  - 80 44 52.111     a   46.
+charl morris     a 32 43 02.703  - 79 55 12.454     a    1.
+charl murray     a 33 17 25.946  - 80 35 09.942     a   35.
+charl new cut    a 32 41 51.58288- 80 11 37.07342   a    5.1
+charl or 546     a 33 23 01.904  - 80 50 16.425     a   52.
+charl penny      a 32 37 22.20321- 80 00 08.26346   a    3.6
+charl pierre     a 32 30 55.80778- 80 21 28.83083   a    2.8
+charl price      a 32 53 11.08608- 79 39 32.03789   a    2.6
+charl rain       a 32 59 22.779  - 79 56 41.730     a    1.
+charl reeves     a 33 12 05.461  - 80 38 33.738     a   33.20
+charl rhodes     a 33 05 51.062  - 80 25 56.331     a   30.
+charl rudd       a 33 01 59.571  - 80 19 18.501     a   18.
+charl sable      a 32 38 30.88767- 79 59 18.59807   a    3.7
+charl sanpa      a 32 52 38.61852- 79 40 56.45262   a    2.0
+charl secess     a 32 42 14.95886- 79 56 48.39347   a    5.9
+charl shell      a 32 51 07.08119- 79 45 58.77588   a    4.0
+charl smith      a 33 17 54.758  - 80 39 41.145     a   41.
+charl sol        a 32 40 48.43400- 79 58 07.91000   a    2.
+charl south 2    a 32 30 10.43719- 80 21 46.42549   a    3.0
+charl sumter     a 32 45 07.17   - 79 52 28.22      a    1.
+charl swinton    a 32 47 09.249  - 79 48 06.680     a    2.
+charl taylor     a 33 03 24.046  - 80 07 47.085     a   24.
+charl ziegler    a 33 26 46.92200- 80 58 26.45600   a   93.7
+chase ch1        b 36 58 33.9997 -121 37 41.0016    b  533.26   ee 'ch 1' USGS
+chase ch2        b 36 59 02.4460 -121 38 10.2954    b  553.86   ee 'ch 2' USGS NCER
+chase ch3        b 36 59 04.7377 -121 37 35.5645    b  577.07   ee 'ch 3' USGS
+chase ch4        b 36 58 47.8974 -121 36 53.4734    b  603.20   bb 'gilroy 1930' USCGS
+chase ch5        b 36 58 16.9265 -121 37 09.7695    b  525.20   ee 'ch 5' USGS NCER
+chase ch6        b 36 57 37.4845 -121 37 35.5193    b  216.70   ee 'ch 6' USGS NCER
+chase ch7        b 36 57 46.7768 -121 38 15.4468    b  315.29   ee 'ch 7' USGS NCER
+chase ch8        b 36 58 21.9448 -121 38 47.3018    b  392.37   ee 'ch 8' USGS NCER
+chgps alex 2     a 33 07 14.883  - 80 14 44.196     a   24.
+chgps arant      a 33 22 38.329  - 80 40 17.691     a   47.
+chgps bula       a 32 51 43.000  - 80 07 34.225     a   10.36
+chgps charlie    a 33 07 37.00800- 80 32 08.47400   a   27.4
+chgps culler     a 33 32 00.98400- 80 53 56.46100   a   88.4
+chgps enfinger   a 33 14 53.35400- 80 29 39.88300   a   32.9
+chgps gramling   a 33 27 35.575  - 80 45 36.575     a   49.
+chgps heape      a 32 57 19.053  - 80 07 24.548     a   15.86
+chgps huff       a 33 10 48.45600- 80 20 58.30900   a   33.1
+chgps lime       a 32 58 15.714  - 80 13 04.816     a   19.43
+chgps meyers     a 33 18 07.380  - 80 44 52.111     a   46.
+chgps murray     a 33 17 25.946  - 80 35 09.942     a   35.
+chgps or 546     a 33 23 01.904  - 80 50 16.425     a   52.
+chgps reeves     a 33 12 05.461  - 80 38 33.738     a   33.20
+chgps rhodes     a 33 05 51.062  - 80 25 56.331     a   30.
+chgps rudd       a 33 01 59.571  - 80 19 18.501     a   18.
+chgps smith      a 33 17 54.758  - 80 39 41.145     a   41.
+chgps taylor 2   a 33 03 24.046  - 80 07 47.085     a   24.
+chgps zeigler    a 33 26 46.92200- 80 58 26.45600   a   93.7
+china china1       37 29 56.3283 -121 52 12.8316       150.00   
+china china2       37 20 30.45791-121 38 31.02235       75.00   
+chola a624 res   d 35 44 03.     -120 17 09.        o  346.90   ff 'a624 reset 1953' USCGS
+chola b624       d 35 44 52.     -120 17 34.        o  347.78   ff 'b624 1942' USCGS
+chola bones      d 35 43 45.     -120 15 26.        o  452.90   bb 'bones 1932' USCGS
+chola crowbar    d 35 45 21.     -120 15 52.        o  421.10   bb 'crowbar 1932' USCGS
+chola old man    d 35 43 37.     -120 19 30.        o  583.20   bb 'old man 1932' USCGS
+chola san andr   d 35 44 39.     -120 18 22.        o  472.30   bb 'san andreas 1932' USCGS
+chola sananrm1   n 35 44 39.     -120 18 22.        n  471.70   hh 'san andreas 1932 no 1' USCGS
+chola waterhol   d 35 42 30.     -120 16 20.        o  528.60   bb 'water hole 1932' USCGS
+coal  bitter     a 36 25 00.141  -120 58 51.252     i  838.20   bb 'bitter 1944' USCGS
+coal  browns     a 36 44 17.687  -121 13 19.767     f  694.40   bb 'browns 1944' USCGS
+coal  bryan      a 36 09 33.59320-120 48 34.92021   f  642.61   bb 'bryan 1944' USCGS
+coal  bryanrm3   n 36 09 33.     -120 48 34.        i  642.61   hh 'bryan no 3 1944' USCGS
+coal  chal rm4   n 36 26 51.     -121 11 40.        f 1006.40   hh 'chalone no 4 1951' USCGS
+coal  chalk      d 36 10 47.9    -120 45 37.3       f  791.63   cc 'chalk 1971' CDMG
+coal  chalone    a 36 26 51.572  -121 11 40.596     f 1007.40   bb 'chalone 1944' USCGS
+coal  cienega    a 36 45 03.09498-121 21 17.01533   a  414.70   bb 'cienega 1962' USCGS
+coal  cross      a 36 37 16.388  -121 11 23.694     f  773.30   bb 'cross 1944' USCGS
+coal  fairview   a 36 55 33.06810-121 21 21.98371   a  138.60   bb 'fairview 1930' USCGS
+coal  foot rm3   n 36 49 55.     -121 19 26.        n  257.56   hh 'foothill no 3 1930' USCGS
+coal  foothill   a 36 49 54.817  -121 19 25.603     a  257.20   bb 'foothill 1930' USCGS
+coal  fremont    a 36 45 26.05342-121 30 11.07386   a  966.60   bb 'fremont 1930' USCGS
+coal  griswold   d 36 11 31.2    -120 51 14.        f  566.93   cc 'griswold 1971' CDMG
+coal  hepsedam   a 36 18 52.54797-120 49 25.09674   f 1364.40   gg unstamped copper rod, USCGS
+coal  john rm1   n 36 36 39.     -121 18 49.        n 1055.83   hh 'johnson no 1 1944' USCGS
+coal  mcv rm5    n 36 39 24.     -121 21 55.        n 1020.50   hh 'mcvail pk 1944 1969 no 5' USCGS
+coal  mcvail     a 36 39 23.82073-121 21 54.93199   a 1021.90   bb 'mcvail 1944' USCGS
+coal  mon peak   o 36 13 04.2    -120 48 14.9       g  844.07   aa 'mon peak 1978' USGS
+coal  monarch    o 36 12 56.3    -120 48 17.3       f  794.81   cc 'monarch 1971' CDMG
+coal  myers      a 36 14 37.65002-120 40 48.27931   a 1206.70   bb 'myers 1944' USCGS
+coal  myersrm2   n 36 14 37.     -120 40 48.        n 1206.50   hh 'myers no 2 1944' USCGS
+coal  peach      a 36 11 00.34733-120 45 05.29290   f  876.36   bb 'peach 1944' USCGS
+coal  pereira2   a 36 49 04.01228-121 22 50.65903   a  181.00   bb 'pereira 2 1976' NGS   
+coal  sargent    a 36 54 21.970  -121 31 15.657     a  360.40   bb 'sargent 1930' USCGS
+coal  shade      o 36 01 52.     -120 41 17.        f  739.24   cc 'shade' CDWR
+coal  sweetwtr   a 36 13 39.10619-120 55 20.06843   f  592.74   bb 'sweetwater 1944' USCGS
+conco diamond    d 37 58 09.     -122 03 09.        d   10.70
+conco la salle   d 37 56 04.     -122 01 44.        d   25.90
+conco lime       d 37 57 25.9    -122 01 00.4       d   95.30
+conco treat      d 37 56 41.     -122 00 10.        d  157.00
+conco whit       d 37 57 01.     -122 01 5.         d   12.20
+coso  aim        d 35 59 46.0    -117 48 58.0       d 1518.50   gg 'aim' USGS
+coso  ask 10     d 36 04 02.0    -117 47 28.0       d 1550.80   gg 'ask 10 1963' USGS
+coso  ask3 rm1   d 35 46 35.1    -117 49 10.7       d  701.90   bb 'ask 3 rm 1 1957' USGS
+coso  bm 25      d 36 02 42.0    -117 56 36.0       d 1026.60   ff 'USGS bm 25 1905' USGS
+coso  bud        d 36 01 08.0    -117 44 48.0       d 1300.90   gg 'triang. sta. #95 bud' USGS
+coso  cactus     d 36 04 42.0    -117 48 54.0       d 1650.50   bb 'cactus 1948'
+coso  coso       d 36 00 52.0    -117 52 16.0       d 1124.10   bb 'coso laa 1935'
+coso  dor 41     d 36 03 26.0    -117 43 22.0       g 1308.70   ee '41 dor 1976' USGS
+coso  dor 44     d 36 04 58.0    -117 42 20.0       g 1511.00   ee '44 dor 1976' USGS
+coso  dor 46     d 36 05 10.0    -117 41 30.0       g 1578.20   ee '46 dor 1976' USGS
+coso  f 4        d 35 50 36.8888 -117 48 48.6384    d  809.70   gg 'f-4 1950' USGS
+coso  fork       d 36 03 44.0    -117 52 58.0       d 1182.50   gg 'fork' USGS
+coso  g4 37      d 35 52 18.9580 -117 43 46.0149    d  850.70   cc 'g4 37' USGS
+coso  h 88       d 36 06 36.0    -117 57 22.0       d 1159.00   kk 'dwp 1964 h 88' USGS
+coso  line       d 36 00 06.0    -117 47 06.0       d 1259.00   gg 'line' USGS
+coso  m 47       d 35 59 06.0    -117 56 02.0       g 1031.00   ff 'm 47 1925' USGS
+coso  moly       d 36 08 36.0    -117 50 22.0       d 1684.00   ff 'moly' USGS
+coso  pi 21      d 36 04 14.0    -117 58 24.0       d 1123.80   gg '2nd la 1970 pi 21 lawd ls 3393'
+coso  port       d 36 00 52.0    -117 58 28.0       d 1310.50   gg 'portuguese' USGS
+coso  red hill   d 35 59 12.0    -117 55 02.0       d 1204.60   gg 'red hill' USGS
+coso  sec cor    d 36 04 20.0    -117 56 34.0       d 1035.70   ff '26 25 35 36'
+coso  snort nb   d 35 49 27.0    -117 44 49.0       i  700.28   gg 'snorth north base 1950' USCGS
+coso  spring     d 36 02 12.0    -117 46 52.0       d 1341.40   bb 'spring 1948' USCGS
+coso  sugar      d 36 01 54.0    -117 49 16.0       d 1562.40   gg 'sugar 1963' USGS
+coso  volcano    d 35 57 20.0    -117 49 52.0       d 1631.50   bb 'volcano 1934' USCGS
+coso  y 45       d 36 05 14.0    -117 58 24.0       g 1141.70   ff 'y 45 1925' USGS
+coso  z 47       d 35 42 53.0    -117 49 52.0       d  700.40   ff 'z-47 1925' USCGS
+covel brushy     a 39 35 42.97502-123 14 22.18402   a 1482.70   bb 'brushy mtn 1942' USCGS
+covel cahto      a 39 41 11.945  -123 34 42.03      a 1290.22   bb 'cahto 1880 1942' USCGS
+covel chemise    p 40 00 50.66682-124 00 12.08500   a  791.80   bb 'chemise mt 1919' USCGS
+covel covel      a 39 46 16.42   -123 14 48.88      d  426.72   bb 'covel 1942' USCGS
+covel covelrm1   n 39 46 16.     -123 14 49.        n  426.72   hh 'covel no 1 1942' USCGS
+covel farley     a 39 39 10.12603-123 24 55.93619   a 1066.19   bb 'farley pk 1942' USCGS
+covel ham        a 39 51 55.28237-123 05 33.11377   a 1465.60   bb 'ham 1942' USCGS
+covel iron pk    a 39 48 31.18   -123 28 49.58      a 1368.25      'iron peak 1942' USCGS 
+covel iron rm2   n 39 48 31.     -123 28 50.        n 1368.25   hh 'iron peak no 2 1942' USCGS 
+covel mthedrm1   n 39 30 58.     -123 05 42.        n 1884.58   hh 'mount sanhedrin no 1 1925' USCGS
+covel mthedrm3   n 39 30 58.     -123 05 42.        n 1884.58   hh 'mount sanhedrin 2 no 3 1964' USCGS
+covel mtsanhed   a 39 30 57.727  -123 05 41.679     a 1883.00      'mount sanhedrin 2 1964' USCGS
+covel poison     a 39 43 44.27007-123 01 47.14218   a 1694.20   bb 'poison rock 1942' USCGS
+covel poonknny   a 39 50 46.2224 -123 21 05.1829    a 1402.50   bb 'poonkinny 1942' USCGS
+covel prattrm4   a 40 07 13.     -123 41 31.        n 1186.44   hh 'pratt no 4 1942' USCGS
+covel red        a 39 54 35.84   -123 40 00.96      a 1243.89   bb 'red 1942' USCGS
+covel reed       a 40 01 34.18   -123 44 37.51      a  943.66
+covel ten mile   a 39 46 57.252  -123 36 54.889     a 1146.05   bb 'ten mile 1942' USCGS
+covel ten rm1    n 39 46 57.     -123 36 55.        n 1146.50   hh 'ten mile no 1 1942' USCGS
+covel two rock   a 39 21 42.39   -123 26 41.82      a  837.59   bb 'two rock 1925 1879' USCGS
+cresc bald hil     41 45 36.61725-124 01 54.30166      596.79
+cresc child        41 42 10.31399-124 01 41.75494      709.80
+cresc elk          42 01 50.53302-124 07 24.71167      515.00
+cresc flintrdg     41 31 29.63365-124 04 30.88799      244.00
+cresc flitrk73     41 31 29.05560-124 05 03.55285       66.00
+cresc flitrk14     41 31 28.13208-124 05 02.80880       53.00
+cresc gordon       41 47 58.54508-123 52 07.51329     1267.20
+cresc hi divid     41 54 25.00701-124 03 21.26944      718.84
+cresc klam sth     41 31 54.52678-124 04 35.34390      156.00
+cresc mound        41 33 29.26230-124 05 10.51324      256.00
+cresc paksadle     42 01 50.28731-124 00 28.14171      824.00
+cresc longridg     41 55 01.30459-123 55 34.00516     1066.00
+cresc rattle       41 37 28.49080-123 56 55.76783     1112.40
+cresc red mtn      41 31 27.39444-123 54 29.49805     1299.30
+dowdy 770 tr     d 36 52 24.     -121 34 04.        d  134.10
+dowdy dga 2      d 36 52 00.     -121 34 12.        d  185.90
+dowdy dga 3      d 36 51 40.     -121 33 48.        d  158.50
+dowdy dga 4      d 36 51 56.     -121 33 25.        d  103.60
+dryla buck       d 36 27 45.     -121 01 07.        d  934.50
+dryla dlaa 22    d 36 29 25.     -121 02 51.        d  743.40
+dryla dry        d 36 28 01.     -121 03 24.        d  530.60
+dryla lake       d 36 27 53.     -121 04 04.        d  602.00
+dryla sans       d 36 26 37.     -121 02 33.        d  583.70
+dryla tanks      d 36 28 29.     -121 04 57.        d  611.10
+eade  eade 5     d 36 15 14.     -120 50 36.        d  696.50
+eade  erg 1      d 36 16 27.     -120 51 50.        d  674.50
+eade  erg 2      d 36 16 57.     -120 51 52.        d  620.30                   
+eade  erg 3      d 36 16 32.     -120 51 22.        d  641.30
+eade  erg 4      d 36 16 10.     -120 50 39.        d  623.30
+eastb bo           37 43 26.8224 -122 07 09.0964       245.00
+eastb chabot 3   u 37 43 27.0541 -122 07 10.0545    d  245.50
+eastb sec sta f  u 37 45 57.8258 -122 07 32.6223    d  275.00
+eastb faultsb3   u 37 47 30.8052 -122 10 20.8517    d  275.00
+eastb merritt    d 37 46 54.8    -122 09 30.0       d  331.50
+eastb seneca     u 37 45 23.3703 -122 09 25.7372    d   98.50
+eastb slse no4   u 37 44 12.8768 -122 10 50.9943    d    7.10
+eastb yp4        d 37 46 31.396  -122 07 50.586     d  315.90
+excel banner     p 37 42 02.09509-118 34 43.58559   i 2587.20   bb 'banner 1933' USCGS
+excel bound      p 37 50 50.03023-118 22 56.97584   d 3429.00   aa 'bound 1973' NCER
+excel boundary   p 37 50 46.19061-118 21 01.25445   a 4005.20   bb 'boundary 1950' USCGS
+excel brandon    a 38 19 41.573  -117 41 53.946     a 2183.20   bb 'brandon 1952' USCGS
+excel candelar   p 38 09 00.60312-118 06 08.61488   b 2029.70   ee 'candelaria 2 1966' USGS
+excel casa dia   p 37 34 42.68170-118 32 58.17475   b 2411.60   bb 'casa diablo 1933' USCGS
+excel cedar      p 38 31 52.71611-117 49 21.09412   b 2464.90   bb 'cedar 1933' USCGS
+excel chalfant   p 37 31 59.28816-118 18 55.43844   i 2083.30   bb 'chalfant 1933' USCGS
+excel collins    d 38 11 35.9    -118 27 12.7       n 2375.76   aa 'collins 1976' USGS NCER
+excel dan        p 37 23 30.45520-118 15 12.69561   b 2554.50   ee 'dan 1947' USGS
+excel duke       d 37 37 24.0    -118 59 08.4       d 2550.00      'duke 1982' USGS
+excel excel      p 38 16 04.56681-118 30 20.76356   b 2532.40   bb 'excelsior 1935' USCGS
+excel falls 2    p 37 42 40.79711-118 25 42.35749   a 1432.88   bb 'falls 2 1975' USCGS
+excel fallsrm1   n 37 42 40.     -118 25 42.        n 1432.30   hh 'falls no 1 1950' USCGS
+excel glass      a 37 46 29.991  -118 42 27.178     a 3390.20   ee unstamped USGS b.m.
+excel glass 3    n 37 46 29.991  -118 42 27.178     g 3390.34   bb 'glass 3 1982' USGS
+excel glassrm1   n 37 46 29.9    -118 42 26.8       n 3389.58   hh 'glass mountain USGS no 1 1933' USCGS
+excel glassrm2   p 37 46 29.90803-118 42 26.83383   i 3388.77   hh 'glass mountain USGS no 2 1933' USCGS
+excel hicks      p 38 16 47.75136-118 49 00.40201   b 2869.40   bb 'mt hicks 1934' USCGS
+excel horse      p 37 58 45.10528-118 48 29.32699   i 2704.80   bb unstamped USGS
+excel hot        d 37 39 32.4    -118 49 07.2       d 2180.00  
+excel huntoon    p 38 02 02.33088-118 32 28.13758   a 2529.50   bb 'huntoon 1950' USCGS
+excel knolls     d 37 39 16.2    -118 58 31.8       d 2625.00
+excel krakatoa   d 37 42 49.2    -118 52 45.0       d 2365.00   ee 'krakatoa 1983' USGS
+excel krakperm   d 37 42 49.2    -118 52 45.0       d 2365.00
+excel laurel     p 37 34 49.34110-118 53 25.55342   a 3600.30   bb 'laurel 1933' USCGS
+excel lone       p 38 11 34.58201-118 27 13.63416   b 2370.70   ee 'lone 1957' USGS
+excel lone ecc   b 38 11 36.273  -118 27 12.763     b 2375.00   gg unstamped spike with 1/2 head
+excel mable      p 38 27 23.37691-118 18 26.56876   b 2442.80   bb 'mable 1935' USCGS
+excel miller     a 38 03 54.769  -118 11 25.734     b 2660.50   bb 'miller mtn 1950' USCGS
+excel miner      d 37 36 45.0    -118 54 50.4       d 2489.00
+excel moho 2     p 38 16 46.92444-118 15 31.31966   b 2683.70   ee 'moho 2 1966' USGS
+excel oro        p 38 24 14.11312-118 26 45.96512   b 2334.80   ee 'oro' USGS
+excel pilot      p 38 20 34.88341-117 58 23.19428   b 2799.14   bb 'pilot pk 1952' USCGS
+excel pilotrm2   n 38 20 34.     -117 58 23.        n 2798.80   hh 'pilot no 2 1952' USCGS
+excel sherperm   d 37 37 31.2    -118 56 43.8       d 2365.20
+excel sherwin    p 37 30 09.90267-118 41 01.41620   i 3578.90   bb 'sherwin 1933' USCGS
+excel tilla      d 37 37 10.2    -118 51 37.8       d 2193.00
+excel tillperm   d 37 37 10.2    -118 51 37.8       d 2193.00
+excel tungsten   p 37 22 09.37126-118 31 38.00120   b 1813.30   bb 'tungsten 1933' USCGS
+fair  comb       d 59 40 10.0    -138 38 18.0       j 1279.86   gg 'comb 1983' 
+fair  flat       d 59 40 08.0    -138 51 44.0       j 1128.98   aa 'flat 1983' NCER
+fair  hidden     d 59 42 21.0    -138 56 38.0       j 1069.24   gg 'hidden 1983' NCER
+fair  mid        d 59 45 34.0    -138 51 42.0       j 1284.12   aa 'mid 1983' NCER
+fair  moser      d 59 34 01.0    -138 59 24.0       j 1194.21   ee 'moser 1983' NCER
+fair  nova       d 59 34 23.0    -138 33 22.0       j 1196.65   aa 'nova 1983' NCER
+fair  tat        d 59 37 22.0    -138 48 50.0       j 1225.60   gg 'tat 1983' NCER
+fair  yaku       d 59 29 33.0    -138 43 55.0       j  890.32   aa 'yaku 1983' NCER                     
+fallo aggie      p 39 00 11.78447-118 07 31.59636   d 2105.50   aa 'aggie 1973' NCER
+fallo bmn295     d 38 49 13.0    -117 49 49.0       i 1395.70   ll 'n 295 1940' USCGS
+fallo bmr46      d 39 17 29.0    -118 04 06.0       i 1362.80   ff 'r 46 reset 1961' USCGS
+fallo bmx46      a 39 16 25.978  -118 18 34.931     a 1302.50   ff 'x 46 1934' USCGS
+fallo borax      a 39 19 42.424  -118 27 43.259     a 1672.40   bb 'borax 1935' USCGS
+fallo buffalo    a 39 08 45.640  -117 48 20.958     a 2317.70   bb 'buffalo 1954' USCGS
+fallo cain crk   a 40 01 27.244  -117 32 32.755     a 2564.10   bb 'cain creek 1954' USCGS
+fallo cedar      p 38 31 52.68432-117 49 21.13544   i 2464.90   bb 'cedar 1933' USCGS
+fallo clan       a 39 46 24.6309 -117 45 23.0857    a 1988.80   bb 'clan 1958' USCGS
+fallo cotton     a 39 58 26.9882 -118 01 53.5656    a 2384.60   bb 'cotton 1958' USCGS
+fallo dixie      a 39 23 10.199  -118 09 57.731     a 1272.60   bb 'dixie 1953' USCGS
+fallo dixierm3   n 39 23 10.0    -118 09 58.0       g 1260.26   nn 'dixie no 3 1953' USCGS
+fallo fair rm1   n 39 13 30.0    -118 09 05.0       g 2530.00   hh 'fairview no 1 1953' USCGS
+fallo fair rm2   n 39 13 30.0    -118 09 05.0       a 2529.85   hh 'fairview no 2 1953' USCGS 
+fallo fairview   a 39 13 30.473  -118 09 05.581     a 2530.50   bb 'fairview 1953' USCGS
+fallo fen        d 40 04 57.0    -117 49 49.0       i 2110.50   ff 'fen 1974' Defense Mapping Agency
+fallo ferguson   p 38 39 26.41677-118 09 36.70443   i 2562.15   aa 'ferguson 1976' NCER
+fallo flat       d 38 43 51.0    -118 06 10.0       i 1904.70   aa 'flat 1973' NCER
+fallo granite    a 40 16 49.4237 -117 48 58.0022    a 2566.10   bb 'granite 1958' USCGS
+fallo lower      d 40 01 39.0    -117 38 30.0       i 1124.80   aa 'lower 1973' NCER
+fallo mable      p 38 27 23.37691-118 18 26.56876   i 2442.80   bb 'mable 1935' USCGS
+fallo mccoy      d 40 06 44.0    -117 35 43.0       i 1209.90   aa 'mccoy 1973' NCER
+fallo mine       a 39 12 16.455  -118 03 20.548     a 1976.40   bb 'mine 1954' USCGS
+fallo mound      a 39 23 45.514  -118 16 55.069     a 1515.50   bb 'mound 1953' USCGS
+fallo parad 85   n 38 48 24.749  -117 49 33.299     i 2636.60   ee 'paradise 1940' USGS reset in concrete in 1985
+fallo paradise   b 38 48 24.749  -117 49 33.299     i 2636.60   ee 'paradise 1940' USGS
+fallo pilot      p 38 20 34.88341-117 58 23.19428   i 2799.14   bb 'pilot pk 1952' USCGS
+fallo post       a 39 02 09.565  -118 02 04.659     a 1575.60   bb 'post 1954' USCGS
+fallo sand spr   a 39 08 51.289  -118 25 17.345     a 1908.00   bb 'sand springs 1935' USCGS
+fallo sheelite   a 39 02 35.737  -118 19 24.605     a 2177.00   bb 'shelite 1953' USCGS
+fallo slaterm1   a 39 06 33.086  -118 12 18.508     a 2177.40   nn 'slate no 1 1953' USCGS
+fallo wonder     a 39 24 33.684  -118 03 21.049     a 2172.40   bb 'wonder 1953' USCGS
+garlo avawatz    a 35 30 45.902  -116 19 50.499     a 1876.10   ee 'avawatz 1947' USGS
+garlo brown      b 35 41 11.383  -117 00 56.489     b 1561.80   ee '5131 feet datum va 1918' USGS
+garlo garlock    b 35 25 09.083  -117 50 58.492     b 1458.20   ee 'garlock 1966' USGS
+garlo garlocre   b 35 25 09.083  -117 50 58.492     b 1458.20   ee 'garlock 1966 reset 1977' USGS
+garlo granite    b 35 31 12.060  -116 44 51.198     b 1360.00   ee 'granite 1947' USGS
+garlo james      a 35 31 53.690  -116 32 56.423     a 1466.50   ee 'james 1947' USGS
+garlo jamesrm2   n 35 31 53.     -116 32 56.        a 1464.67   oo '1947 NCER' USGS
+garlo jawbone    d 35 20 11.2    -117 59 40.        d  803.20   aa 'jawbone NCER 1973' USGS
+garlo joburg     d 35 20 13.6    -117 41 33.        d 1443.80   aa 'joburg 1973' NCER
+garlo joburgre   d 35 20 13.6    -117 41 33.        d 1443.80   ee 'joburg NCER 1973 reset 1977' USGS NCER
+garlo joburrm1   d 35 20 13.     -117 41 33.        i 1443.21   vv 'joburg rm 1 1973' NCER
+garlo knoll      a 35 28 36.207  -117 12 37.901     a 1215.00   ee 'knoll 1945' USGS
+garlo leach      a 35 32 05.5500 -116 53 24.3726    a 1481.90   bb 'leach 1926' USCGS
+garlo owl        b 35 43 53.165  -116 52 51.341     b 1422.20   ee 'owl 1947 ' USGS
+garlo owlhead    a 35 47 11.909  -116 46 32.900     a 1343.60   ee 'owlhead 1949' USGS
+garlo quail      b 35 37 42.536  -116 54 09.459     b 1555.50   ee 'quail 1947' USGS
+garlo rock       b 35 28 41.325  -117 26 20.342     b  940.73   ee 'rock 1945' USGS
+garlo spangler   a 35 34 28.570  -117 30 37.937     a 1061.00   bb 'spangler 1933' USCGS
+garlo spring     a 35 40 13.503  -116 40 03.918     b 1018.60   ee 'spring 1947' USGS
+garlo will rm2   n 35 37 15.     -117 11 28.        i 1700.63   ff 'u s' cross etched in rock USGS
+garlo will rm3   n 35 37 15.     -117 11 28.        i 1700.68   aa 'willow 3 l984' NCER
+garlo willow     b 35 37 15.157  -117 11 28.111     b 1701.10   ee 'willow 1945' USGS
+gavil cycle      n 36 46 26.     -121 27 48.        i  683.82   aa 'cycle 1980' NCER
+gavil fremont    a 36 45 26.05342-121 30 11.07386   a  966.60   bb 'fremont 1930' USCGS
+gavil gav1       b 36 44 36.9997 -121 27 41.9996    b  696.32   ee can't read USGS
+gavil gav2       b 36 46 26.7371 -121 27 48.2540    b  683.82   ee 'gav 2' USGS
+gavil gav3       b 36 45 46.9734 -121 25 49.3308    b  604.11   ee 'gav 3 NCER' USGS 
+gavil gav4       b 36 44 23.4841 -121 26 20.5609    b  828.78   ee 'gav 4 NCER' USGS 
+gavil gav5       b 36 43 15.5518 -121 27 08.7848    b  799.17   ee 'gav 5 NCER' USGS 
+gavil gav6       b 36 43 38.3630 -121 29 17.0516    b  790.26   ee 'gav 6 NCER' USGS
+gavil gav7       b 36 45 38.6060 -121 28 38.8180    b  858.50   ee unstamped USGS
+gavil sandy      a 36 46 35.990  -121 28 13.088     a  738.90   bb 'sandy 1930' USCGS
+geyse alice      a 38 44 54.011  -123 03 08.104     a  577.10   bb 'alice 1932' USGS
+geyse audrey     p 38 58 43.93569-122 38 36.46893   a  669.70   bb 'audrey 1949' USCGS
+geyse benlorm1   n 38 52 26.     -122 42 30.        n 1125.30   hh 'ben lomond no. 1 1941' USGS
+geyse benlorm2   n 38 52 26.     -122 42 30.        n 1125.30   hh 'ben lomond no. 2 1941' USGS
+geyse bond       a 38 55 06.714  -122 30 17.020     a  974.20   bb 'bond 1941' USGS
+geyse bucknell   d 39 03 42.8    -122 57 26.        d  555.96   bb 'bucknell' USGS
+geyse burnsid2   p 38 20 53.6978 -122 51 48.7374    a  277.26   ee 'burnside 2 1975' USGS
+geyse burnside   b 38 20 52.055  -122 51 49.936     b  280.00   bb 'burnside 1932' USCGS
+geyse caldwell   d 38 50 34.4    -122 48 37.        j 1008.00   aa 'caldwell 1972' NCER
+geyse cobb mtn   d 38 48 34.8    -122 44 08.        d 1432.56   hh 'cobb mtn' USGS
+geyse coline 1   d 38 50 20.8    -122 47 49.        d  963.20   aa 'co. line 1' NCER
+geyse div east   n 38 46 08.0    -122 43 38.        n 1049.12   ee 'divide east 1981' USGS
+geyse divide     a 38 46 07.980  -122 43 38.036     a 1049.12   bb 'divide 1949' USGS
+geyse dunlevy1   d 38 47 13.2    -122 48 57.        j  930.90   aa 'dunlevy 1 1972' NCER
+geyse dunlevy2   d 38 46 33.6    -122 47 40.        j 1052.50   aa 'dunlevy 2 1972' NCER
+geyse dunlevy4   d 38 45 50.4    -122 45 36.        j 1022.60   aa 'dunlevy 4 1972' NCER
+geyse geyser     n 38 45 53.     -122 50 39.        n 1053.10   aa 'geyser 1972' NCER
+geyse harbin     d 38 47 31.6    -122 38 44.        d  787.90   gg 'harbin mtn' USGS
+geyse helena     a 38 40 09.971  -122 37 56.604     b 1323.70   pp unstamped copper rod
+geyse konoccgs   a 38 58 28.992  -122 45 53.333     a 1311.40   bb 'konocti 1949' USCGS
+geyse konocrm1   d 38 58 28.     -122 45 53.        g 1311.50   hh 'konocti no 1 1949' USCGS
+geyse konocti    b 38 58 24.888  -122 46 11.232     d 1306.40   bb 'konocti 1932' USGS
+geyse nice       a 39 07 58.244  -122 50 05.357     a  878.70   bb 'nice 1949' USCGS
+geyse nice rm3   n 39 07 58.244  -122 50 05.357     n  878.44   hh 'nice no 3 1949-1976' NGS
+geyse oaks       a 39 01 44.863  -122 41 31.041     a  703.20   bb 'oaks 1949' USCGS
+geyse pin peak   n 39 08 51.     -122 45 50.        n 1407.40   bb 'pinnacle peak' USGS
+geyse pine       a 39 03 11.222  -122 46 05.602     a  771.90   bb 'pine 1949' USCGS
+geyse pugh 1     d 38 48 50.     -122 46 46.        j 1112.20   aa 'pugh 1 1972' NCER
+geyse pugh 2     d 38 49 18.8    -122 49 06.        j  959.50   aa 'pugh 2 1972' NCER
+geyse pugh 4     d 38 50 50.     -122 51 30.        d  841.25   cc 'pugh 4' USGS WRD
+geyse rhyolite   d 38 48 00.     -122 45 00.        d 1420.37   aa 'rhyolite' USGS NCER
+geyse sheldon    a 38 54 38.560  -122 57 15.501     b 1010.40   bb 'sheldon 1932' USGS
+geyse sheldrm1   n 38 54 38.     -122 57 15.        n 1009.80   hh 'sheldon no 1 1949 USGS' USCGS
+geyse sulphur    a 38 45 53.154  -122 50 39.006     a 1054.50   bb 'sulphur peak 1932' USGS
+geyse taylor     p 38 24 02.6964 -122 40 25.1694    a  427.70   ii unstamped brass plug
+geyse weston     p 38 36 03.2001 -122 48 41.9394    d  307.20   aa 'weston 1972' NCER
+geyse wright     p 38 58 28.09833-122 45 52.90502   n 1311.40   bb 'wright' USGS
+goldr alber      p 49 35 06.0197 -126 27 43.7503    g 1060.62
+goldr alber g    p 49 35 06.020  -126 27 43.750     g 1060.15
+goldr ana        p 49 47 21.1912 -126 32 44.4156    g 1120.25
+goldr baldy      p 49 45 38.4943 -126 07 55.1323    g 1609.87
+goldr baldy g    p 49 45 38.5896 -126 07 56.5193    g 1604.44
+goldr gold       p 49 52 46.2980 -126 00 07.2119    g 1731.60
+goldr new        p 49 51 50.7692 -126 20 03.0203    g 1410.51
+goldr pierce     p 49 37 09.0248 -126 07 13.6710    g 1402.56
+goldr pretty     p 49 30 59.6163 -126 14 54.5828    g 1183.56
+goldr pretty g   p 49 30 59.616  -126 14 54.583     g 1183.11
+goldr sentinel   p 49 57 23.4336 -125 57 22.6144    g 1737.73
+goldr twaddle    p 50 00 52.4800 -126 13 24.7218    g 1754.68
+gps   10jdg        35 57 24.     -120 32 23.           639.39      GPS station
+gps   33jdg        35 56 34.     -120 27 49.           529.34      GPS station
+gps   agu a1     n 38 48 00.00   -122 24 00.00      n   20.00
+gps   agu a2     n 38 48 00.01   -122 24 00.01      n   20.01
+gps   agu a3     n 38 48 00.02   -122 24 00.02      n   20.02
+gps   agu a4     n 38 48 00.03   -122 24 00.03      n   20.03
+gps   agu b1     n 38 48 00.04   -122 24 00.04      n   20.04
+gps   agu b2     n 38 48 00.05   -122 24 00.05      n   20.05
+gps   agu b3     n 38 48 00.06   -122 24 00.06      n   20.06
+gps   agu b4     n 38 48 00.07   -122 24 00.07      n   20.07
+gps   alder      p 40 07 12.83542-123 41 31.02745   b 1186.44   ee 'ALDER 198' NCER
+gps   allison    p 37 29 56.3283 -121 52 12.8316    a  811.10   ii 'V A 2659' USGS 
+gps   allisrm1   n 37 29 56.     -121 52 13.0       a  811.10   ii 'V A 2659' USGS 
+gps   angeles      48  7 25.16843-123 27  4.07560      -16.3448
+gps   ant aux    a 34 14 55.1475 -117 40 27.0432    i 2076.30   hh 'antonio 1922 aux' USCGS
+gps   antelynx     37 30 24.16554-121 55  7.850259      31.78   
+gps   archrock     48 27 26.97780-124 12 24.82914       -6.11
+gps   astor        46 10 53.41300-123 48 58.70700      181.00
+gps   austin       32 30 00.     -097 30 00.             0.00
+gps   aviation     47 41 08.44529-122 14 56.79334        6.2
+gps   bad pow    a 34 21 30.38148-117 45 49.39781   k 2865.00   bb 'r 93 1929' USGS in coop with LACSCS
+gps   bahokus2     48 22 18.34364-124 40 34.56997      418.15
+gps   baker pt     45 54 20.44823-123 06 1266197       572.00
+gps   bald rm1     40 52 55.23962-123 51 55.56344      939.79
+gps   bayshore     37 28 48.46350-121 56 55.101964     -29.22    
+gps   beacon 2     33 55 25.9840 -116 22 58.9926       530.50
+gps   bear rd2   p 40 29 52.15506-124 17 35.93624   a  751.00   bb 'bear ridge 2 1957 1981' USCGS
+gps   beechyhd     48 19 45.96846-123 39 26.29911      182.96
+gps   bend         37 25 34.83026-122  2  5.486272     -31.75    
+gps   benson       46 02 24.413  -123 12 35.180        570.00
+gps   benson 8     45 37 32.50300-122 42 03.36400        8.0
+gps   blue mt      47 57 18.02829-123 15 35.31266     1807.82
+gps   bm112        37 41 39.27466-121 40 31.506777     192.50  
+gps   bm603        33 57 40.6664 -116 28 21.8238       338.19
+gps   bmt10rm1     37 17 24.63054-122  9 12.220385     676.84   
+gps   bonilla3     48 35 38.09460-124 42 59.10518      -16.23
+gps   brush      a 36 35 23.308  -121 46 18.242     a  283.50   bb 'brush 1930' USCGS
+gps   c1148        34 15 03.6    -118 19 21.7          354.33
+gps   cahto      a 39 41 11.945  -123 34 42.03      a 1290.22   bb 'cahto 1880 1942' USCGS
+gps   calero       37 11 10.9820 -121 46 57.48051     125.672
+gps   casa       a 37 38 39.788  -118 53 44.555     a 2413.10   bb 'casa 1956' USCGS
+gps   cliff        36 56 59.1181 -122  3  5.74522      -19.572
+gps   coa          34 00 56.8469 -116 24 38.4879       760.17
+gps   cooskie    p 40 15 24.95258-124 15 53.43030   d  899.16   aa 'cooskie 1981' USGS
+gps   covelo     a 39 46 16.42   -123 14 48.88      d  426.72   bb 'covel 1942' USCGS
+gps   coy          37 13  9.24239-121 44 16.620783      45.3168
+gps   crown        46 16 50.030  -123 20 48.450        553.00
+gps   diablo 2   p 37 52 54.9136 -121 54 49.2066    g 1168.70   cc 'diablo ecc rm2 1962' CDWR
+gps   discover     48 25 31.57354-123 13 37.60750       11.36
+gps   douglas      48 29 34.98316-123 20 49.09706      205.36
+gps   dungen       48 10 52.50349-123  6 37.78411      -18.74
+gps   eagle rk   a 37 08 51.554  -122 11 39.199     a  758.30   bb 'eagle rock 1938' USCE
+gps   eagle un   n 37 08 51.     -122 11 39.        d  765.66   ss unstamped USCE
+gps   east bat     46 16 44.964  -124 02 38.084         51.01
+gps   ellis        48  9 30.24571-124 18 53.65614      794.40
+gps   end          37  4  8.33418-121 48 32.361920     839.5888
+gps   everett      47 58 46.31767-122 13  1.75908      -11.4156
+gps   f461         47 10  1.58775-123  5 45.75840      34.6548
+gps   farallon   i 37 41 57.463  -123 00 02.798     i  103.94   bb 'farallon 2' USCGS
+gps   fire         37  2 49.00563-121 56 15.918784      51.6918
+gps   foothill     37 21 45.67467-122  7 23.828259      56.06   
+gps   fort ord   s 36 40 11.23126-121 46 23.77622   s   53.77   
+gps   green mt     45 52 36.99600-123 23 52.91800      759.00
+gps   gregor       36 58 56.16592-121 55 25.125149      12.3044
+gps   grenvill     47 18 15.13628-124 16 43.27045       36.9
+gps   haleakal     20 40 00.     -156 10 00.          3050.00
+gps   hamilton   p 37 20 30.45791-121 38 31.02235   f 1284.20   bb unstamped USCGS 1947
+gps   hanford      36 19 40.7305 -119 38 46.8607        73.37      GPS station
+gps   hatcr        40 49 02.0    -121 28 14.0          961.00      GPS station
+gps   haul         37 16 25.40064-122 17  2.938758      50.25    
+gps   haystack     42 30 00.     -071 00 00.             0.00
+gps   horsemtn     40 52 29.01354-123 43 58.71836     1482.36
+gps   hur rm 2   a 47 59 25.573  -123 31 39.726     a 1754.10   hh 'hurricane no 2 1940' USGS
+gps   iaqua 2    p 40 40 08.74600-123 52 53.27086   a 1136.00   bb 'iaqua 2 1961' USCGS
+gps   iceberg      48 25 11.46322-122 53  5.82717       21.34
+gps   j52          34 14 32.28   -118 19 19.2          353.87
+gps   jackson2     38 20 22.99980-120 43 15.829615     674.22  
+gps   jim crow     46 15 38.755  -123 33 47.170          8.00
+gps   joaquin      35 54 33.9    -120 25 56.3          475.27      GPS station
+gps   kneeland     40 43 35.90420-123 58 29.49485      786.27
+gps   koke         22 00 00.     -159 30 00.          1600.00
+gps   l1290        34 17 40.     -117 17 24.           880.87 
+gps   langley      47 06 59.277  -124 06 45.189         76.40
+gps   lookout      48 09 01.23134-123 40 13.29937      307.40
+gps   lp1        d 37 06 32.0    -121 50 38.0       i 1151.31   aa 'loma prieta net 1' NCER
+gps   lp2          37  6 14.20178-121 54 31.361222     653.7609
+gps   lyre         48 09 36.049  -123 49 29.687          2.00
+gps   marysvil     39 12 20.     -121 49 10.           645.26      GPS station
+gps   mazzone      37  8 13.72258-121 47 15.013299     204.8680
+gps   meda         37 45 19.10780-121 33 58.706648      37.34  
+gps   milham 2     36 00 31.8324 -119 59 11.0861       147.88      GPS station
+gps   mocho      p 37 28 38.84549-121 33 17.59085   n 1246.33   aa 'mocho ecc 1973' NCER
+gps   mojave       35 19 52.48767-116 53 25.66684      907.78      GPS station
+gps   monument   a 32 53 32.336  -116 25 11.249     d 1911.41   ff 'monument reset 1939 1957' USCE
+gps   mount        54 52 37.2    -160 13 22.8          246.89   aa
+gps   mt oso     p 37 30 30.31334-121 22 26.02711   a 1020.10   bb 'mt oso 1931' USCGS
+gps   nd           37  4  8.33418-121 48 32.361920     839.5888
+gps   neah bay     48 22   .76748-124 37 15.72380      -15.3504
+gps   ni-1         33 58  0.0    -118 18  0.0
+gps   ni-2         33 48  0.0    -118 09  0.0
+gps   ni-3         33 42  0.0    -118 00  0.0
+gps   ni-4         33 35  0.0    -117 45  0.0
+gps   nickoli      46 06 01.263  -123 26 37.184        808.00
+gps   oquin        35 53 05.     -120 26 29.4          458.46      GPS station
+gps   ovro         37 13 57.45   -118 17 34.22        1184.00
+gps   palosver     33 44 37.52114-118 24 09.69809       78.35      GPS station
+gps   pawt         37 19 28.15789-122 10  1.769341     708.13   
+gps   pea          48 31 53.65940-124 27 38.37144      -10.45
+gps   pentinne     46 10 55.097  -122 57 00.632        283.00
+gps   pgc          48 38 54.87254-123 27  4.63909        0.92
+gps   piconcer   n 34 19 49.0    -118 36 00.0       n 1135.88   bb 'pico NCER 1977' USGS
+gps   pierce 2   p 40 25 02.43846-124 07 09.78878   a  972.70   bb 'mt pierce 2 1928' USCGS
+gps   pigeonpt     37 10 58.88519-122 23 40.306701     -25.23    
+gps   pillerpt     48 11 52.36454-124  7  8.41362      -16.1374
+gps   poison     a 39 43 44.27007-123 01 47.14218   a 1694.20   bb 'poison rock 1942' USCGS
+gps   portrenf   a 48 33 22.58028-124 24  1.72988   a   23.3187
+gps   prescott     46 02 24.83866-122 55 23.88949      362.00
+gps   protect    a 48 07 40.0196 -122 55 22.1807    a   61.20
+gps   pt atkin     49 20 14.40142-123 15 11.92579      -14.3596
+gps   pt dune      34 01  0.0    -118 48 30.0
+gps   ptreyhd3   a 37 59 47.2839 -123 00 49.5960    a  185.70   bb 'pt reyes head 3 1960' USCGS
+gps   pv-1         33 52  0.0    -118 20  0.0
+gps   pv-2         33 49  0.0    -118 16  0.0
+gps   racerock     48 17 55.19845-123 31 56.10599       -8.61
+gps   red hill   a 35 36 17.924  -120 15 34.548     f  785.30   bb 'red  hill 1932' CDWR
+gps   rohnervil    40 33 31.87917-124  7  7.79890      160.3337
+gps   saddle 2     45 58 09.301  -123 41 02.724       1001.20
+gps   samoa 2      40 49 20.86221-124 11 14.43168       -8.1468
+gps   sanantre     37 35 38.39559-121 48 35.823650     137.68  
+gps   sand pt      47 41  8.02514-122 15 34.13319      -15.3278
+gps   sandpths     55 21 15.0    -160 29 00.0           72.34    32.00      sand pt high school
+gps   sanpedro     33 43  0.0    -118 18  0.0
+gps   schoolpk     41  9 12.27980-123 52 55.14277      916.4071
+gps   seat tid     47 41 14.70111-122 15 38.63623      -17.4027
+gps   sheridan     37 32 28.73480-121 52 11.461593     319.24   
+gps   shering      48 22 38.80952-123 55 23.27196       -2.48
+gps   show rm1   p 40 34 44.64883-123 41 46.95779   g 1344.22   hh 'showers no 1 1961' USCGS
+gps   sis rm3      40 42 55.58430-124 12  7.20905      133.80
+gps   sitar        47 34 15.51155-122 33  9.28900      -17.5173
+gps   slip         48 15 39.68634-124 14 26.14667      117.80
+gps   sm-1         34 11  0.0    -118 03  0.0
+gps   sm-2         34 09  0.0    -117 49  0.0
+gps   smith 3      48 19  6.60195-122 50 41.51956       -1.68
+gps   sooes 2      48 17  4.66042-124 35 28.92762      577.19
+gps   stm-1        34 05  0.0    -118 24  0.0
+gps   stm-2        34 07  0.0    -118 14  0.0
+gps   sweeney    d 37 36 36.     -122 27 27.        g  380.55   aa 'sweeney rdg 1978' NCER
+gps   table      p 40 37 49.49763-124 11 33.21563   d  177.09      'table 1919' USCGS
+gps   tam3 rm2   d 37 55 25.     -122 35 40.        g  774.00   cc 'tam 3 rm2' CDWR
+gps   tillamoo     45 57 54.297  -123 57 54.950        346.3
+gps   tiptop       40 58 42.90888-124 00 40.59949      474.80
+gps   tofino       49  9 14.81085-125 54 35.04122      -14.0339
+gps   tucker       48  8 23.34867-123 24 11.02663      -18.41
+gps   usgs no7     37 37 18.53402-121 42  9.090318     207.63  
+gps   vaca 2     d 38 24 04.4    -122 06 18.0       n  859.20   gg 'mt vaca 1976' CDMG
+gps   vandenbr     34 33 21.9231 -120 36 55.4513        23.69      GPS station
+gps   victoria     48 25 27.06368-123 22 14.22859      -13.2827
+gps   waadah       48 23  6.73829-124 36  0.19687       -7.51
+gps   wh-1         34 03  0.0    -117 55  0.0
+gps   wh-2         33 54  0.0    -117 58  0.0
+gps   whitaker   k 34 34 03.1701 -118 44 30.5699    n 1255.40
+gps   wickiup      46 06 33.114  -123 34 40.251        751.00
+gps   worden       48  8 26.80829-122 46  6.11274       62.63
+grant barn       d 37 21 06.     -121 43 34         d  533.40
+grant grant      d 37 21 27.     -121 42 38.        d  747.68
+grant halls      d 37 20 12.     -121 41 57.        d  609.60
+grant pueblo     d 37 20 36.     -121 44 17.        d  701.04
+grant yerba      d 37 19 28.     -121 43 28.        d  748.90
+hanfo 911        d 46 30 29.000  -119 39 20.000     d  193.85   gg '911' NCER
+hanfo 912        d 46 25 17.000  -119 40 28.000     d  975.36   gg '912' NCER
+hanfo 913        d 46 27 22.000  -119 43 30.000     d  632.16   ff '913' NCER
+hanfo 914        d 46 27 13.000  -119 41 59.000     d  595.58   gg '914' NCER
+hanfo 915        d 46 25 12.000  -119 43 30.000     d  822.96   gg '915' NCER
+hanfo 916        d 46 27 12.000  -119 40 00.000     d  660.50   gg '916' NCER
+hanfo 917        d 46 26 47.000  -119 39 05.000     d  593.45   gg '917' NCER
+hanfo allard     a 46 40 45.347  -119 36 49.912     a  165.80   bb 'allard 1947' USCGS
+hanfo bender     d 46 14 52.000  -119 33 48.000     d  623.62   bb 'bender reset 1925 1947' USCGS
+hanfo benson     b 46 31 42.001  -119 45 25.592     b  507.40   bb 'benson 1948' USGS
+hanfo coal       b 46 36 31.974  -119 53 01.465     b  753.80   bb unstamped USGS disk
+hanfo corfu      a 46 51 30.823  -119 27 08.744     a  262.80   bb 'corfu 1948' USCGS
+hanfo french     a 46 57 47.288  -119 37 09.639     b  536.40   bb  unstamped USGS disk
+hanfo gablerm2   a 46 35 53.665  -119 27 34.580     a  330.80   hh 'gable no. 2 1947' USCGS
+hanfo gibbon     d 46 12 43.000  -119 41 10.000     d  565.10   bb 'gibbon 1947' USCGS
+hanfo hartman    a 46 23 29.714  -119 35 18.208     a 1074.60   bb 'hartman USBR 1947' USCGS
+hanfo haven      d 46 36 45.000  -119 38 13.000     d  224.94   bb 'haven 1947' USCGS
+hanfo kelly      a 46 20 42.002  -119 42 06.670     a  619.80   bb 'kelly 1947' USCGS
+hanfo lyne       a 46 28 58.224  -119 39 06.584     a  209.90   bb 'lyne 1947' USCGS
+hanfo mckinley   a 46 29 43.169  -119 23 22.877     a  171.20   bb 'mckinley 1947' USCGS
+hanfo mcmanamn   a 46 56 59.949  -119 20 52.984     a  533.10   bb unstamped USGS disk
+hanfo pug        a 46 32 30.728  -119 33 12.671     a  228.40   bb 'pug 1947' USCGS
+hanfo radio      b 46 48 24.0    -119 33 24.0       b  812.90   gg 'radio 1969 GGC-H' Bonneville Power Admin
+hanfo ratt rm1   n 46 26 52.0    -119 50 20.0       n 1106.09   hh 'rattlesnake no. 1 1947' USCGS
+hanfo rattle     a 46 26 51.889  -119 50 19.543     b 1106.09   bb unstamped USGS disk with raised center
+hanfo rattle a   n 46 26 52.0    -119 50 20.0       n 1106.09   bb same mark as rattle, centered on an "a"
+hanfo reynaud    a 46 30 21.079  -119 55 48.132     a  780.00   bb 'reynaud 1936' USGS
+hanfo saddle 2   a 46 48 49.463  -119 40 12.406     a  800.70   bb 'saddle 2 1947' USCGS
+hanfo sent rm3   n 46 49 07.0    -119 51 39.0       n  733.05   hh 'sentinel no. 3 1967 1968' USCGS
+hanfo sent rm4   n 46 49 07.0    -119 51 39.0       i  735.40   hh 'sentinel no. 4 1948 1967' USGS USCGS
+hanfo sent rm5   n 46 49 07.0    -119 51 39.0       i  735.40   hh 'sentinel no 5 1948 1984' USGS
+hanfo taunton    a 46 46 29.278  -119 19 10.499     a  579.60   bb 'taunton 1925' USCGS
+hanfo weller     a 46 17 29.573  -119 36 54.760     a  403.00   bb 'weller 1947' USCGS
+haywa drain      d 37 37 34.     -122 02 56.        d    4.80
+haywa hay        d 37 39 08.     -122 03 10.        d  184.40
+haywa hga 4      d 37 38 36.     -122 04 12.        d   15.20
+haywa hga4 rm1   n 37 38 36.     -122 04 12.        n   15.20
+haywa high       d 37 39 08.     -122 03 10.        d  184.40
+haywa high res   d 37 39 08.     -122 03 10.        d  184.40 
+haywa rce 6151   d 37 38 24.     -122 02 20.        d  237.20
+hears adobe      d 35 39 08.     -121 13 32.        d    6.71
+hears bull       d 35 39 35.     -121 12 38.        d   69.91
+hears hearst     d 35 40 20.     -121 12 16.        d   64.78                  
+hears laguna     d 35 40 31.     -121 13 22.        d   76.73
+hears lagunaec   d 35 40 27.     -121 13 34.        d  134.53
+hears oak        d 35 39 52.     -121 14 18.        d  113.14
+hears simeon     d 35 40 26.     -121 13 51.        d  138.05
+hears tank       d 35 41 07.     -121 12 51.        d  111.62
+hebge airport    p 44 42 01.00219-111 06 35.94070   i 2025.10   aa 'airport 1973' USGS NCER
+hebge big        p 44 53 53.15262-111 11 26.55441   i 2996.20   aa 'big 1973' USGS NCER
+hebge holmes     p 44 49 07.87726-110 51 17.84629   a 3151.40   bb 'holmes 1950' USCGS
+hebge horse      p 44 45 04.24502-111 11 45.57080   i 2155.50   aa 'horse 1973' USGS NCER
+hebge lionhead   p 44 43 27.22462-111 20 48.63901   a 3099.20   ee 'lionhead 1948' USGS
+hebge ptang az   p 44 33 48.64605-111 26 37.53096   i 3018.10   oo 'poontang azimuth mark 1962' FAA
+hebge reynolds   b 44 42 39.029  -111 24 49.209     a 3119.30   ee '807 1948' USGS
+hebge roof       p 44 56 31.20912-111 27 42.83907   b 3417.10   kk unstamped steel rock-drill wedged in rock 1948 USGS
+hebge roof rm1   n 44 56 31.0    -111 27 42.0       n 3416.97   hh 'roof no. 1 1948' USGS
+hebge sky        d 44 42 49.0    -111 38 49.0       i 2513.10   aa 'sky 1973' USGS NCER
+hebge two-top    p 44 37 30.72000-111 15 31.61400   b 2654.80   bb 'va 8674 two top 1931' USGS
+helen badger     d 46 17 00.6    -121 53 23.4       a 1726.39   aa '1981' NCER
+helen chin cgs   a 45 35 11.19400-121 48 38.11000   a 1424.60   hh unreadable USCGS
+helen chinider   n 45 35 11.2    -121 48 38.1       n 1424.60   tt '1981' NCER
+helen elk        g 46 18 03.793  -122 20 38.345     a 1338.38   aa 'elk 1982' NCER
+helen kiona      a 46 34 01.598  -122 00 58.154     a 1477.90   bb 'kiona 1946' USCGS
+helen larchrm5   n 45 31 58.0    -122 05 12.0       n 1230.48   hh 'larch no. 5 1947' USCGS
+helen mitchell   n 46 01 52.0    -122 11 31.0       n 1212.01   aa '1981' NCER
+helen morgle     d 46 11 21.0    -122 21 22.8       a 1382.88   aa 'morgle 1982' NCER
+helen mowich     a 45 47 59.736  -122 01 46.701     a 1070.70   bb 'mowich 1946' USCGS
+helen red 2      a 45 56 06.140  -121 49 11.100     a 1513.40   bb 'red 2 1965' USCGS
+helen rock       g 46 39 24.102  -122 21 53.136     a 1317.47   aa 'rock 1982' NCER
+helen star       n 45 44 46.0    -122 14 15.0       n 1328.70   bb 'd.n.r.1 t.3n. r.5e. control station 1977' WA. CDWR
+helen tree       d 46 26 58.2    -122 18 39.60      a 1127.76   aa 'tree 1982' NCER
+helen vanson     a 46 24 37.105  -122 09 01.243     a 1508.10   bb 'vanson 1946' USCGS
+helen view       d 46 18 01.     -122 10 53.        a 1477.90   aa 'view 1982' NCER
+holli bolsarm2   n 36 52 42.     -121 15 46.        n  948.54   hh 'bolsa no. 2 1962' USCGS
+holli canada     a 37 01 13.439  -121 26 48.909     a  499.70   bb 'canada 1947' USCGS
+holli chur res   n 36 56 26.0    -121 25 32.0       n   51.40   aa 'church reset 1974' NCER
+holli church     a 36 56 26.472  -121 25 32.828     a   51.40   bb 'church 1946' USCGS
+holli cross      a 36 49 21.711  -121 31 02.532     a  293.30   bb 'cross 1930' USCGS
+holli dusty      a 36 45 26.039  -121 34 36.499     a  400.80   bb 'dusty 1930' USCGS
+holli fairview   a 36 55 33.06810-121 21 21.98371   a  138.60   bb 'fairview 1930' USCGS
+holli felipe     a 36 58 45.30046-121 23 34.22392   i  351.70   bb 'felipe 1962' USCGS
+holli foot rm1   n 36 49 54.     -121 19 25.        n  256.95   hh 'foothill no. 1 1930' USCGS
+holli foot rm3   n 36 49 54.     -121 19 25.        n  257.56   hh 'foothill no. 3 1930' USCGS
+holli foothill   a 36 49 54.817  -121 19 25.603     a  257.20   bb 'foothill 1930' USCGS
+holli frem rm1   n 36 45 26.     -121 30 11.        n  967.30   hh 'fremont no. 1 1930' USCGS
+holli fremont    a 36 45 26.05342-121 30 11.07386   a  966.60   bb 'fremont 1930' USCGS
+holli frye       n 36 56 24.     -121 25 32.        n   51.36   aa 'frye 1976' NCER
+holli gilroy     a 36 58 47.368  -121 36 54.823     a  602.80   bb 'gilroy 1930' USCGS
+holli gilroy 2   n 36 58 47.     -121 36 55.        n  602.80   ee 'gilroy no. 1 1984' USGS  
+holli hiway      a 36 49 13.540  -121 33 32.031     a  419.30   bb 'hiway 1930' USCGS
+holli hollair    a 36 53 35.97991-121 24 02.63681   i   67.10   bb 'hollair 1962' USCGS
+holli hollis     a 36 51 20.979  -121 24 21.770     a  124.10   bb 'hollister 1930 1966' USCGS
+holli holt       d 36 48 33.     -121 29 45.        d  373.20   aa 'holt 1970' NCER
+holli juan       a 36 49 19.491  -121 34 43.498     b  408.95   bb 'juan 1947' USCGS
+holli knob       a 36 52 20.198  -121 27 08.239     a  151.10   bb 'knob 1930' USCGS
+holli knob rm1   n 36 52 20.0    -121 27 08.0       n  151.70   hh 'knob no. 1 1930' USCGS
+holli knob rm2   n 36 52 20.0    -121 27 08.0       n  151.10   hh 'knob no. 2 1930' USCGS
+holli lone t     a 36 54 55.257  -121 17 36.228     a  672.90   bb 'lone tree 1930' USCGS
+holli morse      d 36 50 28.     -121 29 35.        d   63.40   aa 'morse 1971' NCER
+holli oak        a 36 47 46.017  -121 26 45.455     a  425.60   bb 'oak 1930' USCGS
+holli pacheco    a 37 00 28.079  -121 17 12.287     a  843.50   bb 'pacheco 1945' USCGS
+holli pereira    a 36 48 58.207  -121 22 46.873     a  203.40   bb 'pereira 1930' USCGS
+holli pereira2   a 36 49 04.01228-121 22 50.65903   a  181.00   bb 'pereira 2 1976' NGS
+holli picket     a 36 50 29.666  -121 26 07.259     a  179.00   ff 'picket 1930' USCGS
+holli sandy      a 36 46 35.990  -121 28 13.088     a  738.90   bb 'sandy 1930' USCGS
+holli sargent    a 36 54 21.970  -121 31 15.657     a  360.40   bb 'sargent 1930' USCGS
+holli shore      d 36 56 08.     -121 29 01.        d   48.80   aa 'shore 1971' NCER
+holli yates      a 36 47 00.929  -121 30 54.506     a  654.20   bb 'yates 1930' USCGS
+holli yates79    n 36 47 00.929  -121 30 54.506     n  654.20   bb same mark as yates 1930. It was moved slightly and reset in 1979.
+icy   amber      a 60 00 23.082  -141 28 31.676     a  692.50   bb 'amber 1959' USCGS
+icy   chaix      a 60 03 28.53412-141 19 32.55776   a    8.00   bb 'chaix 1974' USCGS
+icy   chirp      a 59 57 20.00247-141 20 47.35140   a   12.00   bb 'chirp 1974' USCGS
+icy   guyot      a 60 08 06.20277-141 26 31.19389   a   19.90   bb 'guyot 1974' USCGS
+icy   kichyatt   a 60 01 54.29457-141 22 17.30656   a   76.20   bb 'kichyatt 1974' USCGS
+icy   tidal 3    a 60 04 41.68039-141 16 29.69960   a    2.30   ff 'tidal 3 1974' USCGS
+icy   toyug      a 60 05 11.10604-141 26 53.48664   j   74.50   bb 'toyug 1974' USCGS
+icy   tyndall    a 60 03 35.80926-141 07 10.29363   a 1154.20   bb 'tyndall 1959' USCGS
+jacks bend       d 35 48 18.     -120 21 14.        d  366.40   
+jacks gold       d 35 49 48.     -120 20 57.        o  506.00   bb 'gold 1942' USCGS
+jacks gold azi   d 35 48 18.     -120 21 14.        o  366.40   oo 'gold azimuth mark 1942' USCGS
+jacks hearst     d 35 48 18.     -120 21 14.        o  366.40   
+jacks hearst83   d 35 48 18.     -120 21 14.        o  366.40   
+jacks jack       d 35 49 05.     -120 20 20.        o  416.00   aa 'jacks 1977' NCER
+jacks runway     d 35 49 30.     -120 21 37.        o  381.00   aa 'runway 1977' NCER
+jacks usgs 12    d 35 48 18.     -120 21 14.        o  366.24   cc 'usgs 12' USGS
+joshu 29 palms   p 34 03 30.82514-115 57 02.20368   b 1390.47   bb '29 palms 1934' USCGS
+joshu beacon 2   n 33 55 25.0    -116 36 58.0       i  527.30   aa 'beacon 2 1974' NCER
+joshu berdoo     p 33 51 40.40514-116 05 17.34917   i 1645.92   bb 'littel berdoo 1931' MWDSC
+joshu creole     p 34 25 44.69235-116 18 18.71498   g 1351.60   
+joshu creolrm1   p 34 25 44.0    -116 18 18.0       g 1350.80   hh 'creole no. 1 1934' USCGS
+joshu creolrm2   p 34 25 44.7795 -116 18 19.0313    g 1350.60   hh 'creole no. 2 1934' USCGS
+joshu creolrm3   p 34 25 44.63972-116 18 18.89811   a 1351.20   hh 'creole no. 3 1935' USCGS
+joshu dome       a 33 57 58.6184 -116 26 54.7444    i  619.00   bb 'dome 1932' MWDSC
+joshu dome ecc   n 33 57 58.0    -116 26 54.0       i  617.00   cc unstamped nail in rock
+joshu edom 2     p 33 52 13.45878-116 25 48.88287   i  487.70   aa 'edom 2 1974' NCER
+joshu insp rm2   n 33 56 08.0    -116 11 40.0       i 1697.74   hh 'inspiration no 2 1939' USCGS
+joshu inspncer   p 33 56 08.63123-116 11 40.73249   a 1699.26   ee 'insp NCER 1977' USGS NCER
+joshu keys       a 34 04 57.461  -116 11 23.911     b 1366.42   bb 'keys 1939' USCGS
+joshu laquinta   p 33 42 14.47625-116 18 42.57343   a  383.40   bb 'laquinta 1931' MWDSC
+joshu maumee     p 34 25 08.59558-116 27 27.03218   i 1269.04   bb 'maumee 1935' USCGS
+joshu meeks      p 34 15 28.41833-116 36 59.63022   b 1913.20   bb 'meeks 1939' USCGS
+joshu mesquite   p 34 11 35.74981-116 06 45.27703   b  642.52   bb 'mesquite 1939' USCGS
+joshu pax ncer   p 34 09 11.18592-116 23 20.26989   b 1158.76   ee 'pax NCER 1977' USGS NCER
+joshu queen      p 34 03 09.46391-116 05 46.45660   b 1730.51   bb 'queen 1939' USCGS
+joshu resort     d 33 41 16.22113-116 23 29.48992   d  213.36   ee 'resort' USGS 
+joshu rich       p 34 15 50.72546-116 28 04.88363   i 1309.64   bb 'rich 1939' USCGS
+joshu sandhill   p 34 15 17.96851-116 16 40.89119   i  864.84   bb 'sandhill 1939' USCGS
+joshu segreset   p 34 18 52.74608-116 04 41.89727   i 1061.74   ee 'segundo 1939 reset 1978' USGS
+joshu segundo    p 34 18 52.74608-116 04 41.89727   i 1061.74   bb 'segundo 1939' USCGS
+joshu stubbe     o 33 57 13.2    -116 46 25.55      i  932.70   aa 'stubbe 1974' NCER
+joshu tram       d 33 52 12.     -116 33 34.        d  207.00   
+joshu valmtecc   p 34 13 05.72990-115 58 05.92038   a  704.39   bb 'valley mt mwd ecc 1939' USCGS
+joshu warren     p 34 03 18.20938-116 24 22.69251   a 1555.28   bb 'warren 1939' USCGS
+katma akhiok     d 56 55 00.     -154 10 00.        d   10.
+katma augustin   d 59 22 00.     -153 33 00.        d   16.29
+katma chirikof   d 55 30 00.     -155 32 00.        d   15.
+katma dakavak    d 58 01 00.     -154 45 00.        d   61.
+katma karluk     d 57 34 00.     -154 26 00.        d   15.
+katma kingsalm   d 58 41 00.     -156 38 00.        d   33.
+katma kodiak     d 57 44 24.     -159 29 50.        d   15.
+katma northarm   d 58 35 00.     -155 35 00.        d   37.
+katma sitkinak   d 56 32 00.     -154 09 00.        d   15.
+katma unam       d 58 26 00.     -154 50 00.        d  622.    
+lakes erc 1      d 37 35  1.2167 -122 24 27.6111    i  167.60   ff 'erc 1' USGS
+lakes erc 2      d 37 34 47.1176 -122 25 43.7908    i  332.00   ee 'erc 2' USGS NCER
+lakes erc 3      d 37 36  7.5255 -122 25 25.2402    i  170.70   aa 'erc 3 reset 1971' NCER
+lakes erc3res    n 37 36  7.5    -122 25 25.24      i  170.70   aa 'erc 3 reset 1971' NCER
+lakes erc 4      d 37 35 38.8059 -122 26 27.8816    i  373.40   ee 'erc 4' USGS
+lakes erc 5      d 37 34 30.7775 -122 26 15.2370    i  388.60   aa 'erc 5' NCER
+lakes erc 6      d 37 35  8.2145 -122 26 53.8012    i  408.40   bb 'cantwell 1969'
+lakes serra      d 37 35  8.2145 -122 26 53.8012    i  408.40   aa 'serra 1978' NCER
+lande cistern    d 34 18 36.5992 -116 26 39.0820    b  891.17   aa 'cistern 1979' NCER
+lande contact    d 34 20  2.9706 -116 25 47.2172    b  891.17   aa 'contact 1979' NCER
+lande doyle      d 34 20  5.2719 -116 24  2.1900    b  852.24   aa 'doyle 1979' NCER
+lande happy 2    d 34 17 53.5790 -116 25 23.4235    b 1010.15   aa 'happy 2 1981' NCER
+lande ispy       d 34 18 50.9780 -116 24 13.1049    b  903.25   aa 'ispy 1979' NCER
+lande pipes      d 34 20 29.4997 -116 25  1.3227    b  866.23   aa 'pipes 1979' NCER
+law   law 1 re   d 36 43 21.     -121 20 05.        d  445.00
+law   law 2      d 36 42 44.     -121 19 24.        d  378.00
+law   law 3      d 36 41 47.     -121 19 54.        d  260.60
+law   law 4      d 36 42 33.     -121 20 56.        d  428.20
+loma  allison    p 37 29 56.3283 -121 52 12.8316    a  811.10   ii 'V A 2659' USGS 
+loma  allirm2    p 37 29 56.3283 -121 52 12.8316    a  811.10   ii 'V A 2659' USGS 
+loma  calero     d 37 10 00.     -121 46 00.        d  152.40
+loma  chamber    a 36 55 51.672  -121 38 35.092     a  501.90   bb 'chamberlain 1947' USCGS
+loma  chamber4   n 36 55 24.     -121 39 26.        n  299.00   aa 'chamberlain 4 73' NCER
+loma  cliff      d 36 57 00.     -122 02 00.        d   15.20 
+loma  coy        d 37 13 00.     -121 44 45.        d   76.20
+loma  eagle rk   a 37 08 51.554  -122 11 39.199     a  758.30   bb 'eagle rock 1938' USCE
+loma  eagle un   n 37 08 51.     -122 11 39.        d  762.64   ss unstamped USCE
+loma  end        d 37 04 00.     -121 48 30.        d  870.20
+loma  fire       d 37 02 00.     -121 57 00.        d   68.90
+loma  gregor     d 36 58 00.     -121 56 00.        d   36.00
+loma  hamecrm2   d 37 20 28.8    -121 38 31.        f 1284.50   hh 'mt hamilton ecc no 2 1947' USC&GS
+loma  hamil ec   d 37 20 28.8    -121 38 31.        f 1284.17   ii 'mt hamilton ecc 1960' CDWR
+loma  hamilton   p 37 20 30.45791-121 38 31.02235   f 1284.20   bb unstamped 1947 USCGS
+loma  loma       a 37 06 39.818  -121 50 35.130     a 1156.80
+loma  loma dwr   p 37 06 39.46731-121 50 35.43715   n 1157.88   cc unstamped CDWR
+loma  loma use   p 37 06 39.96379-121 50 35.88148   f 1157.38   ff 'loma prieta 2 1957' USCE
+loma  lomancer   p 37 06 39.96458-121 50 35.88193   n 1157.38   aa 'loma' NCER
+loma  lp1        d 37 06 32.0    -121 50 38.0       i 1154.85   aa 'loma prieta net 1' NCER
+loma  lp1old     d 37 06 32.0    -121 50 38.0       i 1151.31   aa 'loma prieta net 1' NCER
+loma  lp2        d 37 06 15.0    -121 54 27.0       i  685.80   aa 'skyland 1972' NCER
+loma  lp3        d 37 04 47.0    -121 52 16.0       i  756.00   aa 'santa rosa lia 3 1970' NCER
+loma  lp4        d 37 03 00.0    -121 50 16.0       i  649.00   aa 'buzzard' NCER
+loma  mazzone    d 37 08 00.     -121 48 00.        d  228.60     
+loma  pr 6       d 36 52 49.99   -121 47 30.        d    3.05   ff 'pr-6 1969' USCE   
+long  garlocre   b 35 25 09.083  -117 50 58.492     b 1458.20   ee 'garlock 1966 reset 1977' USGS
+long  kellncer   n 34 11 45.0    -117 02 55.0       n 2398.97   ee 'kell NCER 1977' USGS
+long  san        n 33 42 38.000  -117 31 59.000     d 1729.00   aa 'san 1974' NCER
+long  san 2      n 33 42 38.000  -117 31 59.000     n 1729.00   aa 'san 2 1981' NCER
+long  saw ecc    n 34 41 35.0    -118 33 37.0       n 1680.00   aa 'sawmill ecc 1973' NCER
+lospa apache     p 34 45 25.65295-119 18 56.81693   d 1483.00   bb 'apache 1941' USCGS
+lospa caliente   p 35 02 11.00598-119 45 33.56404   n 1556.31   bb 'caliente 1959' CDWR
+lospa fraz rm2   n 34 46 30.0    -118 58 05.0       n 2441.76   hh 'frazier no 2 1941' USCGS
+lospa frazier    a 34 46 29.8994 -118 58 05.4252    d 2442.37   bb 'frazier 1941 1971' USCGS
+lospa kitchen    a 34 55 16.54501-119 09 00.98801   a 1557.50   bb 'kitchen 1959' USCGS
+lospa madulce2   p 34 41 27.53384-119 35 24.52804   d 1992.00   aa 'madulce 2 1973' USGS NCER
+lospa monte      p 34 32 21.77111-119 27 56.97912   d 1829.00   aa 'monte 1973' USGS NCER
+lospa monte un   n 34 32 22.0    -119 27 57.0       n 1829.00   ff  monte unstamped
+lospa mt pinos   a 34 48 46.2229 -119 08 40.0294    a 2694.10   bb 'mt pinos 1941' USCGS
+lospa nordhoff   a 34 29 53.9179 -119 14 28.0802    i 1367.00   bb 'nordhoff 1941' USCGS
+lospa paa-1      n 34 22 19.0    -119 25 13.0       d  658.00   aa 'paa-1 1971' USGS NCER
+lospa pattiway   a 34 57 35.11155-119 25 52.96074   a 1017.07   bb 'pattiway 1938' USCGS
+lospa pelato     a 34 55 12.69887-119 24 16.09113   i 1367.30   bb 'pelato 1926' USCGS
+lospa pinosecc   n 34 48 46.0    -119 08 41.0       n 2688.64   cc unstamped NCER 1973
+lospa poison     n 34 24 36.     -119 12 10.        n  831.00   aa 'poison oak 1984' USGS NCER
+lospa police     a 34 54 10.93837-118 54 12.76370   i 1467.67   cc 'police 1959' CDWR
+lospa reyes      p 34 37 51.04756-119 16 50.30004   a 2290.20   bb 'reyes 1941' USCGS
+lospa salisbur   a 34 49 22.52053-119 42 44.94274   a 1579.50   bb 'salisburg 1941 1959' USCGS
+lospa santapau   a 34 26 25.2574 -119 00 31.3036    d 1510.89   bb 'santa paula 1941' USCGS
+lospa seco       a 34 37 31.7148 -119 26 26.2798    d 1673.60   bb 'seco 1941' USCGS
+lospa seco dis   n 34 37 32.     -119 26 26.        n 1673.60   bb 'seco 1941' USCGS
+lospa seco rm3   n 34 37 31.     -119 26 26.        n 1673.00   oo 'seco rm 3 1972' CAL DIV HWY
+lospa sulpher    a 34 24 35.8089 -119 12 09.5414    d  831.00   bb 'sulphur 1941' USCGS
+lospa sulphrm2   n 34 24 35.0    -119 12 10.0       n  831.00   hh 'sulpher no 2 1941' USCGS
+lospa tecuyrm1   d 34 50 32.0    -118 58 51.0       d 2180.54   aa 'tecuya rm 1 1975' NCER
+lospa tejon 41   a 34 48 13.086  -118 48 52.627     i 1484.38   bb 'tejon 1941' USCGS
+lospa temb az    n 35 06 46.     -119 33 14.        n 1083.59    
+lospa temb rm1   n 35 06 46.0    -119 33 14.0       n 1083.59   hh 'temblor no 1 1926' USCGS
+lospa temblor    a 35 06 46.09350-119 33 14.53656   a 1084.20
+lospa thorn      a 34 36 22.8752 -119 07 36.1246    d 2113.00   bb 'thorn 1941' USCGS
+lospa wh2 rm3    n 35 00 38.0    -119 00 48.0       n  652.78   hh 'wheeler 2 no 3 1948' USCGS
+lospa yam        p 34 45 14.69641-119 28 27.34414   a 1791.60   bb 'yam 1941' USCGS
+mammo bald mtn   a 37 47 02.385  -118 54 01.147     a 2774.84   gg 'bald mtn' MWD
+mammo banner     p 37 42 02.09509-118 34 43.58559   i 2587.20   bb 'banner 1933' USCGS
+mammo casa       a 37 38 39.788  -118 53 44.555     a 2413.10   bb 'casa 1956' USCGS
+mammo convict    a 37 36 53.724  -118 48 36.832     a 2150.50   bb 'convict 1956' USCGS
+mammo crooked    d 37 50 47.23   -118 50 49.57      e 2839.80   gg unstamped cap on pipe
+mammo crowley    d 37 33 54.862  -118 43 26.465     a 2277.80   bb 'crowley l956' USCGS
+mammo crowlrm2   n 37 33 54.8    -118 43 26.4       n 2277.80   hh 'crowley no. 2 1956' USCGS
+mammo glass      a 37 46 29.991  -118 42 27.178     a 3390.20   ee unstamped USGS b.m.
+mammo glass 3    n 37 46 29.991  -118 42 27.178     g 3390.34   bb 'glass 3 1982' USGS
+mammo glassrm1   n 37 46 29.9    -118 42 26.8       n 3389.58   hh 'glass mountain USGS no 1 1933' USCGS
+mammo glassrm2   p 37 46 29.90803-118 42 26.83383   i 3388.77   hh 'glass mountain USGS no 2 1933' USCGS
+mammo horse      p 37 58 45.10528-118 48 29.32699   i 2704.80   bb unstamped USGS
+mammo laurel     p 37 34 49.34110-118 53 25.55342   a 3600.30   bb 'laurel 1933' USCGS
+mammo lookout    p 37 43 43.68096-118 56 47.34370   g 2544.80   gg 'look out mtn' USGS 
+mammo mammoth    b 37 37 50.511  -119 01 53.944     b 3368.96   ff '706 2072' Bureau of Recl
+mammo mono       d 37 52 41.292  -119 00 22.126     d 2795.72   gg unstamped pipe with drill hole MWD
+mammo sherwin    p 37 30 09.90267-118 41 01.41620   i 3578.90   bb 'sherwin 1933' USCGS
+mammo val        p 37 36 14.44698-118 54 30.18829   g 2874.00   aa 'val 1983' NCER
+magps bald mtn   a 37 47 02.385  -118 54 01.147     a 2775.31   gg 'bald mtn' MWD
+magps banner     p 37 42 02.09509-118 34 43.58559   i 2587.15   bb 'banner 1933' USCGS
+magps casa       a 37 38 39.788  -118 53 44.555     a 2413.10   bb 'casa 1956' USCGS
+magps convict    a 37 36 53.724  -118 48 36.832     a 2150.50   bb 'convict 1956' USCGS
+magps crooked    d 37 50 47.23   -118 50 49.57      e 2839.16   gg unstamped cap on pipe
+magps crowley    d 37 33 54.862  -118 43 26.465     a 2277.80   bb 'crowley l956' USCGS
+magps crowlrm2   n 37 33 54.8    -118 43 26.4       n 2277.80   hh 'crowley no. 2 1956' USCGS
+magps glass      a 37 46 29.991  -118 42 27.178     a 3390.20   ee unstamped USGS b.m.
+magps glass 3    n 37 46 29.991  -118 42 27.178     g 3390.34   bb 'glass 3 1982' USGS
+magps glassrm1   n 37 46 29.9    -118 42 26.8       n 3389.27   hh 'glass mountain USGS no 1 1933' USCGS
+magps glassrm2   p 37 46 29.90803-118 42 26.83383   i 3388.41   hh 'glass mountain USGS no 2 1933' USCGS
+magps horse      p 37 58 45.10528-118 48 29.32699   i 2704.80   bb unstamped USGS
+magps laurel     p 37 34 49.34110-118 53 25.55342   a 3601.18   bb 'laurel 1933' USCGS
+magps lookout    p 37 43 43.68096-118 56 47.34370   g 2545.02   gg 'look out mtn' USGS 
+magps mammoth    b 37 37 50.511  -119 01 53.944     b 3369.50   ff '706 2072' Bureau of Recl
+magps mono       d 37 52 41.292  -119 00 22.126     d 2795.50   gg unstamped pipe with drill hole MWD
+magps sherwin    p 37 30 09.90267-118 41 01.41620   i 3579.23   bb 'sherwin 1933' USCGS
+magps val        p 37 36 14.44698-118 54 30.18829   g 2874.00   aa 'val 1983' NCER
+mee   chalk      d 36 10 47.9    -120 45 37.3       d  789.40
+mee   mee 1      d 36 11 34.     -120 46 27.        d  787.90
+mee   mee 2      d 36 11 28.     -120 45 37.        d  843.10
+mee   mee 3      d 36 11 00.     -120 45 05.        d  874.80
+melen gm 5       d 36 34 32.     -121 11 19.        d  515.10
+melen gm 6       d 36 35 12.     -121 11 50.        d  427.00
+melen gm 7       d 36 36 02.     -121 11 03.        d  382.20
+melen mga 1      d 36 35 29.     -121 11 26.        d  391.10
+melen mga 2      d 36 35 22.     -121 10 43.        d  332.20
+melen mga 4      d 36 36 12.     -121 11 54.        d  365.80
+mendo bald jes   p 40 32 37.11455-123 52 42.26546   b 1058.66   ee 'bald jesse 1932' USGS
+mendo bear but   a 40 10 55.30729-123 50 22.74974   a  868.20   bb 'bear butte 1964' USCGS
+mendo bear rd2   p 40 29 52.15506-124 17 35.93624   a  751.00   bb 'bear ridge 2 1957 1981' USCGS
+mendo bear2rm1   n 40 29 52.1    -124 17 35.9       n  751.81   hh 'bear ridge 2 no. 1 1957' USCGS
+mendo bear2rm5   n 40 29 52.1    -124 17 35.9       n  751.72   hh 'bear ridge 2 no. 5 1981' USCGS
+mendo chalkyrk   p 40 25 45.03464-123 48 44.93547   d  931.78   aa 'chalky rock 1981' NCER
+mendo chemise    p 40 00 50.66682-124 00 12.08500   a  791.80   bb 'chemise mt 1919' USCGS
+mendo cold rm2   n 40 32 17.7    -123 30 46.0       n 1688.70
+mendo coldncer   n 40 32 17.7    -123 30 46.0       n 1688.70
+mendo cooskie    p 40 15 24.95258-124 15 53.43030   d  899.16   aa 'cooskie 1981' USGS
+mendo grasshop   p 40 18 23.40079-123 58 36.00677   a 1029.00   bb 'grasshopper 1961' USCGS
+mendo grassrm2   n 40 18 23.4    -123 58 36.0       n 1028.70   hh 'number 2' USGS
+mendo horse rd   p 40 15 37.11192-123 15 43.44899   a 1850.20   bb 'horse ridge 1961' USCGS
+mendo iaqua 2    p 40 40 08.74600-123 52 53.27086   a 1136.00   bb 'iaqua 2 1961' USCGS
+mendo ketten     p 40 08 43.89272-123 28 06.98577   a 1246.00   bb 'kettenpom 1964' USCGS
+mendo king pk2   p 40 09 25.03741-124 07 23.20093   a 1246.80
+mendo king pk3   p 40 09 25.03741-124 07 23.20093   a 1246.80   gg unstamped
+mendo kingncer   n 40 09 25.0    -124 07 23.2       n 1246.80
+mendo mtlassic   a 40 20 02.67535-123 33 11.91252   a 1790.40   gg 'mount lassic, humbolt county, california 1882' USCGS
+mendo pierce 2   p 40 25 02.43846-124 07 09.78878   a  972.70   bb 'mt pierce 2 1928' USCGS
+mendo pierceec   p 40 24 59.3693 -124  7  7.8019    g  975.00   aa 'pierce ecc 1981' NCER
+mendo plummer    a 40 29 35.23489-123 11 55.31164   a 1342.50      'plummer pk 1961' USCGS
+mendo plumusgs   n 40 29 35.2    -123 11 55.3       n 1342.50   ee 'plummer pk 4411 1948' USGS
+mendo show rm1   p 40 34 44.64883-123 41 46.95779   g 1344.22   hh 'showers no 1 1961' USCGS
+mendo showerec   n 40 34 43.9    -123 41 46.5       g 1341.40   aa 'showers ecc 1981' NCER
+mendo springs    n 40 32 17.7    -123 30 46.0       n 1689.20   cc 'springs 1984' USGS
+mendo table      p 40 37 49.49763-124 11 33.21563   d  177.09      'table 1919' USCGS
+mendo tablerm3   p 40 37 49.49763-124 11 33.21563   d  177.09      'table 1919' USCGS
+mendo weber      p 40 07 12.83542-123 41 31.02745   b 1186.44   ee 'weber 1932' USGS
+mexic 1          d 32 26 21.181  -115 22 19.208     i   12.00   cc '1' USGS
+mexic 10         d 32 25 10.33   -115 10 22.40      i   18.00   cc '10' USGS
+mexic 17         p 32 19 07.00979-115 11 25.84625   i   13.00   cc '17' USGS
+mexic 24         p 32 20 03.49504-115 18 19.01078   i   11.00   cc '24' USGS
+mexic 3          p 32 23 20.78668-115 11 41.09384   i   16.81   cc '3' USGS
+mexic 36         d 32 27 56.41   -115 06 18.9       i   23.00   cc '36' USGS
+mexic 4          p 32 26 14.05730-115 16 25.39072   i   12.00   cc '4' USGS
+mexic 8          d 32 28 46.34   -115 15 11.71      i   17.00   cc '8' USGS
+mexic 9          p 32 27 13.15010-115 11 30.60837   i   19.00   cc '9' USGS
+mexic 928        p 32 12 15.57234-115 39 46.87533   i    7.32   cc 'bn 928 1972' Secretaria De La Presidencia
+mexic bnp10065   d 32 25 38.02   -115 15 53.08      i   12.00   cc 'bnp 10065 1977' USGS
+mexic carrizo    a 32 49 30.543  -116 00 51.422     i  733.96   bb 'carrizo 1924' USCGD
+mexic centinel   p 32 37 17.14236-115 42 33.04314   i  778.77   ee 'centinela 1978' USGS
+mexic cila 6     p 32 27 02.65187-115 54 57.97533   i 1694.08   cc 'cila 6' USGS
+mexic david      p 32 13 19.78695-115 25 35.05495   i  673.91   ee 'david 1978' USGS
+mexic diablo     p 32 18 30.99914-115 52 20.16434   i 1521.87   ee 'diablo 1978' NCER
+mexic dixie      a 32 47 27.332  -115 47 42.529     i   -2.13   bb 'dixie 1978' USGS
+mexic fierro     p 32 27 14.04966-115 33 33.69936   i  846.13   ee 'fierro 1978' USGS
+mexic jacumba    a 32 41 51.848  -116 09 48.957     i 1375.26   cc 'jacumba 1935' USCGS
+mexic mayor      p 32 05 25.87141-115 18 30.78807   i  955.85   bb 'militar mayor 1957' Depto Cartographico
+mexic off 225    a 32 38 52.943  -115 43 28.602     i  115.62   bb 'offset 225 1934' USCGS
+mexic off 229    a 32 37 56.440  -115 55 54.178     i  530.96   bb 'offset 229 1935' USCGS
+mexic prieto     p 32 25 05.43147-115 18 23.98635   i  225.86   hh 'prieto 1978' USGS
+mexic puerta     p 32 22 38.70729-115 27 19.84340   i 1094.54   bb 'puerta 1957' Depto Cartographico
+mocho corral     p 37 37 34.19733-121 27 13.32810   a  408.50   bb 'corral 1943' USCGS
+mocho crane      p 37 36 21.48507-121 37 09.28457   a  900.70   bb 'crane 1946' USCGS
+mocho cranerm1   n 37 36 21.     -121 37 09.        n  900.05   hh 'crane no. 1 1946' USCGS
+mocho hamil ec   n 37 20 28.8    -121 38 31.        f 1284.17   ii 'mt hamilton ecc 1960' CDWR
+mocho hamilton   p 37 20 30.45791-121 38 31.02235   a 1284.20   bb unstamped USCGS
+mocho mo         n 37 28 38.6    -121 33 17.5       n 1245.71   gg unstamped
+mocho mocho      a 37 28 38.609  -121 33 17.529     g 1246.33   
+mocho mochoecc   p 37 28 38.84549-121 33 17.59085   g 1246.33   aa 'mocho ecc 1973' NCER
+mocho mt oso     p 37 30 30.31334-121 22 26.02711   a 1020.10   bb 'mt oso 1931' USCGS
+mocho mt stake   p 37 19 20.56172-121 24 26.80789   b 1159.58   bb unstamped USGS
+mocho oso rm1    n 37 30 30.     -121 22 26.        n 1019.20
+mocho rose2rm5   p 37 30 40.34690-121 43 26.00979   a 1163.00   hh 'rose 2 no 5 1957' USCGS
+mocho stak use   a 37 19 20.595  -121 24 26.800     a 1160.30
+mojav blacktop   p 34 33 47.90645-116 07 45.07221   a  834.20   bb 'black top 1935' USCGS
+mojav boulder    p 34 30 39.48102-116 33 35.05507   a 1194.70   bb 'boulder 1935' USCGS
+mojav bristol    p 34 36 00.10403-115 40 52.34380   a  879.20   bb 'east bristol 1934' USCGS
+mojav coronado   p 34 47 44.90425-115 59 48.46935   a 1022.00   bb 'coronado 1934' USCGS
+mojav creolrm3   p 34 25 44.63972-116 18 18.89811   a 1351.20   hh 'creole no. 3 1935' USCGS
+mojav cross      p 34 25 48.46976-116 08 57.24352   d 1168.91   bb 'cross 1935' USCGS
+mojav dishhill   p 34 36 46.86118-115 56 31.68730   a  533.00   bb 'dishhill 1934 1965' USCGS
+mojav feldspar   p 34 30 11.62138-117 04 44.36783   a 1565.20   bb 'feldspar 1940' USCGS
+mojav fry        p 34 30 04.91663-116 43 04.99625   b 1321.00   ff 'fry 1935' USGS
+mojav granite    p 34 47 34.96603-115 42 31.70423   a 2054.30   bb 'granite mtn 1934' USCGS
+mojav helendal   p 34 43 57.90640-117 16 49.23951   a  968.60   bb 'helendale 1933' USCGS
+mojav ledge      p 34 30 07.25965-116 26 17.56382   a 1199.90   bb 'ledge 1935' USCGS
+mojav lucerne    p 34 32 21.26539-116 58 23.17016   a 1347.20   bb 'lucerne 1928' USCGS
+mojav lucernes   p 34 26 23.31098-116 52 51.79603   a  914.80   bb 'lucerne south base 1928' USCGS
+mojav maumee     p 34 25 08.59558-116 27 27.03218   i 1269.04   bb 'maumee 1935' USCGS
+mojav means      p 34 24 17.41885-116 32 55.86305   b 1097.65   bb 'means 1935' USCGS
+mojav old womn   p 34 23 19.94168-116 45 03.73360   a 1229.70   bb 'old woman 1935' USCGS
+mojav ord        p 34 40 30.56151-116 48 50.17190   a 1923.20   bb 'ord 1929' USCGS
+mojav orog rm1   n 34 36 40.0    -117 17 15.0       n 1381.17   hh 'oro grande no. 1 1934' USCGS
+mojav out        p 34 28 01.52990-115 56 13.19375   a  881.80   tt 'out' NCER
+mojav rock       p 34 32 39.78166-116 46 10.52087   a 1194.40   bb 'rock 1935' USCGS
+mojav rough      p 34 27 08.35800-116 02 16.47158   a  912.70   bb 'rough 1935' USCGS
+mojav round      p 34 31 58.32188-116 17 29.58609   a 1432.40   bb 'round 1935' USCGS
+mojav sidewind   p 34 36 34.61438-117 02 28.76531   a 1607.90   bb 'sidewinder 1940' USCGS
+mojav stod rm2   n 34 41 55.0    -117 07 22.0       n 1492.29   hh 'stoddard no. 2 1940' USCGS
+mojav stoddard   p 34 41 55.04501-117 07 22.65330   a 1492.90   bb 'stoddard 1940' USCGS
+mojav white      p 34 30 20.44246-116 14 02.62841   d 1323.75   bb 'white 1935' USCGS
+mojav wind       n 34 36 41.0    -117 17 17.0       n 1383.00   aa 'wind 1982' NCER
+monar banch        36 12 56.3    -120 48 01.9          817.00
+monar fence        36 13 04.2    -120 47 20.4          811.00
+monar monarch      36 12 56.3    -120 48 17.3          794.81
+monar mon pk       36 13 04.2    -120 48 14.9          844.07
+monar twotree      36 12 37.8    -120 47 03.1          805.00
+monit almond     a 35 33 06.456  -120 27 07.504     f  521.60   bb 'almond 1932' USCGS
+monit beac rm3   n 33 55 25.0    -116 36 58.0       n  527.30   hh 'beacon no 3 1931 1974' MWDSC, NGS
+monit beacon 2   p 33 55 26.1541 -116 36 57.4594    i  527.30   aa 'beacon 2 1974' NCER
+monit bm603 39   d 33 47 00.00   -116 18 00.0000    k   44.49   gg 'R. C. bm 603 39 68' Riverside Co
+monit bolt       n 33 47.00      -116 18 00.        n   45.67   gg unstamped NCER metal plug   
+monit bull       b 34 49 06.036  -118 33 08.853     b  872.28   ee 'bull' LACO
+monit cajon      a 34 20 49.91410-117 27 00.69931   b 1341.20   bb 'cajon 1934' USCGS
+monit caliente   p 35 02 11.00598-119 45 33.56404   n 1556.31   bb 'caliente 1959' CDWR
+monit calo       a 34 16 15.74713-117 25 24.13297   i 1621.80   bb 'calo 1949' USCGS
+monit car        a 35 53 17.354  -120 25 46.464     b  512.98   bb 'car 1942' USCGS
+monit car rm1    n 35 53 17.0    -120 25 46.0       n  512.98   
+monit car rm2    n 35 53 17.0    -120 25 46.0       n  512.98   hh 'carr no. 2 1942' USCGS
+monit cholame    a 35 58 16.524  -120 34 51.149     d  794.92   bb 'cholame 1944' USCGS
+monit cotton     p 35 47 16.00729-120 13 17.27002   f  769.50   bb 'cottonwood 1932' USCGS
+monit edom 2     p 33 52 13.51354-116 25 51.964772  i  487.70   aa 'edom 2 1974' NCER
+monit gap        d 33 44 56.35984-116 10 16.179909  j   36.20   ff unstamped NCER brass plug in pipe
+monit gastro     a 36 00 03.04467-120 28 36.33903   a 1200.20   bb 'gastro 1961' USCGS
+monit jurupa 3   a 34 01 56.45809-117 26 33.96471   a  675.80   bb 'jurupa 3 1973' NGS
+monit lgo 70     n 35 02 11.0    -119 45 33.6       n 1555.40   gg '1977-70' LGO
+monit littejon   a 34 48 02.03129-118 48 06.41379   k 1444.10   bb 'lebec i-9 little tejon re5869 1965' LACSCS
+monit mid ecc    n 35 56 59.0    -120 29 50.        b  783.95   aa 'mid ecc 1984' NCER
+monit midecrm1   n 35 56 59.0    -120 29 50.        b  783.95   aa 'mid ecc no 1 1984' NCER
+monit mill         34 16 53.20673-117 17 31.33647     1408.38   gp
+monit mine mt    d 35 58 09.88   -120 26 01.5073    f 1100.32   cc 'mine mt 1962' CDWR
+monit mine rm2   n 35 58 10.0    -120 26 01.5       f 1099.32   cc 'mine mtn rm2 1962' CDWR
+monit park       d 35 53 46.69   -120 18 19.97      f  818.51   cc 'park 1959' CDWR
+monit pattiway   a 34 57 35.11155-119 25 52.96074   a 1017.07   bb 'pattiway 1938' USCGS
+monit phel rm1   n 34 23 08.0    -117 33 41.0       n 1579.93   hh 'phelan no 1 1934' USCGS
+monit phelan 2   a 34 23 08.35671-117 33 41.28305   a 1581.30   bb 'phelan 2 1934-1963' USCGS
+monit red          33 37 49.15884-116 50 51.78039     1363.79
+monit red hill   a 35 36 17.924  -120 15 34.548     f  785.30   bb 'red  hill 1932' CDWR
+monit resort     d 33 41 16.22113-116 23 29.48992   d  213.36   ee 'resort' USGS 
+monit salisbur   a 34 49 22.52053-119 42 44.94274   a 1579.50   bb 'salisbury 1941 1959' USCGS
+monit saw ecc    n 34 41 35.0    -118 33 37.0       n 1680.00   aa 'sawmill ecc 1973' NCER
+monit sawmill    a 34 41 35.37158-118 33 37.70817   a 1680.30
+monit sdgps06      33 22 54.81859-116 42 09.55972     1276.59
+monit sev rm2    n 34 13 00.0    -117 29 18.0       n 1595.33   hh 'sevaine no 2 1949' USCGS
+monit sevaine    a 34 13 00.38854-117 29 18.50090   f 1594.31   bb 'sevaine 1949' USCGS
+monit sheep      k 34 18 05.0243 -117 33 02.0270    k 1725.38   gg 'SB Co 36-19 1969 surv' SB Co
+monit tar        d 33 51 40.     -116 34 37.        d  268.22   ee 'tar' USGS
+monit tejon 41   a 34 48 13.08652-118 48 52.62770   i 1484.38   bb 'tejon 1941' USCGS
+monit thomasec     33 37 08.38467-116 40 47.99044     2047.67
+monit tram       d 33 52 12.     -116 33 34.        d  207.00   
+monit twis rm1   n 35 29 16.0    -120 01 02.0       n  910.74   oo 'rm no 1 1959' CDWR
+monit twis rm2   n 35 29 16.0    -120 01 02.0       n  910.74   oo 'rm no 2 1959' CDWR
+monit twissel    b 35 29 15.339  -120 01 01.632     b  910.74   bb 'twissel 1959' USCGS
+monit view       p 33 55 35.0509 -116 11 15.56870   k 1580.39   aa 'view 1982' NCER 
+monit view 2     p 33 55 35.0509 -116 11 15.56870   k 1580.39   aa 'view 1982' NCER 
+monit warm spr   a 34 35 43.96699-118 34 43.88729   k 1224.80   
+monit wh unk     o 34 34 03.     -118 44 30.        0 1255.00
+monit whax1rm3   p 34 34 02.8403 -118 44 30.1711    n 1255.65   oo 'whitaker peak aux no 1 a7a no 3 1973' CAL DIV HWY
+monit whitaker   k 34 34 03.1701 -118 44 30.5699    n 1255.40
+monit whitecc    n 34 34 03.     -118 44 30.        n 1256.29
+monit wild1991     33 42 51.38682-116 42 43.04816     1499.11
+monit yam        a 34 45 14.69362-119 28 27.34339   a 1791.60   bb 'yam 1941' USCGS
+monoc 6442usgs   d 37 56 49.     -119 03 28.        d 1964   
+monoc 7601usgs   d 37 49 40.     -119 01 43.        d 2317   
+monoc 7815usgs   d 37 52 28.     -118 55 33.        d 2382   
+monoc grant az   d 37 50 50.     -119 06 51.        d 2176   
+monoc j-1 az     d 37 47 01.     -119 04 19.        d 2357   
+monoc juction    d 37 53 13.     -119 05 24.        d 2101   
+monoc k 204      d 37 52 32.     -118 53 34.        d 2395   
+monoc l 204      d 37 52 17.     -118 55 09.        d 2412   
+monoc lake       d 37 55 29.     -119 01 59.        d 2071   
+monoc lake az    d 37 55 16.     -119 02 22.        d 2087   
+monoc lava az    d 37 54 14.     -118 59 12.        d 2126   
+monoc l.s.3615   d 37 54 34.     -119 02 59.        d 2089   
+monoc m 34       d 37 54 37.     -118 59 41.        d 2104   
+monoc m 204      d 37 52 58.     -118 56 52.        d 2276   
+monoc mills      d 37 53 47.     -118 57 27.        d 2208   
+monoc mono 901   d 37 49 08.     -118 58 58.        d 2420   
+monoc mono 902   d 37 50 22.     -118 57 08.        d 2402   
+monoc mono 903   d 37 51 23.     -119 03 16.        d 2161   
+monoc mono 904   d 37 55 13.     -119 00 44.        d 2027   
+monoc mono 905   d 37 52 11.     -119 01 31.        d 2207   
+monoc n 204      d 37 53 48.     -118 58 28.        d 2169   
+monoc pit        d 37 54 00.     -119 04 07.        d 2083   
+monoc pit az     d 37 54 08.     -119 03 48.        d 2082   
+monoc red rock   d 37 53 23.     -118 49 33.        d 2344   
+monoc s 204      d 37 53 22.     -119 05 04.        d 2094   
+monoc sagehen    d 37 53 28.     -118 51 51.        d 2481   
+monoc ski az     d 37 46 19.     -119 05 01.        d 2333   
+moron coa        d 34 00 58.     -116 35 18.        d  754.69
+moron hot        d 34 00 08.     -116 34 27.        d  490.73
+moron indian     d 34 00 19.     -116 34 50.        d  543.96
+moron mike       d 34 00 17.     -116 35 19.        d  565.70
+moron moro       d 34 00 40.     -116 34 41.        d  630.75
+mota  aguafria   p 14 55 57.50629- 89 23 42.73273   q 1521.08
+mota  amates     p 15 15 17.32068- 89 05 57.44517   i   96.91
+mota  barranco   p 14 53 39.14787- 89 08 45.81517   i 1300.00
+mota  boneton    p 14 45 21.443  - 89 07 51.35412   i 1479.00
+mota  burro      p 15 06 45.73695- 89 08 55.95956   i 1066.38
+mota  cachirul   p 15 21 50.480  - 89 05 44.470     i  843.87
+mota  camalote   p 14 42 41.36723- 89 16 28.47405   i 1387.32
+mota  canital    p 15 11 25.71515- 89 24 40.02585   i 1882.42
+mota  ceniza     p 15 03 14.70374- 89 14 12.23265   i 1082.67
+mota  changuis   p 14 48 45.43424- 89 18 45.51160   i 1574.54
+mota  chapin     p 15 24 52.58628- 89 14 51.74734   i    0.99
+mota  cristina   p 15 22 06.66371- 89 02 41.48167   i  428.97
+mota  hornos     p 15 15 53.40290- 89 14 35.93144   i 1066.40
+mota  negrosur   p 14 56 34.22194- 89 06 40.93553   i 1474.54
+mota  pelon      p 14 54 18.94758- 89 18 54.24251   i 1530.42
+mota  puntascz   p 15 34 39.19424- 89 05 52.97180   i    0.58
+mota  puntasec   p 15 31 18.44285- 89 16 00.18925   i    0.73
+mota  riobanco   p 15 27 17.08668- 89 02 33.17843   i  110.99
+mota  sanisidr   p 14 34 14.25549- 89 10 09.84105   i 1834.50
+mota  sexa       p 15 41 26.93287- 89 08 07.87669   i 1019.50
+mota  teocinte   p 14 36 04.05561- 89 15 38.56033   i 1381.48
+mota  tipon      p 15 16 12.59008- 89 10 08.55619   i  746.69
+mota  zapotal    p 15 10 08.20773- 89 01 57.22306   i  911.31
+napa  arrow      a 38 16 27.329  -122 23 56.532     h  297.36   bb 'arrowhead 1929' USCGS
+napa  dan        d 38 17 40.     -122 19 03.        h  146.58   bb 'dan 1968' CITY OF NAPA
+napa  dan rm2    d 38 17 40.     -122 19 03.        h  146.58   hh 'dan rm 2 1968' CITY OF NAPA
+napa  hooker     a 38 22 35.518  -122 26 37.429     a  815.80   bb 'hooker 1930 1976' NGS
+napa  mt vaca    d 38 24 04.4    -122 06 18.        f  859.00   aa 'mt vaca 1977' NCER
+napa  rector     a 38 25 27.823  -122 17 26.807     a  649.60   bb 'rector 1932' USCGS
+napa  slaught    a 38 09 16.921  -122 17 03.318     h    6.74   bb 'slaughterhouse point 3 1921 1976' NGS
+napa  tulucay    a 38 15 51.717  -122 12 56.693     h  513.38   bb 'tulucay 1932' USCGS
+napa  vaca dmg   d 38 24 04.4    -122 06 18.0       n  859.20   gg 'mt vaca 1976' CDMG
+nts   black      a 37 17 00.74   -116 38 42.59      a 2202.50   bb 'black mtn 1950' USCGS
+nts   blackgss   n 37 17 00.     -116 38 42.59      d 2202.50   ff 'black 1979 gss' Defense Mapping Agency
+nts   blackrm1   n 37 17 00.     -116 38 42.59      d 2202.50   aa 'black rm 1' NCER
+nts   gold       a 37 25 24.66   -116 34 09.23      a 1685.20   bb 'gold flat 1950' USCGS
+nts   gold rm2   n 37 25 24.66   -116 34 09.23      n 1685.20   hh 'gold flat no. 2 1950' USCGS
+nts   micro      a 37 17 04.8    -116 30 56.4       a 1905.30   aa unstamped USGS NCER
+nts   silent     a 37 19 15.40   -116 23 55.66      a 2120.80   bb 'silent 1950' USCGS
+nts   table      a 37 12 47.86   -116 19 22.07      a 2292.70   aa 'table 1970' NCER
+nts   thirsty    a 37 09 25.68   -116 40 03.27      a 1627.60   bb 'thirsty 1949' USCGS
+nts   timber     b 37 05 15.776  -116 27 36.378     i 2262.20   ii '7422' USGS
+nunat nq-1       d 59 52 43.6377 -139 08 04.2657    p  626.14   ee 'nq-1 1967' USGS NCER
+nunat nq-2       d 59 52 52.6449 -139 03 55.3839    p  728.55   ee 'nq-2 1967' USGS NCER
+nunat nq-3       d 59 51 07.9042 -138 59 59.7756    p  833.88   ee 'nq-3 1967' USGS NCER
+nunat nq-4       d 59 49 39.5    -139 01 45.9       p  462.08   ee 'nq-4 1967' USGS NCER
+nunat nq-5       d 59 49 23.8734 -139 06 14.0816    p  708.16   ee 'nq-5 1967' USGS NCER
+nunat nq-6       d 59 49 59.6393 -139 02 23.2362    p  454.97   ee 'nq-6 1967' USGS NCER
+offic office     d 37 30 00.0    -122 12 00.0       d   15.20      for use with gdop
+ogden abrams     p 41 06 39.30718-112 06 31.89940   i 1289.60   aa 'abrams 1972' USGS NCER
+ogden abramrm1   n 41 06 39.0    -112 06 32.0       i 1289.82
+ogden abramrm2   n 41 06 39.0    -112 06 32.0       i 1289.49
+ogden bennet     p 41 02 31.07182-112 14 03.47254   i 1342.60   aa 'bennet 1972' USGS NCER
+ogden bount pk   p 40 57 51.94278-111 49 02.05385   b 2822.14   qq 'brass plug - bountiful peak'
+ogden bountrm1   n 40 57 52.00000-111 49 02.0000    g 2820.87   
+ogden coral      d 41 14 14.4000 -111 32 28.2000    d 2502.41   aa 'coral 1981'  USGS NCER
+ogden francis    b 41 04 55.29500-111 51 02.886     b 2958.46   ee 'francis 1954' USGS
+ogden monte      a 41 25 18.9850 -111 31 00.892     a 2788.40   bb 'monte 1938' USCGS
+ogden ogden      n 41 11 59.9    -111 52 52.5       g 2917.56	qq brass plug unstamped
+ogden ogdenpk2   a 41 11 59.9210 -111 52 52.5602    a 2918.40	bb 'ogden peak 2 1938 1983' NGS
+ogden promont    p 41 17 52.80258-112 25 08.71002   a 2009.60   rr unstamped copper pipe
+ogden sink       p 41 12 52.17585-111 44 51.47002   a 1908.10   bb 'sink 1938' USCGS
+ogden wrrn rm3   p 41 15 17.43434-112 14 16.45641   a 1421.18   bb 'warren 1963' USCGS
+ogden warren     p 41 15 17.43434-112 14 16.45641   a 1421.50   bb 'warren 1963' USCGS
+ogden willard    p 41 22 58.18342-111 58 25.61069   a 2977.00   bb 'willard 1938' USCGS
+ogden wolf cr    b 41 23 29.303  -111 47 31.922     b 2871.50   ee 'wolf creek pk 1954' USGS
+olymp blue       a 47 57 18.7664 -123 15 29.8537    a 1830.90   bb 'blue mt 1955 1981' NGS
+olymp cam        d 47 50 00.0    -123 20 15.0       d 2139.10   aa 'cam 1982' NCER
+olymp carrie     b 47 53 40.08   -123 38 52.80      b 2132.10   ee unstamped USGS
+olymp dana       b 47 47 29.584  -123 29 03.551     b 1892.50   ee 'mt dana 1940' USGS
+olymp dodger     a 47 52 27.567  -123 30 31.306     d 1753.50   bb 'dodger 1955' USCGS
+olymp dodgerec   d 47 52 27.57   -123 30 31.27      n 1753.40   gg 'USGS 12' USGS
+olymp eagle      b 47 56 21.675  -123 24 27.888     b 1904.10   ee 'eagle 1940' USGS
+olymp graywolf   b 47 52 53.730  -123 12 18.605     b 2200.00   ee '7209 VABM 1930' USGS
+olymp hur rm 2   a 47 59 25.573  -123 31 39.726     a 1754.10   hh 'hurricane no 2 1940' USGS
+orovi cameron    c 39 34 56.6216 -121 26 35.4615    c  337.74   
+orovi gaub rm1   n 39 32 55.0    -121 32 55.0       i  337.41   hh 'gaub no. 1 1939' USCGS
+orovi kelly2ec   c 39 32 06.6168 -121 27 55.1664    c  391.55   ss 'kelly 2 ecc 1972' CDWR
+orovi line 2     c 39 33 21.16480-121 29 12.07670   c  411.34   gg unstamped, on 5 ft. concrete pedestal
+orovi loaf rm1   n 39 32 14.0    -121 26 06.0       c  324.36   cc 'loafter rm 1 1967' CDWR
+orovi lucas      a 39 28 11.005  -121 24 28.430     i  660.50   bb 'lucas 1939' USCGS
+orovi oroville   a 39 31 16.217  -121 32 19.365     i  126.80   bb 'oroville 1939' USCGS
+orovi palermo    a 39 26 23.193  -121 31 30.768     i  156.67   bb 'palermo 1939' USCGS
+orovi sunset     a 39 31 26.465  -121 17 56.588     i 1012.20   bb 'sunset 1939' USCGS
+owens andrews    a 37 04 37.230  -118 04 54.684     a 2884.10   bb 'andrews 1933' USCGS
+owens bairs      a 36 40 43.575  -118 14 23.182     a 1886.50   bb 'bairs 1934' USCGS
+owens black      a 37 16 01.224  -118 13 27.661     a 2769.00   bb unstamped USGS
+owens blue       a 36 58 04.004  -118 03 11.811     a 3268.70   bb 'blue 1936' USCGS
+owens bparies3     37 13 57.45   -118 17 34.22        1184.00
+owens cer gord   a 36 32 15.907  -117 47 09.003     a 2801.90   bb 'cerro gordo 1934' USCGS
+owens chalfant   a 37 31 59.308  -118 18 55.462     a 2084.00   bb 'chalfant 1933' USCGS
+owens dan        b 37 23 30.491  -118 15 12.722     b 2554.53   ee 'dan 1947' USGS
+owens lookout    a 36 53 29.187  -118 19 13.284     a 3103.90   bb 'lookout 1944' USCGS
+owens monarch    a 36 42 27.444  -117 57 42.017     a 3384.90   bb 'monarch 1934' USCGS
+owens round 2    a 37 12 28.133  -118 25 54.427     a 3409.80   cc 'round no 2' USCGS, LAWD
+owens safe       d 36 28 50.     -118 05 32.        d 2419.00   
+owens stocker    a 37 00 38.382  -118 21 37.546     a 2690.00   bb 'stocker 1933' USCGS
+owens summit     a 36 11 22.406  -118 04 22.692     a 3014.20   bb 'summit 1934' USCGS
+owens tungsten   a 37 22 09.409  -118 31 37.996     a 1813.30   bb unstamped '1933' USCGS
+owens wonoga     a 36 28 57.399  -118 07 00.735     a 3159.90   bb 'wonoga 1934' USCGS
+pajar brush      a 36 35 23.308  -121 46 18.242     a  283.50   bb 'brush 1930' USCGS
+pajar brush 2    n 36 35 23.     -121 46 18.        n  283.50   
+pajar chamber    a 36 55 51.672  -121 38 35.092     a  501.90   bb 'chamberlain 1947' USCGS
+pajar fairview   a 36 55 33.06810-121 21 21.98371   a  138.60   bb 'fairview 1930' USCGS
+pajar fort ord   s 36 40 11.23126-121 46 23.77622   s   57.8   
+pajar fremont    a 36 45 26.05342-121 30 11.07386   a  966.60   bb 'fremont pk 1930' USCGS
+pajar gal        a 36 54 39.821  -121 49 23.652     a  102.50   bb 'gal 1931,1961' USCGS
+pajar gal 2      n 36 54 39.821  -121 49 23.652     n  102.50   ee 'gal 2 1982' USCGS
+pajar gilroy     a 36 58 47.368  -121 36 54.823     a  602.80   bb 'gilroy 1930' USCGS
+pajar hollis     a 36 51 20.979  -121 24 21.770     a  124.10   bb 'hollister 1930,1966' USCGS
+pajar juan       a 36 49 19.491  -121 34 43.498     b  408.95   bb 'juan 1947' USCGS
+pajar loma       a 37 06 39.818  -121 50 35.130     a 1156.80   
+pajar loma use   p 37 06 39.96379-121 50 35.88148   f 1157.38   ff 'loma prieta 2 1957' USCE
+pajar lp1        d 37 06 38.     -121 50 35.        i 1151.31   aa 'loma prieta net 1' NCER
+pajar mulligan   a 36 44 56.717  -121 47 52.416     a   21.30   bb 'mulligan 1932' USCGS
+pajar sargent    a 36 54 21.970  -121 31 15.657     a  360.40   bb 'sargent 1930' USCGS
+pajar vargo      d 37 00 30.     -121 49 09.        i  331.60   aa 'vargo 1973' NCER
+pajar vargorm1   n 37 00 30.     -121 49 09.        i  331.60   aa 'vargo rm 1 1973' NCER
+palmd andreas    a 34 38 32.48497-118 20 35.51232   b 1108.60   bb 'andreas 1932' USCGS
+palmd bend       a 34 38 31.73735-118 22 35.31509   b 1092.40   bb 'bend 1932' USCGS
+palmd burn       a 34 37 15.13510-118 21 46.84987   b 1384.10   bb 'burn 1932' USCGS
+palmd denis      a 34 37 52.6799 -118 08 33.0587    a  789.07   bb 'denis 1960' USCGS
+palmd desu rm1   n 34 38 11.113  -118 17 40.387     j 1221.30   hh 'del sur j 13 re 5869rm 1 1968' LACSCS
+palmd granite    a 34 35 51.29226-118 18 48.32680   i 1399.90   bb 'granite 1932' USCGS
+palmd hau ecc1   a 34 32 51.29517-118 12 52.56006   a 1581.10   bb 'hauser ecc 1 1961 re5869' LACSCS
+palmd hauser     a 34 32 51.71850-118 12 52.64112   i 1580.10   bb 'hauser 1938' USCGS
+palmd hrm1       n 34 32 51.     -118 12 52.        i 1579.80   hh 'hauser no. 1 1938' USCGS
+palmd leona      a 34 38 39.07923-118 19 23.80605   b 1215.20   bb 'leona 1932' USCGS
+palmd locked     a 34 36 56.07083-118 14 41.32671   b 1140.90   bb 'locked 1938' USCGS
+palmd mint       a 34 34 00.76111-118 16 41.04106   i 1576.50   bb 'mint 1938' USCGS
+palmd pelona     a 34 33 39.52238-118 21 18.45181   b 1478.30   bb 'pelona 1932' USCGS
+palmd portal     a 34 39 57.94842-118 22 06.44858   b 1183.80   bb 'portal 1932' USCGS
+palmd rit rid    a 34 36 23.88765-118 12 49.11787   j 1025.30   bb 'ritter ridge e3 reset 1968 re5869' LACSCS
+palmd tenhi      a 34 31 50.28419-118 08 50.23269   b 1378.30   bb 'tenhi 1938' USCGS
+palmd verde      a 34 34 31.02495-118 09 05.96205   i  983.60   bb 'verde 1938' USCGS
+palmd verderm1   n 34 34 31.     -118 09 06.        b  982.29   oo 'verde no.1 1938' USCGS
+palmd ward       a 34 29 29.49743-117 55 05.14626   a 1089.62   bb 'ward rs 1929' LACSCS, USGS
+palms T 405        33 58 48.     -116 39 11.
+palms W 405        33 58 41.     -116 39  9.
+palms E 406        33 58 26.     -116 39  8.
+palms F 406        33 58 23.     -116 39  8.
+palms H 406        33 58 17.     -116 39  6.
+palms J 406        33 58 16.     -116 39  7.
+palms K 406        33 58 14.     -116 39  6.
+palms L 406        33 58 13.     -116 39  4.
+palms M 406        33 58 12.     -116 39  4.
+palms N 406        33 58 12.     -116 39  3.
+palms Q 406        33 58 12.     -116 39  3.
+palms K 408        33 57 28.     -116 38 46.
+palms D 409        33 57  9.     -116 38 35.
+palms E 409        33 57  7.     -116 38 35.
+palms H 409        33 57  1.     -116 38 38.
+palms J 409        33 57  2.     -116 38 38.
+palms K 409        33 56 57.     -116 38 37.
+palms N 409        33 56 54.     -116 38 36.
+palms Q 409        33 56 54.     -116 38 36.
+palms T 409        33 56 53.     -116 38 35.
+palms V 409        33 56 50.     -116 38 34.
+palms X 409        33 56 45.     -116 38 33.
+palms Y 409        33 56 46.     -116 38 31.
+palms Z 409        33 56 43.     -116 38 31.
+palms A 410        33 56 43.     -116 38 31.
+palms F 410        33 56 41.     -116 38 30.
+palms G 410        33 56 38.     -116 38 30.
+palms H 410        33 56 35.     -116 38 29.
+palms K 410        33 56 33.     -116 38 29.
+palms L 410        33 56 33.     -116 38 29.
+palms N 410        33 56 31.     -116 38 28.
+palms P 410        33 56 31.     -116 38 28.
+palms Q 410        33 56 31.     -116 38 28.
+palms R 410        33 56 27.     -116 38 28.
+palms W 410        33 56 12.     -116 38 28.
+palms 37 B MWDSC   33 56 10.     -116 38 27.
+palms A 411        33 55 59.     -116 38 26.
+palms B 411        33 55 57.     -116 38 26.
+palms D 411        33 55 55.     -116 38 27.
+palms F 411        33 55 48.     -116 38 25.
+palms G 411        33 55 50.     -116 38 25.
+palms H 411        33 55 49.     -116 38 25.
+palms J 411        33 55 47.     -116 38 26.
+palms K 411        33 55 46.     -116 38 25.
+palms N 411        33 55 35.     -116 38 27.
+palms S 411        33 55 29.     -116 38 27.
+palms 32 H MWDSC   33 55 28.     -116 38 28.
+palms V 411        33 55 19.     -116 38 31.
+palms W 411        33 55 16.     -116 38 33.
+palms X 411        33 55 12.     -116 38 33.
+palms Y 411        33 55 13.     -116 38 34.
+palms A 412        33 55  8.     -116 38 37.
+palms B 412        33 55  3.     -116 38 38.
+palms C 412        33 54 58.     -116 38 40.
+palms E 412        33 54 54.     -116 38 44.
+palms G 412        33 54 47.     -116 38 46.
+palms L 412        33 54 35.     -116 38 55.
+palms M 412        33 54 31.     -116 38 56.
+palms P 412        33 54 26.     -116 39  0.
+palms 603 64 R CO  33 57 41.     -116 30  8.
+palms 603 65 R CO  33 57 40.     -116 30 48.
+palms 603 66 R CO  33 57 40.     -116 31 34.
+palms 603 67 R CO  33 57 41.     -116 32 36.
+palms 603 68 R CO  33 57 40.     -116 33 48.
+palms 603 69 R CO  33 57 41.     -116 35  4.
+palms 603 70 R CO  33 57 25.     -116 35 29.
+palms 603 71 R CO  33 56 45.     -116 35 41.
+palms 603 72 R CO  33 55 59.     -116 35 52.
+palms 603 73 R CO  33 55 19.     -116 35 58.
+palms 603 75 R CO  33 54  7.     -116 36 33.
+palms D 71 RESET 1933 54 11.     -116 37 21.
+palms 100 DOR USGS 33 53 55.     -116 37 25.
+palms B 1311       33 54  6.     -116 38 15.
+palms 603 79 R CO  33 55  1.     -116 39 57.
+palms D 1311       33 55  3.     -116 40 19.
+palms E 71         33 55  7.     -116 40 57.
+palms 605 7 R CO   34  2 10.     -116 35 22.
+palms F 1266       34  1 54.     -116 35 20.
+palms K 721 RESET 134  1 11.     -116 34 54.
+palms G 1266       34  1  0.     -116 34 50.
+palms 1800 SB USGS 34  0 46.     -116 34 29.
+palms H 1266       33 59 55.     -116 34 38.
+palms 605 2 R CO   33 59 16.     -116 34 51.
+palms MORON        33 59  1.     -116 34 59.
+palms 605 1 R CO   33 58 26.     -116 35  6.
+palms J 1266       33 58  3.     -116 35 14.
+palms K 1266       33 57 40.     -116 35 21.
+parkf break      d 35 53 15.     -120 27 40.        o  596.00   aa 'break 1977' NCER
+parkf brushypk   d 35 53 42.     -120 28 10.        o  627.30   
+parkf car        d 35 53 17.354  -120 25 46.464     d  512.98
+parkf car rm1    d 35 53 17.     -120 25 46.        o  513.00   hh 'car rm 1 1942' USCGS
+parkf f 85       d 35 53 09.8    -120 27 52.4       o  592.50   ee 'f 82 1933 1945' USGS
+parkf flattop    d 35 51 51.     -120 28 21.        o  792.00   ee 'flat top 1977' NCER
+parkf grave      d 35 54 52.     -120 25 58.        o  515.90  
+parkf green      d 35 54 44.8    -120 24 31.4       o  658.00 
+parkf hassle     d 35 53 23.     -120 27 05.        o  496.20   ee 'hassle 1977' NCER
+parkf hassleec   d 35 53 23.     -120 27 05.        o  500.18   ee 'hassle ecc 1977' 
+parkf hog        d 35 52 08.     -120 28 51.        o  807.10   
+parkf mill rm1   d 35 52 21.     -120 28 23.        o  785.00   ee 'miller rm 1 1977' NCER
+parkf mill rm2   d 35 52 21.     -120 28 23.        o  788.18   ee 'miller rm 2 1977' NCER
+parkf miller     d 35 52 21.     -120 28 23.        o  784.30   ee 'miller 1977' NCER
+parkf oldhouse   d 35 53 53.     -120 27 25.        o  507.30
+parkf park       d 35 54 18.     -120 26 50.        o  531.20   gg 'park 1974' State Of Cal
+parkf pf1        d 35 53 17.     -120 25 46.        o  512.50   aa 'pf 1 1974' NCER
+parkf pf2        d 35 54 07.     -120 25 24.        o  542.60   aa 'pf 2 1974' NCER
+parkf pf2 rm1    d 35 54 07.     -120 25 24.        o  541.20
+parkf pf2 rm2    d 35 54 07.     -120 25 24.        o  541.20   
+parkf pf3        d 35 52 44.     -120 23 51.        o  475.50   aa 'pf 3 1974' NCER
+parkf pf4        d 35 52 21.     -120 25 54.        o  499.90   aa 'pf 4 1974' NCER
+parkf post       d 35 52 57.     -120 27 10.        o  539.70      'post 1977' NCER
+parkf stump      d 35 52 58.     -120 28 27.        o  671.30      'stumps 1977' NCER
+parkf tom        d 35 55 22.     -120 26 04.        o  527.20  
+parkf work       d 35 53 10.     -120 29 07.        o  758.60      'work 1977' NCER
+parkf wyatt      d 35 54 58.     -120 25 15.8       o  613.70
+pear  blossom    d 34 34 27.     -117 53 45.        d  957.10
+pear  cima       d 34 26 47.     -117 56 36.        d 1325.30
+pear  lepage     a 34 26 59.56992-117 54 37.61483   a 1331.30
+pear  lime       a 34 27 29.38613-117 50 39.49939   a 1269.20
+pear  neefus     a 34 26 29.54747-117 52 25.454     a 1353.70
+pear  radell     d 34 28 45.     -117 54 01.        d 1084.10
+pear  rift       d 34 28 19.     -117 56 08.        d 1158.90   
+pear  shoe       a 34 25 37.32990-117 50 42.42609   a 1470.40
+pear  swan       a 34 28 11.52454-117 52 40.94709   a 1210.60
+pear  ward       b 34 29 29.49743-117 55 05.14626   b 1089.62
+pearb bird       d 34 25 56.9    -117 55 21.25      d 1123.00
+pearb holcomb    n 34 27 29.0    -117 50 39.        n 1269.00
+pearb lepage     a 34 26 59.56992-117 54 37.61483   a 1331.30
+pearb lewis      d 34 25 00.     -117 53 04.38      d 1098.00
+pearb lime II    a 34 27 29.38613-117 50 39.49939   a 1269.20
+pearb llano      d 34 29 54.0    -117 49 05.4       d  999.44
+pearb neefus     a 34 26 29.54747-117 52 25.454     a 1353.70
+pearb shoe       a 34 25 37.32990-117 50 42.42609   a 1470.40
+pearb swan       a 34 28 11.52454-117 52 40.94709   a 1210.60
+pearb ward       b 34 29 29.49743-117 55 05.14626   b 1089.62
+pearb william    d 34 23 09.     -117 51 46.25      d 2316.48  
+pilla fate       d 37 31 25.     -122 29 23.        d  131.06
+pilla ot east    d 37 30 04.6    -122 28 15.4       d    0.00
+pilla pillarpt   d 37 29 54.     -122 29 50.        d   50.29
+pilla prince     d 37 31 02.6    -122 28 47.0       d  115.82
+pilla sprouts    d 37 31 33.5    -122 29 54.5       d   62.48
+pilla whale 2    d 37 30 34.4    -122 30 12.4       d   57.91
+pilla whale 3    d 37 30 34.4    -122 30 12.4       d   57.91
+pilla whale2re   d 37 30 34.4    -122 30 12.4       d   57.91
+pionn pga 1      d 36 35 12.     -121 08 40.        d  823.00
+pionn pga 2      d 36 35 36.     -121 09 12.        d  867.00
+pionn pga 2 76   n 36 35 36.     -121 09 12.        n  867.00 
+pionn pga 3      d 36 36 19.     -121 08 07.        d  844.00
+pionn pga 4      d 36 35 54.     -121 07 28.        d  841.00
+pompo cabral     d 37 17 49.     -122 23 32.        d  175.26
+pompo mattei     d 37 16 53.     -122 21 57.        d  188.98
+pompo peak       d 37 17 46.     -122 21 34.        d  302.97
+pompo pom        d 37 18 32.     -122 22 37.        d  252.98      
+pompo san        d 37 18 27.     -122 24 08.        d   65.53
+ptare biaggi     d 38 57 48.     -123 39 57.        d  119.39
+ptare oz         d 38 57 17.     -123 39 51.        d  108.17
+ptare rhodes     d 38 57 30.     -123 37 49.        d  200.98
+ptare richard    d 38 58 14.     -123 39 12.        d  140.81
+ptare schuler    d 38 57 44.     -123 39 07.        d  143.81
+ptrey berg       n 38 02 22.0    -122 49 14.        n  427.90   
+ptrey blackrm3   n 38 04 50.0    -122 45 51.0       n  390.10   hh 'black no. 3 1930' USCGS
+ptrey bodega     a 38 18 22.57030-123 00 02.44920   a  184.80   bb 'bodega 1855 1929' USCGS
+ptrey bodhole    a 38 18 23.0    -123 00 02.0       a  184.80   
+ptrey burn ecc   d 38 20 51.     -122 51 50.        n  275.16   aa 'burnside ecc 1978' NCER
+ptrey burn2rm1   n 38 20 53.0    -122 51 48.0       n  277.26   
+ptrey burnsid2   p 38 20 53.6978 -122 51 48.7374    a  277.26   ee 'burnside 2 1975' USGS
+ptrey burnside   b 38 20 52.055  -122 51 49.936     b  280.00   bb 'burnside 1932' USCGS
+ptrey garcia     a 38 03 58.056  -122 47 03.135     a  179.53   bb 'garcia 1930' USCGS
+ptrey mill       e 38 08 00.80   -122 49 47.82      i  266.70   bb 'mill U.S. corps of eng'
+ptrey nicasio    d 38 04 50.4    -122 45 54.        i  390.10   aa 'nicasio 1979' NCER
+ptrey pt reyes   n 38 04 47.0    -122 52 03.0       i  406.35   hh 'pt reyes hill 2 no. 5 1951' USCGS
+ptrey ptreyhd3   a 37 59 47.2839 -123 00 49.5960    a  185.70   bb 'pt reyes head 3 1960' USCGS
+ptrey ptreyhl2   n 38 04 47.0    -122 52 03.0       i  406.35   
+ptrey seic       a 38 02 41.436  -122 47 50.478     a   21.64   cc unstamped brass plate
+ptrey tacloma    a 38 03 03.715  -122 46 11.432     d  169.16   bb 'tacloma 1930' USCGS
+ptrey tam 3      d 37 55 25.0    -122 35 40.0       f  774.55   cc 'tam 3 1971' CDMG
+ptrey tam3 rm2   d 37 55 25.     -122 35 40.        g  774.00   cc 'tam 3 rm2' CDWR
+ptrey tomasi     a 38 05 07.766  -122 47 39.920     d  182.27   bb 'tomasi 1930' USCGS
+ptrey wittenec   n 38 02 22.0    -122 49 14.0       g  427.90   aa 'wittenburg ecc 1972' NCER
+redro red r 1    d 36 03 20.     -120 36 38.        d  803.20
+redro red r 2    d 36 02 18.     -120 36 31.        d  771.20
+redro red r 3    d 36 02 52.     -120 37 17.        d  609.60
+redro red r 4    d 36 03 24.     -120 38 23.        d  691.90
+redro red r 5    d 36 03 54.     -120 36 50.        d  880.90
+rf    bordi      d 37 20 24.0    -122 13 26.0       i  615.70   aa 'bordi 1975' NCER
+rf    bordirm1   n 37 20 24.0    -122 13 26.0       i  615.70
+rf    mt mel     d 37 20 20.0    -122 13 04.0       d  667.50
+rf    rf1        b 37 19 53.1641 -122 12 51.4272    b  744.35   ee 'rad fac' USGS
+rf    rf2        b 37 18 44.7021 -122 13 52.4906    b  655.83   ee 'mind' USGS (reported hard to read) 
+rf    rf3 ncer   n 37 19 46.     -122 14 28.        i  628.46   ee 'lang r' USGS
+rf    rf3 usgs   b 37 19 46.0879 -122 14 28.0018    b  628.46   
+rf    rf4        b 37 20 15.1053 -122 13 12.8015    b  684.21   ee 'rf 4' USGS
+rf    rf5reset   d 37 19 19.0    -122 12 06.0       b  783.34   aa 'rf 5 reset' NCER
+rhtte coyote     d 37 32 24.     -122 04 53.        d   83.82
+rhtte park 2     d 37 33 18.     -122 04 17.        d    3.05
+rhtte r.h.t.ec   d 37 33 15.     -122 05 37.        d   86.78
+rich  barnes     d 63 23 51.0    -145 48 34.0       j 1122.00   aa 'barnes 1970' NCER
+rich  canwell    p 63 19 58.64854-145 40 55.07211   a 1652.53   bb 'canwell 1941' USCGS
+rich  castner    p 63 23 42.05745-145 40 25.02890   a 1288.31   bb 'castner 1941' USCGS
+rich  center     d 63 23 27.0    -145 44 10.0       i  792.00   aa 'center 1970' NCER
+rich  ferrians   d 63 21 26.0    -145 40 43.0       i 1080.00   aa 'ferrians 1970' NCER
+rich  johnson    p 63 25 33.44111-145 49 45.49821   a 1191.77   bb 'johnson 1941' USCGS
+rich  lanni      d 63 24 29.0    -145 47 40.0       i 1184.00   aa 'lanni 1970' NCER
+rich  miller     p 63 21 59.93528-145 46 57.17754   a 1666.51   bb 'miller 1941' USCGS
+rich  quartz     p 63 27 46.64701-145 46 17.73991   a 1572.90   bb 'quartz 1941' USCGS
+rich  rainy      p 63 16 16.96862-145 51 14.97328   a 1182.48   bb 'rainy 1941' USCGS
+rich  upper      p 63 28 51.92417-145 54 22.86683   a 1150.63   bb 'upper 1942' USCGS
+rich  windy      d 63 21 53.0    -145 34 51.0       i 1585.00   aa 'windy 1970' NCER
+rich  yost       p 63 15 25.84400-145 38 51.13300   a 1169.70   bb 'yost 1946' USCGS
+richm rga 1      d 37 57 22.     -122 19 07         d  158.00
+richm rga 2      d 37 57 12.     -122 18 22.        d  244.00
+richm rga 3      u 37 56 29.4003 -122 18 56.5818    d   92.00
+richm rga rm1    u 37 56 29.1725 -122 18 56.8088    d   91.00
+richm rga3 rm2   n 37 56 28.     -122 18 52.        n   92.00 
+richm rga 4      d 37 57 08.     -122 19 55.        d   31.00
+richm rga4 rm1   n 37 57 08.     -122 19 55.        d   31.00  
+roof  roof1        37 27 18.88   -122 09 58.87          26.45
+roof  roof2        37 27 18.29   -122 09 58.78          26.38
+roof  roof3        37 27 18.79   -122 09 59.63          26.54
+rubyc mendy      d 37 04 10.     -121 31 42.        d  356.62
+rubyc morgan     d 37 03 07.     -121 32 12.        d   97.54
+rubyc ruby       d 37 02 46.     -121 30 50.        d  169.16
+rubyc vogt       d 37 03 46.     -121 30 35.        d  351.50
+sage  sage 1     d 36 40 20.     -121 15 35.        d  317.00
+sage  sage 2     d 36 40 59.     -121 16 16.        d  304.80
+sage  sage 3     d 36 40 36.     -121 17 33.        d  277.40
+sage  sage 4     d 36 39 34.     -121 16 28.        d  359.70
+salto alamo      a 33 11 46.753  -115 36 37.218     d  -39.01   bb 'alamo 1934' USCGS
+salto beals      a 33 21 16.518  -115 21 26.913     d  781.20   bb 'beals 1949' USCGS
+salto berdoo     p 33 51 40.40514-116 05 17.34917   i 1645.92   bb 'littel berdoo 1931' MWDSC
+salto blbuvlbi   s 33 39 50.     -115 43 08.        s  518.        'black butte NCMN 1982' NGS
+salto bluff      a 33 15 24.121  -116 13 56.118     d  394.41   bb 'bluff 1939-1969' USCGS
+salto bluffres   n 33 15 24.     -116 13 56.        d  394.41   bb 'bluff reset 1985' COSD
+salto bluffrm1   n 33 15 24.     -116 13 56.        n  393.00   hh 'bluff no. 1 1939' USCGS
+salto butte      a 33 33 40.951  -115 20 38.305     a 1373.74   bb unstamped USCGS disk
+salto carrizo    a 32 49 30.543  -116 00 51.422     i  733.96   bb 'carrizo 1924' USCGS
+salto coach      d 33 26 41.     -115 39 12.        d  694.95   aa 'coach 1972' NCER
+salto coolidge   a 33 22 56.055  -116 04 35.026     d  683.36   bb 'coolidge 1939' USCGS
+salto cottonwo   a 33 43 05.429  -115 54 32.809     d 1333.50   bb 'cottonwood 1931' MWDSC
+salto cuyamaca   a 32 56 48.099  -116 36 21.134     d 1984.86   bb 'cuyamaca 1923' USCGS
+salto dixie      a 32 47 27.332  -115 47 42.529     d   -2.13   bb 'dixie 1934' USCGS
+salto elephant   d 33 02 41.28   -116 10 28.19      d 1035.41   ee 'elephant 1978' NCER
+salto fish       a 32 58 54.182  -115 58 47.676     d  711.40   bb 'fish 1939' USCGS
+salto frink      a 33 21 36.997  -115 38 46.195     d  -51.82
+salto frinkrm1   n 33 21 37.     -115 38 46.        n  -51.80   hh 'frink no. 1 1934' USCGS
+salto granite    a 33 03 03.871  -116 28 43.183     d 1716.94   bb 'granite 1938 l.s. norman glover' USCGS
+salto jacumba    a 32 41 51.848  -116 09 48.957     d 1375.26   bb 'jacumba 1935' USCGS
+salto kane       a 33 03 40.943  -115 49 22.435     d   43.28   bb 'kane 1939' USCGS
+salto laquinta   p 33 42 14.47625-116 18 42.57343   a  383.40   bb 'laquinta 1931' MWDSC
+salto martfour   n 33 31 25.     -116 11 24.        n  204.86   gg 'marti four ' NCER
+salto martinez   a 33 31 25.054  -116 11 23.989     a  204.40   bb 'martinez 1939' USCGS
+salto mec pipe   n 33 38 03.     -116 01 43.        n  500.50
+salto mecca      a 33 38 03.160  -116 01 43.508     d  500.48   bb 'mecca hill 1931' MWDSC
+salto monu res   a 32 53 32.336  -116 25 11.249     d 1911.41   ff 'monument reset 1939 1957' USCE
+salto obsidian   a 33 10 16.237  -115 38 12.617     d  -38.41   
+salto oco rm1    n 33 07 52.     -116 06 29.        d  138.21   nn 'ocot:16 no 1 1939' USCGS
+salto ocotillo   a 33 07 52.088  -116 06 29.494     d  138.68   bb 'ocotillo 1939-1974' USCGS
+salto off 225    e 32 38 52.940  -115 43 28.605     e  115.62   bb 'offset 225 1934' USCGS
+salto off 229    a 32 37 56.440  -115 55 54.178     d  530.96   bb 'offset 229 1935' USCGS
+salto oldbeach   a 33 16 44.384  -115 30 01.121     b   18.20   ee unstamped USGS brass disk
+salto orocopia   a 33 34 08.554  -115 46 44.268     d 1162.81   bb 'orocopia 1931' MWDSC
+salto palm       a 33 18 28.158  -116 07 31.199     a  822.50   bb 'palm 1939' USCGS
+salto pt 101     n 33 10 16.0    -115 38 12.0       n  -38.41   gg 'pt 101 1980' Fish and Wildlife Serv
+salto salton     a 33 25 51.347  -115 48 53.277     d   30.18   bb 'salton' USCGS
+salto salva      a 33 14 01.007  -115 15 38.360     d  629.72   bb 'salvation 1949' USCGS
+salto soda       a 33 10 42.792  -115 55 01.345     d   63.70   ee unstamped USGS disk
+salto stage      a 32 54 54.061  -116 17 05.008     d  858.32   bb 'stage 1939' USCGS
+salto sup        n 32 57 17.     -115 49 26.        n  228.30   aa 'sup 1972' NCER
+salto volcan     a 33 06 06.561  -116 34 40.890     d 1631.60   bb 'volcan 1939' USCGS
+salto volcan 2   n 33 06 07.     -116 34 41.        n 1631.60   aa 'volcan 2 1987' USGS
+salto wilson     a 33 10 38.059  -116 25 58.301     a 1397.90   bb 'wilson 1939' USCGS
+salto yak        a 33 06 08.393  -116 16 35.931     d 1114.66   bb 'yak 1939' USCGS
+sanfe 5 n 10     b 34 16 43.2712 -118 22 50.7324    d  361.80   bb '5 n 10 1940' L.A. City & Co
+sanfe 6 p 10     b 34 15 29.5521 -118 20 11.4404    d  460.60   bb '6 p 10 1940' L.A. City & Co
+sanfe bluff      a 34 17 14.4793 -118 32 23.71593   a  502.55   bb 'bluff 1932' USCGS
+sanfe east       a 34 20 39.21369-118 31 10.99905   a  678.45   bb 'east 1932' USCGS
+sanfe may        a 34 21 08.05646-118 25 43.10485   a 1203.00   bb 'may 1932' USCGS
+sanfe mays 2     d 34 19 48.0    -118 25 26.0       i  546.40   bb 'mays no 2 1967' MWDSC
+sanfe mesa       b 34 20 30.1017 -118 24 24.084     b 1108.40   ff 'mesa lbl 1945' USFS
+sanfe mission    a 34 18 42.15843-118 31 58.45126   a  843.83   bb 'mission point 1932' USCGS
+sanfe p 2        a 34 15 48.75371-118 24 26.60998   i  394.40   bb 'pacoima no 2 re 62 1933' L.A. City & Co
+sanfe pe 2       a 34 17 22.29940-118 27 40.14552   a  413.94   bb 'pacoima e2 1956 ecc re 2177 aqueduct 1' LACSCS
+sanfe pl 1       a 34 17 33.39636-118 24 19.62593   d  484.96   bb 'pacoima l 1 1935 re 2177' LACSCS
+sanfe reserv     a 34 17 30.03184-118 29 14.33040   a  394.69   bb 'reservoir 1932' USCGS
+sanfe sf 8       a 34 20 14.88651-118 27 15.52461   a  736.91   bb 'sylmar f8 1935 re 2177' LACSCS
+sanfe sis el     a 34 16 08.39530-118 14 17.09001   d 1546.60   bb 'sister elsie 1933' USGS
+sanfe tuj rm1    b 34 16 53.959  -118 20 01.346     d  617.10   cc 'tujunga rm ca 1937' L.A. CO FLOOD CONTROL
+sanga ant aux    a 34 14 55.1475 -117 40 27.0432    i 2076.30   hh 'antonio 1922 aux' USCGS
+sanga bad pow    a 34 21 30.38148-117 45 49.39781   k 2865.00   bb 'r 93 1929' USGS in coop with LACSCS
+sanga bull       b 34 49 06.036  -118 33 08.853     b  872.28   ee 'bull' LACO
+sanga camp 9     d 34 21 10.840  -118 25 04.29      d 1220.12
+sanga dispoint   n 34 14 56.0    -118 06 12.0       d 1822.71   bb 'dispoint NCER 1977' USGS
+sanga dugo       p 34 12 55.38053-118 16 32.90179   n  932.00   
+sanga flint      a 34 09 48.8490 -118 11 45.0038    a  575.90      'flint 1933 r.e. 62' LACSCS
+sanga flintrm2   n 34 09 49.0    -118 11 45.        n  574.36   ff unstamped iron handle in cement
+sanga gleasnb2   n 34 23 12.6    -118 11 01.7       n 1928.95      'gleason b2 1989' LA Co
+sanga gln ncer   n 34 23 12.6    -118 11 01.7       n 1928.95   gg 'gln NCER 6-29-84' USGS
+sanga handle     o 34 14 56.0    -118 06 12.0       o 1822.71
+sanga hau ecc1   a 34 32 51.29517-118 12 52.56006   a 1581.10   bb 'hauser ecc 1 1961 re5869' LACSCS
+sanga hauser     a 34 32 51.71850-118 12 52.64112   k 1580.40   bb 'hauser 1938' USCGS
+sanga jpl        d 34 12 17.67   -118 10 11.46      d  475.18 
+sanga jpl 1      d 34 12 17.67   -118 10 11.46      d  475.16 
+sanga jpl1 rm1   d 34 12 17.67   -118 10 11.46      d  475.16 
+sanga littejon   a 34 48 02.03129-118 48 06.41379   k 1444.10   bb 'lebec i-9 little tejon re5869 1965' LACSCS
+sanga may        a 34 21 08.05646-118 25 43.10485   a 1203.00   bb 'may 1932' USCGS 
+sanga mtgleasn   a 34 23 12.66923-118 11 01.76183   k 1930.40   bb 'mt gleason b2 1961 re5869' LACSCS
+sanga nbaldaux   n 34 21 30.     -117 45 49.        n 2863.85   
+sanga pac unk    o 34 22 55.     -118 02 01.        o 2174.
+sanga pac1ncer   n 34 22 54.0    -118 02 01.0       d 2171.00   ee 'pac 1 NCER 1977' USGS
+sanga pac2ncer   n 34 22 54.0    -118 02 01.0       g 2171.10   bb 'pac 2 NCER 1977' USGS
+sanga pacifico   a 34 22 54.70081-118 02 01.25082   a 2174.50   bb 'pacifico 1958' USCGS
+sanga parkaux2   n 34 27 35.0    -118 13 04.0       n 1258.97
+sanga park rm3   n 34 27 35.0    -118 13 04.0       n 1258.64   hh 'parker no 3 1946 reset 1975' LACSCS
+sanga parker     a 34 27 35.30890-118 13 04.36852   a 1259.10
+sanga pelona     a 34 33 39.52238-118 21 18.45181   a 1478.50   bb 'pelona 1932' USCGS
+sanga piconcer   n 34 19 49.0    -118 36 00.0       n 1135.88   bb 'pico NCER 1977' USGS
+sanga port       a 34 23 10.88184-118 19 43.78398   a 1480.50
+sanga port rm1   n 34 23 11.0    -118 19 44.0       n 1480.50   hh 'little tujunga 1-2 port rm 1 1964' LACSCS
+sanga saw ecc    n 34 41 35.0    -118 33 37.0       n 1680.00   aa 'sawmill ecc 1973' NCER
+sanga sawmill    a 34 41 35.37158-118 33 37.70817   a 1680.30   
+sanga siselsie   a 34 16 08.3953 -118 14 17.09001   k 1546.70   bb 'sister elsie rs 1931' USGS LACSCS
+sanga smog       d 34 09 49.00   -118 09 14.93      d  575.77
+sanga syl        n 34 21 08.05646-118 25 43.10485   n 1203.00   bb 'syl i-6 reset 7-79' LACSCS
+sanga tank       d 34 30 00.54227-117 55 17.33207   d 1008.27
+sanga tom        a 34 37 52.16711-117 53 51.83795   k  993.70   bb 'alpine butte m-15 tom reset 1972' LACSCS
+sanga tom rm2    n 34 37 52.     -117 53 51.        k  991.18   
+sanga tom rm3    n 34 37 52.     -117 53 51.        k  993.67   gg 'tom no 3 1983' CDT
+sanga warm rm2   n 34 35 44.0    -118 34 44.0       n 1224.43   hh 'warm springs no 2 1941' USCGS
+sanga warm spr   a 34 35 43.96699-118 34 43.88729   k 1224.80
+sanga whax1rm3   p 34 34 02.8403 -118 44 30.1711    n 1255.65   hh 'whitaker peak aux no 1 a7a no 3 1973' CHD
+sanga whitaker   k 34 34 03.1701 -118 44 30.5699    n 1255.40
+sanga whitecc    n 34 34 03.     -118 44 30.        n 1256.29
+sanlu airway     p 35 19 30.43330-120 36 14.20589   f  787.00   cc 'airway 1964' PGE
+sanlu al ncer    n 35 11 06.     -120 05 02.        g 1146.66   bb 'allen NCER 1977' USGS
+sanlu almond     a 35 33 06.456  -120 27 07.504     f  521.60   bb 'almond 1932' USCGS
+sanlu barren     p 35 27 20.53429-120 34 19.72368   f  590.20   bb 'barren 1932' USCGS
+sanlu bench      a 35 44 44.416  -120 21 01.106     f  651.00   bb 'bench 1932' USCGS
+sanlu blackhll   a 35 21 30.897  -120 49 50.380     a  201.50   
+sanlu blhllres   p 35 21 30.89884-120 49 50.38068   f  201.50   ee 'black hill reset 1956' CSLC
+sanlu bonnie     p 35 52 39.62571-120 15 46.24905   f  790.04   cc 'bonie 1965' CDWR
+sanlu break      d 35 53 15.84   -120 27 41.43      i  596.00   aa 'break 1977' USGS
+sanlu buck ecc   n 35 55 28.0    -120 32 12.0       n  830.50   aa 'buck ecc 1984' NCER
+sanlu buckhill   d 35 55 28.12   -120 32 12.28      i  830.50   aa 'buckhill 1980' USGS
+sanlu caliente   p 35 02 11.00598-119 45 33.56404   n 1556.31   ii 'caliente 1959' CDWR
+sanlu car        a 35 53 17.354  -120 25 46.464     b  512.98   bb 'car 1942' USCGS
+sanlu car rm1    n 35 53 17.0    -120 25 46.0       n  512.98   
+sanlu car rm2    n 35 53 17.0    -120 25 46.0       n  512.98   hh 'carr no. 2 1942' USCGS
+sanlu castle     b 35 56 20.348  -120 20 21.674     f 1325.20   cc unstamped copper bolt, USCGS
+sanlu chi2 no1   n 35 23 33.0    -120 21 04.0       n 1104.14   hh 'chiches 2 no. 1 1965' USGS
+sanlu chiches2   b 35 23 33.408  -120 21 03.66      b 1103.99   bb 'chiches 2 1965 3625' USGS
+sanlu cholame    a 35 58 16.524  -120 34 51.149     d  794.92   bb 'cholame 1944' USCGS
+sanlu cobra      d 35 50 05.15   -120 26 12.63      i  736.00   aa 'cobra 1980' NCER
+sanlu cotton     p 35 47 16.00729-120 13 17.27002   f  769.50   bb 'cotton wood 1932' USCGS
+sanlu davis      a 35 13 58.48   -120 47 00.297     f  544.90   bb 'davis 1932' USCGS
+sanlu flattop    d 35 51 51.61   -120 28 21.62      i  792.00   aa 'flat top 1977' NCER
+sanlu gastro     a 36 00 03.04467-120 28 36.33903   a 1200.20   bb 'gastro 1961' USCGS
+sanlu gifford    p 35 08 57.88668-120 03 11.84958   f 1041.59   cc 'gifford 1970' CDMG
+sanlu gold       p 35 49 50.73196-120 20 56.98825   b  505.97   bb 'gold 1942' USCGS
+sanlu hat dis    a 35 41 09.414  -120 10 37.285     f  765.96    
+sanlu hatch      a 35 41 09.414  -120 10 37.285     f  765.96   bb 'hatch 1942' USCGS
+sanlu hatchrm1   a 35 41 09.414  -120 10 37.285     f  765.96    
+sanlu hearst     d 35 45 19.91   -120 15 58.5       i  405.50   aa 'hearst 1980' USGS
+sanlu hepsedam   a 36 18 52.54797-120 49 25.09674   f 1364.40   gg unstamped copper rod, USCGS
+sanlu hopp rm2   n 35 40 26.0    -120 22 50.0       n  505.36   hh 'hopper no. 2 1932' USCGS
+sanlu hopp rm3   n 35 40 26.0    -120 22 50.0       n  505.36   hh 'hopper no. 3 1932' USCGS
+sanlu hopper     b 35 40 26.684  -120 22 50.142     b  505.36   bb 'hopper 1932' USCGS
+sanlu kenger     p 35 54 49.57202-120 20 46.39669   f  985.13   cc 'kenger 1965' CDWR
+sanlu kerr       d 35 46 11.0    -120 21 07.8       d  573.03
+sanlu kitchen    a 34 55 16.54501-119 09 00.98801   a 1557.50   bb 'kitchen 1959' USCGS
+sanlu l yeguas   b 35 26 27.916  -119 57 20.939     f 1018.95   bb unstamped USGS
+sanlu mason      p 35 49 57.42678-120 26 31.12270   f  745.54   bb 'mason 1942' USCGS
+sanlu mcdonald   b 35 21 29.671  -120 05 37.809     b  743.10      'mcdonald 1919-1966 2438" USGS
+sanlu mcdonrm2   n 35 21 30.0    -120 05 38.0       f  742.54   hh 'mcdonald no. 2 1966' USGS
+sanlu mckttrck   a 35 17 26.617  -119 45 46.850     f 1320.60   bb 'mckittrick 1926' USCGS
+sanlu mckttrm5   n 35 17 27.0    -119 45 46.0       f 1319.21   hh 'mckittrick no. 5 1926 1972' USCGS
+sanlu mel ecc    n 35 53 12.0    -120 22 25.0       n  551.69   aa 'melville ecc 1980' NCER
+sanlu melville   b 35 53 12.516  -120 22 25.702     b  551.69   
+sanlu mid ecc    n 35 56 59.0    -120 29 50.        b  783.95   aa 'mid ecc 1984' NCER
+sanlu mid f      d 35 55 12.27   -120 31 16.39      f  694.95   cc 'mid f 1974' CDWR
+sanlu middle     a 35 56 58.962  -120 29 49.723     b  783.95   
+sanlu mine mt    d 35 58 09.88   -120 26 01.5073    f 1100.32   cc 'mine mt 1962' CDWR
+sanlu mine rm2   n 35 58 10.0    -120 26 01.5       f 1099.32   cc 'mine mtn rm2 1962' CDWR
+sanlu mith       n 36 04 44.0    -120 35 42.0       n 1207.30   
+sanlu montosa    a 35 56 56.262  -120 42 23.554     d  618.70   bb 'montosa 1944' USCGS
+sanlu moose      d 35 48 04.87   -120 17 50.63      i  568.50   aa 'moosehead 1980' NCER
+sanlu napoleon   a 35 30 12.476  -119 57 30.081     f  888.19   bb 'b 13 1930' USGS
+sanlu park       d 35 53 46.69   -120 18 19.97      f  818.51   cc 'park 1959' CDWR
+sanlu pelato     a 34 55 12.69887-119 24 16.09113   i 1367.30   bb 'pelato 1926' USCGS
+sanlu pf1        d 35 53 17.34   -120 25 46.36      i  512.50   aa 'pf 1 1974' NCER
+sanlu pitt       d 35 55 26.16   -120 28 32.72      i  702.50   aa 'pitt 1980' USGS
+sanlu prospect   a 35 28 20.374  -120 44 58.161     a  665.99   rr 'prospect 1939-1958' USCE
+sanlu ranchito   b 35 54 00.76   -120 31 26.18      b  872.03   ee 'ranchito 1959' USGS
+sanlu red hill   a 35 36 17.924  -120 15 34.548     f  785.30   bb 'red  hill 1932' CDWR
+sanlu shade      o 36 01 52.     -120 41 17.        f  739.24   cc 'shade' CDWR
+sanlu simm ecc   n 35 21 05.6    -120 00 15.0       n  611.13
+sanlu simmler    p 35 21 05.58894-120 00 15.01367   f  611.13   
+sanlu simmler2   a 35 21 06.01408-120 00 15.06564   a  611.08   bb 'simmler 2 1972' USCGS
+sanlu smithecc   n 36 04 44.0    -120 35 42.0       n 1207.30   aa 'smith ecc' NCER
+sanlu table      d 35 56 07.82   -120 24 22.5       d  871.70   aa 'table pkf 1980' NCER
+sanlu temb rm1   n 35 06 46.0    -119 33 14.0       n 1083.59   hh 'temblor no 1 1926' USCGS
+sanlu temblor    p 35 06 46.09424-119 33 14.53734   a 1084.20   bb unstamped USCGS
+sanlu tess       p 35 23 08.78007-120 41 47.78511   f  838.60   bb 'tessajera 1932' USCGS
+sanlu towers     d 35 47 20.89   -120 25 09.72      i  705.50   aa 'towers 1980' USGS
+sanlu twis rm2   n 35 29 16.0    -120 01 02.0       n  910.74   oo 'rm no 2 1959' CDWR
+sanlu twissel    b 35 29 15.339  -120 01 01.632     b  910.74   bb 'twissel 1959' USCGS
+sanlu two oaks   d 35 51 31.43   -120 19 06.92      i  559.00   aa 'two oaks 1980' USGS
+sanlu vill2rm2   n 35 28 03.0    -121 00 19.0       n  156.06   hh 'villa 2 no 2 1932' USCGS
+sanlu villa 2    a 35 28 03.439  -121 00 18.977     f  156.06   bb 'villa 2 1932' USCGS
+sanlu wild       p 35 45 47.94033-120 28 05.36183   b  621.79   bb 'wild 1942' USCGS
+sbpro antelynx   d 37 32 00.     -121 57 15.        d   60.96
+sbpro bayshore   d 37 28 10.     -121 57 28.        d    1.20
+sbpro bend       d 37 25 10.     -122 02 30         d    1.20
+sbpro bm 112     d 37 41 15.     -121 40 10.        d  224.03
+sbpro bmt 10     d 37 17 15.     -122 08 50.        d  682.75
+sbpro foothill   d 37 21 10.     -122 07 45.        d   99.06
+sbpro halmaur    d 37 14 00.     -122 21 00.        d  120.00
+sbpro haul       d 37 16 15      -122 17 00.        d  109.73
+sbpro meda       d 37 45 15.     -121 33 30.        d   68.90
+sbpro pawt       d 37 19 00.     -122 09 55.        d  670.56
+sbpro pigeon     d 37 11 30.     -122 23 15.        d    3.00
+sbpro sanantre
+sbpro sheridan   d 37 32 30      -121 52 25.        d  350.82
+sbpro true       d 37 18 50.     -122 13 15.        d 1760.00 
+seatt cascade    n 47 40 16.0    -121 41 16.0       i 1133.90
+seatt dow        b 47 26 44.463  -123 10 59.994     n  766.80   aa unstamped NCER tablet 1972
+seatt farr rm1   n 47 16 08.0    -122 05 37.0       i  155.12
+seatt farrell    d 47 16 08.0    -122 05 37.0       i  155.40   aa 'farrell reset 1974' NCER
+seatt gold rm1   n 47 32 56.0    -122 47 07.0       i  533.40 
+seatt goldhill   a 47 32 55.565  -122 47 07.382     i  533.40   bb 'goldhill 1954' USCGS
+seatt granite2   a 47 23 22.206  -122 55 08.275     i    1.50   bb 'granite 2 1934' USCGS
+seatt mary rm1   n 47 39 38.0    -122 06 35.0       i   11.00  
+seatt marymoor   d 47 39 38.0    -122 06 35.0       i   11.00   aa 'marymoor 1972' USGS NCER
+seatt mt si      d 47 30 26.0    -121 44 09.0       i 1270.10   aa 'mt si 1973' USGS NCER
+seatt mt si x    n 47 30 30.0    -121 44 09.0       n 1190.00
+seatt myrtleec   n 47 32 22.0    -122 22 34.0       i  157.00   aa 'myrtle ecc 1972' USGS NCER
+seatt orchard    d 47 26 50.0    -122 39 36.0       i  137.20   aa 'orchard 1972' NCER
+seatt poulsbo    d 47 43 46.0    -122 37 39.0       i  112.80   aa 'poulsbo 1972' NCER
+seatt poulsecc   n 47 43 46.0    -122 37 39.0       g  111.69   aa 'poulsbo ecc 1984' NCER  
+seatt poulsrm2   n 47 43 46.0    -122 37 39.0       i  112.78
+seatt spoon      n 47 24 04.0    -122 09 46.0       i  161.50   ee 'spoon' King Co Survey
+seatt tiger      d 47 31 32.0    -121 59 01.0       d  840.30
+seatt tiger 2    n 47 31 32.0    -121 59 01.0       d  840.30   bb 'tiger 2 1973' NGS
+seatt tigerecc   n 47 31 32.0    -121 59 01.0       g  838.58
+seatt tolt       d 47 40 16.0    -121 41 16.0       i 1133.90   aa unstamped NCER tablet 1972
+seatt webb       b 47 37 01.571  -123 01 22.584     i  845.80   aa 'webb mtn 1955' USCGS
+sfeli can 1      d 37 00 32.     -121 28 35.        d  274.30
+sfeli can 2      d 37 00 54.     -121 29 24.        d  134.80
+sfeli can 3      d 37 00 12.     -121 29 28.        d   63.50
+sfeli can 4      d 37 00 08.     -121 28 52.        d  132.40
+shosh bare       a 36 50 34.866  -116 40 25.197     a 1925.40   bb 'bare mtn 1949' USCGS
+shosh brick      a 36 57 32.384  -116 38  3.304     a 1460.20   bb 'brick 1940' USCGS
+shosh cane       a 36 46 33.904  -116 10 30.436     a 1824.00   bb unstamped USGS
+shosh cane 5     n 36 46 34.     -116 10 35.        n 1824.00   aa 'cane 5' NCER
+shosh mile       d 36 50 15.8    -116 28 06.4       d 1509.07   bb 'mile 1959' USGS
+shosh mine       a 36 59 38.250  -116 08 21.0       d 1659.30   bb 'mine 1950' USGS
+shosh pass       n 36 56 25.     -116 04 48.        g 1570.03   aa 'pass 1971' USGS
+shosh rock       b 36 43 22.429  -116 15 43.255     b 1422.20   bb 'rock 1959' USGS
+shosh roses      a 36 41 49.029  -116 32 16.238     a 1014.50   bb 'roses 1959' USCGS
+shosh shoshone   a 36 56 36.298  -116 15 36.842     a 2153.60   bb 'shoshone 1933' USCGS
+shosh specter    a 36 39 19.796  -116 10 47.018     b 1406.05   bb 'specter 1933' USCGS
+shosh thirsty    a 37 09 25.683  -116 40 03.267     a 1627.60   bb 'thirsty 1949' USCGS
+shosh timber     b 37 05 15.776  -116 27 36.378     i 2262.20   ii '7422' USGS
+shosh wahomie    a 36 46 53.092  -116 19 20.943     a 1092.30   bb 'wahomie 1949' USCGS
+shosh well       a 36 40  2.019  -116 19 43.080     a 1241.45   ee 'well 1959' USGS
+shosh yucca      a 36 56 24.918  -116 29  2.842     d 2044.50   bb 'yucca 1949' USGS
+shuma alik       p 55 27 19.54505-160 46 23.92507   a   33.918  bb unstamped USCGS tablet
+shuma andronic   p 55 19 24.21793-160  5 12.40243   a  355.64   bb 'andronica 1913 1954' USCGS
+shuma bird       p 54 49 45.13134-159 44 34.54132   a  414.83   ff unstamped USCGS
+shuma chernab    p 54 48 52.76471-159 34 57.68553   d  237.365  aa 'chernab 1981' NCER
+shuma fourth     p 55 18 32.37486-160 43 42.16452   a  596.25   aa 'fourth 1980 1913' NCER
+shuma insula     p 55  9 44.48616-159 35 12.51934   d  339.07   aa 'insula 1981' NCER
+shuma karpa      p 55 30 37.29239-160  3  9.05273   a  411.17   bb 'karpa 1914-46' USCGS
+shuma koppe      p 55 16 25.59195-160 22   .39087   a  394.21   bb 'koppe 1915 1954' USCGS
+shuma korovin    p 55 24 13.76551-160 17 45.30774   a  551.32   bb 'korovin 1913 1950' USCGS
+shuma little     p 55  0 26.17071-159 24 12.92242   a  497.29   aa 'little 1981' NCER
+shuma lumber     p 55 33  2.10373-160 27 45.95068   d  528.55   aa 'lumber 1980' NCER
+shuma mount        54 52 34.91889-160 13 32.36123      247.547  aa
+shuma nag        p 55  9 42.66351-159 55 20.26960   a  541.73   aa 'nag 1980' NCER
+shuma renshaw    p 55 37 18.44817-160 23 41.89054   a  504.573  bb 'renshaw 1950' USCGS
+shuma sandpths   n 55 21  8.35364-160 28 31.81564   n   74.929  uu  sand pt high school
+shuma simeon     p 54 53 48.00575-159 16  2.25333   d  431.212  gg '8006 LDGO' LGO
+shuma swede      p 55 28 39.91151-160 31 20.01896   a  321.593  bb 'swede 1913 1950' USCGS
+shuma turner     p 55  2  1.00017-159 50  9.07360   a  367.77   uu unstamped USCGS
+shuma wedge      p 55 14 53.76891-159 52  6.45313   a  228.689  bb 'wedge 1913 1951' USCGS
+shuma wooly      p 55  5 51.67449-160  7 24.05957   a  461.92   aa 'wooly 1913 1981' NCER
+silva sga 1      d 36 58 13.     -121 27 53.        d   45.00
+silva sga 3      d 36 58 14      -121 27 07.        d   43.00
+silva sga 4      d 36 57 53.     -121 27 39.        d   45.00
+silva sga 5      d 36 57 22.     -121 27 23.        d   46.00
+silva sga 6      d 36 58 32.     -121 27 15.        d   43.00
+socor alamillo   p 34 11 04.85990-106 48 31.20660   i 1659.60   bb 'alamillo 1954' USCGS
+socor campana    p 33 50 53.93019-106 42 43.93190   i 1706.88   ss unstamped USGS b.m. 1954
+socor canas      p 34 04 50.31080-106 44 12.32910   i 1897.70   bb '6185 va' USGS
+socor cat        b 34 01 35.13   -107 23 19.91      i 2350.00   ff unstamped USGS aluminum b.m.
+socor chupader   p 33 50 49.01960-106 56 57.28590   a 1912.00   bb 'chupadera USCGS 1934' USGS
+socor granite    b 34 08 50.014  -107 13 05.131     b 2208.00   ss 'granite 1905' USGS
+socor holcomb    a 34 04 48.1559 -106 33 31.3348    a 2071.20   bb 'holcomb 1934' USCGS
+socor mag        p 34 03 00.65295-107 10 50.07776   n 3004.70   aa 'mag 1973' USGS NCER
+socor mines      p 34 04 29.72261-106 58 05.78004   i 2216.50   aa 'mines 1972' USGS NCER
+socor mines ec   n 34 04 30.0    -106 58 06.0       i 2216.50   aa 'mines ecc 1972' USGS NCER
+socor polva v    n 34 10 55.0    -106 59 44.0       i 2222.60
+socor polvader   p 34 10 55.03590-106 59 43.93650   i 2222.60   mm '7275' POLVADER USGS
+socor set        p 33 59 27.81617-107 11 13.42513   i 3284.84
+socor south et   b 33 59 27.365  -107 11 14.372     b 3286.66   ss 'south et 1965' USGS
+srosa arrow      a 38 16 27.329  -122 23 56.532     d  297.50   bb 'arrowhead 1929' USCGS
+srosa bodega     a 38 18 22.57030-123 00 02.44920   a  184.80   bb 'bodega 1855 1929' USCGS
+srosa burnsid2   p 38 20 53.6978 -122 51 48.7374    a  277.26   ee 'burnside 2 1975' USGS
+srosa burnside   b 38 20 52.055  -122 51 49.936     b  280.00   bb 'burnside 1932' USCGS
+srosa hooker     a 38 22 35.516  -122 26 37.429     a  815.80   bb 'hooker 1930 1976' NGS
+srosa mark       p 38 32 18.1363 -122 42 35.4520    f  393.43   cc 'mark 1971' CDMG
+srosa petaluma   a 38 20 45.255  -122 34 43.745     a  750.60   bb 'petaluma 1930-1941' USCGS
+srosa taylor     p 38 24 02.6964 -122 40 25.1694    a  427.70   ii 'taylor mtn 1949' USGS - unstamped brass plug
+srosa trenton    p 38 28 48.4196 -122 52 08.9852    f  122.08   cc 'trenton 1971' CDMG
+srosa weston     p 38 36 03.2001 -122 48 41.9394    d  307.20
+tehac avenue     a 34 46 36.4654 -118 13 09.1372    i  720.16   bb 'avenue 1960' USCGS
+tehac bald       a 35 16 21.002  -118 05 39.347     a 1532.80   bb unstamped USGS
+tehac black bu   a 34 31 42.71060-117 45 42.15696   a  943.10   bb 'black butte e 9 1954' LACSCS
+tehac bull       b 34 49 06.036  -118 33 08.853     b  872.28   ee 'bull' LACO
+tehac denis      a 34 37 52.6799 -118 08 33.0587    a  789.07   bb 'denis 1960' USCGS
+tehac diorite    a 34 56 04.34356-118 36 51.42190   i 2033.30   bb 'diorite 1960' USCGS
+tehac doub rm1   n 35 02 00.0    -118 29 09.0       a 2435.20   hh 'double rm 1 1926' USCGS
+tehac fairmont   a 34 44 56.8061 -118 24 23.3209    a  964.10
+tehac gneiss     a 34 57 33.04988-118 42 07.79565   a 1794.10   bb 'gneiss 1959' USCGS
+tehac leona      a 34 38 39.07923-118 19 23.80605   b 1215.20   bb 'leona 1932' LACSCS
+tehac leonarm3   n 34 38 39.     -118 19 23.        n 1215.20   
+tehac lit rock   a 34 30 48.25778-117 56 15.13413   a  930.32   bb 'little rock h11 re63 1954' LACSCS
+tehac pajuela    a 35 07 14.80319-118 17 37.12715   i 1757.04   bb 'pajuela 1926' USCGS
+tehac pelona     a 34 33 39.52238-118 21 18.45181   a 1479.90   bb 'pelona 1932' USCGS
+tehac police     a 34 54 10.93837-118 54 12.76370   i 1467.67   cc 'police 1959' CDWR
+tehac policeec   n 34 54 10.0    -118 54 12.0       i 1467.67   cc 'police ecc 1961' CDWR
+tehac rit rid    a 34 36 23.88765-118 12 49.11787   j 1025.30   bb 'ritter ridge e3 reset' L.A. County
+tehac saw ecc    n 34 41 35.0    -118 33 37.0       n 1680.00   aa 'sawmill ecc 1973' USGS NCER
+tehac sawmill    a 34 41 35.37158-118 33 37.70817   a 1680.30   
+tehac soledad    a 34 58 57.12951-118 11 16.54177   i 1277.84   bb 'soledad 1932' USCGS
+tehac tecuyrm1   d 34 50 32.0    -118 58 51.0       d 2180.54   aa 'tecuya rm 1 1975' NCER
+tehac tej32rm2   n 35 07 25.0    -118 49 17.0       a  325.60   hh 'tejon no 2 1932' USCGS
+tehac tejon 32   a 35 07 25.76467-118 49 17.86908   a  326.00   
+tehac tejon 41   a 34 48 13.08652-118 48 52.62770   i 1484.38   bb 'tejon 1941' USCGS
+tehac tenhi      a 34 31 50.28419-118 08 50.23269   b 1378.30   bb 'tenhi 1938' USCGS
+tehac thumb      a 34 51 45.76678-118 25 05.35193   i  837.20   bb 'thumb 1959' USCGS
+tehac tom        a 34 37 52.16711-117 53 51.83795   a  993.80   bb 'alpine butte m-15 tom reset 1964' LACSCS
+tehac tom rm3    n 34 37 52.     -117 53 52.        n  993.80   
+tehac weed rm1   n 35 13 23.0    -118 55 53.0       n  107.00   hh 'weed no 1 1959' USCGS
+tehac wh2 rm3    n 35 00 38.0    -119 00 48.0       n  652.78   hh 'wheeler 2 no 3 1948' USCGS
+tehac wheeler2   a 35 00 38.22301-119 00 47.99264   i  652.78
+tomal bod head   d 38 18 28.65   -123 03 44.87      d   72.85   rr unstamped bolt
+tomal bod rm1    d 38 18 22.71   -123 00 03.02      d  184.10   hh 'bodega no. 1 1855 1929' USCGS
+tomal foster     d 38 08 12.60   -122 54 22.88      d  162.76   bb 'foster 1857 1929' USCGS
+tomal halleck    d 38 12 17.12   -122 54 14.10      d  185.62   bb 'halleck 1930' USCGS
+tomal mershrm5   d 38 10 54.49   -122 53 30.57      d   99.67   hh 'mershon no. 5 1856 1921' USCGS
+tomal oyster     d 38 12 21.80   -122 55 27.59      d   15.24   aa 'oyster 1983' NCER
+tomal pres2rm1   n 38 12 13.     -122 55 19.        n   30.48   hh 'preston 2 no. 1 1906 1921' USCGS
+tomal preston2   d 38 12 12.96   -122 55 18.81      d   30.48   
+tomal renati     d 38 14 49.70   -122 56 00.13      d  168.86   aa 'renati' NCER
+tomal tomal pt   d 38 12 44.66   -122 58 13.14      d  163.07   bb 'tomales point 1856 1929' USCGS
+tomal tomalbay   d 38 11 35.31   -122 56 44.60      d  206.35   ff unstamped USGS
+totsc bend       a 61 42 00.636  -141 43 48.968     a 1931.70
+totsc bl eagle   a 61 41 10.130  -141 32 23.763     a 1647.50
+totsc burnt      a 61 46 08.203  -141 29 22.911     a 1234.50
+totsc cache      a 61 47 14.074  -141 03 59.782     a 1448.70
+totsc coal       a 61 41 39.291  -142 15 12.718     a 2220.50
+totsc cub        a 61 37 19.840  -141 11 17.193     a 1758.20
+totsc end        a 61 43 27.312  -141 50 14.930     a 1931.40
+totsc frederik   a 61 43 05.193  -142 08 50.774     a 2429.30
+totsc fulcrum    a 61 39 30.043  -142 21 28.890     a 1803.20
+totsc glacier    a 61 39 55.837  -142 01 16.829     a 2609.50
+totsc goat       a 61 42 36.449  -142 29 44.484     a 1681.30
+totsc gofer      a 61 38 53.742  -142 09 37.445     a 1549.70
+totsc holmes     a 61 38 32.003  -141 24 09.359     a 1743.10
+totsc lime       a 61 47 33.441  -141 52 13.693     a 2158.60
+totsc pass       a 61 36 35.485  -142 01 36.950     a 1774.60
+totsc pingpong   a 61 43 53.495  -141 20 10.134     a 1335.20
+totsc rohn       a 61 44 06.670  -142 21 01.731     a 2098.90
+totsc russell    a 61 41 32.366  -141 51 51.844     a 2295.20
+totsc sentinel   a 61 38 57.362  -142 32 00.723     a 1850.10
+totsc skolai     a 61 36 39.600  -141 51 24.259     a 1831.90
+totsc solo       a 61 47 23.286  -141 41 38.357     a 1480.80
+totsc traver     a 61 42 13.654  -141 07 51.676     a 1103.80
+tresp club       d 36 48 53.     -121 21 47.        d  152.00
+tresp pereira    d 36 48 58.     -121 22 48.        d  203.60
+tresp tres p 3   d 36 47 38.     -121 21 50.        d  183.00
+tresp tres p 4   d 36 47 33.     -121 22 35.        d  220.00
+tresp tres p 5   d 36 48 20.     -121 23 22.        d  125.00
+tully t714       d 36 20 45.     -120 57 20.        d  408.70
+tully tully 1    d 36 20 44.     -120 55 20.        d  728.50
+tully tully2re   d 36 19 21.     -120 55 50.        d  332.30
+tully x251       d 36 19 58.     -120 56 35.        d  376.70
+vason stjoseph   a 37 12 20.7243 -121 58 32.6888    a  380.40
+vason vasona     t 37 14 50.0977 -121 57 54.5263    t   93.03
+wallu cambdin    d 46 02 18.000  -118 50 35.000     d  365.76   cc unstamped NCER brass disk
+wallu geer ecc   d 45 55 22.000  -118 34 08.000     d  631.85   ff unstamped brass plug NCER
+wallu jigg       d 46 04 48.000  -118 57 11.000     d  109.73   bb 'jigg 1947' USCE
+wallu jigg 2x    n 46 04 48.000  -118 57 11.000     d  109.73   tt 'jigg 1947' USCE - same BM as jigg
+wallu powerlne   d 46 05 00.000  -118 48 36.000     d  213.36   ff unstamped brass plug NCER
+wallu quarry e   d 45 56 11.000  -118 29 40.000     d  373.99   ff unstamped brass disk NCER
+wallu quarry w   d 45 57 05.000  -118 30 55.000     d  283.46   ff unstamped brass plug NCER
+wallu siwash     d 46 02 54.000  -118 56 11.000     d  238.66   bb 'siwash 1941' USCE
+wallu warm spr   d 46 01 06.000  -118 45 48.000     d  299.92   ff unstamped brass disk NCER
+wayne bear rd      40 29 51.540  -124 17 36.826
+wayne black mt     37 19 09.810  -122 08 49.462                    Black Mtn pre 1868 06hb-3
+wayne bodega       38 18 23.680  -123 00 03.726                    Bodega pre 1868 06hb-3
+wayne bodegahd     38 18 29.249  -123 03 45.417                    Bodega Head pre 1868 06hb-3
+wayne cahto        39 41 11.951  -123 34 42.032
+wayne chemise      40 00 50.663  -124 00 12.138
+wayne clark        38 59 36.573  -123 37 52.627
+wayne cold spr     39 01 20.217  -123 31 19.282
+wayne dunn         39 00 38.813  -123 38 39.502
+wayne fara lh      37 41 58.210  -123 00 03.579                    Farallon LH pre 1868 06hb-3
+wayne fisher       39 03 58.563  -123 35 10.569
+wayne gavilan      36 45 21.068  -121 31 11.504                    Gavilan  pre 1868 06hb-3
+wayne g caspar     39 20 28.349  -123 43 10.546
+wayne guano is     37 34 23.655  -122 15 43.475                    Guano Island pre 1868 06hb-3
+wayne king pk      40 09 24.996  -124 07 23.296
+wayne lick dm      37 20 31.511  -121 38 31.707                    Lick Obsy SMD post 1868 06hb-1
+wayne loma         37 06 40.971  -121 50 36.521                    Loma Prieta    pre 1868 06hb-3
+wayne mocho        37 28 39.696  -121 33 18.781                    Mocho   1887  Bowie
+wayne mt tam       37 55 27.455  -122 35 45.228                    Mt Tamalpais   pre 1868 06hb-3
+wayne mt toro      36 31 34.712  -121 36 32.276                    Mt Toro 1885  Bowie
+wayne mtdiablo     37 52 55.482  -121 54 48.355                    Mt Diable 1876  Bowie
+wayne mthelena     38 40 09.971  -122 37 56.604
+wayne mtlassic     40 20 02.655  -123 33 11.958
+wayne nsan 1       40 17         -124 30
+wayne nsan 2       40 03         -124 05
+wayne nsan 3       39 33         -123 58
+wayne nsan 4       39 02         -123 44
+wayne nsan 5       38 25 48      -123 09
+wayne pajaro       36 51 13.621  -121 48 37.066                    Pajaro Mouth
+wayne paxton       39 08 08.074  -123 18 42.090
+wayne pise 2       37 27 41.730  -122 20 31.953                    Pise Hill 2
+wayne ptpin lh     36 38 01.551  -121 55 58.939                    Pt Pinos L.H.  pre 1868 06hb-3
+wayne ptpinlat     36 37 59.413  -121 55 31.685                    Pt Pinos LSTN  pre 1868 06hb-3
+wayne ptrey hl     38 04 48.325  -122 52 00.801                    Pt Reyes Hill pre 1868 06hb-3
+wayne ptrey lh     37 59 45.458  -123 01 20.577                    Pt Reyes LH post 1868 06hb-1
+wayne pulgas w     37 28 48.787  -122 15 15.681                    Pulgas W.Base  pre 1868 06hb-3
+wayne pulgas e     37 28 36.265  -122 08 08.143                    Pulgas E.Base  pre 1868 06hb-3
+wayne red hill     37 33 04.717  -122 05 41.003                    Red Hill       pre 1868 06hb-3
+wayne ridge 2      37 30 47.624  -122 22 29.632                    Ridge 2
+wayne ross mt      38 30 20.528  -123 07 09.223                    Ross Mt  pre 1868 06hb-3
+wayne rocky md     37 52 57.237  -122 14 30.510                    Rocky Mound pre 1868 06hb-3
+wayne san bruno    37 41 16.130  -122 26 05.344                    San Bruno Mt post 1868 06hb-1
+wayne sanel mt     38 56 54.664  -123 12 59.123
+wayne sanfran4     37 31 48.000  -122 22 48.000                    San Andreas-San Francisco 4
+wayne sanfran6     37 23 02.400  -122 13 48.000                    San Andreas-San Francisco 6
+wayne sanfran7     37 15 00.000  -122 05 30.000                    San Andreas-San Francisco 7
+wayne sanfran8     37 09 00.000  -121 58 00.000                    San Andreas-
+wayne sanfran9     37 01 00.000  -121 46 00.000                    San Andreas-
+wayne sanfran10    36 54 00.000  -121 37 00.000
+wayne sanftr4      38 25 48.000  -123 09 00.000                    San Andreas-Ft Ross 4
+wayne sanhedrn     39 30 57.602  -123 05 42.401 
+wayne sanjuan      36 49 00.000  -121 30 00.000                    San Andreas-San Juan Bautis
+wayne sanpta1      39 01 12.000  -123 42 36.000                    San Andreas-Pt Arena 1
+wayne sanpta3      38 51 54.000  -123 34 04.800                    San Andreas-Pt Arena 3
+wayne sanptre2     38 00 00.000  -122 45 36.000                    San Andreas-Pt Reyes 2
+wayne santaana     36 54 19.368  -121 13 57.738                    Santa Ana  1852  Bowie
+wayne scruz az     36 58 42.106  -122 03 18.728                    S.Cruz Az Stn  pre 1868 06hb-3
+wayne scruz lh     36 57 08.821  -122 01 33.667                    S.Cruz LH post 1868 06hb-1
+wayne sierra m     37 24 38.266  -122 18 28.006                    Sierra Morena post 1868 06hb-1
+wayne snow mt      39 22 37.364  -122 45 27.452
+wayne sonoma       38 19 24.539  -122 34 27.894                    Sonoma Mt pre 1868 06hb-3
+wayne tomales      38 10 55.456  -122 56 46.733                    Tomales Bay pre 1868 06hb-3
+wayne two rock     39 21 42.397  -123 26 41.828
+wayne walalla      38 51 23.565  -123 29 49.127
+white aqua       d 33 56 06.     -116 38 01.        d  526.09
+white beacon 2   d 33 55 27.     -116 36 59.        d  528.52
+white deaver     d 33 56 45.     -116 33 45.        k  354.67
+white captain    d 33 57 10.     -116 38 41.        d  551.68
+white crown      d 33 56 06.     -116 38 46.        d  646.18
+white garnet     k 33 53 52.1783 -116 32 12.6344    k  274.63
+white morongo    k 33 59 16.7644 -116 35 07.2492    k  517.86
+white painted    d 33 57 12.     -116 37 49.        d  755.91
+white painted2   d 33 57 12.     -116 37 49.        d  755.91
+white whiteh2o   d 33 56 41.     -116 39 50.        d  859.84
+windy brusk      a 63 27 14.637  -148 25 34.078     d 1509.80   bb 'brusk 1950' USCGS
+windy cant       a 63 23 19.413  -148 56 50.363     d  701.90   ff 'T 17 S R 17 W 1922' USCGS
+windy cantwell   a 63 24 20.219  -148 49 07.857     d 1389.30   bb 'cantwell 1942' USCGS
+windy cantwrm2   d 63 26 09.0    -148 59 00.0       d  995.80   hh 'cantwell no 2 1924' USCGS
+windy carlo      a 63 34 50.61   -148 43 35.440     d 1506.30   bb 'carlo 1942' USCGS
+windy cleft      a 63 31 40.874  -148 52 11.122     d 1805.60   bb 'cleft 1942' USCGS
+windy cran rm2   n 63 19 39.9    -149 01 09.0       n  803.58   
+windy cranberr   a 63 19 39.866  -149 01 09.017     d  804.40   bb 'cranberry 1942' USCGS
+windy hiway      d 63 27 33.91   -148 46 26.870     j  937.90   aa 'hiway 1970' NCER
+windy knoll      d 63 25 57.39   -149 05 00.0       j 1195.40   aa 'knoll 1970' NCER
+windy lgo 21     d 63 25 20.87   -148 54 56.530     j  919.30   gg '21' LGO
+windy lgo 22     d 63 25 20.87   -148 54 56.530     j  919.30   gg '22 22' LGO
+windy lgo 31     d 63 26 49.57   -148 56 00.0       j  990.00   gg '31 31 7568' LGO
+windy reindeer   d 63 26 03.650  -148 46 43.09      j  917.80   aa 'reindeer 1970' NCER
+windy riley      d 63 36 54.0    -148 55 41.70      d 1398.10   bb 'riley 1942' USCGS
+windy sanchez    d 63 28 23.480  -148 53 37.76      j 1648.40   aa 'sanchez 1970' NCER
+windy slime      a 63 28 41.358  -148 43 00.437     d 1654.50   bb 'slime 1942' USCGS
+windy summit     a 63 22 50.830  -149 04 17.606     d 1263.80   bb 'summit 1950' USCGS
+windy talus      a 63 21 26.962  -148 31 46.268     d 1575.20   bb 'talus 1950' USCGS
+yakat allison    p 60 12 09.58400-142 24 50.61800   d 1375.60   ee 'allison 1959' USCGS
+yakat anchor     p 60 26 11.41153-142 34 39.17468   d 1531.90   bb 'anchor 1959' USCGS
+yakat anchorec   p 60 26 33.63488-142 35 40.92480   d 1561.93   ee 'anchor ec 1980' USGS
+yakat carol      a 60 35 48.729  -142 40 27.746     d 1553.60   ee 'carol 1959' USGS
+yakat don        a 60 03 30.342  -143 22 29.752     r   20.70   bb 'don 1959' USCGS
+yakat furr       d 60 03 51.487  -142 25 47.438     d    7.50   bb 'furr 1959' USCGS
+yakat gull       p 60 05 43.23049-142 41 46.01827   i   23.14   aa 'gull 1979' NCER
+yakat hanna      p 60 15 40.06870-143 08 35.72226   r  623.80   bb 'hanna 1959' USCGS
+yakat ice        p 60 27 02.84490-142 50 12.22974   d 1123.80   bb 'ice 1959' USCGS
+yakat isle       d 60 35 50.0    -142 20 15.0       j 1383.00   aa 'isle 1982' NCER
+yakat jun        p 60 36 11.70466-142 17 21.95203   i 1368.00   aa 'jun 1980' NCER
+yakat kul        p 60 09 40.23661-142 40 28.78584   i 1047.60   aa 'kul 1979' NCER
+yakat mac        d 60 18 33.0    -142 59 45.0       g  952.80   ee 'mac 1982' 
+yakat rob        p 60 20 28.78180-142 42 43.26837   i 1483.00   aa 'rob 1979' NCER
+yakat white      d 60 02 53.781  -142 03 54.408     d  794.40   bb 'white 1959' USCGS
+yakat yak        a 60 04 54.292  -142 30 25.612     a    7.90   bb 'yak 1959' USCGS
+yello amethyst   d 44 49 42.140  -110 15 12.762     d 2930.35   ee 'amethyst 1958' USGS
+yello chitt      d 44 32 50.     -110 10 10.        d 3099.82   aa 'chitt 1984' NCER
+yello cone       d 44 38 53.7    -110 11 32.9       d 2947.12   aa 'cone 1984' NCER
+yello trout      d 44 36 57.177  -110 30 15.601     d 2431.39   ee 'trout 1955' USGS
+yello washburn   d 44 47 51.775  -110 25 59.219     d 3123.29   bb 'washburn 1950' USGS
+yucca 3-ab       o 37 02 00.25   -116 02 00.74      i 1228.04   gg '3-ab' H&N 1962
+yucca alpha      o 37 02 09.30   -115 58 38.40      i 1390.72   gg 'sta alpha' H&N
+yucca ban        b 37 06 39.852  -115 58 01.587     b 1724.80   bb 'ban 1959' USGS
+yucca charly     o 37 09 01.2    -116 10 01.35      i 1993.16   bb 'sta charly' H&N
+yucca mine       o 36 59 38.25   -116 08 21.0       i 1659.30   aa 'mine 1971' NCER
+yucca nome       a 37 06 14.277  -116 03 08.551     i 1269.21   bb 'nome 1933' USCGS
+yucca pass       o 36 56 25.50   -116 04 45.75      i 1561.70   aa 'pass 1971' NCER
+yucca room       o 37 11 58.65   -116 01  3.74      i 1433.40   aa 'room 1971' NCER
+yucca tbm a      o 37 02 00.25   -116 02 00.74      i 1228.04   cc unstamped steel rod
+
+
+Codes used to indicate source of coordinates or elevations:
+   a    USCGS/NGS
+   b    USGS
+   c    CDWR
+   d    from topo maps
+   e    USCE
+   f    Greenwood DMG
+   g    angles turned or measured by USGS
+   h    City of Napa
+   i    from ll listing - source unknown (elevations)
+   j    NCER altimeter elevation
+   k    Los Angeles County
+   l    DMG
+   m    field computed - no check
+   n    approximate.  from main or original
+   o    source unknown (coordinates)
+   p    inversed or adjusted
+   q    Defense Mapping Agency Topographic Center
+   r    NOOA, National Ocean Survey
+   s    SV3, Bob King VLBI
+   t    Cal Highwys
+   u    From GPS campaign processing
+
+Codes used to indicate nature of center mark:
+   aa   Square with dot in center
+   bb   Triangle with dot in center
+   cc   Circle with dot in center
+   dd   Square with plus in center
+   ee   Triangle with plus in center
+   ff   Plus (no triangle, square, or circle)
+   gg   Dot (no triangle, square, or circle)
+   hh   Arrow with perpendicular line through center (no triangle, square, or circle)
+   ii   Circle with triangle inside, with dot in center
+   jj   Horizontal line with perpendicular line above and touching it
+   kk   Circle with nothing in center
+   ll   Horizontal line with dot in center
+   mm   Triangle with VA in center
+   nn   Arrow with centering dot offset, not on arrow
+   oo   Arrow with dot in center
+   pp   Circle with plus in center
+   qq   Circle cut into thirds (peace symbol). Dot in center
+   rr   Circle cut into fourths (big plus sign), or nail head
+   ss   Triangle with nothing in center
+   tt   Square with X in center
+   uu   Triangle with dot in center and arrow thru dot
+   vv   Square with dot in center and arrow thru the square (NCER rm)
+   ww   Circle with three lines that meet on one side.
