@@ -1,5 +1,8 @@
 <?php
 
+// Creates quad.kml file
+// Usage: php csv2kml.php > quads.kml
+
 $kml = "";
 $lines = file('quads.csv');
 $placemarks = "";
@@ -8,25 +11,25 @@ $count = 0;
 foreach ($lines as $line_num => $line) {
   $count ++;
   if ($count != 1) { // Skip header line
-  
+
     list ($id, $name, $lon, $lat, $layer_apfaults, $layer_qfaults, $layer_landslides, $layer_liquefac, $layer_geology, $layer_eqs, $layer_hillshades) = explode(",", $line);
-      
+
     $filename = str_replace(" ", "_", $name);
-  
+
     $north = $lat + .0625;
     $south = $lat - .0625;
     $east = $lon + .0625;
-    $west = $lon - .0625;  
-  
+    $west = $lon - .0625;
+
     $options = "";
-    if (preg_match('/YES/', $layer_apfaults)) $options .= "				<tr><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/kml/AP_Faults/APFaults_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/apfaults.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Alquist-Priolo Faults</td></tr>\n";
-    if (preg_match('/YES/', $layer_eqs)) $options .= "				<tr><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/kml/Historic_Eqs/Hist_Eqs_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/earthquakes.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Earthquakes</td></tr>\n";
-    if (preg_match('/YES/', $layer_geology)) $options .= "				<tr><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/kml/Geology/Geology_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/geology.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Geology</td></tr>\n";
-    if (preg_match('/YES/', $layer_hillshades)) $options .= "				<tr><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/kml/Hillshades/Hillshade_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/hillshades.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Hillshades</td></tr>\n";
-    if (preg_match('/YES/', $layer_landslides)) $options .= "				<tr><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/kml/Landslides/Landslides_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/landslides.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Landslides</td></tr>\n";
-    if (preg_match('/YES/', $layer_liquefac)) $options .= "				<tr><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/kml/Liquefaction/Liquefaction_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/liquefaction.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Liquefaction Susceptibility</td></tr>\n";
-    if (preg_match('/YES/', $layer_qfaults)) $options .= "				<tr><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/kml/Q_Faults/QFaults_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"http://earthquake.usgs.gov/regional/nca/bayarea/qfaults.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Quaternary Faults</td></tr>\n";
-  
+    if (preg_match('/YES/', $layer_apfaults)) $options .= "				<tr><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/kml/AP_Faults/APFaults_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/apfaults.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Alquist-Priolo Faults</td></tr>\n";
+    if (preg_match('/YES/', $layer_eqs)) $options .= "				<tr><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/kml/Historic_Eqs/Hist_Eqs_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/earthquakes.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Earthquakes</td></tr>\n";
+    if (preg_match('/YES/', $layer_geology)) $options .= "				<tr><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/kml/Geology/Geology_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/geology.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Geology</td></tr>\n";
+    if (preg_match('/YES/', $layer_hillshades)) $options .= "				<tr><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/kml/Hillshades/Hillshade_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/hillshades.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Hillshades</td></tr>\n";
+    if (preg_match('/YES/', $layer_landslides)) $options .= "				<tr><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/kml/Landslides/Landslides_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/landslides.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Landslides</td></tr>\n";
+    if (preg_match('/YES/', $layer_liquefac)) $options .= "				<tr><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/kml/Liquefaction/Liquefaction_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/liquefaction.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Liquefaction Susceptibility</td></tr>\n";
+    if (preg_match('/YES/', $layer_qfaults)) $options .= "				<tr><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/kml/Q_Faults/QFaults_$filename.kmz\"><img src=\"quads/ge.gif\" border=\"0\"></a></td><td><a href=\"https://earthquake.usgs.gov/learn/topics/geologicmaps/qfaults.php\"><img src=\"quads/info.gif\" border=\"0\"></a></td><td>Quaternary Faults</td></tr>\n";
+
     $placemarks .= <<<EOD
   	<Placemark>
   		<name>$name</name>
@@ -67,12 +70,12 @@ $options
 
 EOD;
 
-  
+
   }
 }
 
 
-/* 
+/*
 ---------------------------- KML output below ------------------------------------
 */
 
@@ -1168,7 +1171,7 @@ $xml_header
 		<Style id="bubble">
 		  <IconStyle><color>ff0000ff</color><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon26.png</href></Icon></IconStyle>
 		  <LabelStyle><scale>0.8</scale></LabelStyle>
-		  <BalloonStyle><text><![CDATA[<font face="Verdana"><img src="http://earthquake.usgs.gov/images/ge/banner.jpg" alt="USGS" width="400" height="40" />$[description]</font>]]></text></BalloonStyle>
+		  <BalloonStyle><text><![CDATA[<font face="Verdana"><img src="https://earthquake.usgs.gov/img/ge/banner.jpg" alt="USGS" width="400" height="40" />$[description]</font>]]></text></BalloonStyle>
 		</Style>
 $placemarks
 	</Document>
