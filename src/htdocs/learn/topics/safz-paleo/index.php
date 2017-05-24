@@ -20,7 +20,7 @@
   Maybe you’ve heard that the “Big One is overdue” on the San Andreas Fault.  No one can predict earthquakes, so what does the science really say?  Where does the information come from?  And what does it mean?
 </p>
 <p>
-  Earth scientists have been gathering data at key <a href="/learn/topics/paleo-intro/">paleo-sites</a> along sections of the San Andreas Fault to figure out the past timeline of earthquakes at each spot. The data show that at many places along the San Andreas Fault, we have gone past the average time between large earthquakes.  Since we have exceeded the average, many people use the term &ldquo;overdue,&CloseCurlyDoubleQuote; but it’s more complicated than that. First, let's zoom out and look at the big picture.
+  Earth scientists have been gathering data at key <a href="/learn/topics/paleo-intro/">paleoseismic sites</a> along sections of the San Andreas Fault to figure out the past timeline of earthquakes at each spot. The data show that at many places along the San Andreas Fault, we have gone past the average time between large earthquakes.  Since we have exceeded the average, many people use the term &ldquo;overdue,&CloseCurlyDoubleQuote; but it’s more complicated than that. First, let's zoom out and look at the big picture.
 </p>
 
 <h2>San Andreas Fault Zone – The Big Picture</h2>
@@ -28,7 +28,7 @@
 <figure class='left safz'>
   <img src='images/plates.gif' alt='plate tectonic cartoon'/>
   <figcaption>
-    Cartoon sketch of the Pacific Plate-North American Plate boundary with the San Andreas Fault.
+    Cartoon sketch of the Pacific Plate-North American Plate boundary showing the San Andreas Fault. (from <a href="https://pubs.usgs.gov/gip/dynamic/dynamic.html"><i>This Dynamic Earth: The Story of Plate Tectonics, USGS</i></a>)
   </figcaption>
 </figure>
 
@@ -61,13 +61,13 @@
   A paleoseismology site in <strong>Wrightwood, CA</strong> has been studied by several scientists, and recently (in 2010) the detailed data from multiple studies were joined together to create a single timeline.  The resulting 3000-year record includes 29 surface-rupturing earthquakes.  Careful analysis of the age of the earthquakes, including the uncertainties in radiocarbon dating (see Determining the Age of a Paleoearthquake in <a href="/learn/topics/paleo-intro/">Introduction to Paleoseismology</a>), showed that the average time between earthquakes is about 100 years.
 </p>
 <p>
-  The recurrence intervals (times between earthquakes) are more regular than clustered (determined by a mathematical analysis), and only four times in the past has the interval between two major earthquakes been longer than the current interval (since 1857).  The results of this study indicate that this section of the SAFZ is likely to have a large earthquake in the not-too-distant future.
+  The recurrence intervals (times between earthquakes) at Wrightwood are more regular than clustered (determined by a mathematical analysis), and only four times in the past has the interval between two major earthquakes been longer than the current interval (since 1857).  The results of this study indicate that this section of the San Andreas Fault is likely to have a large earthquake in the not-too-distant future.
 </p>
 <p>
   About 100 km to the northwest along the fault another site at <strong>Frazier Mountain</strong> has been investigated.  At that location, the record is about 1000 years long, and in that time period there are about 9 large earthquakes recorded in the sediments, including the 1857 rupture.
 </p>
 <p>
-  Comparing the data from Wrightwood and Frazier Moutain, earthquake scientists are working to understand the pattern of large earthquakes – asking questions such as how typical was the large (M7.9) earthquake in 1857?  Or is the size of the 1812 earthquake (~M7.1) more common? Note that because the magnitude scale is a log scale, there is about a 25-fold difference in the energy released by these different earthquakes.
+  Comparing the data from sites like Wrightwood and Frazier Mountain, earthquake scientists are working to understand the pattern of large earthquakes – asking questions such as how typical was the large (M7.9) earthquake in 1857?  Or is the size of the 1812 earthquake (~M7.1) more common? Note that because the magnitude scale is a log scale, there is about a 25-fold difference in the energy released by these different earthquakes.
 </p>
 
 <h2>Northern California</h2>
@@ -86,16 +86,16 @@
   The <strong>Maacama fault</strong> is the northward continuation of the Hayward-Rodgers Creek fault system in northern California. In 2014, a paleoseismology site at <strong>Hael Creek</strong> on the Maacama fault reiterated the results found on the Hayward fault to the south – creeping with infrequent large earthquakes, and a large one expected in the not-too-distant future.
 </p>
 <p>
-  The <strong>Hazel Dell</strong> site near Corralitos, CA was trenched in 2013 to characterize the Santa Cruz Mountains section of the SAFZ.  The Santa Cruz section stretches 62 km (39 mi) from Los Gatos (near San Jose) to San Juan Bautista, CA and was last ruptured in the famous 1906 San Francisco earthquake.  Observations in the trenches along with radiocarbon dating of charcoal, wood chips, and small plant remains, combined with a reevaluation of three previously-studied nearby paleoseismic sites revealed a variation in seismic activity in the past. Three earthquakes occurred within a 70-year period between 1838 and 1906, but there were no earthquakes during the 500 years before that, and there have been no earthquakes in the 110 years since 1906.
+  The <strong>Hazel Dell</strong> site near Corralitos, CA was trenched in 2013 to characterize the Santa Cruz Mountains section of the San Andreas Fault.  The Santa Cruz section stretches 62 km (39 mi) from Los Gatos (near San Jose) to San Juan Bautista, CA and was last ruptured in the famous 1906 San Francisco earthquake.  Observations in the trenches along with radiocarbon dating of charcoal, wood chips, and small plant remains, combined with a reevaluation of three previously-studied nearby paleoseismic sites revealed a variation in seismic activity in the past. Three earthquakes occurred within a 70-year period between 1838 and 1906, but there were no earthquakes during the 500 years before that, and there have been no earthquakes in the 110 years since 1906.
 </p>
 <p>
-   This shows that the average time between earthquakes includes some intervals that are short and some intervals that are long. New studies farther to the northwest along the <strong>Peninsula section of the SAFZ</strong> also show a long interval between the 1906 earthquake and the previous earthquake, which occurred  around 1300. Prior to 1300 the intervals are shorter, about 200 years. The North Coast section of the SAFZ is north of San Francisco. Studies of this section of the fault suggest an average recurrence interval of 200-300 years.
+   This shows that the average time between earthquakes includes some intervals that are short and some intervals that are long. New studies farther to the northwest along the <strong>Peninsula section of the San Andreas Fault</strong> also show a long interval between the 1906 earthquake and the previous earthquake, which occurred  around 1300. Prior to 1300 the intervals are shorter, about 200 years. The North Coast section of the San Andreas Fault is north of San Francisco. Studies of this section of the fault suggest an average recurrence interval of 200-300 years.
 </p>
 
 <h2>Now What?</h2>
 
 <p>
-  The paleoseismic data on different parts of the San Andreas Fault Zone are all telling us that some sections appear to be due or overdue for a significant earthquake.  But the data can’t be used to make predictions: we do not understand earthquakes well enough to know exactly where the next earthquake will occur, what the magnitude will be, or exactly when it will happen.
+  The paleoseismic data on different parts of the San Andreas Fault Zone are all telling us that some sections appear to be past the average, or "overdue" for a significant earthquake.  But the data can’t be used to make predictions: we do not understand earthquakes well enough to know exactly where the next earthquake will occur, what the magnitude will be, or exactly when it will happen.
 </p>
 <figure class='right'>
   <img src='images/Drop_Cover_Hold_On_ENG_Blue_Orange.png' alt='Drop, Cover, Hold On icon'/>
@@ -108,7 +108,7 @@
 </p>
 
 <p>
-  -written by Lisa Wald and Kate Scharer, U.S. Geological Survey
+  -written by Lisa Wald, Kate Scharer, and Carol Prentice, U.S. Geological Survey
 </p>
 
 <h2>Additional Resources</h2>
