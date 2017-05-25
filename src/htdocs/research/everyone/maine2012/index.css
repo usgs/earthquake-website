@@ -1,0 +1,8 @@
+figure.map {
+  max-width: 400px;
+}
+figure.chimney {
+  max-width: 224px;
+  float: left;
+  margin-right: 1em;
+}

@@ -1,0 +1,24 @@
+figure.overview {
+  float: right;
+  max-width: 464px;
+}
+figure.wasatchmap {
+  float: right;
+  max-width: 304px;
+  margin-bottom: 1em;
+}
+figure.cyn {
+  max-width: 464px;
+  margin-bottom: 1em;
+}
+figure.timeline {
+  max-width: 464px;
+  margin-bottom: 1em;
+}
+figure.model {
+  float: left;
+}
+figure.offvideo {
+  float: left;
+  max-width: 304px;
+}

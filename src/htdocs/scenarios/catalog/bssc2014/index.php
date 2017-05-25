@@ -83,9 +83,12 @@ include '../_catalog.inc.php';
 
 <li>
   Luco, N., Bachman, R. E., Crouse, C. B., Harris, J. R., Hooper, J. D.,
-  Kircher, C. A., Caldwell, P. J., and Rukstales, K. S. (2016). Updates to
+  Kircher, C. A., Caldwell, P. J., and Rukstales, K. S. (2015). Updates to
   Building-Code Maps for the 2015 NEHRP Recommended Seismic Provisions,
-  Earthquake Spectra, in press.
+  Earthquake Spectra, vol. 31, no. s1, pp. S245-S271, 
+  <a href="http://dx.doi.org/10.1193/042015EQS058M">
+    http://dx.doi.org/10.1193/042015EQS058M
+  </a>.
 </li>
 
 <li>
