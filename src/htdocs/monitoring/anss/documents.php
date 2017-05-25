@@ -29,6 +29,7 @@
 
 <h3>Policy &amp; Procedures Documents</h3>
 <ul>
+  <li><a href="https://pubs.er.usgs.gov/publication/cir1429">Advanced National Seismic System—Current status, development opportunities, and priorities for 2017–27</a> (Circular 1429)</li>
 	<li>Advanced National Seismic System (USGS Information Sheet, March, 2000)</li>
 	<li><a href="http://pubs.er.usgs.gov/pubs/cir/cir1188" target="_blank">An Assessment of Seismic Monitoring in the United States: Requirements for an Advanced National Seismic System</a> (Circular 1188)</li>
 	<li><a href="images/ANSSdiagram.gif">ANSS Management Structure Diagram</a></li>
