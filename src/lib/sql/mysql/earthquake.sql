@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-04-13 22:00:18 +0000
+# Generation Time: 2017-05-25 17:30:29 +0000
 # ************************************************************
 
 
@@ -1364,7 +1364,20 @@ VALUES
 	(7,7),
 	(10,6),
 	(10,7),
-	(10,9);
+	(10,9),
+	(482,9),
+	(483,9),
+	(484,9),
+	(485,9),
+	(486,9),
+	(487,9),
+	(488,8),
+	(489,9),
+	(490,7),
+	(490,9),
+	(490,6),
+	(491,7),
+	(491,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1920,7 +1933,37 @@ VALUES
 	(479,9),
 	(480,13),
 	(481,13),
-	(10,10);
+	(10,10),
+	(482,11),
+	(482,13),
+	(482,10),
+	(483,11),
+	(483,13),
+	(483,10),
+	(484,11),
+	(484,13),
+	(484,10),
+	(485,11),
+	(485,13),
+	(485,10),
+	(486,11),
+	(486,13),
+	(486,10),
+	(487,11),
+	(487,13),
+	(487,10),
+	(488,11),
+	(488,13),
+	(488,10),
+	(488,9),
+	(489,13),
+	(490,11),
+	(490,8),
+	(490,10),
+	(490,9),
+	(491,11),
+	(491,13),
+	(491,10);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2053,7 +2096,14 @@ VALUES
 	(10,30),
 	(10,27),
 	(10,44),
-	(10,45);
+	(10,45),
+	(482,45),
+	(482,26),
+	(484,45),
+	(484,39),
+	(485,28),
+	(486,45),
+	(486,35);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2860,7 +2910,36 @@ VALUES
 	(10,44),
 	(10,63),
 	(10,37),
-	(10,77);
+	(10,77),
+	(482,32),
+	(482,85),
+	(483,63),
+	(483,45),
+	(483,85),
+	(484,22),
+	(484,66),
+	(484,30),
+	(484,85),
+	(484,34),
+	(485,57),
+	(485,50),
+	(485,85),
+	(485,45),
+	(485,82),
+	(486,77),
+	(486,85),
+	(487,72),
+	(487,32),
+	(488,57),
+	(488,50),
+	(488,51),
+	(488,37),
+	(489,25),
+	(490,60),
+	(490,56),
+	(491,63),
+	(491,76),
+	(491,37);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2957,7 +3036,7 @@ VALUES
 	(132,'Continents in Collision: Pangea Ultima','NASA','http%3A%2F%2Fscience.nasa.gov%2Fscience-news%2Fscience-at-nasa%2F2000%2Fast06oct_1%2F','Short news piece with images'),
 	(240,'Earthquake Prediction, Societal Implications','Journal Reviews of Geophysics','http%3A%2F%2Fwww.certifiedchinesetranslation.com%2Fearthquake%2Faki00.html','Technical paper'),
 	(137,'UPSeis Seismology Questions Answered','UPSeis, Univ. of Michigan','http%3A%2F%2Fwww.geo.mtu.edu%2FUPSeis%2F','magnitudes, research, locations, seismic waves, and all the basics explained, as well as preparedness and hazards'),
-	(452,'Creep Evidence of Active Faulting','USGS','%2Flearn%2Ftopics%2Fcreep%2F','Information about creep on faults, and specifically the Hayward fault.'),
+	(452,'Creep Evidence of Active Faulting','USGS','/learn/topics/creep.php','Information about creep on faults, and specifically the Hayward fault.'),
 	(142,'Geology Central','Geology Central','http%3A%2F%2Fhomepage.smc.edu%2Frobinson_richard%2Fgeologycentral.htm','links to resources for Geology and Geophysics'),
 	(365,'Earthquake Visualizations','Carleton College/NAGT materials','http%3A%2F%2Fserc.carleton.edu%2FNAGTWorkshops%2Fgeophysics%2F','Visualizations and supporting material that can be used effectively to teach students about various geophysics topics. Visualizations include simple animations, GIS-based animated maps, paleogeographic maps and globes, as well as numerous illustrations and photos.'),
 	(144,'Virtual Earthquake Engineering','S. Illinois Univ.','http%3A%2F%2Fwww.ce.siue.edu%2Fearthquake%2F','interactive demonstration of the effects of earthquake retrofitting'),
@@ -3027,7 +3106,7 @@ VALUES
 	(296,'Schoolyard Geology','USGS','http%3A%2F%2Feducation.usgs.gov%2Fschoolyard%2F','Online lesson plans with photos and images. Excellent geologic activities you can do anywhere! Education standards info included.'),
 	(297,'Try It Yourself Calculator','USGS','%2Flearn%2Ftopics%2Fhow_much_bigger.php','How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake?'),
 	(444,'Tsunami! - Tsunamis Past and Present','Univ. of Washington','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2F','Basics about tsunamis, information about preparedness, and links to additional resources.'),
-	(304,'100% Chance of an Earthquake','USGS','%2Flearn%2Ftopics%2F100_chance.php','Earthquake statistics.'),
+	(304,'100% Chance of an Earthquake','USGS','/learn/topics/100_chance.php','Earthquake statistics.'),
 	(305,'Earthquake \"Top 10\" Lists','USGS','%2Fearthquakes%2Feqarchives%2F','Deadly earthquakes, damaging EQs, EQ density maps, world and US statistics, historical EQ lists, largest EQ lists, last EQ in..., significant EQ catalogs, seismicity maps of the world and US.'),
 	(307,'Can It Happen Here?','USGS','%2Flearn%2Ftopics%2Fcanit.php','Could a large damaging tsunami happen in the United States?'),
 	(311,'Tsunami: The Great Waves','International Tsunami Information Center','http%3A%2F%2Fitic.ioc-unesco.org%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1169%26Itemid%3D2017','Basic information about the basics of tsunamis.'),
@@ -3117,7 +3196,17 @@ VALUES
 	(5,'New Madrid Compendium','CERI - Center for Earthquake Research and Information','http://www.memphis.edu/ceri/compendium/','600 references related to the New Mardrid earthquakes of 1811-1812.'),
 	(6,'Earthquake Myths Debunked','Caltech','https://www.facebook.com/californiainstituteoftechnology/videos/10154025296072965/','Do you know what\'s fact and fiction when it comes to earthquakes? Is there really such a thing as \"earthquake weather\"? Do you know what to do to stay safe when the ground starts shaking? Caltech scientists debunk some of the most common myths surrounding seismic events on this video.'),
 	(10,'Ground Shaking Simulations','USGS','/learn/topics/shakingsimulations/','Simulations (videos) from computer models of earthquakes showing the resulting ground shaking. '),
-	(7,'Earthquake Engineering Online Archive','NISEE, Univ. of Berkeley','https://nisee.berkeley.edu/elibrary/','The Earthquake Engineering Online Archive is a database of significant, publicly-funded research and development literature, photographs, data, and software in earthquake, structural, and geotechnical engineering. It includes full text for EERC, SEMM, and PEER reports published at UC Berkeley, the NISEE software library, and images from EQIIS.');
+	(7,'Earthquake Engineering Online Archive','NISEE, Univ. of Berkeley','https://nisee.berkeley.edu/elibrary/','The Earthquake Engineering Online Archive is a database of significant, publicly-funded research and development literature, photographs, data, and software in earthquake, structural, and geotechnical engineering. It includes full text for EERC, SEMM, and PEER reports published at UC Berkeley, the NISEE software library, and images from EQIIS.'),
+	(482,'How Big and How Frequent Are Earthquakes on the Wasatch Fault?','USGS','/research/everyone/wasatch/','Paleoseismology along the Wasatch Fault in Utah is helping to estimate the shaking risk to nearby towns.'),
+	(483,'Seismology in the City','USGS','/research/everyone/seismology-in-the-city/','How seismologists can use noise to see under the ground.'),
+	(484,'The \"Snow Plow Theory\" of Early-Arriving Tsunamis','USGS','/research/everyone/splays/','What is a splay fault, and how can they affect tsunamis?'),
+	(485,'The M7.8 Nepal Earthquake, 2015 – A Small Push to Mt. Everest','USGS','/research/everyone/nepal2015/','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
+	(486,'Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012','USGS','/research/everyone/maine2012/','Old-fashioned interviews are compared to Did You Feel It? responses for this earthquake.'),
+	(487,'Paleoseismology, Introduction to','USGS','/learn/topics/paleo-intro/','What is paleoseismology? How does it work?'),
+	(488,'Earthquake Footage','American Geophysical Union','http://blogs.agu.org/tremblingearth/earthquake-footage/','Videos from webcams, security cameras, and newsreels during the shaking from various earthquakes.'),
+	(489,'QuakeSmart','Fed. Alliance for Safe Homes','http://www.flash.org/quakesmartcommunity/index.html','Information to help you identify your risk, develop a plan, and take action.'),
+	(490,'Geoscience Education Resources Network','American Geosciences Institute','https://www.americangeosciences.org/center-for-geo/ern','A plethora a resources, including lesson plans, classroom science activities, curriculum materials, image collections, presentations, videos and animations, virtual field trips, etc.'),
+	(491,'seismicsoundlab','seismicsoundlab.org','http://www.seismicsoundlab.org/','Creative visualizations of seismicity, seismic waves, ground motion.  Learning units are also being added.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3231,7 +3320,8 @@ VALUES
 	(79,'Hazards','hazards.gif'),
 	(82,'Societal Effects','societal.jpg'),
 	(83,'Parkfield','parkfield.jpg'),
-	(84,'Seismic Seiches','seiche.jpg');
+	(84,'Seismic Seiches','seiche.jpg'),
+	(85,'Research','research.jpg');
 
 /*!40000 ALTER TABLE `learn_Topics` ENABLE KEYS */;
 UNLOCK TABLES;
