@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-05-25',
+  'title' => 'Updated USGS Earthquake Monitoring Strategy Released',
+  'content' => 'The Advanced National Seismic System (ANSS) will focus on improving the robustness of essential services and retaining capacity for future innovation, and developing capacities that will improve further earthquake safety and support response and recovery, nationwide.',
+  'link' => 'https://www.usgs.gov/news/updated-usgs-earthquake-monitoring-strategy-released',
+  'modified' => strtotime('2017-05-25'),
+  'thumbnail' => '/images-featured/anss-2017.jpg',
+  'image' => '/images-featured/anss-2017.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-05-01',
   'title' => 'Introduction to Paleoseismology',
   'content' => 'What is paleoseismology, and how are scientists using it? An introduction that non-scientists can understand.',
