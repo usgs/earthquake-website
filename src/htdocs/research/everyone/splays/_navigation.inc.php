@@ -1,7 +1,7 @@
 <?php
-  $section = "/research";
+$section = "/research/everyone";
 
-  echo "<a href='/research' class='up-one-level'>Research</a>",
+echo "<a href='/research/everyone/' class='up-one-level'>Science for Everyone</a>",
 
   "<section>",
 
