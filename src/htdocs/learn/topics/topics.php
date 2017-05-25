@@ -1,10 +1,10 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	12/05/2016
+      //	Contact: Lisa Wald
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Earthquake Topics';
       $NAVIGATION	= true;
+      $HEAD = '<link rel="stylesheet" href="styles.css"/>';
       include	'template.inc.php';
       }
 
@@ -33,9 +33,10 @@
 
           $pic = '';
           if (isset($row['pic'])) {
-            $pic = '<img class="right" src="/learn/images/topics/' . $row['pic'] . '" alt=""/>';
+            $pic = '<img class="topic-image" src="/learn/topics/images-topics/' . $row['pic'] . '" alt=""/>';
           }
           $TITLE = $pic . $TITLE . $topic;
+          echo "$pic";
           echo "<h2>$topic</h2>";
         }
 

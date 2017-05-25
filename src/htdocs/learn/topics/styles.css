@@ -8,3 +8,7 @@
   font-size: 1.25em;
   margin-left: 0.25em;
 }
+
+.topic-image {
+  float: right;
+}
