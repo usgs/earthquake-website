@@ -41,7 +41,6 @@
   <a href="#PDL">PDL</a>
   <a href="#PQLX">PQLX</a>
   <a href="#Prism">Prism</a>
-  <a href="#probab">Probabilistic Seismic Hazard Calculation Software</a>
   <a href="#SATSI">SATSI</a>
   <a href="#SeisRisk">SeisRisk III</a>
   <a href="#shake">ShakeCast</a>
@@ -1055,35 +1054,6 @@ also supports negative magnitudes, independent S models, and crustal models from
     <p>PRISM is open-source software used for automatically processing strong-motion records, and is intended to be used by individuals or strong-motion networks. The software package includes a review tool, which is an interactive graphical user interface (GUI) for visually inspecting, editing and processing. PRISM is coded in Java language, and does not dependent on closed-source or proprietary software.</p>
     <p>PRISM is easy to install and run as a stand-alone system on common operating systems such as Linux, Mac and Windows.</p>
     <p>PRISM was designed to be flexible and extensible in order to accommodate implementation of new processing techniques. Strong-motion processing steps in the automated workflow are clearly defined, and use a set of customizable parameters—specified in a configuration file—to generate COSMOS V1 (acceleration with mean removed), V2 (baseline-corrected and filtered acceleration, velocity and displacement), and V3 (response spectra, Fourier spectra and intensity measures) data products.</p>
-  </li>
-  <li>
-    <h2 id="probab">Probabilistic Seismic Hazard Calculation Software</h2>
-    <a href="/hazards/">
-      <img src="images/probseishaz.jpg" alt="Logo" width="120" height="77" />
-    </a>
-    <table>
-      <tr>
-        <th>Authors:</th>
-        <td><a href="mailto:mpeterson@usgs.gov">Mark Peterson</a> and others</td>
-      </tr>
-      <tr>
-        <th>Usage:</th>
-        <td>Programs used to construct the National Seismic Hazard Maps</td>
-      </tr>
-      <tr>
-        <th>Platform:</th>
-        <td>Unix, Fortran source codes, some C subroutines</td>
-      </tr>
-      <tr>
-        <th>Interface:</th>
-        <td>command line</td>
-      </tr>
-      <tr>
-        <th>Download:</th>
-        <td><a href="/hazards/" >See online documentation</a></td>
-      </tr>
-    </table>
-    <p>Computer codes used to construct the U.S. National Seismic Hazard Maps.</p>
   </li>
 
 <!-- commented out with permission of Paul Earle on 08/08/2012
