@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-05-30 22:35:38 +0000
+# Generation Time: 2017-05-31 15:03:49 +0000
 # ************************************************************
 
 
@@ -3096,7 +3096,7 @@ VALUES
 	(260,'Tsunami! ','University of Washington by the Department of Earth and Space Sciences','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2Findex.html','Site provides general information about tsunamis, their causes and history as well as what to do in case of a tsunami.'),
 	(275,'Modified Mercalli Intensity Scale, The','USGS','%2Flearn%2Ftopics%2Fmercalli.php','A description of the  Modified Mercalli Intensity Scale.'),
 	(263,'Hilo Tsunami Museum','Pacific Tsunami Museum','http%3A%2F%2Fwww.tsunami.org%2F','The goal of the Pacific Tsunami Museum is to promote public tsunami education for the people of Hawaii and the Pacific Region. The museum will also preserve the social and cultural history of Hawaii and promote economic development on the island of Hawaii as well as statewide. The museum will serve as a living memorial to those who lost their lives in past tsunami events. '),
-	(439,'Theory of the Earth, The New','Caltech','http%3A%2F%2Fauthors.library.caltech.edu%2F25038%2F','This is the only book on the whole landscape of deep Earth processes that ties together all the strands of the subdisciplines. \r\n This book is a complete update of Andersonâ€™s Theory of the Earth (1989).'),
+	(439,'Theory of the Earth, The New','Caltech','http%3A%2F%2Fauthors.library.caltech.edu%2F25038%2F','This is the only book on the whole landscape of deep Earth processes that ties together all the strands of the subdisciplines. \r\n This book is a complete update of Andersonâs Theory of the Earth (1989).'),
 	(267,'Seismic seiches from the March 1964 Alaska earthquake','Alaska Department of Natural Resources,  Division of Geological & Geophysical Surveys','http%3A%2F%2Fdggs.alaska.gov%2Fpubs%2Fpubs%3Freqtype%3Dcitation%26ID%3D3907%26quadID%3D155%26quadname%3DAlaska','Seismic Seiches from the March 1964 Alaska Earthquake'),
 	(268,'Seismic Seiches ','USGS','%2Flearn%2Ftopics%2Fseiche.php','Description and history of seismic seiches.'),
 	(280,'Transforming California: Landforms of the San Andreas Fault','Paleontological Research Institution','http%3A%2F%2Fwww.priweb.org%2Fed%2Fearthtrips%2Ftransforming_ca_home.htm','PowerPoint presentation of digital images (60.7 Mb) exploring the landforms found along the San Andreas Fault. Designed for classroom use with a complementing narrative for each slide. One of the many Earthtrip Virtual Field Trips to explore.'),
@@ -3131,12 +3131,12 @@ VALUES
 	(353,'San Andreas Fault at Wallace Creek','USGS','%2Fregional%2Fnca%2Fkap%2F','Interactive, 360 degree panorama of the San Andreas Fault. Aerial photos of the fault taken from a kite.'),
 	(356,'Putting Down Roots in Earthquake Country - NCA edition','USGS & many other organizations','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2005%2F15%2F','Earthquakes and preparedeness in northern California'),
 	(357,'Putting Down Roots in Earthquake Country - Utah edition','Utah Seismic Safety Commission','https%3A%2F%2Fussc.utah.gov%2Fpages%2Fview.php%3Fref%3D1%26search%3D%2521collection17%26offset%3D0%26order_by%3Drelevance%26sort%3DDESC%26archive%3D0%26k%3D%26','Earthquakes and prepardeness in Utah'),
-	(358,'Echando Raices en Tierra de Terremotos','USGS &amp; many other organizations','http%3A%2F%2Fwww.earthquakecountry.info%2Froots-es%2Fcover.html','Este manual provee informaciÃ³n sobre por quÃ© nos deben preocupar los terremotos en el Sur de California, quÃ© debemos hacer para estar seguros y reducir el daÃ±o, y tambiÃ©n quÃ© debemos saber de lo bÃ¡sico sobre terremotos.'),
-	(359,'7 Steps to an Earthquake Resilient Business (PDF)','USGS, SCEC & many other organizations','http%3A%2F%2Fwww.earthquakecountry.info%2Froots%2F7StepsBusiness2008.pdf','How to prepare your business for an earthquake'),
+	(358,'Echando Raices en Tierra de Terremotos','USGS &amp; many other organizations','http://www.earthquakecountry.org/roots-es/cover.html','Este manual provee informaciÃ³n sobre por quÃ© nos deben preocupar los terremotos en el Sur de California, quÃ© debemos hacer para estar seguros y reducir el daÃ±o, y tambiÃ©n quÃ© debemos saber de lo bÃ¡sico sobre terremotos.'),
+	(359,'7 Steps to an Earthquake Resilient Business (PDF)','USGS, SCEC & many other organizations','http://www.earthquakecountry.org/downloads/7_Steps_to_a_Disaster_Resilient_Workplace.pdf','How to prepare your business for an earthquake'),
 	(360,'Protecting Your Family from Earthquakes','USGS &amp; many other organizations','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2007%2F41%2F','in English, Spanish, Chinese, Vietnamese, and Korean'),
 	(361,'Living On Shaky Ground: How to Survive Earthquakes and Tsunamis in Northern California','Humboldt State Univ, Dept of Geology','http%3A%2F%2Fwww2.humboldt.edu%2Fshakyground%2F','A collection of preparedness guides for earthquakes and tsunamis especially for the Northern Coast of California'),
 	(362,'Living with Earthquakes in Nevada: A Nevadan\'s Guide','Univ. of Nevada Seismological Lab','http%3A%2F%2Fwww.seismo.unr.edu%2FPreparedness','This guide and many other preparedness-related information especially for Nevada.'),
-	(472,'Earthquakes in Oklahoma','The Office of the Oklahoma Secretary of Energy and Environment','http%3A%2F%2Fearthquakes.ok.gov%2Fearthquake-preparedness%2F','Research, regulations, updates and news items related to Oklahomaâ€™s recent earthquakes, and earthquake preparedness information'),
+	(472,'Earthquakes in Oklahoma','The Office of the Oklahoma Secretary of Energy and Environment','http%3A%2F%2Fearthquakes.ok.gov%2Fearthquake-preparedness%2F','Research, regulations, updates and news items related to Oklahomaâs recent earthquakes, and earthquake preparedness information'),
 	(473,'Faces of the Earth','AGI - American Geosciences Institute','https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLTBBygdCOWWeziXMugDA-Ej_kWggrBwjh','4 videos: Building the Planet, Shaping the Planet, Assembling America, A Human World'),
 	(367,'Earthquake Quartet #1','USGS','%2Flearn%2Fmusic%2F','USGS seismologist Andrew Michael explores both music and audio playbacks of the earth shaking and finds new ways to learn about the earth, earthquakes, musical instruments and music.'),
 	(368,'ABAG Earthquake Maps and Information ','Assoc. of Bay Area Govts. (ABAG)','http%3A%2F%2Fresilience.abag.ca.gov%2Fearthquakes%2F','Information and maps about liquefaction, faults, and landslides in the San Francisco Bay Area.'),
@@ -3145,7 +3145,7 @@ VALUES
 	(373,'CDC (Center for Disease Control) Emergency Preparedness &amp; Response','Center for Disease Control (CDC)','https://www.cdc.gov/disasters/earthquakes/','Earthquakes and other emergencies'),
 	(374,'Citizen Corps - Community Emergency Response Teams (CERT)','Citizen Corps','http%3A%2F%2Fwww.fema.gov%2Fcommunity-emergency-response-teams','Educates people about disaster preparedness for hazards that may impact their area and trains them in basic disaster response skills, such as fire safety, light search and rescue, team organization, and disaster medical operations. '),
 	(376,'Central U.S. Earthquake Consortium','Central U.S. Earthquake Consortium (CUSEC)','http%3A%2F%2Fwww.cusec.org%2F','Information about earthquakes in the central U.S.'),
-	(379,'Earthquake Country Alliance','Earthquake Country Alliance','http%3A%2F%2Fearthquakecountry.org%2F','Earthquake preparedness for California'),
+	(379,'Earthquake Country Alliance','Earthquake Country Alliance','http://www.earthquakecountry.org/','Earthquake preparedness for California'),
 	(381,'Are You Ready?','FEMA','http%3A%2F%2Fwww.ready.gov%2Fare-you-ready-guide','Includes resources and best practices'),
 	(382,'FEMA Earthquake Information','FEMA','http%3A%2F%2Fwww.fema.gov%2Fearthquake','Includes resources and best practices'),
 	(384,'How You Can Strengthen Your Home for the Next Big Earthquake in the Los Angeles Area','City of Los Angeles','http%3A%2F%2Fwww.cert-la.com%2FBAS-How-You-Can-Strengthen-Your-Home.pdf','Easy Low-Cost Ways to Help Reduce the Risk of Damage to Your Hom. (PDF)'),
@@ -3200,7 +3200,7 @@ VALUES
 	(482,'How Big and How Frequent Are Earthquakes on the Wasatch Fault?','USGS','/research/everyone/wasatch/','Paleoseismology along the Wasatch Fault in Utah is helping to estimate the shaking risk to nearby towns.'),
 	(483,'Seismology in the City','USGS','/research/everyone/seismology-in-the-city/','How seismologists can use noise to see under the ground.'),
 	(484,'The \"Snow Plow Theory\" of Early-Arriving Tsunamis','USGS','/research/everyone/splays/','What is a splay fault, and how can they affect tsunamis?'),
-	(485,'The M7.8 Nepal Earthquake, 2015 – A Small Push to Mt. Everest','USGS','/research/everyone/nepal2015/','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
+	(485,'The M7.8 Nepal Earthquake, 2015  A Small Push to Mt. Everest','USGS','/research/everyone/nepal2015/','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
 	(486,'Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012','USGS','/research/everyone/maine2012/','Old-fashioned interviews are compared to Did You Feel It? responses for this earthquake.'),
 	(487,'Paleoseismology, Introduction to','USGS','/learn/topics/paleo-intro/','What is paleoseismology? How does it work?'),
 	(488,'Earthquake Footage','American Geophysical Union','http://blogs.agu.org/tremblingearth/earthquake-footage/','Videos from webcams, security cameras, and newsreels during the shaking from various earthquakes.'),
@@ -5327,11 +5327,11 @@ VALUES
 	(448,4,10,'PAGER - Rapid Assessment of an Earthquake\'s Impact','https://pubs.er.usgs.gov/publication/fs20103036','(FS-2010-3036)'),
 	(449,2,6,'Bicentennial of the 1811-1812 New Madrid Earthquake Sequence December 2011-2012','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F118%2F','(GIP 118)'),
 	(450,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for Earthquakes in the Central United States','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F119%2F','(GIP 119)'),
-	(472,4,11,'Earthquake Outlook for the San Francisco Bay Region 2014â€“2043','https://pubs.er.usgs.gov/publication/fs20163020','(FS-2016-3020)'),
-	(452,2,6,'Putting Down Roots in Earthquake Country - €”Your Handbook for the San Francisco Bay Region','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2005%2F15%2F','(GIP 15)'),
+	(472,4,11,'Earthquake Outlook for the San Francisco Bay Region 2014â2043','https://pubs.er.usgs.gov/publication/fs20163020','(FS-2016-3020)'),
+	(452,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for the San Francisco Bay Region','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2005%2F15%2F','(GIP 15)'),
 	(471,4,11,'Earthquake Forecast for the Wasatch Front Region of the Intermountain West','https://pubs.er.usgs.gov/publication/fs20163019','(FS-2016-3019)'),
 	(473,8,10,'Tectonic Summaries of Magnitude 7 and Greater Earthquakes from 2000 to 2015','https://pubs.er.usgs.gov/publication/ofr20161192','(OFR-2016-1192)'),
-	(453,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for Southern California','http%3A%2F%2Fwww.earthquakecountry.info%2Froots%2F',''),
+	(453,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for Southern California','http://www.earthquakecountry.org/booklets/',''),
 	(455,4,10,'The Global Seismographic Network','https://pubs.er.usgs.gov/publication/fs20113021','(FS-2011-3021)'),
 	(456,1,3,'Earthquakes in South Carolina and Vicinity 1698-2009','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2010%2F1059%2F','(OFR-2010-1059)'),
 	(457,1,3,'Earthquakes in Mississippi and Vicinity 1811-2010','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2011%2F1117%2F','(OFR-2011-1117)'),
@@ -5343,8 +5343,8 @@ VALUES
 	(465,4,10,'Natural Hazards Science at the U.S. Geological Survey','https://pubs.er.usgs.gov/publication/fs20133082','(FS-2013-3082)'),
 	(466,4,11,'The 1964 Great Alaska Earthquake and tsunamis - A modern perspective and enduring legacies','https://pubs.er.usgs.gov/publication/fs20143018','(FS-2014-3018)'),
 	(467,2,6,'20 Cool Facts About the New Madrid Seismic Zone','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F134%2F',''),
-	(468,4,11,'ShakeAlert - An Earthquake Early Warning System for the United States West Coast','https://pubs.er.usgs.gov/publication/fs20143083','(FS-2014â€“3083)'),
-	(470,4,11,'UCERF3: A New Earthquake Forecast for Californiaâ€™s Complex Fault System','https://pubs.er.usgs.gov/publication/fs20153009','(FS-2015-3009)'),
+	(468,4,11,'ShakeAlert - An Earthquake Early Warning System for the United States West Coast','https://pubs.er.usgs.gov/publication/fs20143083','(FS-2014â3083)'),
+	(470,4,11,'UCERF3: A New Earthquake Forecast for Californiaâs Complex Fault System','https://pubs.er.usgs.gov/publication/fs20153009','(FS-2015-3009)'),
 	(475,4,10,'Helping safeguard Veterans Affairs\' hospital buildings by advanced earthquake monitoring','https://pubs.er.usgs.gov/publication/fs20123094','(FS-2012-3094)');
 
 /*!40000 ALTER TABLE `products` ENABLE KEYS */;

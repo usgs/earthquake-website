@@ -49,7 +49,7 @@
 
     <!-- Preparedness -->
       <li>
-        <a href="http://www.earthquakecountry.info/roots/">
+        <a href="http://www.earthquakecountry.org/booklets/">
           <h4>Preparedness</h4>
           <img src="images/pas-roots-2x.jpg" alt="Putting Down Roots handbook cover" width="150"/>
         </a>

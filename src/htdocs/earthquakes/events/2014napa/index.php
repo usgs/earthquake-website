@@ -136,7 +136,6 @@
   	  <li><a href= "/earthquakes/eventpage/nc72282711">Event page</a></li>
   	  <li><a href="/archive/product/poster/20140824/us/1480721358422/poster.pdf">Summary poster</a></li>
   	  <li><a href="http://www.fema.gov/media-library-data/1439242021425-3b4c44f900c8893449327f0e764ef849/FEMAP-1024RA2.pdf">Earthquake Strengthening of Cripple Walls in Wood-Frame Dwellings</a> - FEMA</li>
-  	  <li><a href="http://www.earthquakecountry.info/roots/step4.html">Putting Down Roots in Earthquake Country</a> – retrofitting cripple wall</li>
   	</ul>
   </div>
 </div>
