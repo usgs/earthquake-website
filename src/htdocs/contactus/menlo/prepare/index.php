@@ -23,7 +23,7 @@ if (!isset($TEMPLATE)) {
       <li><a href="http://pubs.usgs.gov/gip/2005/15/gip-15.pdf">Download (PDF, 5.9 MB)</a></li>
     </ul>
     <br>
-    <p><a href="http://earthquakecountry.info/roots/index.php"><em>Putting Down Roots in Earthquake Country</em></a>, Southern California Edition</p>
+    <p><a href="http://www.earthquakecountry.org/booklets/"><em>Putting Down Roots in Earthquake Country</em></a>, Southern California Edition</p>
   </li>
   <li>
     <figure class="left">
