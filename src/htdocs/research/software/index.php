@@ -1515,7 +1515,7 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
   <li>
     <h2 id="VISCO1D">VISCO1D</h2>
-    <a href="visco1d/">
+    <a href="ftp://hazards.cr.usgs.gov/web/software/VISCO1D-v3-manual.pdf">
       <img src="images/visco1d.jpg" width="144" alt="plot"/>
     </a>
     <table>

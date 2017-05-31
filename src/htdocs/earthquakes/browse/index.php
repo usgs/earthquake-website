@@ -36,7 +36,6 @@
 
       <h3>World</h3>
       <ul>
-        <!--<li><a href="10-largest-world.php">10 Largest</a></li>-->
         <li>
           <a href="largest-world.php">Top 20 Largest</a>
         </li>
