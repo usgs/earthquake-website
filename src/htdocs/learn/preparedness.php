@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	12/07/2016
+      //	Contact: Lisa Wald
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Prepare';
       $NAVIGATION	= true;
@@ -10,7 +9,7 @@
 ?>
 <ul class="no-style linklist">
 	<li>
-		<a href="http://www.earthquakecountry.info/roots/">
+		<a href="http://www.earthquakecountry.org/booklets/">
 			<h4>Putting Down Roots in Earthquake Country Handbooks</h4>
 			<img src="images/roots.jpg" alt="roots image"/>
 		</a>
@@ -26,7 +25,7 @@
 		<p>
 			What to do before, during, and after an earthquake
 			<ul>
-	      <li><a href="http://www.earthquakecountry.info/roots/seven_steps.html">Seven Steps to Earthquake Safety</a></li>
+	      <li><a href="http://www.earthquakecountry.org/sevensteps/">Seven Steps to Earthquake Safety</a></li>
 	      <li><a href="https://www.usgs.gov/faq/?q=taxonomy/term/9834">Preparedness FAQs</a></li>
        </ul>
 		</p>
