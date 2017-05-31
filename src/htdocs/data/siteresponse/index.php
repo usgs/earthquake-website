@@ -5,16 +5,6 @@ if (!isset($TEMPLATE)) {
   include 'template.inc.php';
 }
 ?>
-<script type="text/javascript">
-
-window.onload = function() {
-
-    // set up all anchor elements with a "movie" class to work with Shadowbox
-    Shadowbox.setup("area", {
-    });
-
-};
-</script>
 
 <p>Santa Rosa, California sustained unexpectedly high damage from the 1906 San Francisco earthquake (M7.8) and the 1969 Santa Rosa Earthquake sequence (M5.6 and M5.7). At the nearby city of Napa, ground motion was also unexpectedly high during the 2000 Yountville earthquake (M5.2).  This history of unexpectedly strong ground motion, in combination with high metropolitan populations in Santa Rosa (over 450,000) and Napa (over 100,000), and their close proximities to Holocene active faults such as the Rodgers-Healdsburg fault system, West Napa Fault, and Green Valley fault, make estimation of site response in these regions particularly important.</p>
 <p>It is well known that near surface geology can have large impacts on the amplification of seismic waves, and therefore on site response.  The determination of site response characteristics is thus an important component of estimating the seismic hazard for these cities as well as the entire San Francisco Bay area.  Knowledge of site response characteristics enables better spectral analysis of small and moderate-sized earthquakes as well as better models of wave propagation characteristics in the North Bay region.  This project utilizes an inversion scheme for source, site, and propagation characteristics to determine site response at seismic recording stations in the northern San Francisco Bay Area around Santa Rosa, Napa, and Sonoma.</p>
