@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: David Wald,wald@usgs.gov
-// Last modified: 01/27/2016
 
   if (!isset($TEMPLATE)) {
   $TITLE = 'DYFI Scientific Background';
@@ -26,7 +25,7 @@
   <li><a href="#refs">References</a></li>
 </ul>
 
-<p>For further information, see <a href="https://pubs.usgs.gov/fs/2005/3016/">Did You Feel It? Citizens Contribute to Earthquake Science</a>USGS Factsheet 2005-3016.</p>
+<p>For further information, see <a href="https://pubs.usgs.gov/fs/2005/3016/">Did You Feel It? Citizens Contribute to Earthquake Science</a> (USGS Factsheet 2005-3016).</p>
 <hr/>
 
 <a id="for"><h2>What Is DYFI For?</h2></a>
@@ -133,7 +132,7 @@ For every significant or felt earthquake on the USGS Earthquake Program web page
   It is important that you fill out a questionnaire, even if your community is already represented on the DYFI Map for the earthquake. The more questionnaires that are received for your area, the more reliable will be the intensity assigned to that ZIP code. <strong>Even if you did not feel the earthquake, your response is important</strong>: in areas of lighter shaking, the "not-felt" responses are needed to determine the percentage of felt responses as well as determine the boundary of “felt” and “not felt” areas.
 </p>
 <p>
-  <b>NOTE:</b> Earthquake effects may vary significantly over small distances and with different ground conditions, building construction, and other factors. Hence the actual effect of an earthquake for a particular person or building may be significantly different from the Community Decimal Intensity for that area. Further, the input data is raw and unchecked, and may contain <a href="https://www.usgs.gov/faq/categories/9836/3385">errors</a>. Finally, some details of the procedure for preparing the DYFI map may change as we gain experience with data collection from the Internet. Hence, the nature of the map may evolve with time. See the <a href="disclaimer.pdp">Disclaimer</a> for other considerations.
+  <b>NOTE:</b> Earthquake effects may vary significantly over small distances and with different ground conditions, building construction, and other factors. Hence the actual effect of an earthquake for a particular person or building may be significantly different from the Community Decimal Intensity for that area. Further, the input data is raw and unchecked, and may contain <a href="https://www.usgs.gov/faq/categories/9836/3385">errors</a>. Finally, some details of the procedure for preparing the DYFI map may change as we gain experience with data collection from the Internet. Hence, the nature of the map may evolve with time. See the <a href="disclaimer.php">Disclaimer</a> for other considerations.
 </p>
 
 <a id="ack"><h2>Acknowledgments</h2></a>

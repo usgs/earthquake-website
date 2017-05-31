@@ -98,7 +98,7 @@ if (!isset($TEMPLATE)) {
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
-        <a href="research.php">
+        <a href="response.php">
           <h4>Earthquake Response</h4>
           <img src="images/response.jpg" class='feeds-list-image'
               alt=" icon"  width="75"/>

@@ -73,7 +73,7 @@
         <li>Strong Motion Data:
         <ul>
           <li><a href="http://www.strongmotioncenter.org/">USGS-CGS Center for Engineering Strong Motion Data</a></li>
-          <li><a href="/monitoring/nsmp/data.php">USGS National Strong Motion Program (NSMP) Data</a></li>
+          <li><a href="/monitoring/nsmp/nsmpdata.php">USGS National Strong Motion Program (NSMP) Data</a></li>
         </ul>
         </li>
         <li>Weak Motion data from regional networks:
@@ -119,8 +119,7 @@
       </p>
       <ul>
         <li><a href="/monitoring/deformation/data/">Crustal Deformation Data</a> </li>
-        <li><a href="/monitoring/deformation/data/plots/">Crustal Deformation Data Plots</a></li>
--->
+        <li><a href="/monitoring/deformation/data/plots.php">Crustal Deformation Data Plots</a></li>
         <li><a href="http://www.ncedc.org/survey-gps/">Unprocessed USGS Campaign GPS data and Bay Area Continuous GPS data (raw and RINEX)</a> at NCEDC</li>
         <li><a href="http://garner.ucsd.edu/">Unprocessed USGS Southern California Continuous GPS data (raw and RINEX)</a> at SOPAC</li>
         <li><a href="/monitoring/gps/">USGS GPS Time Series and Station Velocities</a></li>
@@ -172,7 +171,6 @@
 
       <p>The data obtained from active source studies are archived at <a href="http://www.iris.edu/data/seismograms/">IRIS</a> and/or at the <a href="http://www.ngdc.noaa.gov/mgg/aboutmgg/aboutwdcmgg.html">National Geophysical Data Center</a>.  USGS also provides access to certain data sets.</p>
       <ul>
-        <li><a href="/research/cpt/">Cone Penetration Testing</a></li>
         <li><a href="/learn/photos.php">Photographs Showing Ground Failure and Earthquake Damage</a></li>
         <li>Landslide hazard maps:
         <ul>

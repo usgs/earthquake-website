@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:
-      //  Last  modified:  11/10/2016
+      //  Contact: Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'ANSS - Advanced National Seismic System <img src="images/ANSS_logo.gif" alt="logo"/>';
       $NAVIGATION  = true;
@@ -14,7 +13,7 @@
       As part of its monitoring activities, the ANSS includes a national
       Backbone network, the
       <a href="/contactus/golden/neic.php"> National Earthquake Information Center (NEIC)</a>
-      , the <a href="nsmp/">National Strong Motion Project</a>
+      , the <a href="/monitoring/nsmp/">National Strong Motion Project</a>
       , and 15 regional seismic networks operated by USGS and its partners.
       When earthquakes strike, ANSS delivers
       real-time information
