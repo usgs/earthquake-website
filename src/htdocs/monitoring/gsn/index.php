@@ -24,7 +24,7 @@
   Incorporated Research Institutions for Seismology (IRIS)</a>, the GSN
   provides near-uniform, worldwide monitoring of the Earth, with over 150
   modern seismic stations distributed globally. GSN stations are operated
-  by the USGS <a href="/regional/asl/">Albuquerque Seismological
+  by the USGS <a href="/contactus/albuquerque/">Albuquerque Seismological
   Laboratory</a>, the <a href="http://ida.ucsd.edu/">IDA group at UC San
   Diego</a>, and other affiliate organizations.
 </p>

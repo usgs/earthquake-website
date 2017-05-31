@@ -357,11 +357,10 @@ if (!isset($TEMPLATE)) {
   <li>
     <h5>Model of Future Earthquakes</h5>
     <p>
-      Using information about past
-      <a href="historical.php">historical earthquakes</a>,
-      <a href="faults.php">Quaternary faults</a> (prehistoric
+      Using information about past historical earthquakes,
+      <a href="/hazards/qfaults/">Quaternary faults</a> (prehistoric
       earthquakes), and present
-      <a href="deformation.php">crustal deformation</a> (geodetic data),
+      <a href="/learn/glossary/?term=deformation">crustal deformation</a> (<a href="/learn/glossary/?term=geodetic">geodetic data</a>),
       USGS analysts make a model of the potential for future earthquakes.
       This model includes <em>areal sources</em> and
       <em>fault sources</em>.
@@ -377,8 +376,8 @@ if (!isset($TEMPLATE)) {
       earthquake ground motion decreases as the distance to the earthquake
       increases. Because earthquake ground motion increases with
       magnitude, the attenuation relation also depends on magnitude.
-      <a href="strongmotion.php">Strong motion data</a> (recordings close
-      to the earthquake) and <a href="attenuation.php"
+      <a href="/learn/glossary/?term=strong%20motion">Strong motion data</a> (recordings close
+      to the earthquake) and <a href="/learn/glossary/?term=attenuation"
       >geophysical attenuation models</a>  are used to establish the
       attenuation relations.
     </p>
@@ -391,12 +390,12 @@ if (!isset($TEMPLATE)) {
       to the surface is called bed rock. The size of the ground motion
       experienced at the earth&rsquo;s surface is affected by the geology
       of the material between bed rock and the surface. Because the
-      <a href="waves.php">earthquake waves</a> move more slowly in this
+      <a href="/learn/glossary/?term=seismic%20wave">earthquake waves</a> move more slowly in this
       material than in rock, the size of the ground motion increases.
     </p>
     <p>
-      This material, often called alluvium or
-      &ldquo;<a href="soil.php">the soil column</a>,&rdquo;
+      This material, often called <a href="/learn/glossary/?term=alluvium">alluvium</a> or
+      &ldquo;<a href="/learn/glossary/?term=soil%20profile">the soil column</a>,&rdquo;
       increases the ground motion in such a way that &ldquo;softer&rdquo;
       soils, soils with less density, have lower seismic velocity, and
       hence experience larger increases in ground motion. It is necessary

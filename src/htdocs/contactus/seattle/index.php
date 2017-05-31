@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Joan Gomberg
-// Last modified: 08/14/2015
 	if (!isset($TEMPLATE)) {
 	$TITLE = 'Seattle Field Office, Seattle, WA';
 	$NAVIGATION = true;
@@ -84,7 +83,7 @@
 			</li>
 
 			<li>
-				<a href="/hazards/products/urban/seattle/">
+				<a href="/hazards/urban/#pacnw">
 					<h4>Seattle Hazard Maps</h4>
 					<img src="images/seattle-haz-2x.jpg" alt="Seattle hazard map" width="150"/>
 				</a>

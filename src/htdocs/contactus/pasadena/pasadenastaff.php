@@ -16,10 +16,6 @@
 	</thead>
 
 	<tbody>
-		<tr><a href= "mailto:" ></a>
-		  <td>Arnold Acosta</td>
-		  <td><a href= "mailto:acosta@usgs.gov" >acosta@usgs.gov</a></td>
-		</tr>
 		<tr>
 		  <td>Edna Anjal</td>
 		  <td><a href= "mailto:anjal@usgs.gov">anjal@usgs.gov</a></td>
@@ -29,16 +25,8 @@
 		  <td><a href= "mailto:aaspiotes@usgs.gov">aaspiotes@usgs.gov</td>
 		</tr>
 		<tr>
-		  <td>John Bwarie</td>
-		  <td><a href= "mailto:jbwarie@usgs.gov">jbwarie@usgs.gov</a></td>
-		</tr>
-		<tr>
 		  <td>Elizabeth Cochran</td>
 		  <td><a href= "mailto:ecochran@usgs.gov">ecochran@usgs.gov</a></td>
-		</tr>
-		<tr>
-		  <td>Bill Curtis</td>
-		  <td><a href= "mailto:bcurtis@gps.caltech.edu">bcurtis@gps.caltech.edu</a></td>
 		</tr>
 		<tr>
 		  <td>Jason De Cristofaro</td>
@@ -53,16 +41,8 @@
 		  <td><a href= "mailto:ddeterman@usgs.gov">ddeterman@usgs.gov</a></td>
 		</tr>
 		<tr>
-		  <td>Bob Dollar</td>
-		  <td><a href= "mailto:dollar@usgs.gov">dollar@usgs.gov</a></td>
-		</tr>
-		<tr>
 		  <td>Karen Felzer</td>
 		  <td><a href= "mailto:kfelzer@usgs.gov">kfelzer@usgs.gov</a></td>
-		</tr>
-		<tr>
-		  <td>Irving Flores</td>
-		  <td><a href= "mailto:iflores@usgs.gov">iflores@usgs.gov</a></td>
 		</tr>
 		<tr>
 		  <td>Doug Given</td>
@@ -73,10 +53,6 @@
 		  <td><a href= "mailto:rwgraves@usgs.gov">rwgraves@usgs.gov</a></td>
 		</tr>
 		<tr>
-		  <td>Karina Gutierrez</td>
-		  <td><a href= "mailto:kgutierrez@usgs.gov">kgutierrez@usgs.gov</a></td>
-		</tr>
-		<tr>
 		  <td>Susan Hough</td>
 		  <td><a href= "mailto:hough@usgs.gov">hough@usgs.gov</a></td>
 		</tr>
@@ -85,40 +61,16 @@
 		  <td><a href= "mailto:hudnut@usgs.gov">hudnut@usgs.gov</a></td>
 		</tr>
 		<tr>
-		  <td>Lucy Jones</td>
-		  <td><a href= "mailto:jones@usgs.gov">jones@usgs.gov</a></td>
-		</tr>
-		<tr>
 		  <td>Katherine Kendrick</td>
 		  <td><a href= "mailto:kendrick@usgs.gov">kendrick@usgs.gov</a></td>
-		</tr>
-		<tr>
-		  <td>Nancy King</td>
-		  <td><a href= "mailto:nking@usgs.gov">nking@usgs.gov</a></td>
-		</tr>
-		<tr>
-		  <td>Robert Leeper</td>
-		  <td><a href= "mailto:rleeper@usgs.gov">rleeper@usgs.gov</a></td>
-		</tr>
-		<tr>
-		  <td>Richard Lianggan</td>
-		  <td><a href= "mailto:rlianggan@usgs.gov">rlianggan@usgs.gov</a></td>
 		</tr>
 		<tr>
 		  <td>Scott Lydeen</td>
 		  <td><a href= "mailto:scotty@gps.caltech.edu">scotty@gps.caltech.edu</a></td>
 		</tr>
 		<tr>
-		  <td>Dawn McCarthy</td>
-		  <td><a href= "mailto:dmccarthy@usgs.gov">dmccarthy@usgs.gov</a></td>
-		</tr>
-		<tr>
 		  <td>Morgan Page</td>
 		  <td><a href= "mailto:mpage@usgs.gov">mpage@usgs.gov</a></td>
-		</tr>
-		<tr>
-		  <td>Richard Peats</td>
-		  <td><a href= "mailto:rpeats@usgs.gov">rpeats@usgs.gov</a></td>
 		</tr>
 		<tr>
 		  <td>Sue Perry</td>
@@ -133,20 +85,12 @@
 		  <td><a href= "mailto:stans@gps.caltech.edu">stans@gps.caltech.edu</a></td>
 		</tr>
 		<tr>
-		  <td>Danielle Sumy</td>
-		  <td><a href= "mailto:danielle.sumy@gmail.com">danielle.sumy@gmail.com</a></td>
-		</tr>
-		<tr>
 		  <td>Thurman Dave Sutton</td>
 		  <td><a href= "mailto:dsutton@gps.caltech.edu">dsutton@gps.caltech.edu</a></td>
 		</tr>
 		<tr>
 		  <td>Valerie Thomas</td>
 		  <td><a href= "mailto:vthomas@usgs.gov">vthomas@usgs.gov</a></td>
-		</tr>
-		<tr>
-		  <td>Allan Walter</td>
-		  <td><a href= "mailto:awwalter@usgs.gov">awwalter@usgs.gov</a></td>
 		</tr>
 		<tr>
 		  <td>Alan Yong</td>
