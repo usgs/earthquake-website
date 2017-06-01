@@ -43,7 +43,7 @@
         <li>Double Difference Relocation Catalogs:
         <ul>
           <li><a href="http://www.ldeo.columbia.edu/~felixw/NCAeqDD/">Double-difference Earthquake Catalog for Northern California (1984-2009)</a></li>
-          <li><a href="http://www.data.scec.org/research-tools/datasets.html">Southern California Earthquake Center (SCEC) Data Center Special Data Sets</a></li>
+          <li><a href="http://scecdc.caltech.edu/research-tools/datasets.html">Southern California Earthquake Center (SCEC) Data Center Special Data Sets</a></li>
         </ul>
         </li>
         <li><a href="centennial/">Centennial Earthquake Catalog</a></li>
@@ -65,11 +65,11 @@
           <ul>
             <li><a href="/monitoring/operations/heliplot.php?virtual_network=GSN">GSN Stations</a></li>
             <li><a href="/monitoring/operations/heliplot.php?virtual_network=ANSS">ANSS Backbone Stations</a></li>
-            <li><a href="/monitoring/netquakes/map/">Netquake Volunteer Stations</a></li>
-            <li><a href="/monitoring/spectrograms/">Spectrograms</a></li>
+            <li><a href="/monitoring/netquakes/viewdata">Netquake Volunteer Stations</a></li>
+            <li><a href="/monitoring/spectrograms/24hr">Spectrograms</a></li>
           </ul>
         </li>
-        <li><a href="http://www.iris.edu/data/seismograms/">Broadband Data - Incorporated Research Institutions for Seismology (IRIS)</a></li>
+        <li><a href="http://ds.iris.edu/ds/nodes/dmc/data/types/waveform-data/">Waveform Data - Incorporated Research Institutions for Seismology (IRIS)</a></li>
         <li>Strong Motion Data:
         <ul>
           <li><a href="http://www.strongmotioncenter.org/">USGS-CGS Center for Engineering Strong Motion Data</a></li>
@@ -78,11 +78,10 @@
         </li>
         <li>Weak Motion data from regional networks:
         <ul>
-          <li><a href="http://www.data.scec.org/">Southern California Earthquake Data Center (SCECDC)</a></li>
+          <li><a href="http://scedc.caltech.edu/">Southern California Earthquake Data Center (SCECDC)</a></li>
           <li><a href="http://www.ncedc.org/">Northern California Earthquake Data Center (NCECDC) </a></li>
         </ul>
         </li>
-        <li><a href="http://www.iris.edu/data/seismograms/">Aftershock Deployments</a></li>
         <li><a href="https://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">General Earthquake Observation System (GEOS)</a></li>
       </ul>
     </div>
@@ -96,7 +95,7 @@
       <ul>
         <li><a href="http://www.isc.ac.uk/registries/">International Registry of Stations</a></li>
         <li><a href="/monitoring/operations/network.php">GSN &amp; ANSS Station Info and Network Status</a></li>
-        <li><a href="/regional/asl/data/">Albuquerque Seismo Lab Station Data</a>:
+        <li><a href="/monitoring/gsn/data.php">Albuquerque Seismo Lab Station Data</a>:
         <ul>
           <li>Instrument Response</li>
           <li>Travel-time Dataset</li>
@@ -131,11 +130,7 @@
         </li>
         <li>USGS once used Electronic Distance Measurement (EDM) with two different instruments:
         <ul>
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
           <li><a href="/monitoring/deformation/geodolite/">Geodolite (1970 to 1992)</a></li>
--->
           <li><a href="/monitoring/edm/ ">Two Color EDM (1984 to 2005)</a></li>
         </ul>
         </li>
@@ -152,14 +147,14 @@
         <li><a href="crust/database.php">Global Crustal Database</a></li>
         <li><a href="vs30/">Vs30 Data</a></li>
         <li><a href="https://www.sciencebase.gov/catalog/item/57c8269fe4b0f2f0cec02347?community=Geologic+Hazards+Science+Center">USGS Vibroseis Seismic Reflection Data</a></li>
-        <li><a href="http://walrus.wr.usgs.gov/infobank/">USGS Marine Seismic Reflection Data</a></li>
+        <li><a href="https://cmgds.marine.usgs.gov/">USGS Marine Seismic Reflection Data</a></li>
         <li>Maps of Quaternary Deposits:
         <ul>
-          <li><a href="/research/external/reports/05HQGR0151.pdf">Maps of Quaternary Deposits and Liquefaction Susceptibility in the Central San Francisco Bay Region, California</a></li>
-          <li><a href="/research/external/reports/06HQAG0125.pdf">The Quaternary Geology of the Seattle-Tacoma Urban Corridor - Building the Foundation for Geologic-Hazard Mapping</a></li>
+          <li><a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/05HQGR0151.pdf">Maps of Quaternary Deposits and Liquefaction Susceptibility in the Central San Francisco Bay Region, California</a> (PDF)</li>
+          <li><a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/06HQAG0125.pdf">The Quaternary Geology of the Seattle-Tacoma Urban Corridor - Building the Foundation for Geologic-Hazard Mapping</a> (PDF)</li>
         </ul>
         </li>
-        <li><a href="http://geomaps.wr.usgs.gov/sfgeo/quaternary/">San Francisco Bay Region Geology and Fault Maps</a></li>
+        <li><a href="https://geomaps.wr.usgs.gov/sfgeo/quaternary/">San Francisco Bay Region Geology and Fault Maps</a></li>
       </ul>
     </div>
 
@@ -169,7 +164,7 @@
       </figure>
       <h3 id="site">Ground Motion and Site Conditions</h3>
 
-      <p>The data obtained from active source studies are archived at <a href="http://www.iris.edu/data/seismograms/">IRIS</a> and/or at the <a href="http://www.ngdc.noaa.gov/mgg/aboutmgg/aboutwdcmgg.html">National Geophysical Data Center</a>.  USGS also provides access to certain data sets.</p>
+      <p>The data obtained from active source studies are archived at <a href="http://ds.iris.edu/ds/nodes/dmc/data/types/waveform-data/">IRIS</a> and/or at the <a href="https://www.ngdc.noaa.gov/">National Geophysical Data Center</a>.  USGS also provides access to certain data sets.</p>
       <ul>
         <li><a href="/learn/photos.php">Photographs Showing Ground Failure and Earthquake Damage</a></li>
         <li>Landslide hazard maps:
@@ -210,11 +205,11 @@
           <li><a href="http://pugetsoundlidar.ess.washington.edu/lidardata/">Puget Sound Lidar Consortium</a></li>
         </ul>
         </li>
-        <li><a href="http://geomaps.wr.usgs.gov/sfgeo/geologic/">San Francisco Bay Region Geology and Geological Hazards</a> (maps)</li>
+        <li><a href="https://geomaps.wr.usgs.gov/sfgeo/geologic/">San Francisco Bay Region Geology and Geological Hazards</a> (maps)</li>
         <li>Quaternary Fault Maps (publications):
         <ul>
         <li><a href="https://pubs.usgs.gov/ds/2006/177/">Digital database of recently active traces of the Hayward Fault, California</a></li>
-        <li><a href="http://pubs.er.usgs.gov/publication/ds541">Recently active traces of the Bartlett Springs Fault, California: a digital database</a></li>
+        <li><a href="https://pubs.er.usgs.gov/publication/ds541">Recently active traces of the Bartlett Springs Fault, California: a digital database</a></li>
         </ul>
         </li>
         <li><a href="/hazards/qfaults/">National Quaternary Fault &amp; Fold Database and Maps</a></li>
@@ -224,7 +219,7 @@
 
       <ul>
         <li><a href="slab/">Slab Models for Subduction Zones</a></li>
-        <li><a href="http://www.data.scec.org/research-tools/3d-velocity.html">SCEC Community Velocity Model</a></li>
+        <li><a href="http://scedc.caltech.edu/research-tools/3d-velocity.html">SCEC Community Velocity Model</a></li>
         <li><a href="/data/cus_seisvelmodel/">Central US Seismic Velocity Model and M7.7 Simulation</a></li>
         <li><a href="3dgeologic/">3D Geologic and Seismic Velocity Models of the San Francisco Bay Region</a></li>
       </ul>
@@ -249,12 +244,12 @@
       </p>
       <ul>
         <li>ANSS Regional Networks</li>
-        <li><a href="http://www.iris.edu/data/seismograms/">IRIS-Incorporated Research Institutions for Seismology</a></li>
+        <li><a href="http://ds.iris.edu/ds/nodes/dmc/data/types/waveform-data/">IRIS-Incorporated Research Institutions for Seismology</a></li>
         <li><a href="https://www.ngdc.noaa.gov/hazard/earthqk.shtml">NOAA Earthquake Data and Information</a></li>
         <li><a href="http://www.isc.ac.uk/">ISC-International Seismological Centre</a></li>
         <li><a href="http://www.unavco.org/">UNAVCO</a></li>
-        <li><a href="http://www.consrv.ca.gov/cgs/">CGS-California Geological Survey</a></li>
-        <li><a href="http://www.globalquakemodel.org/">GEM-Global Earthquake Model</a></li>
+        <li><a href="http://www.conservation.ca.gov/cgs/">CGS-California Geological Survey</a></li>
+        <li><a href="https://www.globalquakemodel.org/">GEM-Global Earthquake Model</a></li>
         <li><a href="http://www.emdat.be/">EM-DAT: The International Disaster Database</a></li>
         <li><a href="http://equake-rc.info/SRCMOD/">Finite-Source Rupture Model Database</a> - eQuake-RC</li>
       </ul>
