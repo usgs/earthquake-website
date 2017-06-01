@@ -14,7 +14,7 @@
       <li>
         <a href="/learn/topics/safz-paleo/">
           <img class="everyone-img" src="images/trench-xsect.gif" alt="cross-section with layers and a fault outlined"/>
-          <h4>Back the the Future on the San Andreas Fault</h4>
+          <h4>Back to the Future on the San Andreas Fault</h4>
         </a>
         <p>What does the science say? Where does the information come from? And what does it mean? Investigating past earthquakes to inform the future.</p>
       </li>

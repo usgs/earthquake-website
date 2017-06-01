@@ -79,7 +79,7 @@ if (!isset($TEMPLATE)) {
   <div class = "column two-of-five">
     <div class="alert" style="margin-bottom:16px">
 
-      <h3>Science for Everyone</h3>
+      <h2>Science for Everyone</h2>
 
       <p>View all <a href="everyone/">Science for Everyone</a> articles.</p>
 
