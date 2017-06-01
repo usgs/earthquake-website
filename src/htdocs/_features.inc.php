@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-06-01',
+  'title' => 'Back to the Future on the San Andreas Fault',
+  'content' => 'Maybe you’ve heard that the “Big One is overdue” on the San Andreas Fault. No one can predict earthquakes, so what does the science really say? Where does the information come from? And what does it mean? Investigating past earthquakes to inform the future.',
+  'link' => 'https://earthquake.usgs.gov/learn/topics/safz-paleo/',
+  'modified' => strtotime('2017-06-01'),
+  'thumbnail' => '/images-featured/trench-xsect.gif',
+  'image' => '/images-featured/trench-xsect.gif'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-05-25',
   'title' => 'Updated USGS Earthquake Monitoring Strategy Released',
   'content' => 'The Advanced National Seismic System (ANSS) will focus on improving the robustness of essential services and retaining capacity for future innovation, and developing capacities that will improve further earthquake safety and support response and recovery, nationwide.',
