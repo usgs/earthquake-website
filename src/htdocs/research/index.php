@@ -83,14 +83,14 @@ if (!isset($TEMPLATE)) {
 
       <p>View all <a href="everyone/">Science for Everyone</a> articles.</p>
 
-      <a href="/learn/topics/paleo-intro">
-        <h3>Introduction to Paleoseismology: The Past Informs the Future</h3>
-        <img src="images/intro-paleo.gif" width="384"/>
+      <a href="/learn/topics/safz-paleo/">
+        <h3>Back the the Future on the San Andreas Fault</h3>
+        <img src="/images-featured/trench-xsect.gif"  width="384" alt="cross-section with layers and a fault outlined"/>
       </a>
 
-      <a href="everyone/maine2012/">
-        <h3>Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012</h3>
-        <img src="everyone/maine2012/images/seis.gif" width="384"/>
+      <a href="/learn/topics/paleo-intro">
+        <h3>Introduction to Paleoseismology: The Past Informs the Future</h3>
+        <img src="images/intro-paleo.gif" width="384" alt="cartoon of cross-section with layers and fault"/>
       </a>
 
     </div>
