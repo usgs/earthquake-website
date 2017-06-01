@@ -11,10 +11,10 @@ if (!isset($TEMPLATE)) {
 <ul class="no-style">
   <li>
     <figure class="left">
-    <img src="images/pdr-med.jpg" alt="Handbook For SF Region" />
-  </figure>
-  <h3>Putting Down Roots in Earthquake Country</h3>
-  <h5 style="color:#933">Your Handbook for the San Francisco Bay Region</h5>
+      <img src="images/pdr-med.jpg" alt="Handbook For SF Region" />
+    </figure>
+    <h3>Putting Down Roots in Earthquake Country</h3>
+    <h5 style="color:#933">Your Handbook for the San Francisco Bay Region</h5>
     <p>This handbook provides information about the threat posed by earthquakes in the San Francisco Bay region and explains how you can prepare for,
       survive, and recover from these inevitable events. If you live or work in the region, you need to know why you should be concerned with earthquakes,
       what you can expect during and after a quake, and what you need to do beforehand to be safe and reduce damage.</p>
