@@ -57,6 +57,10 @@
 	<a href="https://pubs.usgs.gov/fs/2014/3083/">ShakeAlert—An Earthquake Early Warning System for the United States West Coast</a>
 	</li>
 
+  <li>
+    <a href="http://www.shakealert.org/">ShakeAlert wbsite</a>
+  </li>
+
   <li>Video - ShakeAlert&mdash;Earthquake Early Warning. How Does It Work?<br/>
   <a href="https://youtu.be/WWl3m4OyU44">English</a> | <a href="https://youtu.be/i1t_u6pz9ik">Spanish</a>
   </li>

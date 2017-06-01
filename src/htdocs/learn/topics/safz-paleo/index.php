@@ -2,12 +2,14 @@
 // Author: Lisa Wald
 // Contact: Kate Scharer
   if (!isset($TEMPLATE)) {
-    $TITLE = 'Investigating Past Earthquakes on the San Andreas Fault to Inform the Future';
+    $TITLE = 'Back to the Future on the San Andreas Fault';
     $NAVIGATION = true;
     $HEAD = '<link rel="stylesheet" href="styles.css"/>';
     include 'template.inc.php';
   }
 ?>
+
+<h2><i>Investigating Past Earthquakes to Inform the Future</i></h2>
 
 <figure class='trench right'>
   <img src='images/trench-xsect.gif' alt='trench cross-section'/>
@@ -80,7 +82,7 @@
 </figure>
 
 <p>
-  The <strong>Hayward fault</strong> in the San Francisco Bay area runs through a densely-populated area, so it has been studied quite a bit.  The most recent major earthquake on this fault was approximately M6.9 and occurred in 1868.  The fault has been creeping about 4.6mm/yr for the last several decades, but that is only half of the long-term slip rate, so stress is building up on this fault.  A paleoseismology study in 2007 at <strong>Tyson’s Lagoon</strong> (now a BART station) found evidence for 12 paleoearthquakes (including the historical 1868 earthquake) with an average time between earthquakes of about 160 years. The average time interval between the 5 most recent earthquakes is a little shorter, about 140 years. The study concluded that there is 33% likelihood of a surface-rupturing earthquake within the next 30 years. (See <a href="https://pubs.usgs.gov/fs/2016/3020/fs20163020.pdf">Earthquake Outlook for the San Francisco Bay Region 2014&mdash;2043</a>).
+  The <strong>Hayward fault</strong> in the San Francisco Bay area runs through a densely-populated area, so it has been studied quite a bit.  The most recent major earthquake on this fault was approximately M6.9 and occurred in 1868.  The fault has been creeping about 4.6 mm/yr (0.2 inches/yr) for the last several decades, but that is only half of the long-term slip rate, so stress is building up on this fault.  A paleoseismic study in 2007 at <strong>Tyson’s Lagoon</strong> (now a BART station) found evidence for 12 paleoearthquakes (including the historical 1868 earthquake) with an average time between earthquakes of about 160 years. The average time interval between the 5 most recent earthquakes is a little shorter, about 140 years. The study concluded that there is 33% likelihood of a surface-rupturing earthquake within the next 30 years. (See <a href="https://pubs.usgs.gov/fs/2016/3020/fs20163020.pdf">Earthquake Outlook for the San Francisco Bay Region 2014&mdash;2043</a>).
 </p>
 <p>
   The <strong>Maacama fault</strong> is the northward continuation of the Hayward-Rodgers Creek fault system in northern California. In 2014, a paleoseismology site at <strong>Hael Creek</strong> on the Maacama fault reiterated the results found on the Hayward fault to the south – creeping with infrequent large earthquakes, and a large one expected in the not-too-distant future.
@@ -110,6 +112,9 @@
 <p>
   -written by Lisa Wald, Kate Scharer, and Carol Prentice, U.S. Geological Survey
 </p>
+<p><i>
+  ...and thank-you to the Facebook poster who gave us the idea for the title!
+</i></p>
 
 <h2>Additional Resources</h2>
 <ul>

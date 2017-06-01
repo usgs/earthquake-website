@@ -24,4 +24,4 @@ With this memo, the USGS requests that the earthquake hazard community bring to 
 Please bring the new earthquake source and ground motion data or models to our attention by emailing <a href="mailto:mpetersen@usgs.gov?cc=nluco@usgs.gov&&subject=NSHM Contributions">Mark Petersen with cc to Nicolas Luco</a>. Mark Petersen will reply to confirm receipt and request additional information.
 </p>
 
-<p><a href="about/workshops/">Workshops</a> will be posted as information is available.</p>
+<p><a href="workshops/">Workshops</a> will be posted as information is available.</p>

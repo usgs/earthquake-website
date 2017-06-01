@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Rob Graves
-// Last modified: 08/14/2015
   if (!isset($TEMPLATE)) {
   $TITLE = 'Pasadena Office, Pasadena,CA';
   $NAVIGATION = true;
@@ -49,7 +48,7 @@
 
     <!-- Preparedness -->
       <li>
-        <a href="http://www.earthquakecountry.info/roots/">
+        <a href="http://www.earthquakecountry.org/booklets/">
           <h4>Preparedness</h4>
           <img src="images/pas-roots-2x.jpg" alt="Putting Down Roots handbook cover" width="150"/>
         </a>
@@ -115,7 +114,7 @@
     <!-- Earthquake Ground Motion -->
 
       <li>
-        <a href="/research/groundmotion/">
+        <a href="/research/eqproc/grdmotion.php">
           <h4>Earthquake Ground Motion</h4>
           <img src="images/pas-northridgesm-2x.jpg" alt="Northridge ShakeMap" width="150"/>
         </a>
@@ -151,7 +150,7 @@
       <li><a href="http://www.scsn.org/">Southern California Seismic Network (SCSN)</a></li>
       <li><a href="http://www.cisn.org/">California Integrated Seismic Network (CISN)</a></li>
       <li><a href="http://www.seismolab.caltech.edu/">Caltech Seismo Lab</a></li>
-  <li><a href="/research/salton/">Salton Seismic Imaging Project</a></li>
+  <li><a href="/research/faults/salton.php">Salton Seismic Imaging Project</a></li>
       <li><a href="http://shakemovie.caltech.edu/">ShakeMovie</a> - Caltech's near real-time simulation of Southern California seismic events.</li>
       <li><a href="http://seismo.berkeley.edu/">Berkeley Seismological Laboratory</a></li>
       <li><a href="http://eqinfo.ucsd.edu/">Anza Seismic Data Collection Center, UCSD</a></li>

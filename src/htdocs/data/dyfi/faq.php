@@ -20,7 +20,7 @@
   <li><a href='#print'>Do you have a printable version of the DYFI report form for those without access to the internet?</a></li>
   <li><a href='#nozip'>How do you calculate Global DYFI in countries where there are no Zip Codes?</a></li>
   <li><a href='#geo'>What is the geocoding in DYFI, and how is it used?</a></li>
-  <li><a href='nofeel'>The earthquake was in my area, but I didn't feel it. Should I still fill out the DYFI form?</a></li>
+  <li><a href='#nofeel'>The earthquake was in my area, but I didn't feel it. Should I still fill out the DYFI form?</a></li>
   <li><a href='#can'>Why don't you use Canadian Zip codes in DYFI?</a></li>
 </ul>
 

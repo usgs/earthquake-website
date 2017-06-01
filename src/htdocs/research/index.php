@@ -1,12 +1,9 @@
 <?php
 // Author: Lisa Wald
 // Contact: Lisa Wald, lisa@usgs.gov
-// Last modified: 07/08/2016
 if (!isset($TEMPLATE)) {
   $TITLE = 'Research';
-  $HEAD = '
-    <link rel="stylesheet" href="styles.css"/>
-  ';
+  $HEAD = '<link rel="stylesheet" href="styles.css"/>';
   include 'template.inc.php';
 }
 ?>
@@ -82,17 +79,19 @@ if (!isset($TEMPLATE)) {
   <div class = "column two-of-five">
     <div class="alert" style="margin-bottom:16px">
 
-      <h3>Science for the General Public</h3>
-      <a href="maine2012/">
-        <h3>Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012</h3>
-        <img src="images/feat-seis.gif" width="384"/>
+      <h2>Science for Everyone</h2>
+
+      <p>View all <a href="everyone/">Science for Everyone</a> articles.</p>
+
+      <a href="/learn/topics/safz-paleo/">
+        <h3>Back the the Future on the San Andreas Fault</h3>
+        <img src="/images-featured/trench-xsect.gif"  width="384" alt="cross-section with layers and a fault outlined"/>
       </a>
-      <ul class='no-style separator articles'>
-        <li><a href="nepal2015/">The M7.8 Nepal Earthquake, 2015 – A Small Push to Mt. Everest</a></li>
-        <li><a href="/earthquakes/events/2014napa/">M6 South Napa, California Earthquake – August 24, 2014: What We Know After One Year</a></li>
-        <li><a href="splays/">The "Snow Plow Theory"* of Early-Arriving Tsunamis</a></li>
-        <li><a href="/earthquakes/events/2011virginia/overview.php">Scientific Overview of the M5.8 Earthquake in Central Virginia on August 23, 2011</a></li>
-      </ul>
+
+      <a href="/learn/topics/paleo-intro">
+        <h3>Introduction to Paleoseismology: The Past Informs the Future</h3>
+        <img src="images/intro-paleo.gif" width="384" alt="cartoon of cross-section with layers and fault"/>
+      </a>
 
     </div>
 
