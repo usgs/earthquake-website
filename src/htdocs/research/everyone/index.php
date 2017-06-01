@@ -12,6 +12,14 @@
     <ul class="no-style linklist everyone">
 
       <li>
+        <a href="/learn/topics/safz-paleo/">
+          <img class="everyone-img" src="images/trench-xsect.gif" alt="cross-section with layers and a fault outlined"/>
+          <h4>Back the the Future on the San Andreas Fault</h4>
+        </a>
+        <p>What does the science say? Where does the information come from? And what does it mean? Investigating past earthquakes to inform the future.</p>
+      </li>
+
+      <li>
         <a href="/learn/topics/paleo-intro/">
           <img class="everyone-img" src="../images/intro-paleo.gif" alt="cartoon of cross-section showing layers with a fault"/>
           <h4>Introduction to Paleoseismology: The Past Informs the Future</h4>
