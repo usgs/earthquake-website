@@ -2,7 +2,7 @@
 // Author: Lisa Wald
 // Contact: Kate Scharer
   if (!isset($TEMPLATE)) {
-    $TITLE = 'Back the the Future on the San Andreas Fault';
+    $TITLE = 'Back to the Future on the San Andreas Fault';
     $NAVIGATION = true;
     $HEAD = '<link rel="stylesheet" href="styles.css"/>';
     include 'template.inc.php';
