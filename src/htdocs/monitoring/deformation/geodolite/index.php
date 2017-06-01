@@ -15,9 +15,8 @@ Savage, J.C., and W.H. Prescott, Precision of Geodolite distance measurements
 for determining fault movements, Journal of Geophysical Research, 78, 6001-6008, 1973.</p>
 
 <h2>Geodolite Positions</h2>
-<ul>
-<p><a href="/monitoring/deformation/geodolite/statab.lis"><button class="green">Download<span>(189 kB)</span><button></a></p>
-
+<div>
+  <p><a href="/monitoring/deformation/geodolite/statab.lis"><button class="green">Download<span>(189 kB)</span></button></a></p>
   <strong>Sample</strong>
       <pre>anza  arling     a 33 52 16.842  -117 28 14.350     d  564.00   aa 'arling 1974' NCER
 anza  arling80   n 33 52 17.000  -117 28 14.000     n  564.00   aa 'arling l980' USGS
@@ -25,12 +24,11 @@ anza  asbesrm1   n 33 37 39.000  -116 27 29.000     n 1600.20   hh 'asbestos no 
 anza  asbestos   a 33 37 39.304  -116 27 29.872     a 1604.80   bb 'asbestos l939' USCGS
 anza  bachelor   a 33 36 19.504  -117 03 41.192     a  780.00   bb 'bachelor 1939' USCGS</pre>
 
-</ul>
+</div>
 
 <h2>Geodolite Line Lengths</h2>
-<ul>
-  <p><a href="/monitoring/deformation/geodolite/master.dat"><button class="green">Download <span>(5.7 MB)</span><button></a></p>
-
+<div>
+  <p><a href="/monitoring/deformation/geodolite/master.dat"><button class="green">Download <span>(5.7 MB)</span></button></a></p>
   <strong>Sample</strong>
   <div class="horizontal-scrolling" style="width:820px;">
     <pre>anza  asbestos laquinta 871211 1434  58.1  16061.7423 + 16012.7427  0.0002 red    16053.466 0.471 251.098 290.68  904.22  7.55 +          383.40 0.477 1.756 7600 7601  kc g sn104   1604.80 -.048 1.485            h    ef    2  352 545 545  85 2
@@ -40,11 +38,11 @@ anza  asbestos lookout  811112 1200 232.4  13488.1455 + 13484.2831              
 anza  bachelor elsinore 74 212      269.3  26086.1850 + 26080.5419                26085.665 0.471 259.029 284.20  909.95  5.76 +         1090.00 1.480 1.270            ziag sn104    780.00 0.000 1.716            os         2       71  64 105 2  26086.1880
 anza  bachelor elsinore 75 5 2      269.3  26086.1997 + 26080.5565                26085.493 0.489 250.975 292.92  909.41  9.65 +         1090.00 1.476 1.357            cb/g sn104    780.00 0.000 1.410            m          2       72  14 100 2  26086.2014</pre></div>
 
-</ul>
+</div>
 
 <h3>Position Column Descriptions</h3>
 
-<table class="tabular">
+<table>
   <tr>
     <th>Columns</th>
     <th>Contents</th>
@@ -105,7 +103,7 @@ anza  bachelor elsinore 75 5 2      269.3  26086.1997 + 26080.5565              
 
 <h3>Line Lengths Column Descriptions</h3>
 
-<table class="tabular">
+<table>
   <tr>
     <th>Columns</th>
     <th>Contents</th>
