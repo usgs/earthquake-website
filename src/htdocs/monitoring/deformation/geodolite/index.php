@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Geodolite Trilateration Data Set';
-  $HEAD = '<link rel=”stylesheet” href=”style.css”/>';
+  $HEAD = '<link rel="stylesheet" href="style.css"/>';
   $FOOT = '';
   $NAVIGATION = true;
 
