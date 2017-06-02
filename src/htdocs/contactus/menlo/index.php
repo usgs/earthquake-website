@@ -55,15 +55,13 @@
 
     <ul class="linklist">
 
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
       <li>
-        <a href="/regional/nca/prepare/">
+        <a href="prepare/">
           <h4>Preparedness</h4>
           <img src="images/pdr-2x.jpg" alt="preparedness handbook cover" width="150" />
         </a>
         <p>USGS handbooks that describe the threat posed by earthquakes in the San Francisco Bay region and explain how you can prepare for, survive, and recover from these inevitable events.</p>
       </li>
--->
       <li>
         <a href="seminars/">
           <h4>USGS Earthquake Seminar Series</h4>
