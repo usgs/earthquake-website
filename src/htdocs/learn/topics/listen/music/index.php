@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact: Andrew Michael
-      //	Last	modified:	11/3/2016
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Earthquake Quartet #1';
       $NAVIGATION	= true;
@@ -112,12 +111,7 @@
     <a href="https://earthquake.usgs.gov/learn/listen/">Listen to Earthquakes</a>: Learn about seismology by listening to seismograms
   </li>
   <li>
-    PIEQF Installation <a href="http://pieqf.allshookup.org/">web site</a>
-
-    <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
-     and <a href="https://earthquake.usgs.gov/research/parkfield/shake/">Parkfield research</a>.
--->
-
+    <a href="http://pieqf.allshookup.org/">PIEQF Installation</a>
+     and <a href="/research/parkfield/shake/">Parkfield research</a>
   </li>
 </ul>
