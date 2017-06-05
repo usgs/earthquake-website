@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-05-31 15:03:49 +0000
+# Generation Time: 2017-06-05 19:43:32 +0000
 # ************************************************************
 
 
@@ -854,7 +854,7 @@ VALUES
 	(126,'normal fault','See <a href=\"/learn/glossary/?term=dip%20slip\">dip slip</a>.','','','',''),
 	(127,'oceanic spreading ridge','An oceanic spreading ridge is the fracture zone along the ocean bottom where molten mantle material comes to the surface, thus creating new crust. This fracture can be seen beneath the ocean as a line of ridges that form as molten rock reaches the ocean bottom and solidifies.','oceanic_spreading.gif','(Image from \"This Dynamic Earth: The Story of Plate Tectonics\")',NULL,''),
 	(128,'oceanic trench','An oceanic trench is a linear depression of the sea floor caused by the subduction of one plate under another.\r\n','oceanic_spreading.gif','(Image from \"This Dynamic Earth: The Story of Plate Tectonics\")',NULL,''),
-	(129,'P wave','A P wave, or <strong>compressional wave</strong>, is a seismic body wave that shakes the ground back and forth in the same direction and the opposite direction as the direction the wave is moving.','PSWAVES.JPG','','',''),
+	(129,'P wave','A P wave, or <strong>compressional wave</strong>, is a seismic body wave that shakes the ground back and forth in the same direction and the opposite direction as the direction the wave is moving.','p_image.gif','','P&S-waves_image.gif',''),
 	(130,'paleoseismicity','Paleoseismicity refers to earthquakes recorded geologically, most of them unknown from human descriptions or seismograms. Geologic records of past earthquakes can include faulted layers of sediment and rock, injections of liquefied sand, landslides, abruptly raised or lowered shorelines, and tsunami deposits.','paleoseismic.jpg','USGS and university geologists study the walls of a trench across a recently discovered strand of the Seattle fault.',NULL,''),
 	(131,'peak acceleration','See <a href=\"/learn/glossary/?term=acceleration\">acceleration</a>.','','','',''),
 	(132,'pedogenic','Pedogenic means pertaining to processes that add, transfer, transform, or remove soil constituents.','pedogenic.jpg','',NULL,''),
@@ -878,7 +878,7 @@ VALUES
 	(150,'Ring of Fire','The \"Ring of Fire\", also called the Circum-Pacific belt, is the zone of earthquakes surrounding the Pacific Ocean- about 90% of the world\'s earthquakes occur there. The next most seismic region (5-6% of earthquakes) is the Alpide belt (extends from Mediterranean region, eastward through Turkey, Iran, and northern India.','ringoffire.gif','From \"This Dynamic Earth: The Story of Plate Tectonics\"','',''),
 	(151,'rupture front','The rupture front is the instantaneous boundary between the slipping and locked parts of a fault during an earthquake. Rupture in one direction on the fault is referred to as unilateral. Rupture may radiate outward in a circular manner or it may radiate toward the two ends of the fault from an interior point, behavior referred to as bilateral.','rupture_front.jpg','Snapshots of a rupture front moving across a fault surface.',NULL,''),
 	(152,'rupture velocity','The speed at which a <strong>rupture front</strong> moves across the surface of the fault during an earthquake.','rupture_front.jpg','Snapshots of a rupture front  moving across a fault surface.',NULL,''),
-	(153,'S wave','An S wave, or <strong>shear wave</strong>, is a seismic body wave that shakes the ground back and forth perpendicular to the direction the wave is moving. <br />','PSWAVES.JPG','','',''),
+	(153,'S wave','An S wave, or <strong>shear wave</strong>, is a seismic body wave that shakes the ground back and forth perpendicular to the direction the wave is moving. <br />','s_image.gif','','P&S-waves_image.gif',''),
 	(154,'sand boil','A sand boil is sand and water that come out onto the ground surface during an earthquake as a result of <a href=\"/learn/glossary/?term=liquefaction\">liquefaction</a> at shallow depth.','SANDBOIL.JPG','(Photo by John Tinsley, U.S. Geological Survey)','',''),
 	(155,'sea-floor spreading','Sea-floor spreading is what happens at the mid-oceanic ridge where a divergent boundary is causing two plates to move away from one another resulting in spreading of the sea floor. As the plates move apart, new material wells up and cools onto the edge of the plates.','oceanic_spreading.gif','',NULL,''),
 	(156,'tectonic','Tectonic refers to rock-deforming processes and resulting structures that occur over large sections of the <a href=\"/learn/glossary/?term=lithosphere\">lithosphere</a>.','plate_tectonics.gif','','',''),
@@ -926,7 +926,7 @@ VALUES
 	(196,'subduction','Subduction is the process of the oceanic <a href=\"/learn/glossary?term=lithosphere\">lithosphere</a> colliding with and descending beneath the continental lithosphere.','subduction.jpg','','',''),
 	(197,'subduction zone','The subduction zone is the place where two <a href=\"/learn/glossary/?term=lithosphere\">lithospheric</a> plates come together, one riding over the other. Most volcanoes on land occur parallel to and inland from the boundary between the two plates.','subduction.jpg','','',''),
 	(198,'surface faulting','Surface faulting is displacement that reaches the earth\'s surface during slip along a fault. Commonly occurs with shallow earthquakes, those with an <a href=\"/learn/glossary/?term=epicenter\">epicenter</a> less than 20 km. Surface faulting also may accompany aseismic <a href=\"/learn/glossary/?term=creep\">creep</a> or natural or man-induced subsidence.','surface_fault.jpg','Hector Mine surface rupture after 1999 earthquake in southern California. (Photo by Katherine Kendrick, U.S. Geological Survey)','',''),
-	(199,'surface wave','A surface wave is a seismic <a href=\"/learn/glossary/?term=seismic%20wave\">seismic wave</a> that is trapped near the surface of the earth.','PSWAVES.JPG','','',''),
+	(199,'surface wave','A surface wave is a seismic <a href=\"/learn/glossary/?term=seismic%20wave\">seismic wave</a> that is trapped near the surface of the earth.','surface_image.gif','','P&S-waves_image.gif',''),
 	(200,'surface wave magnitude','See <a href=\"/learn/glossary/?term=magnitude\">magnitude</a>.','','','',''),
 	(203,'tensional stress','Tensional stress is the stress that tends to pull something apart. It is the stress component perpendicular to a given surface, such as a fault plane, that results from forces applied perpendicular to the surface or from remote forces transmitted through the surrounding rock.','stress_types.gif','(Image courtesy of Michael Kimberly, North Carolina State Univ.)',NULL,''),
 	(204,'thrust fault','See <a href=\"/learn/glossary/?term=dip%20slip\">dip slip</a>.','','','',''),
@@ -1085,7 +1085,6 @@ VALUES
 	(373,9),
 	(371,9),
 	(97,8),
-	(173,7),
 	(469,9),
 	(468,6),
 	(128,9),
@@ -1377,7 +1376,8 @@ VALUES
 	(490,9),
 	(490,6),
 	(491,7),
-	(491,9);
+	(491,9),
+	(492,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1473,7 +1473,6 @@ VALUES
 	(466,11),
 	(444,11),
 	(475,8),
-	(173,10),
 	(236,13),
 	(238,10),
 	(98,9),
@@ -1518,8 +1517,6 @@ VALUES
 	(371,13),
 	(165,10),
 	(148,13),
-	(173,13),
-	(173,11),
 	(466,9),
 	(128,10),
 	(128,13),
@@ -1963,7 +1960,10 @@ VALUES
 	(490,9),
 	(491,11),
 	(491,13),
-	(491,10);
+	(491,10),
+	(492,11),
+	(492,13),
+	(492,10);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2103,7 +2103,9 @@ VALUES
 	(484,39),
 	(485,28),
 	(486,45),
-	(486,35);
+	(486,35),
+	(492,45),
+	(492,30);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2203,7 +2205,6 @@ VALUES
 	(209,72),
 	(174,76),
 	(174,30),
-	(173,50),
 	(468,32),
 	(468,44),
 	(128,72),
@@ -2340,10 +2341,6 @@ VALUES
 	(193,60),
 	(193,49),
 	(238,63),
-	(173,67),
-	(173,44),
-	(173,63),
-	(173,37),
 	(470,66),
 	(100,63),
 	(100,64),
@@ -2939,7 +2936,13 @@ VALUES
 	(490,56),
 	(491,63),
 	(491,76),
-	(491,37);
+	(491,37),
+	(492,22),
+	(492,79),
+	(492,32),
+	(492,85),
+	(492,70),
+	(492,31);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2990,7 +2993,6 @@ VALUES
 	(429,'Focal Mechanisms','USGS','%2Flearn%2Ftopics%2Fbeachball.php','Basic explanation for what a focal mechanism is, and how to interpret them.'),
 	(58,'Remote-Sensing Seismic Activities','Montgomery Cty Public Schools','http%3A%2F%2Fwww.ebsinstitute.com%2FEBS.EOS.EQ.html','you are the planner, and you have to consider the earthquake hazards and risks'),
 	(59,'Ray Tracing Animations','Washington Univ.','http%3A%2F%2Fepsc.wustl.edu%2F%7Esaadia%2Fpage2.html','animations for various earth models and types of seismic reflections and refractions'),
-	(235,'Online Wordsearch Puzzles','USGS','%2Flearn%2Fkids%2Fwordsearch%2F','Interactive wordsearch puzzles with earthquake-related words'),
 	(238,'About Earthquakes','University of Washington','http%3A%2F%2Fwww.pnsn.org%2Foutreach%2Fabout-earthquakes','basics about earthquakes'),
 	(446,'Kid\'s Hazards Quiz','NOAA','http%3A%2F%2Fwww.ngdc.noaa.gov%2Fhazard%2FkqStart.shtml','short quiz on preparedness and where earthquakes occur'),
 	(64,'Shakes &amp; Quakes','Earthquake Engineering Research Institute (EERI)','http%3A%2F%2Fwww.nd.edu%2F%7Eeeriund%2Fshakes.htm','Legos and earthquakes'),
@@ -3060,7 +3062,6 @@ VALUES
 	(170,'Cool Earthquake Facts','USGS','%2Flearn%2Ffacts.php','fascinating earthquake facts'),
 	(435,'Putting Down Roots in Earthquake Country - Central US edition','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F119%2F','Earthquakes and preparedeness in the Central US'),
 	(172,'Earthquake 101 \"Slideshow\" (PDF)','USGS','/learn/publications/EQ101.pdf','PDF format of a complete PowerPoint show for the basics'),
-	(173,'Ground Shaking Animations','USGS','http%3A%2F%2Fearthquake.usgs.gov%2Fregional%2Fnca%2Fsimulations%2F','Simulations of earthquake ruptures that were run on the supercomputers at Caltech\'s Center for Advanced Computing Research'),
 	(174,'Jules Verne Voyager and Jules Verne Voyager, Jr.','UNAVCO','http%3A%2F%2Fjules.unavco.org%2FVoyager%2FEarth','an interactive map tool that enables students and scientists to better understand the relationships between geophysical and geological processes, structures, and measurements with high-precision GPS data. These are Javascript based tools.'),
 	(175,'Global Earthquake Explorer, The','Univ. of South Carolina, IRIS','http%3A%2F%2Fwww.seis.sc.edu%2Fgee%2Fabout.html','easy tool for non-seismologists to retrieve, display and analyze seismic data'),
 	(176,'Theory of the Earth','Caltech','http%3A%2F%2Fauthors.library.caltech.edu%2F25018%2F','online book on the science of earthquakes'),
@@ -3083,7 +3084,7 @@ VALUES
 	(213,'Tectonic Geomorphology: Figures','Institute for Crustal Studies','http%3A%2F%2Fprojects.crustal.ucsb.edu%2Ftectgeomorphfigs%2F','Figures from the book \"Tectonic Geomorphology\" by Douglas W. Burbank and Robert S. Anderson'),
 	(214,'Natural Hazards Data, Images and Education','NOAA','http%3A%2F%2Fwww.ngdc.noaa.gov%2Fhazard%2F','Data, images, kids quizzes, and maps from geologic hazards as well as slide shows available for order'),
 	(451,'Paleoseismology and the Hayward Fault','USGS','%2Flearn%2Ftopics%2Fhayward_paleo%2F','How paleoseismology is revealing information about the Hayward fault and its past. New technology being used.  Photos from the Tule Pond trench on the Hayward fault.'),
-	(244,'New  Madrid Earthquakes 1811 - 1812','USGS','%2Fearthquakes%2Fstates%2Fevents%2F1811-1812.php','Accounts of the large earthquakes that occurred in the New Madrid area in 1811 - 1812.'),
+	(244,'New  Madrid Earthquakes 1811 - 1812','USGS','/earthquakes/events/1811-1812newmadrid','Accounts of the large earthquakes that occurred in the New Madrid area in 1811 - 1812.'),
 	(236,'Is the reliable prediction of individual earthquakes a realistic scientific goal?','Journal of Nature','http%3A%2F%2Fwww.nature.com%2Fnature%2Fdebates%2Fearthquake%2Fequake_frameset.html','Seven-week debate involving many authors and their views'),
 	(288,'Tsunami Hazard Mitigation','Univ. of Washington','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2Fgeneral%2Fmitigation%2Fmitigation.html','Information about tsunamis that may save your life. Material excerpted from \"Tsunami! The Great Waves\"'),
 	(342,'Tsunami Preparedness Guidebook','GeoHazards International','http%3A%2F%2Fgeohaz.org%2Fprojects%2Ftsunami_guidebook.html','Downloadable PDF and additional links to tsunami preparedness websites.'),
@@ -3096,7 +3097,7 @@ VALUES
 	(260,'Tsunami! ','University of Washington by the Department of Earth and Space Sciences','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2Findex.html','Site provides general information about tsunamis, their causes and history as well as what to do in case of a tsunami.'),
 	(275,'Modified Mercalli Intensity Scale, The','USGS','%2Flearn%2Ftopics%2Fmercalli.php','A description of the  Modified Mercalli Intensity Scale.'),
 	(263,'Hilo Tsunami Museum','Pacific Tsunami Museum','http%3A%2F%2Fwww.tsunami.org%2F','The goal of the Pacific Tsunami Museum is to promote public tsunami education for the people of Hawaii and the Pacific Region. The museum will also preserve the social and cultural history of Hawaii and promote economic development on the island of Hawaii as well as statewide. The museum will serve as a living memorial to those who lost their lives in past tsunami events. '),
-	(439,'Theory of the Earth, The New','Caltech','http%3A%2F%2Fauthors.library.caltech.edu%2F25038%2F','This is the only book on the whole landscape of deep Earth processes that ties together all the strands of the subdisciplines. \r\n This book is a complete update of Andersonâs Theory of the Earth (1989).'),
+	(439,'Theory of the Earth, The New','Caltech','http%3A%2F%2Fauthors.library.caltech.edu%2F25038%2F','This is the only book on the whole landscape of deep Earth processes that ties together all the strands of the subdisciplines. \r\n This book is a complete update of Andersonâ??s Theory of the Earth (1989).'),
 	(267,'Seismic seiches from the March 1964 Alaska earthquake','Alaska Department of Natural Resources,  Division of Geological & Geophysical Surveys','http%3A%2F%2Fdggs.alaska.gov%2Fpubs%2Fpubs%3Freqtype%3Dcitation%26ID%3D3907%26quadID%3D155%26quadname%3DAlaska','Seismic Seiches from the March 1964 Alaska Earthquake'),
 	(268,'Seismic Seiches ','USGS','%2Flearn%2Ftopics%2Fseiche.php','Description and history of seismic seiches.'),
 	(280,'Transforming California: Landforms of the San Andreas Fault','Paleontological Research Institution','http%3A%2F%2Fwww.priweb.org%2Fed%2Fearthtrips%2Ftransforming_ca_home.htm','PowerPoint presentation of digital images (60.7 Mb) exploring the landforms found along the San Andreas Fault. Designed for classroom use with a complementing narrative for each slide. One of the many Earthtrip Virtual Field Trips to explore.'),
@@ -3107,7 +3108,7 @@ VALUES
 	(297,'Try It Yourself Calculator','USGS','%2Flearn%2Ftopics%2Fhow_much_bigger.php','How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake?'),
 	(444,'Tsunami! - Tsunamis Past and Present','Univ. of Washington','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2F','Basics about tsunamis, information about preparedness, and links to additional resources.'),
 	(304,'100% Chance of an Earthquake','USGS','/learn/topics/100_chance.php','Earthquake statistics.'),
-	(305,'Earthquake \"Top 10\" Lists','USGS','%2Fearthquakes%2Feqarchives%2F','Deadly earthquakes, damaging EQs, EQ density maps, world and US statistics, historical EQ lists, largest EQ lists, last EQ in..., significant EQ catalogs, seismicity maps of the world and US.'),
+	(305,'Earthquake \"Top 10\" Lists','USGS','/earthquakes/browse/','Deadly earthquakes, damaging EQs, EQ density maps, world and US statistics, historical EQ lists, largest EQ lists, last EQ in..., significant EQ catalogs, seismicity maps of the world and US.'),
 	(307,'Can It Happen Here?','USGS','%2Flearn%2Ftopics%2Fcanit.php','Could a large damaging tsunami happen in the United States?'),
 	(311,'Tsunami: The Great Waves','International Tsunami Information Center','http%3A%2F%2Fitic.ioc-unesco.org%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1169%26Itemid%3D2017','Basic information about the basics of tsunamis.'),
 	(313,'Uncovering the San Andreas Fault (PDF)','National Park Service','http%3A%2F%2Fwww.nps.gov%2Fpore%2Fforteachers%2Fupload%2Fcurriculum_geology.pdf','Earthquake Trail: What Makes the Geology of Point Reyes National Seashore So Special?'),
@@ -3117,18 +3118,15 @@ VALUES
 	(327,'California Subduction Rocks','About Geology','http%3A%2F%2Fgeology.about.com%2Fod%2Fgeophoto_tours%2Fig%2FCAtransecttrip%2Findex.htm%3Fnl%3D1','A photographic field trip to classic subduction-related rocks across northern California.'),
 	(477,'What to Expect','USGS','/learn/publications/WhatToExpect.pdf','What to expect during an earthquake.'),
 	(324,'Hazards 101, Earthquake','USGS','http%3A%2F%2Fearthquake.usgs.gov%2Fhazards%2Fabout%2Fbasics.php','The basics of how the USGS National Earthquake Hazard Maps are made.'),
-	(326,'Late Night Musings of an Earthquake Seismologist','USGS','%2Flearn%2Fessays%2Freasenberg.php','USGS Scientist Paul A. Reasenberg candidly discusses earthquake preparedness.'),
 	(329,'The Wave that Shook the World','PBS-NOVA','http%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fnova%2Ftsunami%2F','Online companion to the NOVA broadcast with excellent animations, Q&anmp;A, images, and lesson plans for teachers.'),
 	(331,'Earthquake Booms, Seneca Guns, and Other Sounds','USGS','%2Flearn%2Ftopics%2Fbooms.php','An examination of strange and unexplained sounds that are sometimes heard accompanying earthquakes.'),
-	(330,'Understanding Earthquakes Makes for Messy Science','USGS','%2Flearn%2Fessays%2Fhough.php','Earthquake processes typically occur tens of miles below the Earth\'s surface and over geologic time, away from direct observation. Earthquake science, in particular, is often subject to interpretation and bias.'),
 	(332,'Groundwater Effects from Earthquakes','USGS','%2Flearn%2Ftopics%2Fgroundwater.php','A description of the potential effects of earthquakes on groundwater and wells.'),
-	(333,'Casualty (Fatality) Totals, A Note About','USGS','%2Fearthquakes%2Fworld%2Fcasualty_totals.php','One-pager explaining why the numbers vary on different list.'),
 	(471,'Preparedness in Alaska','Earthquake Science Center, Univ. of Alaska, Fairbanks','http%3A%2F%2Fwww.earthquakescanada.nrcan.gc.ca%2Finfo-gen%2Fprepare-preparer%2Findex-eng.php','Links to preparedness information for earthquakes and tsunamis for Alaska residents.'),
 	(474,'Shaking in the Atwood Building in Anchorage, Alaska','USGS','https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNt0m5JWa62w','This video presents a visualization of how the Atwood Building in Anchorage, Alaska, shook during the M7.1 January 24, 2016, Iniskin, Alaska, earthquake. The building was instrumented by U.S. Geological Survey to obtain data to study its behavior and performance during strong shaking. Such data is useful to make decisions for improving the building\'s performance. '),
 	(343,'Can Animals Sense Earthquakes?','National Geographic','http%3A%2F%2Fnews.nationalgeographic.com%2Fnews%2F2003%2F11%2F1111_031111_earthquakeanimals.html','The belief that animals can predict earthquakes has been around for centuries...'),
 	(351,'Podcasts by USGS about Earthquakes','USGS','http%3A%2F%2Fgallery.usgs.gov%2Fsearch%2FAudio%2FCoreCast--earthquakes%2Flist%2F447%2F1','Collection of USGS CoreCasts (audio) about a variety of earthquake topics and issues.'),
 	(352,'Shake, Rattle, and Slide','University of Illinois Extension','http%3A%2F%2Fwww.urbanext.uiuc.edu%2Fearth%2F','Lessons, activities, and slide shows about earthquakes, volcanoes, and glaciers.'),
-	(353,'San Andreas Fault at Wallace Creek','USGS','%2Fregional%2Fnca%2Fkap%2F','Interactive, 360 degree panorama of the San Andreas Fault. Aerial photos of the fault taken from a kite.'),
+	(353,'San Andreas Fault at Wallace Creek','USGS','/learn/topics/safz/','Interactive, 360 degree panorama of the San Andreas Fault. Aerial photos of the fault taken from a kite.'),
 	(356,'Putting Down Roots in Earthquake Country - NCA edition','USGS & many other organizations','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2005%2F15%2F','Earthquakes and preparedeness in northern California'),
 	(357,'Putting Down Roots in Earthquake Country - Utah edition','Utah Seismic Safety Commission','https%3A%2F%2Fussc.utah.gov%2Fpages%2Fview.php%3Fref%3D1%26search%3D%2521collection17%26offset%3D0%26order_by%3Drelevance%26sort%3DDESC%26archive%3D0%26k%3D%26','Earthquakes and prepardeness in Utah'),
 	(358,'Echando Raices en Tierra de Terremotos','USGS &amp; many other organizations','http://www.earthquakecountry.org/roots-es/cover.html','Este manual provee informaciÃ³n sobre por quÃ© nos deben preocupar los terremotos en el Sur de California, quÃ© debemos hacer para estar seguros y reducir el daÃ±o, y tambiÃ©n quÃ© debemos saber de lo bÃ¡sico sobre terremotos.'),
@@ -3136,9 +3134,9 @@ VALUES
 	(360,'Protecting Your Family from Earthquakes','USGS &amp; many other organizations','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2007%2F41%2F','in English, Spanish, Chinese, Vietnamese, and Korean'),
 	(361,'Living On Shaky Ground: How to Survive Earthquakes and Tsunamis in Northern California','Humboldt State Univ, Dept of Geology','http%3A%2F%2Fwww2.humboldt.edu%2Fshakyground%2F','A collection of preparedness guides for earthquakes and tsunamis especially for the Northern Coast of California'),
 	(362,'Living with Earthquakes in Nevada: A Nevadan\'s Guide','Univ. of Nevada Seismological Lab','http%3A%2F%2Fwww.seismo.unr.edu%2FPreparedness','This guide and many other preparedness-related information especially for Nevada.'),
-	(472,'Earthquakes in Oklahoma','The Office of the Oklahoma Secretary of Energy and Environment','http%3A%2F%2Fearthquakes.ok.gov%2Fearthquake-preparedness%2F','Research, regulations, updates and news items related to Oklahomaâs recent earthquakes, and earthquake preparedness information'),
+	(472,'Earthquakes in Oklahoma','The Office of the Oklahoma Secretary of Energy and Environment','http%3A%2F%2Fearthquakes.ok.gov%2Fearthquake-preparedness%2F','Research, regulations, updates and news items related to Oklahomaâ??s recent earthquakes, and earthquake preparedness information'),
 	(473,'Faces of the Earth','AGI - American Geosciences Institute','https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLTBBygdCOWWeziXMugDA-Ej_kWggrBwjh','4 videos: Building the Planet, Shaping the Planet, Assembling America, A Human World'),
-	(367,'Earthquake Quartet #1','USGS','%2Flearn%2Fmusic%2F','USGS seismologist Andrew Michael explores both music and audio playbacks of the earth shaking and finds new ways to learn about the earth, earthquakes, musical instruments and music.'),
+	(492,'Back to the Future on the San Andreas Fault','USGS','/learn/topics/safz-paleo/','What does the science say? Where does the information come from? And what does it mean? Investigating past earthquakes to inform the future.'),
 	(368,'ABAG Earthquake Maps and Information ','Assoc. of Bay Area Govts. (ABAG)','http%3A%2F%2Fresilience.abag.ca.gov%2Fearthquakes%2F','Information and maps about liquefaction, faults, and landslides in the San Francisco Bay Area.'),
 	(371,'Earthquake Preparedness - San Andreas - The Movie, California Reality or Hollywood Fiction?','California Emergency Management Agency','http%3A%2F%2Fwww.caloes.ca.gov%2FFor-Schools-Educators%2FPlan-Prepare%2FEarthquake-Preparedness','Focus on California Earthquake Preparedness for Teachers and Students'),
 	(372,'California Seismic Safety Commission','California Seismic Safety Commission','http%3A%2F%2Fwww.seismic.ca.gov%2F','Focus on the California'),
@@ -3200,7 +3198,7 @@ VALUES
 	(482,'How Big and How Frequent Are Earthquakes on the Wasatch Fault?','USGS','/research/everyone/wasatch/','Paleoseismology along the Wasatch Fault in Utah is helping to estimate the shaking risk to nearby towns.'),
 	(483,'Seismology in the City','USGS','/research/everyone/seismology-in-the-city/','How seismologists can use noise to see under the ground.'),
 	(484,'The \"Snow Plow Theory\" of Early-Arriving Tsunamis','USGS','/research/everyone/splays/','What is a splay fault, and how can they affect tsunamis?'),
-	(485,'The M7.8 Nepal Earthquake, 2015  A Small Push to Mt. Everest','USGS','/research/everyone/nepal2015/','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
+	(485,'The M7.8 Nepal Earthquake, 2015 ? A Small Push to Mt. Everest','USGS','/research/everyone/nepal2015/','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
 	(486,'Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012','USGS','/research/everyone/maine2012/','Old-fashioned interviews are compared to Did You Feel It? responses for this earthquake.'),
 	(487,'Paleoseismology, Introduction to','USGS','/learn/topics/paleo-intro/','What is paleoseismology? How does it work?'),
 	(488,'Earthquake Footage','American Geophysical Union','http://blogs.agu.org/tremblingearth/earthquake-footage/','Videos from webcams, security cameras, and newsreels during the shaking from various earthquakes.'),
@@ -5224,7 +5222,7 @@ VALUES
 	(205,4,13,'Earthquake Hazard in the Heart of the Homeland','https://pubs.er.usgs.gov/publication/fs20063125','(FS-2006-3125)'),
 	(204,4,13,'East Meets West: An Earthquake in India Helps Hazard Assessment in the Central US','https://pubs.er.usgs.gov/publication/fs00702','(FS-007-02)'),
 	(203,4,13,'Earthquakes In and Near the Northeastern United States, 1638-1998','https://pubs.er.usgs.gov/publication/fs00601','(FS-006-01)'),
-	(193,1,5,'Digital Geologic Maps of San Francisco Bay Area','%2Fregional%2Fnca%2Fqmap%2F',''),
+	(193,1,5,'Digital Geologic Maps of San Francisco Bay Area','/learn/topics/geologicmaps/',''),
 	(217,4,11,'Seismic monitoring of the Atwood Building in Anchorage, Alaska','https://pubs.er.usgs.gov/publication/fs20043103','(FS-2004-3103)'),
 	(61,4,14,'Other USGS Hazards Fact Sheets','http%3A%2F%2Fpubs.usgs.gov%2Ffs%2Fhazards.html',''),
 	(63,1,2,'Global Seismic Hazard Maps','http%3A%2F%2Fwww.seismo.ethz.ch%2FGSHAP%2F',''),
@@ -5237,7 +5235,7 @@ VALUES
 	(84,1,3,'Earthquakes in Alaska','http%3A%2F%2Fgeopubs.wr.usgs.gov%2Fopen-file%2Fof95-624%2F','(OFR95-624) downloadable and printable maps in various sizes'),
 	(88,1,5,'United States Quaternary Faults','%2Fhazards%2Fqfaults%2F','(interactive)'),
 	(89,1,4,'Earthquake Ground-Motion Amplification in Southern California','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2001%2Fof01-164%2F',''),
-	(90,1,3,'Posters of Significant Earthquakes: 2002-Present','%2Fearthquakes%2Feqarchives%2Fposter%2F','24x36\" downloadable and printable posters with maps, cross-sections, tectonic summaries and more'),
+	(90,1,3,'Posters of Significant Earthquakes: 2002-Present','/learn/posters.php','24x36\" downloadable and printable posters with maps, cross-sections, tectonic summaries and more'),
 	(91,1,4,'Did You Feel It? Maps','%2Fearthquakes%2Fdyfi%2F',''),
 	(92,1,2,'Seismic-Hazard Maps for Alaska and the Aleutian Islands','http%3A%2F%2Fpubs.usgs.gov%2Fimap%2Fi-2679%2F',''),
 	(93,1,4,'Site-Response Maps for the Los Angeles Region Based on Earthquake Ground Motions','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F1996%2Fofr-96-0723%2F',''),
@@ -5291,7 +5289,7 @@ VALUES
 	(158,6,18,'Hidden Fury - The New Madrid Earthquake Zone','http%3A%2F%2Fwww.bullfrogfilms.com%2Fcatalog%2Fhid.html','1993, 27 minutes, in color, High School and up'),
 	(159,6,19,'Digital recordings of aftershocks of the October 17, 1989','http%3A%2F%2Fpubs.er.usgs.gov%2Fusgspubs%2Fofr%2Fofr90683B','Loma Prieta, California, earthquake : Santa Cruz, Los Gatos, and surrounding areas, Part B - Computer disc'),
 	(160,6,19,'GLORIA imagery and bathymetry from the U.S. EEZ off Washington, Oregon, and California','http%3A%2F%2Fpubs.er.usgs.gov%2Fusgspubs%2Fofr%2Fofr91396',''),
-	(194,1,2,'Urban Seismic Hazard Maps','%2Fhazards%2Fproducts%2Furban%2F',''),
+	(194,1,2,'Urban Seismic Hazard Maps','/hazards/urban/',''),
 	(251,4,10,'Earthquakes Pose a Serious Hazard in Afghanistan','https://pubs.er.usgs.gov/publication/fs20073027','(FS-2007-3027)'),
 	(246,4,10,'Earthquake Information Products and Tools from the Advanced National Seismic System (ANSS)','https://pubs.er.usgs.gov/publication/fs20063050','(FS-2006-3050)'),
 	(245,4,10,'Earthquake Hazards - A National Threat','https://pubs.er.usgs.gov/publication/fs20063016','(FS-2006-3016)'),
@@ -5327,8 +5325,8 @@ VALUES
 	(448,4,10,'PAGER - Rapid Assessment of an Earthquake\'s Impact','https://pubs.er.usgs.gov/publication/fs20103036','(FS-2010-3036)'),
 	(449,2,6,'Bicentennial of the 1811-1812 New Madrid Earthquake Sequence December 2011-2012','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F118%2F','(GIP 118)'),
 	(450,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for Earthquakes in the Central United States','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F119%2F','(GIP 119)'),
-	(472,4,11,'Earthquake Outlook for the San Francisco Bay Region 2014â2043','https://pubs.er.usgs.gov/publication/fs20163020','(FS-2016-3020)'),
-	(452,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for the San Francisco Bay Region','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2005%2F15%2F','(GIP 15)'),
+	(472,4,11,'Earthquake Outlook for the San Francisco Bay Region 2014â??2043','https://pubs.er.usgs.gov/publication/fs20163020','(FS-2016-3020)'),
+	(452,2,6,'Putting Down Roots in Earthquake Country - ??Your Handbook for the San Francisco Bay Region','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2005%2F15%2F','(GIP 15)'),
 	(471,4,11,'Earthquake Forecast for the Wasatch Front Region of the Intermountain West','https://pubs.er.usgs.gov/publication/fs20163019','(FS-2016-3019)'),
 	(473,8,10,'Tectonic Summaries of Magnitude 7 and Greater Earthquakes from 2000 to 2015','https://pubs.er.usgs.gov/publication/ofr20161192','(OFR-2016-1192)'),
 	(453,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for Southern California','http://www.earthquakecountry.org/booklets/',''),
@@ -5343,8 +5341,8 @@ VALUES
 	(465,4,10,'Natural Hazards Science at the U.S. Geological Survey','https://pubs.er.usgs.gov/publication/fs20133082','(FS-2013-3082)'),
 	(466,4,11,'The 1964 Great Alaska Earthquake and tsunamis - A modern perspective and enduring legacies','https://pubs.er.usgs.gov/publication/fs20143018','(FS-2014-3018)'),
 	(467,2,6,'20 Cool Facts About the New Madrid Seismic Zone','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F134%2F',''),
-	(468,4,11,'ShakeAlert - An Earthquake Early Warning System for the United States West Coast','https://pubs.er.usgs.gov/publication/fs20143083','(FS-2014â3083)'),
-	(470,4,11,'UCERF3: A New Earthquake Forecast for Californiaâs Complex Fault System','https://pubs.er.usgs.gov/publication/fs20153009','(FS-2015-3009)'),
+	(468,4,11,'ShakeAlert - An Earthquake Early Warning System for the United States West Coast','https://pubs.er.usgs.gov/publication/fs20143083','(FS-2014-3083)'),
+	(470,4,11,'UCERF3: A New Earthquake Forecast for Californiaâ??s Complex Fault System','https://pubs.er.usgs.gov/publication/fs20153009','(FS-2015-3009)'),
 	(475,4,10,'Helping safeguard Veterans Affairs\' hospital buildings by advanced earthquake monitoring','https://pubs.er.usgs.gov/publication/fs20123094','(FS-2012-3094)');
 
 /*!40000 ALTER TABLE `products` ENABLE KEYS */;
