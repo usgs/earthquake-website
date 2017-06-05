@@ -49,13 +49,13 @@ if (!isset($TEMPLATE)) {
    <h3>GPS</h3>
     <ul>
       <li><a href="/monitoring/gps/Parkfield/">USGS Campaign and Continuous</a></li>
-      <li><a href="/monitoring/edm/parkfield/continuous.php">USGS Continuous</a> - with additional processing</li>
+      <li><a href="/monitoring/deformation/edm/parkfield/continuous.php">USGS Continuous</a> - with additional processing</li>
     </ul>
   </div>
  <div>
    <h3>Two-color EDM </h3>
     <ul>
-      <li><a href="/monitoring/edm/parkfield/">Parkfield network data</a></li>
+      <li><a href="/monitoring/deformation/edm/parkfield/">Parkfield network data</a></li>
       <li><a href="/research/parkfield/lime.html" rel="ibox&amp;width=635&amp;height=800">LIME Data</a></li>
       <li><a href="/research/parkfield/pig.html" rel="ibox&amp;width=640&amp;height=800">PIG Data</a></li>
     </ul>

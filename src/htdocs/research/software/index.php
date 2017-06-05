@@ -187,7 +187,7 @@ See how our applications work and collaborate with us at <a href="http://github.
       <tr>
         <th>Docs:</th>
         <td>Online documentation:
-          <a href="/monitoring/edm/cleanstrain/">installation, manual, examples</a>
+          <a href="ftp://ehzftp.wr.usgs.gov/langbein/CLEANST/README">installation, manual, examples</a>
         </td>
       </tr>
      <tr>
