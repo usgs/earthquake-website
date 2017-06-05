@@ -39,11 +39,11 @@
 DYFI data are now being used in a number of scientific applications. For example:
 <ul>
   <li>Providing intensity data and for USGS <a href="/data/shakemap/">ShakeMap</a></li>
-  <li>Comparing the results of the National Seismic Hazard Maps with DYFI responses (Mak and Schorlemmer 2015)</li>
-  <li>Comparing intensity with the distribution of red and yellow tags for the Napa M6.0 earthquake (Boatwright et al. 2015)</li>
-  <li>Analyzing the differences in shaking for natural and injection-induced events (Hough 2014)</li>
-  <li>Assessing the sampling bias of historic felt records (Hough 2013)</li>
-  <li>Estimating the felt areas of moderate earthquakes (Boatwright and Phillips 2012)</li>
+  <li>Comparing the results of the National Seismic Hazard Maps with DYFI responses (<a href="#refs">Mak and Schorlemmer, 2015</a>)</li>
+  <li>Comparing intensity with the distribution of red and yellow tags for the Napa M6.0 earthquake (<a href="#refs">Boatwright et al., 2015</a>)</li>
+  <li>Analyzing the differences in shaking for natural and injection-induced events (<a href="#refs">Hough, 2014</a>)</li>
+  <li>Assessing the sampling bias of historic felt records (<a href="#refs">Hough, 2013</a>)</li>
+  <li>Estimating the felt areas of moderate earthquakes (<a href="#refs">Boatwright and Phillips, 2012</a>)</li>
 </ul>
 </p>
 
@@ -121,10 +121,10 @@ For every significant or felt earthquake on the USGS Earthquake Program web page
 
 <a id="mmi"><h2>DYFI and Modified Mercalli Intensities</h2></a>
 <p>
-  For United States earthquakes, intensities are assigned on the basis of the <a href="/learn/topics/mercalli.php">Modified Mercalli Intensity (MMI) Scale</a> (<a href="https://earthquake.usgs.gov/learn/publications/pubs_tech.php#DidYouFeelIt?">Wood and Neumann, 1931; Richter, 1958</a>). The Modified Mercalli Intensity or MMI was based in part on postal questionnaires, in which respondents summarize the effects of shaking in their communities. In addition, MMI incorporates observations from field studies in areas of significant damage, on damage maps produced by emergency response agencies, on reports produced by the earthquake engineering community, and on press reports. For a destructive earthquake, the process of collecting and interpreting damage data and preparing a map of MMI used to take months or more.
+  For United States earthquakes, intensities are assigned on the basis of the <a href="/learn/topics/mercalli.php">Modified Mercalli Intensity (MMI) Scale</a> (<a href="#refs">Wood and Neumann, 1931; Richter, 1958</a>). The Modified Mercalli Intensity or MMI was based in part on postal questionnaires, in which respondents summarize the effects of shaking in their communities. In addition, MMI incorporates observations from field studies in areas of significant damage, on damage maps produced by emergency response agencies, on reports produced by the earthquake engineering community, and on press reports. For a destructive earthquake, the process of collecting and interpreting damage data and preparing a map of MMI used to take months or more.
 </p>
 <p>
-  The procedure used to calculate the DYFI maps was calibrated so that the Community Decimal Intensity values should, on average, be similar to the MMI values for the same communities (<a href="https://earthquake.usgs.gov/learn/publications/pubs_tech.php#DidYouFeelIt?">Dengler and Dewey, 1998</a>). We have seen that DYFI data will serve as a useful approximation to MMI maps in the hours, days, and months following damaging earthquakes. Final MMI maps may be prepared separately, but by sampling a number of DYFI datasets  for events from 2000 on, we have shown that the data collected from DYFI is robust and similar enough to traditional MMI assignments to be incorporated into the final assignment of USGS intensity maps. Nevertheless, because there are differences in the data and procedures used to assign the two types of intensities, DYFI cannot be considered to be identical to the historic USGS Modified Mercalli Intensity map procedure. One presentation difference is that DYFI maps are numerically interpolated (continuous values), whereas historical maps, or isoseismal maps, used contour lines to separate areas of equal integer-valued intensities.
+  The procedure used to calculate the DYFI maps was calibrated so that the Community Decimal Intensity values should, on average, be similar to the MMI values for the same communities (<a href="#refs">Dengler and Dewey, 1998</a>). We have seen that DYFI data will serve as a useful approximation to MMI maps in the hours, days, and months following damaging earthquakes. Final MMI maps may be prepared separately, but by sampling a number of DYFI datasets  for events from 2000 on, we have shown that the data collected from DYFI is robust and similar enough to traditional MMI assignments to be incorporated into the final assignment of USGS intensity maps. Nevertheless, because there are differences in the data and procedures used to assign the two types of intensities, DYFI cannot be considered to be identical to the historic USGS Modified Mercalli Intensity map procedure. One presentation difference is that DYFI maps are numerically interpolated (continuous values), whereas historical maps, or isoseismal maps, used contour lines to separate areas of equal integer-valued intensities.
 </p>
 
 <a id="caveat"><h2>Importance of Your Contribution and a Caveat</h2></a>
