@@ -69,7 +69,7 @@ if (!isset($TEMPLATE)) {
     <td><em>Roeloffs et al.</em> [<a href="/research/parkfield/scientific.php#Roeloffs89">1989</a>]</td>
   </tr>
   <tr>
-    <td><a href="/monitoring/edm/parkfield/">Two-color EDM</a></td>
+    <td><a href="/monitoring/deformation/edm/parkfield/">Two-color EDM</a></td>
     <td>A two-color Electronic Distance Meter (EDM) measures the changes in distances on several baselines near Parkfield at a precision of about 0.5 mm. These changes reflect fault slip on the San Andreas and strain accumulation</td>
     <td>18 lines</td>
     <td>1 mm</td>
@@ -77,7 +77,7 @@ if (!isset($TEMPLATE)) {
     <td><em>Langbein et al.</em>[<a href="/research/parkfield/scientific.php#Lang90">1990</a>]</td>
   </tr>
   <tr>
-    <td><a href="/monitoring/edm/parkfield/">Portable EDM</a></td>
+    <td><a href="/monitoring/deformation/edm/parkfield/">Portable EDM</a></td>
     <td>Data from this network provide a measure of surface and shallow slip near Middle Mountain.</td>
     <td>20 lines</td>
     <td>1 mm</td>

@@ -18,7 +18,7 @@ if (!isset($TEMPLATE)) {
 							<p>Nine 3-component seismometers have been installed in boreholes near Parkfield, in cooperation with the University of California, Berkeley and Duke University, to provide high-gain, high-frequency records of magnitude -0.25 and larger shocks. A digital radio telemetry system (500 samples/second, 16-bit resolution) records the data from the borehole seismographs at a central site.</p>
             <ul>
 							<li><a href="/monitoring/gps/Parkfield/">Continuous and Campaign GPS Data</a> </li>
-              <li><a href="/monitoring/edm/parkfield/continuous.php">Continuous GPS Data with additional process</a> (Improves precision and resolution)</a> </li>
+              <li><a href="/monitoring/deformation/edm/parkfield/continuous.php">Continuous GPS Data with additional process</a> (Improves precision and resolution)</a> </li>
             </ul>
             <h2>Geodolite</h2>
 							<p>A network of 80 geodolite lines spanned the Parkfield region. Standard errors of individual line-length measurements ranged from 3-7 mm for lines 4-33 km in length. It was anticipated that at least part of the network will be measured annually. Four monitor lines near the southern end of the rupture zone were surveyed quarterly.</p>
@@ -33,7 +33,7 @@ if (!isset($TEMPLATE)) {
 							<p>Seven volumetric strainmeters (dilatometers) and three tensor strainmeters have been installed in the Parkfield area. The dilatometers are operated by the USGS in a cooperative effort by Carnegie Institution of Washington while the tensor instruments are operated by the USGS in cooperation with Commonwealth Scientific and Industrial Research Organization (CSIRO) of Australia. These instruments are installed in boreholes at depths of about 200 meters to minimize the effects of noise generated near the earth's surface. Unlike GPS and EDM, these instruments have can detect signals of 0.001 part-per-million (PPM) over 1-hour to 0.020 PPM over 1-week. In contrast, GPS and EDM are about 1000 less sensitive than borehole strain at these intervals. The tensor strainmeters have a powerful advantage of recording three components of strain allowing resolution of volume and two component of shear strain. Although the dilatometer records only volumetric strain, its has the advantage of recording data at seismic frequencies. With both instruments, the data are transmitted with digital telemetry by satellite to Menlo Park once every 10 minutes. Higher sampling rate for the dilatometers are made on-site and is retrieved manually from the field.</p>
             <ul>
 							<li><a href="/monitoring/deformation/data/instruments.php#strain">More about dilatometers</a> </li>
-              <li><a href="/monitoring/edm/parkfield/continuous.php">Continuous tensor strain data at CSIRO</a> </li>
+              <li><a href="/monitoring/deformation/edm/parkfield/continuous.php">Continuous tensor strain data at CSIRO</a> </li>
               <li>Dilatational strain data: <a href="/monitoring/deformation/data/?region=PK&days=7&instrument=dil">Past 7 days</a> | <a href="/monitoring/deformation/data/?region=PK&days=30&instrument=dil">Past 30 days</a> | <a href="http://quake.usgs.gov/research/deformation/monitoring/longterm/pk/index.html">Long-term plots</a> </li>
 							<li>Continuous tensor strain data at USGS:<a href="/monitoring/deformation/data/?region=PK&days=7&instrument=gtsm"> Past 7 days</a> | <a href="/monitoring/deformation/data/?region=PK&days=30&instrument=gtsm">Past 30 days</a> </li>
 							<li><a href="/monitoring/deformation/data/?region=PK">Map of Instruments</a> </li>
@@ -45,9 +45,9 @@ if (!isset($TEMPLATE)) {
 </figure>
 							<p>A distance-ranging network using an observatory-based two-color EDM was deployed in 1984 by the Cooperative Institution for Research in the Environmental Sciences (<a href="http://cires.colorado.edu/">CIRES</a>) at the University of Colorado and is now operated by USGS. The network consists of 18 baselines distributed radially around the central instrument site at Car Hill, just south of Parkfield. Under optimal conditions the network can be measured nightly. Initially, the network was measured 2-3 times per week, weather conditions permitting, but measurement schedule has been reduced to 2 to 3 times per month now that continuous GPS in being installed Typical standard errors of individual line length measurements are 0.5-0.7 mm for 4-6 km-long lines. Eleven of the lines were installed and the lengths measured in 1984. The full 18-line network was completed July 31, 1986.</p>
             <ul>
-							<li><a href="/monitoring/edm/">More about Two-color EDM</a> </li>
+							<li><a href="/monitoring/deformation/edm/">More about Two-color EDM</a> </li>
               <li><a href="/research/parkfield/twocolormap.html">Two-color EDM Data map</a> </li>
-              <li><a href="/monitoring/edm/parkfield/">Two-color EDM Data</a> </li>
+              <li><a href="/monitoring/deformation/edm/parkfield/">Two-color EDM Data</a> </li>
             </ul>
         <figure class="right" style="max-width: 210px">
           <a href="/research/parkfield/portableEDM.html" class="colorbox"><img src="/research/parkfield/Images/port2colorEDM_sm.jpg" alt="Portable two-color EDM at Middle Mountain, Parkfield, CA" title="Click for a larger image" /></a>
