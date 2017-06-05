@@ -55,7 +55,7 @@
 
   <!--edm-->
   <li>
-    <a href="/monitoring/edm/">
+    <a href="/monitoring/deformation/edm/">
       <h4>Two-color Electronic Distance Meter (EDM)</h4>
     </a>
     <p>
