@@ -99,12 +99,7 @@
       <li><a href="/research/parkfield/">Parkfield Earthquake Experiment</a></li>
       <li><a href="/data/3dgeologic/">3D Geologic and Seismic Velocity Model of the San Francisco Bay Region</a></li>
       <li><a href="/data/rupture/">Rupture Directions for Selected Northern California Earthquakes</a></li>
-
-<!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
-      <li><a href="/research/sf_siteresponse/">Site Response in the Northern San Francisco Bay Area, California</a></li>
--->
-
+      <li><a href="/data/siteresponse/">Site Response in the Northern San Francisco Bay Area, California</a></li>
     </ul>
   </div>
 </div>
