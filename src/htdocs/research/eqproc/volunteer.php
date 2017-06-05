@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Alena Leeds
-// Last modified: Lisa Wald, 2016/08/10
 if (!isset($TEMPLATE)) {
   $TITLE = 'Volunteer Monitoring - Walnut Creek/Pleasant Hill/Concord, CA, Area Seismograph Array';
   $NAVIGATION = true;
@@ -18,7 +17,7 @@ if (!isset($TEMPLATE)) {
 </figure>
 
 <p>
-  The benefits of hosting such a station, in addition to knowing that one has contributed to the understanding of earthquake ground motion hazard in their home town, include bi-annual meetings with the scientists that come through the area to collect the data. During these visits, USGS staff will show you the earthquakes recorded on the seismometer installed on your property. If you are potentially interested in hosting a station, scientists will be in the area and available to visit with you at your home and answer any questions you might have before you make a final decision. The planned date for the installation of the new array is March 2017. The USGS has been using <a href="/research/sfbayeffects_waves/">urban arrays to study site response in the Bay area</a> since 1999.
+  The benefits of hosting such a station, in addition to knowing that one has contributed to the understanding of earthquake ground motion hazard in their home town, include bi-annual meetings with the scientists that come through the area to collect the data. During these visits, USGS staff will show you the earthquakes recorded on the seismometer installed on your property. If you are potentially interested in hosting a station, scientists will be in the area and available to visit with you at your home and answer any questions you might have before you make a final decision. The planned date for the installation of the new array is March 2017. The USGS has been using <a href="/research/eqproc/sfbarrays.php">urban arrays to study site response in the Bay area</a> since 1999.
 </p>
 
 <h2>Instrumentation</h2>
