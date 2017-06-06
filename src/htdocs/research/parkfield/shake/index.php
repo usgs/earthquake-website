@@ -8,6 +8,7 @@ if (!isset($TEMPLATE)) {
     <link rel="stylesheet" href="style.css" />
   ';
   $FOOT = '';
+  $NAVIGATION = true;
 
   include 'template.inc.php';
 }
