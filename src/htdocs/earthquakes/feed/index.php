@@ -1,8 +1,8 @@
 <?php
 // Author: Lisa Wald
-// Contact: Web Development Team,
+// Contact: Web Development Team
   if (!isset($TEMPLATE)) {
-  $TITLE = 'Real-time Feeds and Notifications';
+  $TITLE = 'Real-time Notifications, Feeds, and Web Services';
   $HEAD = '
     <link rel="stylesheet" href="index.css"/>
   ';
