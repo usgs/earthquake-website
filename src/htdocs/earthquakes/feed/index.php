@@ -1,8 +1,8 @@
 <?php
 // Author: Lisa Wald
-// Contact: Web Development Team,
+// Contact: Web Development Team
   if (!isset($TEMPLATE)) {
-  $TITLE = 'Real-time Feeds and Notifications';
+  $TITLE = 'Real-time Notifications, Feeds, and Web Services';
   $HEAD = '
     <link rel="stylesheet" href="index.css"/>
   ';
@@ -167,14 +167,19 @@
         <a href="/fdsnws/event/1/">API Documentation - Earthquake Catalog</a>
       </li>
       <li>
+      <a href="v1.0/geojson.php">GeoJSON Summary Feed</a>
+      </li>
+      <li>
+      <a href="v1.0/geojson_detail.php">GeoJSON Detail Feed</a>
+      </li>
+      <li>
         <a href="v1.0/changelog.php">Change Log</a>
       </li>
       <li>
-        <a href="policy.php">
-            Feed Lifecycle Policy</a>
+        <a href="policy.php">Feed Lifecycle Policy</a>
       </li>
       <li>
-        <a href="https://github.com/usgs/devcorner">Developers Corner</a> - tools for obtaining specific products from earthquake catalog
+        <a href="https://github.com/usgs/devcorner">Developers Corner</a> - Earthquake catalog bulk access via scripts and programs, tools for obtaining specific products from earthquake catalog
       </li>
       <li>
         <a href="/ws/">Web Services</a>
