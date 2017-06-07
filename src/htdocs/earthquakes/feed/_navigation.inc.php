@@ -1,4 +1,6 @@
 <?php
+$section = "/earthquakes/feed";
+
 
 echo "<a href='/earthquakes/feed/' class='up-one-level'>Feeds and Notifications</a>";
 
@@ -8,17 +10,17 @@ echo "<a href='/earthquakes/feed/' class='up-one-level'>Feeds and Notifications<
   );
 
   print navGroup('Real-time Feeds',
-    navItem('v1.0/atom.php', 'ATOM') .
-    navItem('v1.0/kml.php', 'KML') .
-    navItem('v1.0/csv.php', 'Spreadsheet') .
-    navItem('v1.0/quakeml.php', 'QuakeML') .
-    navItem('v1.0/geojson.php', 'GeoJSON Summary') .
-    navItem('v1.0/geojson_detail.php', 'GeoJSON Detail')
+    navItem('${section}/v1.0/atom.php', 'ATOM') .
+    navItem('${section}/v1.0/kml.php', 'KML') .
+    navItem('${section}/v1.0/csv.php', 'Spreadsheet') .
+    navItem('${section}/v1.0/quakeml.php', 'QuakeML') .
+    navItem('${section}/v1.0/geojson.php', 'GeoJSON Summary') .
+    navItem('${section}/v1.0/geojson_detail.php', 'GeoJSON Detail')
 
   );
   print navGroup('For Developers',
-    navItem('v1.0/changelog.php', 'Change Log') .
-    navItem('policy.php', 'Feed Lifecycle Policy') .
+    navItem('${section}/v1.0/changelog.php', 'Change Log') .
+    navItem('${section}/policy.php', 'Feed Lifecycle Policy') .
     navItem('https://github.com/usgs/devcorner', 'Developers Corner') .
     navItem('/ws/', 'Web Services') .
     navItem('https://geohazards.usgs.gov/mailman/listinfo/realtime-feeds', 'Mailing List-Announcements') .

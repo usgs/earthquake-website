@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Lisa Wald, lisa@usgs.gov
-// Last modified: 08/11/2015
 if (!isset($TEMPLATE)) {
   $TITLE = 'Earthquakes';
   $NAVIGATION = false;
@@ -15,18 +14,6 @@ if (!isset($TEMPLATE)) {
   include 'template.inc.php';
 }
 ?>
-
-<!-- OPTIONAL ANNOUNCEMENT
-<div class="row">
-  <p class="alert info">
-  </p>
-</div>
--->
-
-<!-- FEATURED EARTHQUAKE
-Insert code to display latest really significant EQ
-and a link to Significant Earthquakes, Past 30 Days
--->
 
 <div class = "row">
   <div class = "column three-of-five">
@@ -57,10 +44,10 @@ and a link to Significant Earthquakes, Past 30 Days
       </li>
       <li>
         <a href="feed/">
-          <h4>Real-time Feeds and Notifications</h4>
+          <h4>Real-time Notifications, Feeds, and Web Services</h4>
           <img src="images/feeds-300for150.gif" width="150" alt="screenshot of iphone EQ notification"/>
         </a>
-        <p>Get real-time earthquake notifications sent to you on your phone or by email. Use real-time web services for your own applications.</p>
+        <p>Get real-time earthquake notifications sent to you on your phone or by email, or subscribe to real-time feeds. Use real-time web services for your own applications.</p>
       </li>
       <li>
         <!-- <a href="byregion/"> -->
