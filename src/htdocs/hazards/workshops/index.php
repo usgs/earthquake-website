@@ -41,7 +41,7 @@
     <a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/External_Rev_Panel_may2007.pdf">External Review Panel</a> - May 2007
   </li>
   <li>
-    End-User Workshop <a href="https://www.atcouncil.org/index.php?option=com_content&view=article&id=3:rel-12-12-06&catid=3:news-flash&Itemid=85">More Info</a> - December 7-8, 2006
+    End-User Workshop <a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/ATC-overview_12_2006.pdf">More Info</a> - December 7-8, 2006
   </li>
   <li>
     <a href="nga2006.php">NGA Workshop</a> - September 25-26, 2006
