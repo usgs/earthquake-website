@@ -38,7 +38,7 @@
     Final Maps Released for Building Code Consideration - September 2007
   </li>
   <li>
-    <a href="externalReview/">External Review Panel</a> - May 2007
+    <a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/External_Rev_Panel_may2007.pdf">External Review Panel</a> - May 2007
   </li>
   <li>
     End-User Workshop <a href="https://www.atcouncil.org/index.php?option=com_content&view=article&id=3:rel-12-12-06&catid=3:news-flash&Itemid=85">More Info</a> - December 7-8, 2006
