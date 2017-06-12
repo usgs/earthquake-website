@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-06-12',
+  'title' => 'Seismic Stations at Kilauea Summit',
+  'content' => 'Field engineers at the USGS Hawaiian Volcano Observatory (HVO) recently completed a multi-year effort to upgrade a subset of seismic stations at the summit of Kīlauea Volcano. (from the Volcano Hazards Program)',
+  'link' => 'https://volcanoes.usgs.gov/observatories/hvo/hvo_volcano_watch.html',
+  'modified' => strtotime('2017-06-12'),
+  'thumbnail' => '/images-featured/kilauea.jpg',
+  'image' => '/images-featured/kilauea.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-06-01',
   'title' => 'Back to the Future on the San Andreas Fault',
   'content' => 'Maybe you’ve heard that the “Big One is overdue” on the San Andreas Fault. No one can predict earthquakes, so what does the science really say? Where does the information come from? And what does it mean? Investigating past earthquakes to inform the future.',
