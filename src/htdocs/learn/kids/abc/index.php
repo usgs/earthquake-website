@@ -24,3 +24,8 @@
 <p><img src='images/table.gif' alt='child under table'/></p>
 
 <p>&copy;Copyright Paula Rao and Sirius Productions, 1994.</p>
+
+<hr/>
+<p>
+  <a href="https://www.doi.gov/privacy/children">Children's Privacy Policy</a>
+</p>

@@ -108,3 +108,9 @@
     <a href="/earthquakes/map/"><h2>Latest Earthquakes</h2></a>
   </div>
 </div>
+
+<br style="clear:left;"/>
+
+<p>
+  <a href="https://www.doi.gov/privacy/children">Children's Privacy Policy</a>
+</p>
