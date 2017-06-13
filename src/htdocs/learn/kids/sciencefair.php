@@ -152,3 +152,7 @@
 		</ul>
 	</div>
 </div>
+
+<p>
+  <a href="https://www.doi.gov/privacy/children">Children's Privacy Policy</a>
+</p>

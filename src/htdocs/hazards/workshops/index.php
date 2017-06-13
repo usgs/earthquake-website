@@ -76,9 +76,11 @@
   </li>
 </ul>
 
-<h2>Workshops for Other Seismic Hazard Maps</h2>
+<h2>Other Workshops</h2>
 
 <ul>
+  <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/ATC-USGS-Seismic-Hazard-User-Needs-Workshop-Agenda-2015.pdf">ATC-USGS Seismic Hazard User Needs Workshop</a> - September 21-22, 2015
+  </li>
   <li>
   <a href="induced2014.php">Workshop on Hazard from Induced Seismicity</a> - November 17-19, 2014
   </li>

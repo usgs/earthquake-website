@@ -124,3 +124,7 @@
 	<li><a href="http://education.usgs.gov/common/video_animation.htm#geology">Geology</a></li>
 	<li><a href="http://education.usgs.gov/common/video_animation.htm#tsunamis">Tsunamis</a></li>
 </ul>
+
+<p>
+  <a href="https://www.doi.gov/privacy/children">Children's Privacy Policy</a>
+</p>

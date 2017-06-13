@@ -29,3 +29,8 @@
 
     </div>
 </div>
+
+<hr/>
+<p>
+  <a href="https://www.doi.gov/privacy/children">Children's Privacy Policy</a>
+</p>
