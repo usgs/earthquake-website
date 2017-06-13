@@ -142,3 +142,7 @@
 	<a href="http://www.agu.org/" target="_blank">Careers in Science</a> - American Geophysical Union (AGU)<br />
 	&mdash;articles about careers and surveys of employment patterns among student graduates&mdash;
 </p>
+<hr/>
+<p>
+  <a href="https://www.doi.gov/privacy/children">Children's Privacy Policy</a>
+</p>

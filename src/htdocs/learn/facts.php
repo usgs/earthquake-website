@@ -292,3 +292,7 @@ if  (!isset($TEMPLATE))  {
   </li>
 </ol>
 </div>
+
+<p>
+  <a href="https://www.doi.gov/privacy/children">Children's Privacy Policy</a>
+</p>
