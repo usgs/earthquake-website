@@ -29,5 +29,6 @@ if (!isset($TEMPLATE)) {
 
 <h2>References</h2><ul class="referencelist">
   <li>Jones, J., Kalkan, E. and Stephens, C. (2017). Processing and Review Interface for Strong Motion Data (PRISM)—Methodology and Automated Processing, Version 1.0.0: U.S. Geological Survey Open-File Report, 2017–1008, 81 p., <a href="https://pubs.er.usgs.gov/publication/ofr20171008">https://pubs.er.usgs.gov/publication/ofr20171008</a>.</li>
+  <li>Jones, J., Kalkan, E., Stephens, C. and Ng, P. (2017). PRISM Software: Processing and Review Interface for Strong-Motion Data, Seismological Research Letters, doi:10.1785/0220160200.</li>
   <li>Kalkan, E. and Stephens, C. (2017). Systematic comparisons between PRISM version 1.0.0, BAP, and CSMIP ground-motion processing: U.S. Geological Survey Open-File Report 2017–1020, 108 p., <a href="https://pubs.er.usgs.gov/publication/ofr20171020">https://pubs.er.usgs.gov/publication/ofr20171020</a>.</li>
 </ul>
