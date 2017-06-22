@@ -14,6 +14,10 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
+<p class="alert error">
+<strong>An errant earthquake notification for event ci37161284 was distributed at 4:49pm PDT over the Earthquake Notification System.</strong> It was caused by a revision of the historic 1925 M6.8 Santa Barbara earthquake and was misinterpreted by software as a current event. We are working to resolve the issue.
+</p>
+
 <div class="row right-to-left">
 
 <!-- RIGHT COLUMN: LATEST EQS and SIGNIFICANT EQS -->
