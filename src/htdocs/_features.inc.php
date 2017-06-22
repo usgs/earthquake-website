@@ -11,6 +11,17 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2017-06-22',
+  'title' => 'Making Subduction Zone Areas More Resilient',
+  'content' => 'The USGS has developed a blueprint for advancing science and resilience from subduction zone hazards entitled &quot;Reducing Risk Where Tectonic Plates Collide&ndash;A Plan to Advance Subduction Zone Science&quot;. ',
+  'link' => 'https://www.usgs.gov/news/usgs-publishes-a-new-blueprint-can-help-make-subduction-zone-areas-more-resilient',
+  'modified' => strtotime('2017-06-22'),
+  'thumbnail' => '/images-featured/subduction-zone-plan-pnw.jpg',
+  'image' => '/images-featured/subduction-zone-plan-pnw.jpg'
+);
+
 $EQ_FEATURES->items[] = array(
   'id' => '2017-06-12',
   'title' => 'Seismic Stations at Kilauea Summit',
