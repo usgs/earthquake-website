@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-06-23 16:03:48 +0000
+# Generation Time: 2017-06-23 16:55:32 +0000
 # ************************************************************
 
 
@@ -5325,7 +5325,7 @@ VALUES
 	(448,4,10,'PAGER - Rapid Assessment of an Earthquake\'s Impact','https://pubs.er.usgs.gov/publication/fs20103036','(FS-2010-3036)'),
 	(449,2,6,'Bicentennial of the 1811-1812 New Madrid Earthquake Sequence December 2011-2012','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F118%2F','(GIP 118)'),
 	(450,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for Earthquakes in the Central United States','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F119%2F','(GIP 119)'),
-	(472,4,11,'Earthquake Outlook for the San Francisco Bay Region 2014â??2043','https://pubs.er.usgs.gov/publication/fs20163020','(FS-2016-3020)'),
+	(472,4,11,'Earthquake Outlook for the San Francisco Bay Region 2014-2043','https://pubs.er.usgs.gov/publication/fs20163020','(FS-2016-3020)'),
 	(452,2,6,'Putting Down Roots in Earthquake Country - ??Your Handbook for the San Francisco Bay Region','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2005%2F15%2F','(GIP 15)'),
 	(471,4,11,'Earthquake Forecast for the Wasatch Front Region of the Intermountain West','https://pubs.er.usgs.gov/publication/fs20163019','(FS-2016-3019)'),
 	(473,8,10,'Tectonic Summaries of Magnitude 7 and Greater Earthquakes from 2000 to 2015','https://pubs.er.usgs.gov/publication/ofr20161192','(OFR-2016-1192)'),
@@ -5342,7 +5342,7 @@ VALUES
 	(466,4,11,'The 1964 Great Alaska Earthquake and tsunamis - A modern perspective and enduring legacies','https://pubs.er.usgs.gov/publication/fs20143018','(FS-2014-3018)'),
 	(467,2,6,'20 Cool Facts About the New Madrid Seismic Zone','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F134%2F',''),
 	(468,4,11,'ShakeAlert - An Earthquake Early Warning System for the United States West Coast','https://pubs.er.usgs.gov/publication/fs20143083','(FS-2014-3083)'),
-	(470,4,11,'UCERF3: A New Earthquake Forecast for Californiaâ??s Complex Fault System','https://pubs.er.usgs.gov/publication/fs20153009','(FS-2015-3009)'),
+	(470,4,11,'UCERF3: A New Earthquake Forecast for California\'s Complex Fault System','https://pubs.er.usgs.gov/publication/fs20153009','(FS-2015-3009)'),
 	(475,4,10,'Helping safeguard Veterans Affairs\' hospital buildings by advanced earthquake monitoring','https://pubs.er.usgs.gov/publication/fs20123094','(FS-2012-3094)'),
 	(476,4,12,'Reducing Risk Where Tectonic Plates Collide','https://pubs.er.usgs.gov/publication/fs20173024','(FS-2017-3024)'),
 	(477,8,36,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/cir1428','(Circular 1428)');
