@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-06-05 19:43:32 +0000
+# Generation Time: 2017-06-23 16:03:48 +0000
 # ************************************************************
 
 
@@ -5343,7 +5343,9 @@ VALUES
 	(467,2,6,'20 Cool Facts About the New Madrid Seismic Zone','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F134%2F',''),
 	(468,4,11,'ShakeAlert - An Earthquake Early Warning System for the United States West Coast','https://pubs.er.usgs.gov/publication/fs20143083','(FS-2014-3083)'),
 	(470,4,11,'UCERF3: A New Earthquake Forecast for Californiaâ??s Complex Fault System','https://pubs.er.usgs.gov/publication/fs20153009','(FS-2015-3009)'),
-	(475,4,10,'Helping safeguard Veterans Affairs\' hospital buildings by advanced earthquake monitoring','https://pubs.er.usgs.gov/publication/fs20123094','(FS-2012-3094)');
+	(475,4,10,'Helping safeguard Veterans Affairs\' hospital buildings by advanced earthquake monitoring','https://pubs.er.usgs.gov/publication/fs20123094','(FS-2012-3094)'),
+	(476,4,12,'Reducing Risk Where Tectonic Plates Collide','https://pubs.er.usgs.gov/publication/fs20173024','(FS-2017-3024)'),
+	(477,8,36,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/cir1428','(Circular 1428)');
 
 /*!40000 ALTER TABLE `products` ENABLE KEYS */;
 UNLOCK TABLES;
