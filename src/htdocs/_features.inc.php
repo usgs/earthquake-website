@@ -13,6 +13,17 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-06-23',
+  'title' => 'USGS Collaborates with FEMA on National Earthquake Loss Estimate',
+  'content' => 'Earthquakes are estimated to cost the nation $6.1 billion annually in building stock losses according to an updated report published today by FEMA.',
+  'link' => 'https://www.usgs.gov/news/usgs-collaborates-fema-national-earthquake-loss-estimate',
+  'modified' => strtotime('2017-06-23'),
+  'thumbnail' => '/images-featured/EQlossEst-2017.gif',
+  'image' => '/images-featured/EQlossEst-2017.gif'
+);
+
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-06-22',
   'title' => 'Making Subduction Zone Areas More Resilient',
   'content' => 'The USGS has developed a blueprint for advancing science and resilience from subduction zone hazards entitled &quot;Reducing Risk Where Tectonic Plates Collide&ndash;A Plan to Advance Subduction Zone Science&quot;. ',
