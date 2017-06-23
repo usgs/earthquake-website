@@ -32,15 +32,13 @@ if (!isset($TEMPLATE)) {
     </p>
 
     <p>
-      <!-- The application period is generally open from early March to mid-May.
-    -->
-      <strong>The application period is currently open until May 22, 2017.</strong>
-      <a href="http://www.grants.gov/web/grants/manage-subscriptions.html">Sign up for subscription notices from Grants.gov</a> regarding <i>"CFDA number 15.807 application period openings"</i>.
+      The application period is generally open from early March to mid-May.
     </p>
 
 <!--
     <p>
-      <strong>A link to the application will be posted here during the application period.</strong>
+      <strong>The application period is currently open until May 22, 2017.</strong>
+      <a href="http://www.grants.gov/web/grants/manage-subscriptions.html">Sign up for subscription notices from Grants.gov</a> regarding <i>"CFDA number 15.807 application period openings"</i>.
     </p>
 -->
 
