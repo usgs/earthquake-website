@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Scott Haefner
-  // Last modified: Lisa Wald, 2016/08/24
+  // Contact: Scott Haefner or Lisa Wald
     if (!isset($TEMPLATE)) {
       $TITLE = 'Software to Download';
       $NAVIGATION = true;
@@ -18,37 +17,47 @@
     }
 ?>
 
-<nav class="jumplist">
-  <a href="#3DFM">3D focal mechanisms</a>
-  <a href="#3D">3D velocity modeling</a>
-  <a href="#github-devcorner">ANSS Developer&rsquo;s Corner</a>
-  <a href="#cleanstrain+">cleanstrain+</a>
-  <a href="#CLUSTER">CLUSTER2000</a>
-  <a href="#Coulomb">Coulomb 3</a>
-  <a href="#DGRFN">Direct Green&rsquo;s Function Synthetic Seismograms</a>
-   <!--<a href="#isodirect">Earthquake Directivity Model</a> -->
-  <a href="#EIDS">EIDS</a>
-  <a href="#est_noise">est_noise</a>
-  <a href="#FPFIT, FPPLOT and FPPAGE">FPFIT, FPPLOT and FPPAGE</a>
-  <a href="#gmpe">Graizer-Kalkan (2015) Ground-Motion Prediction Equation</a>
-  <a href="#HASH">HASH</a>
-  <a href="#hypoDD">hypoDD</a>
-  <a href="#HYPOINVERSE">HYPOINVERSE Earthquake Location</a>
-  <a href="#MacR1D">MacR1D</a>
-  <a href="#Ray">MacRay</a>
-  <a href="#OpenSHA">OpenSHA</a>
-  <a href="#PPHASEPICKER">PPHASEPICKER</a>
-  <a href="#PDL">PDL</a>
-  <a href="#PQLX">PQLX</a>
-  <a href="#Prism">Prism</a>
-  <a href="#SATSI">SATSI</a>
-  <a href="#SeisRisk">SeisRisk III</a>
-  <a href="#shake">ShakeCast</a>
-  <a href="#Slick">Slick Package</a>
-  <a href="#SLAMMER">SLAMMER</a>
-  <a href="#STATIC1D">STATIC1D</a>
-  <a href="#strainz17">strainz17</a>
-  <a href="#VISCO1D">VISCO1D</a>
+<nav>
+  <ul>
+    <li><a href="#3DFM">3D Focal Mechanisms</a></li>
+    <li><a href="#3D">3D Velocity Modeling</a></li>
+    <li><a href="#cleanstrain+">Cleanstrain+</a></li>
+    <li><a href="#CLUSTER">CLUSTER2000</a></li>
+    <li><a href="#comcat">ComCat Wrapper Libraries</a></li>
+    <li><a href="#Coulomb">Coulomb 3</a></li>
+    <li><a href="#DGRFN">Direct Green&rsquo;s Function Synthetic Seismograms</a></li>
+     <!--<li><a href="#isodirect">Earthquake Directivity Model</a></li> -->
+    <li><a href="#EIDS">EIDS</a></li>
+    <li><a href="#est_noise">Est_noise</a></li>
+    <li><a href="#FPFIT, FPPLOT and FPPAGE">FPFIT, FPPLOT and FPPAGE</a></li>
+    <li><a href="#gmpe">Graizer-Kalkan (2015) Ground-Motion Prediction Equation (GMPE)</a></li>
+    <li><a href="#HASH">HASH</a></li>
+    <li><a href="#hypoDD">HypoDD</a></li>
+    <li><a href="#HYPOINVERSE">HYPOINVERSE Earthquake Location</a></li>
+    <li><a href="#MacR1D">MacR1D</a></li>
+    <li><a href="#Ray">MacRay</a></li>
+    <li><a href="#nshmp">NSHMP Models, Codes and Catalogs</a> (National Seismic Hazard Mapping Project)</li>
+    <li><a href="#OpenSHA">OpenSHA</a></li>
+    <li><a href="#pdl">PDL</a></li>
+    <li><a href="#PPHASEPICKER">PPHASEPICKER</a></li>
+    <li><a href="#PDL">PDL</a></li>
+    <li><a href="#PQLX">PQLX</a></li>
+    <li><a href="#Prism">Prism</a></li>
+    <li><a href="#quakeml">Quakeml</a></li>
+    <li><a href="#SATSI">SATSI</a></li>
+    <li><a href="#SeisRisk">SeisRisk III</a></li>
+    <li><a href="#shake">ShakeCast</a></li>
+    <li><a href="#slab2">Slab2</a></li>
+    <li><a href="#Slick">Slick Package</a></li>
+    <li><a href="#SLAMMER">SLAMMER</a></li>
+    <li><a href="#STATIC1D">STATIC1D</a></li>
+    <li><a href="#strainz17">Strainz17</a></li>
+    <li><a href="#strec">STREC</a> - SeismoTectonic Regime Earthquake Calculator</li>
+    <li><a href="#smfetch">StrongMotion Fetch</a></li>
+    <li><a href="#unifiedhaztool">Unified Hazard Tool</a></li>
+    <li><a href="#VISCO1D">VISCO1D</a></li>
+    <li><a href="#vs30global">Vs30 Global</a></li>
+  </ul>
 </nav>
 
 <br style="clear:left;"/>
@@ -58,9 +67,10 @@ See how our applications work and collaborate with us at <a href="http://github.
 <hr/>
 
 <ul class="no-style separator linklist">
+
   <li class="first">
-    <h2 id="3DFM">3D focal mechanisms</h2>
     <a href="https://pubs.usgs.gov/ds/2007/241/">
+      <h2 id="3DFM">3D Focal Mechanisms</h2>
       <img src="images/3DFM.jpg" alt="3DFM Logo" width="146" height="100"/>
     </a>
     <table>
@@ -84,14 +94,6 @@ See how our applications work and collaborate with us at <a href="http://github.
         <th>Input:</th>
         <td>A GIS point dataset of earthquake locations containing strike, dip, and rake values for a nodal plane of each earthquake</td>
       </tr>
-      <tr>
-        <th>Examples:</th>
-        <td>Available at website</td>
-      </tr>
-      <tr>
-        <th>Manual:</th>
-        <td>Available at website</td>
-      </tr>
      <tr>
         <th>Download:</th>
         <td><a href="https://pubs.usgs.gov/ds/2007/241/">See
@@ -102,11 +104,12 @@ See how our applications work and collaborate with us at <a href="http://github.
       3D Focal Mechanisms is a tool for viewing earthquake focal mechanism symbols three dimensionally. This tool operates within the Environmental Systems Research Institute (ESRI&reg;) GIS software ArcScene&reg; 9.x. The program requires as input a GIS point dataset of earthquake locations containing strike, dip, and rake values for a nodal plane of each earthquake. Other information, such as depth and magnitude of the earthquake, may also be included in the dataset. By default for each focal point, 3DFM will create a black and white sphere or &ldquo;beach ball&rdquo; that is oriented based on the strike, dip, and rake values. If depth values for each earthquake are included, the focal symbol will also be placed at its appropriate location beneath the Earth&rsquo;s surface.
     </p>
   </li>
+
   <li>
-    <h2 id="3D">3D velocity modeling</h2>
+    <h2 id="3D">3D Velocity Modeling</h2>
     <table>
       <tr>
-        <th>Authors:</th>
+        <th>Author:</th>
         <td>Cliff Thurber</td>
       </tr>
       <tr>
@@ -122,41 +125,10 @@ See how our applications work and collaborate with us at <a href="http://github.
       Fortran code (VMS compatible) for 3-D velocity model determination and hypocentral location with local earthquake data. Full inversion, not tomography, this is the program written by Cliff Thurber and modified by others.
     </p>
   </li>
-  <li>
-    <h2 id="github-devcorner">ANSS Developer&rsquo;s Corner</h2>
-    <a href="https://github.com/usgs/devcorner">
-      <img src="images/githubdev.gif" alt="github logo">
-    </a>
-    <table>
-      <tr>
-        <th>Authors:</th>
-        <td>various</td>
-      </tr>
-      <tr>
-        <th>Usage:</th>
-        <td>access to ComCat (Comprehensive Earthquake Catalog) Data</td>
-      </tr>
-      <tr>
-        <th>Platform:</th>
-        <td>various</td>
-      </tr>
-      <tr>
-        <th>Docs:</th>
-        <td><a href="https://github.com/usgs/devcorner">USGS GitHub ANSS Developer&rsquo;s Corner</a></td>
-      </tr>
-      <tr>
-        <th>Download:</th>
-        <td><a href="https://github.com/usgs/devcorner">USGS GitHub ANSS Developer&rsquo;s Corner</td>
-      </tr>
-    </table>
-    <p>
-      A github repository for different software tools to access the ComCat (Comprehensive Earthquake Catalog) data. Contributions are welcome and encouraged.
-    </p>
-  </li>
 
   <li>
-    <h2 id="cleanstrain+">cleanstrain+</h2>
     <a href="ftp://ehzftp.wr.usgs.gov/langbein/CLEANST">
+      <h2 id="cleanstrain+">Cleanstrain+</h2>
       <img src="images/cleanstrain.gif" alt="Cleanstrain+ Logo" width="146" height="99"/>
     </a>
     <table>
@@ -199,6 +171,7 @@ See how our applications work and collaborate with us at <a href="http://github.
       Cleanstrain+ is a program to process strainmeter data. This code will simultaneously estimate the tidal constituents, pressure admittance, offsets, rate changes, and other terms using least-squares but, importantly, incorporating the temporally correlated nature of strain data (that is, the power spectra is  red).
     </p>
   </li>
+
   <li>
     <h2 id="CLUSTER">CLUSTER2000</h2>
     <a href="ftp://ehzftp.wr.usgs.gov/cluster2000/cluster2000x.f">
@@ -229,10 +202,6 @@ See how our applications work and collaborate with us at <a href="http://github.
         <th>Output:</th>
         <td>Several text files</td>
       </tr>
-      <tr>
-        <th>Docs:</th>
-        <td>Comments in source code</td>
-      </tr>
      <tr>
         <th>Download:</th>
         <td><a href="ftp://ehzftp.wr.usgs.gov/cluster2000/cluster2000x.f">Fortran source code</a> (35k), <a href="ftp://ehzftp.wr.usgs.gov/cluster2000/Makefile">Makefile</a> (233b)</td>
@@ -251,6 +220,28 @@ See how our applications work and collaborate with us at <a href="http://github.
       century.
     </p>
   </li>
+
+  <li>
+    <a href="https://github.com/usgs/devcorner">
+    <h2 id="comcat">ComCat Wrapper Libraries</h2>
+      <img src="images/latesteqs-300.jpg" alt="screenshot of Latest Earthquakes" width="120"/>
+    </a>
+    </a>
+    <table>
+      <tr>
+        <th>Author:</th>
+        <td><a href="mailto:mhearne@usgs.gov">Mike Hearne</a></td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="https://github.com/usgs/devcorner">ComCat Wrapper Libraries github repository</a></td>
+      </tr>
+    </table>
+    <p>
+      Bulk access via scripts, programs, and tools for obtaining specific products from ComCat (the earthquake catalog).
+    </p>
+  </li>
+
   <li>
     <h2 id="Coulomb">Coulomb 3</h2>
     <a href="coulomb/">
@@ -310,9 +301,10 @@ The internal graphics are suitable for publication, and can be easily imported
 into illustration or animation programs for further enhancements.
     </p>
   </li>
+
   <li>
-    <h2 id="DGRFN">Direct Green&rsquo;s Function Synthetic Seismograms</h2>
     <a href="ftp://hazards.cr.usgs.gov/web/software/DGRFN.tar">
+      <h2 id="DGRFN">Direct Green&rsquo;s Function Synthetic Seismograms</h2>
       <img class="left" src="images/DGRFN.png" alt="Logo" width="144" height="104"/>
     </a>
     <table>
@@ -337,10 +329,6 @@ into illustration or animation programs for further enhancements.
        <td>Synthetic seismograms at Earth&rsquo;s surface or specified depth</td>
      </tr>
      <tr>
-       <th>Examples:</th>
-       <td>Contained in downloadable file</td>
-     </tr>
-     <tr>
        <th>Download:</th>
         <td><a href="ftp://hazards.cr.usgs.gov/web/software/DGRFN.tar">DGRFN.tar</a> (1.6 MB)</td>
      </tr>
@@ -359,6 +347,7 @@ into illustration or animation programs for further enhancements.
      harmonic degrees.
     </p>
   </li>
+
 <!-- commented out until a bug is fixed at Spudich's request (2013-06-06)
 <li><a name="isodirect"></a>
 <h2>Earthquake Directivity Model</h2>
@@ -389,10 +378,6 @@ into illustration or animation programs for further enhancements.
     <td>.txt and .mat files</td>
   </tr>
   <tr>
-    <th>Examples:</th>
-    <td>Contained in downloadable file</td>
-  </tr>
-  <tr>
     <th>Download:</th>
     <td><a href="/research/software/isodirect/">See online documentation</a></td>
   </tr>
@@ -402,7 +387,9 @@ into illustration or animation programs for further enhancements.
 -->
 
   <li>
-    <h2 id="EIDS">EIDS - Earthquake Information Distribution System</h2>
+    <a href="/research/software/eids/">
+      <h2 id="EIDS">EIDS - Earthquake Information Distribution System</h2>
+    </a>
     <table>
       <tr>
         <th>Contacts:</th>
@@ -436,8 +423,9 @@ into illustration or animation programs for further enhancements.
       The Earthquake Information Distribution System (EIDS) provides a method for receiving earthquake data over the Internet in near-real time.  EIDS replaces the Quake Data Distribution System (QDDS) and provides either CUBE or EQXML formatted output messages.
     </p>
   </li>
+
   <li>
-    <h2 id="est_noise">est_noise</h2>
+    <h2 id="est_noise">Est_noise</h2>
     <a href="https://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">
       <img src="images/est_noise.png" alt="Logo" width="150"/>
     </a>
@@ -470,10 +458,6 @@ into illustration or animation programs for further enhancements.
       Estimates of rates, offsets, and more, along with their standard errors.</td>
       </tr>
       <tr>
-        <th>Docs:</th>
-        <td>Included in the tar-file</td>
-      </tr>
-      <tr>
         <th>Download</th>
         <td><a href="https://escweb.wr.usgs.gov/share/langbein/Web/OUT/est_noise/">est_noise.tar.gz</a></td>
       </tr>
@@ -492,9 +476,10 @@ into illustration or animation programs for further enhancements.
       and borehole strainmeter data, and it can be applied to other data types.
     </p>
   </li>
+
   <li>
-    <h2 id="FPFIT, FPPLOT and FPPAGE">FPFIT, FPPLOT and FPPAGE</h2>
     <a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/fpfit.txt">
+      <h2 id="FPFIT, FPPLOT and FPPAGE">FPFIT, FPPLOT and FPPAGE</h2>
       <img src="images/beach_ball.gif" alt="Logo" width="100" height="120" />
     </a>
     <table>
@@ -520,10 +505,6 @@ into illustration or animation programs for further enhancements.
         <td>Grahics and text</td>
       </tr>
       <tr>
-        <th>Examples:</th>
-        <td>Included in dowload file</td>
-      </tr>
-      <tr>
         <th>Manual:</th>
         <td>Online <a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/fpfit.txt">documentation</a> and <a href="ftp://ehzftp.wr.usgs.gov/oppen/fpfit/OFR_85-739.doc">USGS Open-File report</a></td>
       </tr>
@@ -546,9 +527,10 @@ into illustration or animation programs for further enhancements.
         of mechanisms on stereo nets.
     </p>
   </li>
+
   <li>
-    <h2 id="gmpe">Graizer-Kalkan (2015) Ground-Motion Prediction Equation</h2>
     <a href="ftp://hazards.cr.usgs.gov/web/software/GMPE-GK2015.zip">
+      <h2 id="gmpe">Graizer-Kalkan (2015) Ground-Motion Prediction Equation</h2>
       <img src="images/gmpe.png" alt="logo" width="150"/>
     </a>
     <table>
@@ -587,8 +569,8 @@ into illustration or animation programs for further enhancements.
   </li>
 
   <li>
-    <h2 id="HASH">HASH 1.2</h2>
     <a href="ftp://hazards.cr.usgs.gov/web/software/hash.v1.2.tar.gz">
+      <h2 id="HASH">HASH 1.2</h2>
       <img src="images/HASH.gif" alt="Hash Logo" width="120" height="145"/>
     </a>
     <table>
@@ -612,14 +594,6 @@ into illustration or animation programs for further enhancements.
         <th>Output:</th>
         <td>Text files</td>
       </tr>
-      <tr>
-        <th>Examples:</th>
-        <td>Included in download file</td>
-      </tr>
-      <tr>
-        <th>Manual:</th>
-        <td>PDF included in download file</td>
-      </tr>
      <tr>
         <th>Download:</th>
         <td><a href="ftp://hazards.cr.usgs.gov/web/software/hash.v1.2.tar.gz">hash.v1.2.tar.gz</a> (1.1 MB)</td>
@@ -638,9 +612,10 @@ into illustration or animation programs for further enhancements.
       other formats.
     </p>
   </li>
+
   <li>
-    <h2 id="hypoDD">hypoDD</h2>
     <a href="http://www.ldeo.columbia.edu/~felixw/hypoDD.html">
+      <h2 id="hypoDD">HypoDD</h2>
       <img src="images/doublediff2_sm.gif" alt="HypoDD Logo" width="120" height="206"/>
     </a>
     <table>
@@ -669,14 +644,6 @@ into illustration or animation programs for further enhancements.
         <td>Text files</td>
       </tr>
       <tr>
-        <th>Examples:</th>
-        <td>Examples available on hipoDD webpage.</td>
-      </tr>
-      <tr>
-        <th>Manual:</th>
-        <td>PDF and PostScript files in tar file</td>
-      </tr>
-      <tr>
         <th>Download:</th>
         <td><a href="http://www.ldeo.columbia.edu/~felixw/hypoDD.html">hypoDD</a></td>
       </tr>
@@ -692,6 +659,7 @@ into illustration or animation programs for further enhancements.
         the entire ray path (Frechet, 1985; Got et al., 1994).
     </p>
   </li>
+
   <li>
     <h2 id="HYPOINVERSE">HYPOINVERSE Earthquake Location</h2>
     <a href="ftp://ehzftp.wr.usgs.gov/klein/hyp1.40">
@@ -724,10 +692,6 @@ into illustration or animation programs for further enhancements.
         <td>ASCII text</td>
       </tr>
       <tr>
-        <th>Examples:</th>
-        <td>Sample runs in distribution directory</td>
-      </tr>
-      <tr>
         <th>Manual:</th>
         <td>Extensive open-file document, in Microsoft Word and
           postscript formats</td>
@@ -755,6 +719,7 @@ flat layer or flat layer with linear velocity gradients. Version 1.3
 also supports negative magnitudes, independent S models, and crustal models from the HYPOELLIPSE program, including layer models, gradient over halfspace models, depths relative to sea level, negative depths above sea level, and use of station elevations. It is Y2000 compatible.
     </p>
   </li>
+
   <li>
     <h2 id="MacR1D">MacR1D</h2>
     <a href="ftp://hazards.cr.usgs.gov/web/software/MacR1D-V1.17-Executables.tar.gz">
@@ -795,12 +760,13 @@ also supports negative magnitudes, independent S models, and crustal models from
       velocity models from observed arrival pics.
     </p>
   </li>
+
   <li>
-    <h2 id="Ray">MacRay</h2>
     <a href="ftp://hazards.cr.usgs.gov/web/software/MacRay-V2.29-Executables.tar.gz">
+      <h2 id="Ray">MacRay</h2>
       <img src="images/MacRay.gif" alt="Ray Tracing Logo" width="100" height="80"/>
     </a>
-    <table cellspacing="1" class="tabular">
+    <table>
       <tr>
         <th>Author:</th>
         <td><a href="mailto:luetgert@usgs.gov">Jim Luetgert</a></td>
@@ -820,14 +786,6 @@ also supports negative magnitudes, independent S models, and crustal models from
       <tr>
         <th>Output:</th>
         <td>PICT file</td>
-      </tr>
-      <tr>
-        <th>Examples:</th>
-        <td>Included in download file</td>
-      </tr>
-      <tr>
-        <th>Manual:</th>
-        <td>MS Word document included in download file</td>
       </tr>
       <tr>
         <th>Download:</th>
@@ -852,9 +810,37 @@ also supports negative magnitudes, independent S models, and crustal models from
       The PC version is a port of Ray84 written for Vax. It was ported by <a HREF="mailto:ht@seis.geol.ku.dk">Hans Thybo</a> of Copenhagen University, Denmark.
     </p>
   </li>
+
   <li>
-    <h2 id="OpenSHA">OpenSHA</h2>
+    <h2 id="nshmp">NSHMP Models, Codes and Catalogs - National Seismic Hazard Mapping Project</h2>
+    <img src="images/hazmap-2x.gif" alt="US hazard map" width="120"/>
+    <table>
+      <tr>
+        <th>Author:</th>
+        <td>National Seismic Hazard Mapping Project</td>
+      </tr>
+      <tr>
+        <th>Downloads:</th>
+        <td>
+          <ul>
+            <li><a href="https://github.com/usgs/nshmp-haz">NSHMP Hazard Codes github repository</a></li>
+            <li><a href="https://github.com/usgs/nshmp-model-cous-2014">NSHMP Hazard Model for Conterminous U.S. - 2014 github repository</a></li>
+            <li><a href="https://github.com/usgs/nshmp-model-cous-2008">NSHMP Hazard Model for Conterminous U.S. - 2008 github repository</a></li>
+            <li><a href="https://github.com/usgs/nshmp-model-ak-2007">NSHMP Hazard Model for Alaska - 2007 github repository</a></li>
+            <li><a href="https://github.com/usgs/nshmp-model-hi-1998">NSHMP Hazard Model for Hawaii - 1998 github repository</a></li>
+            <li><a href="https://github.com/usgs/nshmp-haz-catalogs">NSHMP Hazard Catalogs github repository</a></li>
+          </ul>
+        </td>
+       </tr>
+    </table>
+    <p>
+      Models, Codes and Catalogs used to produce the National Seismic Hazard Maps.
+    </p>
+  </li>
+
+  <li>
     <a href="http://www.opensha.org/">
+    <h2 id="OpenSHA">OpenSHA</h2>
       <img src="images/OpenSHA_logo_sm.jpg" alt="OpenSHA Logo" width="120" height="92"/>
     </a>
     <table>
@@ -885,8 +871,29 @@ also supports negative magnitudes, independent S models, and crustal models from
     </p>
   </li>
   <li>
-    <h2 id="PPHASEPICKER">P-Phase Picker</h2>
+
+  <li>
+    <a href="https://github.com/usgs/pdl">
+    <h2 id="pdl">PDL</h2>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td>HazDev Web Team</td>
+      </tr>
+      <tr>
+         <th>Download:</th>
+         <td><a href="https://github.com/usgs/pdl">PDL github repository</a></td>
+       </tr>
+    </table>
+    <p>
+      The Product Distribution Layer (PDL) receives and distributes many different types of products.
+    </p>
+  </li>
+
+  <li>
     <a href="ftp://ehzftp.wr.usgs.gov/shaefner/PphasePicker.zip">
+      <h2 id="PPHASEPICKER">P-Phase Picker</h2>
       <img src="images/logo.png" alt="phasepicker logo" width="150"/>
     </a>
     <table>
@@ -923,6 +930,7 @@ also supports negative magnitudes, independent S models, and crustal models from
        P<sub>PHASE</sub>P<sub>ICKER</sub> is a powerful tool for automatically picking P-phase onsets with high precision without requiring detection interval or threshold settings. The algorithm detects P-phase onset in single-component acceleration or broadband velocity records using the histogram method. P<sub>PHASE</sub>P<sub>ICKER</sub> has been integrated into the &ldquo;Automated Processing and Review Interface for Strong Motion Data (PRISM)&rdquo; software of the U.S. Geological Survey in order to identify the pre-event time-window for systematic and automated processing of large numbers of accelerograms. P<sub>PHASE</sub>P<sub>ICKER</sub> is written in Java and MatLAB. An example MatLAB code is provided in zip file to show how to run P<sub>PHASE</sub>P<sub>ICKER</sub> using a sample waveform. Its MatLAB version requires MatLAB&rsquo;s signal processing toolbox.
     </p>
   </li>
+
   <li>
     <h2 id="PDL">PDL - Product Distribution Layer</h2>
     <table>
@@ -962,9 +970,10 @@ also supports negative magnitudes, independent S models, and crustal models from
       PDL replaces the Earthquake Information Distribution System (EIDS) and Quake Data Merge (QDM) applications.
     </p>
   </li>
+
   <li>
-    <h2 id="PQLX">PQLX</h2>
     <a href="pqlx.php">
+      <h2 id="PQLX">PQLX</h2>
       <img src="images/pqlx_sm.jpg" alt="PQLX"/>
     </a>
     <table>
@@ -1013,9 +1022,12 @@ also supports negative magnitudes, independent S models, and crustal models from
       access.
     </p>
   </li>
+
   <li>
-    <h2 id="Prism">Prism: Processing and Review Interface for Strong Motion Data</h2>
-    <a href="prism/"><img src="prism/prism.png" alt="Prism logo" width="150"></a>
+    <a href="prism/">
+      <h2 id="Prism">Prism: Processing and Review Interface for Strong Motion Data</h2>
+      <img src="prism/prism.png" alt="Prism logo" width="150">
+    </a>
     <table>
       <tr>
         <th>Authors:</th>
@@ -1198,8 +1210,26 @@ also supports negative magnitudes, independent S models, and crustal models from
 -->
 
   <li>
-    <h2 id="SATSI">SATSI</h2>
+    <a href="https://github.com/usgs/Quakeml">
+      <h2>Quakeml</h2>
+      <img src="images/quakeml.gif" alt="screenshot of XML" width="120"/>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td>ANSS QuakeML Standards Working Group</td>
+      </tr>
+      </tr>
+        <th>Download:</th>
+        <td><a href="https://github.com/usgs/Quakeml">Quakeml github repository</a></td>
+      </tr>
+    </table>
+    <p>A uniform ANSS standard for seismic parametric data.</p>
+  </li>
+
+  <li>
     <a href="ftp://hazards.cr.usgs.gov/web/software/SATSI_140818.tar.gz">
+      <h2 id="SATSI">SATSI</h2>
       <img src="images/satsi.jpg" alt="SATSI Logo" width="120" height="111"/>
     </a>
     <table>
@@ -1223,10 +1253,6 @@ also supports negative magnitudes, independent S models, and crustal models from
         <th>Output:</th>
         <td>Text files</td>
       </tr>
-      <tr>
-        <th>Examples:</th>
-        <td>Included in download file</td>
-      </tr>
      <tr>
         <th>Download:</th>
         <td><a href="ftp://hazards.cr.usgs.gov/web/software/SATSI_140818.tar.gz">SATSI_140818.tar.gz</a> (63kB)</td>
@@ -1238,7 +1264,9 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
 
   <li>
+  <a href="seisrisk.php">
     <h2 id="SeisRisk">SeisRisk III</h2>
+  </a>
     <table>
       <tr>
         <th>Authors:</th>
@@ -1261,7 +1289,7 @@ also supports negative magnitudes, independent S models, and crustal models from
         <td>Text files</td>
       </tr>
         <th>Download:</th>
-        <td><a href="seisrisk.php" >See online documentation</a></td>
+        <td><a href="seisrisk.php">See online documentation</a></td>
       </tr>
     </table>
     <p>
@@ -1270,8 +1298,8 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
 
   <li>
-    <h2 id="shake">ShakeCast &ndash; ShakeMap RSS Reader</h2>
     <a href="shakecast.php">
+      <h2 id="shake">ShakeCast &ndash; ShakeMap RSS Reader</h2>
       <img src="images/ShakeCast.Icon.jpg" alt="ShakeCast Logo" width="120" height="99"/>
     </a>
     <table>
@@ -1295,14 +1323,6 @@ also supports negative magnitudes, independent S models, and crustal models from
         <th>Output:</th>
         <td>Email & txt messaging, PDF facility report, Web-based GUI using Google Maps.</td>
       </tr>
-      <tr>
-        <th>Examples:</th>
-        <td>Available at website</td>
-      </tr>
-      <tr>
-        <th>Manual:</th>
-        <td>Included in download file</td>
-      </tr>
         <th>Download:</th>
         <td><a href="shakecast.php" >See online documentation</a></td>
       </tr>
@@ -1311,6 +1331,27 @@ also supports negative magnitudes, independent S models, and crustal models from
       Delivers maps of areas affected by an earthquake.  Areas of interest can be defined, and shaking thresholds can be set to trigger automatic notifications.  Easy to integrate with in-house systems.
     </p>
   </li>
+
+  <li>
+    <a href="https://github.com/usgs/slab2">
+      <h2 id="slab2">Slab2</h2>
+      <img src="images/slab2.gif" alt="example of output" width="120"/>
+    </a>
+    <table>
+      <tr>
+        <th>Author:</th>
+        <td><a href="mailto:ghayes@usgs.gov">Gavin Hayes</a></td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="https://github.com/usgs/slab2">Slab2 github repository</a></td>
+      </tr>
+    </table>
+    <p>
+      A three-dimensional compilation of global subduction geometries, separated into regional models for each major subduction zone.
+    </p>
+  </li>
+
   <li>
     <h2 id="Slick">Slick Package</h2>
     <table>
@@ -1338,10 +1379,6 @@ also supports negative magnitudes, independent S models, and crustal models from
       <tr>
         <th>Output:</th>
         <td>Text, graphics via onnet stereonet plotting program</td>
-      </tr>
-      <tr>
-        <th>Examples:</th>
-        <td>Included in download file</td>
       </tr>
       <tr>
         <th>Manual:</th>
@@ -1380,9 +1417,10 @@ also supports negative magnitudes, independent S models, and crustal models from
         The zip was done with Zip 1.0 (29 September 1991).
     </p>
   </li>
+
   <li>
-    <h2 id="SLAMMER">SLAMMER - Seismic Landslide Movement Modeled using Earthquake Records</h2>
     <a href="https://pubs.usgs.gov/tm/12b1/">
+      <h2 id="SLAMMER">SLAMMER - Seismic Landslide Movement Modeled using Earthquake Records</h2>
       <img src="images/SLAMMERicon.jpg" alt="Logo" width="120" height="120"/>
     </a>
     <table>
@@ -1403,10 +1441,6 @@ also supports negative magnitudes, independent S models, and crustal models from
         <td>Java GUI</td>
       </tr>
       <tr>
-        <th>Manual:</th>
-        <td>Available from within the program after download</td>
-      </tr>
-      <tr>
         <th>Download:</th>
         <td><a href="https://pubs.usgs.gov/tm/12b1/">https://pubs.usgs.gov/tm/12b1/</a></td>
       </tr>
@@ -1423,9 +1457,10 @@ also supports negative magnitudes, independent S models, and crustal models from
       analysis.
     </p>
   </li>
+
   <li>
-    <h2 id="STATIC1D">STATIC1D</h2>
     <a href="ftp://hazards.cr.usgs.gov/web/software/STATIC1D.tar.gz">
+      <h2 id="STATIC1D">STATIC1D</h2>
       <img src="images/static1d.png" width="144" height="144" alt="icon"/>
     </a>
     <table>
@@ -1470,9 +1505,10 @@ also supports negative magnitudes, independent S models, and crustal models from
      distances ranging from local to global.
     </p>
   </li>
+
   <li>
-    <h2 id="strainz17">strainz17: Earthquake strains and rotations</h2>
     <a href="strainz17.php">
+      <h2 id="strainz17">Strainz17: Earthquake strains and rotations</h2>
       <img src="images/strainz17.gif" width="144" alt="plot"/>
     </a>
     <table>
@@ -1513,9 +1549,66 @@ also supports negative magnitudes, independent S models, and crustal models from
       Strainz17.m is a MATLAB-language function for deriving the best-fitting uniform strain tensor and rigid body rotation as functions of time, based on ground displacement or velocity recordings made on an array of sensors.  Strainz17.m implements the theory in Spudich et al. (J. Geophys. Res., 1995) and Spudich and Fletcher (Bull. Seismol. Soc. Am., 2008).  In addition to the strainz1717.m function, the downloadable file provides sample input and output data, and it provides functions for running the sample test cases.
     </p>
   </li>
+
   <li>
-    <h2 id="VISCO1D">VISCO1D</h2>
+    <a href="https://github.com/usgs/strec">
+      <h2 id="strec">STREC - SeismoTectonic Regime Earthquake Calculator</h2>
+    </a>
+    <table>
+      <tr>
+       <th>Author:</th>
+       <td><a href="mailto:mhearne@usgs.gov">Mike Hearne</a></td>
+      </tr>
+      <tr>
+       <th>Download:</th>
+       <td><a href="https://github.com/usgs/earthquake-hazard-tool">STREC github repository</a></td>
+      </tr>
+    </table>
+    <p>
+      Automatically determines the earthquake type (subduction zone interface, active crustal shallow, stable continental region, etc.) and the earthquake focal mechanism.
+    </p>
+  </li>
+
+  <li>
+    <a href="https://github.com/usgs/strongmotionfetch">
+      <h2 id="smfetch">StrongMotion Fetch</h2>
+    </a>
+    <table>
+      <tr>
+       <th>Author:</th>
+       <td><a href="mailto:mhearne@usgs.gov">Mike Hearne</a></td>
+      </tr>
+      <tr>
+       <th>Download:</th>
+       <td><a href="https://github.com/usgs/strongmotionfetch">StrongMotion Fetch github repository</a></td>
+      </tr>
+    </table>
+    <p>
+      Provides functionality to download and/or process strong motion data from various networks (Japan, New Zealand, IRIS, etc.) and save the peak ground motions in either ShakeMap "station" XML format or spreadhsheet format.
+    </p>
+  </li>
+
+  <li>
+    <a href="https://github.com/usgs/earthquake-hazard-tool">
+      <h2 id="unifiedhaztool">Unified Hazard Tool</h2>
+      <img src="images/unifhaztool.gif" width="144" alt=""/>
+    </a>
+    <table>
+      <tr>
+       <th>Author:</th>
+       <td><a href="mailto:pmpowers@usgs.gov">Peter Powers</a></td>
+      </tr>
+      <tr>
+       <th>Download:</th>
+       <td><a href="https://github.com/usgs/earthquake-hazard-tool">Unified Hazard Tool github repository</a></td>
+      </tr>
+    </table>
+    <p>Unified application for hazard calculations.</p>
+  </li>
+
+  <li>
     <a href="ftp://hazards.cr.usgs.gov/web/software/VISCO1D-v3-manual.pdf">
+      <h2 id="VISCO1D">VISCO1D</h2>
       <img src="images/visco1d.jpg" width="144" alt="plot"/>
     </a>
     <table>
@@ -1603,4 +1696,24 @@ also supports negative magnitudes, independent S models, and crustal models from
         a wide selection of spheroids.</p>
 </li>
 -->
+
+  <li>
+    <a href="https://github.com/usgs/earthquake-global_vs30">
+      <h2>Vs30 Global</h2>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td>Bruce Worden</td>
+      </tr>
+      </tr>
+        <th>Download:</th>
+        <td><a href="https://github.com/usgs/earthquake-global_vs30">Vs30 Global github repository</a></td>
+      </tr>
+    </table>
+    <p>
+      Creates a global topographic-slope based Vs30 model, and then inserts regional maps into the global map where they are available.
+    </p>
+  </li>
+
 </ul>
