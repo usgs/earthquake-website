@@ -40,7 +40,6 @@
     <li><a href="#OpenSHA">OpenSHA</a></li>
     <li><a href="#pdl">PDL</a></li>
     <li><a href="#PPHASEPICKER">PPHASEPICKER</a></li>
-    <li><a href="#PDL">PDL</a></li>
     <li><a href="#PQLX">PQLX</a></li>
     <li><a href="#Prism">Prism</a></li>
     <li><a href="#quakeml">Quakeml</a></li>
@@ -879,7 +878,7 @@ also supports negative magnitudes, independent S models, and crustal models from
     <table>
       <tr>
         <th>Authors:</th>
-        <td>HazDev Web Team</td>
+        <td><a href="mailto:jmfee@usgs.gov">Jeremy Fee</a>/td>
       </tr>
       <tr>
          <th>Download:</th>
@@ -887,9 +886,11 @@ also supports negative magnitudes, independent S models, and crustal models from
        </tr>
     </table>
     <p>
-      The Product Distribution Layer (PDL) receives and distributes many different types of products.
+      The Product Distribution Layer (PDL) is a USGS platform for receiving earthquake data over the Internet in near-real time.  PDL provides standard solutions for distribution, cataloging, and triggered processing, of earthquake information.  It is cross platform, and integrates with external systems using Command Line or Java APIs.
     </p>
-  </li>
+    <p>
+      PDL replaces the Earthquake Information Distribution System (EIDS) and Quake Data Merge (QDM) applications.
+    </p>  </li>
 
   <li>
     <a href="ftp://ehzftp.wr.usgs.gov/shaefner/PphasePicker.zip">
@@ -928,46 +929,6 @@ also supports negative magnitudes, independent S models, and crustal models from
     </table>
     <p>
        P<sub>PHASE</sub>P<sub>ICKER</sub> is a powerful tool for automatically picking P-phase onsets with high precision without requiring detection interval or threshold settings. The algorithm detects P-phase onset in single-component acceleration or broadband velocity records using the histogram method. P<sub>PHASE</sub>P<sub>ICKER</sub> has been integrated into the &ldquo;Automated Processing and Review Interface for Strong Motion Data (PRISM)&rdquo; software of the U.S. Geological Survey in order to identify the pre-event time-window for systematic and automated processing of large numbers of accelerograms. P<sub>PHASE</sub>P<sub>ICKER</sub> is written in Java and MatLAB. An example MatLAB code is provided in zip file to show how to run P<sub>PHASE</sub>P<sub>ICKER</sub> using a sample waveform. Its MatLAB version requires MatLAB&rsquo;s signal processing toolbox.
-    </p>
-  </li>
-
-  <li>
-    <h2 id="PDL">PDL - Product Distribution Layer</h2>
-    <table>
-      <tr>
-        <th>Author:</th>
-        <td><a href="mailto:jmfee@usgs.gov">Jeremy Fee</a></td>
-      </tr>
-      <tr>
-        <th>Usage:</th>
-        <td>Distribution of earthquake data over the Internet</td>
-      </tr>
-      <tr>
-        <th>Platform:</th>
-        <td>Any O/S that supports Java</td>
-      </tr>
-      <tr>
-        <th>Interface:</th>
-        <td>Runs in background</td>
-      </tr>
-      <tr>
-        <th>Output:</th>
-        <td></td>
-      </tr>
-      <tr>
-        <th>Examples:</th>
-        <td><a href="https://github.com/jmfee-usgs/pdl-client-examples">Configuration examples</a></td>
-      </tr>
-      <tr>
-        <th>Download:</th>
-        <td><a href="http://ehppdl1.cr.usgs.gov/">See online documentation</a></td>
-      </tr>
-    </table>
-    <p>
-      The Product Distribution Layer (PDL) is a USGS platform for receiving earthquake data over the Internet in near-real time.  PDL provides standard solutions for distribution, cataloging, and triggered processing, of earthquake information.  It is cross platform, and integrates with external systems using Command Line or Java APIs.
-    </p>
-    <p>
-      PDL replaces the Earthquake Information Distribution System (EIDS) and Quake Data Merge (QDM) applications.
     </p>
   </li>
 
