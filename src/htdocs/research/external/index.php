@@ -19,9 +19,11 @@ if (!isset($TEMPLATE)) {
 
     <h2>Annual Competitive Grants</h2>
 
+<!--
 <p>
   <strong><a href="https://www.grants.gov/web/grants/search-grants.html?keywords=G17AS00030">FY2018 Program Announcement</strong></a>
 </p>
+-->
 
     <p>
       External Grants issues an annual Program announcement for competitive proposals for grants and cooperative agreements to support research in earthquake hazards, the physics of earthquakes, earthquake occurrence, and earthquake safety policy.
