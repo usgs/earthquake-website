@@ -26,7 +26,7 @@ if (!isset($TEMPLATE)) {
 -->
 
     <p>
-      External Grants issues an annual Program announcement for competitive proposals for grants and cooperative agreements to support research in earthquake hazards, the physics of earthquakes, earthquake occurrence, and earthquake safety policy.
+      External Grants issues an annual Program announcement for competitive proposals for grants and cooperative agreements to support research in earthquake hazards, the physics of earthquakes, earthquake occurrence, and earthquake safety policy. To find out when the next application period will be, you can enroll on the <a href="http://grants.gov/">grants.gov</a> website to receive an email notification regarding "CFDA number 15.807 application period openings" : <a href="https://www.grants.gov/web/grants/manage-subscriptions.html">Manage Subscriptions</a>.
     </p>
 
     <p>
