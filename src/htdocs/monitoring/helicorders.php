@@ -32,16 +32,16 @@
       <li><a href="https://avo.alaska.edu/webicorders/" target="_blank">
         Alaska
       </a></li>
-      <li><a href="http://www4.nau.edu/geology/aeic/recent_heli.html" target="_blank">
-        Arizona-Flagstaff
+      <li><a href="https://www.cefns.nau.edu/Orgs/aeic/recent_heli.html" target="_blank">
+        Arizona-Northern
       </a></li>
       <li><a href="http://www.geo.arizona.edu/saso/Earthquakes/Current/TUC.html" target="_blank">
         Arizona-Tucson
       </a></li>
-      <li><a href="http://www.earthquakescanada.nrcan.gc.ca/stndon/wf-fo/index-eng.php" target="_blank">
+      <li><a href="http://www.earthquakescanada.nrcan.gc.ca/stndon/wf-fo/index-en.php" target="_blank">
         Canada
       </a></li>
-      <li><a href="http://www.ldeo.columbia.edu/LCSN/view_pal.html" target="_blank">
+      <li><a href="http://www.ldeo.columbia.edu/LCSN/view_pal.php" target="_blank">
         Eastern US-Lamont
       </a></li>
       <li><a href="http://aki.bc.edu/cgi-bin/NESN/24hr_heli" target="_blank">
@@ -53,7 +53,7 @@
       <li><a href="http://www.mgs.md.gov/seismic/helicorder.php" target="_blank">
         Maryland Geological Survey
       </a></li>
-      <li><a href="http://mbmgquake.mtech.edu/earthworm/wavef_disp/current/welcome.html" target="_blank">
+      <li><a href="http://mbmgquake-eidsserver.mtech.edu/welcome.html" target="_blank">
         Montana
       </a></li>
       <li><a href="http://www.seismo.unr.edu/Monitoring" target="_blank">
@@ -71,7 +71,7 @@
       <li><a href="http://www.ees.nmt.edu/eworm-heli/" target="_blank">
         New Mexico
       </a></li>
-      <li><a href="http://pnsn.org/seismograms/map/" target="_blank">
+      <li><a href="https://pnsn.org/seismograms/map/" target="_blank">
         Pacific Northwest
       </a></li>
       <li><a href=" http://www.prsn.uprm.edu/English/EstacionesV3/seismometers.php"  target="_blank">
@@ -116,8 +116,8 @@
       <li><a href="http://www.iris.washington.edu/bud_stuff/dmc/bud_monitor.ALL.html" target="_blank">
         Global-IRIS-BUD
       </a></li>
-      <li><a href="http://rev.seis.sc.edu/" target="_blank">
-        Global-IRIS-REV
+      <li><a href="http://www.iris.edu/hq/programs/epo/resources_for_viewing_seismograms" target="_blank">
+        Global-IRIS-Other
       </a></li>
       <li><a href="/monitoring/operations/heliplot.php?virtual_network=GSN"/>
         Global Seimographic Network (GSN)
@@ -140,7 +140,7 @@
       <li><a href="http://www.knmi.nl/nederland-nu/seismologie/aardbevingen" target="_blank">
         The Netherlands
       </a></li>
-      <li><a href="http://www.geonet.org.nz/quakes/drums/" target="_blank">
+      <li><a href="http://www.geonet.org.nz/earthquake/drums" target="_blank">
         New Zealand
       </a></li>
       <li><a href="http://www.norsardata.no/NDC/heliplots/" target="_blank">
@@ -151,9 +151,6 @@
       </a></li>
       <li><a href="http://sismic2.iec.cat/drupal/?q=content/estacions-s%C3%ADsmiques" target="_blank">
         Spain - El laboratori d'Estudis Geofísics Eduard Fontserè (LEGEF)
-      </a></li>
-      <li><a href="http://www1.igc.cat/web/ca/sismologia_sismograma.php" target="_blank">
-        Spain - Institut Cartogràfic i Geològic de Catalunya (ICGC)
       </a></li>
       <li><a href="http://www.ydbae.mam.gov.tr/sismogram/" target="_blank">
         Turkey
