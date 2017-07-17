@@ -812,7 +812,8 @@ also supports negative magnitudes, independent S models, and crustal models from
 
   <li>
     <h2 id="nshmp">NSHMP Models, Codes and Catalogs - National Seismic Hazard Mapping Project</h2>
-    <img src="images/hazmap-2x.gif" alt="US hazard map" width="120"/>
+    <a href="https://github.com/usgs/nshmp-haz">
+    <img src="images/hazmap-2x.gif" alt="US hazard map" width="120"/></a>
     <table>
       <tr>
         <th>Author:</th>
