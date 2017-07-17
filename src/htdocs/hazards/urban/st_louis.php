@@ -73,7 +73,7 @@ if	(!isset($TEMPLATE))	{
     <a href="ftp://ftpext.usgs.gov/pub/cr/co/golden/hazards/SLAEHMP/StL_geotech_final_RV v2003.mdb">Download the St. Louis Area Surficial Materials Database</a> (31MB)
   </li>
   <li>
-    <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/G15AC00017.pdf">Report describing the St. Louis area surficial materials database</a> (1.4MB PDF)
+    <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/05HQGR0019.pdf">Report describing the St. Louis area surficial materials database</a> (1.4MB PDF)
   </li>
   <li>
     <a href="/research/external/reports/06HQGR0026.pdf"></a>2008 St. Louis, Metro Area Shear Wave Velocity Testing (2.6MB PDF)
