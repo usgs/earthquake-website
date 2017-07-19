@@ -12,8 +12,8 @@
 <h2>Science Information</h2>
 
 <ul>
-<li>
-  <li><a href="https://www.usgs.gov/media/videos/listen-earthquakes">Listen to Earthquakes</a></li> href="https://www.usgs.gov/media/videos/hazards-californias-delta-water-system">Hazards to California's Delta Water System</a></li>
+  <li><a href="https://www.usgs.gov/media/videos/listen-earthquakes">Listen to Earthquakes</a></li>
+  <li><a href="https://www.usgs.gov/media/videos/hazards-californias-delta-water-system">Hazards to California's Delta Water System</a></li>
   <li><a href="https://www.usgs.gov/media/videos/catching-quakes">Catching the Quakes</a></li>
   <li><a href="https://www.usgs.gov/media/videos/propagation-seismic-waves-atwood-building-top-view"> Propagation of Seismic Waves in Atwood Building, Top View</a></li>
   <li><a href="https://www.usgs.gov/media/videos/propagation-seismic-waves-atwood-building-oblique-view">Propagation of Seismic Waves, Atwood Building, Oblique View</a></li>
