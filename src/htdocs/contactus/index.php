@@ -41,7 +41,7 @@ if (!isset($TEMPLATE)) {
     <h3>For General Public and Media</h3>
     <ul>
       <li><a href="media.php">Media Contacts and Information</a></li>
-      <li>Earthquake Questions or Website Comments - Use the <a href="https://answers.usgs.gov/cgi-bin/gsanswers">Questions or comments?</a> link at the bottom of every webpage. Then select the topic Natural Hazards.</li>
+      <li>Earthquake Questions or Website Comments - Use the <a href="mailto:lisa+ehpweb@usgs.gov?cc=lkpratt+ehpweb@usgs.gov">Questions or comments?</a> link at the bottom of every webpage.</li>
     </ul>
 
     <h3>Looking for Something Else?</h3>
