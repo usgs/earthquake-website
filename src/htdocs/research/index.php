@@ -114,7 +114,7 @@ if (!isset($TEMPLATE)) {
           <a href="/contactus/pasadena/">Pasadena Field Office, Pasadena, CA</a>
         </li>
         <li>
-          <a href="/contactus/golden/">Geologic Hazards Science Center, Golden, CA</a>
+          <a href="/contactus/golden/">Geologic Hazards Science Center, Golden, CO</a>
         </li>
       </ul>
     </div>
