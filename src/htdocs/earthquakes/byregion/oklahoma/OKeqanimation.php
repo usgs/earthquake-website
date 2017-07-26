@@ -17,4 +17,4 @@
 
 <h2>Animation of Oklahoma Seismicity: June 9, 2008 - February 25, 2017</h2>
 
-<video src="OKSeis_17-02-27_16x9.mp4" poster="images/OKseismicity-poster.gif" width="960" height="540" controls></video>
+<video src="OKSeis_17-07-23_16x9.mp4" poster="OKseismicity-poster.gif" width="960" height="540" controls></video>
