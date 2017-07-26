@@ -1,3 +1,4 @@
+/* global CATALOG_URL */
 'use strict';
 
 
@@ -6,6 +7,7 @@ var EqList = require('listwidget/EqList');
 
 var catalog,
     el,
+    feed,
     url;
 
 el = document.querySelector('.catalog-events');
@@ -13,22 +15,27 @@ if (el) {
   catalog = el.getAttribute('data-catalog');
   if (catalog) {
 
-    el.innerHTML = '<h2>Scenarios</h2>' +
+    if (CATALOG_URL) {
+      url = CATALOG_URL;
+    } else {
+      url = '/scenarios/map/#' + encodeURIComponent(JSON.stringify({'feed': catalog}));
+    }
+
+
+    el.innerHTML =
+        '<h2>Scenarios</h2>' +
         '<div class="scenario-map">' +
           '<img src="/scenarios/images/' + catalog + '.gif" ' +
               'alt="map icon" />' +
           '<div class="description">' +
-            '<a href="/scenarios/map/#' +
-                encodeURIComponent(JSON.stringify({'feed': catalog})) + '">' +
-              'View the Catalog on a Map' +
-            '</a>' +
+            '<a href="' + url + '">' + 'View the Catalog on a Map' + '</a>' +
           '</div>' +
         '</div>' +
         '<div class="scenarios">' +
           '<p class="alert info">Loading scenarios&hellip;</p>' +
         '</div>';
 
-    url = '/fdsnws/scenario/1/query.geojson?' +
+    feed = '/fdsnws/scenario/1/query.geojson?' +
         [
           'callback=eqfeed_callback',
           'starttime=1900-01-01',
@@ -51,7 +58,7 @@ if (el) {
         }
       },
       container: el.querySelector('.scenarios'),
-      feed: url
+      feed: feed
     });
   }
 }
