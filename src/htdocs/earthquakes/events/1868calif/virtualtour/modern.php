@@ -18,7 +18,7 @@ include_once ('_functions.inc.php');
       <div class="column four-of-five">
         <h3> How Likely is a Damaging Earthquake in the Bay Area? </h3>
         <p>In 2007, earthquake scientists led by the USGS, CGS, and SCEC estimated that there is a 63% probability of a magnitude 6.7 or greater earthquake in the Bay Area in the next 30 years. Although the hazard is spread throughout the Bay Area, some faults are more likely to rupture than others. The two faults in the San Francisco Bay Area most likely to have a damaging earthquake are the Hayward-Rodgers Creek fault system (31%) and the San Andreas Fault (21%). The East Bay has a higher earthquake hazard than the San Francisco peninsula due to the Hayward-Rogers Creek Fault and the higher number of faults that traverse the East Bay. Which fault is closest to your house? What probability for a magnitude 6.7 or greater earthquake in the next 30 years have scientists assigned to it? For a detailed explanation visit the <a href="http://pubs.usgs.gov/fs/2008/3027/">2007 Earthquake Probability study</a></p>
-        <p class="kml"><a href="../kml/BayAreaEQProbability.kmz">Earthquake Probabilities</a> <?php print(simpleFileSize("kml/BayAreaEQProbability.kmz"));  ?> </p>
+        <p class="kml"><a href="kml/BayAreaEQProbability.kmz">Earthquake Probabilities</a> <?php print(simpleFileSize("kml/BayAreaEQProbability.kmz"));  ?> </p>
       </div>
     </div>
   </li>
@@ -63,6 +63,7 @@ include_once ('_functions.inc.php');
     </div>
   </li>
 </ul>
-<!--<h2>What Can I Do?</h2>
-<p>To find out what you and your family should do to prepare, and to learn more about earthquake hazards in your community and neighborhood, please see these additional <a href="/regional/nca/resources/">Earthquake Hazard Resources</a>.</p>
--->
+
+<h2>What Can I Do?</h2>
+
+<p>To find out what you and your family should do to prepare, and to learn more about earthquake hazards in the San Francisco Bay Area, please see these <a href="/contactus/menlo/prepare/">Preparedness Handbooks</a>.</p>
