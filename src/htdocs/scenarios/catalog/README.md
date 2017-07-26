@@ -29,7 +29,8 @@ More complete example:
 {
   "id": "nc",
   "title": "Northern California Seismic System, UC Berkeley and USGS Menlo Park",
-  "url": "http://www.ncedc.org/",
+  "attribution-url": "http://www.ncedc.org/",
+  "catalog-url": "https://earthquake.usgs.gov/scenarios/map/#%7B%22feed%22%3A%22nclegacy%22%7D",
   "email": "ncsn@andreas.wr.usgs.gov",
   "address": {
     "org": "U.S. Geological Survey\nSeismology Section",

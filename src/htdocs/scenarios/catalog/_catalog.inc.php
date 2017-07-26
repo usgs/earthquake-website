@@ -11,7 +11,7 @@ if (!isset($TEMPLATE)) {
 
     $id = $json['id'];
     $title = $json['title'];
-    $url = $json['url'];
+    $url = $json['attribution-url'];
     $logo = '../logos/' . $id . '.svg';
 
     $TITLE = strtoupper($id) . ' (Scenario Catalog)';
@@ -29,11 +29,17 @@ if (!isset($TEMPLATE)) {
   $HEAD = '<link rel="stylesheet" href="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.css"/>' .
       '<link rel="stylesheet" href="../catalog.css"/>';
 
-  $FOOT = '<script src="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.js"></script>' .
+  $FOOT = '
+      <script>
+        var CATALOG_URL = "' . $json['catalog-url'] . '"' .
+      '</script>
+
+      <script src="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.js"></script>' .
       '<script src="../catalog.js"></script>';
 
   include 'template.inc.php';
 }
+
 
 echo '<h2 class="org fn">' . $title . '</h2>';
 
