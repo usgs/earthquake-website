@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-08-01',
+  'title' => 'Harvesting Earthquake Fault Slip f­rom Laser Images of Napa&apos;s Vineyards',
+  'content' => 'A new U.S. Geological Survey-led study suggests that earthquake-related deformation just below the Earth&apos;s surface can be quite different from how it is expressed at the surface.',
+  'link' => 'https://www.usgs.gov/news/harvesting-earthquake-fault-slip-f-rom-laser-images-napas-vineyards',
+  'modified' => strtotime('2017-08-01'),
+  'thumbnail' => '/images-featured/NapaEQshallowslip.jpg',
+  'image' => '/images-featured/NapaEQshallowslip.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-07-31',
   'title' => 'New Earthquake Scenario Maps and Interface',
   'content' => 'Check out the new GIS ineractive map for viewing nearly 800 new ShakeMap earthquake scenarios developed for the continental United States.',

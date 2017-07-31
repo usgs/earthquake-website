@@ -139,9 +139,9 @@
 </section>
 
 <section class="column one-of-two">
-  <h2>U.S. Cumulative Responses 1991&mdash;2015</h2>
+  <h2>U.S. Cumulative Responses 1991&mdash;2016</h2>
   <img class="map-cumul" src="images/US_cumul2016.png" alt="all U.S. DYFI responses through 2016"/>
-  <h2>Global Cumulative Responses 1991&mdash;2015</h2>
+  <h2>Global Cumulative Responses 1991&mdash;2016</h2>
   <img class="map-cumul" src="images/Global_cumul2016.png" alt="all Global DYFI responses through 2016"/>
 </section>
 
