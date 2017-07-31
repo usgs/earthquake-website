@@ -25,6 +25,12 @@
       <th>Global</th>
     </thead>
     <tr>
+      <td>2016</td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/data/dyfi/pdfs-us/US2016.pdf">U.S. 2016 Map</a></td>
+      <td><a href="ftp://hazards.cr.usgs.gov/web/data/dyfi/pdfs-global/Global2016.pdf">Global 2016 Map</a></td>
+    </tr>
+
+    <tr>
       <td>2015</td>
       <td><a href="ftp://hazards.cr.usgs.gov/web/data/dyfi/pdfs-us/US2015.pdf">U.S. 2015 Map</a></td>
       <td><a href="ftp://hazards.cr.usgs.gov/web/data/dyfi/pdfs-global/Global2015.pdf">Global 2015 Map</a></td>
@@ -134,9 +140,9 @@
 
 <section class="column one-of-two">
   <h2>U.S. Cumulative Responses 1991&mdash;2015</h2>
-  <img class="map-cumul" src="images/US_cumulative2015.png" alt="all U.S. DYFI responses through 2015"/>
+  <img class="map-cumul" src="images/US_cumul2016.png" alt="all U.S. DYFI responses through 2016"/>
   <h2>Global Cumulative Responses 1991&mdash;2015</h2>
-  <img class="map-cumul" src="images/Global_cumulative2015.png" alt="all Global DYFI responses through 2015"/>
+  <img class="map-cumul" src="images/Global_cumul2016.png" alt="all Global DYFI responses through 2016"/>
 </section>
 
 </div>
