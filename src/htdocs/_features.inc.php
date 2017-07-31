@@ -11,6 +11,15 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+$EQ_FEATURES->items[] = array(
+  'id' => '2017-07-31',
+  'title' => 'New Earthquake Scenario Maps and Interface',
+  'content' => 'Check out the new GIS ineractive map for viewing nearly 800 new ShakeMap earthquake scenarios developed for the continental United States.',
+  'link' => 'http://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=14d2f75c7c4f4619936dac0d14e1e468',
+  'modified' => strtotime('2017-07-31'),
+  'thumbnail' => '/images-featured/scenario-gismaps.gif',
+  'image' => '/images-featured/scenario-gismaps.gif'
+);
 
 $EQ_FEATURES->items[] = array(
   'id' => '2017-06-23',
@@ -21,7 +30,6 @@ $EQ_FEATURES->items[] = array(
   'thumbnail' => '/images-featured/EQlossEst-2017.gif',
   'image' => '/images-featured/EQlossEst-2017.gif'
 );
-
 
 $EQ_FEATURES->items[] = array(
   'id' => '2017-06-22',
