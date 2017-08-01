@@ -24,7 +24,7 @@ $EQ_FEATURES->items[] = array(
 $EQ_FEATURES->items[] = array(
   'id' => '2017-07-31',
   'title' => 'New Earthquake Scenario Maps and Interface',
-  'content' => 'Check out the new GIS ineractive map for viewing nearly 800 new ShakeMap earthquake scenarios developed for the continental United States.',
+  'content' => 'Check out the new GIS interactive map for viewing nearly 800 new ShakeMap earthquake scenarios developed for the continental United States.',
   'link' => 'http://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=14d2f75c7c4f4619936dac0d14e1e468',
   'modified' => strtotime('2017-07-31'),
   'thumbnail' => '/images-featured/scenario-gismaps.gif',
