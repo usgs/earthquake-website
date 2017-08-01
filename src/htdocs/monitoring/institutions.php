@@ -38,7 +38,7 @@
 <ul>
 	<li><a href="http://www.ga.gov.au/">Geoscience Australia</a></li>
 	<li><a href="http://www.gsa.org.au/">Geological Society of Australia</a></li>
-	<li><a href="http://www.quakes.uq.edu.au/">University of Queensland ESSCC Seimsological Observatory</a></li>
+	<li><a href="http://quakes.earth.uq.edu.au/">University of Queensland ESSCC Seimsological Observatory</a></li>
 	<li><a href="http://www.src.com.au/">Seismology Research Centre</a></li>
 	<li><a href="http://www.esands.com/news/Archive.html">Australian Earthquake News</a></li>
 	<li><a href="http://rses.anu.edu.au/seismology/">Seismology &amp; Geomagnetism Group, Australian National University</a></li>
