@@ -22,6 +22,6 @@ before and after the 1906 earthquake.</p></div>
 <ul>
  <li>1838 - Peninsula Segment of the San Andreas (M~7)</li>
  <li>1868 - Southern Hayward fault (M~7)</li>
- <li>1906 - San Andreas fault (M7.7-7.9)</li>
+ <li>1906 - San Andreas fault (M7.9)</li>
  <li>1989 - Loma Prieta (M7.0)</li>
 </ul>

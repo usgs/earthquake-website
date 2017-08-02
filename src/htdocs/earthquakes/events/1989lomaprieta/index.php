@@ -1,6 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
-  $TITLE = 'M6.9 October 17, 1989 Loma Prieta Earthquake';
+  $TITLE = 'M 6.9 October 17, 1989 Loma Prieta Earthquake';
   $HEAD = '<link rel="stylesheet" href="style.css" />';
   $FOOT = '';
   $NAVIGATION = true;
@@ -75,7 +75,7 @@ if (!isset($TEMPLATE)) {
       </ol>
     </p>
   </li>
-  
+
 </ul>
 
 <h2>See Also</h2>
