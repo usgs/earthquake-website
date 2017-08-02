@@ -14,7 +14,7 @@ if (!isset($TEMPLATE)) {
 
 <p> One great value of old seismograms is that we can make quantitative comparisons of 1906 with the 1989 Loma Prieta earthquake. Fortunately, the same seismograph instrument at Gottingen, Germany was operating during both earthquakes. </p>
 
-<p> If the Loma Prieta (M~7.0) trace looks smaller, it is because the 1906 (M~7.8) earthquake released approximately 16 times more energy:</p>
+<p> If the Loma Prieta (M 6.9) trace looks smaller, it is because the 1906 (M 7.9) earthquake released approximately 16 times more energy:</p>
 
 <img src="images/1906_loma_prieta.gif" alt="Comparison of 1906 and Loma Prieta records at Gottingen, Germany."  />
 

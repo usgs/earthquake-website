@@ -20,7 +20,7 @@ if (!isset($TEMPLATE)) {
 
 <h3>M = 7.9</h3>
 
-<p> Wayne Thatcher, Grant Marshall, and Michael Lisowski (U.S.G.S.)  have re-evaluated the geodetic data from before and after the 1906 earthquake. The offset on the fault plane produces ground deformation over a broad region around the fault. This deformation manifests itself as changes in the angles and distances between benchmarks in geodetic networks. Using the observed changes, these scientists constructed models of the slip distribution on the fault plane in 1906. Based on the amount of slip, these models suggest a moment-magnitude (Mw) of 7.9.</p>
+<p> Wayne Thatcher, Grant Marshall, and Michael Lisowski (USGS)  have re-evaluated the geodetic data from before and after the 1906 earthquake. The offset on the fault plane produces ground deformation over a broad region around the fault. This deformation manifests itself as changes in the angles and distances between benchmarks in geodetic networks. Using the observed changes, these scientists constructed models of the slip distribution on the fault plane in 1906. Based on the amount of slip, these models suggest a moment-magnitude (Mw) of 7.9.</p>
 
 <h3>M = 8.3?</h3>
 
