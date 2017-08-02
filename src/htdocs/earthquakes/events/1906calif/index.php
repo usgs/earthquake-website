@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'M7.9 April 18, 1906 San Francisco Earthquake';
+  $TITLE = 'M 7.9 April 18, 1906 San Francisco Earthquake';
   $HEAD = '<link rel="stylesheet" href="style.css" />';
   $NAVIGATION  = true;
 
@@ -51,7 +51,7 @@ if (!isset($TEMPLATE)) {
       <h3>1906 San Francisco Earthquake</h3>
       <img src="img/1906-damage.jpg" alt="Photo of SF City Hall damage">
     </a>
-    <p>Scientific overview of the M 7.8 earthquake that occurred on the San Andreas fault on April 18, 1906.</p>
+    <p>Scientific overview of the M 7.9 earthquake that occurred on the San Andreas fault on April 18, 1906.</p>
   </li>
   <li>
     <a href="http://pubs.usgs.gov/gip/2006/16/">
