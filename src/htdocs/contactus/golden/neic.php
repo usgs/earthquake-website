@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Jill McCarthy
-  // Last modified: 07/21/2015
   if (!isset($TEMPLATE)) {
   $TITLE = 'National Earthquake Information Center (NEIC)';
   $NAVIGATION = true;
@@ -35,6 +34,8 @@
     <br />
     Denver, Colorado 80225-0046
     </p>
+
+    <p>NEIC: 303-273-8500</p>
   </div>
 
   <div class="column one-of-three">

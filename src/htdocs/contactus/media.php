@@ -8,12 +8,12 @@ include 'template.inc.php';
 
 <ul>
   <li>
-    <a href="https://www.usgs.gov/newsroom/contacts.asp">
-    USGS News Room</a>
+    <a href="https://www.usgs.gov/news/media-contacts">
+    USGS Media Contacts</a>
   </li>
   <li>
-    <a href="https://www.usgs.gov/newsroom/interview.asp">
-    Request an Interview</a>
+    <a href="https://www.usgs.gov/news/im-a-reporter">
+    I&apos;m a Reporter</a>
   </li>
 </ul>
 
@@ -22,11 +22,11 @@ include 'template.inc.php';
   <li>
     <a href="golden/neic.php">
     National &amp; International Earthquakes - NEIC</a><br/>
-    1711 Illinois St., Golden, CO 80401,303-273-8500</li>
+    1711 Illinois St., Golden, CO 80401, 303-273-8500</li>
 
   <li><a href="menlo/">
     Western U.S. Earthquakes - USGS Earthquake Science Center</a><br/>
-    345 Middlefield Rd. MS-977, Menlo Park, CA 94025 , 800-329-4085 or
+    345 Middlefield Rd. MS-977, Menlo Park, CA 94025, 800-329-4085 or
     650-329-4668
   </li>
 </ul>
