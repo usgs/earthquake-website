@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Lisa Wald
-  // Last modified: 05/09/2016, Lisa Wald
   if (!isset($TEMPLATE)) {
   $TITLE = 'Information by Region-Indiana';
   $NAVIGATION = true;
@@ -21,6 +20,7 @@
   <li><a href="https://pubs.usgs.gov/imap/i-2812/">Earthquakes in the Central United States:1699-2002</a></li>
   <li><a href="/hazards/urban/evansville/">Evansville Area Earthquake Hazards Mapping Project</a></li>
   <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=71">New Madrid Seismic Zone</a></li>
+  <li><a href="https://pubs.usgs.gov/gip/119/">Putting Down Roots in Earthquake Country—Your Handbook for Earthquakes in the Central United States</a></li>
 </ul>
 
 <h2>Organizations</h2>

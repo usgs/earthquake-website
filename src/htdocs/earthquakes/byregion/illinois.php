@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Lisa Wald
-  // Last modified: 05/09/2016, Lisa Wald
   if (!isset($TEMPLATE)) {
   $TITLE = 'Information by Region-Illinois';
   $NAVIGATION = true;
@@ -22,6 +21,7 @@
   <li><a href="https://earthquake.usgs.gov/hazards/urban/st_louis.php">St. Louis Area Earthquake Hazards Mapping Project</a></li>
   <li><a href="http://www.isgs.illinois.edu/earthquakes">Earthquakes in Illinois: 1795-2015</a></li>
   <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=71">New Madrid Seismic Zone</a></li>
+  <li><a href="https://pubs.usgs.gov/gip/119/">Putting Down Roots in Earthquake Country—Your Handbook for Earthquakes in the Central United States</a></li>
   <li><a href="/earthquakes/eventpage/us19681109">M5.8 Illinois Earthquake</a> - November 9, 1968 | <a href="/earthquakes/eventpage/us19681109#dyfi">Did You Feel It? Map</a></li>
 </ul>
 
