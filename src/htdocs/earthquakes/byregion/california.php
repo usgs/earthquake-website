@@ -32,6 +32,7 @@
 
 <h2>Topics of Interest</h2>
 <ul>
+  <li><a href="https://www.earthquakecountry.org/booklets/">Staying Safe Where the Earth Shakes, and Putting Down Roots in Earthquake Country</a> - preparedness booklets</li>
   <li><a href="http://projects.eri.ucsb.edu/sb_eqs/">Santa Barbara Earthquake History</a> - University of California, Santa Barbara</li>
   <li><a href="http://www.sbnature.org/dibblee/index-2.html">Dibblee Foundation Geological Maps</a></li>
   <li><a href="https://pubs.er.usgs.gov/publication/ofr95693">Earthquake Damage in Greater Los Angeles Poster</a></li>

@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Lisa Wald
-  // Last modified: 05/09/2016, Lisa Wald
   if (!isset($TEMPLATE)) {
   $TITLE = 'Information by Region-Arkansas';
   $NAVIGATION = true;
@@ -20,6 +19,7 @@
 <ul>
   <li><a href="https://pubs.usgs.gov/imap/i-2812/">Earthquakes in the Central United States:1699-2002</a> - Map and Information</li>
   <li><a href="/learn/topics/topics.php?topicID=71">New Madrid Seismic Zone</a></li>
+  <li><a href="https://pubs.usgs.gov/gip/119/">Putting Down Roots in Earthquake Country—Your Handbook for Earthquakes in the Central United States</a></li>
   <li><a href="https://pubs.usgs.gov/of/2015/1070/">Incorporating Induced Seismicity in the 2014 United States National Seismic Hazard Model—Results of 2014 Workshop and Sensitivity Studies</a> - OFR 2015-1070</li>
   <li><a href="/research/induced/">Induced Earthquakes</a></li>
 </ul>
