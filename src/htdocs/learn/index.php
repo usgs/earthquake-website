@@ -65,7 +65,6 @@
           <a href="publications/pubs_factsheets.php">Fact Sheets</a><br/>
           <a href="publications/pubs_geninfo.php">General Information</a><br/>
           <a href="publications/pubs_maps.php">Maps</a><br/>
-          <a href="publications/pubs_multimedia.php">Multimedia</a><br/>
           <a href="publications/pubs_ofr_bull_circ.php">Open-File Reports, Bulletins, Circulars</a>
         </p>
       </li>
@@ -115,10 +114,9 @@
       <ul>
         <li><a href="photos.php">Earthquake Photos</a> - earthquake effects and damage.</li>
       </ul>
-      <img src="" alt="">
       <p>Educational videos and audio interviews on a variety of earthquake topics.</p>
       <ul>
-        <li><a href="videos.php">Videos</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLIxlFowAfHBDV9pX14VT-XYn0fP5vsfhN" target="_blank">Videos</a></li>
         <li><a href="podcasts.php">PodCasts</a></li>
       </ul>
     </div>

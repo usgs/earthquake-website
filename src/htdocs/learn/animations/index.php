@@ -117,12 +117,10 @@
   </div>
 </div>
 
-<h3>More USGS Videos and Animations</h3>
+<h3>More Videos and Animations</h3>
 <ul>
-	<li><a href="http://education.usgs.gov/common/video_animation.htm#earthquakes">Earthquakes</a></li>
-	<li><a href="http://education.usgs.gov/common/video_animation.htm#tectonics">Plate Tectonics</a></li>
-	<li><a href="http://education.usgs.gov/common/video_animation.htm#geology">Geology</a></li>
-	<li><a href="http://education.usgs.gov/common/video_animation.htm#tsunamis">Tsunamis</a></li>
+  <li><a href="https://geomaps.wr.usgs.gov/parks/animate/">Plate Tectonic Animations</a></li>
+  <li><a href="https://walrus.wr.usgs.gov/tsunami/">Tsunami Animations</a></li>
 </ul>
 
 <p>
