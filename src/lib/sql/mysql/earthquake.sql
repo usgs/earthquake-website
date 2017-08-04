@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-08-03 18:12:03 +0000
+# Generation Time: 2017-08-04 15:14:42 +0000
 # ************************************************************
 
 
@@ -5271,11 +5271,6 @@ VALUES
 	(228,4,10,'Taking the Earth\'s Pulse','https://pubs.er.usgs.gov/publication/fs10397','(FS-103-97)'),
 	(153,1,5,'Digital Map showing faults, lineaments, and earthquake epicenters in the Pahute Mesa 30\' x 60\' quadrangle, Nevada','http%3A%2F%2Fpubs.er.usgs.gov%2Fusgspubs%2Fofr%2Fofr96262',''),
 	(154,1,4,'Eastern United States Infrastructure at Risk','http%3A%2F%2Fpubs.er.usgs.gov%2Fusgspubs%2Fofr%2Fofr95241',''),
-	(155,6,18,'Public Broadcasting\'s SAVAGE EARTH,','http%3A%2F%2Fwww.pbs.org%2Fwnet%2Fsavageearth%2F','1998, 4 1-hour episodes, Middle School to college'),
-	(156,6,18,'The Hayward Fault - We Can\'t  Ignore It','http%3A%2F%2Fearthquake.usgs.gov%2Fregional%2Fnca%2Fhayward.php','1995, 60 minutes, in color, Middle School to college'),
-	(158,6,18,'Hidden Fury - The New Madrid Earthquake Zone','http%3A%2F%2Fwww.bullfrogfilms.com%2Fcatalog%2Fhid.html','1993, 27 minutes, in color, High School and up'),
-	(159,6,19,'Digital recordings of aftershocks of the October 17, 1989','http%3A%2F%2Fpubs.er.usgs.gov%2Fusgspubs%2Fofr%2Fofr90683B','Loma Prieta, California, earthquake : Santa Cruz, Los Gatos, and surrounding areas, Part B - Computer disc'),
-	(160,6,19,'GLORIA imagery and bathymetry from the U.S. EEZ off Washington, Oregon, and California','http%3A%2F%2Fpubs.er.usgs.gov%2Fusgspubs%2Fofr%2Fofr91396',''),
 	(194,1,2,'Urban Seismic Hazard Maps','/hazards/urban/',''),
 	(251,4,10,'Earthquakes Pose a Serious Hazard in Afghanistan','https://pubs.er.usgs.gov/publication/fs20073027','(FS-2007-3027)'),
 	(246,4,10,'Earthquake Information Products and Tools from the Advanced National Seismic System (ANSS)','https://pubs.er.usgs.gov/publication/fs20063050','(FS-2006-3050)'),
@@ -5304,9 +5299,6 @@ VALUES
 	(273,2,6,'Earthquake science explained: a series of ten short articles for students, teachers, and families','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2006%2F21%2F','(GIP-21)'),
 	(274,1,2,'Preliminary Earthquake Hazard Map of Afghanistan','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2007%2F1137%2F','(OFR-07-1137)'),
 	(276,8,36,'The ShakeOut Earthquake Scenario-A Story That Southern Californians Are Writing','http%3A%2F%2Fpubs.usgs.gov%2Fcirc%2F1324%2F','(Circular 1324)'),
-	(278,6,18,'USGS Earthquake Videos','http%3A%2F%2Feducation.usgs.gov%2Fcommon%2Fvideo_animation.htm%23earthquakes',''),
-	(279,6,18,'USGS Plate Tectonics Videos','http%3A%2F%2Feducation.usgs.gov%2Fcommon%2Fvideo_animation.htm%23tectonics',''),
-	(280,6,18,'USGS Tsunami Videos','http%3A%2F%2Feducation.usgs.gov%2Fcommon%2Fvideo_animation.htm%23tsunamis',''),
 	(451,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for Earthquakes in Utah','https%3A%2F%2Fussc.utah.gov%2Fpages%2Fsearch.php%3Fsearch%3D%21collection17',''),
 	(447,1,3,'Seismicity of the Earth 1900-2007','http%3A%2F%2Fearthquake.usgs.gov%2Fearthquakes%2Fworld%2Fseismicity_maps%2Findex.php',''),
 	(448,4,10,'PAGER - Rapid Assessment of an Earthquake\'s Impact','https://pubs.er.usgs.gov/publication/fs20103036','(FS-2010-3036)'),
@@ -5358,7 +5350,6 @@ VALUES
 	(1,'Maps','Earthquake maps, fault maps, siesmic hazard maps, and site response maps, both online and print.'),
 	(2,'General Information','Earthquake bibliographies, General Interest publications, plate tectonics, and tsunami publications.'),
 	(4,'Fact Sheets','2-page and 4-page short summaries of a variety of earthquake-related topics and current research, most downloadable.'),
-	(6,'Multimedia','CD-ROM\'s and videos about earthquakes.'),
 	(8,'Open-File Reports/Bulletins/Circulars','Longer and more detailed publications about a variety of earthquake topics, specific earthquakes, and current research.');
 
 /*!40000 ALTER TABLE `productsCategory` ENABLE KEYS */;
@@ -5393,8 +5384,6 @@ VALUES
 	(12,4,'Pacific Northwest'),
 	(13,4,'Central and Eastern US'),
 	(14,4,'Other'),
-	(18,6,'Videos'),
-	(19,6,'CDROMs'),
 	(23,2,'Tsunami Publications'),
 	(36,8,'No Sub Category'),
 	(53,4,'Hawaii');
