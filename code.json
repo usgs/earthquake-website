@@ -1,0 +1,30 @@
+{
+  "name": “earthquake-website”,
+  "organization": "U.S. Geological Survey",
+  "description": “USGS Earthquake Hazards Program website”,
+  "status": “active”,
+  "homepage": "https://github.com/usgs/earthquake-website",
+  "downloadURL": "https://github.com/usgs/earthquake-website/archive/master.zip",
+
+  "openSourceProject": 1,
+  "license": "https://github.com/usgs/earthquake-website/blob/master/LICENSE.md",
+  "vcs": "git",
+  "repository": "https://github.com/usgs/earthquake-website.git",
+
+  "tags": [
+    “U.S. Geological Survey“,
+    “USGS“,
+    “earthquake”
+  ],
+  "languages": [
+    “English”
+  ],
+
+  "contact": {
+    "name": “Lisa Wald“,
+    "email": “lisa@usgs.gov”
+  },
+  "updated": {
+    "metadataLastUpdated": “2017-08-07”
+  }
+}
