@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-08-014',
+  'title' => 'Will the solar eclipse in North America effect faults or cause earthquakes? ',
+  'content' => 'No. There are partial eclipses several times a year, and these orbital alignments are no different than those that have been researched and found to have no immediate effect on the occurrence of earthquakes (if any at all). (Image courtesy of nasa.gov)',
+  'link' => 'https://www.usgs.gov/faqs/can-position-moon-or-planets-affect-seismicity-are-there-more-earthquakes-morningin-eveningat-a?qt-news_science_products=7#qt-news_science_products',
+  'modified' => strtotime('2017-08-14'),
+  'thumbnail' => '/images-featured/solar-eclipse-nasa.jpg',
+  'image' => '/images-featured/solar-eclipse-nasa.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-08-01',
   'title' => 'Harvesting Earthquake Fault Slip f­rom Laser Images of Napa&apos;s Vineyards',
   'content' => 'A new U.S. Geological Survey-led study suggests that earthquake-related deformation just below the Earth&apos;s surface can be quite different from how it is expressed at the surface.',
