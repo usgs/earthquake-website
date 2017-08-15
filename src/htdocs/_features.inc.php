@@ -12,13 +12,23 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
-  'id' => '2017-08-014',
-  'title' => 'Will the solar eclipse in North America affect faults or cause earthquakes? ',
+  'id' => '2017-08-14',
+  'title' => 'Will the solar eclipse in North America affect faults or cause earthquakes?',
   'content' => 'No. There are partial eclipses several times a year, and these orbital alignments are no different than those that have been researched and found to have no immediate effect on the occurrence of earthquakes (if any at all). (Image courtesy of nasa.gov)',
   'link' => 'https://www.usgs.gov/faqs/can-position-moon-or-planets-affect-seismicity-are-there-more-earthquakes-morningin-eveningat-a?qt-news_science_products=7#qt-news_science_products',
   'modified' => strtotime('2017-08-14'),
   'thumbnail' => '/images-featured/solar-eclipse-nasa.jpg',
   'image' => '/images-featured/solar-eclipse-nasa.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2017-08-15',
+  'title' => 'USGS Awards $4.9 Million to Advance ShakeAlert Early Warning System on West Coast',
+  'content' => 'The U.S. Geological Survey awarded approximately $4.9 million this week to six universities and a university-governed non-profit, to support transitioning the west coast “ShakeAlert” earthquake early warning system into a production system.',
+  'link' => 'https://www.usgs.gov/news/usgs-awards-49-million-advance-shakealert-earthquake-early-warning-system-west-coast?qt-news_science_products=1#qt-news_science_products',
+  'modified' => strtotime('2017-08-15'),
+  'thumbnail' => '/images-featured/shakealert.jpg',
+  'image' => '/images-featured/shakealert.jpg'
 );
 
 $EQ_FEATURES->items[] = array(
