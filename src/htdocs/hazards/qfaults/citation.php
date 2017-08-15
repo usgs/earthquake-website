@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  U.S. Geological Survey (and supporting agency if appropriate-see list below), 2006, Quaternary fault and fold database for the United States, accessed DATE, from USGS web site: http//earthquakes.usgs.gov/hazards/qfaults/.
+  U.S. Geological Survey (and supporting agency if appropriate-see list below), 2006, Quaternary fault and fold database for the United States, accessed DATE, from USGS web site: http//earthquake.usgs.gov/hazards/qfaults/.
 </p>
 
 <h4>List of cooperators:</h4>
