@@ -27,7 +27,7 @@
 <ul>
   <li><a href="https://www.usgs.gov/faqs/what-earthquake-and-what-causes-them-happen">What is an earthquake and what causes them to happen?</a></li>
   <li><a href="https://www.usgs.gov/faqs/can-we-cause-earthquakes-there-any-way-prevent-earthquakes">Can we cause earthquakes? Is there any way to prevent earthquakes?</a></li>
-  <li><a href="•	https://www.usgs.gov/faqs/foreshocks-aftershocks-whats-difference">Foreshocks, aftershocks - what's the difference?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/foreshocks-aftershocks-whats-difference">Foreshocks, aftershocks - what's the difference?</a></li>
   <li><a href="https://www.usgs.gov/faqs/can-position-moon-or-planets-affect-seismicity-are-there-more-earthquakes-morningin-eveningat-a">Can the position of the moon or the planets affect seismicity? Are there more earthquakes in the morning/in the evening/at a certain time of the month?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-surface-faulting-or-surface-rupture-earthquake">What is surface faulting or surface rupture in an earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-depth-do-earthquakes-occur-what-significance-depth">At what depth do earthquakes occur? What is the significance of the depth?</a></li>
