@@ -67,7 +67,7 @@ class Features {
     $len = count($items);
 
     $r = '';
-    $r .= '<ul class="no-style separator linklist">';
+    $r .= '<ul class="no-style linklist">';
     $r .=   $this->getItemHtml($items[0]);
     $r .=   $this->getItemHtml($items[1]);
     /* $r .=   $this->getItemHtml($items[3]); */
