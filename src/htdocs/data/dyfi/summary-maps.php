@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Vince Quitoriano, vinceq@usgs
-// Last modified: 12/14/2015
 
   if (!isset($TEMPLATE)) {
   $TITLE = 'DYFI Summary Maps';
@@ -140,9 +139,16 @@
 
 <section class="column one-of-two">
   <h2>U.S. Cumulative Responses 1991&mdash;2016</h2>
-  <img class="map-cumul" src="images/US_cumul2016.png" alt="all U.S. DYFI responses through 2016"/>
+  <a href="ftp://hazards.cr.usgs.gov/web/data/dyfi/pdfs-us/DYFIus_cumul-2016.pdf">
+    <img class="map-cumul" src="images/us_cumul2016.png" alt="all U.S. DYFI responses through 2016"/>
+    <p>Click on image to view hi-resolution PDF (16.9MB)</p>
+  </a>
+
   <h2>Global Cumulative Responses 1991&mdash;2016</h2>
-  <img class="map-cumul" src="images/Global_cumul2016.png" alt="all Global DYFI responses through 2016"/>
+  <a href="ftp://hazards.cr.usgs.gov/web/data/dyfi/pdfs-global/DYFIglobal_cumul-2016.pdf">
+    <img class="map-cumul" src="images/Global_cumul2016.png" alt="all Global DYFI responses through 2016"/>
+    <p>Click on image to view hi-resolution PDF (7.3MB)</p>
+  </a>
 </section>
 
 </div>
