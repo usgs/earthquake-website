@@ -22,7 +22,7 @@
 
     <h2>Data</h2>
     <ul>
-      <li><a href="data.php#web">Web Services</a></li>
+      <li><a href="/ws/">Web Services</a></li>
       <li><a href="data.php#eq">Earthquakes</a></li>
       <li><a href="data.php#wave">Seismic Waveforms</a></li>
       <li><a href="data.php#sta">Seismic Stations</a></li>
@@ -41,12 +41,12 @@
     <h2>Products</h2>
     <ul>
       <li><a href="products.php#rt">Real-time Earthquakes</a></li>
-      <li><a href="products.php#scenario">Scenarios</a></li>
+      <li><a href="/scenarios/">Scenarios</a></li>
       <li><a href="products.php#haz">Hazard Maps</a></li>
-      <li><a href="products.php#kml">Google Earth/KML Files</a></li>
+      <li><a href="/learn/kml.php">Google Earth/KML Files</a></li>
       <li><a href="products.php#sfbay">San Francisco Bay Area Maps</a></li>
       <li><a href="products.php#pubs">Publications</a></li>
-      <li><a href="products.php#soft">Software</a></li>
+      <li><a href="/research/software/">Software</a></li>
     </ul>
   </section>
 
