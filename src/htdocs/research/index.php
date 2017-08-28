@@ -84,7 +84,7 @@ if (!isset($TEMPLATE)) {
       <p>View all <a href="everyone/">Science for Everyone</a> articles.</p>
 
       <a href="/learn/topics/safz-paleo/">
-        <h3>Back the the Future on the San Andreas Fault</h3>
+        <h3>Back to the Future on the San Andreas Fault</h3>
         <img src="/images-featured/trench-xsect.gif"  width="384" alt="cross-section with layers and a fault outlined"/>
       </a>
 
