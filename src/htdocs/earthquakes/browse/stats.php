@@ -8,7 +8,7 @@
   }
 ?>
 
-<h2>Worldwide Earthquakes 2000&ndash;2015</h2>
+<h2>Worldwide Earthquakes 2000&ndash;2016</h2>
 <div class="horizontal-scrolling">
   <table>
 
@@ -31,6 +31,7 @@
         <th>2013</th>
         <th>2014</th>
         <th>2015</th>
+        <th>2016</th>
       </tr>
     </thead>
 
@@ -40,7 +41,7 @@
         <td>1</td><td>1</td><td>0</td><td>1</td><td>2</td>
         <td>1</td><td>2</td><td>4</td><td>0</td><td>1</td>
         <td>1</td><td>1</td><td>2</td><td>2</td><td>1</td>
-        <td>1</td>
+        <td>1</td><td>0</td>
       </tr>
 
       <tr>
@@ -48,7 +49,7 @@
         <td>14</td><td>15</td><td>13</td><td>14</td><td>14</td>
         <td>10</td><td> 9</td><td>14</td><td>12</td><td>16</td>
         <td>23</td><td>19</td><td>12</td><td>17</td><td>11</td>
-        <td>18</td>
+        <td>18</td><td>16</td>
       </tr>
 
       <tr>
@@ -56,7 +57,7 @@
         <td>146</td><td>121</td><td>127</td><td>140</td><td>141</td>
         <td>140</td><td>142</td><td>178</td><td>168</td><td>144</td>
         <td>150</td><td>185</td><td>108</td><td>123</td><td>143</td>
-        <td>127</td>
+        <td>127</td><td>130</td>
       </tr>
 
       <tr>
@@ -64,7 +65,7 @@
         <td>1344</td><td>1224</td><td>1201</td><td>1203</td><td>1515</td>
         <td>1693</td><td>1712</td><td>2074</td><td>1768</td><td>1896</td>
         <td>2209</td><td>2276</td><td>1401</td><td>1453</td><td>1574</td>
-        <td>1419</td>
+        <td>1419</td><td>1550</td>
       </tr>
 
       <tr >
@@ -72,7 +73,7 @@
         <td>231</td><td>21357</td><td>1685</td><td>33819</td><td>298101</td>
         <td>87992</td><td>6605</td><td>708</td><td>88708</td><td>1790</td>
         <td>226050</td><td>21942</td><td>689</td><td>1572</td><td>756</td>
-        <td>9624</td>
+        <td>9624</td><td></td>
       </tr>
 
     </tbody>
