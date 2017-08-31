@@ -146,6 +146,8 @@ if  (!isset($TEMPLATE))  {
       <li><a href="http://photo2.si.edu/" target="_blank">Smithsonian Photographs Online</a></li>
       <li><a href="http://www.sfmuseum.org/" target="_blank">The Museum of the City of San Francisco</a> Bay area earthquake damage</li>
       <li><a href="http://www.oac.cdlib.org/search?query=earthquake" target="_blank">UC Berkeley California Heritage Collection</a></li>
+      <li><a href="https://ussc.utah.gov/pages/themes.php">Utah Seismic Safety Commission</a> - 1971 San Fernando, CA, 1994 Northridge, CA, and 2008 Wells, NV earthquakes</li>
+      <li><a href="https://geodata.geology.utah.gov">Utah Geological Survey GeoData Archive System</a></li>
     </ul>
 
     <h2>See Also</h2>
