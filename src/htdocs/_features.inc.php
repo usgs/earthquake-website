@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-09-06',
+  'title' => 'Digging Into the Past on the Teton Fault',
+  'content' => 'From September 6 to 21, USGS scientists will be doing fieldwork on the Teton Fault near Jackson, Wyoming. We’ll follow their work as they prepare the area, dig the trench, gather data, and then refill the trench. Check back daily for updates.',
+  'link' => 'https://www.facebook.com/notes/usgs-natural-hazards-science/digging-into-the-past-on-the-teton-fault/135315590420055/',
+  'modified' => strtotime('2017-09-06'),
+  'thumbnail' => '/images-featured/tetonfault.jpg',
+  'image' => '/images-featured/tetonfault.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-08-14',
   'title' => 'Will the solar eclipse in North America affect faults or cause earthquakes?',
   'content' => 'No. There are partial eclipses several times a year, and these orbital alignments are no different than those that have been researched and found to have no immediate effect on the occurrence of earthquakes (if any at all). (Image courtesy of nasa.gov)',
