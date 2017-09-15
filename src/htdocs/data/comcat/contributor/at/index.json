@@ -1,11 +1,11 @@
 {
   "id": "at",
   "title": "National Tsunami Warning Center",
-  "url": "http://ntwc.arh.noaa.gov",
+  "url": "http://tsunami.gov ",
   "aliases": [
     "atwc"
   ],
-  "email": "wcatwc@wcatwc.gov",
+  "email": "ntwc@noaa.gov",
   "address": {
     "org": "National Tsunami Warning Center/NOAA/NWS",
     "street-address": "910 S. Felton St.",
