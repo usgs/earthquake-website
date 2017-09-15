@@ -26,7 +26,7 @@
   </li>
   <li>Idaho and Montana get earthquakes. While it is not that common, it is also not surprising to see earthquakes in these areas.
   </li>
-  <li>Because of the increased probability of damaging earthquakes, we advise people to listen to the advice of your (State/County/City) emergency management office.
+  <li>Because of the increased probability of damaging earthquakes, we advise people to listen to the advice of Bear Lake and Caribou Counties emergency management office.
   </li>
   <li>This sequence may have damaging earthquakes in the future, so remember to: Drop, Cover, and Hold on.
   </li>
@@ -58,7 +58,7 @@
 </p>
 <h2>Earthquake Forecasts and Forecast Scenarios</h2>
 <p>
-  The <a href="/earthquakes/eventpage/us2000aekg">M5.3 Soda Springs</a> Sequence is particularly active, producing more aftershocks on average than other earthquakes of this magnitude. Sequences can be defined as a lot of earthquakes that occur in and around a similar area over a short period of time. The difference between a "sequence" and "aftershocks" (or an "aftershock sequence") is that aftershocks generally decrease in both number and magnitude over time, and sequences generally decrease in number but not in magnitude. Occasional active sequences are not unusual for this geographic region; a number of places get sequences and typically, they diminish in number over time.
+  The <a href="/earthquakes/eventpage/us2000aekg">M5.3 Soda Springs</a> Sequence is particularly active, producing more aftershocks on average than other earthquakes of this magnitude. 
 </p>
 <h3>About Earthquake Forecasts</h3>
 <p>
@@ -101,7 +101,7 @@
 </ol>
 <h2>What You Can Do About the Earthquakes</h2>
 <p>
-  If you feel an earthquake, remember to: Drop, Cover, and Hold On. An earthquake may feel small at the beginning but can build in shaking intensity very quickly, so it is best to take the precaution in small earthquakes, as well as larger ones.  Preparing for earthquakes is also important - to find out more, go here: (links). Earthquakes don’t give us much warning that they are coming, so it is important to be prepared for these to occur.
+  If you feel an earthquake, remember to: Drop, Cover, and Hold On. An earthquake may feel small at the beginning but can build in shaking intensity very quickly, so it is best to take the precaution in small earthquakes, as well as larger ones.  Preparing for earthquakes is also important - see our <a href="/learn/preparedness.php">resources Earthquake Preparedness</a>. Earthquakes don’t give us much warning that they are coming, so it is important to be prepared for these to occur.
 </p>
 <h2>What Scientists are Doing to Learn More About These Earthquakes</h2>
 <p>
@@ -125,7 +125,7 @@
   We aren’t certain which fault these earthquakes are occurringed on, but we have some strong suspects. The specific fault responsible for this earthquake and the subsequent aftershocks is currently under study by the USGS, and scientists at Utah State University.  Science investigation teams are currently assembling to getting out in the field to find out more.
 </p>
 <p>
-  The geology of this area is intriguing and complex. The M5.3 earthquake and subsequent aftershocks occurred beneath the Aspen Range of southeastern Idaho, approximately 15 km (9.3 mi) SE of Soda Springs, Idaho, and ??? km (??? mi) north of Montpelier, Idaho. The basic geology of the region consists of folded and thrust-faulted rocks of Permian to Cretaceous age. These thrust faults shifted these rocks from west to east at approximately 100 million years ago and create the mountains from southeastern Idaho to western Wyoming a region termed the Idaho-Wyoming-Utah fold and thrust belt.  Subsequent to this compression, the area has been subjected to east-west extension that has created active normal faults.
+  The geology of this area is intriguing and complex. The M5.3 earthquake and subsequent aftershocks occurred beneath the Aspen Range of southeastern Idaho, approximately 15 km (9.3 mi) SE of Soda Springs, Idaho, and 20 km (33 mi) north of Montpelier, Idaho. The basic geology of the region consists of folded and thrust-faulted rocks of Permian to Cretaceous age. These thrust faults shifted these rocks from west to east at approximately 100 million years ago and create the mountains from southeastern Idaho to western Wyoming a region termed the Idaho-Wyoming-Utah fold and thrust belt.  Subsequent to this compression, the area has been subjected to east-west extension that has created active normal faults.
 </p>
 <p>
   To the southwest, these faults are clearly seen (the Wasatch Fault, East/West Cache Faults and the East/West Bear Lake Faults). The West and East Bear Lake faults probably continue north of the lake. These two faults are responsible for the formation of these valleys, including the valley through which the Bear River flows from Montpelier to Soda Springs.  These normal faults probably started moving several million years ago, and indicators of offset can be seen from Georgetown to east of Bear Lake. This sequence could have occurred on one of these faults.
@@ -138,7 +138,7 @@
 </p>
 <h2>Teamwork Built this Forecast and the Science Investigation</h2>
 <p>
-  We’d like to acknowledge our colleagues in New Zealand, who worked hard in developing forecast and scenarios in their country. Their hard work has inspired the development of these scenarios. Further, we’d like to acknowledge our many hard working partners in Utah State University, Idaho State Geographic Survey, Yellowstone Volcano Observatory, and other institutions.
+  We’d like to acknowledge our <a href=" http://www.geonet.org.nz/earthquake/forecast/about">colleagues in New Zealand</a>, who worked hard in developing forecasts and scenarios in their country. Their hard work has inspired the development of these forecast scenarios. Further, we’d like to acknowledge our many hard-working partners in Utah State University, Idaho Geological Survey, Yellowstone Volcano Observatory, and other institutions.
 </p>
 <h2>For More Information</h2>
 <ul>
