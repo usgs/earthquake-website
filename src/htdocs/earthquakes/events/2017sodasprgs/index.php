@@ -58,7 +58,7 @@
 </p>
 <h2>Earthquake Forecasts and Forecast Scenarios</h2>
 <p>
-  The <a href="/earthquakes/eventpage/us2000aekg">M5.3 Soda Springs</a> Sequence is particularly active, producing more aftershocks on average than other earthquakes of this magnitude. 
+  The <a href="/earthquakes/eventpage/us2000aekg">M5.3 Soda Springs</a> Sequence is particularly active, producing more aftershocks on average than other earthquakes of this magnitude.
 </p>
 <h3>About Earthquake Forecasts</h3>
 <p>
@@ -91,12 +91,12 @@
     The sequence will continue to decay over the next week, which means there will be fewer earthquakes. Occasional spikes in activity may be accompanied by additional M4-M5 earthquakes. While all earthquake sequences decay over time, there are several other possible outcomes, which we will now explore.
   </li>
   <li>
-    <strong>Scenario #2 (less likely than Scenario One but possible with 10-20% chance):</strong><br />
-     A similar sized or larger earthquake than the M5.3 main shock (link) may occur. This situation is often referred to as a “doublet” when a similar sized earthquake follows the original earthquake that kicked off the sequence. Doublets have occurred in places around the world, but they are not very common.
+    <strong>Scenario #2 (less likely than Scenario #1 but possible with 10-20% chance):</strong><br />
+     A similar sized or larger earthquake than the M5.3 mainshock may occur. This situation is often referred to as a “doublet” when a similar sized earthquake follows the original earthquake that kicked off the sequence. Doublets have occurred in places around the world, but they are not very common.
   </li>
   <li>
     <strong>Scenario #3 (the least likely scenario but still possible: <1% chance):</strong><br />
-    A much larger earthquake than M5.3 could occur, up to and including the M7.0 range. There is a small chance that this sequence could include a much larger earthquake (in which case we would call it a foreshock sequence). We have seen this happen in other places around the world, with the most notable being L’Aquila, Italy in 2009. It is important to understand that this is not the most likely scenario, but we cannot ignore the possibility of this occurring.
+    A much larger earthquake than M5.3 could occur, up to and including the M7.0 range. There is a small chance that this sequence could include a much larger earthquake (in which case we would call what has happened prior to any larger earthquake a foreshock sequence). We have seen this happen in other places around the world, with the most notable being L’Aquila, Italy in 2009. It is important to understand that this is not the most likely scenario, but we cannot ignore the possibility of this occurring.
   </li>
 </ol>
 <h2>What You Can Do About the Earthquakes</h2>
@@ -108,22 +108,15 @@
   Due to its remote location, there is a lot to be learned yet about this sequence. Scientists and students at Utah State University, University of Idaho, and other institutions are working with us to get a better understanding of the systems and mechanisms causing these earthquakes. We are assisting with a program of research to determine areas that are most effected, any changes in local hot springs, and other issues.
 </p>
 <h2>What Fault is Causing All This Shaking?</h2>
-<figure class='left'>
-  <a href='images/prelim_relocs.png'><img src='images/prelim_relocs.png'></a>
-  <figcaption>
-    Multiple event relocations of the Soda Springs swarm, colored by event date. Earthquakes with improved hypocenters from data collected by rapidly deployed seismic stations are shown with dark circles. Location estimates from these earthquakes were used to improve upon locations of previous events.  Two cross-sections along and perpendicular to the swarm are shown. (as of September 15, 2017) Click on image to view larger version.
-  </figcaption>
-</figure>
-<figure class='left'>
-  <a href='images/prelim_relocs_xsect.png'><img src='images/prelim_relocs_xsect.png'></a>
-  <figcaption>
-    Two cross-sections through the Soda Springs swarm. Cross section locations are shown in the previous image. The distance along cross-section A as a function of time shows the migration of this sequence to the south. (as of September 15, 2017) Click on image to view larger version.
-  </figcaption>
-</figure>
-
 <p>
-  We aren’t certain which fault these earthquakes are occurringed on, but we have some strong suspects. The specific fault responsible for this earthquake and the subsequent aftershocks is currently under study by the USGS, and scientists at Utah State University.  Science investigation teams are currently assembling to getting out in the field to find out more.
+  We aren’t certain which fault these earthquakes are occurring on, but we have some strong suspects. The specific fault responsible for this earthquake and the subsequent aftershocks is currently under study by the USGS and scientists at Utah State University.  Science investigation teams are currently assembling to getting out in the field to find out more.
 </p>
+<figure>
+  <a href='images/Relocations.png'><img src='images/Relocations.png'></a>
+  <figcaption>
+    Multiple event relocations of the Soda Springs swarm, colored by event date. Earthquakes with improved hypocenters from data collected by rapidly deployed seismic stations are shown with dark circles. Location estimates from these earthquakes were used to improve upon locations of previous events.  Two cross-sections along and perpendicular to the swarm are shown. The distance along cross-section A as a function of time shows the migration of this sequence to the south. (as of September 15, 2017) Click on image to view larger version.
+  </figcaption>
+</figure>
 <p>
   The geology of this area is intriguing and complex. The M5.3 earthquake and subsequent aftershocks occurred beneath the Aspen Range of southeastern Idaho, approximately 15 km (9.3 mi) SE of Soda Springs, Idaho, and 20 km (33 mi) north of Montpelier, Idaho. The basic geology of the region consists of folded and thrust-faulted rocks of Permian to Cretaceous age. These thrust faults shifted these rocks from west to east at approximately 100 million years ago and create the mountains from southeastern Idaho to western Wyoming a region termed the Idaho-Wyoming-Utah fold and thrust belt.  Subsequent to this compression, the area has been subjected to east-west extension that has created active normal faults.
 </p>
@@ -131,14 +124,18 @@
   To the southwest, these faults are clearly seen (the Wasatch Fault, East/West Cache Faults and the East/West Bear Lake Faults). The West and East Bear Lake faults probably continue north of the lake. These two faults are responsible for the formation of these valleys, including the valley through which the Bear River flows from Montpelier to Soda Springs.  These normal faults probably started moving several million years ago, and indicators of offset can be seen from Georgetown to east of Bear Lake. This sequence could have occurred on one of these faults.
 </p>
 <p>
-  However, another strong contender fault has an intriguing name: Slug Creek Fault. We don’t know what inspired USGS Geologist G.R. Mansfield, who mapped the fault in 1927, to give a fault such a moniker but the reason this fault is a strong suspect is that this fault is seen in the upper regions of the Aspen Range. This is a similar location as the M5.3. Further, slip to the west along a fault dips to the west and this would explain the focal mechanism of the main shock, meaning the earthquake certainly acts similar to another earthquake on this fault would.
+  However, another strong contender fault has an intriguing name: Slug Creek Fault. We don’t know what inspired USGS Geologist G.R. Mansfield, who mapped the fault in 1927, to give a fault such a moniker but the reason this fault is a strong suspect is that this fault is seen in the upper regions of the Aspen Range. This is a similar location as the M5.3. Further, slip to the west along a fault dips to the west and this would explain the focal mechanism of the main shock, meaning the earthquake certainly acts similar to how another earthquake on this fault would.
 </p>
 <p>
-  So, there are number of suspects in determining which fault is the main culprit. In the coming weeks and months, we aim to crack this intriguing geological case.
+  So, there are number of suspects in determining which fault is the main culprit. And indeed, there could be multiple faults at play - in fact, focal mechanisms suggest multiple faults, because there are both normal and strike slip mechanisms. In the coming weeks and months, we aim to crack this intriguing geological case.
+</p>
+<h2>Improved Monitoring</h2>
+<p>
+  The <a href="http://quake.utah.edu/">University of Utah Seismograph Stations</a> and the USGS are collaborating to improve earthquake monitoring in the region of the recent seismicity. Eight seismic stations have been installed within 60 miles of the mainshock. Data from these seismic stations will be used by researchers to more accurately locate the earthquakes and detect smaller events. These data will help researchers map the causative faults and will improve our understanding of earthquake hazard in the region.
 </p>
 <h2>Teamwork Built this Forecast and the Science Investigation</h2>
 <p>
-  We’d like to acknowledge our <a href=" http://www.geonet.org.nz/earthquake/forecast/about">colleagues in New Zealand</a>, who worked hard in developing forecasts and scenarios in their country. Their hard work has inspired the development of these forecast scenarios. Further, we’d like to acknowledge our many hard-working partners in Utah State University, Idaho Geological Survey, Yellowstone Volcano Observatory, and other institutions.
+  We’d like to acknowledge our <a href=" http://www.geonet.org.nz/earthquake/forecast/about">colleagues in New Zealand</a>, who worked hard in developing forecasts and scenarios in their country. Their hard work has inspired the development of these forecast scenarios. Further, we’d like to acknowledge our many hard-working partners in <a href="http://geology.usu.edu/">Utah State University</a>, <a href="http://quake.utah.edu/">University of Utah</a>, <a href="http://www.idahogeology.org/">Idaho Geological Survey</a>, <a href="https://volcanoes.usgs.gov/observatories/yvo/">Yellowstone Volcano Observatory</a>, and other institutions.
 </p>
 <h2>For More Information</h2>
 <ul>
