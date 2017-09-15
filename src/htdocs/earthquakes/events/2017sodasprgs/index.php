@@ -2,18 +2,23 @@
 // Author: Lisa Wald
 // Contact: Bill Yeck
   if (!isset($TEMPLATE)) {
-    $TITLE = 'M5.3 2017 Soday Springs, Idaho Sequence';
+    $TITLE = 'M5.3 2017 Soda Springs, Idaho Sequence';
     $NAVIGATION = true;
     include 'template.inc.php';
   }
 ?>
 
+<figure class='right'>
+  <img src='images/sequence-2017.09.15.jpg'>
+  <figcaption>
+    The Soda Springs, Idaho earthquake sequence showing earthquake location (circles) from September 2 to September 15 (11:15am Mountain time).  Orange circles are the most recent events, yellow those within the last 24 hours, and white older than 24 hours.
+  </figcaption>
+</figure>
 <p>
-  On September 2, 2017, there was a M5.3 earthquake east of Soda Springs, Idaho. That earthquake has kicked off a sustained and highly active aftershock sequence. It caused moderate shaking over a broad area of southeastern Idaho, northern Utah, and western Wyoming.
+  On September 2, 2017, there was a <a href="/earthquakes/eventpage/us2000aekg">M5.3 earthquake east of Soda Springs, Idaho</a>. That earthquake has kicked off a sustained and highly active aftershock sequence. It caused moderate shaking over a broad area of southeastern Idaho, northern Utah, and western Wyoming.
 </p>
-
 <p>
-  This earthquake has generated a number of other earthquakes (aftershocks), more than we would typically observe for other earthquakes of this size. Because of this, we are providing an aftershock forecast that we'll update regularly.
+  This earthquake has generated a number of other earthquakes (aftershocks), more than we would typically observe for other earthquakes of this size. Because of this, we are providing an earthquake forecast that we'll update regularly as long as the sequence continues.
 </p>
 <p>What we understand, in terms of future larger earthquakes in this area is:
 <ul>
@@ -27,9 +32,22 @@
   </li>
 </ul>
 
-<h2>About the Earthquake</h2>
+<figure class='left'>
+  <img src='images/soda-cumul-num.png'>
+  <figcaption>
+    The cumulative moment release of the Soda Springs sequence as a function of time (as of September 15, 2017). The moment release is a measure of the amount of energy released from the earthquake.
+  </figcaption>
+</figure>
+<figure class='left'>
+  <img src='images/soda-cumul-mag.png'>
+  <figcaption>
+    Magnitudes of the Soda Springs sequence as a function of time. The "beachballs" are <a href="/learn/glossary/?term=fault-plane%20solution">focal mechanisms</a> indicating the direction of slip during the earthquake rupture.(as of September 15, 2017).
+  </figcaption>
+</figure>
+
+<h2>About the M5.3 Mainshock</h2>
 <p>
-  The M5.3 earthquake occurred as the result of normal faulting within the shallow crust, on a fault dipping at an intermediate angle either to the west, or to the east. This faulting style is typical of earthquakes located in the Intermountain Seismic Belt (ISB), a prominent north-south-trending zone of seismicity in the Intermountain West, and a region of moderate-to-high seismic hazard. The ISB is characterized by movement along north-trending, east- and west-dipping range-bounding normal faults that accommodate gradual horizontal extension of the Earth’s crust.
+  The <a href="/earthquakes/eventpage/us2000aekg">M5.3 earthquake</a> occurred as the result of normal faulting within the shallow crust, on a fault dipping at an intermediate angle either to the west, or to the east. This faulting style is typical of earthquakes located in the Intermountain Seismic Belt (ISB), a prominent north-south-trending zone of seismicity in the Intermountain West, and a region of moderate-to-high seismic hazard. The ISB is characterized by movement along north-trending, east- and west-dipping range-bounding normal faults that accommodate gradual horizontal extension of the Earth’s crust.
 </p>
 <p>
   Earthquakes occur frequently in the ISB. It is unlikely that this sequence is related to oil and gas operations, or to the Yellowstone volcanic region over 200 km to the northeast.
@@ -38,11 +56,11 @@
 <p>
   South and Central Idaho have experienced at least 14 other M5+ earthquakes within 300 km of the September 2, 2017 earthquake over the preceding century. The largest was the October 28, 1983, <a href="/earthquakes/eventpage/usp0001zbv">M6.9 Borah Peak earthquake</a>, which struck about 250 km to the northwest of the September 2, 2017 earthquake. The Borah Peak earthquake is the largest known to have occurred in Idaho, and resulted in two fatalities, two injuries, and considerable damage in Challis, Idaho.
 </p>
-<h2>Aftershock Forecasts and Aftershock Forecast Scenarios</h2>
+<h2>Earthquake Forecasts and Forecast Scenarios</h2>
 <p>
-  The <a href="/earthquakes/eventpage/us2000aekg">M5.3 Soda Springs</a> Sequence is particularly active, producing more earthquakes on average than other earthquakes of this magnitude. Sequences can be defined as a lot of earthquakes that occur in and around a similar area over a short period of time. Occasional active sequences are not unusual for this geographic region; a number of places get sequences and typically, they diminish in number over time.
+  The <a href="/earthquakes/eventpage/us2000aekg">M5.3 Soda Springs</a> Sequence is particularly active, producing more aftershocks on average than other earthquakes of this magnitude. Sequences can be defined as a lot of earthquakes that occur in and around a similar area over a short period of time. The difference between a "sequence" and "aftershocks" (or an "aftershock sequence") is that aftershocks generally decrease in both number and magnitude over time, and sequences generally decrease in number but not in magnitude. Occasional active sequences are not unusual for this geographic region; a number of places get sequences and typically, they diminish in number over time.
 </p>
-<h3>About Aftershock Forecasts</h3>
+<h3>About Earthquake Forecasts</h3>
 <p>
   Due to the active and ongoing nature of this sequence, we have developed an earthquake forecast for continuing seismicity. No one can predict the exact time or place of any earthquake, including aftershocks. What our earthquake forecasts do is give us an understanding of the chances of having more earthquakes within a given time period. We calculate this earthquake forecast using a statistical analysis based on past earthquakes in similar tectonic environments, as well as the aftershocks recorded to date for this sequence.
 </p>
@@ -50,14 +68,14 @@
   Our forecast changes as time passes due to the decay in the frequency of aftershocks, larger aftershocks that reinvigorate the sequence, and changes in forecast modeling based on the earthquake data collected.
 </p>
 <p>
-  According to our forecast (as of Sep 14 at 10am Mountain time), over the next week there is a:
+  <strong>According to our forecast (as of Sep 14 at 10am Mountain time), over the next week there is a:</strong>
 </p>
 <ul>
   <li>
     6-16% chance of one or more earthquakes that are larger than the largest earthquake so far in this sequence (M5.3). It is likely that there will smaller earthquakes, with 0-40 magnitude 3.5 or higher aftershocks, which are large enough to be felt nearby.
   </li>
 </ul>
-<h3>About Aftershock Forecast Scenarios</h3>
+<h3>About Earthquake Forecast Scenarios</h3>
 <p>
   While no one can scientifically predict earthquakes, we have developed forecast models that can give us a good indication of what could occur in the future. Similar to weather models, our models can change with more data and information. The longer this sequence goes on, the more we learn about what it will do in the future.
 </p>
@@ -65,7 +83,7 @@
   We have taken the detailed forecast (see below) and developed the three scenarios that we consider to be the most likely. These scenarios are for the following week only, but earthquakes will continue to be possible at later times. We will update the forecast as more information becomes available.
 </p>
 <p>
-  Here are the three scenarios or possibilities for the next week, based on earthquake forecast models:
+  <strong>Here are the three scenarios or possibilities for the next week, based on earthquake forecast models:</strong>
 </p>
 <ol>
   <li>
@@ -90,6 +108,19 @@
   Due to its remote location, there is a lot to be learned yet about this sequence. Scientists and students at Utah State University, University of Idaho, and other institutions are working with us to get a better understanding of the systems and mechanisms causing these earthquakes. We are assisting with a program of research to determine areas that are most effected, any changes in local hot springs, and other issues.
 </p>
 <h2>What Fault is Causing All This Shaking?</h2>
+<figure class='left'>
+  <a href='images/prelim_relocs.png'><img src='images/prelim_relocs.png'></a>
+  <figcaption>
+    Multiple event relocations of the Soda Springs swarm, colored by event date. Earthquakes with improved hypocenters from data collected by rapidly deployed seismic stations are shown with dark circles. Location estimates from these earthquakes were used to improve upon locations of previous events.  Two cross-sections along and perpendicular to the swarm are shown. (as of September 15, 2017) Click on image to view larger version.
+  </figcaption>
+</figure>
+<figure class='left'>
+  <a href='images/prelim_relocs_xsect.png'><img src='images/prelim_relocs_xsect.png'></a>
+  <figcaption>
+    Two cross-sections through the Soda Springs swarm. Cross section locations are shown in the previous image. The distance along cross-section A as a function of time shows the migration of this sequence to the south. (as of September 15, 2017) Click on image to view larger version.
+  </figcaption>
+</figure>
+
 <p>
   We aren’t certain which fault these earthquakes are occurringed on, but we have some strong suspects. The specific fault responsible for this earthquake and the subsequent aftershocks is currently under study by the USGS, and scientists at Utah State University.  Science investigation teams are currently assembling to getting out in the field to find out more.
 </p>
@@ -105,7 +136,12 @@
 <p>
   So, there are number of suspects in determining which fault is the main culprit. In the coming weeks and months, we aim to crack this intriguing geological case.
 </p>
+<h2>Teamwork Built this Forecast and the Science Investigation</h2>
+<p>
+  We’d like to acknowledge our colleagues in New Zealand, who worked hard in developing forecast and scenarios in their country. Their hard work has inspired the development of these scenarios. Further, we’d like to acknowledge our many hard working partners in Utah State University, Idaho State Geographic Survey, Yellowstone Volcano Observatory, and other institutions.
+</p>
 <h2>For More Information</h2>
 <ul>
-  <li></li>
+  <li><a href='/earthquakes/eventpage/us2000aekg'>M5.3 Mainshock Eventpage</a></li>
+  <li><a href='images/map2017.09.12–insar.pdf'>Preliminary Earthquake Relocations Plotted on Top of InSAR Interferogram</a></li>
 </ul>
