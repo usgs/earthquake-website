@@ -107,7 +107,7 @@
   We aren’t certain which fault these earthquakes are occurring on, but we have some strong suspects. The specific fault responsible for this earthquake and the subsequent aftershocks is currently under study by the USGS and scientists at Utah State University. Science investigation teams are getting out in the field to deploy temporary seismic instruments and find out more information about the causes and consequences of this earthquake swarm.
 </p>
 <figure>
-  <a href='images/relocations.png'><img src='images/relocations.png'></a>
+  <a href='images/relocations.2017.09.16.png'><img src='images/relocations.2017.09.16.png'></a>
   <figcaption>
     Preliminary multiple event relocations of the Soda Springs swarm as of September 16th. Earthquakes are colored by event date and the M5.3 event is noted as a red star. Earthquakes with improved hypocenters from data collected by rapidly deployed seismic stations are shown with dark circles. Location estimates from these earthquakes were used to improve location estimates of earlier events. Two cross-sections shown. Cross-section A demonstrates the migration of earthquakes to the south. (as of September 16, 2017) Click on image to view larger version.
   </figcaption>
