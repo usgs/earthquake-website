@@ -131,4 +131,6 @@
 <ul>
   <li><a href='/earthquakes/eventpage/us2000aekg'>M5.3 Mainshock Eventpage</a></li>
   <li><a href='images/map2017.09.12–insar.pdf'>Preliminary Earthquake Relocations Plotted on Top of InSAR Interferogram</a></li>
+  <li><a href="https://ioem.idaho.gov/Pages/Preparedness/Hazards/NaturalHazards/Earthquake.aspx">Earthquake Resources from Idaho Office of Emergency Management</a></li>
+  <li><a href="http://quake.utah.edu/special-events/sulphur-springs-earthquake-information">Sulphur Springs Earthquake Information</a> - University of Utah Seismograph Stations</li>
 </ul>
