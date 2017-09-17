@@ -1,10 +1,11 @@
 <?php
   $section = "/earthquakes/events";
 
-  echo "<a href='/earthquakes/browse/specialstudies.php' class='up-one-level'>Special Earthquake Studies</a>",
+  echo "<a href='/earthquakes/events/index.php' class='up-one-level'>Special Earthquake Studies</a>",
 
   "<section>",
 
+    navItem("${section}/2017sodasprgs/", "M5.3 2017 Soda Springs, Idaho, Sequence") .
     navItem("${section}/2014napa/", "M6.0 August 24, 2014 South Napa, California") .
     navItem("${section}/2011virginia/", "M5.8 August 23, 2011 Mineral, Virginia") .
     navItem("${section}/1989lomaprieta/", "M6.9 October 17, 1989 Loma Prieta Earthquake") .

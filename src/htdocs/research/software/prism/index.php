@@ -23,7 +23,7 @@ if (!isset($TEMPLATE)) {
 
 <ul>
   <li><a href="PRISM-instructions.pdf">How to Run PRISM Using Command Line</a> (.pdf)</li>
-  <li><a href="PRISM-1.0.0.zip">Download PRISM Processing Engine Executable File with Examples</a> (.zip)</li>
+  <li><a href="PRISM-1.0.2.zip">Download PRISM Processing Engine Executable File with Examples</a> (.zip)</li>
   <li><a href="https://github.com/usgs/prism">Download PRISM Processing Engine Source Code</a> (github)</li>
 </ul>
 
