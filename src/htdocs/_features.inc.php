@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-09-17',
+  'title' => 'M5.3 2017 Soda Springs, Idaho Sequence',
+  'content' => 'A summary of what we know so far about this sequence, what scientists are doing, plus earthquake forecast scenarios.',
+  'link' => 'https://earthquake.usgs.gov/earthquakes/events/2017sodasprgs/',
+  'modified' => strtotime('2017-09-17'),
+  'thumbnail' => '/images-featured/sodasprgs-map.2017.09.17.jpg',
+  'image' => '/images-featured/sodasprgs-map.2017.09.17.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-09-06',
   'title' => 'Digging Into the Past on the Teton Fault',
   'content' => 'From September 6 to 21, USGS scientists will be doing fieldwork on the Teton Fault near Jackson, Wyoming. We’ll follow their work as they prepare the area, dig the trench, gather data, and then refill the trench. Check back daily for updates.',

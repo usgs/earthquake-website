@@ -1,7 +1,7 @@
 <?php
   $section = "/earthquakes/events";
 
-  echo "<a href='/earthquakes/browse/specialstudies.php' class='up-one-level'>Special Earthquake Studies</a>",
+  echo "<a href='/earthquakes/events/index.php' class='up-one-level'>Special Earthquake Studies</a>",
 
   "<section>",
 
