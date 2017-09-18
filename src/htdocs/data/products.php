@@ -81,7 +81,8 @@
         <li><a href="/learn/publications/pubs_factsheets.php">Selected USGS Fact Sheets</a></li>
         <li><a href="/learn/publications/pubs_geninfo.php">Selected USGS General Information Publications</a></li>
         <li><a href="/learn/publications/pubs_maps.php">Selected USGS Maps</a></li>
-        <li><a href="/learn/publications/pubs_multimedia.php">Selected USGS Videos and PodCasts</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLIxlFowAfHBDV9pX14VT-XYn0fP5vsfhN">Selected USGS Videos</a></li>
+        <li><a href="/learn/podcasts.php">Selected USGS PodCasts</a></li>
         <li><a href="/learn/publications/pubs_ofr_bull_circ.php">Selected USGS Open-Files, Bulletins, and Circulars</a></li>
 
         <li><a href="https://pubs.er.usgs.gov/">USGS Publications Warehouse</a></li>
