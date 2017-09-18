@@ -37,7 +37,7 @@ if (!isset($TEMPLATE)) {
 <figure class='left'>
 	<img src="/hazards/induced/images/ProbDamageEQ_2017-300x2.gif" alt=""/>
 	<figcaption>
-    Chance of damage forecasted from an earthquake during 2016.
+    Chance of damage forecasted from an earthquake during 2017.
   </figcaption>
 </figure>
 <p>
