@@ -14,6 +14,9 @@
     The Soda Springs, Idaho earthquake sequence showing earthquake locations (circles) from September 2 to September 17 (1:30pm Mountain time). Orange circles are the most recent events, yellow those within the last 24 hours, and white older than 24 hours relative to 1:30pm Mountain time on Sept. 17.
   </figcaption>
 </figure>
+
+<p>- last updated September 18, 2017 3:05 PST</p>
+
 <p>
   On September 2, 2017, there was a <a href="/earthquakes/eventpage/us2000aekg">M5.3 earthquake east of Soda Springs, Idaho</a>. It caused moderate shaking over a broad area of southeastern Idaho, northern Utah, and western Wyoming.
 </p>
@@ -74,15 +77,15 @@
   We have taken a detailed forecast and developed three scenarios that we consider to be the most likely. These scenarios are for the following week only, but earthquakes will continue to be possible at later times. We will update the forecast as more information becomes available.
 </p>
 <p>
-  <strong>Here are the three scenarios or possibilities for the week starting Sept. 14, 2017, based on earthquake forecast models:</strong>
+  <strong>Here are the three scenarios or possibilities for the week starting Sept. 19, 2017, based on earthquake forecast models:</strong>
 </p>
 <ol>
   <li>
-    <strong>Scenario #1 (most likely: 80-90% chance):</strong><br/>
-    The sequence will continue to decay over the next week, which means there will be fewer earthquakes. Earthquakes above M3 may be felt by those in the area, and occasional spikes in activity may be accompanied by additional M4-M5 earthquakes. While all earthquake sequences decay over time, there are several other possible outcomes, which are listed next.
+    <strong>Scenario #1 (most likely: 90-95% chance):</strong><br/>
+    The sequence will continue to decay over the next week, which means there will be fewer earthquakes. Earthquakes above M3 may be felt by those in the area, and occasional spikes in activity may be accompanied by additional M4 or larger earthquakes, but with none larger than the M5.3 mainshock. While all earthquake sequences decay over time, there are several other possible outcomes, which are listed next.
   </li>
   <li>
-    <strong>Scenario #2 (less likely than Scenario #1 but possible with 10-20% chance):</strong><br />
+    <strong>Scenario #2 (less likely than Scenario #1 but possible with 5-10% chance):</strong><br />
      A similar sized or larger earthquake than the M5.3 mainshock may occur. This situation is often referred to as a “doublet” when a similar sized earthquake follows the original earthquake that kicked off the sequence. Doublets have occurred in places around the world, but they are not very common.
   </li>
   <li>
@@ -90,7 +93,7 @@
     A much larger earthquake than M5.3 could occur, up to and including the M7.0 range, in which case we would call what has happened prior to any larger earthquake a foreshock sequence. We have seen this happen in other places around the world, with the most notable being L’Aquila, Italy in 2009. It is important to understand that this is a highly unlikely scenario, but we cannot ignore the possibility of this occurring.
   </li>
 </ol>
-<p>These probabilities will be updated periodically.</p>
+<p>This forecast is for one week, but the sequence may continue past that timeframe. The probabilities will be updated periodically.</p>
 
 <h2>What You Can Do About the Earthquakes</h2>
 <p>
