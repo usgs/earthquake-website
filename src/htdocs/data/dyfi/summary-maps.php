@@ -138,6 +138,11 @@
 </section>
 
 <section class="column one-of-two">
+
+  <p>
+    <strong><a href="http://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=9310990e7ce84e3b8567109616b0944d">Did You Feel It? Annual Data Viewer</a></strong> - new interactive map with a layer for each year
+  </p>
+
   <h2>U.S. Cumulative Responses 1991&mdash;2016</h2>
   <a href="ftp://hazards.cr.usgs.gov/web/data/dyfi/pdfs-us/DYFIus_cumul-2016.pdf">
     <img class="map-cumul" src="images/US_cumul2016.png" alt="all U.S. DYFI responses through 2016"/>
@@ -149,13 +154,6 @@
     <img class="map-cumul" src="images/Global_cumul2016.png" alt="all Global DYFI responses through 2016"/>
     <p>Click on image to view hi-resolution PDF (7.3MB)</p>
   </a>
-  <p>or try out the</p>
-  <p>
-    <strong>
-      <a href="http://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=9310990e7ce84e3b8567109616b0944d">Did You Feel It? Annual Data Viewer</a></strong> - interactive map with a layer for each year
-
-  </p>
 
 </section>
-
 </div>
