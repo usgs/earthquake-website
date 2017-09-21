@@ -79,7 +79,7 @@ if (!isset($TEMPLATE)) {
       <tr>
       	<td>2017</td>
       	<td>212</td>
-      	<td>62 (as of 7/20/17)</td>
+      	<td>62</td>
       	<td>89</td>
       	<td>61</td>
       </tr>
