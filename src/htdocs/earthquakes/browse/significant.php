@@ -61,7 +61,7 @@ if (!isset($TEMPLATE)) {
 
 <p>
   <strong>mag_significance</strong> = magnitude * 100 * (magnitude / 6.5);<br/>
-  <strong>pager_significance</strong> = (red) ? 2000 : (orange) ? 1000 : (yellow) ? 500 : 0;<br/>
+  <strong>pager_significance</strong> = red is 2000 : orange is 1000 : yellow is 500 : green is 0;<br/>
   <strong>dyfi_significance</strong> = min(num_responses, 1000) * max_cdi / 10;
 </p>
 
