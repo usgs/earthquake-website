@@ -15,7 +15,7 @@
   </figcaption>
 </figure>
 
-<p>- last updated September 18, 2017 3:05 PST</p>
+<p>- last updated September 27, 2017 1:40 PST</p>
 
 <p>
   On September 2, 2017, there was a <a href="/earthquakes/eventpage/us2000aekg">M5.3 earthquake east of Soda Springs, Idaho</a>. It caused moderate shaking over a broad area of southeastern Idaho, northern Utah, and western Wyoming.
@@ -74,15 +74,16 @@
   Our forecast changes as time passes due to the decay in the frequency of aftershocks, larger aftershocks that reinvigorate the sequence, and changes in forecast modeling based on the earthquake data collected. Similar to weather models, our models will also change with more data and information. The longer this sequence goes on, the more we learn about what it will do in the future.
 </p>
 <p>
-  We have taken a detailed forecast and developed three scenarios that we consider to be the most likely. These scenarios are for the following week only, but earthquakes will continue to be possible at later times. We will update the forecast as more information becomes available.
+  We have taken a detailed forecast and developed three scenarios that we consider to be the most likely. These scenarios are for the following month, but earthquakes will continue to be possible at later times. The forecast was last updated on Sept. 28, 2017. We will continue to update the forecast as more information becomes available.
+
 </p>
 <p>
-  <strong>Here are the three scenarios or possibilities for the week starting Sept. 19, 2017, based on earthquake forecast models:</strong>
+  <strong>Here are the three scenarios or possibilities for the month starting Sept. 28, 2017, based on earthquake forecast models:</strong>
 </p>
 <ol>
   <li>
     <strong>Scenario #1 (most likely: 90-95% chance):</strong><br/>
-    The sequence will continue to decay over the next week, which means there will be fewer earthquakes. Earthquakes above M3 may be felt by those in the area, and occasional spikes in activity may be accompanied by additional M4 or larger earthquakes, but with none larger than the M5.3 mainshock. While all earthquake sequences decay over time, there are several other possible outcomes, which are listed next.
+    The sequence will continue to decay over the next month, which means there will be fewer earthquakes. Earthquakes above M3 may be felt by those in the area, and occasional spikes in activity may be accompanied by additional M4 or larger earthquakes, but with none larger than the M5.3 mainshock. While all earthquake sequences decay over time, there are several other possible outcomes, which are listed next.
   </li>
   <li>
     <strong>Scenario #2 (less likely than Scenario #1 but possible with 5-10% chance):</strong><br />
@@ -90,10 +91,10 @@
   </li>
   <li>
     <strong>Scenario #3 (the least likely scenario but still possible with less than 1% chance):</strong><br />
-    A much larger earthquake than M5.3 could occur, up to and including the M7.0 range, in which case we would call what has happened prior to any larger earthquake a foreshock sequence. We have seen this happen in other places around the world, with the most notable being L’Aquila, Italy in 2009. It is important to understand that this is a highly unlikely scenario, but we cannot ignore the possibility of this occurring.
+    A much larger earthquake than M5.3 could occur, up to and including the M7 range, in which case we would call what has happened prior to any larger earthquake a foreshock sequence. We have seen this happen in other places around the world, with the most notable being L’Aquila, Italy in 2009. It is important to understand that this is a highly unlikely scenario, but we cannot ignore the possibility of this occurring.
   </li>
 </ol>
-<p>This forecast is for one week, but the sequence may continue past that timeframe. The probabilities will be updated periodically.</p>
+<p>This forecast is for one month, but the sequence may continue past that timeframe. The probabilities will be updated periodically.</p>
 
 <h2>What You Can Do About the Earthquakes</h2>
 <p>
@@ -116,7 +117,7 @@
   </figcaption>
 </figure>
 <p>
-  The geology of this area is intriguing and complex. The M5.3 earthquake and subsequent aftershocks occurred beneath the Aspen Range of southeastern Idaho, approximately 15 km (9.3 mi) SE of Soda Springs, Idaho, and 20 km (33 mi) north of Montpelier, Idaho. The basic geology of the region consists of folded and thrust-faulted rocks of Permian to Cretaceous age. These thrust faults shifted these rocks from west to east approximately 100 million years ago and created the mountains from southeastern Idaho to western Wyoming, a region termed the Idaho-Wyoming-Utah fold and thrust belt. Subsequent to this compression, the area has been subjected to east-west extension that has created active normal faults.
+  The geology of this area is intriguing and complex. The M5.3 earthquake and subsequent aftershocks occurred beneath the Aspen Range of southeastern Idaho, approximately 15 km (9.3 mi) SE of Soda Springs, Idaho, and 33 km (20 mi) north of Montpelier, Idaho. The basic geology of the region consists of folded and thrust-faulted rocks of Permian to Cretaceous age. These thrust faults shifted these rocks from west to east approximately 100 million years ago and created the mountains from southeastern Idaho to western Wyoming, a region termed the Idaho-Wyoming-Utah fold and thrust belt. Subsequent to this compression, the area has been subjected to east-west extension that has created active normal faults.
 </p>
 <p>
   To the southwest, these faults are clearly seen (the Wasatch Fault, East/West Cache Faults and the East/West Bear Lake Faults). The West and East Bear Lake faults probably continue north of the lake. These two faults are responsible for the formation of these valleys, including the valley through which the Bear River flows from Montpelier to Soda Springs. These normal faults probably started moving several million years ago, and indicators of offset can be seen from Georgetown to east of Bear Lake. The current earthquake sequence could have occurred on one of these faults.
