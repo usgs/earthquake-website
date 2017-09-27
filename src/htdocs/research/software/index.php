@@ -42,6 +42,7 @@
     <li><a href="#PPHASEPICKER">PPHASEPICKER</a></li>
     <li><a href="#PQLX">PQLX</a></li>
     <li><a href="#Prism">Prism</a></li>
+    <li><a href="#ps2ff">PS2FF</a></li>
     <li><a href="#quakeml">Quakeml</a></li>
     <li><a href="#SATSI">SATSI</a></li>
     <li><a href="#SeisRisk">SeisRisk III</a></li>
@@ -53,7 +54,6 @@
     <li><a href="#strainz17">Strainz17</a></li>
     <li><a href="#strec">STREC</a> - SeismoTectonic Regime Earthquake Calculator</li>
     <li><a href="#smfetch">StrongMotion Fetch</a></li>
-    <li><a href="#unifiedhaztool">Unified Hazard Tool</a></li>
     <li><a href="#VISCO1D">VISCO1D</a></li>
     <li><a href="#vs30global">Vs30 Global</a></li>
   </ul>
@@ -826,8 +826,6 @@ also supports negative magnitudes, independent S models, and crustal models from
             <li><a href="https://github.com/usgs/nshmp-haz">NSHMP Hazard Codes github repository</a></li>
             <li><a href="https://github.com/usgs/nshmp-model-cous-2014">NSHMP Hazard Model for Conterminous U.S. - 2014 github repository</a></li>
             <li><a href="https://github.com/usgs/nshmp-model-cous-2008">NSHMP Hazard Model for Conterminous U.S. - 2008 github repository</a></li>
-            <li><a href="https://github.com/usgs/nshmp-model-ak-2007">NSHMP Hazard Model for Alaska - 2007 github repository</a></li>
-            <li><a href="https://github.com/usgs/nshmp-model-hi-1998">NSHMP Hazard Model for Hawaii - 1998 github repository</a></li>
             <li><a href="https://github.com/usgs/nshmp-haz-catalogs">NSHMP Hazard Catalogs github repository</a></li>
           </ul>
         </td>
@@ -1028,6 +1026,49 @@ also supports negative magnitudes, independent S models, and crustal models from
     <p>PRISM is open-source software used for automatically processing strong-motion records, and is intended to be used by individuals or strong-motion networks. The software package includes a review tool, which is an interactive graphical user interface (GUI) for visually inspecting, editing and processing. PRISM is coded in Java language, and does not dependent on closed-source or proprietary software.</p>
     <p>PRISM is easy to install and run as a stand-alone system on common operating systems such as Linux, Mac and Windows.</p>
     <p>PRISM was designed to be flexible and extensible in order to accommodate implementation of new processing techniques. Strong-motion processing steps in the automated workflow are clearly defined, and use a set of customizable parameters—specified in a configuration file—to generate COSMOS V1 (acceleration with mean removed), V2 (baseline-corrected and filtered acceleration, velocity and displacement), and V3 (response spectra, Fourier spectra and intensity measures) data products.</p>
+  </li>
+
+  <li>
+    <a href="https://github.com/usgs/ps2ff">
+      <h2 id="ps2ff">PS2FF</h2>
+      <img src="images/ps2ff.png" alt="PS2FF"/>
+    </a>
+    <table>
+      <tr>
+        <th>Authors:</th>
+        <td>
+          <a href="mailto:emthompson@usgs.gov">Eric Thompson</a>, Charles Worden
+        </td>
+      </tr>
+      <tr>
+        <th>Usage:</th>
+        <td>Produce approximated rupture distances from point source information</td>
+      </tr>
+      <tr>
+        <th>Platform:</th>
+        <td>OSX or Linux</td>
+      </tr>
+      <tr>
+        <th>Interface:</th>
+        <td>Command line</td>
+      </tr>
+      <tr>
+        <th>Input:</th>
+        <td>config_file.ini file</td>
+      </tr>
+      <tr>
+        <th>Output:</th>
+        <td>CSV file</td>
+      </tr>
+      <tr>
+        <th>Download:</th>
+        <td><a href="https://github.com/usgs/ps2ff">ps2ff github repository</a></td>
+      </tr>
+    </table>
+    <p>
+      Produce approximated finite fault distances and variance corrections given point source information (e.g., Repi (epcentral distance) to Rjb (Joyner-Boore distance) or Rrup (closest distance to rupture).
+    </p>
+
   </li>
 
 <!-- commented out with permission of Paul Earle on 08/08/2012
@@ -1548,24 +1589,6 @@ also supports negative magnitudes, independent S models, and crustal models from
     <p>
       Provides functionality to download and/or process strong motion data from various networks (Japan, New Zealand, IRIS, etc.) and save the peak ground motions in either ShakeMap "station" XML format or spreadhsheet format.
     </p>
-  </li>
-
-  <li>
-    <a href="https://github.com/usgs/earthquake-hazard-tool">
-      <h2 id="unifiedhaztool">Unified Hazard Tool</h2>
-      <img src="images/unifhaztool.gif" width="144" alt=""/>
-    </a>
-    <table>
-      <tr>
-       <th>Author:</th>
-       <td><a href="mailto:pmpowers@usgs.gov">Peter Powers</a></td>
-      </tr>
-      <tr>
-       <th>Download:</th>
-       <td><a href="https://github.com/usgs/earthquake-hazard-tool">Unified Hazard Tool github repository</a></td>
-      </tr>
-    </table>
-    <p>Unified application for hazard calculations.</p>
   </li>
 
   <li>
