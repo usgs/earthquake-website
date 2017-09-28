@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-09-28',
+  'title' => 'Study Confirms Large Earthquakes along Olympic Mountain Faults',
+  'content' => 'A just-published study by USGS authors concludes that 3-5 large surface-rupturing earthquakes have occurred along the north edge of the Olympic Mountains during the last 13,000 years. (SSA News Release)',
+  'link' => 'https://www.seismosoc.org/news/ssa-press-releases/study-confirms-large-earthquakes-along-olympic-mountain-faults/',
+  'modified' => strtotime('2017-09-28'),
+  'thumbnail' => '/images-featured/Olympic-faults.jpg',
+  'image' => '/images-featured/Olympic-faults.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-09-17',
   'title' => 'M5.3 2017 Soda Springs, Idaho Sequence',
   'content' => 'A summary of what we know so far about this sequence, what scientists are doing, plus earthquake forecast scenarios.',
