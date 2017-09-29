@@ -23,8 +23,9 @@ if (!isset($TEMPLATE)) {
 
 <ul>
   <li><a href="PRISM-instructions.pdf">How to Run PRISM Using Command Line</a> (.pdf)</li>
-  <li><a href="PRISM-1.0.2.zip">Download PRISM Processing Engine Executable File with Examples</a> (.zip)</li>
+  <li><a href="https://escweb.wr.usgs.gov/content/research/software/prism/PRISM-1.0.2.zip">Download PRISM Processing Engine Executable File with Examples</a> (.zip)</li>
   <li><a href="https://github.com/usgs/prism">Download PRISM Processing Engine Source Code</a> (github)</li>
+  <li><a href="https://escweb.wr.usgs.gov/content/research/software/prism/PRISM_RT_1.0.0.zip">Download PRISM Review Tool and Documentation</a> (.zip)</li>
 </ul>
 
 <h2>Earthquake Seminar</h2>
