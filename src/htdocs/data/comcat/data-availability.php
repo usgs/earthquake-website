@@ -109,4 +109,4 @@ in the world.
 	<li><a href="/monitoring/institutions.php">Geophysics Institutions Throughout the World</a></li>
 </ul>
 
-<p>Also see: <a href="https://www.usgs.gov/faq/?q=taxonomy/term/9826">FAQs about Latest Earthquake Information</a></p>
+<p>Also see: <a href="/learn/faq.php">FAQs about Latest Earthquake Information and Other Topics</a></p>
