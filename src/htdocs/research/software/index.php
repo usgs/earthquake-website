@@ -1066,7 +1066,7 @@ also supports negative magnitudes, independent S models, and crustal models from
       </tr>
     </table>
     <p>
-      Produce approximated finite fault distances and variance corrections given point source information (e.g., Repi (epcentral distance) to Rjb (Joyner-Boore distance) or Rrup (closest distance to rupture).
+      Produce approximated finite fault distances and variance corrections given point source information, for example, Repi (epcentral distance) to Rjb (Joyner-Boore distance) or Rrup (closest distance to rupture).
     </p>
 
   </li>

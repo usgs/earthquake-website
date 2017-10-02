@@ -46,5 +46,5 @@ and Coordinator, Earthquake Hazards Program<br />
   <li>Dr. Peter Shearer <br />
     University of California, San Diego</li>
   <li>Dr. John Vidale<br />
-    University of Washington</li>
+    University of Southern California</li>
 </ul>
