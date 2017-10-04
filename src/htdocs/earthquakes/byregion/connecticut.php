@@ -18,12 +18,13 @@
 
 <h2>Topics of Interest</h2>
 <ul>
-  <li><a href="https://www2.bc.edu/~kafka/Why_Quakes/why_quakes.html">Why Does the Earth Quake in New England?</a></li>
+  <li><a href="http://aki.bc.edu/why_quakes.html">Why Does the Earth Quake in New England?</a></li>
 </ul>
 
 <h2>Organizations</h2>
 <ul>
   <li><a href="http://www.bc.edu/research/westonobservatory/">Weston Observatory of Boston College</a></li>
-  <li><a href="http://www.ct.gov/demhs/site/">Connecticut Department of Emergency Services and Public Protection</a></li>
-
+  <li><a href="http://www.ct.gov/deep/cwp/view.asp?a=2701&q=511296&deepnav_gid=1641  "></a>Connecticut Geological Survey</li>
+  <li><a href="http://www.ct.gov/demhs/cwp/view.asp?a=4490&q=553258&demhsNav=|42956|">Connecticut Office of Emergency Management</a></li>
+  <li><a href="http://www.nesec.org">Northeast States Emergency Consortium</a></li>
 </ul>

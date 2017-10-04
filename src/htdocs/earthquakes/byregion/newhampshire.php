@@ -24,8 +24,10 @@
 
 <h2>Organizations</h2>
 <ul>
+  <li><a href="http://www.bc.edu/research/westonobservatory/">Weston Observatory of Boston College</a></li>
+  <li><a href="https://www.des.nh.gov/organization/commissioner/gsu/index.htm">New Hampshire Geological Survey</a></li>
   <li><a href="http://des.nh.gov/">New Hampshire Department of Environmental Services</a></li>
   <li><a href="http://www.nh.gov/safety/divisions/hsem/">New Hampsire Bureau of Emergency Management</a></li>
   <li><a href="http://www.gsnhonline.org/">Geological Society of New Hampshire</a></li>
-  <li><a href="http://www.bc.edu/research/westonobservatory/">Weston Observatory of Boston College</a></li>
+  <li><a href="http://www.nesec.org">Northeast States Emergency Consortium</a></li>
 </ul>

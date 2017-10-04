@@ -17,13 +17,7 @@ if (!isset($TEMPLATE)) {
 </p>
 <ul>
   <li>
-    <a href="https://www.whitehouse.gov/sites/default/files/omb/grants/sf272.pdf">SF272 Federal Cash Transactions Report</a>
-  </li>
-  <li>
-    <a href="https://www.whitehouse.gov/sites/default/files/omb/grants/sf269.pdf">SF269 Financial Status Report</a>
-    </li>
-  <li>
-    <a href="https://www.whitehouse.gov/sites/default/files/omb/grants/sf269.pdf">Final SF269 Financial Status Report</a> (same as above)
+    SF425 Federal Financial Report on the Grants.gov <a href="https://www.grants.gov/web/grants/forms/post-award-reporting-forms.html#sortby=1">Post-Award Reporting forms webpage</a>
   </li>
 </ul>
 
