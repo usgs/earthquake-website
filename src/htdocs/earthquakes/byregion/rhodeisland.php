@@ -18,12 +18,13 @@
 
 <h2>Topics of Interest</h2>
 <ul>
-  <li><a href="http://www2.bc.edu/~kafka/Why_Quakes/why_quakes.html">Why Does the Earth Quake in New England?</a></li>
+  <li><a href="http://aki.bc.edu/why_quakes.html">Why Does the Earth Quake in New England?</a></li>
 </ul>
 
 <h2>Organizations</h2>
 <ul>
-  <li><a href="http://web.uri.edu/geo/rhode-island-geological-survey/">Rhode Island Geological Survey</a></li>
   <li><a href="http://www.bc.edu/research/westonobservatory/">Weston Observatory of Boston College</a></li>
+  <li><a href="http://web.uri.edu/geo/rhode-island-geological-survey/">Rhode Island Geological Survey</a></li>
   <li><a href="http://www.riema.ri.gov/">Rhode Island Emergency Management Agency</a></li>
+  <li><a href="http://www.nesec.org">Northeast States Emergency Consortium</a></li>
 </ul>
