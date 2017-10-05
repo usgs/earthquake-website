@@ -32,7 +32,8 @@
         Database Search</a></li>
       <li>Download Data:
         <ul>
-          <li><a href="kml.php">KML (Google Earth) Files</a></li>
+          <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/qfaults/Quaternaryall.zip">KML (Google Earth) Files</a> (20 MB ZIP)<br/>
+          - includes 5 fault layers: Historic, Holocene to Latest Pleistocene, Late Quaternary, Mid-Late Quaternary, Quaternary</li>
           <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/qfaults/qfaults-GIS.zip">GIS Shapefiles</a> (9.1 MB ZIP file)</li>
         </ul>
       </li>
