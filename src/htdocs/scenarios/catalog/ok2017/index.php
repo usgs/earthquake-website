@@ -37,14 +37,15 @@ include '../_catalog.inc.php';
   Jones from 2009 to 2017, consideration of earthquake source parameters from the
   2011 M5.7 Prague, Oklahoma, and the 2016 M5.8 Pawnee, Oklahoma, earthquakes,
   fault information provided by the Oklahoma Geological Survey, and discussions
-  among Rob Williams (USGS), Dan McNamara (USGS), Andy Michael (USGS), and Jacob
-  Walter and Jerry Boak (Oklahoma Geological Survey).
+  among Rob Williams (USGS), Dan McNamara (USGS), Andy Michael (USGS), Jacob
+  Walter and Jerry Boak (Oklahoma Geological Survey), David Wald (USGS), and
+  Eric Thompson (USGS).
 </p>
 
 
 <h3 id="event-selection">Ground Motion Models</h3>
 <p>
-  The ground motions are computed using the same mehtods as with the 2014
+  The ground motions are computed using the same methods as with the 2014
   BSSC Scenario Catalog, described
   <a href="../bssc2014/index.php">here</a>.
 </p>

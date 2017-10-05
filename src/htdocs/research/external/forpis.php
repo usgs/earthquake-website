@@ -11,7 +11,7 @@ if (!isset($TEMPLATE)) {
 
 <h2>Information for PIs</h2>
 
-<h3>Required Financial Reports</h3>
+<h3>Required Financial Report</h3>
 <p>
   The financial reports that are required are listed below.  Financial reporting requirements are described in detail in your agreement&rsquo;s deliverable/reporting requirements section.
 </p>
