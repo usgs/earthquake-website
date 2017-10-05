@@ -16,7 +16,7 @@ include '../_catalog.inc.php';
 
 <h3 id="event-selection">Ground Motion Models</h3>
 <p>
-  The ground motions are computed using the same mehtods as with the 2014
+  The ground motions are computed using the same methods as with the 2014
   BSSC Scenario Catalog, described
   <a href="../bssc2014/index.php">here</a>.
 </p>
