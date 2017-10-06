@@ -12,7 +12,8 @@ if (!isset($TEMPLATE)) {
     $id = $json['id'];
     $title = $json['title'];
     $url = $json['url'];
-    $logo = '../../logos/' . $id . '.svg';
+    $logo_id = isset($json['logo-id']) ? $json['logo-id'] : $id;
+    $logo = '../logos/' . $logo_id . '.svg';
 
     $TITLE = strtoupper($id) . ' (Catalog)';
     $HEAD = ($HEAD ? $HEAD : '') .

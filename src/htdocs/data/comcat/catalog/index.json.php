@@ -13,12 +13,15 @@ header('Content-type: application/json');
 
 $base_url = get_host_url_prefix() . '/data/comcat';
 foreach ($catalogs as $id => &$metadata) {
-  $logo = 'logos/' . $id . '.svg';
+  $id = $metadata['id'];
+  $logo_id = isset($metadata['logo-id']) ? $metadata['logo-id'] : $id;
+  $logo = 'logos/' . $logo_id . '.svg';
   if (file_exists('../' . $logo)) {
     $metadata['logo'] = $base_url . '/' . $logo;
   }
 
   $metadata['url'] = $base_url . '/catalog/' . $id . '/';
 }
+
 
 echo json_encode($catalogs);
