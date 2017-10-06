@@ -57,6 +57,123 @@ More complete example:
 }
 ```
 
+### Supported JSON Properties
+
+<dl>
+<dt>id</dt>
+<dd>
+  (Required)
+  Catalog code, should match the directory name.
+</dd>
+
+<dt>title</dt>
+<dd>
+  (Required)
+  Full name for catalog organization.
+  This title is displayed when linking to this page.
+</dd>
+
+<dt>url</dt>
+<dd>URL for catalog home page, or more information about catalog.</dd>
+
+<dt>logo-id</dt>
+<dd>
+  By default, the <code>id</code> property is used to determine the logo.
+  This works for a contributor's primary catalog, but for additional catalogs
+  <code>logo-id</code> can be set to the contributor id to display that logo.
+</dd>
+
+<dt>citation</dt>
+<dd>
+  DOI number (preferred),
+  or other citation information for users to reference this catalog.
+</dd>
+
+<dt>email</dt>
+<dd>
+  <p>NOTE: contact information is more commonly included on
+  contributor pages, which may be linked in the PHP file.</p>
+
+  Email address to contact catalog.
+</dd>
+
+<dt>email-name</dt>
+<dd>
+  Name or text associated with email address (email)
+  Only used when email is set.
+</dd>
+
+<dt>address</dt>
+<dd>
+  <p>NOTE: contact information is more commonly included on
+  contributor pages, which may be linked in the PHP file.</p>
+
+  Mailing address or addresses.
+  May be an array containing multiple addresses.
+  Each address has the following properties:
+
+  <dl>
+  <dt>org</dt>
+  <dd>Title or organization for address</dd>
+
+  <dt>street-address</dt>
+  <dd>
+    (Required)
+    First line of address
+  </dd>
+
+  <dt>extended-address</dt>
+  <dd>Second line of address</dd>
+
+  <dt>locality</dt>
+  <dd>
+    (Required)
+    Address city
+  </dd>
+
+  <dt>region</dt>
+  <dd>
+    (Required)
+    Address state/region
+  </dd>
+
+  <dt>postal-code</dt>
+  <dd>
+    (Required)
+    Address ZIP/postal code
+  </dd>
+
+  <dt>country</dt>
+  <dd>Address country</dd>
+  </dl>
+</dd>
+
+
+<dt>tel</dt>
+<dd>
+  <p>NOTE: contact information is more commonly included on
+  contributor pages, which may be linked in the PHP file.</p>
+
+  Array of telephone numbers.
+  Each telephone number has the following properties:
+
+  <dl>
+  <dt>type</dt>
+  <dd>
+    (Required)
+    Text describing telephone number, e.g. "Earthquake Information".
+  </dd>
+
+  <dt>value</dt>
+  <dd>
+    (Required)
+    Phone number with country and area code, e.g. "+1-555-555-5555".
+  </dd>
+  </dl>
+</dd>
+</dl>
+
+
 
 ## index.php
 
