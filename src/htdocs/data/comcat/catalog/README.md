@@ -90,6 +90,13 @@ More complete example:
 <dt>url</dt>
 <dd>URL for catalog home page, or more information about catalog.</dd>
 
+<dt>logo-id</dt>
+<dd>
+  By default, the <code>id</code> property is used to determine the logo.
+  This works for a contributor's primary catalog, but for additional catalogs
+  <code>logo-id</code> can be set to the contributor id to display that logo.
+</dd>
+
 <dt>citation</dt>
 <dd>
   DOI number (preferred),
@@ -178,7 +185,7 @@ More complete example:
   </dd>
   </dl>
 </dd>
-
+</dl>
 
 ## index.php
 
