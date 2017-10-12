@@ -9,7 +9,10 @@
 ?>
 
 <figure class='right'>
-  <img src="images/LomaPrieta-lg.jpg" alt="damage to house from 1989 Loma Prieta, CA earthquake"/>
+  <img src="images/1964_03_28_026_small.gif" alt=""/>
+  <figcaption>
+    Collapse of Fourth Avenue near C Street, Anchorage, due to earthquake caused landslide. Before the earthquake, the sidewalk at left, which is in the graben, was at street level on the right. The graben subsides 11 feet in response to 14 feet of horizontal movement. Anchorage district, Cook Inlet region, Alaska. 1964.
+  </figcaption>
 </figure>
 
 <ul>
