@@ -143,3 +143,11 @@ Available formats: mchedr (1981/02 through 2013/07, ISF (1990 through 2013/7), a
 
 <h3>ehdf (extended Hypocenter Data File)</h3>
 <p><a href="ftp://hazards.cr.usgs.gov/NEICPDE/olderPDEdata/ehdf/ehdf.txt">ehdf</a> contains only hypocenter data and flags for macroseismic and geological effects, one event per line. This format is available from January 1990 through July 2013. It is no longer produced.</p>
+
+<h2>Significant Changes in PDE Processing</h2>
+
+<h3>1-January-2004</h3>
+
+<p>
+  The earth model used to calculate PDE hypocenters changed from the Jeffreys-Bullen earth model to the AK135 earth model.
+</p>
