@@ -46,7 +46,7 @@
   <li><a href="https://www.usgs.gov/faqs/can-i-get-a-list-receive-email-message-when-there-earthquake-how-do-i-sign-earthquake">Can I get on a list to receive an email message when there is an earthquake? How do I sign up for earthquake notifications?  Are there any Feeds I can subscribe to?</a></li>
   <li><a href="https://www.usgs.gov/faqs/when-are-tsunami-information-and-links-put-event-page">When are tsunami information and links put on the event page?</a></li>
   <li><a href="https://www.usgs.gov/faqs/whywhen-does-usgs-update-magnitude-earthquake">Why/When does the USGS update the magnitude of an earthquake?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/whywhen-does-usgs-update-magnitude-earthquake">Why do so many earthquakes occur at a depth of 10km?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/why-do-so-many-earthquakes-occur-a-depth-10km">Why do so many earthquakes occur at a depth of 10km?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-fast-does-earthquake-information-get-posted-web-site-get-sent-out-earthquake-notification">How fast does the earthquake information get posted to the web site, get sent out via the Earthquake Notification Service (ENS), ATOM feeds, etc?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-see-current-or-past-seismograms">Where can I see current or past seismograms?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-see-current-or-past-seismograms">Why do USGS magnitudes differ from those published by other agencies?</a></li>
