@@ -38,14 +38,14 @@
         </p>
       </li>
       <li>
-        <a href="/hazards/qfaults/kml.php">
+        <a href="ftp://hazards.cr.usgs.gov/web/nshm/qfaults/Quaternaryall.zip">
           <h4>Quaternary Faults &amp; Folds in the U.S.</h4>
           <img src="images/faults.jpg" alt="Faults"/>
         </a>
         <p>
           Faults and associated folds in
           the United States that are believed to be sources of M&gt;6
-          earthquakes during the Quaternary (the past 1,600,000 years).
+          earthquakes during the Quaternary (the past 1,600,000 years). 20MB ZIP file
         </p>
       </li>
       <li>
