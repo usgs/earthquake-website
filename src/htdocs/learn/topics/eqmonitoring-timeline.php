@@ -96,4 +96,14 @@ September 3 and 10. Great Alaskan earthquakes, uplifts reaching 47 feet.</p>
     <strong>December 16.</strong> Major earthquake in Nevada; large and extensive faulting.</p>
 <p><strong>1957. July 1- 1958. December 31.</strong> International Geophysical Year.</p>
 
-<p class="referencelist">All information adapted from <em>Elementary Seismology</em>, written by Charles F. Richter, published by W. H Freeman &amp; Company, Inc, 1958.</p>
+
+<h2>References</h2>
+
+<ul>
+  <li>
+    Richter, Charles F. (1958). <a href="https://pubs.geoscienceworld.org/bssa/article/49/1/119/115903/elementary-seismologyby-charles-f-richter-san">Elementary Seismology</a>, W. H Freeman &amp; Company, Inc.
+  </li>
+  <li>
+    <a href="https://www.scribd.com/document/73632824/19514-Active-Earth-Poster":>Living on an Active Earth: Perspectives on Earthquake Science</a> (2003). National Academies (poster).
+  </li>
+</ul>
