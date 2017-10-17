@@ -614,7 +614,7 @@
 
   <li class="day">
     <div class="events">
-      <p>W.F. Brace and J.D. Byerlee demonstrate that an engineering phenomenon known as stick-slip also applies to geological materials, providing explanation for Reid’s elastic rebound theory.</p>
+      <p>W.F. Brace and J.D. Byerlee demonstrate that an engineering phenomenon known as stick-slip also applies to geological materials, providing explanation for Reid’s elastic rebound theory. The National Earthquake Information Center (NEIC) is established in the U.S.</p>
       <div class="date">1966</div>
     </div>
   </li>
@@ -642,7 +642,7 @@
 
   <li class="day">
     <div class="events">
-      <p>Congress establishes the National Earthquake Hazard Reduction Program to reduce the risks to life and property from future earthquakes in the U.S. The Program is still in existence today.</p>
+      <p>Congress establishes the National Earthquake Hazard Reduction Program (NEHRP) to reduce the risks to life and property from future earthquakes in the U.S. and its territories. The Program is still in existence today.</p>
       <div class="date">1977</div>
     </div>
   </li>
@@ -670,8 +670,22 @@
 
   <li class="day">
     <div class="events">
+      <p>M6.9 Loma Prieta, California earthquake on October 17 causes $10.7 billion in losses.</p>
+      <div class="date">1989</div>
+    </div>
+  </li>
+
+  <li class="day">
+    <div class="events">
       <p>InSAR (interferomatic synthetic aperture radar) technology is used to image earthquake faulting with more detail than ever possible before.  InSAR measures deformation by comparing reflected radar waves recorded on successive passes of a satellite from nearly identical positions.</p>
       <div class="date">1992</div>
+    </div>
+  </li>
+
+  <li class="day">
+    <div class="events">
+      <p>M Northridge, California earthquake on January 17 causes $64.0 billion in losses.</p>
+      <div class="date">1989</div>
     </div>
   </li>
 
@@ -709,8 +723,39 @@
 
   <li class="day">
     <div class="events">
-      <p></p>
-      <div class="date"></div>
+      <p>The M9.1 Great Sumatra earthquake and tsunami occurs, Congress increases earthquake funding.</p>
+      <div class="date">2004</div>
+    </div>
+  </li>
+
+
+  <li class="day">
+    <div class="events">
+      <p>The National Earthquake Information Center (NEIC) becomes a 24x7 operation.</p>
+      <div class="date">2005</div>
+    </div>
+  </li>
+
+  <li class="day">
+    <div class="events">
+      <p>The Advanced National Seismic System (ANSS) network completes installment of 100th station.</p>
+      <div class="date">2006</div>
+    </div>
+  </li>
+
+<!--  NEED the DATE for this event
+  <li class="day">
+    <div class="events">
+      <p>The IRIS Data Center is established, a database of earthquake sources and ground motions.</p>
+      <div class="date">????</div>
+    </div>
+  </li>
+  -->
+
+  <li class="day">
+    <div class="events">
+      <p>QuakeML is released as the international standard for earthquake metadata exchange.</p>
+      <div class="date">2007</div>
     </div>
   </li>
 
@@ -725,15 +770,22 @@
 
 <ul>
   <li>
-    Richter, Charles F. (1958). Elementary Seismology, W. H Freeman &amp; Company, Inc.
+    Benz, H. (2017). <a href="http://srl.geoscienceworld.org/content/88/2B/457">Building a National Seismic Monitoring Center: NEIC from 2000 to the Present</a>, 88 (2B) 457-461.
   </li>
   <li>
-    <a href="https://www.scribd.com/document/73632824/19514-Active-Earth-Poster":>Living on an Active Earth: Perspectives on Earthquake Science</a> (2003). National Academies (poster).
+    Leith, W. (2017). <a href="http://srl.geoscienceworld.org/content/88/4/943">NEHRP Turns 40</a>, Seismological Research Letters, 88 (4), 943-947.
+  </li>
+  <li>
+    National Academies (2003). <a href="https://www.scribd.com/document/73632824/19514-Active-Earth-Poster":>Living on an Active Earth: Perspectives on Earthquake Science</a> (poster)
+  </li>
+
+  <li>
+    Richter, Charles F. (1958). Elementary Seismology, W. H Freeman &amp; Company, Inc.
   </li>
 </ul>
 
 
-<!-- How to include an image -->
+<!-- How to include an image
 <li class="day">
   <div class="events">
     <div class="day__img">
@@ -745,3 +797,4 @@
     <div class="date">1999</div>
   </div>
 </li>
+-->
