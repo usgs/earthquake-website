@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-10-03 17:43:18 +0000
+# Generation Time: 2017-10-17 20:52:33 +0000
 # ************************************************************
 
 
@@ -1375,7 +1375,9 @@ VALUES
 	(490,6),
 	(491,7),
 	(491,9),
-	(492,9);
+	(492,9),
+	(494,9),
+	(494,7);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1960,7 +1962,11 @@ VALUES
 	(491,10),
 	(492,11),
 	(492,13),
-	(492,10);
+	(492,10),
+	(494,9),
+	(494,10),
+	(494,13),
+	(494,11);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2111,7 +2117,9 @@ VALUES
 	(493,42),
 	(493,44),
 	(493,30),
-	(493,45);
+	(493,45),
+	(494,26),
+	(494,45);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2875,7 +2883,7 @@ VALUES
 	(476,22),
 	(477,72),
 	(477,25),
-	(478,55),
+	(478,78),
 	(479,52),
 	(479,63),
 	(479,37),
@@ -2930,7 +2938,11 @@ VALUES
 	(492,32),
 	(492,85),
 	(492,70),
-	(492,31);
+	(492,31),
+	(494,32),
+	(494,22),
+	(494,31),
+	(478,55);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3170,7 +3182,7 @@ VALUES
 	(457,'EarthScope Resources for Students & Teachers','EarthScope','http%3A%2F%2Fwww.earthscope.org%2Fresources%2Fstudents','Animations, online lectures, visualizations and more, mostly from IRIS.'),
 	(458,'IRIS Education Resources','IRIS - Incorporated Research Institutes for Seismology','http%3A%2F%2Fwww.iris.edu%2Fhq%2F','A multitude of educational resources for earthquake science, from visualizations and animations, to lessons and educational software. Awesome!'),
 	(463,'Pacific Coastal & Marine Science Center','USGS','http%3A%2F%2Fwalrus.wr.usgs.gov%2Ftsunami%2F','Tsunami and earthquake research at the USGS.'),
-	(478,'Timeline of Earthquake Monitoring History','USGS','/learn/topics/eqmonitoring-timeline.php','A timeline showing the evolution of earthquake monitoring through the ages to present.'),
+	(478,'Earthquake Science Timeline','USGS','/learn/topics/eqsci-history/eqscience-timeline.php','A timeline showing the evolution of earthquake science and seismometers through the ages to present.'),
 	(479,'How Seismic Waves Affect Different Size Buildings','USGS','/learn/topics/buildings-eqs.php','Houses and short buildings shake differently than tall buildings.'),
 	(480,'How You Can Strengthen Your Home','Centers for Disease Control','http://mitigation.eeri.org/files/BAS-How-You-Can-Strengthen-Your-Home.pdf','Actions you can take to prepare your home for the shaking from an earthquake.'),
 	(481,'Disaster Preparedness for Your Pet','Centers for Disease Control','https://www.cdc.gov/features/petsanddisasters/','Be prepared: make a plan and prepare a disaster kit for your pet.'),
@@ -3191,7 +3203,8 @@ VALUES
 	(488,'Earthquake Footage','American Geophysical Union','http://blogs.agu.org/tremblingearth/earthquake-footage/','Videos from webcams, security cameras, and newsreels during the shaking from various earthquakes.'),
 	(489,'QuakeSmart','Fed. Alliance for Safe Homes','http://www.flash.org/quakesmartcommunity/index.html','Information to help you identify your risk, develop a plan, and take action.'),
 	(490,'Geoscience Education Resources Network','American Geosciences Institute','https://www.americangeosciences.org/center-for-geo/ern','A plethora a resources, including lesson plans, classroom science activities, curriculum materials, image collections, presentations, videos and animations, virtual field trips, etc.'),
-	(491,'seismicsoundlab','seismicsoundlab.org','http://www.seismicsoundlab.org/','Creative visualizations of seismicity, seismic waves, ground motion.  Learning units are also being added.');
+	(491,'seismicsoundlab','seismicsoundlab.org','http://www.seismicsoundlab.org/','Creative visualizations of seismicity, seismic waves, ground motion.  Learning units are also being added.'),
+	(494,'Digging Into the Past on the Teton Fault','USGS','/learn/topics/teton-paleo/','Follow the daily activities of a team of geologists and paleoseismologists as they dig a trench and collect data on the Teton Fault. (from a fieldwork blog September 15-21, 2017)');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
