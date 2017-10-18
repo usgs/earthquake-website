@@ -142,7 +142,7 @@
 
   <li class="day">
     <div class="events">
-      <p>A Sseismograph is developed in Japan by Alfre Ewing using a 7-meter long pendulum.</p>
+      <p>A seismograph is developed in Japan by Alfre Ewing using a 7-meter long pendulum.</p>
       <div class="date">1879</div>
     </div>
   </li>
@@ -170,7 +170,7 @@
 
   <li class="day">
     <div class="events">
-      <p>Lord Rayleigh publishes a paper on the theory of "Rayleigh waves."</p>
+      <p>Lord Rayleigh publishes a paper on the theory of "<a href="/learn/glossary/?term=Rayleigh wave">Rayleigh waves</a>."</p>
       <div class="date">1885</div>
     </div>
   </li>
@@ -191,14 +191,14 @@
 
   <li class="day">
     <div class="events">
-      <p>First seismogram of a teleseism is identified by Ernst von Rebeur-Paschwitz from a recording of seismic waves on pendulums in Potsdam and Wilhemshaven, Germany.</p>
+      <p>First seismogram of a <a href="/learn/glossary/?term=teleseismic">teleseism</a> is identified by Ernst von Rebeur-Paschwitz from a recording of seismic waves on pendulums in Potsdam and Wilhemshaven, Germany.</p>
       <div class="date">1889</div>
     </div>
   </li>
 
   <li class="day">
     <div class="events">
-      <p>Mino-Owari earthquake occurs in Japan with large strike-slip and dip slip.</p>
+      <p>Mino-Owari earthquake occurs in Japan with large <a href="/learn/glossary/?term=strike-slip">strike-slip</a> and <a href="/learn/glossary/?term=dip slip">dip slip</a>.</p>
       <div class="date">1891</div>
     </div>
   </li>
@@ -240,7 +240,7 @@
 
   <li class="day">
     <div class="events">
-      <p>Knott's equations for reflection and refraction coefficients of elastic waves. Great Alaskan earthquakes occur on September 3 and 10 with uplifts reaching 47 feet.</p>
+      <p>Knott's equations for <a href="/learn/glossary/?term=reflection">reflection</a> and <a href="/learn/glossary/?term=refraction">refraction</a> coefficients of elastic waves. Great Alaskan earthquakes occur on September 3 and 10 with uplifts reaching 47 feet.</p>
       <div class="date">1899</div>
     </div>
   </li>
@@ -313,14 +313,14 @@
 
   <li class="day">
     <div class="events">
-      <p>Andrija Mohorovici&ccaron;, a Serbian seismologist, identifies the boundary between the Earth’s crust and mantle layers by the different velocities of seismic waves through each layer after an earthquake near Zagreb, Croatia on October 8. It is called the "Moho". A seismological station is established at Riverview near Sydney, Australia.</p>
+      <p>Andrija Mohorovici&ccaron;, a Serbian seismologist, identifies the boundary between the Earth’s crust and mantle layers by the different velocities of seismic waves through each layer after an earthquake near Zagreb, Croatia on October 8. It is called the "<a href="/learn/glossary/?term=Moho">Moho</a>". A seismological station is established at Riverview near Sydney, Australia.</p>
       <div class="date">1909</div>
     </div>
   </li>
 
   <li class="day">
     <div class="events">
-      <p>Henry Fielding Reid proposes the elastic rebound hypothesis to explain how earthquakes release accumulated energy when the fault slips, driven by plate tectonics. New instruments are installed at Berkeley.</p>
+      <p>Henry Fielding Reid proposes the <a href="/learn/animations/elasticrebound.php">elastic rebound</a> hypothesis to explain how earthquakes release accumulated energy when the fault slips, driven by plate tectonics. New instruments are installed at Berkeley.</p>
       <div class="date">1910</div>
     </div>
   </li>
@@ -334,7 +334,7 @@
 
   <li class="day">
     <div class="events">
-      <p>The radius of the core is determined by Gutenberg at Gottingen. Station established at La Paz, Bolivia.</p>
+      <p>The radius of the <a href="/learn/glossary/?term=core">core</a> is determined by Gutenberg at Gottingen. Station established at La Paz, Bolivia.</p>
       <div class="date">1913</div>
     </div>
   </li>
@@ -460,7 +460,7 @@
 
   <li class="day">
     <div class="events">
-      <p>Charles Richter develops the Richter Scale magnitude to measure earthquake size.</p>
+      <p>Charles Richter develops the <a href="/learn/glossary/?term=Richter scale">Richter Scale</a> to measure earthquake size.</p>
       <div class="date">1935</div>
     </div>
   </li>
@@ -509,14 +509,7 @@
 
   <li class="day">
     <div class="events">
-      <p>On April 1, an M7.1 Aleutian Island earthquake generates a deadly tsunami that causes destruction on Hawaii. A seismic sea warning service is organized as a consequence.</p>
-      <div class="date">1946</div>
-    </div>
-  </li>
-
-  <li class="day">
-    <div class="events">
-      <p>On April 1, an Aleutian tsunami causes destruction on Hawaii, seismic sea warning service organized as a consequence. On July 24, an atomic bomb test at Bikini produces P waves that are recorded at distant stations.</p>
+      <p>On April 1, an M7.1 Aleutian Island earthquake generates a deadly tsunami that causes destruction on Hawaii. A seismic sea warning service is organized as a consequence. On July 24, an atomic bomb test at Bikini produces P waves that are recorded at distant stations.</p>
       <div class="date">1946</div>
     </div>
   </li>
@@ -530,7 +523,7 @@
 
   <li class="day">
     <div class="events">
-      <p>The U.S. Coast and Geodetic Survey distributes the first earthquake probability map for the U.S. with 4 different hazard zones. C. A. Whitten, of the U.S. Coast and Geodetic Survey, publishes a paper on continuing horizontal displacements in California.</p>
+      <p>The U.S. Coast and Geodetic Survey distributes the first earthquake probability map for the U.S. with 4 different hazard zones. C. A. Whitten, of the U.S. Coast and Geodetic Survey, publishes a paper on continuing horizontal <a href="/learn/glossary/?term=displacement">displacements</a> in California.</p>
       <div class="date">1948</div>
     </div>
   </li>
@@ -551,7 +544,7 @@
 
   <li class="day">
     <div class="events">
-      <p>Strain-release curves are developed by Benioff in Pasadena, California.</p>
+      <p><a href="/learn/glossary/?term=strain">Strain</a>-release curves are developed by Benioff in Pasadena, California.</p>
       <div class="date">1951</div>
     </div>
   </li>
@@ -586,13 +579,6 @@
 
   <li class="day">
     <div class="events">
-      <p>The International Geophysical Year is declared July 1- December 31. ???</p>
-      <div class="date">1957</div>
-    </div>
-  </li>
-
-  <li class="day">
-    <div class="events">
       <p>The World Wide Standardized Seismographic Network (WWSSN) is started. It has high quality instruments able to record smaller earthquakes than before and able to get more accurate locations. The U.S. Uniform Building Code is modified to account for different building types and the level of seismic hazard in the region.</p>
       <div class="date">1961</div>
     </div>
@@ -600,21 +586,21 @@
 
   <li class="day">
     <div class="events">
-      <p>The M9.2 Alaskan earthquake is the second largest in the 20th century, causing a tsunami 9 meters high and causing the planet to “ring like a bell”, enabling measurements of the Earth’s free oscillations, and providing definitive evidence of the subduction of the Pacific Plate beneath the North American plate beneath the continental margin of southern Alaska. The ground shaking in the M7.5 earthquake near Niigata, Japan causes liquefaction of the loose, water-saturated sediments, resulting in the tilting of some large apartment buildings.</p>
+      <p>The <a href="/earthquakes/events/alaska1964/">M9.2 Alaskan earthquake</a> is the second largest in the 20th century, causing a tsunami 9 meters high and causing the planet to “ring like a bell”, enabling measurements of the Earth’s free oscillations, and providing definitive evidence of the subduction of the Pacific Plate beneath the North American plate beneath the continental margin of southern Alaska. The ground shaking in the M7.5 earthquake near Niigata, Japan causes liquefaction of the loose, water-saturated sediments, resulting in the tilting of some large apartment buildings.</p>
       <div class="date">1964</div>
     </div>
   </li>
 
   <li class="day">
     <div class="events">
-      <p>Plate tectonics becomes a unified theory that brings together all the earthquake science up to that point and provides a basis upon which to build moving forward. New information shows that the amount of crust being subducted is balanced by the amount being produced at the mid-ocean ridges. A computer-generated map of earthquake locations around the world is used to delineate the major plate boundaries.</p>
+      <p><a href="/learn/glossary/?term=plate%20tectonics">Plate tectonics</a> becomes a unified theory that brings together all the earthquake science up to that point and provides a basis upon which to build moving forward. New information shows that the amount of crust being subducted is balanced by the amount being produced at the mid-ocean ridges. A computer-generated map of earthquake locations around the world is used to delineate the major plate boundaries.</p>
       <div class="date">1965-68</div>
     </div>
   </li>
 
   <li class="day">
     <div class="events">
-      <p>W.F. Brace and J.D. Byerlee demonstrate that an engineering phenomenon known as stick-slip also applies to geological materials, providing explanation for Reid’s elastic rebound theory. The National Earthquake Information Center (NEIC) is established in the U.S.</p>
+      <p>W.F. Brace and J.D. Byerlee demonstrate that an engineering phenomenon known as <a href="/learn/glossary/?term=stick-slip">stick-slip</a> also applies to geological materials, providing explanation for Reid’s elastic rebound theory. The National Earthquake Information Center (NEIC) is established in the U.S.</p>
       <div class="date">1966</div>
     </div>
   </li>
@@ -642,7 +628,7 @@
 
   <li class="day">
     <div class="events">
-      <p>Congress establishes the National Earthquake Hazard Reduction Program (NEHRP) to reduce the risks to life and property from future earthquakes in the U.S. and its territories. The Program is still in existence today.</p>
+      <p>Congress establishes the <a href="http://www.nehrp.gov/">National Earthquake Hazard Reduction Program (NEHRP)</a> to reduce the risks to life and property from future earthquakes in the U.S. and its territories. The Program is still in existence today.</p>
       <div class="date">1977</div>
     </div>
   </li>
@@ -656,7 +642,7 @@
 
   <li class="day">
     <div class="events">
-      <p>The Global Seismographic Network (GSN) of broadband seismic stations is initiated with the founding of IRIS (Incorporated Research Institutes for Seismology). This network replaces the older WWSSN stations.</p>
+      <p>The <a href="/monitoring/gsn/">Global Seismographic Network (GSN)</a> of broadband seismic stations is initiated with the founding of IRIS (Incorporated Research Institutes for Seismology). This network replaces the older WWSSN stations.</p>
       <div class="date">1984</div>
     </div>
   </li>
@@ -670,7 +656,7 @@
 
   <li class="day">
     <div class="events">
-      <p>M6.9 Loma Prieta, California earthquake on October 17 causes $10.7 billion in losses.</p>
+      <p><a href="/earthquakes/events/1989lomaprieta/">M6.9 Loma Prieta, California earthquake</a> on October 17 causes $10.7 billion in losses.</p>
       <div class="date">1989</div>
     </div>
   </li>
@@ -684,7 +670,7 @@
 
   <li class="day">
     <div class="events">
-      <p>M Northridge, California earthquake on January 17 causes $64.0 billion in losses.</p>
+      <p>M6.7 Northridge, California earthquake on January 17 causes $64.0 billion in losses.</p>
       <div class="date">1989</div>
     </div>
   </li>
@@ -731,14 +717,14 @@
 
   <li class="day">
     <div class="events">
-      <p>The National Earthquake Information Center (NEIC) becomes a 24x7 operation.</p>
+      <p>The <a href="/contactus/golden/neic.php">National Earthquake Information Center (NEIC)</a> becomes a 24x7 operation.</p>
       <div class="date">2005</div>
     </div>
   </li>
 
   <li class="day">
     <div class="events">
-      <p>The Advanced National Seismic System (ANSS) network completes installment of 100th station.</p>
+      <p>The <a href="/monitoring/anss/">Advanced National Seismic System (ANSS)</a> network completes installment of 100th station.</p>
       <div class="date">2006</div>
     </div>
   </li>
