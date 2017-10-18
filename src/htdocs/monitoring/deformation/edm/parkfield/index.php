@@ -72,10 +72,10 @@ if (!isset($TEMPLATE)) {
 
 <ul>
   <li>
-    <a href="">Plot</a> of data
+    <a href="../img/pl_all.png">Plot</a> of data
   </li>
   <li>
-    <a href="">Plot</a> with inter-seismic rate removed
+    <a href="../img/pl_all_detrend.png">Plot</a> with inter-seismic rate removed
   </li>
 </ul>
 

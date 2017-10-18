@@ -54,11 +54,11 @@ monitored with the EDM are now being monitored with GPS. Below are plots of the
 continuation of the EDM time series using both the older EDM data and the newer
 GPS data.</p>
 <ul>
-  <li><a href="">Plot</a> of data since 1984</li>
-  <li><a href="">Plot</a> of data since 1997</li>
-  <li><a href="">Plot</a> of data since 1999</li>
-  <li><a href="">Plot</a> of data for past four years</a></li>
-  <li><a href="">Plot</a> of data for past year</li>
+  <li><a href="https://escweb.wr.usgs.gov/share/langbein/Web/2Color_Proxy/lv_proxy_jan84.png">Plot</a> of data since 1984</li>
+  <li><a href="https://escweb.wr.usgs.gov/share/langbein/Web/2Color_Proxy/lv_proxy_jul97.png">Plot</a> of data since 1997</li>
+  <li><a href="https://escweb.wr.usgs.gov/share/langbein/Web/2Color_Proxy/lv_proxy_sept99.png">Plot</a> of data since 1999</li>
+  <li><a href="https://escweb.wr.usgs.gov/share/langbein/Web/2Color_Proxy/lv_proxy_4year.png">Plot</a> of data for past four years</a></li>
+  <li><a href="https://escweb.wr.usgs.gov/share/langbein/Web/2Color_Proxy/lv_proxy_1year.png">Plot</a> of data for past year</li>
 </ul>
 
 <p>For more details contact: <a href="mailto:langbein@usgs.gov">John Langbein</a></p>
