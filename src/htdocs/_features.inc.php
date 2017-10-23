@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-10-23',
+  'title' => 'U.S. and Canadian Scientists Explore Major Undersea Earthquake Fault',
+  'content' => 'An international team of scientists just finished probing the depths of the Pacific Ocean offshore of Alaska and British Columbia, to better understand the Queen Charlotte-Fairweather Fault. During the past century, the 700-mile-long fault has generated at least half a dozen major earthquakes, and future shocks threaten coastal communities in both the United States and Canada.',
+  'link' => 'https://www.usgs.gov/news/us-and-canadian-scientists-explore-major-undersea-earthquake-fault',
+  'modified' => strtotime('2017-10-23'),
+  'thumbnail' => '/images-featured/QnCharlotte.jpg',
+  'image' => '/images-featured/QnCharlotte.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-09-28',
   'title' => 'Study Confirms Large Earthquakes along Olympic Mountain Faults',
   'content' => 'A just-published study by USGS authors concludes that 3-5 large surface-rupturing earthquakes have occurred along the north edge of the Olympic Mountains during the last 13,000 years. (SSA News Release)',
