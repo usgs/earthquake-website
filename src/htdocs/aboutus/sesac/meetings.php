@@ -1,13 +1,18 @@
 <?php
   // Author: Lisa Wald
   // Contact: Linda Huey, lhuey@usgs.gov
-  // Last modified: 08/23/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
       $TITLE = 'SESAC Meetings';
       $NAVIGATION = true;
       include 'template.inc.php';
     }
 ?>
+
+<h2>2017</h2>
+
+<p>
+  The Scientific Earthquake Studies Advisory Committee (SESAC) held a conference call to discuss the recent report “Analysis of the Benefits and Costs for the Adoption of EarthScope Stations in Alaska”, August 31, 2016, written by the Alaska Earthquake Monitoring Working Group.
+</p>
 
 <h2>2016</h2>
 
