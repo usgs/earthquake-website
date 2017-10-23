@@ -9,14 +9,17 @@
 ?>
 
 <ul>
-  <li>
-    <a href="docs/SESAC_Report_AEMWG.January2017.pdf">2016 Special Letter</a>
-  </li>
+<li>
+  <a href="docs/SESAC_Report_AEMWG.January2017.pdf">2017 Special Letter</a>
+</li>
+<li>
+  <a href="docs/sesac_2016SpecialLetter_MenloPark2-22-16.pdf">2016 Special Letter</a>
+</li>
 <li>
   <a href="docs/sesac_15report.pdf">2015 Annual Report</a> (PDF) | <a href="docs/SESAC_SpecialLetter_Sept23.pdf">Special Supplement</a><br/>
 </li>
 <li>
-  <a href="docs/sesac_14report.pdf">2014 Annual Report</a> (PDF)<br />
+  <a href="docs/sesac_14report.pdf">2014 Annual Report</a> (PDF) | <a href="docs/sesac_2014letter_report-Nov13.pdf">2014 Special Letter</a><br />
 </li>
 <li>
   <a href="docs/sesac_13report.pdf">2013 Annual Report</a> (PDF)<br />
