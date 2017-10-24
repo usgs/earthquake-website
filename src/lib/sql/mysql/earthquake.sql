@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-10-18 15:22:34 +0000
+# Generation Time: 2017-10-24 19:59:13 +0000
 # ************************************************************
 
 
@@ -1376,7 +1376,8 @@ VALUES
 	(492,9),
 	(494,9),
 	(494,7),
-	(495,9);
+	(495,9),
+	(496,7);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1964,7 +1965,8 @@ VALUES
 	(494,13),
 	(494,11),
 	(495,11),
-	(495,13);
+	(495,13),
+	(496,11);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2940,7 +2942,11 @@ VALUES
 	(494,22),
 	(494,31),
 	(478,55),
-	(495,55);
+	(495,55),
+	(496,22),
+	(496,68),
+	(496,30),
+	(496,49);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3202,7 +3208,8 @@ VALUES
 	(490,'Geoscience Education Resources Network','American Geosciences Institute','https://www.americangeosciences.org/center-for-geo/ern','A plethora a resources, including lesson plans, classroom science activities, curriculum materials, image collections, presentations, videos and animations, virtual field trips, etc.'),
 	(491,'seismicsoundlab','seismicsoundlab.org','http://www.seismicsoundlab.org/','Creative visualizations of seismicity, seismic waves, ground motion.  Learning units are also being added.'),
 	(494,'Digging Into the Past on the Teton Fault','USGS','/learn/topics/teton-paleo/','Follow the daily activities of a team of geologists and paleoseismologists as they dig a trench and collect data on the Teton Fault. (from a fieldwork blog September 15-21, 2017)'),
-	(495,'The Early History of Seismometry (to 1900)','USGS','/learn/topics/eqsci-history/early-seismometry.php','A walk through the evolution of earthquake monitoring instruments.');
+	(495,'The Early History of Seismometry (to 1900)','USGS','/learn/topics/eqsci-history/early-seismometry.php','A walk through the evolution of earthquake monitoring instruments.'),
+	(496,'GEODE - Google Earth for Onsite and Distance Education','geode.net','http://geode.net/','Virtual tours of different earth features using Google Earth.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
