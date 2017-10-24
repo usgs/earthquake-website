@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  httpd:
+    env_file:
+      - .env
+    image: usgs/hazdev-template:latest
+    ports:
+      - ${EXPOSE_PORT}:80
+    volumes:
+      - ./src/htdocs:/data/www/html
