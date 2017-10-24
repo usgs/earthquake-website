@@ -15,7 +15,7 @@
           <h4>NEIC - National Earthquake Information Center</h4>
           <img src="images/neic.jpg" width="150"/>
         </a>
-        <p>The NEIC determins the location and size of all significant earthquakes worldwide, disseminates the information immediately, maintains an online database of seismic information, and performs research.</p>
+        <p>The NEIC determines the location and size of all significant earthquakes worldwide, disseminates the information immediately, maintains an online database of seismic information, and performs research.</p>
       </li>
       <li>
         <a href="anss/">
