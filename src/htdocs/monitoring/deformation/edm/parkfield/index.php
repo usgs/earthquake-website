@@ -72,10 +72,10 @@ if (!isset($TEMPLATE)) {
 
 <ul>
   <li>
-    <a href="../img/pl_all.png">Plot</a> of data
+    <a href="https://escweb.wr.usgs.gov/share/langbein/Web/2Color_Proxy/PKF.pngg">Plot</a> of data
   </li>
   <li>
-    <a href="../img/pl_all_detrend.png">Plot</a> with inter-seismic rate removed
+    <a href="https://escweb.wr.usgs.gov/share/langbein/Web/2Color_Proxy/PKF_detrend.png">Plot</a> with inter-seismic rate removed
   </li>
 </ul>
 
