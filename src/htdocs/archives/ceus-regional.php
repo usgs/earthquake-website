@@ -1,11 +1,13 @@
 <?php
-      //	Author:	Tiffany Kalin
-      //	Contact: Mark Peterson
-      if	(!isset($TEMPLATE))	{
-      $TITLE	=	'New Madrid Seismic Zone, Wabash Valley Seismic Zone, and Shoal Creek/Southern Illinois Basin Scenarios';
-      $NAVIGATION	= true;
-      include	'template.inc.php';
-      }
+//  Archived on Oct 26, 2017
+//  https://earthquake.usgs.gov/hazards/urban/ceus-regional.php
+//	Author:	Tiffany Kalin
+//	Contact: Mark Peterson
+if	(!isset($TEMPLATE))	{
+  $TITLE	=	'New Madrid Seismic Zone, Wabash Valley Seismic Zone, and Shoal Creek/Southern Illinois Basin Scenarios';
+  $NAVIGATION	= true;
+  include	'template.inc.php';
+}
 ?>
 
 <figure class="right">

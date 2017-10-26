@@ -103,15 +103,6 @@ if	(!isset($TEMPLATE))	{
     </p>
   </li>
   <li>
-    <a href="ceus-regional.php">
-      <h4>New Madrid Seismic Zone, Wabash Valley Seismic Zone, and Shoal Creek/Southern Illinois Basin Scenarios</h4>
-      <img src="images/nmsz.jpg" width="144" alt="New Madrid Seismic Zone hazard map"/>
-    </a>
-    <p>
-      New Madrid Seismic Zone, Wabash Valley Seismic Zone, and Shoal Creek/Southern Illinois Basin scenarios.
-    </p>
-  </li>
-  <li>
     <a href="memphis/">
       <h4>Memphis, Shelby County Earthquake Hazards Mapping</h4>
       <img src="images/memphis.gif" alt="thumbnail of Shelby County hazard map"/>
