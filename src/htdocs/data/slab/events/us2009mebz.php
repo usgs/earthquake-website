@@ -44,7 +44,7 @@ We filter the historic gCMT catalog to include only shallow thrust mechanisms wi
 <h2>Result</h2>
 
 <p>
-<img src="ftp://hazards.cr.usgs.gov/web/data/slab/events/us2009mebz/s26_basemap.png" alt="" />
+<img src="/static/web/data/slab/events/us2009mebz/s26_basemap.png" alt="" />
 <br /><br />
 Figure 1: Basemap of subduction zone showing the area of the trench constrained in this example. Earthquake locations from the gCMT catalog and EHB catalog (gray circles, sized according to magnitude) are shown. Maroon rectangle indicates the area shown in cross section (c); all earthquakes within this area may be used to constrain trench geometry.
 </p>
@@ -52,7 +52,7 @@ Figure 1: Basemap of subduction zone showing the area of the trench constrained 
 <hr />
 
 <p>
-<a href="ftp://hazards.cr.usgs.gov/web/data/slab/events/us2009mebz/s26_crosssection2.png"><img src="ftp://hazards.cr.usgs.gov/web/data/slab/events/us2009mebz/s26_crosssection.png" alt="" /></a>
+<a href="/static/web/data/slab/events/us2009mebz/s26_crosssection2.png"><img src="/static/web/data/slab/events/us2009mebz/s26_crosssection.png" alt="" /></a>
 <br /><br />
 Figure 2: Click on figure for broader section view. Cross-section of subduction zone taken perpendicular to the average strike of gCMTs that match selection criteria and whose equivalent EHB or NEIC locations lie within the maroon box from Figure 1. Gold CMTs are mechanisms from the gCMT catalog plotted at their equivalent EHB catalog location, used to constrain trench strike and dip. Orange CMTs are mechanisms without EHB locations, placed instead at the equivalent event location in the NEIC catalog, and also used to constrain geometry. Light and dark gray circles are events from the EHB catalog in front and behind the plane of the cross-section, respectively, but not used to constrain geometry because either (i) they did not have a corresponding mechanism in the gCMT catalog, or (ii) their mechanism in the gCMT catalog did not match selection criteria. The trench location is marked with a red square. Probability density functions for EHB and NEIC locations are shown as green lines, scaled by a factor of x20 for display purposes. The black solid line describes the best fitting planar geometry; the red dashed line the best-fitting non-planar geometry. The initial locations of the 'new event' used to help constrain geometry are shown by black circles and marked with arrows corresponding to the gCMT epicentroid and NEIC epicenter. PDFs for these locations are shown in red. The best-fitting fault plane from the gCMT catalog for the new event (if available) is shown with a black dashed line. By clicking on this figure, an expanded cross-section will show the fit between the non-planar geometry and deeper earthquake data (maroon circles), also used to help constrain this geometry. On this section, gray lines represent 100 bootstrapped interfaces computed with a random selection of the input data.
 </p>
@@ -60,7 +60,7 @@ Figure 2: Click on figure for broader section view. Cross-section of subduction 
 <hr />
 
 <p>
-<img src="ftp://hazards.cr.usgs.gov/web/data/slab/events/us2009mebz/s26_dipdiscrepancy.png" alt="" />
+<img src="/static/web/data/slab/events/us2009mebz/s26_dipdiscrepancy.png" alt="" />
 <br /><br />
 Figure 3: Variation in dip of best-fitting fault planes from the gCMT catalog for all events used to constrain trench geometry across the plane of the cross-section. Individual event dips are shown with small dark gray circles, sized with magnitude. Large mechanisms indicate the average dip in 20km bins across the plane of the cross-section. Light gray mechanisms represent a bulk average; dark gray represents a moment-weighted average.
 </p>
@@ -68,7 +68,7 @@ Figure 3: Variation in dip of best-fitting fault planes from the gCMT catalog fo
 <hr />
 
 <p>
-<img src="ftp://hazards.cr.usgs.gov/web/data/slab/events/us2009mebz/s26_prob1.png" alt="" />
+<img src="/static/web/data/slab/events/us2009mebz/s26_prob1.png" alt="" />
 <br /><br />
 Figure 4: Maximum Likelihood probability function describing planar interface dip probability over a range of dips from 0-60 degrees. Vertical black dashed line indicates the planar solution with an SVD inversion.
 </p>
@@ -76,7 +76,7 @@ Figure 4: Maximum Likelihood probability function describing planar interface di
 <hr />
 
 <p>
-<img src="ftp://hazards.cr.usgs.gov/web/data/slab/events/us2009mebz/s26_prob2.png" alt="" />
+<img src="/static/web/data/slab/events/us2009mebz/s26_prob2.png" alt="" />
 <br /><br />
 Figure 5: Least Squares R-squared correlation and RMS misfit functions describing planar interface dip likelihood over a range of dips from 0-60 degrees.
 </p>
@@ -95,7 +95,7 @@ Depth and mechanism of event imply this earthquake did not rupture the plate int
 <table width="600" border="0" cellspacing="0" >
 <tr>
    <td colspan="1" width="200" >
-     <a href="ftp://hazards.cr.usgs.gov/web/data/slab/events/us2009mebz/s26_trench.pdf"><b>PDF FORMAT</b></a>
+     <a href="/static/web/data/slab/events/us2009mebz/s26_trench.pdf"><b>PDF FORMAT</b></a>
    </td>
 </tr>
 </table>

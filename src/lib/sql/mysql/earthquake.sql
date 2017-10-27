@@ -3064,7 +3064,7 @@ VALUES
 	(176,'Theory of the Earth','Caltech','http%3A%2F%2Fauthors.library.caltech.edu%2F25018%2F','online book on the science of earthquakes'),
 	(178,'Seismic Waves','Aspire','http%3A%2F%2Faspire.cosmic-ray.org%2FLabs%2FSeismicWaves%2F','demonstration on different types of seismic waves'),
 	(180,'Earthquakes, MegaQuakes, and the Movies','USGS','%2Flearn%2Ftopics%2Fmegaquakes.php','discussion about facts versus fantasies'),
-	(182,'Magnitude versus Intensity Lesson (PDF)','USGS','ftp://hazards.cr.usgs.gov/web/learn/Mag_vs_Int_Pkg.pdf','classroom lesson to teach the difference between earthquake magnitude and earthquake intensities (8.3MB PDF)'),
+	(182,'Magnitude versus Intensity Lesson (PDF)','USGS','/static/web/learn/Mag_vs_Int_Pkg.pdf','classroom lesson to teach the difference between earthquake magnitude and earthquake intensities (8.3MB PDF)'),
 	(183,'PBJ Fault (PDF)','USGS','/learn/publications/PBJFault.pdf','demonstrate the different types of faults with a PBJ sandwich, and then eat it double-decker'),
 	(185,'Large Plate Puzzle (PDF)','USGS','/learn/publications/LargePlatePuzzle.pdf','cut a large world map into puzzle pieces along plate boundaries, students discuss individually land then for the whole map after the class puts pieces together; simple but powerful, discussion Q/A included'),
 	(186,'Human Wave (PDF)','USGS','/learn/publications/HumanWave.pdf','learn about the motions of P &amp; S waves with a fun participating exercise'),

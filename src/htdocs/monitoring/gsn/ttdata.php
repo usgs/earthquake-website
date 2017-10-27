@@ -39,8 +39,8 @@
 <p>
 	Although we continue to make travel time picks and provide them to the ISC and the IRIS Data Management Center, the data set extends from 1997-2005 and is available in two different formats:
 	<ol>
-		<li><a href="ftp://hazards.cr.usgs.gov/web/data/gsn/ttpicks_raw.txt">raw arrival time picks in tabular form</a>: The columns of this file are, respectively, station name, channel name, and year, day, hour, minute, and second of the phase pick. </li>
+		<li><a href="/static/web/data/gsn/ttpicks_raw.txt">raw arrival time picks in tabular form</a>: The columns of this file are, respectively, station name, channel name, and year, day, hour, minute, and second of the phase pick. </li>
 
-		<li><a href="ftp://hazards.cr.usgs.gov/web/data/gsn/ttpicks.txt">"associated" arrival time picks in tabular form</a>: The columns of this file are, respectively, station name, channel name, year, day, hour, minute, and second of the phase pick, year, day, hour, minute, second, latitude, longitude, depth (km) of the associated earthquake, and the phase association.</li>
+		<li><a href="/static/web/data/gsn/ttpicks.txt">"associated" arrival time picks in tabular form</a>: The columns of this file are, respectively, station name, channel name, year, day, hour, minute, and second of the phase pick, year, day, hour, minute, second, latitude, longitude, depth (km) of the associated earthquake, and the phase association.</li>
 	</ol>
 </p>

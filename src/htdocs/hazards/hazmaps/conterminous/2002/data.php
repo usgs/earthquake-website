@@ -6,7 +6,7 @@
     $NAVIGATION = true;
     include 'template.inc.php';
   }
-  $ftp = 'ftp://hazards.cr.usgs.gov/web/nshm/conterminous/2002/data';
+  $ftp = '/static/web/nshm/conterminous/2002/data';
 ?>
 
 

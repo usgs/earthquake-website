@@ -10,13 +10,13 @@
 ?>
 <ul>
 <li>
-  <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/allslabs.kmz">Download all slab models in Google Earth format</a>
+  <a href="/static/web/data/slab/models/allslabs.kmz">Download all slab models in Google Earth format</a>
 </li>
 <li>
-  <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/allslabs.tgz">Download all slab models in NetCDF format</a>
+  <a href="/static/web/data/slab/models/allslabs.tgz">Download all slab models in NetCDF format</a>
 </li>
 <li>
-  <a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/slab.zip">Download all slab model contour shapefiles</a>
+  <a href="/static/web/data/slab/models/slab.zip">Download all slab model contour shapefiles</a>
 </li>
 </ul>
 <table class="slab ten column">
@@ -38,7 +38,7 @@
 		</a>
 		<small>
 			[<a href="images/alu_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/alu_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/alu_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -49,30 +49,30 @@
 
 	<tr>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/alu_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/alu_slab1.0_clip.grd'); ?><br />
 		  <small>alu_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/alu_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/alu_slab1.0_clip.xyz'); ?><br />
 		  <small>alu_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/alu_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/alu_slab1.0_strclip.grd'); ?><br />
 		  <small>alu_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/alu_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/alu_slab1.0_strclip.xyz'); ?><br />
 			<small>alu_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/alu_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/alu_slab1.0_dipclip.grd'); ?><br />
 			  <small>alu_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/alu_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/alu_slab1.0_dipclip.xyz'); ?><br />
 		  <small>alu_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_contours.in'); ?><br /><small>alu_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/alu_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/alu_contours.in'); ?><br /><small>alu_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/alu_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/alu_slab1.0.clip'); ?> <br />
 		  <small>alu_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/alu_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/alu_top.in'); ?> <br />
 		  <small>alu_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/alu_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/alu_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/alu_base.in'); ?> <br />
 		  <small>alu_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -86,7 +86,7 @@
 		</a>
 		<small>
 			[<a href="images/mex_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/mex_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/mex_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -97,30 +97,30 @@
 
 	<tr class="row2">
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/mex_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/mex_slab1.0_clip.grd'); ?><br />
 		  <small>mex_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/mex_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/mex_slab1.0_clip.xyz'); ?><br />
 		  <small>mex_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/mex_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/mex_slab1.0_strclip.grd'); ?><br />
 		  <small>mex_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/mex_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/mex_slab1.0_strclip.xyz'); ?><br />
 			<small>mex_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/mex_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/mex_slab1.0_dipclip.grd'); ?><br />
 			  <small>mex_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/mex_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/mex_slab1.0_dipclip.xyz'); ?><br />
 		  <small>mex_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_contours.in'); ?><br /><small>mex_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/mex_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/mex_contours.in'); ?><br /><small>mex_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/mex_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/mex_slab1.0.clip'); ?> <br />
 		  <small>mex_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/mex_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/mex_top.in'); ?> <br />
 		  <small>mex_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/mex_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/mex_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/mex_base.in'); ?> <br />
 		  <small>mex_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -134,7 +134,7 @@
 		</a>
 		<small>
 			[<a href="images/cas_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/cas_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/cas_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -148,26 +148,26 @@
 
 	<tr>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/cas_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/cas_slab1.0_clip.grd'); ?><br />
 		  <small>cas_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/cas_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/cas_slab1.0_clip.xyz'); ?><br />
 		  <small>cas_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/cas_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/cas_slab1.0_strclip.grd'); ?><br />
 		  <small>cas_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/cas_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/cas_slab1.0_strclip.xyz'); ?><br />
 			<small>cas_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/cas_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/cas_slab1.0_dipclip.grd'); ?><br />
 			  <small>cas_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/cas_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/cas_slab1.0_dipclip.xyz'); ?><br />
 		  <small>cas_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_contours_dep.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_contours_dep.in'); ?><br /><small>cas_contours_dep.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/cas_contours_dep.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/cas_contours_dep.in'); ?><br /><small>cas_contours_dep.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/cas_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/cas_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/cas_slab1.0.clip'); ?> <br />
 		  <small>cas_slab1.0.clip [4]</small></a></p>
 		</td>
 	</tr>
@@ -181,7 +181,7 @@
 		</a>
 		<small>
 			[<a href="images/izu_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/izu_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/izu_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -192,30 +192,30 @@
 
 	<tr class="row2">
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/izu_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/izu_slab1.0_clip.grd'); ?><br />
 		  <small>izu_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/izu_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/izu_slab1.0_clip.xyz'); ?><br />
 		  <small>izu_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/izu_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/izu_slab1.0_strclip.grd'); ?><br />
 		  <small>izu_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/izu_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/izu_slab1.0_strclip.xyz'); ?><br />
 			<small>izu_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/izu_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/izu_slab1.0_dipclip.grd'); ?><br />
 			  <small>izu_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/izu_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/izu_slab1.0_dipclip.xyz'); ?><br />
 		  <small>izu_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_contours.in'); ?><br /><small>izu_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/izu_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/izu_contours.in'); ?><br /><small>izu_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/izu_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/izu_slab1.0.clip'); ?> <br />
 		  <small>izu_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/izu_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/izu_top.in'); ?> <br />
 		  <small>izu_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/izu_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/izu_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/izu_base.in'); ?> <br />
 		  <small>izu_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -229,7 +229,7 @@
 		</a>
 		<small>
 			[<a href="images/ker_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/ker_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/ker_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -240,30 +240,30 @@
 
 	<tr>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/ker_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/ker_slab1.0_clip.grd'); ?><br />
 		  <small>ker_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/ker_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/ker_slab1.0_clip.xyz'); ?><br />
 		  <small>ker_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/ker_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/ker_slab1.0_strclip.grd'); ?><br />
 		  <small>ker_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/ker_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/ker_slab1.0_strclip.xyz'); ?><br />
 			<small>ker_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/ker_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/ker_slab1.0_dipclip.grd'); ?><br />
 			  <small>ker_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/ker_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/ker_slab1.0_dipclip.xyz'); ?><br />
 		  <small>ker_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_contours.in'); ?><br /><small>ker_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/ker_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/ker_contours.in'); ?><br /><small>ker_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/ker_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/ker_slab1.0.clip'); ?> <br />
 		  <small>ker_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/ker_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/ker_top.in'); ?> <br />
 		  <small>ker_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ker_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/ker_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/ker_base.in'); ?> <br />
 		  <small>ker_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -277,7 +277,7 @@
 		</a>
 		<small>
 			[<a href="images/kur_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/kur_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/kur_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -288,30 +288,30 @@
 
 	<tr class="row2">
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/kur_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/kur_slab1.0_clip.grd'); ?><br />
 		  <small>kur_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/kur_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/kur_slab1.0_clip.xyz'); ?><br />
 		  <small>kur_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/kur_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/kur_slab1.0_strclip.grd'); ?><br />
 		  <small>kur_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/kur_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/kur_slab1.0_strclip.xyz'); ?><br />
 			<small>kur_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/kur_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/kur_slab1.0_dipclip.grd'); ?><br />
 			  <small>kur_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/kur_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/kur_slab1.0_dipclip.xyz'); ?><br />
 		  <small>kur_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_contours.in'); ?><br /><small>kur_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/kur_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/kur_contours.in'); ?><br /><small>kur_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/kur_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/kur_slab1.0.clip'); ?> <br />
 		  <small>kur_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/kur_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/kur_top.in'); ?> <br />
 		  <small>kur_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/kur_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/kur_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/kur_base.in'); ?> <br />
 		  <small>kur_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -325,7 +325,7 @@
 		</a>
 		<small>
 			[<a href="images/phi_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/phi_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/phi_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -336,30 +336,30 @@
 
 	<tr>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/phi_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/phi_slab1.0_clip.grd'); ?><br />
 		  <small>phi_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/phi_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/phi_slab1.0_clip.xyz'); ?><br />
 		  <small>phi_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/phi_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/phi_slab1.0_strclip.grd'); ?><br />
 		  <small>phi_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/phi_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/phi_slab1.0_strclip.xyz'); ?><br />
 			<small>phi_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/phi_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/phi_slab1.0_dipclip.grd'); ?><br />
 			  <small>phi_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/phi_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/phi_slab1.0_dipclip.xyz'); ?><br />
 		  <small>phi_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_contours.in'); ?><br /><small>phi_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/phi_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/phi_contours.in'); ?><br /><small>phi_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/phi_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/phi_slab1.0.clip'); ?> <br />
 		  <small>phi_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/phi_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/phi_top.in'); ?> <br />
 		  <small>phi_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/phi_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/phi_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/phi_base.in'); ?> <br />
 		  <small>phi_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -373,7 +373,7 @@
 		</a>
 		<small>
 			[<a href="images/ryu_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/ryu_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/ryu_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -384,30 +384,30 @@
 
 	<tr class="row2">
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/ryu_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/ryu_slab1.0_clip.grd'); ?><br />
 		  <small>ryu_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/ryu_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/ryu_slab1.0_clip.xyz'); ?><br />
 		  <small>ryu_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/ryu_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/ryu_slab1.0_strclip.grd'); ?><br />
 		  <small>ryu_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/ryu_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/ryu_slab1.0_strclip.xyz'); ?><br />
 			<small>ryu_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/ryu_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/ryu_slab1.0_dipclip.grd'); ?><br />
 			  <small>ryu_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/ryu_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/ryu_slab1.0_dipclip.xyz'); ?><br />
 		  <small>ryu_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_contours.in'); ?><br /><small>ryu_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/ryu_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/ryu_contours.in'); ?><br /><small>ryu_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/ryu_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/ryu_slab1.0.clip'); ?> <br />
 		  <small>ryu_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/ryu_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/ryu_top.in'); ?> <br />
 		  <small>ryu_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/ryu_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/ryu_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/ryu_base.in'); ?> <br />
 		  <small>ryu_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -421,7 +421,7 @@
 		</a>
 		<small>
 			[<a href="images/van_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/van_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/van_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -432,30 +432,30 @@
 
 	<tr>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/van_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/van_slab1.0_clip.grd'); ?><br />
 		  <small>van_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/van_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/van_slab1.0_clip.xyz'); ?><br />
 		  <small>van_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/van_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/van_slab1.0_strclip.grd'); ?><br />
 		  <small>van_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/van_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/van_slab1.0_strclip.xyz'); ?><br />
 			<small>van_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/van_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/van_slab1.0_dipclip.grd'); ?><br />
 			  <small>van_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/van_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/van_slab1.0_dipclip.xyz'); ?><br />
 		  <small>van_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_contours.in'); ?><br /><small>van_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/van_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/van_contours.in'); ?><br /><small>van_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/van_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/van_slab1.0.clip'); ?> <br />
 		  <small>van_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/van_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/van_top.in'); ?> <br />
 		  <small>van_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/van_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/van_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/van_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/van_base.in'); ?> <br />
 		  <small>van_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -469,7 +469,7 @@
 		</a>
 		<small>
 			[<a href="images/sco_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/sco_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/sco_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -480,30 +480,30 @@
 
 	<tr class="row2">
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/sco_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sco_slab1.0_clip.grd'); ?><br />
 		  <small>sco_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sco_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sco_slab1.0_clip.xyz'); ?><br />
 		  <small>sco_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/sco_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sco_slab1.0_strclip.grd'); ?><br />
 		  <small>sco_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sco_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sco_slab1.0_strclip.xyz'); ?><br />
 			<small>sco_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/sco_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sco_slab1.0_dipclip.grd'); ?><br />
 			  <small>sco_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sco_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sco_slab1.0_dipclip.xyz'); ?><br />
 		  <small>sco_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_contours.in'); ?><br /><small>sco_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/sco_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/sco_contours.in'); ?><br /><small>sco_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sco_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/sco_slab1.0.clip'); ?> <br />
 		  <small>sco_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sco_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/sco_top.in'); ?> <br />
 		  <small>sco_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sco_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sco_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/sco_base.in'); ?> <br />
 		  <small>sco_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -517,7 +517,7 @@
 		</a>
 		<small>
 			[<a href="images/sol_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/sol_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/sol_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -528,31 +528,31 @@
 
 	<tr>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/sol_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sol_slab1.0_clip.grd'); ?><br />
 		  <small>sol_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sol_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sol_slab1.0_clip.xyz'); ?><br />
 		  <small>sol_slab1.0_clip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/sol_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sol_slab1.0_strclip.grd'); ?><br />
 		  <small>sol_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sol_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sol_slab1.0_strclip.xyz'); ?><br />
 			<small>sol_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/sol_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sol_slab1.0_dipclip.grd'); ?><br />
 			  <small>sol_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sol_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sol_slab1.0_dipclip.xyz'); ?><br />
 		  <small>sol_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_contours.in'); ?><br /><small>sol_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/sol_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/sol_contours.in'); ?><br /><small>sol_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sol_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/sol_slab1.0.clip'); ?> <br />
 		  <small>sol_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sol_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/sol_top.in'); ?> <br />
 		  <small>sol_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sol_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sol_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/sol_base.in'); ?> <br />
 		  <small>sol_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -566,7 +566,7 @@
 		</a>
 		<small>
 			[<a href="images/sam_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/sam_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/sam_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -577,30 +577,30 @@
 
 	<tr class="row2">
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/sam_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sam_slab1.0_clip.grd'); ?><br />
 		  <small>sam_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sam_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sam_slab1.0_clip.xyz'); ?><br />
 		  <small>sam_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/sam_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sam_slab1.0_strclip.grd'); ?><br />
 		  <small>sam_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sam_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sam_slab1.0_strclip.xyz'); ?><br />
 			<small>sam_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/sam_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sam_slab1.0_dipclip.grd'); ?><br />
 			  <small>sam_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sam_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sam_slab1.0_dipclip.xyz'); ?><br />
 		  <small>sam_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_contours.in'); ?><br /><small>sam_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/sam_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/sam_contours.in'); ?><br /><small>sam_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sam_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/sam_slab1.0.clip'); ?> <br />
 		  <small>sam_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sam_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/sam_top.in'); ?> <br />
 		  <small>sam_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sam_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sam_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/sam_base.in'); ?> <br />
 		  <small>sam_base.in [5]</small></a></p>
 		</td>
 	</tr>
@@ -614,7 +614,7 @@
 		</a>
 		<small>
 			[<a href="images/sum_slab1.jpg">JPEG</a>]
-			[<a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0.pdf">PDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0.pdf'); ?></a>]
+			[<a href="/static/web/data/slab/models/sum_slab1.0.pdf">PDF - <?php //print formatSize('/static/web/data/slab/models/sum_slab1.0.pdf'); ?></a>]
 		</small>
 		 </th>
 
@@ -625,30 +625,30 @@
 
 	<tr>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_clip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_clip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/sum_slab1.0_clip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sum_slab1.0_clip.grd'); ?><br />
 		  <small>sum_slab1.0_clip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_clip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_clip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sum_slab1.0_clip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sum_slab1.0_clip.xyz'); ?><br />
 		  <small>sum_slab1.0_clip.xyz [2]</small></a></p></td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_strclip.grd'); ?><br />
+		<p><a href="/static/web/data/slab/models/sum_slab1.0_strclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sum_slab1.0_strclip.grd'); ?><br />
 		  <small>sum_slab1.0_strclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_strclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sum_slab1.0_strclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sum_slab1.0_strclip.xyz'); ?><br />
 			<small>sum_slab1.0_strclip.xyz [2]</small></a></p>
 		</td>
-		<td><p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_dipclip.grd'); ?><br />
+		<td><p><a href="/static/web/data/slab/models/sum_slab1.0_dipclip.grd">NetCDF - <?php //print formatSize('/static/web/data/slab/models/sum_slab1.0_dipclip.grd'); ?><br />
 			  <small>sum_slab1.0_dipclip.grd [1]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0_dipclip.xyz'); ?><br />
+		<p><a href="/static/web/data/slab/models/sum_slab1.0_dipclip.xyz">ASCII - <?php //print formatSize('/static/web/data/slab/models/sum_slab1.0_dipclip.xyz'); ?><br />
 		  <small>sum_slab1.0_dipclip.xyz [2]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_contours.in">ASCII - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_contours.in'); ?><br /><small>sum_contours.in [3]</small></a></p>
+		<p><a href="/static/web/data/slab/models/sum_contours.in">ASCII - <?php //print formatSize('/static/web/data/slab/models/sum_contours.in'); ?><br /><small>sum_contours.in [3]</small></a></p>
 		</td>
 		<td>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0.clip">Perimeter - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_slab1.0.clip'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sum_slab1.0.clip">Perimeter - <?php //print formatSize('/static/web/data/slab/models/sum_slab1.0.clip'); ?> <br />
 		  <small>sum_slab1.0.clip [4]</small></a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_top.in">Top - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_top.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sum_top.in">Top - <?php //print formatSize('/static/web/data/slab/models/sum_top.in'); ?> <br />
 		  <small>sum_top.in [5]</small> </a></p>
-		<p><a href="ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_base.in">Base - <?php //print formatSize('ftp://hazards.cr.usgs.gov/web/data/slab/models/sum_base.in'); ?> <br />
+		<p><a href="/static/web/data/slab/models/sum_base.in">Base - <?php //print formatSize('/static/web/data/slab/models/sum_base.in'); ?> <br />
 		  <small>sum_base.in [5]</small></a></p>
 		</td>
 	</tr>
