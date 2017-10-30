@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Jeanne Hardebeck,
-// Last modified: Lisa Wald, 2016/08/10
 if (!isset($TEMPLATE)) {
   $TITLE = 'Faults and Earthquake Geology';
   $NAVIGATION = true;
@@ -131,7 +130,7 @@ if (!isset($TEMPLATE)) {
   <section class="one-of-three column">
     <ul class="no-style linklist">
       <li>
-        <a href="/earthquakes/browse/specialstudies.php">
+        <a href="/earthquakes/events/">
           <h4>Special Earthquake Studies</h4>
           <img src="images/Loma-Prieta-sm.jpg" class='feeds-list-image'
               alt="icon"  width="75"/>
