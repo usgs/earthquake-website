@@ -56,7 +56,7 @@ if ($all == "") {
         $level_statement->closeCursor();
       } catch (PDOException $e) {
         // don't output this on prod...
-        print_r($e);
+        trigger_error($e->getMessage());
       }
 
       // free prepared statement
@@ -87,7 +87,7 @@ if ($all == "") {
        $topic_statement->closeCursor();
      } catch (PDOException $e) {
        // don't output this on prod...
-       print_r($e);
+       trigger_error($e->getMessage());
      }
 
      // free prepared statement
@@ -118,7 +118,7 @@ if ($all == "") {
        $region_statement->closeCursor();
      } catch (PDOException $e) {
        // don't output this on prod...
-       print_r($e);
+       trigger_error($e->getMessage());
      }
 
      // free prepared statement
@@ -148,7 +148,7 @@ if ($all == "") {
        $type_statement->closeCursor();
      } catch (PDOException $e) {
        // don't output this on prod...
-       print_r($e);
+       trigger_error($e->getMessage());
      }
 
      // free prepared statement
@@ -188,7 +188,7 @@ try {
   $rs->closeCursor();
 } catch (PDOException $e) {
   // don't output this on prod...
-  print_r($e);
+  trigger_error($e->getMessage());
 }
 $rs = null;
 
@@ -226,7 +226,7 @@ try {
   $rs->closeCursor();
 } catch (PDOException $e) {
   // don't output this on prod...
-  print_r($e);
+  trigger_error($e->getMessage());
 }
 $rs = null;
 

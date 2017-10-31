@@ -23,10 +23,11 @@
  					$term = $name;
 
           $statement = $pdo->prepare("
-              SELECT * from glossary WHERE lower(term)=lower('$term')");
+              SELECT * from glossary WHERE lower(term)=lower(:term)");
           try {
             // use bound parameter names
             $statement->execute(array(
+              ':term' => $term
             ));
 
             $count = $statement->rowCount();
@@ -38,7 +39,7 @@
           }
           catch (PDOException $e) {
             // don't output this on prod...
-          print_r($e);
+            trigger_error($e->getMessage());
           }
           // free prepared statement
           $statement = null;
@@ -48,10 +49,11 @@
  				if ( sizeof( $r ) == 0 && $id != "") {
           $id = intval( $id );
           $statement = $pdo->prepare(
-              "SELECT * from glossary WHERE id=$id");
+              "SELECT * from glossary WHERE id=:id");
           try {
             // use bound parameter names
             $statement->execute(array(
+              ':id' => $id
             ));
 
             $count = $statement->rowCount();
@@ -63,7 +65,7 @@
           }
           catch (PDOException $e) {
             // don't output this on prod...
-          print_r($e);
+            trigger_error($e->getMessage());
           }
           // free prepared statement
           $statement = null;
@@ -80,10 +82,11 @@
 
         $term = $name;
         $statement = $pdo->prepare(
-            "SELECT term, strcmp(lcase(term), lcase('" . $term . "')) as compared from glossary order by compared, term desc");
+            "SELECT term, strcmp(lcase(term), lcase(:term)) as compared from glossary order by compared, term desc");
         try {
           // use bound parameter names
           $statement->execute(array(
+            ':term' => $term
           ));
 
           $count = $statement->rowCount();
@@ -98,7 +101,7 @@
         }
         catch (PDOException $e) {
           // don't output this on prod...
-        print_r($e);
+          trigger_error($e->getMessage());
         }
         // free prepared statement
         $statement = null;
@@ -112,10 +115,11 @@
 
         $term = $name;
         $statement = $pdo->prepare(
-            "SELECT term, strcmp(lcase(term), lcase('" . $term . "')) as compared from glossary order by compared desc, term");
+            "SELECT term, strcmp(lcase(term), lcase(:term)) as compared from glossary order by compared desc, term");
         try {
           // use bound parameter names
           $statement->execute(array(
+            ':term' => $term
           ));
 
           $count = $statement->rowCount();
@@ -130,7 +134,7 @@
         }
         catch (PDOException $e) {
           // don't output this on prod...
-        print_r($e);
+          trigger_error($e->getMessage());
         }
         // free prepared statement
         $statement = null;
@@ -143,9 +147,11 @@
         $pdo = EHPServer::getDatabase('earthquake');
         $r = "";
         $where = "";
+        $params = array();
         $alpha = strtolower($alpha);
         if($alpha != "" && $alpha != "all") {
-          $where = " WHERE lcase(term) like lcase('${alpha}%') ";
+          $where = " WHERE lcase(term) like lcase(:alpha) ";
+          $params[':alpha'] = $alpha . '%';
         }
 
         $r .= "";
@@ -154,8 +160,7 @@
 
             try {
               // use bound parameter names
-              $statement->execute(array(
-              ));
+              $statement->execute($params);
               $letter = "";
               while ($row = $statement->fetch(PDO::FETCH_ASSOC)) {
 
@@ -186,7 +191,7 @@
 
             catch (PDOException $e) {
               // don't output this on prod...
-            print_r($e);
+              trigger_error($e->getMessage());
             }
 
             // free prepared statement
