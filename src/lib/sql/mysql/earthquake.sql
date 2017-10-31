@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-10-24 19:59:13 +0000
+# Generation Time: 2017-10-31 20:29:17 +0000
 # ************************************************************
 
 
@@ -3005,7 +3005,7 @@ VALUES
 	(71,'Teacher\'s Guide to the San Francisco Bay Area Geophysics Maps','USGS','http%3A%2F%2Fgeomaps.wr.usgs.gov%2Fgump%2Fpeople%2Fzulanger%2Fbayarea%2Ftitle.html','USGS Open File Report 95-479 (online)'),
 	(79,'Understanding Tsunamis','DiscoverySchool.com','http%3A%2F%2Fschool.discoveryeducation.com%2Fteachers%2Ftsunami%2F','learn about tsunamis with a model'),
 	(461,'Plate Tectonics','The Geological Society - UK','http%3A%2F%2Fwww.geolsoc.org.uk%2FPlate-Tectonics','Interactive tutorial with easy-to-understand images and some multi-media.'),
-	(462,'Nepal Earthquake Sequence Educational Slides','USGS','http%3A%2F%2Fearthquake.usgs.gov%2Flearn%2Ftopics%2FNepal_Slides.pdf','(17MB PDF)'),
+	(462,'Nepal Earthquake Sequence Educational Slides','USGS','/static/lfs/learn/Nepal_Slides.pdf','(17MB PDF)'),
 	(81,'Wallace Creek Interpretive Trail Guide','USGS & Southern California Earthquake Center (SCEC)','http%3A%2F%2Fwww.scec.org%2Fwallacecreek%2F','Interactive online trail guide to Wallace Creek site on the San Andreas Fault'),
 	(85,'Earthquake ABC: A Child\'s View of Earthquake Facts and Feelings','USGS','%2Flearn%2Fkids%2Fabc%2F','by kids for kids, with a special section for parents and teachers'),
 	(88,'Earth Science Course Notes & Graphics','Univ. of Wisconsin','http%3A%2F%2Fwww.uwgb.edu%2Fdutchs%2F','Professor Steve Dutch\'s excellent online resources for earth sciences with great images for teaching; all the goodies are behind the \"Notes\" links'),
@@ -3047,7 +3047,7 @@ VALUES
 	(365,'Earthquake Visualizations','Carleton College/NAGT materials','http%3A%2F%2Fserc.carleton.edu%2FNAGTWorkshops%2Fgeophysics%2F','Visualizations and supporting material that can be used effectively to teach students about various geophysics topics. Visualizations include simple animations, GIS-based animated maps, paleogeographic maps and globes, as well as numerous illustrations and photos.'),
 	(144,'Virtual Earthquake Engineering','S. Illinois Univ.','http%3A%2F%2Fwww.ce.siue.edu%2Fearthquake%2F','interactive demonstration of the effects of earthquake retrofitting'),
 	(145,'Geology Animations, Interactive Exercises, and now... Songs!','Univ. of Kentucky','http%3A%2F%2Fwww.as.uky.edu%2Feducational-materials','Animations of geological processes.'),
-	(470,'Coquimbo, Chile M8.3 Educational Slides','USGS','%2Flearn%2Ftopics%2FCoquimbo_Eduational_Slides.pdf','Educational slides for the M8.3 Coquimbo, Chile M8.3 earthquake.'),
+	(470,'Coquimbo, Chile M8.3 Educational Slides','USGS','/static/lfs/learn/Coquimbo_Eduational_Slides.pdf','Educational slides for the M8.3 Coquimbo, Chile M8.3 earthquake.'),
 	(147,'Birth of the Himalayas','NOVA','http%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fnova%2Feverest%2Fearth%2Fbirth.html','brief description of the origin of the Himalaya Mountains'),
 	(148,'Faults','Univ. of Leeds','http%3A%2F%2Fwww.see.leeds.ac.uk%2Fstructure%2Ffaults%2F','Photos and graphics of fault types'),
 	(151,'Science Fair Project Ideas','USGS','%2Flearn%2Fkids%2Fsciencefair.php','specific projects with directions and ideas'),
@@ -3171,11 +3171,11 @@ VALUES
 	(420,'Tsunami Education','NOAA','http%3A%2F%2Fwww.tsunami.noaa.gov%2Feducation.html','Links to educational materials, warning centers.'),
 	(423,'Earthquake and Tsunami Preparedness','City of Seaside, Oregon','http%3A%2F%2Fwww.cityofseaside.us%2Femergency-preparedness%2Fearthquake-and-tsunami-preparedness','Focus on Seaside, OR, but useful for anyone within a tsunami risk zone.'),
 	(424,'Tusnami Research Center','Univ. of Southern California','http%3A%2F%2Fwww.usc.edu%2Fdept%2Ftsunamis%2F','Tsunami research at USC.'),
-	(426,'Chile M7.0 January 12, 2010 and M8.8 February 27, 2010 Educational Slides','USGS','%2Flearn%2Ftopics%2FHaiti-Chile.Slides.withnotes.pdf','Details on the rupture of the two earthquakes, the shaking distribution, aftershock zone, estimated fatality numbers, and comparisons between the two.'),
+	(426,'Chile M7.0 January 12, 2010 and M8.8 February 27, 2010 Educational Slides','USGS','/static/lfs/learn/Haiti-Chile.Slides.withnotes.pdf','Details on the rupture of the two earthquakes, the shaking distribution, aftershock zone, estimated fatality numbers, and comparisons between the two.'),
 	(433,'Tsunami','Woods Hole','http%3A%2F%2Fwww.whoi.edu%2Fhome%2Finteractive%2Ftsunami%2F','Interactive presentation covering the science of tsunamis, preparedness, research, and historical tsunamis.'),
 	(434,'InsideDisaster - The Haiti Earthquake','PTV Productions','http%3A%2F%2Finsidedisaster.com%2Fhaiti%2F','wholistic view of the effects and response to the Haiti earthquake, both scientific and societal'),
-	(436,'Darfield, New Zealand Earthquake (09/03/2010) and its Aftershocks, Including the 02/21/2011 Christchurch Event Educational Slides','USGS','%2Flearn%2Ftopics%2FNewZealand2011_slides.pdf','Educational slideset for the 09/03/2010 Darfield, New Zealand Earthquake and its Aftershocks, Including the 02/21/2011 Christchurch Event.'),
-	(438,'Tohoku, Japan 2011 M9.0 Educational Slides','USGS','%2Flearn%2Ftopics%2FTohoku2011.pdf','Educational slides for the 2011 Tohoku,Japan M9.0 Earthquake.'),
+	(436,'Darfield, New Zealand Earthquake (09/03/2010) and its Aftershocks, Including the 02/21/2011 Christchurch Event Educational Slides','USGS','/static/lfs/learn/NewZealand2011_slides.pdf','Educational slideset for the 09/03/2010 Darfield, New Zealand Earthquake and its Aftershocks, Including the 02/21/2011 Christchurch Event.'),
+	(438,'Tohoku, Japan 2011 M9.0 Educational Slides','USGS','/static/lfs/learn/Tohoku2011.pdf','Educational slides for the 2011 Tohoku,Japan M9.0 Earthquake.'),
 	(464,'New Madrid Seismic Zone','USGS','%2Flearn%2Ftopics%2Fnmsz%2F','A collection of information about the region, the historical seismicity, and the hazards.'),
 	(449,'Pillowcase Project, The','American Red Cross','http%3A%2F%2Fymiclassroom.com%2Fwp-content%2Fuploads%2F2013%2F09%2Fpp_presentersguide.pdf','The Pillowcase Project is designed for use with 3rd \r\ngraders, age 8-9. The program has been reviewed by \r\n3rd grade teachers and tailored to 3rd grade reading \r\nskills and learning abilities. The program may be \r\nadapted for use with students in 2nd and 4th grade.'),
 	(453,'Earthquakes','The Geological Society','http%3A%2F%2Fwww.geolsoc.org.uk%2Fen%2FEducation%2520and%2520Careers%2FResources%2FSupporting%2520Materials%2FEarthquakes','PodCasts, presentations and fact sheets on the basics of earthquakes.'),
