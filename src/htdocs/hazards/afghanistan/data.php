@@ -22,16 +22,16 @@
 		<h2>Data Sets</h2>
 		<ul class="no-style">
 			<li>
-				<a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/HazardCurveAfghanistan-Text.zip">Download All Text Hazard Curve Files (26 MB)</a>
+				<a href="/static/web/nshm/afghanistan/data/downloads/HazardCurveAfghanistan-Text.zip">Download All Text Hazard Curve Files (26 MB)</a>
 			</li>
 			<li>
-				<a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/HazardCurveAfghanistan-Binary.zip">Download All Binary Hazard Curve Files (42 MB)</a>
+				<a href="/static/web/nshm/afghanistan/data/downloads/HazardCurveAfghanistan-Binary.zip">Download All Binary Hazard Curve Files (42 MB)</a>
 			</li>
 			<li>
-				<a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/GroundMotionAfghanistan-Text.zip">Download All Text Ground Motion Files (2.3MB)</a>
+				<a href="/static/web/nshm/afghanistan/data/downloads/GroundMotionAfghanistan-Text.zip">Download All Text Ground Motion Files (2.3MB)</a>
 			</li>
 			<li>
-				<a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/GroundMotionAfghanistan-Binary.zip">Download All Binary Ground Motion Files (2.9MB)</a>
+				<a href="/static/web/nshm/afghanistan/data/downloads/GroundMotionAfghanistan-Binary.zip">Download All Binary Ground Motion Files (2.9MB)</a>
 			</li>
 		</ul>
 	</div>
@@ -75,235 +75,235 @@
 					<td>Ground Motion</td>
 					<td>10% in 50 years</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/1Hz10p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/1Hz10p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/1Hz10p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/1Hz10p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>2% in 50 years</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/1Hz2p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/1Hz2p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/1Hz2p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/1Hz2p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>5% in 50 years</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/1Hz5p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/1Hz5p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/1Hz5p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/1Hz5p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>10% in 50 years</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/5Hz10p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/5Hz10p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/5Hz10p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/5Hz10p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>2% in 50 years</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/5Hz2p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/5Hz2p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/5Hz2p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/5Hz2p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>5% in 50 years</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/5Hz5p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/5Hz5p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/5Hz5p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/5Hz5p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>10% in 50 years</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/PGA10p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/PGA10p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/PGA10p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/PGA10p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>2% in 50 years</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/PGA2p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/PGA2p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/PGA2p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/PGA2p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>5% in 50 years</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/PGA5p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/PGA5p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/PGA5p50.bin" title="817 kB">Binary (817 kB)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/PGA5p50.txt" title="1 Mb">Text (1 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFD4)</td>
 					<td>Not Applicable</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFD4)</td>
 					<td>Not Applicable</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFD4)</td>
 					<td>Not Applicable</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFD4.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFD5)</td>
 					<td>Not Applicable</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFD5)</td>
 					<td>Not Applicable</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFD5)</td>
 					<td>Not Applicable</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFD5.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFDEEP)</td>
 					<td>Not Applicable</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFDEEP)</td>
 					<td>Not Applicable</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFDEEP)</td>
 					<td>Not Applicable</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEP.out_rev0.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFDEEPER)</td>
 					<td>Not Applicable</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFDEEPER)</td>
 					<td>Not Applicable</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFDEEPER)</td>
 					<td>Not Applicable</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFDEEPER.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_C_ASB)</td>
 					<td>Not Applicable</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_C_ASB)</td>
 					<td>Not Applicable</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_C_ASB)</td>
 					<td>Not Applicable</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_ASB.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_C_WUS)</td>
 					<td>Not Applicable</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_C_WUS)</td>
 					<td>Not Applicable</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_C_WUS)</td>
 					<td>Not Applicable</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_C_WUS.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_GR_ASB)</td>
 					<td>Not Applicable</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_GR_ASB)</td>
 					<td>Not Applicable</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_GR_ASB)</td>
 					<td>Not Applicable</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_ASB.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_GR_WUS)</td>
 					<td>Not Applicable</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_GR_WUS)</td>
 					<td>Not Applicable</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFF_GR_WUS)</td>
 					<td>Not Applicable</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFF_GR_WUS.out_rev1.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFML75)</td>
 					<td>Not Applicable</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFML75)</td>
 					<td>Not Applicable</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFML75)</td>
 					<td>Not Applicable</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev1b.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFML75)</td>
 					<td>Not Applicable</td>
 					<td>5Hz (0.2 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.020.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.020.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFML75)</td>
 					<td>Not Applicable</td>
 					<td>1Hz (1.0 Second)</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.100.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.100.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 				<tr>
 					<td>Hazard Curve (AFML75)</td>
 					<td>Not Applicable</td>
 					<td>Peak Ground Acceleration</td>
-					<td>[ <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="ftp://hazards.cr.usgs.gov/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
+					<td>[ <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.pga.bin" title="2 Mb">Binary (2 Mb)</a> | <a href="/static/web/nshm/afghanistan/data/downloads/AFML75.out_rev2.pga.txt" title="6 Mb">Text (6 Mb)</a> ]</td>
 				</tr>
 			</tbody>
 		</table>

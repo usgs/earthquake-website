@@ -79,7 +79,7 @@
 
 		<ul>
 			<li><a href="liq_download.php">Maps</a></li>
-			<li><a href="ftp://hazards.cr.usgs.gov/web/nshm/urban/memphis/Memphis_LPI.pdf">Technical Documentation</a></li>
+			<li><a href="/static/web/nshm/urban/memphis/Memphis_LPI.pdf">Technical Documentation</a></li>
 			<li><a href="liquefaction.php">Non-technical Documentation</a></li>
 		</ul>
 
