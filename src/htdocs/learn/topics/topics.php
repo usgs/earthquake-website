@@ -44,7 +44,7 @@
         $statement->closeCursor();
       } catch (PDOException $e) {
       // don't output this on prod...
-      print_r($e);
+        trigger_error($e->getMessage());
       }
 
       // free prepared statement
@@ -96,7 +96,7 @@ if ($topicID != 0) {
       $statement->closeCursor();
     } catch (PDOException $e) {
       // don't output this on prod...
-      print_r($e);
+      trigger_error($e->getMessage());
     }
 
     // free prepared statement
@@ -144,7 +144,7 @@ if ($topicID != 0) {
       $statement->closeCursor();
     } catch (PDOException $e) {
       // don't output this on prod...
-      print_r($e);
+      trigger_error($e->getMessage());
     }
 
     // free prepared statement

@@ -38,7 +38,7 @@
           }
           catch (PDOException $e) {
             // don't output this on prod...
-          print_r($e);
+            trigger_error($e->getMessage());
           }
           // free prepared statement
           $statement = null;
@@ -63,7 +63,7 @@
           }
           catch (PDOException $e) {
             // don't output this on prod...
-          print_r($e);
+            trigger_error($e->getMessage());
           }
           // free prepared statement
           $statement = null;
@@ -98,7 +98,7 @@
         }
         catch (PDOException $e) {
           // don't output this on prod...
-        print_r($e);
+          trigger_error($e->getMessage());
         }
         // free prepared statement
         $statement = null;
@@ -130,7 +130,7 @@
         }
         catch (PDOException $e) {
           // don't output this on prod...
-        print_r($e);
+          trigger_error($e->getMessage());
         }
         // free prepared statement
         $statement = null;
@@ -186,7 +186,7 @@
 
             catch (PDOException $e) {
               // don't output this on prod...
-            print_r($e);
+              trigger_error($e->getMessage());
             }
 
             // free prepared statement
