@@ -59,8 +59,8 @@
   <li><h4>Welcome and Background</h4>
     <ul>
       <li>Welcome -- Oklahoma Geological Survey – Holland, Keller</li>
-      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/induced2014/Petersen-intro.pdf">Welcome USGS</a> – Rubinstein, Anderson, and Petersen</li>
-      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/induced2014/Ellsworth.pdf">Overview of Induced seismicity</a> - Ellsworth</li>
+      <li><a href="/static/web/nshm/workshops/induced2014/Petersen-intro.pdf">Welcome USGS</a> – Rubinstein, Anderson, and Petersen</li>
+      <li><a href="/static/web/nshm/workshops/induced2014/Ellsworth.pdf">Overview of Induced seismicity</a> - Ellsworth</li>
       <li>A Case Study Of Seismicity In Azle, Texas – DeShon</li>
     </ul>
   </li>
@@ -68,9 +68,9 @@
   <li><h4>Part 1: The National Seismic Hazard Model and Potentially Induced Seismicity</h4>
     <ul>
       <li>How Is The NSHM Put Together? What Are The Key Factors That Influence Hazard?  -- Mueller</li>
-      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/induced2014/McGarr.pdf">Is Mmax Different For Induced Seismicity?</a> -- McGarr</li>
-      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/induced2014/Cramer.pdf">Ground Motions And Source Properties Of Natural Vs Induced Earthquakes</a> -- Cramer</li>
-      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/induced2014/Hough.pdf">Shaking From Induced Earthquakes</a> – Hough
+      <li><a href="/static/web/nshm/workshops/induced2014/McGarr.pdf">Is Mmax Different For Induced Seismicity?</a> -- McGarr</li>
+      <li><a href="/static/web/nshm/workshops/induced2014/Cramer.pdf">Ground Motions And Source Properties Of Natural Vs Induced Earthquakes</a> -- Cramer</li>
+      <li><a href="/static/web/nshm/workshops/induced2014/Hough.pdf">Shaking From Induced Earthquakes</a> – Hough
       <li>Hazard Sensitivity To Rate Models, Smoothing, And Mmax - Moschetti</li>
     </ul>
   </li>
@@ -78,7 +78,7 @@
   <li><h4>Part 2: The Logic Tree</h4>
     <ul>
       <li>Overview Of The Logic Tree To Assess Hazard From Varying Earthquake Rates -- Rubinstein</li>
-      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/induced2014/Petersen-logictree.pdf">The Potentially Induced Seismicity Model: Sensitivity To Parameters, Future Seismicity, and the Straw-man Model</a> – Petersen</li>
+      <li><a href="/static/web/nshm/workshops/induced2014/Petersen-logictree.pdf">The Potentially Induced Seismicity Model: Sensitivity To Parameters, Future Seismicity, and the Straw-man Model</a> – Petersen</li>
       <li>Discussion</li>
     </ul>
   </li>
@@ -90,7 +90,7 @@
 
   <li><h4>Part 3: Other Methods & Government Panel</h4>
     <ul>
-      <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/induced2014/Holland.pdf">One Application Of A Traffic Light System</a> – Holland</li>
+      <li><a href="/static/web/nshm/workshops/induced2014/Holland.pdf">One Application Of A Traffic Light System</a> – Holland</li>
       <li>Another Option -- Operational Earthquake Forecasting – Field</li>
       <li>Discussion</li>
       <li>Government Agency Panel And Discussion</li>

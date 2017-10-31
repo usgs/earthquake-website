@@ -38,7 +38,7 @@
         </p>
       </li>
       <li>
-        <a href="ftp://hazards.cr.usgs.gov/web/nshm/qfaults/Quaternaryall.zip">
+        <a href="/static/web/nshm/qfaults/Quaternaryall.zip">
           <h4>Quaternary Faults &amp; Folds in the U.S.</h4>
           <img src="images/faults.jpg" alt="Faults"/>
         </a>

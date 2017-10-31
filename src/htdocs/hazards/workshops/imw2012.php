@@ -17,15 +17,15 @@
 
 <h4>Introduction &amp; Overview</h4>
 <ul>
-  <li>Review 2008 model and proposed changes (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Petersen2012IMWworkshop.pdf">Petersen</a>) 30 min</li>
-  <li>Recent research leading to improvements in the maps (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Crone_2012IMWworkshop.pdf">Crone</a>)</li>
-  <li>On-line resources (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Powers_online2012IMWworkshop.pdf">Powers</a>)</li>
+  <li>Review 2008 model and proposed changes (<a href="/static/web/nshm/workshops/IMW2012/Petersen2012IMWworkshop.pdf">Petersen</a>) 30 min</li>
+  <li>Recent research leading to improvements in the maps (<a href="/static/web/nshm/workshops/IMW2012/Crone_2012IMWworkshop.pdf">Crone</a>)</li>
+  <li>On-line resources (<a href="/static/web/nshm/workshops/IMW2012/Powers_online2012IMWworkshop.pdf">Powers</a>)</li>
   <li>BRPEWG II summary (Lund)</li>
 </ul>
 
 <h4>Review of BRPEWG Geology Recommendations and Results</h4>
- (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Haller2012IMWworkshop.pdf">Haller</a>,
-  <a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Powers_sourcesIMWworkshop.pdf">Powers</a>)
+ (<a href="/static/web/nshm/workshops/IMW2012/Haller2012IMWworkshop.pdf">Haller</a>,
+  <a href="/static/web/nshm/workshops/IMW2012/Powers_sourcesIMWworkshop.pdf">Powers</a>)
 <ul>
   <li>Uncertainty in source dip</li>
   <li>Characterization of source maximum M</li>
@@ -37,21 +37,21 @@
 <p>
   <strong>Recommendations from IMW States</strong>
   <ul>
-    <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Eisinger2012IMWworkshop.pdf">Chris Eisinger</a> (Colorado Geological Survey)</li>
-    <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Stickney2012IMWworkshop.pdf">Mike Stickney</a> (Montana Bureau of Mines and Geology)</li>
+    <li><a href="/static/web/nshm/workshops/IMW2012/Eisinger2012IMWworkshop.pdf">Chris Eisinger</a> (Colorado Geological Survey)</li>
+    <li><a href="/static/web/nshm/workshops/IMW2012/Stickney2012IMWworkshop.pdf">Mike Stickney</a> (Montana Bureau of Mines and Geology)</li>
     <li>Seth Wittke (Wyoming Geological Survey)</li>
-    <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Pearthree2012IMWworkshop.pdf">Phil Pearthree</a> (Arizona Geological Survey)</li>
-    <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/dePolo2012IMWworkshop.pdf">Craig dePolo</a> (Nevada Bureau of Mines and Geology)</li>
-    <li><a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/LundUtah2012IMWworkshop.pdf">Bill Lund</a> (Utah Geological Survey)
+    <li><a href="/static/web/nshm/workshops/IMW2012/Pearthree2012IMWworkshop.pdf">Phil Pearthree</a> (Arizona Geological Survey)</li>
+    <li><a href="/static/web/nshm/workshops/IMW2012/dePolo2012IMWworkshop.pdf">Craig dePolo</a> (Nevada Bureau of Mines and Geology)</li>
+    <li><a href="/static/web/nshm/workshops/IMW2012/LundUtah2012IMWworkshop.pdf">Bill Lund</a> (Utah Geological Survey)
     </li>
   </ul>
 </p>
 <p>
   <strong>Additional topics</strong>
   <ul>
-    <li>A proposed revision to the NSHM generalization of the Salt Lake City segment (Wasatch fault) surface trace (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Pechmann2012IMWworkshoppost.pdf">Pechmann</a>)</li>
+    <li>A proposed revision to the NSHM generalization of the Salt Lake City segment (Wasatch fault) surface trace (<a href="/static/web/nshm/workshops/IMW2012/Pechmann2012IMWworkshoppost.pdf">Pechmann</a>)</li>
     <li>Working Group on Utah earthquake probabilities (Wong)</li>
-    <li>Issues on implementing geodetic deformation estimate of fault slip rates and its application to the seismic hazard analysis (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Zeng2012IMWworkshop.pdf">Zeng</a>)</li>
+    <li>Issues on implementing geodetic deformation estimate of fault slip rates and its application to the seismic hazard analysis (<a href="/static/web/nshm/workshops/IMW2012/Zeng2012IMWworkshop.pdf">Zeng</a>)</li>
     <li>Low footwall accelerations and variable surface rupture behavior on the Fort Sage Mountains fault, NE California (Briggs)</li>
   </ul>
 </p>
@@ -59,17 +59,17 @@
 <h3>Thursday June 14th</h3>
 
 <h4>Seismology</h4>
-  (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Moschetti_seismicity2012IMWworkshop.pdf">Moschetti</a>)
+  (<a href="/static/web/nshm/workshops/IMW2012/Moschetti_seismicity2012IMWworkshop.pdf">Moschetti</a>)
 <ul>
   <li>Catalog declustering and non-tectonic seismicity</li>
   <li>Seismicity rates used in smoothed-gridded seismicity</li>
   <li>Alternative catalogs</li>
-  <li>Issues in Considering Alternative Earthquake Catalogs for the NSHMP—Utah Catalog Example (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/arabasz_nshmp-imw_Jun2012.pdf">Arabasz</a>)</li>
-  <li>Hawthorne earthquake (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Anderson_Hawthorne_Ken_Smith_slides.pdf">Anderson</a>)</li>
+  <li>Issues in Considering Alternative Earthquake Catalogs for the NSHMP—Utah Catalog Example (<a href="/static/web/nshm/workshops/IMW2012/arabasz_nshmp-imw_Jun2012.pdf">Arabasz</a>)</li>
+  <li>Hawthorne earthquake (<a href="/static/web/nshm/workshops/IMW2012/Anderson_Hawthorne_Ken_Smith_slides.pdf">Anderson</a>)</li>
 </ul>
 
 <h4>Review of BRPEWG seismology recommendations and results</h4>
-  (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Moschetti_Mmax2012IMWworkshop.pdf">Moschetti</a>, Petersen)
+  (<a href="/static/web/nshm/workshops/IMW2012/Moschetti_Mmax2012IMWworkshop.pdf">Moschetti</a>, Petersen)
 <ul>
   <li>Magnitude uncertainty in the seismicity catalogs used in the NSHMs</li>
   <li>Constraining maximum M for background seismicity</li>
@@ -82,8 +82,8 @@
 
 <h4>Participant recommendations to the NSHMP</h4>
 <ul>
-  <li>Estimation of uncertainty (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Shome2012IMWworkshop.pdf">Shome</a>)</li>
-  <li>Comparison of GPS and geologic rates (<a href="ftp://hazards.cr.usgs.gov/web/nshm/workshops/IMW2012/Puskas_Smith2012IMWworkshop.pdf">Smith</a>)</li>
+  <li>Estimation of uncertainty (<a href="/static/web/nshm/workshops/IMW2012/Shome2012IMWworkshop.pdf">Shome</a>)</li>
+  <li>Comparison of GPS and geologic rates (<a href="/static/web/nshm/workshops/IMW2012/Puskas_Smith2012IMWworkshop.pdf">Smith</a>)</li>
   <li>Final thoughts (Anderson)</li>
 </ul>
 
