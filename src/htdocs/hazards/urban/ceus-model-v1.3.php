@@ -10,7 +10,7 @@
 ?>
 
 <p>
-  <b><a href="ftp://hazards.cr.usgs.gov/web/nshm/cusvm1.3.tar.gz">Download CUSVM version 1.3</a></b> (272MB)<br/>
+  <b><a href="/static/web/nshm/cusvm1.3.tar.gz">Download CUSVM version 1.3</a></b> (272MB)<br/>
    GeodataQ source code, surfaces,velocity grids, vs30 grids and control file
 </p>
 

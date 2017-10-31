@@ -64,14 +64,14 @@
 	<div class="column one-of-three">
 		<h2>Download Files</h2>
 		<ul>
-			<li><a href="ftp://hazards.cr.usgs.gov/web/nshm/ak/2007/software/AK2007Configs.zip">Config Files</a></li>
-			<li><a href="ftp://hazards.cr.usgs.gov/web/nshm/ak/2007/software/AK2007Inputs.zip">Input Files</a></li>
-			<li><a href="ftp://hazards.cr.usgs.gov/web/nshm/ak/2007/software/AK2007Source.zip">Source Code Files</a></li>
+			<li><a href="/static/web/nshm/ak/2007/software/AK2007Configs.zip">Config Files</a></li>
+			<li><a href="/static/web/nshm/ak/2007/software/AK2007Inputs.zip">Input Files</a></li>
+			<li><a href="/static/web/nshm/ak/2007/software/AK2007Source.zip">Source Code Files</a></li>
 		</ul>
 
 		<h2>Other Software</h2>
 		<ul>
-			<li><a href="ftp://hazards.cr.usgs.gov/web/nshm/ak/2007/software/AK2007MakeMaps.zip">Create Map Images from Data</a></li>
+			<li><a href="/static/web/nshm/ak/2007/software/AK2007MakeMaps.zip">Create Map Images from Data</a></li>
 		</ul>
 	</div>
 </div>

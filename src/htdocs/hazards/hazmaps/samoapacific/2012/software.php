@@ -11,13 +11,13 @@ if	(!isset($TEMPLATE))	{
 <h2>Software</h2>
 <ul>
   <li>
-    <a href="ftp://hazards.cr.usgs.gov/web/nshm/samoapacific/software/Samoa_2012_progs.zip">2012 Programs</a>
+    <a href="/static/web/nshm/samoapacific/software/Samoa_2012_progs.zip">2012 Programs</a>
   </li>
   <li>
-    <a href="ftp://hazards.cr.usgs.gov/web/nshm/samoapacific/software/swapf.zip">Swap Utility</a>
+    <a href="/static/web/nshm/samoapacific/software/swapf.zip">Swap Utility</a>
   </li>
   <li>
-    <a href="ftp://hazards.cr.usgs.gov/web/nshm/samoapacific/software/Samoa.2012.input.txt">2012 Input File</a>
+    <a href="/static/web/nshm/samoapacific/software/Samoa.2012.input.txt">2012 Input File</a>
   </li>
 </ul>
 
@@ -68,7 +68,7 @@ if	(!isset($TEMPLATE))	{
 	At a later stage, you need to run the hazard model.
 	This means, compute the hazard curve for each source at each site in the study area.
 	We have supplied all of the hazard codes and the input files to reproduce our work.
-	See <a href="ftp://hazards.cr.usgs.gov/web/nshm/samoapacific/software/Samoa.2012.input.txt">Samoa.2012.input.txt</a> for further information.
+	See <a href="/static/web/nshm/samoapacific/software/Samoa.2012.input.txt">Samoa.2012.input.txt</a> for further information.
 </p>
 <p>
 	At a later stage, you need to combine the hazard curves with appropriate weights.
