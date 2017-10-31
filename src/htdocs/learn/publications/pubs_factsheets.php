@@ -124,7 +124,7 @@ try {
                 //$getLINK catch statement
                 catch (PDOException $e) {
                   // don't output this on prod...
-                print_r($e);
+                  trigger_error($e->getMessage());
                 }
 
                 //free prepared statement
@@ -138,7 +138,7 @@ try {
             //$checkSub catch statement
             catch (PDOException $e) {
               // don't output this on prod...
-            print_r($e);
+              trigger_error($e->getMessage());
             }
 
             //free prepared statement
@@ -152,7 +152,7 @@ try {
         //$getSubCAT catch statement
         catch (PDOException $e) {
           // don't output this on prod...
-        print_r($e);
+          trigger_error($e->getMessage());
        }
 
        //free prepared statement
@@ -166,7 +166,7 @@ try {
     //$check catch statement
     catch (PDOException $e) {
       // don't output this on prod...
-    print_r($e);
+      trigger_error($e->getMessage());
     }
 
     //free prepared statement
@@ -180,7 +180,7 @@ try {
 //$statement catch statement
 catch (PDOException $e) {
   // don't output this on prod...
-print_r($e);
+  trigger_error($e->getMessage());
 }
 
 // free prepared statement

@@ -55,7 +55,7 @@
             }
           catch (PDOException $e) {
             // don't output this on prod...
-            print_r($e);
+            trigger_error($e->getMessage());
           }
           // free prepared statement
           $chkContentType = null;
@@ -69,7 +69,7 @@
 
       catch (PDOException $e) {
         // don't output this on prod...
-      print_r($e);
+        trigger_error($e->getMessage());
       }
       // free prepared statement
       $statement = null;
@@ -149,7 +149,7 @@
                   }
                   catch (PDOException $e) {
                     // don't output this on prod...
-                    print_r($e);
+                    trigger_error($e->getMessage());
                   }
                   $getLevels = null;
                 }
@@ -157,7 +157,7 @@
               }
               catch (PDOException $e) {
                 // don't output this on prod...
-                print_r($e);
+                trigger_error($e->getMessage());
               }
               $getLevelID = null;
 
@@ -193,7 +193,7 @@
                   }
                   catch (PDOException $e) {
                     // don't output this on prod...
-                    print_r($e);
+                    trigger_error($e->getMessage());
                   }
                   $getTopics = null;
                 }
@@ -202,7 +202,7 @@
               }
               catch (PDOException $e) {
                 // don't output this on prod...
-                print_r($e);
+                trigger_error($e->getMessage());
               }
               $getTopicID = null;
 
@@ -239,7 +239,7 @@
                   }
                   catch (PDOException $e) {
                     // don't output this on prod...
-                    print_r($e);
+                    trigger_error($e->getMessage());
                   }
                   $getContent = null;
                 }
@@ -248,7 +248,7 @@
               }
               catch (PDOException $e) {
                 // don't output this on prod...
-                print_r($e);
+                trigger_error($e->getMessage());
               }
               $getContentID = null;
 
@@ -285,7 +285,7 @@
                   }
                   catch (PDOException $e) {
                     // don't output this on prod...
-                    print_r($e);
+                    trigger_error($e->getMessage());
                   }
                   $getRegion = null;
                 }
@@ -294,7 +294,7 @@
               }
               catch (PDOException $e) {
                 // don't output this on prod...
-                print_r($e);
+                trigger_error($e->getMessage());
               }
               $getRegionID = null;
 
@@ -315,7 +315,7 @@
           }
           catch (PDOException $e) {
             // don't output this on prod...
-            print_r($e);
+            trigger_error($e->getMessage());
           }
           $getLinks = null;
         }
