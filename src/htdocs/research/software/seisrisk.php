@@ -14,10 +14,10 @@
 
 <ul>
   <li>
-    <a href="/static/web/software/SeisRisk3.zip">SeisRisk III</a> (47.6 MB)
+    <a href="/static/lfs/software/SeisRisk3.zip">SeisRisk III</a> (47.6 MB)
   </li>
   <li>
-    <a href="/static/web/software/SeisRisk3.zip">SeisRisk III (modified by R. LaForge, February 1996)</a> (62 kB)
+    <a href="/static/lfs/software/SeisRisk3.zip">SeisRisk III (modified by R. LaForge, February 1996)</a> (62 kB)
   </ul>
 </ul>
 

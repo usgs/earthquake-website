@@ -117,7 +117,7 @@
 <p>
 	The methodology employed to derive the liquefaction potential maps
 	for Memphis is similar to that used by Holzer et al. (2002, 2006a, 2006b).
-	A detailed description may be found in <a href="/static/web/nshm/urban/memphis/download/Memphis_LPI.pdf">Rix and Romero (2006)</a>,
+	A detailed description may be found in <a href="/static/lfs/nshm/urban/memphis/download/Memphis_LPI.pdf">Rix and Romero (2006)</a>,
 	and summarized as the following steps.
 </p>
 <ul>

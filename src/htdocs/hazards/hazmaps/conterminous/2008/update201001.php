@@ -73,7 +73,7 @@
 		II below).
 	</p>
 
-	<a href="/static/web/nshm/conterminous/2008/update_201001/figure1.png"><img src="/static/web/nshm/conterminous/2008/update_201001/figure1-464.png" width="464" height="295"
+	<a href="/static/lfs/nshm/conterminous/2008/update_201001/figure1.png"><img src="/static/lfs/nshm/conterminous/2008/update_201001/figure1-464.png" width="464" height="295"
 		alt="Ratio PGA with 2% in 50 Year PE"/></a>
 
 	<p>
@@ -83,7 +83,7 @@
 		the December 2008 hazard model (Revision II).
 	</p>
 
-	<a href="/static/web/nshm/conterminous/2008/update_201001/figure2.png"><img src="/static/web/nshm/conterminous/2008/update_201001/figure2-464.png" width="464" height="295"
+	<a href="/static/lfs/nshm/conterminous/2008/update_201001/figure2.png"><img src="/static/lfs/nshm/conterminous/2008/update_201001/figure2-464.png" width="464" height="295"
 		alt="Ratio 5Hz SA with 2% in 50 Year PE"/></a>
 	<p>
 		Figure 2. Ratio of 5-Hz (0.2-s) SA ground motions at a 2&#37;
@@ -92,7 +92,7 @@
 		the December 2008 hazard model (Revision II).
 	</p>
 
-	<a href="/static/web/nshm/conterminous/2008/update_201001/figure3.png"><img src="/static/web/nshm/conterminous/2008/update_201001/figure3-464.png" width="464" height="295"
+	<a href="/static/lfs/nshm/conterminous/2008/update_201001/figure3.png"><img src="/static/lfs/nshm/conterminous/2008/update_201001/figure3-464.png" width="464" height="295"
 		alt="Ratio 1Hz SA with 2% in 50 Year PE"/></a>
 	<p>
 		Figure 3. Ratio of 1-Hz (1-s) SA ground motions at a 2&#37; probability

@@ -38,10 +38,10 @@
     Final Maps Released for Building Code Consideration - September 2007
   </li>
   <li>
-    <a href="/static/web/nshm/workshops/External_Rev_Panel_may2007.pdf">External Review Panel</a> - May 2007
+    <a href="/static/lfs/nshm/workshops/External_Rev_Panel_may2007.pdf">External Review Panel</a> - May 2007
   </li>
   <li>
-    End-User Workshop <a href="/static/web/nshm/workshops/ATC-overview_12_2006.pdf">More Info</a> - December 7-8, 2006
+    End-User Workshop <a href="/static/lfs/nshm/workshops/ATC-overview_12_2006.pdf">More Info</a> - December 7-8, 2006
   </li>
   <li>
     <a href="nga2006.php">NGA Workshop</a> - September 25-26, 2006
@@ -79,7 +79,7 @@
 <h2>Other Workshops</h2>
 
 <ul>
-  <li><a href="/static/web/nshm/workshops/ATC-USGS-Seismic-Hazard-User-Needs-Workshop-Agenda-2015.pdf">ATC-USGS Seismic Hazard User Needs Workshop</a> - September 21-22, 2015
+  <li><a href="/static/lfs/nshm/workshops/ATC-USGS-Seismic-Hazard-User-Needs-Workshop-Agenda-2015.pdf">ATC-USGS Seismic Hazard User Needs Workshop</a> - September 21-22, 2015
   </li>
   <li>
   <a href="induced2014.php">Workshop on Hazard from Induced Seismicity</a> - November 17-19, 2014

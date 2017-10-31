@@ -33,127 +33,127 @@
 			<td>Ground Motion</td>
 			<td>0.1 Second (10Hz)</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p1s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p1s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p1s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p1s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>0.2 Second (5Hz)</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p2s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p2s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p2s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p2s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>0.3 Second (3.33Hz)</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p3s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p3s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p3s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p3s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>0.5 Second (2Hz)</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p5s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p5s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p5s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p5s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>1.0 Second (1Hz)</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_1p0s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_1p0s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_1p0s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_1p0s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>2.0 Second (0.5Hz)</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_2p0s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_2p0s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_2p0s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_2p0s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>Peak Ground Acceleration</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p0s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p0s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p0s_10p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p0s_10p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>0.1 Second (10Hz)</td>
 			<td>2% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p1s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p1s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p1s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p1s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>0.2 Second (5Hz)</td>
 			<td>2% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p2s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p2s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p2s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p2s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>0.3 Second (3.33Hz)</td>
 			<td>2% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p3s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p3s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p3s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p3s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>0.5 Second (2Hz)</td>
 			<td>2% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p5s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p5s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p5s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p5s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>1.0 Second (1Hz)</td>
 			<td>2% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_1p0s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_1p0s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_1p0s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_1p0s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>2.0 Second (0.5Hz)</td>
 			<td>2% in 50 Years</td>
-      <td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_2p0s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_2p0s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+      <td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_2p0s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_2p0s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
     </tr>
     <tr>
       <td>Ground Motion</td>
       <td>Peak Ground Acceleration</td>
       <td>2% in 50 Years</td>
-      <td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p0s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p0s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+      <td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p0s_2p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p0s_2p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
     </tr>
     <tr>
       <td>Ground Motion</td>
       <td>0.1 Second (10Hz)</td>
       <td>5% in 50 Years</td>
-      <td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p1s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p1s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+      <td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p1s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p1s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
     </tr>
     <tr>
       <td>Ground Motion</td>
       <td>0.2 Second (5Hz)</td>
       <td>5% in 50 Years</td>
-      <td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p2s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p2s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+      <td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p2s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p2s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
     </tr>
     <tr>
       <td>Ground Motion</td>
       <td>0.3 Second (3.33Hz)</td>
       <td>5% in 50 Years</td>
-      <td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p3s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p3s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+      <td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p3s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p3s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
     </tr>
     <tr>
       <td>Ground Motion</td>
       <td>0.5 Second (2Hz)</td>
       <td>5% in 50 Years</td>
-      <td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p5s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p5s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+      <td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p5s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p5s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
     </tr>
     <tr>
       <td>Ground Motion</td>
       <td>1.0 Second (1Hz)</td>
       <td>5% in 50 Years</td>
-      <td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_1p0s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_1p0s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+      <td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_1p0s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_1p0s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
     </tr>
     <tr>
       <td>Ground Motion</td>
       <td>2.0 Second (0.5Hz)</td>
       <td>5% in 50 Years</td>
-      <td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_2p0s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_2p0s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+      <td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_2p0s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_2p0s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
     </tr>
     <tr>
       <td>Ground Motion</td>
       <td>Peak Ground Acceleration</td>
       <td>5% in 50 Years</td>
-      <td>[ <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p0s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/ak/2007/data/downloads/ak_gm_0p0s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
+      <td>[ <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p0s_5p50_2007.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/2007/data/downloads/ak_gm_0p0s_5p50_2007.bin" title="1 Mb">BINARY</a> ]</td>
     </tr>
   </tbody>
 </table>
@@ -191,7 +191,7 @@
 <p>
   For convenience we provide sample binary file readers for potential
   developers to examine the source and get a better idea of how to read the
-  file format. <a href="/static/web/nshm/conterminous/2002/data/USParser.jar" >Download our reader</a> (requires
+  file format. <a href="/static/lfs/nshm/conterminous/2002/data/USParser.jar" >Download our reader</a> (requires
   <a target="_blank" href="http://www.java.com">Java</a>&trade;). To use
   this application, open a command line terminal and type: <code>java -jar
   HIParser.jar &lt;datafile&gt;</code>.
