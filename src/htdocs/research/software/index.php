@@ -302,7 +302,7 @@ into illustration or animation programs for further enhancements.
   </li>
 
   <li>
-    <a href="/static/web/software/DGRFN.tar">
+    <a href="/static/lfs/software/DGRFN.tar">
       <h2 id="DGRFN">Direct Green&rsquo;s Function Synthetic Seismograms</h2>
       <img class="left" src="images/DGRFN.png" alt="Logo" width="144" height="104"/>
     </a>
@@ -329,7 +329,7 @@ into illustration or animation programs for further enhancements.
      </tr>
      <tr>
        <th>Download:</th>
-        <td><a href="/static/web/software/DGRFN.tar">DGRFN.tar</a> (1.6 MB)</td>
+        <td><a href="/static/lfs/software/DGRFN.tar">DGRFN.tar</a> (1.6 MB)</td>
      </tr>
     </table>
     <p>
@@ -528,7 +528,7 @@ into illustration or animation programs for further enhancements.
   </li>
 
   <li>
-    <a href="/static/web/software/GMPE-GK2015.zip">
+    <a href="/static/lfs/software/GMPE-GK2015.zip">
       <h2 id="gmpe">Graizer-Kalkan (2015) Ground-Motion Prediction Equation</h2>
       <img src="images/gmpe.png" alt="logo" width="150"/>
     </a>
@@ -555,11 +555,11 @@ into illustration or animation programs for further enhancements.
       </tr>
       <tr>
         <th>Manual:</th>
-        <td>Comments in source code; <a href="https://pubs.usgs.gov/of/2015/1009/">Open-File Report</a> and <a href="/static/web/software/GMPE-2016_Graizer_Kalkan_BSSA.pdf">BSSA article</a></td>
+        <td>Comments in source code; <a href="https://pubs.usgs.gov/of/2015/1009/">Open-File Report</a> and <a href="/static/lfs/software/GMPE-2016_Graizer_Kalkan_BSSA.pdf">BSSA article</a></td>
       </tr>
       <tr>
         <th>Download:</th>
-        <td><a href="/static/web/software/GMPE-GK2015.zip"</a> (7.1 Kb)</td>
+        <td><a href="/static/lfs/software/GMPE-GK2015.zip"</a> (7.1 Kb)</td>
       </tr>
     </table>
     <p>
@@ -568,7 +568,7 @@ into illustration or animation programs for further enhancements.
   </li>
 
   <li>
-    <a href="/static/web/software/hash.v1.2.tar.gz">
+    <a href="/static/lfs/software/hash.v1.2.tar.gz">
       <h2 id="HASH">HASH 1.2</h2>
       <img src="images/HASH.gif" alt="Hash Logo" width="120" height="145"/>
     </a>
@@ -595,7 +595,7 @@ into illustration or animation programs for further enhancements.
       </tr>
      <tr>
         <th>Download:</th>
-        <td><a href="/static/web/software/hash.v1.2.tar.gz">hash.v1.2.tar.gz</a> (1.1 MB)</td>
+        <td><a href="/static/lfs/software/hash.v1.2.tar.gz">hash.v1.2.tar.gz</a> (1.1 MB)</td>
       </tr>
     </table>
     <p>
@@ -721,7 +721,7 @@ also supports negative magnitudes, independent S models, and crustal models from
 
   <li>
     <h2 id="MacR1D">MacR1D</h2>
-    <a href="/static/web/software/MacR1D-V1.17-Executables.tar.gz">
+    <a href="/static/lfs/software/MacR1D-V1.17-Executables.tar.gz">
       <img src="images/MacR1D.gif" alt="Ray Tracing Logo" width="120" height="140"/>
     </a>
     <table>
@@ -747,7 +747,7 @@ also supports negative magnitudes, independent S models, and crustal models from
       </tr>
       <tr>
         <th>Download:</th>
-        <td><a href="/static/web/software/MacR1D-V1.17-Executables.tar.gz">MacR1D V1.17</a> (1.6 MB)</td>
+        <td><a href="/static/lfs/software/MacR1D-V1.17-Executables.tar.gz">MacR1D V1.17</a> (1.6 MB)</td>
       </tr>
     </table>
 
@@ -761,7 +761,7 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
 
   <li>
-    <a href="/static/web/software/MacRay-V2.29-Executables.tar.gz">
+    <a href="/static/lfs/software/MacRay-V2.29-Executables.tar.gz">
       <h2 id="Ray">MacRay</h2>
       <img src="images/MacRay.gif" alt="Ray Tracing Logo" width="100" height="80"/>
     </a>
@@ -788,7 +788,7 @@ also supports negative magnitudes, independent S models, and crustal models from
       </tr>
       <tr>
         <th>Download:</th>
-        <td>Mac OS X - <a href="/static/web/software/MacRay-V2.29-Executables.tar.gz">MacRay V2.29</a> (3.5 MB); PC - <a HREF="ftp://ehzftp.wr.usgs.gov/luetgert/software/Macintosh_Software/RAY84PC.zip">RAY84PC</a> (1.2 MB)</td>
+        <td>Mac OS X - <a href="/static/lfs/software/MacRay-V2.29-Executables.tar.gz">MacRay V2.29</a> (3.5 MB); PC - <a HREF="ftp://ehzftp.wr.usgs.gov/luetgert/software/Macintosh_Software/RAY84PC.zip">RAY84PC</a> (1.2 MB)</td>
       </tr>
     </table>
     <p>
@@ -1231,7 +1231,7 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
 
   <li>
-    <a href="/static/web/software/SATSI_140818.tar.gz">
+    <a href="/static/lfs/software/SATSI_140818.tar.gz">
       <h2 id="SATSI">SATSI</h2>
       <img src="images/satsi.jpg" alt="SATSI Logo" width="120" height="111"/>
     </a>
@@ -1258,7 +1258,7 @@ also supports negative magnitudes, independent S models, and crustal models from
       </tr>
      <tr>
         <th>Download:</th>
-        <td><a href="/static/web/software/SATSI_140818.tar.gz">SATSI_140818.tar.gz</a> (63kB)</td>
+        <td><a href="/static/lfs/software/SATSI_140818.tar.gz">SATSI_140818.tar.gz</a> (63kB)</td>
       </tr>
     </table>
     <p>
@@ -1462,7 +1462,7 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
 
   <li>
-    <a href="/static/web/software/STATIC1D.tar.gz">
+    <a href="/static/lfs/software/STATIC1D.tar.gz">
       <h2 id="STATIC1D">STATIC1D</h2>
       <img src="images/static1d.png" width="144" height="144" alt="icon"/>
     </a>
@@ -1493,7 +1493,7 @@ also supports negative magnitudes, independent S models, and crustal models from
      </tr>
      <tr>
        <th>Download:</th>
-       <td><a href="/static/web/software/STATIC1D.tar.gz">STATIC1D.tar.gz</a> (3 MB)</td>
+       <td><a href="/static/lfs/software/STATIC1D.tar.gz">STATIC1D.tar.gz</a> (3 MB)</td>
      </tr>
    </table>
    <p>
@@ -1592,7 +1592,7 @@ also supports negative magnitudes, independent S models, and crustal models from
   </li>
 
   <li>
-    <a href="/static/web/software/VISCO1D-v3-manual.pdf">
+    <a href="/static/lfs/software/VISCO1D-v3-manual.pdf">
       <h2 id="VISCO1D">VISCO1D</h2>
       <img src="images/visco1d.jpg" width="144" alt="plot"/>
     </a>
@@ -1623,11 +1623,11 @@ also supports negative magnitudes, independent S models, and crustal models from
       </tr>
       <tr>
         <th>Manual:</th>
-        <td><a href="/static/web/software/VISCO1D-v3-manual.pdf">VISCO1D Manual</a> (1.3 MB PDF), <a href="/static/web/software/VISCO1D-v3-tutorial.pdf">VISCO1D Tutorial</a> (3.4 MB PDF)</td>
+        <td><a href="/static/lfs/software/VISCO1D-v3-manual.pdf">VISCO1D Manual</a> (1.3 MB PDF), <a href="/static/lfs/software/VISCO1D-v3-tutorial.pdf">VISCO1D Tutorial</a> (3.4 MB PDF)</td>
       </tr>
       <tr>
        <th>Download:</th>
-       <td><a href="/static/web/software/VISCO1D-v3.zip">VISCO1D Software </a>(1.5 MB ZIP)</td>
+       <td><a href="/static/lfs/software/VISCO1D-v3.zip">VISCO1D Software </a>(1.5 MB ZIP)</td>
       </tr>
     </table>
     <p>

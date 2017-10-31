@@ -141,17 +141,17 @@ if (!isset($TEMPLATE)) {
 <h4>2002</h4>
 <ul class="referencelist">
   <li>
-    McGarr, A. et al. (<strong>2002</strong>), <a href="/static/web/research/induced/McGarr-Simpson-Seeber-2002-International-Geophysics.pdf">40 Case histories of induced and triggered seismicity</a>, <em>International Geophysics, 81A, 647-661</em>.
+    McGarr, A. et al. (<strong>2002</strong>), <a href="/static/lfs/research/induced/McGarr-Simpson-Seeber-2002-International-Geophysics.pdf">40 Case histories of induced and triggered seismicity</a>, <em>International Geophysics, 81A, 647-661</em>.
   </li>
   <li>
-    Meremonte, M. et al. (<strong>2002</strong>), <a href="/static/web/research/induced/McGarr-Simpson-Seeber-2002-International-Geophysics.pdf">Investigation of an Earthquake Swarm near Trinidad, Colorado, August-October 2001</a>, <em>US Geological Survey Open File Report 02-0073</em>.
+    Meremonte, M. et al. (<strong>2002</strong>), <a href="/static/lfs/research/induced/McGarr-Simpson-Seeber-2002-International-Geophysics.pdf">Investigation of an Earthquake Swarm near Trinidad, Colorado, August-October 2001</a>, <em>US Geological Survey Open File Report 02-0073</em>.
   </li>
 </ul>
 
 <h4>1999</h4>
 
 <ul class="referencelist">
-  <li>Gomberg, J. and L. Wolf (<strong>1999</strong>), <a href="/static/web/research/induced/Gomberg-Wolf-1999-Geology.pdf">Possible cause for an improbable earthquake: The 1997 Mw 4.9 southern Alabama earthquake and hydrocarbon recovery</a>, <em>Geology, 27(4), 367-370</em>.
+  <li>Gomberg, J. and L. Wolf (<strong>1999</strong>), <a href="/static/lfs/research/induced/Gomberg-Wolf-1999-Geology.pdf">Possible cause for an improbable earthquake: The 1997 Mw 4.9 southern Alabama earthquake and hydrocarbon recovery</a>, <em>Geology, 27(4), 367-370</em>.
   </li>
 </ul>
 
@@ -159,7 +159,7 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Nicholson, C. and R.L. Wesson (<strong>1992</strong>), <a href="/static/web/research/induced/Nicholson-Wesson-1992-Pure-and-Applied-Geophysics.pdf">Triggered Earthquakes and Deep Well Activities</a>, <em>Pure and Applied Geophysics, 139(3), 561-578</em>.
+    Nicholson, C. and R.L. Wesson (<strong>1992</strong>), <a href="/static/lfs/research/induced/Nicholson-Wesson-1992-Pure-and-Applied-Geophysics.pdf">Triggered Earthquakes and Deep Well Activities</a>, <em>Pure and Applied Geophysics, 139(3), 561-578</em>.
   </li>
 </ul>
 
@@ -175,7 +175,7 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Nicholson, C. et al. (<strong>1988</strong>), <a href="/static/web/research/induced/Nicholson-Roeloffs-Wesson-1988-Bulletin-of-the-Seismological-Society-of-America.pdf">The Northeastern Ohio Earthquake of 31 January 1986: Was it Induced?</a>, <em>Bull. Seism. Soc. Am., 78(1), 188-217</em>.
+    Nicholson, C. et al. (<strong>1988</strong>), <a href="/static/lfs/research/induced/Nicholson-Roeloffs-Wesson-1988-Bulletin-of-the-Seismological-Society-of-America.pdf">The Northeastern Ohio Earthquake of 31 January 1986: Was it Induced?</a>, <em>Bull. Seism. Soc. Am., 78(1), 188-217</em>.
   </li>
 </ul>
 
@@ -183,7 +183,7 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Hseih, P. and J. Bredehoeft (<strong>1981</strong>), <a href="/static/web/research/induced/Hsieh-Bredehoeft-1981-Journal-of-Geophysical-Research.pdf">A reservoir analysis of the Denver earthquakes: A case of induced seismicity</a>, <em>J. Geophys. Res., 86(B2), 903-920</em>.
+    Hseih, P. and J. Bredehoeft (<strong>1981</strong>), <a href="/static/lfs/research/induced/Hsieh-Bredehoeft-1981-Journal-of-Geophysical-Research.pdf">A reservoir analysis of the Denver earthquakes: A case of induced seismicity</a>, <em>J. Geophys. Res., 86(B2), 903-920</em>.
   </li>
 </ul>
 
@@ -191,7 +191,7 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Raleigh, C.B. et al. (<strong>1976</strong>), <a href="/static/web/research/induced/Raleigh-Healy-Bredehoeft-1976-Science-(New-York-NY).pdf">An experiment in Earthquake Control at Rangely, Colorado</a>, <em>Science, 191(4233), 1230-1237</em>.
+    Raleigh, C.B. et al. (<strong>1976</strong>), <a href="/static/lfs/research/induced/Raleigh-Healy-Bredehoeft-1976-Science-(New-York-NY).pdf">An experiment in Earthquake Control at Rangely, Colorado</a>, <em>Science, 191(4233), 1230-1237</em>.
   </li>
 </ul>
 
@@ -199,6 +199,6 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Healy, J.H. et al. (<strong>1968</strong>), <a href="/static/web/research/induced/Healy-et-al-1968-Science-(New-York-NY).pdf">The Denver Earthquakes</a>, <em>Science, 161(3848), 1301-1310</em>.
+    Healy, J.H. et al. (<strong>1968</strong>), <a href="/static/lfs/research/induced/Healy-et-al-1968-Science-(New-York-NY).pdf">The Denver Earthquakes</a>, <em>Science, 161(3848), 1301-1310</em>.
   </li>
 </ul>

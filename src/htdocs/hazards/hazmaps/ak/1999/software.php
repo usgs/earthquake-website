@@ -15,7 +15,7 @@
 			Unfortunately the source code used to generate the data for this region is
 			not currently available. Using the gridded ground motion data files you
 			can re-create any or all of the maps presented available for download. To
-			do this you can <a href="/static/web/nshm/ak/1999/software/makemaps.tgz">download the mapping package</a>.
+			do this you can <a href="/static/lfs/nshm/ak/1999/software/makemaps.tgz">download the mapping package</a>.
 			This mapping package requires the <a href="http://gmt.soest.hawaii.edu/"
 			>Generic Mapping Tools (GMT)</a> along with <a
 			href="http://www.imagemagick.org/script/binary-releases.php"
@@ -26,7 +26,7 @@
 	<div class="column one-of-three">
 		<h2>Additional Links</h2>
 		<ul>
-			<li><a href="/static/web/nshm/ak/1999/software/makemaps.tgz">Mapping Scripts</a></li>
+			<li><a href="/static/lfs/nshm/ak/1999/software/makemaps.tgz">Mapping Scripts</a></li>
 		</ul>
 	</div>
 </div>

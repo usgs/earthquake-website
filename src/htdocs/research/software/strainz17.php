@@ -19,7 +19,7 @@
   We present Matlab&reg;-language software that implements the method of Spudich et al. (1995) and Spudich and Fletcher (2008) to calculate the best fitting uniform strain and rigid-body rotation time series and their formal errors, given array measurements of ground motions. This example includes example input, example output, and a script for running the example.
 </p>
 
-<a href="/static/web/software/strainz-example.zip">
+<a href="/static/lfs/software/strainz-example.zip">
   <strong>Download strainz17 ZIP file (700 Kb)</strong>
 </a>
 <p>

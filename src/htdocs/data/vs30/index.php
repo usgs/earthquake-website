@@ -29,10 +29,10 @@
 <ul>
   <li><a href="https://github.com/usgs/earthquake-global_vs30">Source code repository on Github</a> (for technical users)</li>
   <li>
-    <a href="/static/web/data/global_vs30_grd.zip">Download GMT grd file for Global Vs30 Data</a> (631 MB ZIP)
+    <a href="/static/lfs/data/global_vs30_grd.zip">Download GMT grd file for Global Vs30 Data</a> (631 MB ZIP)
   </li>
   <li>
-    <a href="/static/web/data/global_vs30_tif.zip">Download geotiff and auxillary files for Global Vs30 Data</a> (631 MB ZIP)
+    <a href="/static/lfs/data/global_vs30_tif.zip">Download geotiff and auxillary files for Global Vs30 Data</a> (631 MB ZIP)
   </li>
   <li>
     <p>Metadata for GMT and geotiff downloads:</p>

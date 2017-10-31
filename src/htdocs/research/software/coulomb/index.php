@@ -26,7 +26,7 @@
 
 <ul>
   <li>
-    <a href="/static/web/software/coulomb34.zip">Download software</a> (23.8 MB)
+    <a href="/static/lfs/software/coulomb34.zip">Download software</a> (23.8 MB)
   </li>
   <li>
     <a href="https://pubs.usgs.gov/of/2011/1060/of2011-1060.pdf">View documentation</a> (18.5 MB)
