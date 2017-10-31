@@ -27,42 +27,42 @@
 				<tr>
 					<td>.2 second SA (5 Hz)</td>
 					<td>10% in 50 years</td>
-					<td>[ <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p2s_10p50.png" title="135 kB">PNG</a> | <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p2s_10p50.pdf" title="135 kB">PDF</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p2s_10p50.png" title="135 kB">PNG</a> | <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p2s_10p50.pdf" title="135 kB">PDF</a> ]</td>
 				</tr>
 				<tr>
 					<td>0.3 second SA (3.33 Hz)</td>
 					<td>10% in 50 years</td>
-					<td>[ <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p3s_10p50.png" title="135 kB">PNG</a> | <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p3s_10p50.pdf" title="135 kB">PDF</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p3s_10p50.png" title="135 kB">PNG</a> | <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p3s_10p50.pdf" title="135 kB">PDF</a> ]</td>
 				</tr>
 				<tr>
 					<td>1.0 second SA (1.0 Hz)</td>
 					<td>10% in 50 years</td>
-					<td>[ <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_1p0s_10p50.png" title="126 kB">PNG</a> | <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_1p0s_10p50.pdf" title="126 kB">PDF</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_1p0s_10p50.png" title="126 kB">PNG</a> | <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_1p0s_10p50.pdf" title="126 kB">PDF</a> ]</td>
 				</tr>
 				<tr>
 					<td>Peak Ground Acceleration</td>
 					<td>10% in 50 years</td>
-					<td>[ <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p0s_10p50.png" title="128 kB">PNG</a> | <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p0s_10p50.pdf" title="128 kB">PDF</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p0s_10p50.png" title="128 kB">PNG</a> | <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p0s_10p50.pdf" title="128 kB">PDF</a> ]</td>
 				</tr>
 				<tr>
 					<td>0.2 second SA (5 Hz)</td>
 					<td>2% in 50 years</td>
-					<td>[ <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p2s_2p50.png" title="142 kB">PNG</a> | <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p2s_2p50.pdf" title="142 kB">PDF</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p2s_2p50.png" title="142 kB">PNG</a> | <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p2s_2p50.pdf" title="142 kB">PDF</a> ]</td>
 				</tr>
 				<tr>
 					<td>0.3 second SA (3.33 Hz)</td>
 					<td>2% in 50 years</td>
-					<td>[ <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p3s_2p50.png" title="141 kB">PNG</a> | <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p3s_2p50.pdf" title="141 kB">PDF</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p3s_2p50.png" title="141 kB">PNG</a> | <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p3s_2p50.pdf" title="141 kB">PDF</a> ]</td>
 				</tr>
 				<tr>
 					<td>1.0 second SA (1.0 Hz)</td>
 					<td>2% in 50 years</td>
-					<td>[ <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_1p0s_2p50.png" title="133 kB">PNG</a> | <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_1p0s_2p50.pdf" title="133 kB">PDF</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_1p0s_2p50.png" title="133 kB">PNG</a> | <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_1p0s_2p50.pdf" title="133 kB">PDF</a> ]</td>
 				</tr>
 				<tr>
 					<td>Peak Ground Acceleration</td>
 					<td>2% in 50 years</td>
-					<td>[ <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p0s_2p50.png" title="135 kB">PNG</a> | <a href="/static/web/nshm/ak/1999/maps/images/Alaska_1999_0p0s_2p50.pdf" title="135 kB">PDF</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p0s_2p50.png" title="135 kB">PNG</a> | <a href="/static/lfs/nshm/ak/1999/maps/images/Alaska_1999_0p0s_2p50.pdf" title="135 kB">PDF</a> ]</td>
 				</tr>
 			</tbody>
 		</table>
@@ -71,11 +71,11 @@
 	<div class="column one-of-three">
 		<h2>Select Hazard Curves</h2>
 
-		<a href="/static/web/nshm/ak/1999/maps/curves/juneau.pdf" title="Download full size Juneau">
-			<img src="/static/web/nshm/ak/1999/maps/curves/juneau.png" alt="Juneau"/>
+		<a href="/static/lfs/nshm/ak/1999/maps/curves/juneau.pdf" title="Download full size Juneau">
+			<img src="/static/lfs/nshm/ak/1999/maps/curves/juneau.png" alt="Juneau"/>
 		</a>
-		<a href="/static/web/nshm/ak/1999/maps/curves/anchorage.pdf" title="Download full size Anchorage">
-			<img src="/static/web/nshm/ak/1999/maps/curves/anchorage.png" alt="Anchorage"/>
+		<a href="/static/lfs/nshm/ak/1999/maps/curves/anchorage.pdf" title="Download full size Anchorage">
+			<img src="/static/lfs/nshm/ak/1999/maps/curves/anchorage.png" alt="Anchorage"/>
 		</a>
 
 	</div>

@@ -21,7 +21,7 @@
 </p>
 
 <h2>Configuration Files</h2>
-<a href="/static/web/nshm/afghanistan/software/ConfigFiles.zip">Download Configuration Files (3.1 kB)</a>
+<a href="/static/lfs/nshm/afghanistan/software/ConfigFiles.zip">Download Configuration Files (3.1 kB)</a>
 <p>
 	These files contain configuration information needed to produce a
 	probabilistic seismic hazard map and include input and output directories
@@ -32,7 +32,7 @@
 </p>
 
 <h2>Input Files</h2>
-<a href="/static/web/nshm/afghanistan/software/InputFiles.zip">Download Input Files (272 kB)</a>
+<a href="/static/lfs/nshm/afghanistan/software/InputFiles.zip">Download Input Files (272 kB)</a>
 <p>
 	These files contain input parameters to the Fortran source code used to
 	generate the hazard curves from which the hazard maps are derived. The
@@ -46,7 +46,7 @@
 </p>
 
 <h2>Source Code</h2>
-<a href="/static/web/nshm/afghanistan/software/SourceFiles.zip">Download Source Files (52 kB)</a>
+<a href="/static/lfs/nshm/afghanistan/software/SourceFiles.zip">Download Source Files (52 kB)</a>
 <p>
 	These files are the source code that make up the software that generated
 	the hazard curves and maps. It is a mixture of Fortran and C code and

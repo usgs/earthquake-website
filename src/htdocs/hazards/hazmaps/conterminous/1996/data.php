@@ -22,61 +22,61 @@
     		<th>Downloads</th>
     	</tr>
       <tr>
-        <td>Hazard Curves</td><td>Peak Ground Acceleration</td><td>Not Applicable</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0.txt.gz" title="8 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0.bin.gz" title="10 Mb">BINARY</a> ]</td>
+        <td>Hazard Curves</td><td>Peak Ground Acceleration</td><td>Not Applicable</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0.txt.gz" title="8 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0.bin.gz" title="10 Mb">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>Peak Ground Acceleration</td><td>10&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_10p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_10p50.bin.gz" title="830 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>Peak Ground Acceleration</td><td>10&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_10p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_10p50.bin.gz" title="830 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>Peak Ground Acceleration</td><td>2&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_2p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_2p50.bin.gz" title="854 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>Peak Ground Acceleration</td><td>2&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_2p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_2p50.bin.gz" title="854 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>Peak Ground Acceleration</td><td>5&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_5p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_5p50.bin.gz" title="856 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>Peak Ground Acceleration</td><td>5&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_5p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p0_5p50.bin.gz" title="856 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Hazard Curves</td><td>0.1 Second (10Hz)</td><td>Not Applicable</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p1.txt.gz" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p1.bin.gz" title="9 Mb">BINARY</a> ]</td>
+        <td>Hazard Curves</td><td>0.1 Second (10Hz)</td><td>Not Applicable</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p1.txt.gz" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p1.bin.gz" title="9 Mb">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Hazard Curves</td><td>0.2 Second (5Hz)</td><td>Not Applicable</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2.txt.gz" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2.bin.gz" title="9 Mb">BINARY</a> ]</td>
+        <td>Hazard Curves</td><td>0.2 Second (5Hz)</td><td>Not Applicable</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2.txt.gz" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2.bin.gz" title="9 Mb">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>0.2 Second (5Hz)</td><td>10&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_10p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_10p50.bin.gz" title="829 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>0.2 Second (5Hz)</td><td>10&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_10p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_10p50.bin.gz" title="829 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>0.2 Second (5Hz)</td><td>2&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_2p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_2p50.bin.gz" title="790 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>0.2 Second (5Hz)</td><td>2&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_2p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_2p50.bin.gz" title="790 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>0.2 Second (5Hz)</td><td>5&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_5p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_5p50.bin.gz" title="824 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>0.2 Second (5Hz)</td><td>5&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_5p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p2_5p50.bin.gz" title="824 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Hazard Curves</td><td>0.3 Second (3.33Hz)</td><td>Not Applicable</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3.txt.gz" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3.bin.gz" title="9 Mb">BINARY</a> ]</td>
+        <td>Hazard Curves</td><td>0.3 Second (3.33Hz)</td><td>Not Applicable</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3.txt.gz" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3.bin.gz" title="9 Mb">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>0.3 Second (3.33Hz)</td><td>10&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_10p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_10p50.bin.gz" title="838 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>0.3 Second (3.33Hz)</td><td>10&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_10p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_10p50.bin.gz" title="838 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>0.3 Second (3.33Hz)</td><td>2&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_2p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_2p50.bin.gz" title="809 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>0.3 Second (3.33Hz)</td><td>2&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_2p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_2p50.bin.gz" title="809 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>0.3 Second (3.33Hz)</td><td>5&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_5p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_5p50.bin.gz" title="839 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>0.3 Second (3.33Hz)</td><td>5&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_5p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p3_5p50.bin.gz" title="839 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Hazard Curves</td><td>0.5 Second (2Hz)</td><td>Not Applicable</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p5.txt.gz" title="7 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p5.bin.gz" title="9 Mb">BINARY</a> ]</td>
+        <td>Hazard Curves</td><td>0.5 Second (2Hz)</td><td>Not Applicable</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p5.txt.gz" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_0p5.bin.gz" title="9 Mb">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Hazard Curves</td><td>1.0 Second (1Hz)</td><td>Not Applicable</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0.txt.gz" title="8 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0.bin.gz" title="10 Mb">BINARY</a> ]</td>
+        <td>Hazard Curves</td><td>1.0 Second (1Hz)</td><td>Not Applicable</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0.txt.gz" title="8 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0.bin.gz" title="10 Mb">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>0.5 Second (2Hz)</td><td>10&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_10p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_10p50.bin.gz" title="879 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>0.5 Second (2Hz)</td><td>10&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_10p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_10p50.bin.gz" title="879 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>1.0 Second (1Hz)</td><td>2&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_2p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_2p50.bin.gz" title="893 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>1.0 Second (1Hz)</td><td>2&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_2p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_2p50.bin.gz" title="893 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Ground Motion</td><td>1.0 Second (1Hz)</td><td>5&#37; in 50 Years</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_5p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_5p50.bin.gz" title="916 kB">BINARY</a> ]</td>
+        <td>Ground Motion</td><td>1.0 Second (1Hz)</td><td>5&#37; in 50 Years</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_5p50.txt.gz" title="1 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_1p0_5p50.bin.gz" title="916 kB">BINARY</a> ]</td>
       </tr>
       <tr>
-        <td>Hazard Curves</td><td>2.0 Second (0.5Hz)</td><td>Not Applicable</td><td>[ <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_2p0.txt.gz" title="8 Mb">TEXT</a> | <a href="/static/web/nshm/conterminous/1996/data/downloads/USGS_1996_US_2p0.bin.gz" title="10 Mb">BINARY</a> ]</td>
+        <td>Hazard Curves</td><td>2.0 Second (0.5Hz)</td><td>Not Applicable</td><td>[ <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_2p0.txt.gz" title="8 Mb">TEXT</a> | <a href="/static/lfs/nshm/conterminous/1996/data/downloads/USGS_1996_US_2p0.bin.gz" title="10 Mb">BINARY</a> ]</td>
       </tr>
     </table>
   </div>
@@ -89,10 +89,10 @@
       </p>
       <ul>
         <li>
-          <a href="/static/web/nshm/conterminous/1996/data/wuscat.txt">Western U.S. Moment Catalog</a>
+          <a href="/static/lfs/nshm/conterminous/1996/data/wuscat.txt">Western U.S. Moment Catalog</a>
         </li>
         <li>
-          <a href="/static/web/nshm/conterminous/1996/data/ceuscat.txt">Central and Eastern U.S. Bodywave Magnitude</a>
+          <a href="/static/lfs/nshm/conterminous/1996/data/ceuscat.txt">Central and Eastern U.S. Bodywave Magnitude</a>
         </li>
       </ul>
 

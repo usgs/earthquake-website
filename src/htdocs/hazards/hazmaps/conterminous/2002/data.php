@@ -6,7 +6,7 @@
     $NAVIGATION = true;
     include 'template.inc.php';
   }
-  $ftp = '/static/web/nshm/conterminous/2002/data';
+  $ftp = '/static/lfs/nshm/conterminous/2002/data';
 ?>
 
 

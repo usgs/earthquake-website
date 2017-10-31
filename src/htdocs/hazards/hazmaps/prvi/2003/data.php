@@ -29,73 +29,73 @@ if	(!isset($TEMPLATE))	{
 			<td>Ground Motion</td>
 			<td>0.2 Second (5Hz)</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p2s_10p50.txt" title="555 kB">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p2s_10p50.bin" title="127 kB">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p2s_10p50.txt" title="555 kB">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p2s_10p50.bin" title="127 kB">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>0.3 Second (3.33Hz)</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p3s_10p50.txt" title="555 kB">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p3s_10p50.bin" title="127 kB">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p3s_10p50.txt" title="555 kB">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p3s_10p50.bin" title="127 kB">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>1.0 Second (1Hz)</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_gm_1p0s_10p50.txt" title="555 kB">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_gm_1p0s_10p50.bin" title="127 kB">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_1p0s_10p50.txt" title="555 kB">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_1p0s_10p50.bin" title="127 kB">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>Peak Ground Acceleration</td>
 			<td>10% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p0s_10p50.txt" title="555 kB">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p0s_10p50.bin" title="127 kB">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p0s_10p50.txt" title="555 kB">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p0s_10p50.bin" title="127 kB">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>0.2 Second (5Hz)</td>
 			<td>2% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p2s_2p50.txt" title="555 kB">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p2s_2p50.bin" title="127 kB">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p2s_2p50.txt" title="555 kB">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p2s_2p50.bin" title="127 kB">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>0.3 Second (3.33Hz)</td>
 			<td>2% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p3s_2p50.txt" title="555 kB">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p3s_2p50.bin" title="127 kB">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p3s_2p50.txt" title="555 kB">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p3s_2p50.bin" title="127 kB">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>1.0 Second (1Hz)</td>
 			<td>2% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_gm_1p0s_2p50.txt" title="555 kB">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_gm_1p0s_2p50.bin" title="127 kB">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_1p0s_2p50.txt" title="555 kB">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_1p0s_2p50.bin" title="127 kB">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Ground Motion</td>
 			<td>Peak Ground Acceleration</td>
 			<td>2% in 50 Years</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p0s_2p50.txt" title="555 kB">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_gm_0p0s_2p50.bin" title="127 kB">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p0s_2p50.txt" title="555 kB">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_gm_0p0s_2p50.bin" title="127 kB">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Hazard Curves</td>
 			<td>0.2 Second (5Hz)</td>
 			<td>Not Applicable</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_hc_0p2s.txt" title="3 Mb">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_hc_0p2s.bin" title="2 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_hc_0p2s.txt" title="3 Mb">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_hc_0p2s.bin" title="2 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Hazard Curves</td>
 			<td>0.3 Second (3.33Hz)</td>
 			<td>Not Applicable</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_hc_0p3s.txt" title="3 Mb">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_hc_0p3s.bin" title="2 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_hc_0p3s.txt" title="3 Mb">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_hc_0p3s.bin" title="2 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Hazard Curves</td>
 			<td>1.0 Second (1Hz)</td>
 			<td>Not Applicable</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_hc_1p0s.txt" title="3 Mb">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_hc_1p0s.bin" title="2 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_hc_1p0s.txt" title="3 Mb">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_hc_1p0s.bin" title="2 Mb">BINARY</a> ]</td>
 		</tr>
 		<tr>
 			<td>Hazard Curves</td>
 			<td>Peak Ground Acceleration</td>
 			<td>Not Applicable</td>
-			<td>[ <a href="/static/web/nshm/prvi/2003/data/pr_hc_0p0s.txt" title="3 Mb">TEXT</a> | <a href="/static/web/nshm/prvi/2003/data/pr_hc_0p0s.bin" title="2 Mb">BINARY</a> ]</td>
+			<td>[ <a href="/static/lfs/nshm/prvi/2003/data/pr_hc_0p0s.txt" title="3 Mb">TEXT</a> | <a href="/static/lfs/nshm/prvi/2003/data/pr_hc_0p0s.bin" title="2 Mb">BINARY</a> ]</td>
 		</tr>
 	</tbody>
 </table>
@@ -135,7 +135,7 @@ if	(!isset($TEMPLATE))	{
 <p>
 	For convenience we provide sample binary file readers for potential
 	developers to examine the source and get a better idea of how to read the
-	file format. <a href="/static/web/nshm/prvi/2003/data/PRParser.jar" >Download our reader</a> (requires
+	file format. <a href="/static/lfs/nshm/prvi/2003/data/PRParser.jar" >Download our reader</a> (requires
 	<a target="_blank" href="http://www.java.com">Java</a>&trade;). To use
 	this application, open a command line terminal and type: <code>java -jar
 	PRParser.jar &lt;datafile&gt;</code>.

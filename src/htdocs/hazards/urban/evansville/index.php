@@ -45,19 +45,19 @@
 
 	<h3>Liquefaction Potential Index for Scenario Events</h3>
     <ul>
-      <li><a href="/static/web/nshm/urban/evansville/lpi-grid_evansville_pu-jhaase_2010-07-22.xls">Regular grid</a></li>
-      <li><a href="/static/web/nshm/urban/evansville/lpi-cpt_evansville_pu-jhaase_2010-07-22.xls">CPT locations</a></li>
+      <li><a href="/static/lfs/nshm/urban/evansville/lpi-grid_evansville_pu-jhaase_2010-07-22.xls">Regular grid</a></li>
+      <li><a href="/static/lfs/nshm/urban/evansville/lpi-cpt_evansville_pu-jhaase_2010-07-22.xls">CPT locations</a></li>
     </ul>
 
     <h3>Scenario Ground Motions</h3>
     <ul>
-      <li> <a href="/static/web/nshm/urban/evansville/scenario-nm7-7_evansville_pu-jhaase_2010-06-06.xls">New Madrid M7.7</a> </li>
-      <li><a href="/static/web/nshm/urban/evansville/scenario-wv6-8_evansville_pu-jhaase_2010-06-06.xls">Wabash Valley M6.8</a></li>
+      <li> <a href="/static/lfs/nshm/urban/evansville/scenario-nm7-7_evansville_pu-jhaase_2010-06-06.xls">New Madrid M7.7</a> </li>
+      <li><a href="/static/lfs/nshm/urban/evansville/scenario-wv6-8_evansville_pu-jhaase_2010-06-06.xls">Wabash Valley M6.8</a></li>
     </ul>
 
     <h3>Probabilistic Ground Motions</h3>
     <ul>
-      <li><a href="/static/web/nshm/urban/evansville/psha_evans_pu-jhaase_2010-06-06.xls">PGA, 1 s SA, and 0.2 s SA </a></li>
+      <li><a href="/static/lfs/nshm/urban/evansville/psha_evans_pu-jhaase_2010-06-06.xls">PGA, 1 s SA, and 0.2 s SA </a></li>
     </ul>
 
     <p>

@@ -30,42 +30,42 @@
 			<td>Gridded Hazard Map</td>
 			<td>Peak Ground Acceleration</td>
 			<td>1% in 1 year</td>
-      <td><a href="/static/web/nshm/induced/onePercent_1YrModel.pga.1pc1.zip">Text</a> (3.3MB)</td>
+      <td><a href="/static/lfs/nshm/induced/onePercent_1YrModel.pga.1pc1.zip">Text</a> (3.3MB)</td>
 		</tr>
 
 		<tr>
 			<td>Gridded Hazard Map</td>
 			<td>1 Hz (1 sec)</td>
 			<td>1% in 1 year</td>
-      <td><a href="/static/web/nshm/induced/onePercent_1YrModel.1hz.1pc1.zip">Text</a> (3.5MB)</td>
+      <td><a href="/static/lfs/nshm/induced/onePercent_1YrModel.1hz.1pc1.zip">Text</a> (3.5MB)</td>
 		</tr>
 
 		<tr>
 			<td>Gridded Hazard Map</td>
 			<td>5 Hz (0.2 sec)</td>
 			<td>1% in 1 year</td>
-      <td><a href="/static/web/nshm/induced/onePercent_1YrModel.5hz.1pc1.zip">Text</a> (3.5MB)</td>
+      <td><a href="/static/lfs/nshm/induced/onePercent_1YrModel.5hz.1pc1.zip">Text</a> (3.5MB)</td>
 		</tr>
 
 		<tr>
 			<td>Hazard Curve Data</td>
 			<td>Peak Ground Acceleration</td>
 			<td>N/A</td>
-      <td><a href="/static/web/nshm/induced/hazardCurve_1YrModel.pga.truncated.asc.zip">Text</a> (24.4MB)</td>
+      <td><a href="/static/lfs/nshm/induced/hazardCurve_1YrModel.pga.truncated.asc.zip">Text</a> (24.4MB)</td>
 		</tr>
 
 		<tr>
 			<td>Hazard Curve Data</td>
 			<td>5 Hz (0.2 sec)</td>
 			<td>N/A</td>
-      <td><a href="/static/web/nshm/induced/hazardCurve_1YrModel.5hz.truncated.asc.zip">Text</a> (24.4MB)</td>
+      <td><a href="/static/lfs/nshm/induced/hazardCurve_1YrModel.5hz.truncated.asc.zip">Text</a> (24.4MB)</td>
 		</tr>
 
 		<tr>
 			<td>Hazard Curve Data</td>
 			<td>1 Hz (1 sec)</td>
 			<td>N/A</td>
-      <td><a href="/static/web/nshm/induced/hazardCurve_1YrModel.1hz.truncated.asc.zip">Text</a> (22.6MB)</td>
+      <td><a href="/static/lfs/nshm/induced/hazardCurve_1YrModel.1hz.truncated.asc.zip">Text</a> (22.6MB)</td>
 		</tr>
 
 	</tbody>
@@ -73,9 +73,9 @@
 
 <h2 style="clear: left;">Gridded Hazard Maps (1% in 1 Year)</h2>
 <ul>
-  <li><a href="/static/web/nshm/induced/plot_1YrModel_pga_1pc1.pdf">Map of PGA for 1% Probability of Exceedence in 1 Year</a> (PDF)</li>
-  <li><a href="/static/web/nshm/induced/plot_1YrModel_1hz_1pc1.pdf">Map of 1 Hz for 1% Probability of Exceedence in 1 Year</a> (PDF)</li>
-  <li><a href="/static/web/nshm/induced/plot_1YrModel_5hz_1pc1.pdf">Map of 5 Hz for 1% Probability of Exceedence in 1 Year</a> (PDF)</li>
+  <li><a href="/static/lfs/nshm/induced/plot_1YrModel_pga_1pc1.pdf">Map of PGA for 1% Probability of Exceedence in 1 Year</a> (PDF)</li>
+  <li><a href="/static/lfs/nshm/induced/plot_1YrModel_1hz_1pc1.pdf">Map of 1 Hz for 1% Probability of Exceedence in 1 Year</a> (PDF)</li>
+  <li><a href="/static/lfs/nshm/induced/plot_1YrModel_5hz_1pc1.pdf">Map of 5 Hz for 1% Probability of Exceedence in 1 Year</a> (PDF)</li>
 </ul>
 
 <a name="fileformat"></a>

@@ -51,19 +51,19 @@
   <li><a href="2014/images/HazardMap2014_lg.jpg"/>Simplified 2014 Hazard Map (PGA, 2% in 50 years)</a></li>
   <li>Maps: Conterminous US
     <ul>
-          <li><a href="/static/web/nshm/conterminous/2014/2014pga2pct.pdf">PGA 2% in 50 yrs</a>(1.3MB PDF)</li>
-          <li><a href="/static/web/nshm/conterminous/2014/2014pga10pct.pdf">PGA 10% in 50 yrs</a>(1.1MB PDF)</li>
-          <li><a href="/static/web/nshm/conterminous/2014/2014_5Hz2pct.pdf">5 Hz 2% in 50 yrs</a>(1.3MB PDF)</li>
-          <li><a href="/static/web/nshm/conterminous/2014/2014_5Hz10pct.pdf">5 Hz 10% in 50 yrs</a>(1.0MB PDF)</li>
-          <li><a href="/static/web/nshm/conterminous/2014/2014_1Hz2pct.pdf">1 Hz 2% in 50 yrs</a>(1.0MB PDF)</li>
-          <li><a href="/static/web/nshm/conterminous/2014/2014_1Hz10pct.pdf">1 Hz 10% in 50 yrs</a>(0.8MB PDF)</li>
+          <li><a href="/static/lfs/nshm/conterminous/2014/2014pga2pct.pdf">PGA 2% in 50 yrs</a>(1.3MB PDF)</li>
+          <li><a href="/static/lfs/nshm/conterminous/2014/2014pga10pct.pdf">PGA 10% in 50 yrs</a>(1.1MB PDF)</li>
+          <li><a href="/static/lfs/nshm/conterminous/2014/2014_5Hz2pct.pdf">5 Hz 2% in 50 yrs</a>(1.3MB PDF)</li>
+          <li><a href="/static/lfs/nshm/conterminous/2014/2014_5Hz10pct.pdf">5 Hz 10% in 50 yrs</a>(1.0MB PDF)</li>
+          <li><a href="/static/lfs/nshm/conterminous/2014/2014_1Hz2pct.pdf">1 Hz 2% in 50 yrs</a>(1.0MB PDF)</li>
+          <li><a href="/static/lfs/nshm/conterminous/2014/2014_1Hz10pct.pdf">1 Hz 10% in 50 yrs</a>(0.8MB PDF)</li>
     </ul>
   </li>
 
-  <li><a href="/static/web/nshm/conterminous/2014/data/">Data</a>
+  <li><a href="/static/lfs/nshm/conterminous/2014/data/">Data</a>
   </li>
 
-  <li><a href="/static/web/nshm/conterminous/2014/USpga250.zip">GIS Shapefiles</a> (PGA, 2% in 50yrs) (5MB Zip)</a>
+  <li><a href="/static/lfs/nshm/conterminous/2014/USpga250.zip">GIS Shapefiles</a> (PGA, 2% in 50yrs) (5MB Zip)</a>
   </li>
 
   <li><a href="https://github.com/usgs/nshmp-haz-fortran">Source code</a>
@@ -132,7 +132,7 @@
   <li><a href="https://pubs.usgs.gov/of/2007/1437/">The Uniform California Earthquake Rupture Forecast, Version 2 (UCERF2)</a> (USGS OFR 2007-1437)
   </li>
   <li><a href="http://www.wgcep.org/">Working Group on California Earthquake Probabilities</a></li>
-  <li><a href="/static/web/nshm/conterminous/2008/99HQGR0098.pdf" title="2001, P. Sommerville et al. Final Report">Ground Motion Attenuation Relations for the Central and Eastern United States</a> (USGS-funded)
+  <li><a href="/static/lfs/nshm/conterminous/2008/99HQGR0098.pdf" title="2001, P. Sommerville et al. Final Report">Ground Motion Attenuation Relations for the Central and Eastern United States</a> (USGS-funded)
   </li>
 </ul>
 
@@ -174,7 +174,7 @@
   <li><a href="1996/maps.php">Maps</a></li>
   <li><a href="1996/data.php">Data</a></li>
   <li>Source Code is not available.</li>
-  <li><a href="https://pubs.usgs.gov/of/1996/532/">National Seismic Hazard Maps: Documentation June 1996</a> (OFR 96-532) and <a href="/static/web/nshm/conterminous/1996/documentation/US1996Figures.zip">Figures from Open-File Report</a> (6 MB Zip file)</li>
+  <li><a href="https://pubs.usgs.gov/of/1996/532/">National Seismic Hazard Maps: Documentation June 1996</a> (OFR 96-532) and <a href="/static/lfs/nshm/conterminous/1996/documentation/US1996Figures.zip">Figures from Open-File Report</a> (6 MB Zip file)</li>
 </ul>
 
 <h3>Additional Information</h3>

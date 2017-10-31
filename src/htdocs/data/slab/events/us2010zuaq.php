@@ -30,19 +30,19 @@ We filter the historic gCMT catalog to include only shallow thrust mechanisms wi
 <hr />
 <h2>Result</h2>
 <p>
-<img src="/static/web/data/slab/events/us2010zuaq/vanuat_basemap.png" alt="" />
+<img src="/static/lfs/data/slab/events/us2010zuaq/vanuat_basemap.png" alt="" />
 <br /><br />
 Figure 1: Basemap of subduction zone showing the area of the trench constrained in this example. Earthquake locations from the gCMT catalog and EHB catalog (gray circles, sized according to magnitude) are shown. Maroon rectangle indicates the area shown in cross section (c); all earthquakes within this area may be used to constrain trench geometry.
 </p>
 <hr />
 <p>
-<a href="/static/web/data/slab/events/us2010zuaq/vanuat_crosssection2.png"><img src="/static/web/data/slab/events/us2010zuaq/vanuat_crosssection.png" alt="" /></a>
+<a href="/static/lfs/data/slab/events/us2010zuaq/vanuat_crosssection2.png"><img src="/static/lfs/data/slab/events/us2010zuaq/vanuat_crosssection.png" alt="" /></a>
 <br /><br />
 Figure 2: Cross-section of subduction zone taken perpendicular to the average strike of gCMTs that match selection criteria and whose equivalent EHB or NEIC locations lie within the maroon box from Figure 1. Gold CMTs are mechanisms from the gCMT catalog plotted at their equivalent EHB catalog location, used to constrain trench strike and dip. Orange CMTs are mechanisms without EHB locations, placed instead at the equivalent event location in the NEIC catalog, and also used to constrain geometry. Light and dark gray circles are events from the EHB catalog in front and behind the plane of the cross-section, respectively, but not used to constrain geometry because either (i) they did not have a corresponding mechanism in the gCMT catalog, or (ii) their mechanism in the gCMT catalog did not match selection criteria. The trench location is marked with a red square. The red dashed line describes the the best-fitting non-planar geometry. The initial location of the reference event is shown by a maroon star and marked with an arrow corresponding to the NEIC epicenter. By clicking on this figure, an expanded cross-section will show the fit between the non-planar geometry and deeper earthquake data (maroon circles), also used to help constrain this geometry. On this section, the dashed blue line represents the local model from Gudmundsson & Sambridge (1998).
 </p>
 <hr />
 <p>
-<img src="/static/web/data/slab/events/us2010zuaq/vanuat_dipdiscrepancy.png" alt="" />
+<img src="/static/lfs/data/slab/events/us2010zuaq/vanuat_dipdiscrepancy.png" alt="" />
 <br /><br />
 Figure 3: Variation in dip of best-fitting fault planes from the gCMT catalog for all events used to constrain trench geometry across the plane of the cross-section. Individual event dips are shown with small dark gray circles, sized with magnitude. Large mechanisms indicate the average dip in 20km bins across the plane of the cross-section. Light gray mechanisms represent a bulk average; dark gray represents a moment-weighted average. The red dashed line represents the dip of the best-fit non-planar geometry.
 </p>
@@ -54,7 +54,7 @@ N/A
 <h2>Summary Poster</h2>
 <ul>
    <li>
-     <a href= /static/web/data/slab/events/us2010zuaq/vanuat_trench.pdf><b>PDF FORMAT</b></a>
+     <a href= /static/lfs/data/slab/events/us2010zuaq/vanuat_trench.pdf><b>PDF FORMAT</b></a>
    </li>
 </ul>
 

@@ -23,7 +23,7 @@
 <div class="worldmap"></div>
 
 <p>
-	<a href="/static/web/learn/worldseis.pdf" title="Download updated full-size world map (1900-2013)">Download updated (1900-2013) full-size worldwide seismicity map [12.3MB PDF]</a>
+	<a href="/static/lfs/learn/worldseis.pdf" title="Download updated full-size world map (1900-2013)">Download updated (1900-2013) full-size worldwide seismicity map [12.3MB PDF]</a>
 </p>
 
 <h4>Seismicity of the Earth Open File Reports:</h4>

@@ -89,52 +89,52 @@ if	(!isset($TEMPLATE))	{
   <a href="https://dnr.mo.gov/geology/statemap/stLouis/stlouis_e_hotspotquad.htm">Index Map for Missouri 7.5&apos; Quads</a> - Missouri Geological Survey
 </p>
 <ul>
-  <li><a href="/static/web/nshm/urban/stlouis/2011CreveCoeurofm-11-0598-gs.pdf">Creve Coeur (1.7MB PDF)</a>
+  <li><a href="/static/lfs/nshm/urban/stlouis/2011CreveCoeurofm-11-0598-gs.pdf">Creve Coeur (1.7MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Alton-ofm-09-0543-gs.pdf">Alton (19.8MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Alton-ofm-09-0543-gs.pdf">Alton (19.8MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Cahokia-ofm-10-0564-gs.pdf">Cahokia (10.1MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Cahokia-ofm-10-0564-gs.pdf">Cahokia (10.1MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Chesterfield-ofm-10-0553-gs.pdf">Chesterfield (1.9MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Chesterfield-ofm-10-0553-gs.pdf">Chesterfield (1.9MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Clayton-ofm-10-0561-gs.pdf">Clayton (13.9MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Clayton-ofm-10-0561-gs.pdf">Clayton (13.9MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Elsah-ofm-09-0544-gs.pdf">Elsah (19.3MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Elsah-ofm-09-0544-gs.pdf">Elsah (19.3MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Florrissant-ofm-10-0560-gs.pdf">Florissant (14.5MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Florrissant-ofm-10-0560-gs.pdf">Florissant (14.5MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Grafton-ofm-09-0545-gs.pdf">Grafton (13.5MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Grafton-ofm-09-0545-gs.pdf">Grafton (13.5MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Kampville.pdf">Kampville (11.4MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Kampville.pdf">Kampville (11.4MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Kirkwood-ofm-12-0615-gs.pdf">Kirkwood (13.9MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Kirkwood-ofm-12-0615-gs.pdf">Kirkwood (13.9MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/OFallon-ofm-10-0559-gs.pdf">O'Fallon (12.1MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/OFallon-ofm-10-0559-gs.pdf">O'Fallon (12.1MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Oakville-ofm-10-0563-gs.pdf">Oakville (13.3MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Oakville-ofm-10-0563-gs.pdf">Oakville (13.3MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/StCharles.pdf">St. Charles (11.7MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/StCharles.pdf">St. Charles (11.7MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/WebsterGroves-ofm-10-0562-gs.pdf">Webster Groves (14.1MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/WebsterGroves-ofm-10-0562-gs.pdf">Webster Groves (14.1MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/WeldonSprg-Chesterfield-Manchester-HouseSprings-Maxville-ofm-13-0634-gs.pdf">Chesterfield-Manchester-House Springs-Maxville (9.3MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/WeldonSprg-Chesterfield-Manchester-HouseSprings-Maxville-ofm-13-0634-gs.pdf">Chesterfield-Manchester-House Springs-Maxville (9.3MB PDF)</a>
   </li>
   <li>
-    <a href="/static/web/nshm/urban/stlouis/Wentzville-ofm-09-0541-gs.pdf">Wentzville (18.3MB PDF)</a>
+    <a href="/static/lfs/nshm/urban/stlouis/Wentzville-ofm-09-0541-gs.pdf">Wentzville (18.3MB PDF)</a>
   </li>
 </ul>
 

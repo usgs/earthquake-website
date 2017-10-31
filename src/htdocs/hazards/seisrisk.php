@@ -22,8 +22,8 @@ if (!isset($TEMPLATE)) {
 </ol>
 
 <ul>
-  <li><a href="/static/web/nshm/seisrisk.zip">Download SeisRisk III</a> (46MB ZIP)</li>
-  <li><a href="/static/web/nshm/seisrisk3mods.zip">Download SeisRisk (as modified by R. LaForge, February 1996)</a> (62KB ZIP)</li>
+  <li><a href="/static/lfs/nshm/seisrisk.zip">Download SeisRisk III</a> (46MB ZIP)</li>
+  <li><a href="/static/lfs/nshm/seisrisk3mods.zip">Download SeisRisk (as modified by R. LaForge, February 1996)</a> (62KB ZIP)</li>
 </ul>
 
 <h2>Background Information</h2>
