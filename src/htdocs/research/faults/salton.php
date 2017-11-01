@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Mark Goldman
-// Last modified: Lisa Wald, 2016/08/18
 if (!isset($TEMPLATE)) {
   $TITLE = 'Faults, Earthquake Geology, and Special Earthquake Studies';
   $NAVIGATION = true;
@@ -14,9 +13,7 @@ if (!isset($TEMPLATE)) {
 <h3>Studying Earthquake Hazards and Rifting Processes in the Imperial and Coachella Valleys</h3>
 
 <figure class='right'>
-  <a href="faults.pdf">
     <img src="images/salton-faults.png" alt="Space shuttle image depicting area's geologic features"/>
-  </a>
   <figcaption>
     Southern California consists of two of Earth&rsquo;s plates (the Pacific and North American plates) moving past each other. The boundary between the two plates is quite crooked. Heavy red lines indicate the San Andreas and related faults.  As the two plates move past each other along these faults (in the directions of the small white arrows), earthquakes occur.  The purple lines indicate locations between these faults where the Earth is being pulled apart, creating a deep valley or even new ocean. Volcanoes and underground magma in these areas create geothermal energy and hot springs (CPG is Cerro Prieto Geothermal area; BSZ is Brawley Seismic Zone and geothermal area).  In the Transverse Ranges, where the San Andreas Fault undergoes a &ldquo;Big Bend,&rdquo; the plates are pushing against each other (heavy white arrows), building mountains, which are uplifted along thrust faults (the thin red lines with teeth).  Thus, mountain building and valley subsidence are occurring very close to each other in this part of southern California.
   </figcaption>

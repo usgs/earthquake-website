@@ -23,8 +23,8 @@ Joan Gomberg</h2>
 	Seattle, WA<br />
 	98195-1310
 </p>
-<p><a href="/regional/pacnw/">
-	Pacific Northwest Webpages</a>
+<p><a href="https://pnsn.org/">
+	Pacific Northwest Seismic Network</a>
 </p>
 <p><a href="http://www.washington.edu/home/maps/">
 	University of Washington Campus Map &amp; Directions</a>

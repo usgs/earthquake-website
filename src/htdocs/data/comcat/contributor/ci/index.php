@@ -12,7 +12,7 @@ include '../_contributor.inc.php';
   <li><a href="https://earthquake.usgs.gov/contactus/pasadena/" target="_blank">USGS Pasadena</a></li>
 </ul>
 
-<h2 id="contributingNetworks"><a href="http://www/ncedc/org/ncss/index.html">Contributing Networks</a></h2>
+<h2 id="contributingNetworks"><a href="http://www.ncedc.org/ncss/">Contributing Networks</a></h2>
 <ul>
   <li>California Department of Water Resources</li>
   <li>Calpine</li>
@@ -32,11 +32,11 @@ include '../_contributor.inc.php';
 
 <h2 id="mission">Mission</h2>
 <p>
-The mission of the California Integrated Seismic Network (CISN) is to operate a reliable, 
-modern, statewide system for earthquake monitoring, research, archiving, and distribution of 
+The mission of the California Integrated Seismic Network (CISN) is to operate a reliable,
+modern, statewide system for earthquake monitoring, research, archiving, and distribution of
 information for the benefit of public safety, emergency
-response, and loss mitigation. Further, the CISN seeks to mitigate the impact of future 
-earthquakes by collecting, processing, and disseminating critical earthquake information 
+response, and loss mitigation. Further, the CISN seeks to mitigate the impact of future
+earthquakes by collecting, processing, and disseminating critical earthquake information
 in a timely way.
 </p>
 

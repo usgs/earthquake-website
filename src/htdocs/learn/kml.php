@@ -26,18 +26,6 @@
         </p>
       </li>
       <li>
-        <a href="http://usgs.github.io/shakemap/products.html#google-earth-overlay">
-          <h4>ShakeMaps</h4>
-          <img src="images/shakemap.jpg" alt="Shake Map"/>
-        </a>
-        <p>
-          Maps of ground motion and shaking
-          intensity for significant earthquakes. Google Earth KML files are
-          in the Downloads area for each individual earthquake under the GIS
-          Files heading.
-        </p>
-      </li>
-      <li>
         <a href="/static/lfs/nshm/qfaults/Quaternaryall.zip">
           <h4>Quaternary Faults &amp; Folds in the U.S.</h4>
           <img src="images/faults.jpg" alt="Faults"/>

@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact:
-      //	Last	modified:	12/08/2016
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Preparedness Information and Response Agencies';
       $NAVIGATION	= true;

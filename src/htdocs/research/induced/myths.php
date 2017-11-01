@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Justin Rubenstein
-// Last modified: Lisa Wald, 2016/08/22
 if (!isset($TEMPLATE)) {
   $TITLE = 'Induced Earthquakes';
   $NAVIGATION = true;
@@ -47,7 +46,7 @@ if (!isset($TEMPLATE)) {
 
 <ul>
   <li>
-    <a href="https://www.usgs.gov/faq/taxonomy/term/9833">FAQ: Earthquakes Induced by Fluid Injection</a>
+    <a href="https://www.usgs.gov/faq/natural-hazards">FAQ: Induced Earthquakes</a> - select topic Induced Earthquakes
  </li>
   <li>
     <a href="https://www.usgs.gov/faq/taxonomy/term/10416">FAQ: Hydraulic Fracturing (Fracking)</a>
