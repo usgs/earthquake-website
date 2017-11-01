@@ -55,7 +55,7 @@
   </figure>
 
     <ul>
-      <li><a href="https://www.usgs.gov/faq/taxonomy/term/9838">Fault FAQ</a></li>
+      <li><a href="https://www.usgs.gov/faq/natural-hazards">Fault FAQ</a> - select topic "Faults"</li>
     </ul>
 
     <h2>About the Quaternary Faults and the National Seismic Hazard Maps</h2>

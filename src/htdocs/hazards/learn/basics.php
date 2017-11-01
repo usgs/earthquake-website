@@ -72,7 +72,7 @@ if (!isset($TEMPLATE)) {
 <ol>
   <li>A 50-year time interval</li>
   <li>A 5% chance of exceedence</li>
-  <li>A <a href="https://www.usgs.gov/faq/?q=categories/9846/3410">PGA</a> map</li>
+  <li>A PGA map</li>
 </ol>
 <h4>We would read the shaking hazards for Nowhere City as:</h4>
 <p>
@@ -312,7 +312,7 @@ if (!isset($TEMPLATE)) {
 </ul>
 <p>
   Units for all 3 maps are
-  <a href="https://www.usgs.gov/faq/index.php?action=artikel&cat=131&id=1816&artlang=en&highlight=percent+g&search=true">&#37;g (percent of gravity)</a>.
+  <a href="/learn/glossary/?term=G%20or%20g">&#37;g (percent of gravity)</a>.
   This can also be expressed in decimal form, example 10&#37;g = 0.1g.
   The ground motion values apply to ground motion expected for future
   individual earthquakes. The probabilistic ground motion calculation

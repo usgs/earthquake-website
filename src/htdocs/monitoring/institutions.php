@@ -122,7 +122,7 @@
 
 <h2>Colombia</h2>
 <ul>
-	<li><a href="http://www.sgc.gov.co/Geologia.aspx">SGC - Servicio Geológico Colombiano</a></li>
+	<li><a href="https://www2.sgc.gov.co/Paginas/default.aspx">SGC - Servicio Geológico Colombiano</a></li>
 	<li><a href="http://seisan.sgc.gov.co/RSNC/">SGC - Red Sismológica Nacional de Colombia (RSNC)</a></li>
 </ul>
 
@@ -231,7 +231,7 @@
 <h2>India</h2>
 <ul>
 	<li><a href="http://www.imd.gov.in/">India Meteorological Department</a></li>
-	<li><a href="http://www.imd.gov.in/section/seismo/dynamic/welcome.htm">India Meteorological Department - Seismology</a></li>
+	<li><a href="http://www.imd.gov.in/pages/services_seismo.php">India Meteorological Department - Seismology</a></li>
 	<li><a href="http://www.portal.gsi.gov.in/">Geological Survey of India</a></li>
 	<li><a href="http://www.imdmumbai.gov.in/">Regional Meteorological Centre, Mumbai: Earthquakes</a></li>
 	<li><a href="http://www.ngri.org.in/">National Geophysical Research Institute</a></li>
@@ -247,7 +247,7 @@
 <h2>Iran</h2>
 <ul>
 	<li><a href="http://gsi.ir/Main/Lang_en/ind">Geological Survey of Iran</a></li>
-	<li><a href="http://www.iiees.ac.ir/iiees/english/index_e.asp">International Institute of Earthquake Engineering and Seismology, Iran</a></li>
+	<li><a href="http://www.iiees.ac.ir/en/">International Institute of Earthquake Engineering and Seismology, Iran</a></li>
 	<li><a href="http://seismo.um.ac.ir/">Earthquake Research Center - EQRC</a></li>
 	<li><a href="http://irsc.ut.ac.ir/">Iranian Seismological Center, Online Databank</a></li>
 	<li><a href="http://www.bhrc.ac.ir/">Building &amp; Housing Research Center</a></li>
@@ -269,7 +269,7 @@
 <ul>
 	<li><a href="http://www.fesn.org/">Friuli Experimental Seismic Network, Venezia Giulia, Italy</a></li>
 	<li><a href="http://www.ingv.it/">Istituto Nazionale di Geofisica e Vulcanologia (INGV)</a></li>
-	<li><a href=" http://www.geoscienze.units.it/">Dipartimento di Geoscienze, Universita degli Studi di Trieste</a></li>
+	<li><a href="https://dmg.units.it/">Dipartimento di Geoscienze, Universita degli Studi di Trieste</a></li>
 	<li><a href="http://www.ogs.trieste.it/it">Istituto Nazionale di Oceanografia e Geofisica Sperimentale (OGS)</a>(Italian)</li>
 	<li><a href="http://emidius.mi.ingv.it/GNDT/">Gruppo Nazionale per la Difesa dai Terremoti (National Group for the Defense against Earthquakes)</a></li>
 </ul>
@@ -294,7 +294,7 @@
 	<li><a href="http://www.jamstec.go.jp/">Japan Marine Science and Technology Center</a></li>
 	<li><a href="http://iisee.kenken.go.jp/">International Institute of Seismology and Earthquake Engineering - IISEE</a></li>
 	<li><a href="http://cais.gsi.go.jp/YOCHIREN/index.e.html">Coordinating Committee for Earthquake Prediction, Japan</a> - no website?</li>
-	<li><a href="http://www.dpri.kyoto-u.ac.jp/default.html">Disaster Prevention Research Institute, Kyoto University</a></li>
+	<li><a href="http://www.dpri.kyoto-u.ac.jp/en/">Disaster Prevention Research Institute, Kyoto University</a></li>
 	<li><a href="http://www.rcep.dpri.kyoto-u.ac.jp/">Research Center for Earthquake Prediction</a></li>
 	<li><a href="http://www.svo.dpri.kyoto-u.ac.jp/default_e.html">Sakurajima Volcano Research Center</a></li>
 </ul>
@@ -343,7 +343,7 @@
 <ul>
 	<li><a href="http://www.orfeus-eu.org/">ORFEUS Data Center</a></li>
 	<li><a href="http://www.geo.uu.nl/Research/Seismology/nars/">Network of Autonomously Recording Seismographs - NARS</a></li>
-	<li><a href="http://www.knmi.nl/research/seismology/">Royal Netherlands Meteorological Institute</a></li>
+	<li><a href="http://www.knmi.nl/research/seismology-acoustics">Royal Netherlands Meteorological Institute</a></li>
 </ul>
 
 <h2>New Zealand</h2>
@@ -363,7 +363,7 @@
 <h2>Norway</h2>
 <ul>
 	<li><a href="http://www.norsar.no/">Norwegian Seismic Array (NORSAR)</a></li>
-	<li><a href=" http://www.uib.no/en/rg/geodyn/54014/earthquake-seismology">University of Bergen, Geodynamics</a></li>
+	<li><a href="http://www.uib.no/en/rg/geodyn">University of Bergen, Geodynamics</a></li>
 </ul>
 
 <h2>Oman</h2>
@@ -415,15 +415,15 @@
 
 <h2>Romania</h2>
 <ul>
-	<li><a href="http://www1.infp.ro/en">National Institute for Earth Physics, Bucharest</a></li>
+	<li><a href="http://www.infp.ro/en/">National Institute for Earth Physics, Bucharest</a></li>
 </ul>
 
 <h2>Russia</h2>
 <ul>
 	<li><a href="http://www.gsras.ru/">Russian Academy of Sciences, Geophysical Survey (Russian)</a></li>
-	<li><a href="http://www.ceme.gsras.ru/eng/index.htm">Russian Academy of Sciences, Geophysical Survey (English)</a></li>
+	<li><a href="http://www.ceme.gsras.ru/new/eng/ssd_news.htm">Russian Academy of Sciences, Geophysical Survey (English)</a></li>
 	<li><a href="http://seis-bykl.ru/">Baikal Branch Geophysical Survey, Siberian Branch Russian Academy of Sciences, Irkutsk (Russian)</a></li>
-	<li><a href="http://www.krsc.ru/english/default.html">Kola Branch, Geophysical Survey, Russian Academy of Sciences, Apatity</a></li>
+	<li><a href="http://www.kolasc.net.ru/ksc/main/arhive.html">Kola Branch, Geophysical Survey, Russian Academy of Sciences, Apatity</a></li>
 </ul>
 
 <h2>Saudi Arabia</h2>
@@ -453,7 +453,7 @@
 
 <h2>Spain</h2>
 <ul>
-	<li><a href="http://www.ign.es/ign/layout/sismo.do">National Geographical Institute, Madrid, Spain</a></li>
+	<li><a href="http://www.ign.es/web/resources/sismologia/tproximos/prox.html">National Geographical Institute, Madrid, Spain</a></li>
 	<li><a href="http://www.icc.es/">Institut Cartografic de Catalunya</a></li>
 	<li><a href="http://iagpds.ugr.es/">Instituto Andaluz de Geofísica, Universidad de Granada</a></li>
 </ul>
@@ -471,7 +471,7 @@
 <h2>Taiwan</h2>
 <ul>
 	<li><a href="http://www.cwb.gov.tw/V7/index.htm">Central Weather Bureau</a></li>
-	<li><a href="http://www.ncree.gov.tw/eng/index.htm">National Center for Research on Earthquake Engineering</a></li>
+	<li><a href="http://www.narlabs.org.tw/en/lab/lab.php?lab_id=6">National Center for Research on Earthquake Engineering</a></li>
 	<li><a href="http://www.earth.sinica.edu.tw/">Institute of Earth Sciences, Academia Sinica</a></li>
 	<li><a href="http://bats.earth.sinica.edu.tw/">Broadband Array in Taiwan for Seismology - BATS</a></li>
 	<li><a href="http://www.cwb.gov.tw/V7e/earthquake/quake_index.htm">Central Weather Bureau - Earthquakes</a></li>

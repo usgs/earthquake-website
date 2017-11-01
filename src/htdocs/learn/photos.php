@@ -135,7 +135,7 @@ if  (!isset($TEMPLATE))  {
   <div class="column three-of-five">
     <h2>Non-USGS Collections</h2>
     <ul id="nonusgs">
-      <li><a href="http://www.earthscienceworld.org/imagebank/" target="_blank">American Geological Institute (AGI) Earth Science World ImageBank</a></li>
+      <li><a href="https://www.americangeosciences.org/center-for-geo/ern/image-collections/earth-science-world-image-bank" target="_blank">American Geological Institute (AGI) Earth Science World ImageBank</a></li>
       <li><a href="https://nisee.berkeley.edu/elibrary/">Earthquake Engineering Online Archive</a></li>
       <li><a href="http://www.johnmartin.com/earthquakes/eqshow/index.htm" target="_blank">Earthquake Images from John Martin &amp; Associates</a> (many from NOAA collection)</li>
       <li><a href="https://www.fema.gov/media-library" target="_blank">FEMA Photo Library</a></li>

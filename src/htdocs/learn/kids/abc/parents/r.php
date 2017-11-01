@@ -21,7 +21,7 @@
     <h2>ichter Scale</h2>
     <br style="clear:left;"/>
     <p>
-      The Richter scale is an idea, like the Fahrenheit scale, not an instrument. The term is sometimes used to describe the local magnitude scale, the first magnitude scale defined by Charles Richter, and sometimes used to mean any magnitude scale (see <a href="pm.html">Magnitude</a>.)
+      The Richter scale is an idea, like the Fahrenheit scale, not an instrument. The term is sometimes used to describe the local magnitude scale, the first magnitude scale defined by Charles Richter, and sometimes used to mean any magnitude scale (see <a href="m.php">Magnitude</a>.)
     </p>
   </div>
 </div>

@@ -17,6 +17,6 @@
   	navItem("$section/wasatch/process.php", "Back at the Computer-Processing &amp; Analyzing the Data")
   );
 
-  print	navItem("$section/topics/wasatch/resources.php", "Additional Resources");
+  print	navItem("$section/topics/wasatch/addl-resources.php", "Additional Resources");
 
 ?>
