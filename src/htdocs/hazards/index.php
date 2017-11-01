@@ -76,7 +76,7 @@ if (!isset($TEMPLATE)) {
         <li><a href="learn/basics.php">Earthquake Hazards 101</a>-The Basics</li>
         <li><a href="qfaults/map/">Interactive U.S. Faults Map</a></li>
         <li><a href="https://pubs.usgs.gov/fs/2008/3017/">Fact Sheet</a> - U.S. National Seismic Hazard Maps</li>
-        <li><a href="https://www.usgs.gov/faq/taxonomy/term/9843">Seismic Hazard Maps FAQ</a></li>
+        <li><a href="https://www.usgs.gov/faq/natural-hazards">Seismic Hazard Maps FAQ</a> - select topic "Seismic Hazards"</li>
       </ul>
     </div>
 

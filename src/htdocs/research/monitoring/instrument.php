@@ -51,4 +51,4 @@ if (!isset($TEMPLATE)) {
 
 <h2>See also:</h2>
 <!-- The new link will be /monitoring/asl/ -->
-<a href="/regional/asl/">Albuquerque Seismological Laboratory (ASL)</a>
+<a href="/contactus/albuquerque/">Albuquerque Seismological Laboratory (ASL)</a>

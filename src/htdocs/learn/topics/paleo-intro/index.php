@@ -42,7 +42,7 @@
 </figure>
 
 <p>
-  To find direct evidence for a paleoearthquake, first you need to find a fault.  The use of lidar (See <a href="/learn/topics/wasatch/collect.php">Down in the Trenches and Up in the Air</a>) in geological investigations has made it much easier to map active  faults. Lidar can cover a lot more ground than a few geologists hiking around looking for evidence of past earthquakes, and its ability to “see through” the vegetation also allows coverage in areas where it may be difficult or impossible for scientists to access.
+  To find direct evidence for a paleoearthquake, first you need to find a fault.  The use of lidar (See <a href="/research/everyone/wasatch/collect.php">Down in the Trenches and Up in the Air</a>) in geological investigations has made it much easier to map active  faults. Lidar can cover a lot more ground than a few geologists hiking around looking for evidence of past earthquakes, and its ability to “see through” the vegetation also allows coverage in areas where it may be difficult or impossible for scientists to access.
 </p>
 <figure class='right cartoon'>
   <img src='images/xsect-cartoon.gif' alt='cartoon of trench cross-section'/>
@@ -115,7 +115,7 @@
 <h2>Additional Resources</h2>
 <ul>
   <li><a href="https://www.usgs.gov/news/maps-made-light-show-way">Maps Made With Light Show the Way</a></li>
-  <li><a href="/learn/topics/wasatch/collect.php">Down in the Trenches and Up in the Air</a></li>
+  <li><a href="/research/everyone/wasatch/collect.php">Down in the Trenches and Up in the Air</a></li>
 </ul>
 
 <h4>Next month: Investigating Past Earthquakes on the San Andreas Fault to Inform the Future</h4>
