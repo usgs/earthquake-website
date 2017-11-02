@@ -24,7 +24,7 @@ if (!isset($TEMPLATE)) {
     <div class="column one-of-two">
 
     <h3>Browse Entire Region</h3>
-    <a href="themes.php"><img src="images/themes.jpg" alt="theme" /></a>
+    <a href="region.php"><img src="images/themes.jpg" alt="theme" /></a>
     <p>Download the entire extent of each theme as a layer in Google Earth.</p>
 
   </div>
