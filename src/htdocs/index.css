@@ -52,3 +52,8 @@ img.feature-image {
 ul.separator>li {
   padding: 0;
 }
+
+img.faq {
+  float: left;
+  margin-right: 10px;
+}
