@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact:
-      //	Last	modified:	10/12/2016
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Determining the Depth of an Earthquake';
       $NAVIGATION	= true;
@@ -21,7 +20,7 @@
 	earthquakes, 300 - 700 km deep. In general, the term "deep-focus
 	earthquakes" is applied to earthquakes
 	deeper than 70 km. All earthquakes deeper than 70 km
-	are localized within great slabs of shallow lithosphere
+	are localized within great slabs of lithosphere
 	that are sinking into the Earth's mantle.
 </p>
 <p>
