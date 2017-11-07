@@ -34,7 +34,7 @@ if (!isset($TEMPLATE)) {
         </noscript>
       </div>
 
-      <h4><a href="http://usgs.github.io/shakemap/products.html#real-time-product-distribution-automatic-access-and-feeds">Real-time Feeds</a></h4>
+      <h4><a href="http://usgs.github.io/shakemap/manual3_5/products.html#real-time-product-distribution-automatic-access-and-feeds">Real-time Feeds</a></h4>
 
       <h4>By Network (Past 30 Days)</h4>
       <img src="images/ANSS-2x.gif" alt="" width="150"/>

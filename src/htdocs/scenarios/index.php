@@ -59,14 +59,14 @@
   <section class="column one-of-two">
     <h2>ShakeMap Scenario Documentation</h2>
     <p>
-      (links to <a href="http://usgs.github.io/shakemap/shakemap_archives.html#shakemap-scenarios">ShakeMap Manual section 3.3.3</a>)
+      (links to <a href="http://usgs.github.io/shakemap/manual3_5/shakemap_archives.html#shakemap-scenarios">ShakeMap Manual section 3.3.3</a>)
     </p>
     <ul>
       <li>
-        <a href="http://usgs.github.io/shakemap/shakemap_archives.html#generating-earthquake-scenarios">Generating Earthquake Scenarios</a>
+        <a href="http://usgs.github.io/shakemap/manual3_5/shakemap_archives.html#generating-earthquake-scenarios">Generating Earthquake Scenarios</a>
       </li>
       <li>
-        <a href="http://usgs.github.io/shakemap/shakemap_archives.html#standardizing-earthquake-scenarios">Standardizing Earthquake Scenarios</a>
+        <a href="http://usgs.github.io/shakemap/manual3_5/shakemap_archives.html#standardizing-earthquake-scenarios">Standardizing Earthquake Scenarios</a>
       </li>
     </ul>
   </section>
