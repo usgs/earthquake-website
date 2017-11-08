@@ -203,6 +203,7 @@
         <ul>
           <li><a href="http://www.opentopography.org/">OpenTopography</a></li>
           <li><a href="http://pugetsoundlidar.ess.washington.edu/lidardata/">Puget Sound Lidar Consortium</a></li>
+          <li><a href="http://www.oregongeology.org/lidar/">Oregon Lidar Consortium</a></li>
         </ul>
         </li>
         <li><a href="https://geomaps.wr.usgs.gov/sfgeo/geologic/">San Francisco Bay Region Geology and Geological Hazards</a> (maps)</li>
