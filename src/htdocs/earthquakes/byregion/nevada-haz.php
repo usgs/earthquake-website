@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Lisa Wald
-  // Last modified: 05/23/2016, Lisa Wald
   if (!isset($TEMPLATE)) {
   $TITLE = 'Information by Region-Nevada';
   $NAVIGATION = true;
