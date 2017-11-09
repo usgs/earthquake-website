@@ -66,12 +66,10 @@
   <li><a href="https://www.usgs.gov/faqs/seismometers-seismographs-seismograms-whats-difference-how-do-they-work">Seismometers, seismographs, seismograms - what's the difference? How do they work?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-can-i-make-my-own-seismometer">How can I make my own seismometer?</a></li>
   <li><a href="https://www.usgs.gov/faqs/when-was-first-instrument-actually-recorded-earthquake">When was the first instrument that actually recorded an earthquake?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-a-p-wave-what-a-s-wave">What is a P wave? What is a S wave?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-acceleration-velocity-and-displacement">What is acceleration, velocity, and displacement?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-a-geoid-why-do-they-use-geoid-and-where-does-its-shape-come">What is a Geoid?  Why do they use the geoid, and where does its shape come from?</a></li>
 </ul>
 
-<h2>Seismic Hazards <span class='example'>...maps, probabilities, and earthquake engineering</span></h2>
+<h2>Earthquake Hazards <span class='example'>...maps, probabilities, and earthquake engineering</span></h2>
 <ul>
   <li><a href="https://www.usgs.gov/faqs/what-a-seismic-zone-or-seismic-hazard-zone-where-can-i-find-information-seismic-zones-0-1-2-3">What is a seismic zone, or seismic hazard zone? Where can I find seismic zone maps with 0, 1, 2, 3, 4? What seismic zone is location X in?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-seismic-hazard-what-a-seismic-hazard-map-how-are-they-made-how-are-they-used-why-are-there">What is seismic hazard? What is a seismic hazard map? How are they made? How are they used? Why are there different maps, and which one should I use?</a></li>
@@ -95,7 +93,6 @@
   <li><a href="https://www.usgs.gov/faqs/what-does-earthquake-feel">What does an earthquake feel like?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-are-those-booms-i-sometimes-hear-or-during-earthquake">What are those booms I sometimes hear before or during an earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-do-earthquakes-other-countries-seem-cause-more-damage-and-casualties-earthquakes-us">Why do earthquakes in other countries seem to cause more damage and casualties than earthquakes in the U.S.?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-are-isoseismal-maps">What are isoseismal maps?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-can-earthquake-effect-groundwater-or-changes-wells">How can an earthquake effect groundwater or changes in wells?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-find-photographs-earthquake-damage">Where can I find photographs of earthquake damage?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-liquefaction">What is liquefaction?</a></li>
@@ -103,7 +100,7 @@
   <li><a href="https://www.usgs.gov/faqs/what-are-earthquake-lights">What are earthquake lights?</a></li>
 </ul>
 
-<h2>Earthquakes Induced by Fluid Injection</h2>
+<h2>Induced Earthquakes</h2>
 <ul>
   <li><a href="https://www.usgs.gov/faqs/do-all-wastewater-disposal-wells-induce-earthquakes">Do all wastewater disposal wells induce earthquakes?</a></li>
   <li><a href="https://www.usgs.gov/faqs/it-possible-anticipate-whether-a-planned-wastewater-disposal-activity-will-trigger-earthquakes">Is it possible to anticipate whether a planned wastewater disposal activity will trigger earthquakes that are large enough to be of concern?</a></li>
@@ -119,14 +116,12 @@
 <h2>Historical Earthquakes and Statistics</h2>
 <ul>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-find-a-list-yearly-estimated-deaths-earthquakes-around-world">Where can I find a list of yearly estimated deaths from earthquakes around the world?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/which-states-have-smallest-number-earthquakes">Which States have the smallest number of earthquakes?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/which-states-have-smallest-number-earthquakes-there-any-place-world-doesnt-have-earthquakes">Which States have the smallest number of earthquakes? Is there any place in the world that doesn't have earthquakes?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-do-earthquakes-occur">Where do earthquakes occur?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-find-a-list-largest-earthquakes-united-states-world">Where can I find a list of the largest earthquakes in the United States? in the World?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-find-a-list-largest-earthquakes-near-my-town">Where can I find a list of the largest earthquakes near my town?</a></li>
   <li><a href="https://www.usgs.gov/faqs/which-country-has-most-earthquakes">Which Country has the most earthquakes?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/which-state-has-most-damaging-earthquakes">Which State has the most damaging earthquakes?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/which-states-united-states-have-most-natural-earthquakes">Which States in the United States have the most natural earthquakes?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/which-states-united-states-have-most-natural-earthquakes">I want to move to a place that doesn't have earthquakes. Where can I go?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/which-state-has-most-damaging-earthquakes-most-natural-non-manmade-earthquakes">Which State has the most damaging earthquakes? The most natural (non-manmade) earthquakes?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-search-earthquake-catalog-past-events">Where can I search an earthquake catalog for past events?</a></li>
 </ul>
 
