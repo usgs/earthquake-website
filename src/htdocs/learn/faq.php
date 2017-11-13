@@ -92,6 +92,7 @@
   <li><a href="https://www.usgs.gov/faqs/what-magnitude-does-damage-begin-occur-earthquake">At what magnitude does damage begin to occur in an earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-does-earthquake-feel">What does an earthquake feel like?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-are-those-booms-i-sometimes-hear-or-during-earthquake">What are those booms I sometimes hear before or during an earthquake?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/how-does-usgs-tell-difference-between-earthquake-and-a-sonic-boom">How does the USGS tell the difference between an earthquake and a sonic boom?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-do-earthquakes-other-countries-seem-cause-more-damage-and-casualties-earthquakes-us">Why do earthquakes in other countries seem to cause more damage and casualties than earthquakes in the U.S.?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-can-earthquake-effect-groundwater-or-changes-wells">How can an earthquake effect groundwater or changes in wells?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-find-photographs-earthquake-damage">Where can I find photographs of earthquake damage?</a></li>
