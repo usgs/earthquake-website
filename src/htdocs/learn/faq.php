@@ -42,6 +42,7 @@
   <li><a href="https://www.usgs.gov/faqs/did-i-feel-earthquake-can-i-report-feeling-earthquake-0">Did I feel an earthquake? Can I report feeling an earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-earthquake-was-reportedrecorded-network-x-or-i-felt-not-maplist">Why is the earthquake that was reported/recorded by network X, or that I felt, not on the map/list?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-do-some-earthquakes-disappear-maplist">Why do some earthquakes disappear from the map/list?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/why-don-t-you-report-earthquakes-local-time-where-earthquake-occurred">Why don’t you report earthquakes in the local time where the earthquake occurred?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-isnt-fault-earthquake-occurred-or-distance-nearest-fault-provided">Why isn't the fault the earthquake occurred on or the distance to the nearest fault provided?</a></li>
   <li><a href="https://www.usgs.gov/faqs/can-i-get-a-list-receive-email-message-when-there-earthquake-how-do-i-sign-earthquake">Can I get on a list to receive an email message when there is an earthquake? How do I sign up for earthquake notifications?  Are there any Feeds I can subscribe to?</a></li>
   <li><a href="https://www.usgs.gov/faqs/when-are-tsunami-information-and-links-put-event-page">When are tsunami information and links put on the event page?</a></li>
