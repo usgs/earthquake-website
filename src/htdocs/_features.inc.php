@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-11-16',
+  'title' => 'Mystery Quakes May Be Among World’s Longest-Lived Aftershocks',
+  'content' => 'New evidence about where a major earthquake struck central Washington State 145 years ago raises the possibility that today’s unusually frequent quakes in the area still echo that 1872 event. (EOS article)',
+  'link' => 'https://eos.org/articles/mystery-quakes-may-be-among-worlds-longest-lived-aftershocks',
+  'modified' => strtotime('2017-11-16'),
+  'thumbnail' => '/images-featured/EntiatWA.gif',
+  'image' => '/images-featured/EntiatWA.gif'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-10-23',
   'title' => 'U.S. and Canadian Scientists Explore Major Undersea Earthquake Fault',
   'content' => 'An international team of scientists just finished probing the depths of the Pacific Ocean offshore of Alaska and British Columbia, to better understand the Queen Charlotte-Fairweather Fault. During the past century, the 700-mile-long fault has generated at least half a dozen major earthquakes, and future shocks threaten coastal communities in both the United States and Canada.',

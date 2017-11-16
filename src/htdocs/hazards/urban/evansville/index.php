@@ -36,9 +36,9 @@
 <h2>Supplementary documentation</h2>
 	<ul>
 	  <li><a href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CCoQFjAA&amp;url=http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2009%2F1249%2Fpdf%2FOF09-1249.pdf&amp;ei=-xEsT6SrNOuGsgLugti1Dg&amp;usg=AFQjCNEbadflzCOUXbGymH_iToj-xdcdsg" target="_blank">Evansville Area Earthquake Hazards Mapping Project (EAEHMP) - Progress Report 2008</a></li>
-	  <li><a href="https://earthquake.usgs.gov/research/external/reports/05HQAG0147.pdf" target="_blank">Implementation of an AGS-Cosmos-FHWA Compatible Geotechnical Databases for the St. Louis Metro Area, Missouri and Illinois and, the Evansville-Henderson Area, Indiana and Kentucky</a></li>
-	  <li><a href="https://earthquake.usgs.gov/research/external/reports/05HQGR0033.pdf" target="_blank">Calculation and validation of probabilistic seismic hazard assessment for the urban area of Evansville incorporating site effects</a></li>
-	  <li><a href="https://earthquake.usgs.gov/research/external/reports/07HQGR0058.pdf" target="_blank">Liquefaction Susceptibility Mapping in the Evansville, Indiana, Region Including An Investigation of 2D Amplification and Duration Effects Due to Bedrock Valley Structure</a></li>
+	  <li><a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/05HQAG0147.pdf" target="_blank">Implementation of an AGS-Cosmos-FHWA Compatible Geotechnical Databases for the St. Louis Metro Area, Missouri and Illinois and, the Evansville-Henderson Area, Indiana and Kentucky</a></li>
+	  <li><a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/05HQGR0033.pdf" target="_blank">Calculation and validation of probabilistic seismic hazard assessment for the urban area of Evansville incorporating site effects</a></li>
+	  <li><a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/07HQGR0058.pdf" target="_blank">Liquefaction Susceptibility Mapping in the Evansville, Indiana, Region Including An Investigation of 2D Amplification and Duration Effects Due to Bedrock Valley Structure</a></li>
   </ul>
 
 <h2>Data</h2>
