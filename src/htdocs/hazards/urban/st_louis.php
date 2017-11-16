@@ -52,7 +52,7 @@ if	(!isset($TEMPLATE))	{
     <a href="http://srl.geoscienceworld.org/content/early/2016/11/03/0220160028">St. Louis Area Earthquake Hazards Mapping Project: Seismic and Liquefaction Hazard Maps</a> - Final Report by Cramer and others, November 2016
   </li>
   <li>
-    <a href="/research/external/reports/G09AP00008.pdf">2011 Implementation of a more efficient hazard calculation methodology and more extensive uncertainty analysis for the St. Louis region</a>
+    <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/G09AP00008.pdf">2011 Implementation of a more efficient hazard calculation methodology and more extensive uncertainty analysis for the St. Louis region</a>
   </li>
   <li>
     Paleoseismological Study in the St. Louis Region: Collaborative Research, M. Tuttle &amp; Associates and the Eastern Region Climate/Hazards Team, USGS
@@ -61,7 +61,7 @@ if	(!isset($TEMPLATE))	{
     <a href="https://pubs.usgs.gov/of/2009/1198/">St. Louis Area Earthquake Hazards Mapping Project</a> - 2009 PowerPoint Presentation
   </li>
   <li>
-    <a href="/research/external/reports/08HQGR0016.pdf">Comparing the 2002 and 2008 USGS Seismic Hazard Model in the St. Louis Area</a>
+    <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/08HQGR0016.pdf">Comparing the 2002 and 2008 USGS Seismic Hazard Model in the St. Louis Area</a>
   </li>
   <li>
     <a href="https://pubs.usgs.gov/of/2009/1059/pdf/OF09-1059.pdf">St. Louis Area Earthquake Hazards Mapping Project - A Progress Report-November 2008</a> - USGS OFR 2009-1059
@@ -76,7 +76,7 @@ if	(!isset($TEMPLATE))	{
     <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/05HQGR0019.pdf">Report describing the St. Louis area surficial materials database</a> (1.4MB PDF)
   </li>
   <li>
-    <a href="/research/external/reports/06HQGR0026.pdf"></a>2008 St. Louis, Metro Area Shear Wave Velocity Testing (2.6MB PDF)
+    <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/06HQGR0026.pdf"></a>2008 St. Louis, Metro Area Shear Wave Velocity Testing (2.6MB PDF)
   </li>
   <li>
     <a href="http://www.earthquakespectra.org/doi/abs/10.1193/1.2753548?code=eeri-site">2007 Shallow P- and S-Wave Velocities and Site Resonances in the St. Louis Region, Missouri-Illinois</a>
@@ -189,15 +189,15 @@ if	(!isset($TEMPLATE))	{
 <h2>Other Geologic Maps</h2>
 <ul>
   <li>
-    <a href="https://earthquake.usgs.gov/research/external/reports/G09AP00113.pdf">Detailed Surficial Geologic Materials Mapping for the O'Fallon 7.5 Minute Quadrangle</a>
+    <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/G09AP00113.pdf">Detailed Surficial Geologic Materials Mapping for the O'Fallon 7.5 Minute Quadrangle</a>
   </li>
   <li>
-    <a href="https://earthquake.usgs.gov/research/external/reports/08HQAG0129.pdf">Detailed Surficial Geologic Maps for the Elsah, Grafton, and Alton 7.5' Quadrangles</a>
+    <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/08HQAG0129.pdf">Detailed Surficial Geologic Maps for the Elsah, Grafton, and Alton 7.5' Quadrangles</a>
   </li>
   <li>
-    <a href="/research/external/reports/05HQGR0063.pdf">2008 Liquefaction susceptibility and probabilistic liquefaction potential hazard mapping, St. Louis, Missouri and Illinois</a> (9.9MB PDF)
+    <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/05HQGR0063.pdf">2008 Liquefaction susceptibility and probabilistic liquefaction potential hazard mapping, St. Louis, Missouri and Illinois</a> (9.9MB PDF)
   </li>
   <li>
-    <a href="/research/external/reports/06HQGR0155.pdf">Creation of a Geologic GIS Database for the St. Louis Metro Area, Missouri and Illinois</a> (1.4MB PDF)
+    <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/06HQGR0155.pdf">Creation of a Geologic GIS Database for the St. Louis Metro Area, Missouri and Illinois</a> (1.4MB PDF)
   </li>
 </ul>
