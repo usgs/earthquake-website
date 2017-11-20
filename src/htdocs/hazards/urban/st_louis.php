@@ -48,6 +48,11 @@ if	(!isset($TEMPLATE))	{
 <h2>Products</h2>
 <img style="float:right;" src= "images/factsheet_sm.jpg" alt='thumbnail of factsheet'>
 <ul>
+  <li><a href="https://pubs.usgs.gov/fs/2007/3073/">St. Louis Area Earthquake Hazards Mapping Project</a> - USGS Factsheet FS-2007-3037
+  </li>
+  <li>
+    <a href="https://pubs.usgs.gov/of/2009/1198/">St. Louis Area Earthquake Hazards Mapping Project</a> - 2009 PowerPoint Presentation
+  </li>
   <li>
     <a href="http://srl.geoscienceworld.org/content/early/2016/11/03/0220160028">St. Louis Area Earthquake Hazards Mapping Project: Seismic and Liquefaction Hazard Maps</a> - Final Report by Cramer and others, November 2016
   </li>
@@ -56,9 +61,6 @@ if	(!isset($TEMPLATE))	{
   </li>
   <li>
     Paleoseismological Study in the St. Louis Region: Collaborative Research, M. Tuttle &amp; Associates and the Eastern Region Climate/Hazards Team, USGS
-  </li>
-  <li>
-    <a href="https://pubs.usgs.gov/of/2009/1198/">St. Louis Area Earthquake Hazards Mapping Project</a> - 2009 PowerPoint Presentation
   </li>
   <li>
     <a href="/research/external/reports/08HQGR0016.pdf">Comparing the 2002 and 2008 USGS Seismic Hazard Model in the St. Louis Area</a>
