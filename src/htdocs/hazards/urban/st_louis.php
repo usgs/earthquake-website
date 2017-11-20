@@ -57,6 +57,12 @@ if	(!isset($TEMPLATE))	{
     <a href="http://srl.geoscienceworld.org/content/early/2016/11/03/0220160028">St. Louis Area Earthquake Hazards Mapping Project: Seismic and Liquefaction Hazard Maps</a> - Final Report by Cramer and others, November 2016
   </li>
   <li>
+    <a href="http://srl.geoscienceworld.org/content/early/2016/11/03/0220160028">St. Louis Area Earthquake Hazards Mapping Project: Seismic and Liquefaction Hazard Maps</a> - Final Report by Cramer and others, November 2016
+  </li>
+  <li>
+    <a href="/cfusion/external_grants/reports/G09AP00008.pdf">2011 Implementation of a more efficient hazard calculation methodology and more extensive uncertainty analysis for the St. Louis region</a>
+  </li>
+  <li>
     <a href="/cfusion/external_grants/reports/G09AP00008.pdf">2011 Implementation of a more efficient hazard calculation methodology and more extensive uncertainty analysis for the St. Louis region</a>
   </li>
   <li>
