@@ -49,6 +49,9 @@ if	(!isset($TEMPLATE))	{
 <img style="float:right;" src= "images/factsheet_sm.jpg" alt='thumbnail of factsheet'>
 <ul>
   <li>
+    <a href="https://pubs.usgs.gov/of/2009/1198/">St. Louis Area Earthquake Hazards Mapping Project</a> - 2009 PowerPoint Presentation
+  </li>
+  <li>
     <a href="http://srl.geoscienceworld.org/content/early/2016/11/03/0220160028">St. Louis Area Earthquake Hazards Mapping Project: Seismic and Liquefaction Hazard Maps</a> - Final Report by Cramer and others, November 2016
   </li>
   <li>
@@ -58,9 +61,6 @@ if	(!isset($TEMPLATE))	{
     Paleoseismological Study in the St. Louis Region: Collaborative Research, M. Tuttle &amp; Associates and the Eastern Region Climate/Hazards Team, USGS
   </li>
   <li>
-    <a href="https://pubs.usgs.gov/of/2009/1198/">St. Louis Area Earthquake Hazards Mapping Project</a> - 2009 PowerPoint Presentation
-  </li>
-  <li>
     <a href="https://earthquake.usgs.gov/cfusion/external_grants/reports/08HQGR0016.pdf">Comparing the 2002 and 2008 USGS Seismic Hazard Model in the St. Louis Area</a>
   </li>
   <li>
@@ -68,6 +68,9 @@ if	(!isset($TEMPLATE))	{
   </li>
   <li>
     <a href="https://pubs.usgs.gov/fs/2009/3071/">2009 Fact Sheet: Earthquake Hazard in the New Madrid Seismic Zone Remains a Concern</a>
+  </li>
+  <li>
+    <a href="https://pubs.usgs.gov/fs/2007/3073/">St. Louis Area Earthquake Hazards Mapping Project</a> - USGS FS-2007-3073
   </li>
   <li>
     <a href="ftp://ftpext.usgs.gov/pub/cr/co/golden/hazards/SLAEHMP/StL_geotech_final_RV v2003.mdb">Download the St. Louis Area Surficial Materials Database</a> (31MB)
