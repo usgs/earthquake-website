@@ -27,24 +27,6 @@
 </ul>
 
 <h2>Time to Detect an Event</h2>
-<div class='row'>
-  <div class='column one-of-two'>
-    <figure>
-      <img src="images/warningtime.JPG" alt="Warning time depends on distance to quake"/>
-      <figcaption>
-        Estimated warning times for locations at different distances from the earthquake epicenter. Locations within 20 miles of the fault will likely not receive any warning as, on average, it will take 10 seconds to detect and locate the earthquake.
-      </figcaption>
-    </figure>
-  </div>
-  <div class='column one-of-two'>
-    <figure>
-      <img src="images/timeshake.JPG" alt="Estimated shaking time arrivals"/>
-      <figcaption>
-        Estimated time until strong shaking arrives in Los Angeles from an earthquake that begins along the southern potion of the San Andreas Fault near the Salton Sea, California. Since seismic waves travel slower than internet and phone communication it is possible to quickly detect the start of the earthquake and send warning out to locations farther away.
-      </figcaption>
-    </figure>
-  </div>
-</div>
 
 <p>
   An earthquake early warning system on the west coast of the United States could provide up to tens of seconds of warning prior to shaking arriving.  The time required to detect and issue a warning for an earthquake is dependent on several factors:
