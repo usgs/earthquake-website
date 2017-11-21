@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-11-21',
+  'title' => 'Return to the Alaska Wilderness',
+  'content' => 'A team of USGS scientists spent two weeks in the isolated Glacier Bay National Park, exploring one of the fastest-moving faults in North America.',
+  'link' => 'https://www.usgs.gov/news/return-alaska-wilderness-usgs-scientists-visit-one-north-america-s-fastest-moving-faults',
+  'modified' => strtotime('2017-11-21'),
+  'thumbnail' => '/images-featured/Witter_gravel_1.jpg',
+  'image' => '/images-featured/Witter_gravel_1.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-11-16',
   'title' => 'Mystery Quakes May Be Among World’s Longest-Lived Aftershocks',
   'content' => 'New evidence about where a major earthquake struck central Washington State 145 years ago raises the possibility that today’s unusually frequent quakes in the area still echo that 1872 event. (EOS article)',
