@@ -71,6 +71,6 @@
 
 <h2>Contacts</h2>
 <ul>
-  <li><a href="mailto:rdegroot@usgs.gov">Bob de Groot</a> - Shake Alert Coordinator for Communication, Education, and Outreach</li>
+  <li><a href="mailto:rdegroot@usgs.gov">Robert de Groot</a> - ShakeAlert Coordinator for Communication, Education, and Outreach</li>
   <li><a href="mailto:ecochran@usgs.gov">Elizabeth Cochran</a> - Project Manager</li>
 </ul>
