@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-12-05 16:55:25 +0000
+# Generation Time: 2017-12-05 19:43:57 +0000
 # ************************************************************
 
 
@@ -1950,7 +1950,7 @@ VALUES
 	(495,11),
 	(495,13),
 	(496,11),
-	(497,11);
+	(497,13);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3160,7 +3160,7 @@ VALUES
 	(494,'Digging Into the Past on the Teton Fault','USGS','/learn/topics/teton-paleo/','Follow the daily activities of a team of geologists and paleoseismologists as they dig a trench and collect data on the Teton Fault. (from a fieldwork blog September 15-21, 2017)'),
 	(495,'The Early History of Seismometry (to 1900)','USGS','/learn/topics/eqsci-history/early-seismometry.php','A walk through the evolution of earthquake monitoring instruments.'),
 	(496,'GEODE - Google Earth for Onsite and Distance Education','geode.net','http://geode.net/','Virtual tours of different earth features using Google Earth.'),
-	(497,'Recovering From a Natural Disaster in College: A Student’s Guide for What to do on Campus','AffordableCollegesOnline.org','https://www.affordablecollegesonline.org/college-resource-center/natural-disasters/','What college students can do to prepare for a natural disaster, and what to do if one happens.');
+	(497,'Recovering From a Natural Disaster in College: A Students Guide for What to do on Campus','AffordableCollegesOnline.org','https://www.affordablecollegesonline.org/college-resource-center/natural-disasters/','What college students can do to prepare for a natural disaster, and what to do if one happens.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
