@@ -1,6 +1,6 @@
 <?php
 
-include_once 'Features.class.php';
+include_once '../lib/Features.class.php';
 
 date_default_timezone_set('UTC');
 

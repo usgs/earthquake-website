@@ -60,17 +60,21 @@ class Features {
   /**
    * Format Features list as Html.
    *
+   * @param $maxFeatures {Integer}
+   *        number of features to output.
+   *        output all if $maxFeatures is less than zero.
+   *        default 2.
    * @return {String} html.
    */
-  public function toHtml() {
+  public function toHtml($maxFeatures=2) {
     $items = $this->getItems();
     $len = count($items);
 
     $r = '';
     $r .= '<ul class="no-style linklist">';
-    $r .=   $this->getItemHtml($items[0]);
-    $r .=   $this->getItemHtml($items[1]);
-    /* $r .=   $this->getItemHtml($items[3]); */
+    for ($i = 0; $i < $len && ($maxFeatures < 0 || $i < $maxFeatures); $i++) {
+      $r .= $this->getItemHtml($items[$i]);
+    }
     $r .= '</ul>';
 
     return $r;
