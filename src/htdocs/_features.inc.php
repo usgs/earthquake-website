@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2017-12-07',
+  'title' => 'ShakeAlert System Continues Progress toward Public Use',
+  'content' => 'A decade after beginning work on an earthquake early warning system, scientists and engineers are fine-tuning a U.S. West Coast prototype that could be in limited public use in 2018. (SSA article)',
+  'link' => 'https://www.seismosoc.org/news/shakealert-system-continues-progress-toward-public-use/',
+  'modified' => strtotime('2017-12-07'),
+  'thumbnail' => '/images-featured/ShakeAlert-stas.png',
+  'image' => '/images-featured/ShakeAlert-stas.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-11-21',
   'title' => 'Return to the Alaska Wilderness',
   'content' => 'A team of USGS scientists spent two weeks in the isolated Glacier Bay National Park, exploring one of the fastest-moving faults in North America.',
