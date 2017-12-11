@@ -8,6 +8,19 @@
   }
 ?>
 
+<h2>2017</h2>
+
+<h3>October 16-17, 2017, Berkeley</h3>
+
+<p>
+  The NEPEC met in Berkeley, California. The Council received briefings on USGS plans to develop a nationwide aftershock forecasting system that responds to needs expressed by many user groups, and on coordination on the composition and dissemination of operational forecasts in California and Cascadia. Following discussion, the Council developed answers to several questions on these topics that were posed by the USGS, toward delivery of a letter report shortly following the meeting.
+</p>
+<ul>
+  <li><a href="reports/FRN_2017-20503.pdf">Federal Register Notice</a></li>
+  <li><a href="reports/NEPEC_Agenda_16-17Oct2017.pdf">Agenda</a></li>
+  <li><a href="reports/Questions_for_NEPEC_Oct2017.pdf">Questions to NEPEC</a></li>
+</ul>
+
 <h2>2016</h2>
 
 <h3>September 1, 2016, by phone</h3>
