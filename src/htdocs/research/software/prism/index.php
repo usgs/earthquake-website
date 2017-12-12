@@ -2,7 +2,7 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'PRISM software: Processing and Review Interface for Strong Motion Data';
-  $HEAD = '';
+  $HEAD = '<link rel="stylesheet" href="index.css" />';
   $FOOT = '';
 
   include 'template.inc.php';
@@ -32,8 +32,31 @@ if (!isset($TEMPLATE)) {
 <h2>Earthquake Seminar</h2>
 <p>Erol Kalkan, USGS, gave a <a href="https://earthquake.usgs.gov/contactus/menlo/seminars/1106">seminar about PRISM software</a> on August 9, 2017 at USGS, Menlo Park.</p>
 
-<h2>References</h2><ul class="referencelist">
-  <li>Jones, J., Kalkan, E. and Stephens, C. (2017). Processing and Review Interface for Strong Motion Data (PRISM)—Methodology and Automated Processing, Version 1.0.0: U.S. Geological Survey Open-File Report, 2017–1008, 81 p., <a href="https://pubs.er.usgs.gov/publication/ofr20171008">https://pubs.er.usgs.gov/publication/ofr20171008</a>.</li>
-  <li>Jones, J., Kalkan, E., Stephens, C. and Ng, P. (2017). PRISM Software: Processing and Review Interface for Strong-Motion Data, Seismological Research Letters, doi:10.1785/0220160200.</li>
-  <li>Kalkan, E. and Stephens, C. (2017). Systematic comparisons between PRISM version 1.0.0, BAP, and CSMIP ground-motion processing: U.S. Geological Survey Open-File Report 2017–1020, 108 p., <a href="https://pubs.er.usgs.gov/publication/ofr20171020">https://pubs.er.usgs.gov/publication/ofr20171020</a>.</li>
+<h2>References</h2>
+
+<ul class="no-style linklist referencelist">
+  <li>
+    <a href="https://pubs.er.usgs.gov/publication/ofr20171008">
+      <img src="ofr20171008.png" width="100" alt="Cover page of publication" />
+    </a>
+    <p>Jones, J., Kalkan, E. and Stephens, C. (2017). <a href="https://pubs.er.usgs.gov/publication/ofr20171008">Processing and Review Interface for Strong Motion Data (PRISM)—Methodology and Automated Processing</a>, Version 1.0.0: U.S. Geological Survey Open-File Report, 2017–1008, 81 p.</p>
+  </li>
+  <li>
+    <a href="https://pubs.geoscienceworld.org/srl/article-lookup/88/3/851">
+      <img src="0220160200.png" width="100" alt="Cover page of publication" />
+    </a>
+    <p>Jones, J., Kalkan, E., Stephens, C. and Ng, P. (2017). <a href="https://pubs.geoscienceworld.org/srl/article-lookup/88/3/851">PRISM Software: Processing and Review Interface for Strong-Motion Data</a>, Seismological Research Letters, doi:10.1785/0220160200.</p>
+  </li>
+  <li>
+    <a href="https://doi.org/10.3133/tm12A2">
+      <img src="tm12A2.jpg" width="100" alt="Cover page of publication" />
+    </a>
+    <p>Jones, J., Kalkan, E., Stephens, C. and Ng, P. (2017). <a href="https://doi.org/10.3133/tm12A2">PRISM Software: Processing and Review Interface for Strong-Motion Data</a>, U.S. Geological Survey Techniques and Methods, book 12, chap. A2, 4 p.</p>
+  </li>
+  <li>
+    <a href="https://pubs.er.usgs.gov/publication/ofr20171020">
+      <img src="ofr20171020.png" width="100" alt="Cover page of publication" />
+    </a>
+    <p>Kalkan, E. and Stephens, C. (2017). <a href="https://pubs.er.usgs.gov/publication/ofr20171020">Systematic comparisons between PRISM version 1.0.0, BAP, and CSMIP ground-motion processing</a>, U.S. Geological Survey Open-File Report 2017–1020, 108 p.</p>
+  </li>
 </ul>
