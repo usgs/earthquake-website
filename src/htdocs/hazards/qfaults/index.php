@@ -1,6 +1,6 @@
 <?php
 // Author: Lisa Wald
-// Contact: Kathy Haller,Jerry Mayer
+// Contact: Rob Schmitt,Jerry Mayer
   if (!isset($TEMPLATE)) {
     $TITLE = 'Faults';
     $NAVIGATION = true;
@@ -14,10 +14,10 @@
 <div class='row'>
   <div class='column three-of-five'>
     <h2>Interactive Fault Map</h2>
-    <a href='map/'><img class='left' src='images/qfault.png'></a>
+    <a href='https://doi.org/10.5066/F7S75FJM'><img class='left' src='images/qfault.png'></a>
 
     <br style="clear:left;"/>
-    <p><a href='map/'><strong>View interactive fault map.</strong></a></p>
+    <p><a href='https://doi.org/10.5066/F7S75FJM'><strong>View interactive fault map.</strong></a></p>
 
     <p>
       This database contains information on faults and associated folds in the United States that demonstrate geological evidence of coseismic surface deformation in large earthquakes during <strong>the Quaternary (the past 1.6 million years)</strong>. Links to descriptions and citations are accessible through the <a href="/cfusion/qfault/index.cfm">Database Search</a> or <a href='map/'>Interactive Fault Map</a>.
@@ -32,9 +32,9 @@
         Database Search</a></li>
       <li>Download Data:
         <ul>
-          <li><a href="/static/lfs/nshm/qfaults/Quaternaryall.zip">KML (Google Earth) Files</a> (20 MB ZIP)<br/>
+          <li><a href="/static/lfs/nshm/qfaults/qfaults.kmz">KML (Google Earth) Files</a> (13 MB KMZ)<br/>
           - includes 5 fault layers: Historic, Holocene to Latest Pleistocene, Late Quaternary, Mid-Late Quaternary, Quaternary</li>
-          <li><a href="/static/lfs/nshm/qfaults/qfaults-GIS.zip">GIS Shapefiles</a> (9.1 MB ZIP file)</li>
+          <li><a href="/static/lfs/nshm/qfaults/qfaults.zip">GIS Shapefiles</a> (16 MB ZIP file)</li>
         </ul>
       </li>
       <li><a href="background.php">Background</a> - history, help, personnel and references</li>
