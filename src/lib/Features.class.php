@@ -71,7 +71,7 @@ class Features {
     $len = count($items);
 
     $r = '';
-    $r .= '<ul class="no-style linklist">';
+    $r .= '<ul class="no-style linklist feature">';
     for ($i = 0; $i < $len && ($maxFeatures < 0 || $i < $maxFeatures); $i++) {
       $r .= $this->getItemHtml($items[$i]);
     }
@@ -125,7 +125,7 @@ class Features {
      return '' .
       '<li>' .
         '<a href="' . $item['link'] . '">' .
-        '<h3 class="feature-title">' . $item['title'] . '</h3>' .
+        '<h4>' . $item['title'] . '</h4>' .
         '<img class="feature-image" src="' . $item['thumbnail'] .
         '" alt="" />' .
         '</a>' .

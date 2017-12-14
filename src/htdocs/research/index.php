@@ -77,21 +77,13 @@ if (!isset($TEMPLATE)) {
   </div>
 
   <div class = "column two-of-five">
+
     <div class="alert" style="margin-bottom:16px">
-
-      <h2>Science for Everyone</h2>
-
-      <p>View all <a href="everyone/">Science for Everyone</a> articles.</p>
-
-      <a href="/learn/topics/safz-paleo/">
-        <h3>Back to the Future on the San Andreas Fault</h3>
+      <a href="everyone/">
+      <h3>Science for Everyone</h3>
         <img src="/images-featured/trench-xsect.gif"  width="384" alt="cross-section with layers and a fault outlined"/>
       </a>
-
-      <a href="/learn/topics/paleo-intro">
-        <h3>Introduction to Paleoseismology: The Past Informs the Future</h3>
-        <img src="images/intro-paleo.gif" width="384" alt="cartoon of cross-section with layers and fault"/>
-      </a>
+      <p>Science briefs about new earthquake research written for non-scientists.</p>
 
     </div>
 

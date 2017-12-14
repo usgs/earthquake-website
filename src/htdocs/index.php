@@ -79,6 +79,7 @@ if (!isset($TEMPLATE)) {
 <!-- LEFT COLUMN: WEBSITE SECTIONS and HIGHLIGHTS -->
   <div class="column one-of-two">
 
+    <h2>Highlights</h2>
     <!-- Featured Items -->
     <div class='alert'>
       <?php
@@ -86,9 +87,12 @@ if (!isset($TEMPLATE)) {
       echo $EQ_FEATURES->toHtml();
       ?>
 
+      <p><a href="highlight-archives.php">View Highlight Archives</a></p>
       <a href="atom.php"><img style="padding-right:16px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe to Earthquake Hazards Program Highlights</a>
     </div>
 
+
+    <h2>Explore the Website</h2>
     <!-- 6 Sections of Website -->
     <div class="sections">
 
