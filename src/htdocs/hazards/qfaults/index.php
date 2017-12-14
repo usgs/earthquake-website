@@ -20,7 +20,7 @@
     <p><a href='https://doi.org/10.5066/F7S75FJM'><strong>View interactive fault map.</strong></a></p>
 
     <p>
-      This database contains information on faults and associated folds in the United States that demonstrate geological evidence of coseismic surface deformation in large earthquakes during <strong>the Quaternary (the past 1.6 million years)</strong>. Links to descriptions and citations are accessible through the <a href="/cfusion/qfault/index.cfm">Database Search</a> or <a href='map/'>Interactive Fault Map</a>.
+      This database contains information on faults and associated folds in the United States that demonstrate geological evidence of coseismic surface deformation in large earthquakes during <strong>the Quaternary (the past 1.6 million years)</strong>. Links to descriptions and citations are accessible through the <a href="/cfusion/qfault/index.cfm">Database Search</a> or <a href='https://doi.org/10.5066/F7S75FJM'>Interactive Fault Map</a>.
     </p>
 
     <p class='alert info'>
