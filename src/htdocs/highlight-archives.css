@@ -1,0 +1,22 @@
+div.alert {
+  margin-top: 1em;
+  padding-top: 0.8em;
+}
+
+.feature {
+  text-decoration: none;
+  margin-left: 0.25em;
+}
+
+img.feature-image {
+  width: 150px;
+}
+
+ul.separator>li {
+  padding: 0;
+}
+
+img.faq {
+  float: left;
+  margin-right: 10px;
+}

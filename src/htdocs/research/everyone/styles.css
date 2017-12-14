@@ -3,7 +3,8 @@
 }
 
 .linklist>li a>img {
-  padding-top: 0;
+  padding-top: 1em;
+  width: 75px;
 }
 
 .linklist>li h4 {
@@ -12,11 +13,11 @@
   margin-top: 0;
 }
 
-.everyone {
+.feature {
   text-decoration: none;
   margin-left: 0.25em;
 }
 
-.everyone-img {
+img.feature-image {
   max-width: 150px;
 }

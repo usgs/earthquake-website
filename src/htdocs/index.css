@@ -45,6 +45,11 @@ div.alert {
   padding-top: 0.8em;
 }
 
+.feature {
+  text-decoration: none;
+  margin-left: 0.25em;
+}
+
 img.feature-image {
   width: 150px;
 }
