@@ -63,6 +63,7 @@
       <ul>
         <li>Real-time:
           <ul>
+            <li><a href="/monitoring/helicorders.php">Seismogram Displays Worldwide</a></li>
             <li><a href="/monitoring/operations/heliplot.php?virtual_network=GSN">GSN Stations</a></li>
             <li><a href="/monitoring/operations/heliplot.php?virtual_network=ANSS">ANSS Backbone Stations</a></li>
             <li><a href="/monitoring/netquakes/viewdata">Netquake Volunteer Stations</a></li>
