@@ -45,3 +45,5 @@
 	In addition to activities performed by USGS staff, expertise in earthquake studies that exist outside the federal government is applied through a substantial program of grants, cooperative agreements and/or contracts with universities, state, regional and local government agencies, and private industry. The USGS invites research proposals to develop information, knowledge and methods that will assist in achieving the goals of the Earthquake Hazards Program.
 </p>
 <p>See <a href="/research/external/">External Grants</a>.</p>
+
+<p>See also: <a href="https://doi.org/10.1785/0220170088">NEHRP Turns 40</a></p>
