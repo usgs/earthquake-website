@@ -173,3 +173,5 @@ provided by the NEIC to the scientific community
 and the general public;
 and, ultimately, to aid in earthquake hazard mitigation.
 </p>
+
+<p>See also: <a href="https://doi.org/10.1785/0220170034">Building a National Seismic Monitoring Center: NEIC from 2000 to the Present</a></p>
