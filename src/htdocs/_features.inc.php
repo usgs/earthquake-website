@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-01-02',
+  'title' => 'USGS scientist Rob Wesson Receives the 2017 Edward A. Flinn III Award',
+  'content' => 'Robert L. Wesson received the 2017 Edward A. Flinn III Award at the American Geophysical Union Fall Meeting Honors Ceremony. The award honors those who personify the Union motto of unselfish cooperation in research. (AGU article)',
+  'link' => 'https://eos.org/agu-news/robert-l-wesson-receives-2017-edward-a-flinn-iii-award',
+  'modified' => strtotime('2018-01-02'),
+  'thumbnail' => '/images-featured/wesson-robert-2017-flinn-award.jpg',
+  'image' => '/images-featured/wesson-robert-2017-flinn-award.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2017-12-07',
   'title' => 'ShakeAlert System Continues Progress toward Public Use',
   'content' => 'A decade after beginning work on an earthquake early warning system, scientists and engineers are fine-tuning a U.S. West Coast prototype that could be in limited public use in 2018. (SSA article)',
