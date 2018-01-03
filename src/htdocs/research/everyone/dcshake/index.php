@@ -103,5 +103,5 @@ if (!isset($TEMPLATE)) {
   <li><a href="https://www.nps.gov/wamo/washington-monument-earthquake-update.htm">Washington Monument Damage and Updates</a></li>
   <li><a href="https://cathedral.org/earthquake/eq2/">https://cathedral.org/earthquake/eq2/</a></li>
   <li><a href="http://newsdesk.si.edu/releases/update-earthquake-damage-smithsonian">Smithsonian Damage</a></li>
-  <li>Pratt, T.L., Horton, J.W., Jr., Muñoz, J., Hough, S.E., and Chapman, M., 2017, Amplification of earthquake ground motions in Washington, DC, and implications for hazard assessments in the central and eastern North America, Geophysical Research Letters, in press. doi:10.1002/2017GL075517</li>
+  <li>Pratt, T.L., Horton, J.W., Jr., Muñoz, J., Hough, S.E., and Chapman, M., 2017, <a href="http://onlinelibrary.wiley.com/doi/10.1002/2017GL075517/full">Amplification of earthquake ground motions in Washington, DC, and implications for hazard assessments in the central and eastern North America</a>, Geophysical Research Letters, in press. doi:10.1002/2017GL075517</li>
 </ul>
