@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
   'id' => '2018-01-02',
+  'title' => 'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes',
+  'content' => 'New study shows that DC geologic conditions strongly affect earthquake shaking.',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/dcshake/',
+  'modified' => strtotime('2018-01-02'),
+  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/dcshake/images/wa-monument.jpg',
+  'image' => 'https://earthquake.usgs.gov/research/everyone/dcshake/images/wa-monument.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-01-02',
   'title' => 'USGS scientist Rob Wesson Receives the 2017 Edward A. Flinn III Award',
   'content' => 'Robert L. Wesson received the 2017 Edward A. Flinn III Award at the American Geophysical Union Fall Meeting Honors Ceremony. The award honors those who personify the Union motto of unselfish cooperation in research. (AGU article)',
   'link' => 'https://eos.org/agu-news/robert-l-wesson-receives-2017-edward-a-flinn-iii-award',
