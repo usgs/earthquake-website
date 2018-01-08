@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2017-12-18 19:44:55 +0000
+# Generation Time: 2018-01-08 22:30:07 +0000
 # ************************************************************
 
 
@@ -5278,7 +5278,7 @@ VALUES
 	(274,1,2,'Preliminary Earthquake Hazard Map of Afghanistan','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2007%2F1137%2F','(OFR-07-1137)'),
 	(276,8,36,'The ShakeOut Earthquake Scenario-A Story That Southern Californians Are Writing','http%3A%2F%2Fpubs.usgs.gov%2Fcirc%2F1324%2F','(Circular 1324)'),
 	(451,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for Earthquakes in Utah','https%3A%2F%2Fussc.utah.gov%2Fpages%2Fsearch.php%3Fsearch%3D%21collection17',''),
-	(447,1,3,'Seismicity of the Earth 1900-2007','http%3A%2F%2Fearthquake.usgs.gov%2Fearthquakes%2Fworld%2Fseismicity_maps%2Findex.php',''),
+	(447,1,3,'Seismicity of the Earth 1900-2007','/earthquakes/byregion/',''),
 	(448,4,10,'PAGER - Rapid Assessment of an Earthquake\'s Impact','https://pubs.er.usgs.gov/publication/fs20103036','(FS-2010-3036)'),
 	(449,2,6,'Bicentennial of the 1811-1812 New Madrid Earthquake Sequence December 2011-2012','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F118%2F','(GIP 118)'),
 	(450,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for Earthquakes in the Central United States','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F119%2F','(GIP 119)'),
