@@ -29,11 +29,55 @@ if (!isset($TEMPLATE)){
       together with new urgency to help prepare Bay Area communities for this
       certain future quake.</p>
   </li>
+
+  <li>
+    <a href="https://pubs.er.usgs.gov/publication/fs20163020">
+      <h3>Earthquake Outlook for the San Francisco Bay Region 2014&ndash;2043</h3>
+      <img src="images/outlook.jpg" alt="Fact Sheet cover"/>
+    </a>
+    <p>Using information from recent earthquakes, improved mapping of active faults,
+      and a new model for estimating earthquake probabilities, the 2014 Working
+      Group on California Earthquake Probabilities updated the 30-year earthquake
+      forecast for California. They concluded that there is a 72 percent probability
+      (or likelihood) of at least one earthquake of magnitude 6.7 or greater
+      striking somewhere in the San Francisco Bay region before 2043.</p>
+  </li>
 </ul>
 
 <h2> New Science and Products </h2>
 
 <ul class="no-style linklist">
+  <li>
+    <a href="/learn/topics/shakingsimulations/hayward/">
+      <h3>Hayward Fault Scenario Earthquake Animations</h3>
+      <img src="images/hayward.jpg" alt="Photo of the Hayward Fault"/>
+    </a>
+    <p>Computer simulations of earthquake shaking on the Hayward
+      and Rodgers Creek faults.</p>
+  </li>
+
+  <li>
+    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5072180/">
+      <h3>Missing Link Between the Hayward and Rodgers Creek Faults</h3>
+      <img src="images/link.jpg" alt="Map of faults in the Bay Area"/>
+    </a>
+    <p>The next major earthquake to strike the San Francisco Bay Area will most
+      likely result from rupture of the Hayward or Rodgers Creek faults. New
+      models show that these faults are directly connected at the surface, which
+      enables simultaneous rupture of the Hayward and Rodgers Creek faults, a
+      scenario that could result in a major earthquake.</p>
+  </li>
+
+  <li>
+    <a href="http://seismo.berkeley.edu/~burgmann/RESEARCH/research_Hayward_calaveras_EC.html">
+      <h3>Direct Connection Between the Hayward and Calaveras Faults Uncovered</h3>
+      <img src="images/hayward-calaveras.jpg" alt="map of hayward and calveras faults"/>
+    </a>
+    <p>A new model suggests the Hayward and Calaveras Faults should be treated
+      as a single system with the potential for generating larger earthquakes in
+      the San Francisco Bay Area.</p>
+  </li>
+
   <li>
     <a href="virtualtour/">
       <h3>Virtual Tour of the 1868 Hayward Earthquake in Google Earth&trade;</h3>
@@ -42,15 +86,6 @@ if (!isset($TEMPLATE)){
     <p>Interactive self-guided tour of San Francisco Bay Area faults and
       earthquake history featuring ground-shaking maps, historic photographs,
       quotes from earthquake survivors, and more.</p>
-  </li>
-
-  <li>
-    <a href="/learn/topics/shakingsimulations/hayward">
-      <h3>Hayward Fault Scenario Earthquake Animations</h3>
-      <img src="images/hayward.jpg" alt="Photo of the Hayward Fault"/>
-    </a>
-    <p>Computer simulations of large, anticipated earthquakes on the Hayward
-      and Rodgers Creek faults.</p>
   </li>
 
   <li>
@@ -68,8 +103,8 @@ if (!isset($TEMPLATE)){
       <h3>Three-Dimensional Geologic Map of the Hayward Fault Zone</h3>
       <img src="images/3dmap.gif" alt="Photo of the Three-Dimensional Geologic Map of the Hayward Fault Zone"/>
     </a>
-    <p>Modified Mercalli Intensity maps for the Hayward earthquake plotted in
-    ShakeMap format.</p>
+    <p>3D geologic map with descriptions of geologic units and structures, along with a discussion of the methods used
+      to map them.</p>
   </li>
 
   <li>
@@ -88,16 +123,6 @@ if (!isset($TEMPLATE)){
     </a>
     <p>Geophysical data along the Hayward Fault are used to investigate the
     nature, spatial relationship, and evolution of the Hayward Fault Zone. </p>
-  </li>
-
-  <li>
-    <a href="/data/3dgeologic/Hayward_geology05.pdf">
-      <h3>Three-dimensional Geologic Map of the Hayward Fault</h3>
-      <img src="images/3d.jpg" alt="Image of a Three-dimensional Geologic Map of the Hayward Fault"/>
-    </a>
-    <p>A recent paper on the Hayward Fault Model by Russell Graymer and others.
-    Correlation of rock units with variations in seismicity, creep rate, and
-    fault dip (15 MB pdf)</p>
   </li>
 
 </ul>
@@ -139,15 +164,6 @@ if (!isset($TEMPLATE)){
     Oakland) and to the 1998 Fremont Peak landslide.</p>
   </li>
 
-  <li>
-    <a href="http://geomaps.wr.usgs.gov/sfbay/hayward-ft.html">
-      <h3>Field Guide to the Hayward Fault, Downtown Hayward</h3>
-      <img src="images/curb.jpg" alt="Photo of a curb damaged by the Hayward Fault"/>
-    </a>
-    <p>Explore the Hayward Fault in Hayward using this online field guide
-    prepared for the 2000 U.S. Geological Survey Open House.</p>
-  </li>
-
 </ul>
 
 <h2> See also </h2>
@@ -164,7 +180,7 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="http://bssa.geoscienceworld.org/HaywardConf">
+    <a href="https://pubs.geoscienceworld.org/bssa/pages/hayward">
       <h3>Hayward Fault and 1868 Earthquake Special Collection</h3>
       <img src="images/bssa-cover.gif" alt="BSSA Cover"/>
     </a>
@@ -174,19 +190,17 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="http://1868alliance.org/">
-      <h3>1868 Hayward Earthquake Alliance</h3>
-      <img src="images/1868.gif" alt="Photo of the 1868 Hayward Earthquake Alliance logo"/>
+    <a href="https://pubs.usgs.gov/of/2004/1083/explanation.html">
+      <h3>Earthquakes From 1984&ndash;2000 Along the Hayward and Calaveras Faults, California</h3>
+      <img src="images/relocated-quakes.png" alt="location map"/>
     </a>
-    <p>This web site was created to help coordinate and promote efforts and
-    activities between organizations throughout the greater San Francisco Bay
-    Area planning to commemorate the earthquake.</p>
+    <p>Cross-Sections and Maps Showing Double-Difference Relocated Earthquakes.</p>
   </li>
 
   <li>
     <a href="http://seismo.berkeley.edu/~burgmann/RESEARCH/research_HF.html">
       <h3>The Accumulation of Interseismic Strain Along the Hayward Fault</h3>
-      <img src="images/insar.jpg" alt="insar image of the Hayward Fault">
+      <img src="images/insar.jpg" alt="InSAR image of the Hayward Fault"/>
     </a>
     <p>Interseismic surface deformation along the Hayward Fault monitored with
     Interferometric Synthetic Aperture Radar (InSAR) and the Global
@@ -194,18 +208,22 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="http://seismo.berkeley.edu/faq/1868_0.html">
-      <h3>Berkeley Seismological Laboratory</h3>
+    <a href="Lawson-1868-Chapter-1908.pdf">
+      <h3>Chapter on the 1868 Earthquake in the Lawson Report on the 1906 Earthquake</h3>
+      <img src="images/lawson.png" alt="Lawson report"/>
     </a>
-    <p>More information about the earthquake, including location parameters,
-    maps, photos, and seismograms.</p>
+    <p>Detailed account of the 1868 earthquake and aftermath by Andrew Lawson,
+      including damage photos.</p>
   </li>
 
   <li>
-    <a href="http://pubs.usgs.gov/of/1996/0705/of96-705.pdf">
-      <h3>Hayward Fault Subsystem</h3>
+    <a href="http://1868alliance.org/">
+      <h3>1868 Hayward Earthquake Alliance</h3>
+      <img src="images/1868.gif" alt="1868 Hayward Earthquake Alliance logo"/>
     </a>
-    <p>More information about the Hayward fault subsystem and other Bay Area faults.</p>
+    <p>This web site was created in 2008 to help coordinate and promote efforts
+      and activities between organizations throughout the greater San Francisco
+      Bay Area planning to commemorate the 140th anniversary of the earthquake.</p>
   </li>
 
 </ul>
