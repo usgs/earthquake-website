@@ -8,6 +8,10 @@
       }
 ?>
 
+<div class='alert warning'>
+  Some of the BINARY data have incorrect boundary box coordinates in the Header Info. We suggest you obtain 2007 Alaska hazards data from the new <a href="/hazards/interactive/">Unified Hazards Tool</a>.
+</div>
+
 <p>
 	Data files are presented in two formats, text and binary. Both formats for
 	a given file contain the same information. The text file is white-space
