@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Workshop Registration';
+  $TITLE = '2018 NSHM Update Workshop Registration';
   $HEAD = '<link rel="stylesheet" href="index.css" />';
   $FOOT = '<script src="index.js"></script>';
 
@@ -88,11 +88,11 @@ if (isSet($_POST['submit'])) { // user submitted form
 
 ?>
 
-<h2>January 30&ndash;31, 2018</h2>
+<h2>When: March 7&ndash;8, 2018, 9:00am&ndash;4:30pm</h2>
+<h2>Where: RMS Headquarters (7575 Gateway Blvd., Newark, CA 94560)</h2>
 
 <p>
-  <a href="/contactus/menlo/menloloc.php">USGS Menlo Park Campus</a><br />
-  Rambo Auditorium (Building 3 Conference Room)
+  Registration will close on Friday, March 2<sup>nd</sup>, 2018, or when 145 people have registered to attend the workshop in-person, whichever comes first.
 </p>
 
 <?php
@@ -105,9 +105,6 @@ if (isSet($_POST['submit'])) { // user submitted form
 <div class="row">
 
   <div class="three-of-five column">
-
-    <h3>Agenda</h3>
-    <p><a href="">Agenda</a> (Adobe .pdf file)</p>
 
     <?php
       if ($posting) {
@@ -202,19 +199,12 @@ if (isSet($_POST['submit'])) { // user submitted form
     <?php } ?>
   </div>
 
+
+<!-- *****************Information Links in right column******************* -->
+
   <div class="two-of-five column">
-    <h3>USGS Menlo Park Campus Map</h3>
-    <figure>
-      <img src="usgs-map.gif" alt="USGS Campus Map" />
-    </figure>
-    <p>
-      <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=345+Middlefield+Rd,+Menlo+Park,+CA+94025&sll=37.0625,-95.677068&sspn=71.686451,83.320312&ie=UTF8&hq=&hnear=345+Middlefield+Rd,+Menlo+Park,+San+Mateo,+California+94025&ll=37.452785,-122.167282&spn=0.118559,0.119133&z=13">Driving
-      Directions</a> (Google Maps)
-    </p>
-    <h3>Public Transport</h3>
-    <ul>
-      <li><a href="http://www.caltrain.com/">Caltrain</a></li>
-    </ul>
+    <h3><a href="/hazards/workshops/update2018/">Workshop Information and Lodging</a></h3>
+
   </div>
 
 </div>
