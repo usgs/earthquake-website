@@ -77,10 +77,10 @@ if (isSet($_POST['submit'])) { // user submitted form
     </ul>';
 
   // Email alert
-  $admin = 'lisa@usgs.gov';
+  $admin = 'ashumway@usgs.gov';
   $headers = "MIME-Version: 1.0" . "\r\n";
   $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-  $headers .= "From: lisa@usgs.gov";
+  $headers .= "From: ashumway@usgs.gov";
   $name = htmlentities(stripslashes($fields['fname'])) . ' ' .
     htmlentities(stripslashes($fields['lname']));
   mail($admin, "Workshop form submitted: $name", $return_html, $headers);
@@ -92,7 +92,7 @@ if (isSet($_POST['submit'])) { // user submitted form
 <h2>Where: RMS Headquarters (7575 Gateway Blvd., Newark, CA 94560)</h2>
 
 <p>
-  Registration will close on Friday, March 2<sup>nd</sup>, 2018, or when 145 people have registered to attend the workshop in-person, whichever comes first.
+  Registration for in-person attendance will close on Friday, March 2<sup>nd</sup>, 2018, or when 145 people have registered, whichever comes first.
 </p>
 
 <?php
