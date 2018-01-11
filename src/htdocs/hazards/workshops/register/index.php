@@ -92,7 +92,7 @@ if (isSet($_POST['submit'])) { // user submitted form
 <h2>Where: RMS Headquarters (7575 Gateway Blvd., Newark, CA 94560)</h2>
 
 <p>
-  Registration will close on Friday, March 2<sup>nd</sup>, 2018, or when 145 people have registered to attend the workshop in-person, whichever comes first.
+  Registration for in-person attendance will close on Friday, March 2<sup>nd</sup>, 2018, or when 145 people have registered, whichever comes first.
 </p>
 
 <?php
