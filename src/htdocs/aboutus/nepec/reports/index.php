@@ -12,7 +12,7 @@
 
   <li>
     <h4>November 2017</h4>
-    <a href="NEPEC_Report_november2017.pdf">Recommendations from NEPEC on operational earthquake forecasting and communication of forecast information in Cascadia</a>
+    <a href="NEPEC_Report_November2017.pdf">Recommendations from NEPEC on operational earthquake forecasting and communication of forecast information in Cascadia</a>
   </li>
 
   <li>
