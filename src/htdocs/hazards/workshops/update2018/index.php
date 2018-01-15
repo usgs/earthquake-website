@@ -11,10 +11,10 @@
 <p>
   <strong>What:</strong> USGS 2018 NSHM Update Workshop<br/>
   <strong>When:</strong> March 7-8th, 2018, 9:00 am – 4:30 pm<br/>
-  <strong>Where:</strong> RMS Headquarters (7575 Gateway Blvd., Newark, CA 94560)<br/>
-  <a href="https://www.google.com/maps/place/7575+Gateway+Blvd,+Newark,+CA+94560/@37.5424901,-122.0719512,13z/data=!4m5!3m4!1s0x808fbe60e8f8212d:0xcc427adaf6f7e4eb!8m2!3d37.5403123!4d-122.0640977">Location</a> (Google Maps)<br/>
+  <strong>Where:</strong> RMS Headquarters - Amenities Building (7677 Gateway Blvd., Newark, CA 94560)<br/>
+  <a href="https://www.google.com/maps/place/7677+Gateway+Blvd,+Newark,+CA+94560/@37.5424901,-122.0719512,13z/data=!4m5!3m4!1s0x808fbe60e8f8212d:0xcc427adaf6f7e4eb!8m2!3d37.5403123!4d-122.0640977">Location</a> (Google Maps)<br/>
+  <a href="parking.php">Parking Information and Map</a>
 </p>
-<!-- Parking -->
 
 <h2>Workshop Summary</h2>
 <p>
@@ -24,7 +24,7 @@
   The first day of the workshop will focus on updates to the central and eastern U.S. (CEUS), which focuses on updates to the CEUS ground motion models (GMMs) (i.e., implementation of the NGA-East GMMs). The second day of the workshop will focus on the western U.S. (WUS) and our plan to incorporate basin effects into the NSHM. We will also discuss the update of the smooth seismicity model. The NSHMP invites the scientific community and other interested individuals to attend this workshop to hear about our plans for the 2018 update to the NSHM, discuss the model, and provide valuable feedback to the NSHMP.
 </p>
 
-<!-- Draft Agenda -->
+<p><a href="2018NSHM-Update-Workshop-Agenda.pdf">Draft Agenda</a></p> (PDF)
 
 <h2>Registration Information</h2>
 <p>
