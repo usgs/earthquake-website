@@ -81,7 +81,7 @@
 <h4>Puerto Rico / U.S. Virgin Islands</h4>
 <p>
   Puerto Rico and the U.S. Virgin Islands are more susceptible than other locations in the eastern U.S., because of a subduction zone that lies beneath the Caribbean Sea, capable of generating large earthquakes. Tsunamis have impacted Puerto Rico and the Virgin Islands more than 6 times in recorded history. The web site of the <a href="http://poseidon.uprm.edu/">Puerto Rico Tsunami Warning and Mitigation Program</a> also asks whether a tsunami similar to the one in the Indian Ocean could hit the Caribbean region. An event in <a
-  href="http://www.usc.edu/dept/tsunamis/caribbean/webpages/1867viindex.html">1867</a> off the Virgin Islands is thought to have generated waves 12 meters high. The tsunami with the greatest amount of damage in Puerto Rico was in <a
+  href="http://cwis.usc.edu/dept/tsunamis/caribbean/webpages/1867viindex.html">1867</a> off the Virgin Islands is thought to have generated waves 12 meters high. The tsunami with the greatest amount of damage in Puerto Rico was in <a
   href="http://www.usc.edu/dept/tsunamis/caribbean/webpages/1918prindex.html">1918</a> from an earthquake off the Mona Passage. With a maximum runup of 6 meters, the tsunami itself killed 40 people with an additional 76 people killed by the earthquake. The Caribbean region as a whole has a <a
   href="http://isis.uwimona.edu.jm/uds/Tsunami_Lander.html">history</a> of other earthquakes that have caused damaging tsunamis.
 </p>
