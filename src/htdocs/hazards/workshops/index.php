@@ -12,6 +12,14 @@
   Please read the <a href="#disclaimer">disclaimer</a> at the bottom of the page about the content of these presentations.
 </p>
 
+<h2>Workshops for the 2018 National Hazard Maps</h2>
+
+<ul>
+  <li>
+    <a href="update2018">2018 NSHM Update Workshop Information and Registration</a> - March 7-8th, 2018
+  </li>
+
+
 <h2>Workshops for the 2014 National Hazard Maps</h2>
 
 <ul>
