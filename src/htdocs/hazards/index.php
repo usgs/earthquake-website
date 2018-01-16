@@ -8,10 +8,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <div class="alert info">
-  <h3><a href="induced/">2017 Short-term Induced Seismicity Model</a></h3>
-  <p>
-    USGS has produced a one-year 2017 seismic hazard forecast for the central and eastern United States from induced and natural earthquakes that updates the 2016 one-year forecast.
-  </p>
+  <h3><a href="workshops/register/">2018 NSHM Update Workshop Information and Registration</a></h3>
 </div>
 
 <div class="alert info">
