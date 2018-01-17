@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-01-08 22:30:07 +0000
+# Generation Time: 2018-01-17 21:41:32 +0000
 # ************************************************************
 
 
@@ -726,7 +726,8 @@ VALUES
 	(836,'2013-04-16','<a href=\"/earthquakes/eventpage/usb000g7x7\">Khash, Iran</a>','Iran','7.7','The most powerful earthquake to strike Iran in 40 years occurred in 2013.\nAt least 40 people killed, 300 injured, 35,000 homeless, 1,000 houses damaged and utilities disrupted in the Mashkel area, Pakistan. Unconfirmed reports of about 27 people injured in southeastern Iran. At least 34 people killed and 80 people injured in Pakistan. Widely felt in Afghanistan, Bahrain, India, Iran, Kuwait, Oman, Pakistan, Qatar, Saudi Arabia and United Arab Emirates.',2013,4,16,NULL),
 	(837,'2014-04-01','<a href=\"/earthquakes/eventpage/usc000nzvd\">Near Iquique, Chile</a>','Chile','8.2','Five people died, landslides were triggered, and tsunami 7 feet high was generated locally.',2014,4,1,5),
 	(838,'2016-09-03','<a href=\"/earthquakes/eventpage/us10006jxs\">Pawnee, Oklahoma</a>','United States:Oklahoma','5.8','This is the largest earthquake up to this time in Oklahoma, and it was an induced event from waste-water injection following fracking operations.',2016,9,3,NULL),
-	(839,'2016-11-13','<a href=\"/earthquakes/eventpage/us1000778i\">Near Christchurch, New Zealand</a>','New Zealand','7.8','This earthquake was actually a sequence of at least 7 different earthquakes that ruptured in sequence on 7 different faults.  Surface rupture was observed in many differnt areas, and parts of the coast were uplifted, revealing the ocean bottom.  The shaking produced many landslides on the steep slopes.',2016,11,13,NULL);
+	(839,'2016-11-13','<a href=\"/earthquakes/eventpage/us1000778i\">Near Christchurch, New Zealand</a>','New Zealand','7.8','This earthquake was actually a sequence of at least 7 different earthquakes that ruptured in sequence on 7 different faults.  Surface rupture was observed in many differnt areas, and parts of the coast were uplifted, revealing the ocean bottom.  The shaking produced many landslides on the steep slopes.',2016,11,13,NULL),
+	(844,'2017-09-08','<a href=\"/earthquakes/eventpage/us2000ahv0\">Tres Picos, Mexico</a>','Mexico','8.2','This M 8.2 earthquake offshore of Chiapas, Mexico, occurred as the result of normal faulting at an intermediate depth. Focal mechanism solutions for the earthquake indicate slip occurred on either a fault dipping very shallowly towards the southwest, or on steeply dipping fault striking NW-SE. At the location of this event, the Cocos plate converges with North America at a rate of approximately 76 mm/yr, in a northeast direction. The Cocos plate begins its subduction beneath Central America at the Middle America Trench, just over 100 km to the southwest of this earthquake. The location, depth, and normal-faulting mechanism of this earthquake indicate that it is likely an intraplate event, within the subducting Cocos slab, rather than on the shallower megathrust plate boundary interface.  Although the earthquake was offshore, it was widely felt throughout the area on the continent.',2017,9,8,NULL);
 
 /*!40000 ALTER TABLE `eq_history` ENABLE KEYS */;
 UNLOCK TABLES;

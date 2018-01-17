@@ -34,7 +34,7 @@
           <img src="images/station.jpg" alt="ANSS map" height="75px" width="75px"/>
         </a>
         <p>
-          Station information and operation status.
+          Basic station information and operation status. For technical station information, see the <a href="https://wiki.anss-sis.scsn.org/SIStrac">ANSS Station Information System (SIS)</a>.
         </p>
       </li>
       <li>
