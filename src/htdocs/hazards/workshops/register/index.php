@@ -89,7 +89,7 @@ if (isSet($_POST['submit'])) { // user submitted form
 ?>
 
 <h2>When: March 7&ndash;8, 2018, 9:00am&ndash;4:30pm</h2>
-<h2>Where: RMS Headquarters (7575 Gateway Blvd., Newark, CA 94560)</h2>
+<h2>Where: RMS Headquarters - Amenities Building (7677 Gateway Blvd., Newark, CA 94560)</h2>
 
 <p>
   Registration for in-person attendance will close on Friday, March 2<sup>nd</sup>, 2018, or when 145 people have registered, whichever comes first.

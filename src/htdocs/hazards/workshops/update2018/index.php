@@ -12,7 +12,7 @@
   <strong>What:</strong> USGS 2018 NSHM Update Workshop<br/>
   <strong>When:</strong> March 7-8th, 2018, 9:00 am – 4:30 pm<br/>
   <strong>Where:</strong> RMS Headquarters - Amenities Building (7677 Gateway Blvd., Newark, CA 94560)<br/>
-  <a href="https://www.google.com/maps/place/7677+Gateway+Blvd,+Newark,+CA+94560/@37.5424901,-122.0719512,13z/data=!4m5!3m4!1s0x808fbe60e8f8212d:0xcc427adaf6f7e4eb!8m2!3d37.5403123!4d-122.0640977">Location</a> (Google Maps)<br/>
+  <a href="https://www.google.com/maps/place/7677+Gateway+Blvd,+Newark,+CA+94560/@37.5400645,-122.0656264,14z/data=!4m5!3m4!1s0x808fbe60e6dbf429:0xca5b533ab333e51b!8m2!3d37.5400645!4d-122.0634377">Location</a> (Google Maps)<br/>
   <a href="parking.php">Parking Information and Map</a>
 </p>
 
