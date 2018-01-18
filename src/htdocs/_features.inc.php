@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-01-18',
+  'title' => 'USGS Scientist Mobilizes with Recon Team to Learn from Mexico&apos;s Earthquake Early Warning System',
+  'content' => 'USGS seismologist Elizabeth Cochran studied the performance of Mexico City&CloseCurlyQuote;s earthquake early warning system, during devastating Sept. 19, 2017 event.',
+  'link' => 'https://www.usgs.gov/news/usgs-scientist-mobilizes-recon-team-learn-mexicos-earthquake-early-warning-system',
+  'modified' => strtotime('2018-01-18'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/CIRESroom.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/CIRESroom.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-01-02',
   'title' => 'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes',
   'content' => 'New study shows that DC geologic conditions strongly affect earthquake shaking.',
