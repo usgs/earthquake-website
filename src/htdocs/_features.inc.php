@@ -12,6 +12,26 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-01-24',
+  'title' => 'ShakeAlert: The Path to West Coast Earthquake Early Warning',
+  'content' => 'News reporters are invited to attend an illustrated public lecture to learn how U.S. Geological Survey scientists and partners are developing ShakeAlert. Public lecture to follow',
+  'link' => 'https://www.usgs.gov/news/shakealert-path-west-coast-earthquake-early-warning-how-a-few-seconds-can-save-lives-and',
+  'modified' => strtotime('2018-01-24'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/shakealertphone.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/shakealertphone.png'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-01-24',
+  'title' => 'Rates of Large Earthquakes Not Affected By Moon Phases, Day of Year',
+  'content' => 'There is an enduring myth that large earthquakes tend to happen during certain phases of the Moon or at certain times during the year. A new analysis confirms that this bit of earthquake lore is incorrect. (SRL News)',
+  'link' => 'https://www.seismosoc.org/journals/rates-large-earthquakes-not-affected-moon-phases-day-year/',
+  'modified' => strtotime('2018-01-24'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/mooneq.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/mooneq.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-01-18',
   'title' => 'USGS Scientist Mobilizes with Recon Team to Learn from Mexico&apos;s Earthquake Early Warning System',
   'content' => 'USGS seismologist Elizabeth Cochran studied the performance of Mexico City&CloseCurlyQuote;s earthquake early warning system, during devastating Sept. 19, 2017 event.',
