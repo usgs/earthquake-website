@@ -1,6 +1,6 @@
 <?php
   // Author: Lisa Wald
-  // Contact:
+  // Contact: Peter Powers
   if (!isset($TEMPLATE)) {
     $TITLE = '2002 U.S. Hazard Data';
     $NAVIGATION = true;
@@ -41,24 +41,6 @@
           ]</td>
         </tr>
         <tr>
-          <td class="type">Ground Motion</td>
-          <td class="sa">Peak Ground Acceleration</td>
-          <td class="pe">10&#37; in 50 Years</td>
-          <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.pga.10pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.pga.10pc50.bin.gz" title="2 Mb">BINARY</a>
-          ]</td>
-        </tr>
-        <tr>
-          <td class="type">Ground Motion</td>
-          <td class="sa">Peak Ground Acceleration</td>
-          <td class="pe">2&#37; in 50 Years</td>
-          <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.pga.2pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.pga.2pc50.bin.gz" title="2 Mb">BINARY</a>
-          ]</td>
-        </tr>
-        <tr>
           <td class="type">Hazard Curves</td>
           <td class="sa">0.1 Second (10Hz)</td>
           <td class="pe">Not Applicable</td>
@@ -74,24 +56,6 @@
           <td class="downloads">[
             <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.txt.gz" title="7 Mb">TEXT</a> |
             <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.bin.gz" title="15 Mb">BINARY</a>
-          ]</td>
-        </tr>
-        <tr>
-          <td class="type">Ground Motion</td>
-          <td class="sa">0.2 Second (5Hz)</td>
-          <td class="pe">10&#37; in 50 Years</td>
-          <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.10pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.10pc50.bin.gz" title="2 Mb">BINARY</a>
-          ]</td>
-        </tr>
-        <tr>
-          <td class="type">Ground Motion</td>
-          <td class="sa">0.2 Second (5Hz)</td>
-          <td class="pe">2&#37; in 50 Years</td>
-          <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.2pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.0p20.2pc50.bin.gz" title="2 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
@@ -119,24 +83,6 @@
           <td class="downloads">[
             <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.txt.gz" title="8 Mb">TEXT</a> |
             <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.bin.gz" title="17 Mb">BINARY</a>
-          ]</td>
-        </tr>
-        <tr>
-          <td class="type">Ground Motion</td>
-          <td class="sa">1.0 Second (1Hz)</td>
-          <td class="pe">10&#37; in 50 Years</td>
-          <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.10pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.10pc50.bin.gz" title="2 Mb">BINARY</a>
-          ]</td>
-        </tr>
-        <tr>
-          <td class="type">Ground Motion</td>
-          <td class="sa">1.0 Second (1Hz)</td>
-          <td class="pe">2&#37; in 50 Years</td>
-          <td class="downloads">[
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.2pc50.txt.gz" title="3 Mb">TEXT</a> |
-            <a href="<?php echo $ftp; ?>/downloads/2002.US.1p00.2pc50.bin.gz" title="2 Mb">BINARY</a>
           ]</td>
         </tr>
         <tr>
