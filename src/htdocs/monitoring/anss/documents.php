@@ -9,9 +9,9 @@
 ?>
 <h3>Fact Sheets</h3>
 <ul>
-	<li><a href="https://pubs.usgs.gov/fs/2014/3083/">ShakeAlert&ndash;An Earthquake Early Warning System for the United States West Coast</a> (FS-2014-3083)</li>
+	<li><a href="https://pubs.usgs.gov/fs/2014/3083/">ShakeAlert&trade;&ndash;An Earthquake Early Warning System for the United States West Coast</a> (FS-2014-3083)</li>
 	<li>
-		<a href="https://pubs.usgs.gov/of/2014/1097/pdf/ofr2014-1097.pdf">Technical Implementation Plan for the ShakeAlert Production System&ndash;An Earthquake Early Warning
+		<a href="https://pubs.usgs.gov/of/2014/1097/pdf/ofr2014-1097.pdf">Technical Implementation Plan for the ShakeAlert&trade; Production System&ndash;An Earthquake Early Warning
 			System for the West Coast of the United States</a> (OFR-2014-1097)
 		</li>
 	<li><a href="https://pubs.usgs.gov/fs/2000/fs075-00/" target="_blank">ANSS&ndash;Advanced National Seismic System</a> (FS-075-00)</li>

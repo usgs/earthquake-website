@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Elizabeth Cochran
-  // Last modified: Lisa Wald, 2016/08/10
   if (!isset($TEMPLATE)) {
     $TITLE = 'Earthquake Early Warning';
     $NAVIGATION = true;
@@ -22,17 +21,17 @@
 <figure class='right'>
 <img src="images/shakealert.JPG" alt="ShakeAlert System Map" class="align-right"/>
 </figure>
-<!--!><p class="caption">Screenshot from the ShakeAlert system currently being used by a small set of test users. The software program receives alerts from the EEW system and displays the time and estimated shaking level at your location.</p><-->
+<!--!><p class="caption">Screenshot from the ShakeAlert&trade; system currently being used by a small set of test users. The software program receives alerts from the EEW system and displays the time and estimated shaking level at your location.</p><-->
 
 <h2>Testing the current system</h2>
 
 <p>
-  As part of the collaboration with our university partners, the USGS is currently working with a group of trusted partners to determine real-world performance of ShakeAlert, the prototype notification system that delivers the earthquake warnings, as well as document feedback for research and development by identifying the following:
+  As part of the collaboration with our university partners, the USGS is currently working with a group of trusted partners to determine real-world performance of ShakeAlert&trade;, the prototype notification system that delivers the earthquake warnings, as well as document feedback for research and development by identifying the following:
 <ul>
   <li>Industry-by-industry assessment of uses for early warning</li>
   <li>Cost-benefit analyses in the context of shaking risk</li>
   <li>Potential limitations of system</li>
-  <li>Cost to the business or individual to implement ShakeAlert</li>
+  <li>Cost to the business or individual to implement ShakeAlert&trade;</li>
 </ul>
 </p>
 
@@ -40,13 +39,13 @@
   Beta Test User Group participants in Northern and Southern California have been selected using following criteria:
 <ul>
   <li>
-    User group must be pre-identified organizations that will be key users of early warning and able to provide the time, manpower and equipment necessary to perform the necessary tests of ShakeAlert and provide quality feedback regarding the operation, usage and delivery mechanism of the system. Beta Test Users need to utilize ShakeAlert in their daily operations.
+    User group must be pre-identified organizations that will be key users of early warning and able to provide the time, manpower and equipment necessary to perform the necessary tests of ShakeAlert&trade; and provide quality feedback regarding the operation, usage and delivery mechanism of the system. Beta Test Users need to utilize ShakeAlert&trade; in their daily operations.
   </li><br />
   <li>
-    Identify key personnel within the organization to approve and facilitate a plan to activate ShakeAlert and provide feedback from their team of users.
+    Identify key personnel within the organization to approve and facilitate a plan to activate ShakeAlert&trade; and provide feedback from their team of users.
   </li><br />
   <li>
-    Test user must understand that the ShakeAlert system is under development and that there are limitations of the current system (robustness, networks coverage) and uncertainties in earthquake parameters and reporting (false positives and negatives).
+    Test user must understand that the ShakeAlert&trade; system is under development and that there are limitations of the current system (robustness, networks coverage) and uncertainties in earthquake parameters and reporting (false positives and negatives).
   </li><br />
 </ul>
 </p>
