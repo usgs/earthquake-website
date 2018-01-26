@@ -14,7 +14,7 @@
 <figure class='right'>
 	<img src="images/shakealert_top.jpg" alt="ShakeAlert"/>
 	<figcaption>
-    A user of ShakeAlert receives a message like this on the screen of his computer. The message alerts the user to how many seconds before the shaking waves arrive at their location and the expected intensity of shaking at that site. The shaking intensity follows the Modified Mercalli scale; an intensity of VI, as shown here, would mean the shaking is felt by everyone, people find it difficult to stand, and structures may suffer some damage. The warning message also displays a map with the location of the epicenter, the magnitude of the quake, and the current position of the P and S waves. In this example, the alert is for the <a href="https://pubs.usgs.gov/circ/1324/">ShakeOut scenario earthquake</a>.
+    A user of ShakeAlert&trade; receives a message like this on the screen of his computer. The message alerts the user to how many seconds before the shaking waves arrive at their location and the expected intensity of shaking at that site. The shaking intensity follows the Modified Mercalli scale; an intensity of VI, as shown here, would mean the shaking is felt by everyone, people find it difficult to stand, and structures may suffer some damage. The warning message also displays a map with the location of the epicenter, the magnitude of the quake, and the current position of the P and S waves. In this example, the alert is for the <a href="https://pubs.usgs.gov/circ/1324/">ShakeOut scenario earthquake</a>.
   </figcaption>
 </figure>
 
@@ -37,39 +37,39 @@
 </p>
 
 <p>
-  A demonstration EEW system called <a href="http://www.shakealert.org">ShakeAlert</a> began sending test notifications to selected users in California in January 2012.  The system detects earthquakes using the <a href="http://www.cisn.org">California Integrated Seismic Network (CISN)</a>,an existing network of about 400 high-quality ground motion sensors. CISN is a partnership between the USGS, State of California, Caltech, and University of California, Berkeley, and is one of seven regional networks that make up the <a href="https://earthquake.usgs.gov/monitoring/anss/">Advanced National Seismic System (ANSS)</a>.
+  A demonstration EEW system called <a href="http://www.shakealert.org">ShakeAlert&trade;</a> began sending test notifications to selected users in California in January 2012.  The system detects earthquakes using the <a href="http://www.cisn.org">California Integrated Seismic Network (CISN)</a>,an existing network of about 400 high-quality ground motion sensors. CISN is a partnership between the USGS, State of California, Caltech, and University of California, Berkeley, and is one of seven regional networks that make up the <a href="https://earthquake.usgs.gov/monitoring/anss/">Advanced National Seismic System (ANSS)</a>.
 </p>
 
 <p>
-  In February of 2016 the USGS, along with its partners, rolled-out the next-generation ShakeAlert early warning test system in California. This “production prototype” has been designed for redundant, reliable operations. The system includes geographically distributed servers, and allows for automatic fail-over if connection is lost. This next-generation system will not yet support public warnings but will allow selected early adopters to develop and deploy pilot implementations that take protective actions triggered by the ShakeAlert warnings in areas with sufficient coverage. The USGS has published an <a href="https://pubs.usgs.gov/of/2014/1097/">Implementation Plan</a> with the steps needed to complete the system and begin issuing public alerts.
+  In February of 2016 the USGS, along with its partners, rolled-out the next-generation ShakeAlert&trade; early warning test system in California. This “production prototype” has been designed for redundant, reliable operations. The system includes geographically distributed servers, and allows for automatic fail-over if connection is lost. This next-generation system will not yet support public warnings but will allow selected early adopters to develop and deploy pilot implementations that take protective actions triggered by the ShakeAlert&trade; warnings in areas with sufficient coverage. The USGS has published an <a href="https://pubs.usgs.gov/of/2014/1097/">Implementation Plan</a> with the steps needed to complete the system and begin issuing public alerts.
 </p>
 
 <figure>
 	<img src="images/eewbasics.gif" alt="Early Warning Basics"/>
 	<figcaption>
-    Earthquake early warning systems like ShakeAlert work because the warning message can be transmitted almost instantaneously, whereas the shaking waves from the earthquake travel through the shallow layers of the Earth at speeds of one to a few kilometers per second (0.5 to 3 miles per second). This diagram shows how such a system would operate. When an earthquake occurs, both compressional (P) waves and transverse (S) waves radiate outward from the epicenter. The P wave, which travels fastest, trips sensors placed in the landscape, causing alert signals to be sent ahead, giving people and automated electronic systems some time (seconds to minutes) to take precautionary actions before damage can begin with the arrival of the slower but stronger S waves and later-arriving surface waves. Computers and mobile phones receiving the alert message calculate the expected arrival time and intensity of shaking at your location. USGS image created by Erin Burkett (USGS) and Jeff Goertzen (Orange County Register).
+    Earthquake early warning systems like ShakeAlert&trade; work because the warning message can be transmitted almost instantaneously, whereas the shaking waves from the earthquake travel through the shallow layers of the Earth at speeds of one to a few kilometers per second (0.5 to 3 miles per second). This diagram shows how such a system would operate. When an earthquake occurs, both compressional (P) waves and transverse (S) waves radiate outward from the epicenter. The P wave, which travels fastest, trips sensors placed in the landscape, causing alert signals to be sent ahead, giving people and automated electronic systems some time (seconds to minutes) to take precautionary actions before damage can begin with the arrival of the slower but stronger S waves and later-arriving surface waves. Computers and mobile phones receiving the alert message calculate the expected arrival time and intensity of shaking at your location. USGS image created by Erin Burkett (USGS) and Jeff Goertzen (Orange County Register).
   </figcaption>
 </figure>
 
 <h2>See also:</h2>
 <ul>
-	<li>USGS Fact Sheet on Early Warning and ShakeAlert<br/>
-	<a href="https://pubs.usgs.gov/fs/2014/3083/">ShakeAlert—An Earthquake Early Warning System for the United States West Coast</a>
+	<li>USGS Fact Sheet on Early Warning and ShakeAlert&trade;<br/>
+	<a href="https://pubs.usgs.gov/fs/2014/3083/">ShakeAlert&trade;—An Earthquake Early Warning System for the United States West Coast</a>
 	</li>
 
   <li>
-    <a href="http://www.shakealert.org/">ShakeAlert wbsite</a>
+    <a href="http://www.shakealert.org/">ShakeAlert&trade; wbsite</a>
   </li>
 
-  <li>Video - ShakeAlert&mdash;Earthquake Early Warning. How Does It Work?<br/>
+  <li>Video - ShakeAlert&trade;&mdash;Earthquake Early Warning. How Does It Work?<br/>
   <a href="https://youtu.be/WWl3m4OyU44">English</a> | <a href="https://youtu.be/i1t_u6pz9ik">Spanish</a>
   </li>
 
-	<li><a href="https://www.youtube.com/watch?v=qKJ0MBfIdus">Video example of the ShakeAlert display on a test user’s computer</a><br/>
+	<li><a href="https://www.youtube.com/watch?v=qKJ0MBfIdus">Video example of the ShakeAlert&trade; display on a test user’s computer</a><br/>
 	</li>
 </ul>
 
 <h2>Contact</h2>
 <ul>
-  <li><a href="mailto:rdegroot@usgs.gov">Robert de Groot</a> - ShakeAlert Coordinator for Communication, Education, and Outreach</li>
+  <li><a href="mailto:rdegroot@usgs.gov">Robert de Groot</a> - ShakeAlert&trade; Coordinator for Communication, Education, and Outreach</li>
 </ul>

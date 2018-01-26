@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Elizabeth Cochran
-  // Last modified: Lisa Wald, 2016/08/10
   if (!isset($TEMPLATE)) {
     $TITLE = 'Earthquake Early Warning';
     $NAVIGATION = true;
@@ -58,7 +57,7 @@
               alt="icon"  width="75"/>
         </a>
         <p>
-          A demonstration EEW system called <a href="http://www.shakealert.org/">ShakeAlert</a> began sending test notifications to selected users in California in January 2012.
+          A demonstration EEW system called <a href="http://www.shakealert.org/">ShakeAlert&trade;</a> began sending test notifications to selected users in California in January 2012.
         </p>
       </li>
     </ul>

@@ -13,8 +13,8 @@ $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
   'id' => '2018-01-24',
-  'title' => 'ShakeAlert: The Path to West Coast Earthquake Early Warning',
-  'content' => 'News reporters are invited to attend an illustrated public lecture to learn how U.S. Geological Survey scientists and partners are developing ShakeAlert. Public lecture to follow',
+  'title' => 'ShakeAlert&trade;: The Path to West Coast Earthquake Early Warning',
+  'content' => 'News reporters are invited to attend an illustrated public lecture to learn how U.S. Geological Survey scientists and partners are developing ShakeAlert&trade;. Public lecture to follow',
   'link' => 'https://www.usgs.gov/news/shakealert-path-west-coast-earthquake-early-warning-how-a-few-seconds-can-save-lives-and',
   'modified' => strtotime('2018-01-24'),
   'thumbnail' => 'https://earthquake.usgs.gov/images-featured/shakealertphone.png',
@@ -63,7 +63,7 @@ $EQ_FEATURES->items[] = array(
 
 $EQ_FEATURES->items[] = array(
   'id' => '2017-12-07',
-  'title' => 'ShakeAlert System Continues Progress toward Public Use',
+  'title' => 'ShakeAlert&trade; System Continues Progress toward Public Use',
   'content' => 'A decade after beginning work on an earthquake early warning system, scientists and engineers are fine-tuning a U.S. West Coast prototype that could be in limited public use in 2018. (SSA article)',
   'link' => 'https://www.seismosoc.org/news/shakealert-system-continues-progress-toward-public-use/',
   'modified' => strtotime('2017-12-07'),
@@ -143,8 +143,8 @@ $EQ_FEATURES->items[] = array(
 
 $EQ_FEATURES->items[] = array(
   'id' => '2017-08-15',
-  'title' => 'USGS Awards $4.9 Million to Advance ShakeAlert Early Warning System on West Coast',
-  'content' => 'The U.S. Geological Survey awarded approximately $4.9 million this week to six universities and a university-governed non-profit, to support transitioning the west coast “ShakeAlert” earthquake early warning system into a production system.',
+  'title' => 'USGS Awards $4.9 Million to Advance ShakeAlert&trade; Early Warning System on West Coast',
+  'content' => 'The U.S. Geological Survey awarded approximately $4.9 million this week to six universities and a university-governed non-profit, to support transitioning the west coast “ShakeAlert&trade;” earthquake early warning system into a production system.',
   'link' => 'https://www.usgs.gov/news/usgs-awards-49-million-advance-shakealert-earthquake-early-warning-system-west-coast?qt-news_science_products=1#qt-news_science_products',
   'modified' => strtotime('2017-08-15'),
   'thumbnail' => '/images-featured/shakealert.jpg',
@@ -243,8 +243,8 @@ $EQ_FEATURES->items[] = array(
 
  $EQ_FEATURES->items[] = array(
    'id' => '2017-04-11',
-   'title' => '&quot;ShakeAlert&quot; Earthquake Early Warning System Goes West Coast Wide',
-   'content' => 'The U.S. Geological Survey along with university, state and private-sector partners will highlight the rollout of Version 1.2 of the USGS ShakeAlert earthquake early warning system on April 10, 2017.',
+   'title' => '&quot;ShakeAlert&trade;&quot; Earthquake Early Warning System Goes West Coast Wide',
+   'content' => 'The U.S. Geological Survey along with university, state and private-sector partners will highlight the rollout of Version 1.2 of the USGS ShakeAlert&trade; earthquake early warning system on April 10, 2017.',
    'link' => 'https://www.usgs.gov/news/shakealert-earthquake-early-warning-system-goes-west-coast-wide',
    'modified' => strtotime('2017-04-11'),
    'thumbnail' => '/images-featured/EEWimage390.jpg',

@@ -5299,7 +5299,7 @@ VALUES
 	(465,4,10,'Natural Hazards Science at the U.S. Geological Survey','https://pubs.er.usgs.gov/publication/fs20133082','(FS-2013-3082)'),
 	(466,4,11,'The 1964 Great Alaska Earthquake and tsunamis - A modern perspective and enduring legacies','https://pubs.er.usgs.gov/publication/fs20143018','(FS-2014-3018)'),
 	(467,2,6,'20 Cool Facts About the New Madrid Seismic Zone','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F134%2F',''),
-	(468,4,11,'ShakeAlert - An Earthquake Early Warning System for the United States West Coast','https://pubs.er.usgs.gov/publication/fs20143083','(FS-2014-3083)'),
+	(468,4,11,'ShakeAlert&trade; - An Earthquake Early Warning System for the United States West Coast','https://pubs.er.usgs.gov/publication/fs20143083','(FS-2014-3083)'),
 	(470,4,11,'UCERF3: A New Earthquake Forecast for California\'s Complex Fault System','https://pubs.er.usgs.gov/publication/fs20153009','(FS-2015-3009)'),
 	(475,4,10,'Helping safeguard Veterans Affairs\' hospital buildings by advanced earthquake monitoring','https://pubs.er.usgs.gov/publication/fs20123094','(FS-2012-3094)'),
 	(476,4,12,'Reducing Risk Where Tectonic Plates Collide','https://pubs.er.usgs.gov/publication/fs20173024','(FS-2017-3024)'),
