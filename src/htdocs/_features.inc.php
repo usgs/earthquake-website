@@ -12,13 +12,13 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
-  'id' => '2018-01-24',
-  'title' => 'ShakeAlert&trade;: The Path to West Coast Earthquake Early Warning',
-  'content' => 'News reporters are invited to attend an illustrated public lecture to learn how U.S. Geological Survey scientists and partners are developing ShakeAlert&trade;. Public lecture to follow',
-  'link' => 'https://www.usgs.gov/news/shakealert-path-west-coast-earthquake-early-warning-how-a-few-seconds-can-save-lives-and',
-  'modified' => strtotime('2018-01-24'),
-  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/shakealertphone.png',
-  'image' => 'https://earthquake.usgs.gov/images-featured/shakealertphone.png'
+  'id' => '2018-01-26',
+  'title' => 'Alaska Earthquake Rattles Florida’s Groundwater Plumbing',
+  'content' => 'More than 3,500 miles from the Kodiak Earthquake’s epicenter, water sloshed in USGS groundwater wells.',
+  'link' => 'https://www.usgs.gov/news/alaska-earthquake-rattles-florida-s-groundwater-plumbing',
+  'modified' => strtotime('2018-01-26'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/FLwell.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/FLwell.jpg'
 );
 
 $EQ_FEATURES->items[] = array(
@@ -29,6 +29,16 @@ $EQ_FEATURES->items[] = array(
   'modified' => strtotime('2018-01-24'),
   'thumbnail' => 'https://earthquake.usgs.gov/images-featured/mooneq.png',
   'image' => 'https://earthquake.usgs.gov/images-featured/mooneq.png'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-01-24',
+  'title' => 'ShakeAlert&trade;: The Path to West Coast Earthquake Early Warning',
+  'content' => 'News reporters are invited to attend an illustrated public lecture to learn how U.S. Geological Survey scientists and partners are developing ShakeAlert&trade;. Public lecture to follow',
+  'link' => 'https://www.usgs.gov/news/shakealert-path-west-coast-earthquake-early-warning-how-a-few-seconds-can-save-lives-and',
+  'modified' => strtotime('2018-01-24'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/shakealertphone.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/shakealertphone.png'
 );
 
 $EQ_FEATURES->items[] = array(
