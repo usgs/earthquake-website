@@ -88,7 +88,7 @@
     <li>
       <a href="/research/earlywarning">
         <h4>Earthquake Early Warning</h4>
-        <img src="images/pas-shakealert-2x.jpg" alt="screenshot of ShakeAlert prototype" width="150"/>
+        <img src="images/pas-shakealert-2x.jpg" alt="screenshot of ShakeAlert&trade; prototype" width="150"/>
       </a>
         <p>
           The objective of earthquake early warning is to rapidly detect the
