@@ -137,7 +137,7 @@ if (!isset($TEMPLATE)){
 
 </ul>
 
-<h2> Field Guides </h2>
+<h2>Field Guides</h2>
 
 <ul class="no-style linklist">
   <li>
@@ -149,6 +149,15 @@ if (!isset($TEMPLATE)){
     earthquake faults, the Hayward Fault. Locations were chosen because of
     their easy access using mass transit and/or their significance relating to
     the natural and cultural history of the East Bay landscape.</p>
+  </li>
+
+  <li>
+    <a href="http://seismo.berkeley.edu/hayward/hayward_tours.html">
+      <h3>The Hayward Fault: Maps &amp; Tours</h3>
+      <img src="images/hwfault-curb.jpg" alt="Photo of an offset curb"></a>
+    <p>You can see the footprints of the Hayward Fault all over the place once
+      you know where and how to look. This tour covers The Hayward Fault at the
+      Campus of the University of California, Berkeley.</p>
   </li>
 
   <li>
@@ -176,7 +185,7 @@ if (!isset($TEMPLATE)){
 
 </ul>
 
-<h2> See also </h2>
+<h2>See also</h2>
 
 <ul class="no-style linklist">
   <li>
