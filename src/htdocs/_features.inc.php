@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-01-31',
+  'title' => 'January 23, 2018 M7.9 Gulf of Alaska Earthquake and Tsunami',
+  'content' => 'What happened and a background of Alaska seismicity.',
+  'link' => 'https://www.usgs.gov/news/january-23-2018-m79-gulf-alaska-earthquake-and-tsunami',
+  'modified' => strtotime('2018-01-31'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/M7.9AK2018jan23.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/M7.9AK2018jan23.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-01-26',
   'title' => 'Alaska Earthquake Rattles Florida’s Groundwater Plumbing',
   'content' => 'More than 3,500 miles from the Kodiak Earthquake’s epicenter, water sloshed in USGS groundwater wells.',
