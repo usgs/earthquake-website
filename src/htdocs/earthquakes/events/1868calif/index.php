@@ -44,9 +44,19 @@ if (!isset($TEMPLATE)){
   </li>
 </ul>
 
-<h2> New Science and Products </h2>
+<h2>New Science and Products</h2>
 
 <ul class="no-style linklist">
+  <li>
+    <a href="https://pubs.er.usgs.gov/publication/sir20175013">
+      <h3>The HayWired Earthquake Scenario</h3>
+      <img src="images/haywired.png" alt="Haywired cover"/>
+    </a>
+    <p>The USGS and its partners developed the HayWired scenario as a tool to
+      enable further actions such as seismic upgrades and retrofits that can
+      change the outcome when the next major earthquake strikes.</p>
+  </li>
+
   <li>
     <a href="/learn/topics/shakingsimulations/hayward/">
       <h3>Hayward Fault Scenario Earthquake Animations</h3>
@@ -171,7 +181,7 @@ if (!isset($TEMPLATE)){
 <ul class="no-style linklist">
   <li>
     <a href="https://www.eeri.org/projects/earthquake-scenarios/hayward-fault-scenario/">
-      <h3>Hayward Fault Earthquake Loss Scenario</h3>
+      <h3>Hayward Fault Scenario</h3>
       <img src="images/eeri.jpg" alt="Cover of the Scenario for a magintude 7.0 earthquake on the Hayward Fault"/>
     </a>
     <p>This 1996 report (updated in 2010) by the Earthquake Engineering Research Institute
