@@ -32,7 +32,7 @@
   <li><a href="https://www.usgs.gov/faqs/what-surface-faulting-or-surface-rupture-earthquake">What is surface faulting or surface rupture in an earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-depth-do-earthquakes-occur-what-significance-depth">At what depth do earthquakes occur? What is the significance of the depth?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-are-there-so-many-earthquakes-geysers-area-northern-california">Why are there so many earthquakes in the Geysers area in Northern California?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/why-are-there-so-many-earthquakes-geysers-area-northern-california">Do earthquakes occur in Antarctica?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/do-earthquakes-occur-antarctica">Do earthquakes occur in Antarctica?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-find-earthquake-educational-materials">Where can I find earthquake educational materials?</a></li>
 </ul>
 
@@ -50,7 +50,7 @@
   <li><a href="https://www.usgs.gov/faqs/why-do-so-many-earthquakes-occur-a-depth-10km">Why do so many earthquakes occur at a depth of 10km?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-fast-does-earthquake-information-get-posted-web-site-get-sent-out-earthquake-notification">How fast does the earthquake information get posted to the web site, get sent out via the Earthquake Notification Service (ENS), ATOM feeds, etc?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-see-current-or-past-seismograms">Where can I see current or past seismograms?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/where-can-i-see-current-or-past-seismograms">Why do USGS magnitudes differ from those published by other agencies?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/why-do-usgs-earthquake-magnitudes-differ-those-published-other-agencies">Why do USGS magnitudes differ from those published by other agencies?</a></li>
 </ul>
 
 <h2>Measuring Earthquakes <span class='example'>...magnitudes, locations, seismometers, seismic waves</span></h2>
@@ -75,14 +75,14 @@
   <li><a href="https://www.usgs.gov/faqs/what-a-seismic-zone-or-seismic-hazard-zone-where-can-i-find-information-seismic-zones-0-1-2-3">What is a seismic zone, or seismic hazard zone? Where can I find seismic zone maps with 0, 1, 2, 3, 4? What seismic zone is location X in?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-seismic-hazard-what-a-seismic-hazard-map-how-are-they-made-how-are-they-used-why-are-there">What is seismic hazard? What is a seismic hazard map? How are they made? How are they used? Why are there different maps, and which one should I use?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-are-earthquake-hazardsrisks-where-i-live">What are the earthquake hazards/risks where I live?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-are-earthquake-hazardsrisks-where-i-live">How will my house hold up in an earthquake? Can the USGS send someone out to evaluate my property?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-are-earthquake-hazardsrisks-where-i-live">How do I decide whether or not to get earthquake insurance?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-are-earthquake-hazardsrisks-where-i-live">How do earthquakes affect buildings?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/how-will-my-house-hold-earthquake-can-usgs-send-someone-out-evaluate-my-property">How will my house hold up in an earthquake? Can the USGS send someone out to evaluate my property?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/how-do-i-decide-whether-or-not-get-earthquake-insurance">How do I decide whether or not to get earthquake insurance?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/how-do-earthquakes-affect-buildings">How do earthquakes affect buildings?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-likelihood-a-large-earthquake-location-x-it-safe-go-x-theyve-been-having-a-lot-earthquakes">What is the likelihood of a large earthquake at location X? Is it safe to go to X since they've been having a lot of earthquakes lately?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-probability-earthquake-will-occur-los-angeles-area-san-francisco-bay-area">What is the probability that an earthquake will occur in the Los Angeles Area? the San Francisco Bay area?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-probability-earthquake-a-foreshock-a-larger-earthquake">What is the probability that an earthquake is a foreshock to a larger earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/are-earthquake-probabilities-or-forecasts-same-prediction">Are earthquake probabilities or forecasts the same as prediction?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/are-earthquake-probabilities-or-forecasts-same-prediction">Can the National Seismic Hazard Maps be used as an earthquake forecast tool for the near future?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/can-national-seismic-hazard-maps-be-used-earthquake-forecast-tool-near-future">Can the National Seismic Hazard Maps be used as an earthquake forecast tool for the near future?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-do-i-get-earthquake-hazard-maps-locations-outside-us">How do I get earthquake hazard maps for locations outside of the US?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-are-engineers-working-make-roads-and-buildings-safer">How are engineers working to make roads and buildings safer?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-usgs-doing-mitigate-and-respond-earthquake-hazards">What is the USGS doing to mitigate and respond to earthquake hazards?</a></li>
@@ -108,10 +108,10 @@
   <li><a href="https://www.usgs.gov/faqs/it-possible-anticipate-whether-a-planned-wastewater-disposal-activity-will-trigger-earthquakes">Is it possible to anticipate whether a planned wastewater disposal activity will trigger earthquakes that are large enough to be of concern?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-does-injection-wastewater-depth-cause-earthquakes">How does the injection of wastewater at depth cause earthquakes?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-large-are-earthquakes-induced-fluid-injection">How large are the earthquakes induced by fluid injection?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/how-large-are-earthquakes-induced-fluid-injection">Are earthquakes induced by fluid-injection activities always located close to the point of injection?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/how-large-are-earthquakes-induced-fluid-injection">Is there any possibility that a wastewater injection activity could interact with a nearby fault to trigger a major earthquake that causes extensive damage over a broad region?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/how-large-are-earthquakes-induced-fluid-injection">Does the production of natural gas from shales cause earthquakes? If so, how are the earthquakes related to these operations?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/how-large-are-earthquakes-induced-fluid-injection">What work is the USGS doing to better understand the occurrence of injection-induced earthquakes?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/are-earthquakes-induced-fluid-injection-activities-always-located-close-point-injection">Are earthquakes induced by fluid-injection activities always located close to the point of injection?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/there-any-possibility-a-wastewater-injection-activity-could-interact-a-nearby-fault-trigger-a">Is there any possibility that a wastewater injection activity could interact with a nearby fault to trigger a major earthquake that causes extensive damage over a broad region?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/does-production-natural-gas-shales-cause-earthquakes-if-so-how-are-earthquakes-related-these">Does the production of natural gas from shales cause earthquakes? If so, how are the earthquakes related to these operations?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/what-work-usgs-doing-better-understand-occurrence-injection-induced-earthquakes">What work is the USGS doing to better understand the occurrence of injection-induced earthquakes?</a></li>
   <li><a href="https://www.usgs.gov/faqs/oklahoma-now-has-more-earthquakes-a-regular-basis-california-are-they-due-fracking">Oklahoma now has more earthquakes on a regular basis than California.  Are they due to fracking?</a></li>
 </ul>
 
@@ -144,7 +144,7 @@
 <h2>Earthquake Preparedness</h2>
 <ul>
   <li><a href="https://www.usgs.gov/faqs/what-can-i-do-be-prepared-earthquake">What can I do to be prepared for an earthquake?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-can-i-do-be-prepared-earthquake">What emergency supplies do I need for an earthquake?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/what-emergency-supplies-do-i-need-earthquake">What emergency supplies do I need for an earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-should-i-do-during-earthquake">What should I do DURING an earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-should-i-not-do-during-earthquake">Things NOT to do during an earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-do-i-do-after-earthquake">What do I do AFTER an earthquake?</a></li>
@@ -158,7 +158,7 @@
 <ul>
   <li><a href="https://www.usgs.gov/faqs/when-will-next-large-earthquake-occur-yellowstone">When will the next large earthquake occur in Yellowstone?</a></li>
   <li><a href="https://www.usgs.gov/faqs/are-there-earthquakes-associated-mount-hood">Are there earthquakes associated with Mount Hood?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/are-there-earthquakes-associated-mount-hood">Can earthquakes trigger volcanic eruptions?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/can-earthquakes-trigger-volcanic-eruptions">Can earthquakes trigger volcanic eruptions?</a></li>
   <li><a href="https://www.usgs.gov/faqs/there-a-relationship-between-large-earthquakes-m6-occur-along-major-fault-zones-and-nearby">Is there a relationship between large earthquakes (>M6) that occur along major fault zones and nearby volcanic eruptions?</a></li>
 </ul>
 
