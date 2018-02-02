@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = '15th Annual Northern California Earthquake Hazards Workshop';
+  $TITLE = 'San Francisco Bay Area Seismic Velocity Models for Seismic Hazard Assessment';
   $HEAD = '<link rel="stylesheet" href="index.css" />';
   $FOOT = '<script src="index.js"></script>';
 
@@ -12,7 +12,7 @@ if (!isset($TEMPLATE)) {
 date_default_timezone_set('America/Los_Angeles');
 $datetime = date('Y-m-d H:i:s');
 $posting = false;
-$workshop = 'nc-2018';
+$workshop = 'svm-2018';
 
 if (isSet($_POST['submit'])) { // user submitted form
   $posting = true;
@@ -22,13 +22,15 @@ if (isSet($_POST['submit'])) { // user submitted form
     'lname' => $_POST['lname'],
     'email' => $_POST['email'],
     'affiliation' => $_POST['affiliation'],
-    'address1' => $_POST['address1'],
-    'address2' => $_POST['address2'],
-    'city' => $_POST['city'],
-    'state' => $_POST['state'],
-    'zip' => $_POST['zip'],
-    'phone' => $_POST['phone'],
-    'poster' => $_POST['poster'],
+    //'address1' => $_POST['address1'],
+    //'address2' => $_POST['address2'],
+    //'city' => $_POST['city'],
+    //'state' => $_POST['state'],
+    //'zip' => $_POST['zip'],
+    //'phone' => $_POST['phone'],
+    //'poster' => $_POST['poster'],
+    'plan' => $_POST['plan'],
+    'travel' => $_POST['travel'],
     'datetime' => $datetime,
     'workshop' => $workshop
   );
@@ -45,11 +47,17 @@ if (isSet($_POST['submit'])) { // user submitted form
   );
 
   // Insert record
+/*
   $stmt = $pdo->prepare('INSERT INTO workshops (datetime, fname, lname,
     email, affiliation, address1, address2, city, state, zip, phone,
     poster, workshop) VALUES (:datetime, :fname, :lname, :email,
     :affiliation, :address1, :address2, :city, :state, :zip, :phone, :poster,
     :workshop)'
+  );
+*/
+  $stmt = $pdo->prepare('INSERT INTO workshops (datetime, fname, lname,
+    email, affiliation, workshop, plan, travel) VALUES (:datetime, :fname, :lname, :email,
+    :affiliation, :workshop, :plan, :travel)'
   );
   try {
     $stmt->execute($fields);
@@ -63,6 +71,9 @@ if (isSet($_POST['submit'])) { // user submitted form
       <li><h4>Last Name</h4> ' . htmlentities(stripslashes($fields['lname'])) . '</li>
       <li><h4>Email</h4> ' . htmlentities(stripslashes($fields['email'])) . '</li>
       <li><h4>Affiliation</h4> ' . htmlentities(stripslashes($fields['affiliation'])) . '</li>
+      <li><h4>Five-year Plan</h4> ' . htmlentities(stripslashes($fields['plan'])) . '</li>
+      <li><h4>Travel Support</h4> ' . htmlentities(stripslashes($fields['travel'])) . '</li>' .
+      /*
       <li><h4>Address 1</h4> ' . htmlentities(stripslashes($fields['address1'])) . '</li>
       <li><h4>Address 2</h4> ' . htmlentities(stripslashes($fields['address2'])) . '</li>
       <li><h4>City</h4> ' . htmlentities(stripslashes($fields['city'])) . '</li>
@@ -70,11 +81,13 @@ if (isSet($_POST['submit'])) { // user submitted form
       <li><h4>Zip</h4> ' . htmlentities(stripslashes($fields['zip'])) . '</li>
       <li><h4>Phone</h4> ' . htmlentities(stripslashes($fields['phone'])) . '</li>
       <li><h4>Poster</h4> ' . htmlentities(stripslashes($fields['poster'])) . '</li>
-    </ul>';
+      */
+    '</ul>';
 
   // Email alert
-  $admin = 'shane@usgs.gov, garcia@usgs.gov, shaefner@usgs.gov';
-  //$admin = 'shaefner@usgs.gov';
+  //$admin = 'shane@usgs.gov, garcia@usgs.gov, shaefner@usgs.gov';
+  //$admin = 'aagaard@usgs.gov, shaefner@usgs.gov';
+  $admin = 'shaefner@usgs.gov';
   $headers = "MIME-Version: 1.0" . "\r\n";
   $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
   $headers .= "From: shaefner@usgs.gov";
@@ -85,7 +98,7 @@ if (isSet($_POST['submit'])) { // user submitted form
 
 ?>
 
-<h2>January 30&ndash;31, 2018</h2>
+<h2>March 21-22, 2018</h2>
 
 <p>
   <a href="/contactus/menlo/menloloc.php">USGS Menlo Park Campus</a><br />
@@ -102,6 +115,7 @@ if (isSet($_POST['submit'])) { // user submitted form
 <div class="row">
 
   <div class="three-of-five column">
+<?php /*
     <p>The USGS Earthquake Program is hosting this workshop to encourage
       communication and align internal and external research efforts to achieve
       our scientific goals and promote earthquake hazard products in Northern
@@ -118,6 +132,19 @@ if (isSet($_POST['submit'])) { // user submitted form
 
     <h3>Agenda</h3>
     <p><a href="Earthquake-Hazards-Workshop-Agenda.pdf">Agenda</a> (Adobe .pdf file)</p>
+*/ ?>
+
+    <p>The objective of the workshop is to develop a five-year plan for
+      leveraging community resources to systematically and continually improve
+      one or more 3-D seismic velocity models for the San Francisco Bay Area
+      and the surrounding region for use in seismic hazard assessment. The
+      workshop will include suites of short talks, discussions, and breakout
+      sessions. The results of the workshop will be synthesized in a technical
+      report by a subset of the participants. Please feel free to pass along
+      this invitation to colleagues, especially early career scientists. Travel
+      support will be available for some participants. For additional
+      information, please contact <a href="mailto: baagaard@usgs.gov">Brad
+      Aagaard</a>.</p>
 
     <?php
       if ($posting) {
@@ -127,7 +154,7 @@ if (isSet($_POST['submit'])) { // user submitted form
 
     <h3>Registration Form</h3>
 
-    <p>Registration will close on <span style="color: red">Friday, January 19, 2018</span>.</p>
+    <p>Registration will close on <span style="color: red">Wed, March 7, 2018</span>.</p>
 
     <p><span class="required">*</span> = Required</p>
 
@@ -156,6 +183,7 @@ if (isSet($_POST['submit'])) { // user submitted form
             placeholder="Enter affiliation" maxlength="255">
           <label for="affiliation">Affiliation</label>
         </div>
+<?php /*
         <div class="field">
           <input type="text" id="address1" name="address1"
             placeholder="Enter address line 1" required maxlength="255">
@@ -186,9 +214,10 @@ if (isSet($_POST['submit'])) { // user submitted form
             maxlength="255">
           <label for="phone">Phone</label>
         </div>
+*/ ?>
       </fieldset>
 
-      <div class="radio">
+      <div class="radio" style="display: block;">
         <!--
         <div>
           <p class="required">US Citizen</p>
@@ -197,13 +226,29 @@ if (isSet($_POST['submit'])) { // user submitted form
           <input type="radio" id="citizen-no" name="citizen" value="no" required>
           <label for="citizen-no">No</label>
         </div>
-        -->
         <div>
           <p class="required">Poster</p>
           <input type="radio" id="poster-yes" name="poster" value="yes" required>
           <label for="poster-yes">Yes</label>
           <input type="radio" id="poster-no" name="poster" value="no" required>
           <label for="poster-no">No</label>
+        </div>
+        -->
+        <div>
+          <p class="required">Are you interested in helping synthesize the
+            workshop results into a five-year plan and in contributing to the technical report?</p>
+          <p style="font-size: .9em; color: #999; margin-top: -.75em;">(some funding is available)</p>
+          <input type="radio" id="plan-yes" name="plan" value="yes" required>
+          <label for="plan-yes">Yes</label>
+          <input type="radio" id="plan-no" name="plan" value="no" required>
+          <label for="plan-no">No</label>
+        </div>
+        <div>
+          <p class="required">Do you need travel support in order to attend the workshop?</p>
+          <input type="radio" id="travel-yes" name="travel" value="yes" required>
+          <label for="travel-yes">Yes</label>
+          <input type="radio" id="travel-no" name="travel" value="no" required>
+          <label for="travel-no">No</label>
         </div>
       </div>
 
@@ -217,6 +262,43 @@ if (isSet($_POST['submit'])) { // user submitted form
   </div>
 
   <div class="two-of-five column">
+
+    <h3>Agenda Outline</h3>
+    <ol>
+      <li>Current Model: USGS 3-D Seismic Velocity Model
+        <ol type="a">
+          <li>Description of model</li>
+          <li>Assessment of model accuracy</li>
+        </ol>
+      </li>
+      <li>Improving the Model
+        <ol type="a">
+          <li>Additional geologic, geophysical, and seismic data available to improve model</li>
+        </ol>
+      </li>
+      <li>Related efforts
+        <ol type="a">
+          <li>Southern California and the central coast</li>
+          <li>National crustal model</li>
+        </ol>
+      </li>
+      <li>Techniques for Unified Structural Representation
+        <ol type="a">
+          <li>Model representation and accessibility</li>
+          <li>Refining/improving models</li>
+          <li>Validation</li>
+        </ol>
+      </li>
+      <li>Frontiers in Geologic, Geophysical, and Seismic Data
+        <ol type="a">
+          <li>Ambient field tomography</li>
+          <li>Large N</li>
+          <li>New sensors</li>
+        </ol>
+      </li>
+      <li>Community model development and improvements</li>
+    </ol>
+
     <h3>USGS Menlo Park Campus Map</h3>
     <figure>
       <img src="usgs-map.gif" alt="USGS Campus Map" />
