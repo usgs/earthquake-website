@@ -26,7 +26,7 @@
         </p>
       </li>
       <li>
-        <a href="/static/lfs/nshm/qfaults/Quaternaryall.zip">
+        <a href="/static/lfs/nshm/qfaults/qfaults.kmz">
           <h4>Quaternary Faults &amp; Folds in the U.S.</h4>
           <img src="images/faults.jpg" alt="Faults"/>
         </a>
