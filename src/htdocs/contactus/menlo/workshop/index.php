@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'San Francisco Bay Area Seismic Velocity Models for Seismic Hazard Assessment';
+  $TITLE = 'Workshop: San Francisco Bay Area Seismic Velocity Models for Seismic Hazard Assessment';
   $HEAD = '<link rel="stylesheet" href="index.css" />';
   $FOOT = '<script src="index.js"></script>';
 
@@ -86,8 +86,8 @@ if (isSet($_POST['submit'])) { // user submitted form
 
   // Email alert
   //$admin = 'shane@usgs.gov, garcia@usgs.gov, shaefner@usgs.gov';
-  //$admin = 'aagaard@usgs.gov, shaefner@usgs.gov';
-  $admin = 'shaefner@usgs.gov';
+  $admin = 'aagaard@usgs.gov, shaefner@usgs.gov';
+  //$admin = 'shaefner@usgs.gov';
   $headers = "MIME-Version: 1.0" . "\r\n";
   $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
   $headers .= "From: shaefner@usgs.gov";
