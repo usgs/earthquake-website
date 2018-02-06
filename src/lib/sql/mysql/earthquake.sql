@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-01-17 21:41:32 +0000
+# Generation Time: 2018-02-06 17:21:41 +0000
 # ************************************************************
 
 
@@ -1112,7 +1112,6 @@ VALUES
 	(214,7),
 	(157,8),
 	(125,9),
-	(51,6),
 	(20,6),
 	(147,9),
 	(470,7),
@@ -1569,8 +1568,6 @@ VALUES
 	(446,8),
 	(214,11),
 	(157,8),
-	(51,9),
-	(51,10),
 	(20,9),
 	(127,9),
 	(147,13),
@@ -2231,7 +2228,6 @@ VALUES
 	(125,30),
 	(125,66),
 	(103,50),
-	(51,60),
 	(20,72),
 	(147,78),
 	(313,70),
@@ -2480,8 +2476,6 @@ VALUES
 	(280,46),
 	(123,78),
 	(123,30),
-	(51,56),
-	(51,30),
 	(214,34),
 	(458,65),
 	(458,57),
@@ -2956,7 +2950,6 @@ VALUES
 	(441,'Recommended Reading about Earthquakes for Kids and Adults','USGS','%2Flearn%2Ftopics%2Freading.php','list of books'),
 	(41,'Historical Earthquake Theories','Univ. of Vienna','http%3A%2F%2Fwww.univie.ac.at%2Fwissenschaftstheorie%2Fheat%2Fheat.htm','collection of historical earthquake theories and myths'),
 	(468,'BSL Outreach','Berkeley Seismology Lab','http%3A%2F%2Fearthquakes.berkeley.edu%2Foutreach%2F','Wonderful diverse collection of videos and animations, as well as links to lesson plans and educational resources.'),
-	(51,'Musical Plates','New Jersey Networking Infrastructure in Education','http%3A%2F%2Fwww.k12science.org%2Fcurriculum%2Fmusicalplates3%2Fen%2F','use realtime data to plot earthquakes and solve problems'),
 	(429,'Focal Mechanisms','USGS','%2Flearn%2Ftopics%2Fbeachball.php','Basic explanation for what a focal mechanism is, and how to interpret them.'),
 	(58,'Remote-Sensing Seismic Activities','Montgomery Cty Public Schools','http%3A%2F%2Fwww.ebsinstitute.com%2FEBS.EOS.EQ.html','you are the planner, and you have to consider the earthquake hazards and risks'),
 	(59,'Ray Tracing Animations','Washington Univ.','http%3A%2F%2Fepsc.wustl.edu%2F%7Esaadia%2Fpage2.html','animations for various earth models and types of seismic reflections and refractions'),
@@ -3169,7 +3162,7 @@ VALUES
 	(494,'Digging Into the Past on the Teton Fault','USGS','/learn/topics/teton-paleo/','Follow the daily activities of a team of geologists and paleoseismologists as they dig a trench and collect data on the Teton Fault. (from a fieldwork blog September 15-21, 2017)'),
 	(495,'The Early History of Seismometry (to 1900)','USGS','/learn/topics/eqsci-history/early-seismometry.php','A walk through the evolution of earthquake monitoring instruments.'),
 	(496,'GEODE - Google Earth for Onsite and Distance Education','geode.net','http://geode.net/','Virtual tours of different earth features using Google Earth.'),
-	(497,'Recovering From a Natural Disaster in College: A Students Guide for What to do on Campus','AffordableCollegesOnline.org','https://www.affordablecollegesonline.org/college-resource-center/natural-disasters/','What college students can do to prepare for a natural disaster, and what to do if one happens.'),
+	(497,'Recovering From a Natural Disaster in College: A Student?s Guide for What to do on Campus','AffordableCollegesOnline.org','https://www.affordablecollegesonline.org/college-resource-center/natural-disasters/','What college students can do to prepare for a natural disaster, and what to do if one happens.'),
 	(498,'Interactive 3D Earthquake Viewer','Interactive Earth','https://www.interactive-earth.com/earthquakes','Uses the USGS Earthquake Catalog API. Search for earthquakes, and then interact with the 3-D earthquake location viewer. There is a <a href=\"https://www.interactive-earth.com/downloads/lets-look-inside-the-earth.pdf\">classroom activity</a> for 5-8th grades to accompany this.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
