@@ -64,7 +64,7 @@ if (!isset($TEMPLATE)) {
     <br />
   </li>
   <li>
-    <strong>Earthquake Early Warning Regional Coordinator</strong>
+    <strong>Earthquake Early Warning Regional Coordinator</strong><br />
     Mr. Doug Given<br />
     US Geological Survey<br />
     525 S Wilson Ave<br />
