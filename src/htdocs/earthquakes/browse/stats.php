@@ -50,7 +50,7 @@
         <td>14</td><td>15</td><td>13</td><td>14</td><td>14</td>
         <td>10</td><td> 9</td><td>14</td><td>12</td><td>16</td>
         <td>23</td><td>19</td><td>12</td><td>17</td><td>11</td>
-        <td>18</td><td>16</td>td>6</td>
+        <td>18</td><td>16</td><td>6</td>
       </tr>
 
       <tr>
