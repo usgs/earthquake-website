@@ -9,6 +9,19 @@
       }
 ?>
 
+<h3>2017</h3>
+<ul>
+  <li>
+    The USGS and its university ANSS partners roll out version 1.2 of the ShakeAlert earthquake early warning system .  This milestone extends the “production prototype” that was rolled out in California last year to Washington and Oregon creating a fully integrated ShakeAlert system for the West Coast.
+  </li>
+  <li>
+    The USGS Earthquake Hazards Program assumes support of the Central and Eastern U.S. Seismic Network, also known as the N4 network.
+  </li>
+  <li>
+    A new 2017 collection of nearly 800 ShakeMap earthquake scenarios is released for the continental U.S.
+  </li>
+</ul>
+
 <h3>2016</h3>
 <ul>
   <li>A White House Earthquake Resilience Summit was held, which included sessions on earthquake early warning.  The USGS and its university partners announced the deployment of the next-generation ShakeAlert&trade; production prototype.  The Gordon and Betty Moore foundation announced $3.6 million in grants to university partners to advance the ShakeAlert&trade; system.</li>
