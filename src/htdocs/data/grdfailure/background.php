@@ -227,7 +227,7 @@
 <p>
   The area exceeding a threshold probability, P<sub>area</sub> is calculated by:
 </p>
-<img src="images/parea.png" alt="equation for aggregate hazard">,
+<img src="images/parea.png" alt="equation for probability threshold">,
 <p>
   where A<sub>i,j</sub> is the area of grid cell i, j (in km<sup>2</sup>), m is the number of rows, n is the number of columns, P<sub>i,j</sub> is the ground failure probability at cell i,j, P<sub>thresh</sub> is the ground motion threshold. The threshold probability is indicated in the summary tables with an underscore. For example, Parea_0.10 is the total area where a given model estimates probabilities greater than 0.1.
 </p>
