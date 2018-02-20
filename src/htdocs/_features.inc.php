@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-02-20',
+  'title' => 'One of the First Black USGS Geophysicists, Pioneers Subsurface Research',
+  'content' => 'USGS geophysicist Dr. Rufus Catchings, brings insights to the importance of diversity and perseverance in the earth science field.',
+  'link' => 'https://www.usgs.gov/news/one-first-black-usgs-geophysicists-pioneers-subsurface-research',
+  'modified' => strtotime('2018-02-20'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/Catchings_SanFrancisco.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/Catchings_SanFrancisco.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-01-31',
   'title' => 'January 23, 2018 M7.9 Gulf of Alaska Earthquake and Tsunami',
   'content' => 'What happened and a background of Alaska seismicity.',
