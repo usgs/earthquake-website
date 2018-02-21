@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-02-21',
+  'title' => 'Earthquakes Follow Wastewater Disposal Patterns in Southern Kansas',
+  'content' => 'Wastewater created during oil and gas production and disposed of by deep injection into underlying rock layers is the probable cause for a surge in earthquakes in southern Kansas since 2013. (SSA News)',
+  'link' => 'https://www.seismosoc.org/bssa/earthquakes-follow-wastewater-disposal-patterns-southern-kansas/',
+  'modified' => strtotime('2018-02-21'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/Rubinstein-EQKansas.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/Rubinstein-EQKansas.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-02-20',
   'title' => 'One of the First Black USGS Geophysicists, Pioneers Subsurface Research',
   'content' => 'USGS geophysicist Dr. Rufus Catchings, brings insights to the importance of diversity and perseverance in the earth science field.',
