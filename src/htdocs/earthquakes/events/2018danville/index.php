@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'February 2018 Danville Sequence';
+  $TITLE = 'February 2018 Danville, California Sequence';
   $HEAD = '';
   $FOOT = '';
 
