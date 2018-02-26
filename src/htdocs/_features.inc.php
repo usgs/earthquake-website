@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-02-26',
+  'title' => 'February 2018 Danville, California Sequence',
+  'content' => 'An earthquake swarm has been ongoing near Danville since February 16, starting with a magnitude 2.2 earthquake on 1:17 pm Pacific Time.',
+  'link' => 'https://earthquake.usgs.gov/earthquakes/events/2018danville/',
+  'modified' => strtotime('2018-02-26'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/tn-danville-swarms.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/danville-swarms.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-02-21',
   'title' => 'Earthquakes Follow Wastewater Disposal Patterns in Southern Kansas',
   'content' => 'Wastewater created during oil and gas production and disposed of by deep injection into underlying rock layers is the probable cause for a surge in earthquakes in southern Kansas since 2013. (SSA News)',
