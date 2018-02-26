@@ -1,0 +1,18 @@
+{
+  "id": "av",
+  "title": "Alaska Volcano Observatory",
+  "url": "https://avo.alaska.edu/",
+  "address": {
+    "org": "U.S. Geological Survey\nAlaska Volcano Observatory",
+    "street-address": "4230 University Dr.",
+    "locality": "Anchorage",
+    "region": "AK",
+    "postal-code": "99508"
+  },
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-907-786-7030"
+    },
+  ]
+}
