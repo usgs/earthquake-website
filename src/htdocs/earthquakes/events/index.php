@@ -16,6 +16,7 @@
 </figure>
 
 <ul>
+  <li><a href="2018danville/">February 2018 Danville, California Sequence</a></li>
   <li><a href="2017sodasprgs/">M5.3 2017 Soda Springs, Idaho Sequence</a></li>
   <li><a href="2014napa/">M6.0 August 24, 2014 South Napa, California</a></li>
   <li><a href="2011virginia/">M5.8 August 23, 2011 Mineral, Virginia</a></li>
