@@ -161,7 +161,7 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="fld007_17e.pdf">
+    <a href="pdf/fld007_17e.pdf">
       <h3>2006 Field Guide to the Hayward Fault (13 MB pdf)</h3>
       <img src="images/fieldguide.jpg" alt="Cover of the 2006 Field Guide to the Hayward Fault"/>
     </a>
@@ -227,7 +227,7 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="Lawson-1868-Chapter-1908.pdf">
+    <a href="pdf/Lawson-1868-Chapter-1908.pdf">
       <h3>Chapter on the 1868 Earthquake in the Lawson Report on the 1906 Earthquake</h3>
       <img src="images/lawson.png" alt="Lawson report"/>
     </a>
