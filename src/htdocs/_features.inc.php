@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-03-05',
+  'title' => 'Finding Faults with Geodetic and Geologic Data: Deformation Model for the Western U.S.',
+  'content' => 'A crustal deformation model developed for the Western United States fits a growing body of observations and shows where major changes in the crust are occurring. (UNAVCO article)',
+  'link' => 'https://earthquake.usgs.gov/earthquakes/events/2018danville/',
+  'modified' => strtotime('2018-03-05'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/zeng-wusGPS.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/zeng-wusGPS.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-02-26',
   'title' => 'February 2018 Danville, California Sequence',
   'content' => 'An earthquake swarm has been ongoing near Danville since February 16, starting with a magnitude 2.2 earthquake on 1:17 pm Pacific Time.',
