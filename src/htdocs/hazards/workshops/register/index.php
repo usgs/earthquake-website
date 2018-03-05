@@ -92,8 +92,9 @@ if (isSet($_POST['submit'])) { // user submitted form
 <h2>Where: RMS Headquarters - Amenities Building (7677 Gateway Blvd., Newark, CA 94560)</h2>
 
 <p>
-  Registration for in-person attendance will close on Friday, March 2<sup>nd</sup>, 2018, or when 145 people have registered, whichever comes first.
+  Registration for in-person attendance has closed. If you'd like to attend via Webex, please send an email to <a href="mailto:shoover@usgs.gov?cc=ashumway@usgs.gov">Sue Hoover and Allison Shumway</a>.
 </p>
+
 
 <?php
   if ($posting) {
@@ -111,6 +112,8 @@ if (isSet($_POST['submit'])) { // user submitted form
         print $return_html;
       } else {
     ?>
+
+<!-- REGISTRATION IS CLOSED
 
     <h3>Registration Form</h3>
 
@@ -195,6 +198,8 @@ if (isSet($_POST['submit'])) { // user submitted form
     </form>
 
     <p class="privacy"><a href="https://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>
+
+ REGISTRATION IS CLOSED -->
 
     <?php } ?>
   </div>
