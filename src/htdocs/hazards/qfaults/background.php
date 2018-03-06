@@ -10,6 +10,7 @@
 
 <nav class='jumplist'>
   <a href="#history">History</a>
+  <a href="#class">Fault Classes</a>
   <a href="#uses">Potential Uses</a>
   <a href="#search">Search Strategies</a>
   <a href="#personnel">Personnel</a>
@@ -46,6 +47,46 @@
   For this compilation, we have limited our compilation to synthesis of published literature relevant to the United States. Our definition of published literature includes typical sources (journals and maps), as well as M.S. theses and Ph.D. dissertations, governmental contract reports (which includes many NEHRP-sponsored studies), abstracts, and open-file (preliminary) reports. We generally do not cite unpublished field mapping, field notes, and other gray-literature reports that are not generally available to the public. The data presented in the compilation are extensively referenced using the standard USGS reference style, with the exception of attaching a unique number to each cited reference for convenience. This numeric identifier allows us to clearly cite multiple-same year publications for authors.
 </p>
 
+<h2 id='class'>Fault Classes</h2>
+<p>
+  This table includes the definitions of classes used in the compilation of Quaternary faults, liquefaction features, and deformation (Crone and Wheeler, <a href="#260">2000</a>).
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Class Category</th>
+      <th>Definition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Class A</td>
+      <td>
+        Geologic evidence demonstrates the existence of a Quaternary fault of tectonic origin, whether the fault is exposed for mapping or inferred from liquefaction or other deformational features.
+      </td>
+    </tr>
+    <tr>
+      <td>Class B</td>
+      <td>
+        Geologic evidence demonstrates the existence of a fault or suggests Quaternary deformation, but either (1) the fault might not extend deeply enough to be a potential source of significant earthquakes, or (2) the currently available geologic evidence is too strong to confidently assign the feature to Class C but not strong enough to assign it to Class A.
+      </td>
+    </tr>
+    <tr>
+      <td>Class C</td>
+      <td>
+        Geologic evidence is insufficient to demonstrate (1) the existence of tectonic fault, or (2) Quaternary slip or deformation associated with the feature.
+      </td>
+    </tr>
+    <tr>
+      <td>Class D</td>
+      <td>
+        Geologic evidence demonstrates that the feature is not a tectonic fault or feature; this category includes features such as demonstrated joints or joint zones, landslides, erosional or fluvial scarps, or landforms resembling fault scarps, but of demonstrable non-tectonic origin.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <h2 id='uses'>Potential Uses</h2>
 <p>
   Although seismicity maps and earthquake catalogs show the past 100 to 150 years of felt and instrumental earthquakes, many faults in the United States have return times of thousands to tens of thousands of years for surface faulting events. Clearly the short seismic record will not image all the active faults that exist. Thus, this collection of data on faults and folds that record ancient earthquakes will help augment the rather short felt and instrumental seismic record that is typical of the United States and other recently developed countries.
@@ -78,6 +119,9 @@
 
 <h2 id='refs'>References</h2>
 <ul class='referencelist'>
+  <li id="260">
+    Crone, A.J., and Wheeler, R.L., 2000, <a href="https://pubs.usgs.gov/of/2000/ofr-00-0260/ofr-00-0260.pdf>">Data for Quaternary faults, liquefaction features, and possible tectonic features in the Central and Eastern United States, east of the Rocky Mountain front</a>: U.S. Geological Survey Open-File Report 00-260, 342 pp.
+  </li>
   <li id="5248">
     Frankel, A.D., Mueller, C.S., Barnhard, T.P., Perkins, D.M., Leyendecker, E.V., Dickman, N., Hanson, S.L., and Hopper, M.G., 1996, National seismic-hazard maps&#8212;Documentation June 1996: U.S. Geological Survey Open-File Report 96-0532, 110 p.
   </li>
