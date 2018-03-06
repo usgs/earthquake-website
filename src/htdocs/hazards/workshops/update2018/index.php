@@ -24,7 +24,7 @@
   The first day of the workshop will focus on updates to the central and eastern U.S. (CEUS), which focuses on updates to the CEUS ground motion models (GMMs) (i.e., implementation of the NGA-East GMMs). The second day of the workshop will focus on the western U.S. (WUS) and our plan to incorporate basin effects into the NSHM. We will also discuss the update of the smooth seismicity model. The NSHMP invites the scientific community and other interested individuals to attend this workshop to hear about our plans for the 2018 update to the NSHM, discuss the model, and provide valuable feedback to the NSHMP.
 </p>
 
-<p><a href="2018NSHM-Update-Workshop-Agenda.pdf">Draft Agenda</a></p> (PDF)
+<p><a href="2018NSHMUpdateWorkshopAgendaFinal.pdf">Final Agenda</a></p> (PDF)
 
 <h2>Registration Information</h2>
 <p>
