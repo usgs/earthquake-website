@@ -10,7 +10,11 @@ if (!isset($TEMPLATE)) {
 
 ?>
 
-<p>Updated Mon Feb 26, 8:00am PT</p>
+<h2>Mon Mar 5, 7:30pm PT</h2>
+
+<p>The earthquake swarm near Danville had continued to taper off over the past week. Since Feb 23 there have only been two earthquakes in the sequence larger than magnitude 2.0, a magnitude 2.0 on Feb 27 and a magnitude 2.5 on Mar 1. The most likely scenario looking forward is for this sequence to continue to taper off.</p>
+
+<h2>Mon Feb 26, 8:00am PT</h2>
 
 <figure class="right" style="width:500px;">
   <a href="danville-swarms.jpg"><img src="danville-swarms.jpg" width="500" /></a>
@@ -22,6 +26,8 @@ if (!isset($TEMPLATE)) {
 <p>A swarm sequence of earthquakes is different than a traditional mainshock-aftershock sequence in the distribution of magnitudes and timing of events. In a mainshock-aftershock sequence, the largest event typically is the first (or may be preceded by some small foreshocks), and then aftershocks occur afterwards in time. The largest number of aftershocks typically occur soon after the mainshock. In a swarm, however, several events of similar magnitude may occur close together in time or spread out over time, and there is no clear main event, or there may be several events of the largest magnitude. The earthquakes in the current sequence have been coming in bunches every day or so, with each burst of activity lasting a few hours.</p>
 
 <p>Earthquake swarms are common in the San Ramon valley: similar swarms occurred in 2015, 2003, 2002, 1990, 1976, and 1970. These swarms are likely occurring on a complex zone of small faults that connect the Calaveras Fault to the Concord Fault in the vicinity of Danville. The length of these swarms ranges from 2 to 42 days; the number of M2.0+ earthquakes ranges from 12 to 177; and the largest event ranges from M3.5 (current sequence) to two M4.4 events. The statistics that we are currently observing for this event are very consistent with those from the previous events, indicating that this is typically behavior for a swarm in this region.</p>
+
+<h2>Comparison to Previous Swarms</h2>
 
 <table>
   <tr>
@@ -38,7 +44,7 @@ if (!isset($TEMPLATE)) {
     <th>2018 Danville</th>
     <td>29*</td>
     <td>29*</td>
-    <td>10 days*</td>
+    <td>11 days*</td>
     <td>M<sub>L</sub> 3.5*</td>
   </tr>
   <tr>
@@ -84,9 +90,9 @@ if (!isset($TEMPLATE)) {
     <td>M<sub>L</sub> 3.8</td>
   </tr>
 </table>
-*As of 8:00am PT on Feb 26
+* As of 7:30pm PT on Mar 5
 
-<p>Many of the events in this recent swarm have been felt throughout the San Ramon Valley and reported on the Did You Feel It? web page. The magnitude 3.5 earthquake had generated nearly 1500 responses as of 3pm on Friday, February 23rd.</p>
+<p>Many of the events in this recent swarm have been felt throughout the San Ramon Valley and reported on the Did You Feel It? web page. The <a href="/earthquakes/eventpage/nc72974766#dyfi">magnitude 3.5 earthquake had generated nearly 1500 responses</a> as of 3pm on Friday, February 23rd.</p>
 
 <p>There is always the potential for an earthquake swarm to trigger a much larger, damaging event, but this is rare.  None of the previous swarms listed above did so (largest events in each swarm were less than M 4.5).  Most large earthquakes are not preceded by swarms. Our current understanding and modeling of earthquake hazards and forecasts in the Bay Area already takes all of the previous swarm information into account, so the occurrence of these earthquakes does not change our understanding or forecast. In fact, these earthquakes simply reinforce our current models. There is a 72 percent probability (or likelihood) of at least one earthquake of magnitude 6.7 or greater striking somewhere in the San Francisco Bay region before 2043; on the Calaveras fault system the probability is 26 percent. This current sequence of earthquakes are a good reminder that we we live in Earthquake Country, so it is necessary to be prepared at all times, whether or not a swarm is ongoing.</p>
 
