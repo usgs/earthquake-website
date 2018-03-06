@@ -11,11 +11,12 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
 $EQ_FEATURES->items[] = array(
   'id' => '2018-03-05',
   'title' => 'Finding Faults with Geodetic and Geologic Data: Deformation Model for the Western U.S.',
   'content' => 'A crustal deformation model developed for the Western United States fits a growing body of observations and shows where major changes in the crust are occurring. (UNAVCO article)',
-  'link' => 'https://earthquake.usgs.gov/earthquakes/events/2018danville/',
+  'link' => 'http://www.unavco.org/science/snapshots/solid-earth/2018/zeng.html',
   'modified' => strtotime('2018-03-05'),
   'thumbnail' => 'https://earthquake.usgs.gov/images-featured/zeng-wusGPS.png',
   'image' => 'https://earthquake.usgs.gov/images-featured/zeng-wusGPS.png'
