@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-02-06 17:21:41 +0000
+# Generation Time: 2018-03-06 20:37:38 +0000
 # ************************************************************
 
 
@@ -1112,6 +1112,7 @@ VALUES
 	(214,7),
 	(157,8),
 	(125,9),
+	(499,7),
 	(20,6),
 	(147,9),
 	(470,7),
@@ -1374,7 +1375,8 @@ VALUES
 	(497,9),
 	(498,7),
 	(498,8),
-	(498,6);
+	(498,6),
+	(499,6);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1568,6 +1570,8 @@ VALUES
 	(446,8),
 	(214,11),
 	(157,8),
+	(499,13),
+	(499,11),
 	(20,9),
 	(127,9),
 	(147,13),
@@ -1954,7 +1958,9 @@ VALUES
 	(497,13),
 	(498,13),
 	(498,10),
-	(498,9);
+	(498,9),
+	(499,10),
+	(499,9);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2102,7 +2108,11 @@ VALUES
 	(493,30),
 	(493,45),
 	(494,26),
-	(494,45);
+	(494,45),
+	(499,45),
+	(499,30),
+	(499,44),
+	(499,42);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2228,6 +2238,7 @@ VALUES
 	(125,30),
 	(125,66),
 	(103,50),
+	(499,37),
 	(20,72),
 	(147,78),
 	(313,70),
@@ -2476,6 +2487,8 @@ VALUES
 	(280,46),
 	(123,78),
 	(123,30),
+	(499,56),
+	(499,77),
 	(214,34),
 	(458,65),
 	(458,57),
@@ -2950,6 +2963,7 @@ VALUES
 	(441,'Recommended Reading about Earthquakes for Kids and Adults','USGS','%2Flearn%2Ftopics%2Freading.php','list of books'),
 	(41,'Historical Earthquake Theories','Univ. of Vienna','http%3A%2F%2Fwww.univie.ac.at%2Fwissenschaftstheorie%2Fheat%2Fheat.htm','collection of historical earthquake theories and myths'),
 	(468,'BSL Outreach','Berkeley Seismology Lab','http%3A%2F%2Fearthquakes.berkeley.edu%2Foutreach%2F','Wonderful diverse collection of videos and animations, as well as links to lesson plans and educational resources.'),
+	(499,'Comparing Shaking Intensity from Two Bay Area Earthquakes','USGS','/learn/topics/intensity/compare_intensity.php','Maps of the shaking intensity for the 1989 Loma Prieta and 1906 San Francisco earthquakes are shown, as well as the fault rupture length in order to compare the impact of each earthquake.'),
 	(429,'Focal Mechanisms','USGS','%2Flearn%2Ftopics%2Fbeachball.php','Basic explanation for what a focal mechanism is, and how to interpret them.'),
 	(58,'Remote-Sensing Seismic Activities','Montgomery Cty Public Schools','http%3A%2F%2Fwww.ebsinstitute.com%2FEBS.EOS.EQ.html','you are the planner, and you have to consider the earthquake hazards and risks'),
 	(59,'Ray Tracing Animations','Washington Univ.','http%3A%2F%2Fepsc.wustl.edu%2F%7Esaadia%2Fpage2.html','animations for various earth models and types of seismic reflections and refractions'),

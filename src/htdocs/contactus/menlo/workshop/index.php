@@ -263,41 +263,10 @@ if (isSet($_POST['submit'])) { // user submitted form
 
   <div class="two-of-five column">
 
-    <h3>Agenda Outline</h3>
-    <ol>
-      <li>Current Model: USGS 3-D Seismic Velocity Model
-        <ol type="a">
-          <li>Description of model</li>
-          <li>Assessment of model accuracy</li>
-        </ol>
-      </li>
-      <li>Improving the Model
-        <ol type="a">
-          <li>Additional geologic, geophysical, and seismic data available to improve model</li>
-        </ol>
-      </li>
-      <li>Related efforts
-        <ol type="a">
-          <li>Southern California and the central coast</li>
-          <li>National crustal model</li>
-        </ol>
-      </li>
-      <li>Techniques for Unified Structural Representation
-        <ol type="a">
-          <li>Model representation and accessibility</li>
-          <li>Refining/improving models</li>
-          <li>Validation</li>
-        </ol>
-      </li>
-      <li>Frontiers in Geologic, Geophysical, and Seismic Data
-        <ol type="a">
-          <li>Ambient field tomography</li>
-          <li>Large N</li>
-          <li>New sensors</li>
-        </ol>
-      </li>
-      <li>Community model development and improvements</li>
-    </ol>
+    <h3>Agenda</h3>
+    <a href="BayAreaSeismicVelocityModelWorkshop.pdf">
+      Preliminary Agenda
+    </a> (.pdf)
 
     <h3>USGS Menlo Park Campus Map</h3>
     <figure>
