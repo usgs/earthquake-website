@@ -20,6 +20,6 @@ $section = "/contactus";
 );
 
   echo navItem("${section}/media.php", "Media Contacts");
-  echo navItem("mailto:lisa+ehpweb@usgs.gov?cc=lkpratt+ehpweb@usgs.gov", "Earthquake Questions and Website Feedback");
+  echo navItem("mailto:lisa%2Behpweb@usgs.gov?cc=lkpratt%2Behpweb@usgs.gov", "Earthquake Questions and Website Feedback");
 
 ?>
