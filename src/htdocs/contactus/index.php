@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Lisa Wald, lisa@usgs.gov
-// Last modified: 11/24/2015
 if (!isset($TEMPLATE)) {
   $TITLE = 'Contacts and Regional Science Activities';
   $CONTACT = 'lisa@usgs.gov';
@@ -34,14 +33,13 @@ if (!isset($TEMPLATE)) {
     </ul>
     <p>&nbsp;</p>
   </div>
-
   <div class="column one-of-two">
     <div class="EQoffices"></div>
 
     <h3>For General Public and Media</h3>
     <ul>
       <li><a href="media.php">Media Contacts and Information</a></li>
-      <li>Earthquake Questions or Website Comments - Use the <a href="mailto:lisa+ehpweb@usgs.gov?cc=lkpratt+ehpweb@usgs.gov">Questions or comments?</a> link at the bottom of every webpage.</li>
+      <li>Earthquake Questions or Website Comments - Use the <a href="mailto:lisa%2Behpweb@usgs.gov?cc=lkpratt%2Behpweb@usgs.gov">Questions or comments?</a> link at the bottom of every webpage.</li>
     </ul>
 
     <h3>Looking for Something Else?</h3>
