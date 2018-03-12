@@ -16,3 +16,8 @@
   <source src="mp4/wavefront.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<h3>Full text in animation:</h3>
+<p>
+  Courtesy of Steve Dutch, University of Wisconsin-Green Bay
+</p>
