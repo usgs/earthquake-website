@@ -16,3 +16,8 @@
   <source src="mp4/elasticrebound.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<h3>Full text in animation:</h3>
+<p>
+  As tectonic plates are slowly moving, their edges are locked in place, causing bending of the crust along the plate edges. When the force trying to make the edges slip overcomes the friction making them stick, there is an earthquake. The bending and subsequent "catching up" of the crust is called "elastic rebound."
+</p>
