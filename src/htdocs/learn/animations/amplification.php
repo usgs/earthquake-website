@@ -16,3 +16,8 @@
   <source src="mp4/amplification.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<h3>Full text in animation:</h3>
+<p>
+  Ground shaking is amplified in soft sediments and dampened in hard rock.
+</p>
