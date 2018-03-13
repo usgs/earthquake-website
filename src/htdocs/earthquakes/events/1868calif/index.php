@@ -199,12 +199,12 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="https://pubs.geoscienceworld.org/bssa/pages/hayward">
-      <h3>Hayward Fault and 1868 Earthquake Special Collection</h3>
+    <a href="https://www.seismosoc.org/publications/hayward-fault-and-1868-earthquake-virtual-special-issue/">
+      <h3>Hayward Fault and 1868 Earthquake Virtual Special Issue</h3>
       <img src="images/bssa-cover.gif" alt="BSSA Cover"/>
     </a>
-    <p>The Seismological Society of America (SSA) created a virtual special
-    issue of BSSA containing previously published BSSA articles focusing on
+    <p>The Seismological Society of America (SSA) created a special
+    collection of previously published articles focusing on
     the Hayward earthquake and associated research.</p>
   </li>
 
