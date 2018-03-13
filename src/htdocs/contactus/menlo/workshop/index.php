@@ -150,7 +150,7 @@ if (isSet($_POST['submit'])) { // user submitted form
       if ($posting) {
         print $return_html;
       } else {
-    ?>
+/*
 
     <h3>Registration Form</h3>
 
@@ -183,7 +183,7 @@ if (isSet($_POST['submit'])) { // user submitted form
             placeholder="Enter affiliation" maxlength="255">
           <label for="affiliation">Affiliation</label>
         </div>
-<?php /*
+
         <div class="field">
           <input type="text" id="address1" name="address1"
             placeholder="Enter address line 1" required maxlength="255">
@@ -214,7 +214,7 @@ if (isSet($_POST['submit'])) { // user submitted form
             maxlength="255">
           <label for="phone">Phone</label>
         </div>
-*/ ?>
+
       </fieldset>
 
       <div class="radio" style="display: block;">
@@ -258,7 +258,11 @@ if (isSet($_POST['submit'])) { // user submitted form
 
     <p class="privacy"><a href="https://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>
 
-    <?php } ?>
+*/
+      }  ?>
+
+    <p class="alert warning">Registration is closed. Please contact <a href="mailto:baagaard@usgs.gov">Brad
+      Aagaard</a> if you wish to attend.</p>
   </div>
 
   <div class="two-of-five column">
