@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-03-14',
+  'title' => 'Seismic Hazard, Risk, and Design for South America',
+  'content' => 'New seismic hazard and risk assessments can help at-risk communities prepare for future earthquake disasters.',
+  'link' => 'https://www.usgs.gov/news/usgs-authors-new-report-seismic-hazard-risk-and-design-south-america',
+  'modified' => strtotime('2018-03-14'),
+  'thumbnail' => '/images-featured/s-amer-haz.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/s-amer-haz.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-03-05',
   'title' => 'Finding Faults with Geodetic and Geologic Data: Deformation Model for the Western U.S.',
   'content' => 'A crustal deformation model developed for the Western United States fits a growing body of observations and shows where major changes in the crust are occurring. (UNAVCO article)',
