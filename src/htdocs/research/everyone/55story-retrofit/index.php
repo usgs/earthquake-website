@@ -9,9 +9,9 @@
 ?>
 
 <figure class='right'>
-<img src="images/bldg-map.jpg" alt=""/>
+<img src="images/photo-map.jpg" alt=""/>
 <figcaption>
-  Satellite image of the 55-story building in Osaka, Japan.
+  The 55-story tall building in Osaka, Japan, and a map with a red star at the location of the building. (Photo by Mehmet &Ccedil;elebi, USGS)
 </figcaption>
 </figure>
 
@@ -39,11 +39,36 @@
   In this case, both earthquakes that shook the building were far away, and the long-period waves had a significant effect on the building. The M9.0 Tohoku earthquake on March 11, 2011 (767 km/476 mi away) was recorded on several seismic instruments inside the building, and the recordings showed that the building had undergone severe and extended shaking that had threatened the integrity of the structure. A retrofit was clearly called for.  The retrofit was intended to dampen the shaking of the building so that the contents and people inside would not shake as much.  140 dampers and 114 buckling restrained bracers (BRBs) were installed around the building.
 </p>
 <p>
-  On April 24, 2016 the M7.3 Kumamoto earthquake (478 km/297 mi away) again shook the building and again was recorded on the seismic instruments inside.  The good news was that indeed the severity of the shaking was lessened, but the bad news was that the building still experienced enough shaking to make it a risk for occupants in a future large earthquake.  &Ccedil;elebi and colleagues learned that the retrofit engineering helped dampen the shaking of the building, but more or different types of retrofit engineering are needed to completely tackle all the different shaking effects that could cause damage in this tall building in the future.  This knowledge can be used for the engineering and retrofits of similar tall buildings in the future. Currently, in the United States, there are no buildings taller than 35 stories that have been retrofitted.
+  Japan is near a tectonic plate boundary, and as such experiences frequent earthquakes. On April 24, 2016 the M7.3 Kumamoto earthquake (478 km/297 mi away) shook the building, and again the shaking was recorded on the seismic instruments inside.  The good news was that indeed the severity of the shaking was lessened, but the bad news was that the building still experienced enough shaking to make it a risk for occupants in a future large earthquake.  &Ccedil;elebi and colleagues learned that the retrofit engineering helped dampen the shaking of the building, but more or different types of retrofit engineering are needed to completely tackle all the different shaking effects that could cause damage in this tall building in the future.  This knowledge can be used for the engineering and retrofits of similar tall buildings in the future. Currently, in the United States, there are no buildings taller than 35 stories that have been retrofitted.
 </p>
+
+<figure>
+<img src="images/braces.jpg" alt=""/>
+<figcaption>
+  One of the braces as seen from inside the building. (Photo by Mehmet &Ccedil;elebi, USGS)
+</figcaption>
+</figure>
+
+<figure>
+<img src="images/damper.jpg" alt=""/>
+<figcaption>
+  One of the dampers as seen from inside the building. (Photo by Mehmet &Ccedil;elebi, USGS)
+</figcaption>
+</figure>
 
 <h2>For More Information</h2>
 <ul>
   <li><a href="/monitoring/nsmp/buildings/">Earthquake Monitoring of Structures</a></li>
   <li>Mehmet &Ccedil;elebi, Toshihide Kashima, S. Farid Ghahari, Shin Koyama, Ertu&gbreve;rul Taciro&gbreve;lu, and Izuru Okawa (2017) <a href="http://earthquakespectra.org/doi/10.1193/122216EQS249M?code=eeri-site">Before and After Retrofit Behavior and Performance of a 55-Story Tall Building Inferred from Distant Earthquake and Ambient Vibration Data</a>. Earthquake Spectra: November 2017, Vol. 33, No. 4, pp. 1599-1626. </li>
 </ul>
+
+<h2>The Scientist Behind the Science</h2>
+<figure class='left'>
+<img src="images/Celebi.jpg" alt=""/>
+<figcaption>
+  Mehmet &Ccedil;elebi on the roof of the 73-story Costeneras Tower in Santiago, Chile. (Photo courtesy of Mehmet &Ccedil;elebi, USGS)
+</figcaption>
+</figure>
+<p>
+  Mehmet &Ccedil;elebi has been a USGS earthquake engineer for 34 years. He got interested in earthquakes when as a child his hometown was shaken by an earthquake, and the whole family slept in tents for a couple of weeks.  He taught earthquake engineering and structural dynamics at METU (Middle East Technical University in Ankarain from 1969 to 1977, and also was a co-founder of the METU EERC (Earthquake Engineering Research Center). He enjoys spending time with his 5 grandchildren!
+</p>
