@@ -24,7 +24,7 @@
 <figure class='left'>
 <img src="images/retrofit.jpg" alt=""/>
 <figcaption>
-  A schematic drawing showing the locations of the dampers and braces installed in the building for the retrofit.
+  A schematic drawing showing the locations of the braces and dampers installed in the building for the retrofit.
 </figcaption>
 </figure>
 
@@ -45,14 +45,14 @@
 <figure>
 <img src="images/braces.jpg" alt=""/>
 <figcaption>
-  One of the braces as seen from inside the building. (Photo by Mehmet &Ccedil;elebi, USGS)
+  Two of the braces as seen from inside the building. (Photo by Mehmet &Ccedil;elebi, USGS)
 </figcaption>
 </figure>
 
 <figure>
 <img src="images/damper.jpg" alt=""/>
 <figcaption>
-  One of the dampers as seen from inside the building. (Photo by Mehmet &Ccedil;elebi, USGS)
+  Two of the dampers as seen from inside the building. (Photo by Mehmet &Ccedil;elebi, USGS)
 </figcaption>
 </figure>
 
@@ -70,5 +70,5 @@
 </figcaption>
 </figure>
 <p>
-  Mehmet &Ccedil;elebi has been a USGS earthquake engineer for 34 years. He got interested in earthquakes when as a child his hometown was shaken by an earthquake, and the whole family slept in tents for a couple of weeks.  He taught earthquake engineering and structural dynamics at METU (Middle East Technical University in Ankarain from 1969 to 1977, and also was a co-founder of the METU EERC (Earthquake Engineering Research Center). He enjoys spending time with his 5 grandchildren!
+  Mehmet &Ccedil;elebi has been a USGS earthquake engineer for 34 years. He got interested in earthquakes when as a child his hometown was shaken by an earthquake, and the whole family slept in tents for a couple of weeks.  He taught earthquake engineering and structural dynamics at METU (Middle East Technical University in Ankara from 1969 to 1977, and also was a co-founder of the METU EERC (Earthquake Engineering Research Center). He enjoys spending time with his 5 grandchildren!
 </p>
