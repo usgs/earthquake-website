@@ -7,6 +7,60 @@
   include 'template.inc.php';
   }
 ?>
+
+<h2 id="2018">2018 One-Year Model</h2>
+<div class="row">
+
+  <div class="column one-of-two">
+    <figure>
+    <img src="images/ProbDamageEQ_2018-300x2.gif" maxwidth="300" alt=""/>
+    <figcaption>
+    Map showing chance of damage from an earthquake in the Central and Eastern United States during 2018. Percent chances are represented as follows: pale yellow, less than 1 percent; dark yellow, 1 to 2 percent; orange, 2 to 5 percent; red, 5 to 10 percent; dark red, 10 to 12 percent.
+    </figcaption>
+    </figure>
+
+    <p>
+      The USGS has produced the 2018 one-year probabilistic seismic hazard forecast for the central and eastern United States from induced and natural earthquakes. For consistency, the updated 2018 forecast is developed using the same probabilistic seismicity-based methodology as applied in the two previous forecasts.
+    </p>
+    <p>
+      Rates of earthquakes across the U.S. M &ge; 3.0 grew rapidly between 2008 and 2015 but have steadily declined over the past three years, especially in areas of Oklahoma and southern Kansas where fluid injection has decreased. The seismicity pattern in 2017 was complex with earthquakes more spatially dispersed than in previous years. Some areas of west-central Oklahoma experienced increased activity rates where industrial activity increased. Earthquake rates in Oklahoma (429 earthquakes of M &ge; 3 and 4 M &ge; 4), Raton Basin (Colorado/New Mexico border, 6 earthquakes M &ge; 3), and the New Madrid seismic zone (11 earthquakes M &ge; 3) continue to be higher than historical levels. Almost all of these earthquakes occurred within the highest hazard regions of the 2017 forecast.
+    </p>
+    <p>
+      Even though rates declined over the past three years, the short-term hazard for damaging ground shaking across much of Oklahoma remains at high levels due to continuing high rates of smaller earthquakes that are still hundreds of times higher than at any time in the State’s history. These short-term hazard levels are similar to active regions in California. During 2017, M &ge; 3 earthquakes also occurred in or near Ohio, West Virginia, Missouri, Kentucky, Tennessee, Arkansas, Illinois, Oklahoma, Kansas, Colorado, New Mexico, Utah, and Wyoming.
+    </p>
+  </div>
+
+  <div class="column one-of-two">
+    <h3>Documentation</h3>
+    <p>
+      <!--  <a href="http://dx.doi.org/10.1785/0220170005">
+      2017 One-Year Seismic Hazard Forecast for the Central and Eastern United States from Induced and Natural Earthquakes</a> - Seis. Res. Lett., v.88, n.3  -->
+    </p>
+
+    <h3>Maps for Media</h3>
+    <ul>
+      <li><a href="images/ProbDamageEQ_2018.pdf">Forecast for Damage from Natural and Induced Earthquakes in 2018</a><br/>(% Chance of Damage)</li>
+    </ul>
+
+    <h3>Scientific Data</h3>
+    <ul>
+      <li><a href="https://doi.org/10.5066/F7Cf9PC4">GIS Data, Catalogs, Seismic Hazard Data</a></li>
+      <li><a href="/static/lfs/nshm/sourceCode_2018.zip">Source Code</a></li>
+    </ul>
+
+    <p>
+      See also <a href="/research/induced/">Induced Seismicity Research</a>.
+    </p>
+
+  </div>
+</div>
+<hr/>
+
+
+
+
+
+
 <h2 id="2017">2017 One-Year Model</h2>
 <div class="row">
 
