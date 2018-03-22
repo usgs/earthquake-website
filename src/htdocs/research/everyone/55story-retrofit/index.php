@@ -42,7 +42,7 @@
   Dampers are similar to a suspension in a car that makes the ride more comfortable by decreasing the vibrations. Their function in a building is to decrease the severity of shaking in the building. When vibrations are decreased in a building, there is less chance of damage.  A BRB is intended to prevent motion between the floors of the building by providing extra rigidity, and at the same time, decrease the shaking by allowing the ends to yield, or buckle, which increases the damping capability of the building. BRB’s are now widely used in new and retrofitted buildings. (See the photos below.)
 </p>
 <p>
-  Japan is in a dynamic tectonic setting, and as such, experiences frequent earthquakes. On April 24, 2016 the M7.3 Kumamoto earthquake (478 km/297 mi away) shook the building, and again the shaking was recorded on the seismic instruments inside.  The good news was that indeed the severity of the shaking was lessened by the retrofit, however there are indications that the building can still experience significant shaking. This knowledge can be used for the engineering and retrofits of similar tall buildings in the future. Currently, in the United States, there are no buildings taller than 35 stories that have been retrofitted.
+  Japan is in a dynamic tectonic setting, and as such, experiences frequent earthquakes. On April 24, 2016 the M7.3 Kumamoto earthquake (478 km/297 mi away) shook the building, and again the shaking was recorded on the seismic instruments inside.  The good news was that indeed the severity of the shaking was lessened by the retrofit, however there are indications that the building can still experience significant shaking. This knowledge can be used for the engineering and retrofits of similar tall buildings in the future. Currently, in the United States, we are not aware of any buildings taller than 35 stories that have been retrofitted.
 </p>
 
 <figure>
@@ -69,7 +69,7 @@
 <figure class='left'>
 <img src="images/Celebi.jpg" alt=""/>
 <figcaption>
-  Mehmet &Ccedil;elebi on the roof of the 73-story Costeneras Tower in Santiago, Chile. (Photo courtesy of Mehmet &Ccedil;elebi, USGS)
+  Mehmet &Ccedil;elebi inside the display room on the roof of the 73-story Costeneras Tower in Santiago, Chile. (Photo courtesy of Mehmet &Ccedil;elebi, USGS)
 </figcaption>
 </figure>
 <p>
