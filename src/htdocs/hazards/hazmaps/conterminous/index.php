@@ -8,6 +8,25 @@
     }
 ?>
 
+<h2 id="2018">2018 Short-term Induced Seismicity Model</h2>
+<p>
+  <p>
+    The USGS has produced the 2018 one-year probabilistic seismic hazard forecast for the central and eastern United States from induced and natural earthquakes. For consistency, the updated 2018 forecast is developed using the same probabilistic seismicity-based methodology as applied in the two previous forecasts.
+  </p>
+  <p>
+    Rates of earthquakes across the U.S. M &ge; 3.0 grew rapidly between 2008 and 2015 but have steadily declined over the past three years, especially in areas of Oklahoma and southern Kansas where fluid injection has decreased. The seismicity pattern in 2017 was complex with earthquakes more spatially dispersed than in previous years. Some areas of west-central Oklahoma experienced increased activity rates where industrial activity increased. Earthquake rates in Oklahoma (429 earthquakes of M &ge; 3 and 4 M &ge; 4), Raton Basin (Colorado/New Mexico border, 6 earthquakes M &ge; 3), and the New Madrid seismic zone (11 earthquakes M &ge; 3) continue to be higher than historical levels. Almost all of these earthquakes occurred within the highest hazard regions of the 2017 forecast.
+  </p>
+  <p>
+    Even though rates declined over the past three years, the short-term hazard for damaging ground shaking across much of Oklahoma remains at high levels due to continuing high rates of smaller earthquakes that are still hundreds of times higher than at any time in the State’s history. These short-term hazard levels are similar to active regions in California. During 2017, M &ge; 3 earthquakes also occurred in or near Ohio, West Virginia, Missouri, Kentucky, Tennessee, Arkansas, Illinois, Oklahoma, Kansas, Colorado, New Mexico, Utah, and Wyoming.
+  </p>
+  <ul>
+    <li>
+      <a href="/hazards/induced/index.php#2018">2018 One-Year Seismic Hazard Model from Induced and Natural Earthquakes</a>
+    </li>
+  </ul>
+  <hr/>
+
+
 <h2 id="2017">2017 Short-term Induced Seismicity Model</h2>
 <p>
   The U.S Geological Survey (USGS) has produced a one-year 2017 seismic hazard forecast for the central and eastern United States from induced and natural earthquakes that updates the 2016 one-year forecast; this map is intended to provide information to the public and to facilitate the development of induced seismicity forecasting models, methods, and data. The 2017 hazard model applies the same methodology and input logic tree as the 2016 forecast, but with an updated earthquake catalog.

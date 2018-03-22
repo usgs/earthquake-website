@@ -21,6 +21,7 @@
     <h3>United States - Lower 48</h3>
     <h4>Short-term Induced Seismicity Models</h4>
     <ul>
+      <li><a href="conterminous/index.php#2018">2018</a></li>
       <li><a href="conterminous/index.php#2017">2017</a></li>
       <li><a href="conterminous/index.php#2016">2016</a></li>
     </ul>
