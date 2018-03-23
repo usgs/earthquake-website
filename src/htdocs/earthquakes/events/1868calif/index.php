@@ -42,6 +42,14 @@ if (!isset($TEMPLATE)){
       (or likelihood) of at least one earthquake of magnitude 6.7 or greater
       striking somewhere in the San Francisco Bay region before 2043.</p>
   </li>
+
+  <li>
+    <a href="https://outsmartdisaster.com/">
+      <h3>HayWired: Outsmart Disaster</h3>
+      <img src="images/outsmart.png" alt="Outsmart Disaster logo"></a>
+    <p>What if&hellip;<br />A 7.0 earthquake hit the San Francisco Bay Area?
+      Are you, your family, and your business prepared to outsmart disaster?</p>
+  </li>
 </ul>
 
 <h2>New Science and Products</h2>
@@ -86,6 +94,14 @@ if (!isset($TEMPLATE)){
     <p>A new model suggests the Hayward and Calaveras Faults should be treated
       as a single system with the potential for generating larger earthquakes in
       the San Francisco Bay Area.</p>
+  </li>
+
+  <li>
+    <a href="https://bayquakealliance.org/howclose/">
+      <h3>How Close to a Fault do You Live?</h3>
+      <img src="images/howclose.jpg" alt="Screen capture of web site"></a>
+    <p>Use our map to find out how close you and your family live to active 
+      faults in California.</p>
   </li>
 
   <li>
