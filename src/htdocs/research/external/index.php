@@ -19,11 +19,12 @@ if (!isset($TEMPLATE)) {
 
     <h2>Annual Competitive Grants</h2>
 
-<!--
-<p>
-  <strong><a href="https://www.grants.gov/web/grants/search-grants.html?keywords=G17AS00030">FY2018 Program Announcement</strong></a>
-</p>
--->
+    <p>
+      <strong>The FY19 External Grants Application Period is now open though May 22, 2018. The <a href="https://www.grants.gov/">grants.gov</a> Opportunity Number is G18AS00021.</strong>
+    </p>
+    <p>
+      <a href="https://www.grants.gov/web/grants/search-grants.html?keywords=G18AS00021">FY19 External Grants Program Announcement</a>
+    </p>
 
     <p>
       External Grants issues an annual Program announcement for competitive proposals for grants and cooperative agreements to support research in earthquake hazards, the physics of earthquakes, earthquake occurrence, and earthquake safety policy. To find out when the next application period will be, you can enroll on the <a href="http://grants.gov/">grants.gov</a> website to receive an email notification regarding "CFDA number 15.807 application period openings" : <a href="https://www.grants.gov/web/grants/manage-subscriptions.html">Manage Subscriptions</a>.
@@ -32,15 +33,9 @@ if (!isset($TEMPLATE)) {
     <p>
       During the Application period, applicants must submit proposals and other required documents through <a href="http://www.grants.gov/">Grants.gov</a>; paper copies will not be accepted.  Please note that the requirements and other guidance for submitting proposals, as wells as annual updates of research priorities, referred to as the Program Announcement, can only be accessed through <a href="http://www.grants.gov/">www.grants.gov</a>.
     </p>
-
-    <p>
-      The application period is generally open from early March to mid-May.
-    </p>
-
 <!--
     <p>
-      <strong>The application period is currently open until May 22, 2017.</strong>
-      <a href="http://www.grants.gov/web/grants/manage-subscriptions.html">Sign up for subscription notices from Grants.gov</a> regarding <i>"CFDA number 15.807 application period openings"</i>.
+      The application period is generally open from early March to mid-May.
     </p>
 -->
 
