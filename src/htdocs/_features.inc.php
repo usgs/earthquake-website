@@ -11,6 +11,15 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-03-26',
+  'title' => '55-Story Tall Building – Before and After Earthquake Retrofit',
+  'content' => 'A building in Japan was analyzed before and after a seismic retrofit to make it more resilient to shaking.',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/55story-retrofit/',
+  'modified' => strtotime('2018-03-26'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/55story-braces.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/s-amer-haz.png'
+);
 
 $EQ_FEATURES->items[] = array(
   'id' => '2018-03-14',
@@ -18,7 +27,7 @@ $EQ_FEATURES->items[] = array(
   'content' => 'New seismic hazard and risk assessments can help at-risk communities prepare for future earthquake disasters.',
   'link' => 'https://www.usgs.gov/news/usgs-authors-new-report-seismic-hazard-risk-and-design-south-america',
   'modified' => strtotime('2018-03-14'),
-  'thumbnail' => '/images-featured/s-amer-haz.png',
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/s-amer-haz.png',
   'image' => 'https://earthquake.usgs.gov/images-featured/s-amer-haz.png'
 );
 
