@@ -59,6 +59,8 @@
 </figcaption>
 </figure>
 
+<p>-written by Lisa Wald, U.S. Geological Survey</p>
+
 <h2>For More Information</h2>
 <ul>
   <li><a href="/monitoring/nsmp/buildings/">Earthquake Monitoring of Structures</a></li>

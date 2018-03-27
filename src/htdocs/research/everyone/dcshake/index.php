@@ -98,6 +98,8 @@ if (!isset($TEMPLATE)) {
   Shaking amplification due to soft sediments, combined with the long distances seismic waves travel in eastern North America and the large numbers of older, more fragile buildings could result in increased earthquake risk for much of the eastern U.S. and Gulf Coast regions.
 </p>
 
+<p>-written by Lisa Wald, U.S. Geological Survey</p>
+
 <h3>For More Information</h3>
 <ul>
   <li><a href="https://www.nps.gov/wamo/washington-monument-earthquake-update.htm">Washington Monument Damage and Updates</a></li>
