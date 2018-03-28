@@ -13,7 +13,7 @@
 
   <div class="column one-of-two">
     <figure>
-    <img src="images/ProbDamageEQ_2018.gif" maxwidth="300" alt=""/>
+    <img src="images/ProbDamageEQ_2018-300x2.gif" maxwidth="300" alt=""/>
     <figcaption>
     Map showing chance of damage from an earthquake in the Central and Eastern United States during 2018. Percent chances are represented as follows: pale yellow, less than 1 percent; dark yellow, 1 to 2 percent; orange, 2 to 5 percent; red, 5 to 10 percent; dark red, 10 to 12 percent. See Hazard from the western United States from the <a href="https://earthquake.usgs.gov/hazards/learn/images/2014hazmap-induced-lg.gif">2014 National Seismic Hazard Maps</a> (<a href="https://pubs.usgs.gov/of/2014/1091/">Petersen et al., 2014</a>) for comparison.
     </figcaption>
@@ -39,7 +39,7 @@
 
     <h3>Maps for Media</h3>
     <ul>
-      <li><a href="images/ProbDamageEQ_2018.pdf">Forecast for Damage from Natural and Induced Earthquakes in 2018</a><br/>(% Chance of Damage)</li>
+      <li><a href="images/ProbDamageEQ_2018-1.pdf">Forecast for Damage from Natural and Induced Earthquakes in 2018</a><br/>(% Chance of Damage)</li>
     </ul>
 
     <h3>Scientific Data</h3>
