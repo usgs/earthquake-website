@@ -11,6 +11,17 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-03-28',
+  'title' => 'Early Earthquake Warning! New Study Examines Safety Potentials and Limits',
+  'content' => 'USGS scientists and partners calculate possible alert times that earthquake early warning systems can provide people at different levels of ground motion from light to very strong shaking.',
+  'link' => 'https://www.usgs.gov/news/early-earthquake-warning-new-study-examines-safety-potentials-and-limits-0',
+  'modified' => strtotime('2018-03-28'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/eew-minson.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/eew-minson.jpg'
+);
+
 $EQ_FEATURES->items[] = array(
   'id' => '2018-03-26',
   'title' => '55-Story Tall Building – Before and After Earthquake Retrofit',
