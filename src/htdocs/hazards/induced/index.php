@@ -33,7 +33,7 @@
   <div class="column one-of-two">
     <h3>Documentation</h3>
     <p>
-      <a href="">
+      <a href="https://pubs.geoscienceworld.org/ssa/srl/article/529918/2018-one-year-seismic-hazard-forecast-for-the">
       2018 One-Year Seismic Hazard Forecast for the Central and Eastern United States from Induced and Natural Earthquakes</a> - Seis. Res. Lett., v.??, n.?
     </p>
 
@@ -50,7 +50,7 @@
 
     <h3>For More Information</h3>
     <ul>
-      <li>Science for Everyone article "Catchy Title Here"</li>
+      <!--<li>Science for Everyone article - <a href="/research/everyone/2018-oneyr-hazmap/">Earthquake Hazards Forecast for the Central and Eastern U.S. in 2018</a></li>-->
       <li><a href="/research/induced/">Induced Seismicity Research</a></li>
     </ul>
 
