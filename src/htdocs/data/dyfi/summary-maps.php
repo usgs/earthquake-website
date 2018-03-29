@@ -24,11 +24,15 @@
       <th>Global</th>
     </thead>
     <tr>
+      <td>2017</td>
+      <td><a href="/static/lfs/data/dyfi/pdfs-us/US2017.pdf">U.S. 2017 Map</a></td>
+      <td><a href="/static/lfs/data/dyfi/pdfs-global/Global2017.pdf">Global 2017 Map</a></td>
+    </tr>
+    <tr>
       <td>2016</td>
       <td><a href="/static/lfs/data/dyfi/pdfs-us/US2016.pdf">U.S. 2016 Map</a></td>
       <td><a href="/static/lfs/data/dyfi/pdfs-global/Global2016.pdf">Global 2016 Map</a></td>
     </tr>
-
     <tr>
       <td>2015</td>
       <td><a href="/static/lfs/data/dyfi/pdfs-us/US2015.pdf">U.S. 2015 Map</a></td>
@@ -143,16 +147,16 @@
     <strong><a href="http://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=9310990e7ce84e3b8567109616b0944d">Did You Feel It? Annual Data Viewer</a></strong> - new interactive map with a layer for each year
   </p>
 
-  <h2>U.S. Cumulative Responses 1991&mdash;2016</h2>
-  <a href="/static/lfs/data/dyfi/pdfs-us/DYFIus_cumul-2016.pdf">
-    <img class="map-cumul" src="images/US_cumul2016.png" alt="all U.S. DYFI responses through 2016"/>
-    <p>Click on image to view hi-resolution PDF (16.9MB)</p>
+  <h2>U.S. Cumulative Responses 1991&mdash;2017</h2>
+  <a href="/static/lfs/data/dyfi/pdfs-us/DYFIus_cumul-2017.pdf">
+    <img class="map-cumul" src="images/US_cumul2017.jpg" alt="all U.S. DYFI responses through 2017"/>
+    <p>Click on image to view hi-resolution PDF (12MB)</p>
   </a>
 
   <h2>Global Cumulative Responses 1991&mdash;2016</h2>
-  <a href="/static/lfs/data/dyfi/pdfs-global/DYFIglobal_cumul-2016.pdf">
-    <img class="map-cumul" src="images/Global_cumul2016.png" alt="all Global DYFI responses through 2016"/>
-    <p>Click on image to view hi-resolution PDF (7.3MB)</p>
+  <a href="/static/lfs/data/dyfi/pdfs-global/DYFIglobal_cumul-2017.pdf">
+    <img class="map-cumul" src="images/Global_cumul2017.jpg" alt="all Global DYFI responses through 2017"/>
+    <p>Click on image to view hi-resolution PDF (9.7MB)</p>
   </a>
 
 </section>
