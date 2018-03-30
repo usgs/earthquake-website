@@ -16,9 +16,9 @@
 
 <ul>
   <li>
-    <a href="update2018">2018 NSHM Update Workshop Information and Registration</a> - March 7-8th, 2018
+    <a href="update2018.php">2018 NSHM Update Workshop</a> - March 7-8th, 2018
   </li>
-
+</ul>
 
 <h2>Workshops for the 2014 National Hazard Maps</h2>
 
