@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  The following links are to PDF versions of the workshop presentations. All workshop participants have granted permission to post their presentations. If you prefer, you can download all of the presentations in <a href="2018updateworkshop.zip">one Zip file</a> (## MB).
+  The following links are to PDF versions of the workshop presentations. All workshop participants have granted permission to post their presentations. If you prefer, you can download all of the presentations in <a href="2018updateworkshop.zip">one Zip file</a> (48.3 MB).
 </p>
 
 <h2>Wednesday, March 7<sup>th</sup></h2>
