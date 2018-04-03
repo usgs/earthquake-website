@@ -10,7 +10,7 @@
 
 <h2>December 12-13, 2012</h2>
 
-<p><a href="/static/lfs/nshm/workshops/GMPE2012/http://ihouse.berkeley.edu/">I-House, Berkeley, CA</a><br />
+<p><a href="http://ihouse.berkeley.edu/">I-House, Berkeley, CA</a><br />
 Hosted by the Pacific Earthquake Engineering Research Center</p>
 
 <p>The links in the following agendas are to PDF files of participants that have granted permission to view their presentations. </p>
