@@ -153,7 +153,7 @@
     <p>Click on image to view hi-resolution PDF (12MB)</p>
   </a>
 
-  <h2>Global Cumulative Responses 1991&mdash;2016</h2>
+  <h2>Global Cumulative Responses 1991&mdash;2017</h2>
   <a href="/static/lfs/data/dyfi/pdfs-global/DYFIglobal_cumul-2017.pdf">
     <img class="map-cumul" src="images/Global_cumul2017.jpg" alt="all Global DYFI responses through 2017"/>
     <p>Click on image to view hi-resolution PDF (9.7MB)</p>
