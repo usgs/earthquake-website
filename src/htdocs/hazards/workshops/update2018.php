@@ -38,7 +38,7 @@
           <li><a href="/static/lfs/nshm/workshops/2018update/Day_1_Graizer_NSHM_2018_v2.pdf">G16 and G16v2 GMPEs for CENA</a> (2.1MB) – Vladimir Graizer</li>
       </ul>
       </li>
-      <li><a href="/static/lfs/nshm/workshops/2018update/Day_1_Frankel_Concerns_about_NGA-East_GMMs.pdf">Concerns about the NGA-East GMMs</> (1.1MB) – Art Frankel</li>
+      <li><a href="/static/lfs/nshm/workshops/2018update/Day_1_Frankel_Concerns_about_NGA-East_GMMs.pdf">Concerns about the NGA-East GMMs</a> (1.1MB) – Art Frankel</li>
     </ul>
   </li>
 
