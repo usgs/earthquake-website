@@ -36,7 +36,7 @@
 </figure>
 
 <p>
-  Van der Elst and Page decided to try something completely different. Their idea was to directly compare the beginning of a new aftershock sequence with all past aftershock sequences in the region, and look for sequences with similar onsets (beginnings?).  The outcomes of those past sequences are then used to describe the range of possibilities for the new sequence.  By using a huge catalog of past aftershock sequences, van der Elst and Page were able to accurately forecast how many aftershocks were likely to occur in any new sequence.
+  Van der Elst and Page decided to try something completely different. Their idea was to directly compare the beginning of a new aftershock sequence with all past aftershock sequences in the region, and look for sequences with similar beginnings.  The outcomes of those past sequences are then used to describe the range of possibilities for the new sequence.  By using a huge catalog of past aftershock sequences, van der Elst and Page were able to accurately forecast how many aftershocks were likely to occur in any new sequence.
 </p>
 <p>
   So the new technique worked... but was it better?  The scientists found that in most cases their “similarity method” for aftershock forecasting worked about as well as one of the standard statistical models.  However, in one important aspect it was even better: there were many fewer “surprises” where the number of observed aftershocks exceeded the upper limit given by the forecast.  It is especially important to accurately forecast these very active aftershock sequences, because the larger the number of aftershocks, the larger the chance that one of those aftershocks will itself turn out to be a large, damaging earthquake. Having a better sense of the true aftershock possibilities can help prevent emergency responders and the public from being caught flat-footed.
@@ -54,3 +54,10 @@
 </ul>
 
 <h2>The Scientists Behind the Science</h2>
+
+<p>
+  Nicholas van der Elst has been a geophysicist with the USGS since 2015, where he works on earthquake physics and aftershock forecasting. When not in the office, he can be found enjoying the less destructive side of California geology through mountaineering, caving, and rock climbing.
+</p>
+<p>
+  Morgan Page...
+</p>
