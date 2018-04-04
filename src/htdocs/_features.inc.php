@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-04-04',
+  'title' => 'USGS Seeks Earthquake Hazards Research Proposals',
+  'content' => 'The USGS is currently soliciting project proposals for Fiscal Year 2019 grants on earthquake hazards science with an authorization to award up to $7 million.',
+  'link' => 'https://www.usgs.gov/news/usgs-seeks-earthquake-hazards-research-proposals-0',
+  'modified' => strtotime('2018-04-04'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/2018grants.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/2018grants.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-03-28',
   'title' => 'Early Earthquake Warning! New Study Examines Safety Potentials and Limits',
   'content' => 'USGS scientists and partners calculate possible alert times that earthquake early warning systems can provide people at different levels of ground motion from light to very strong shaking.',
