@@ -79,7 +79,7 @@ if (!isset($TEMPLATE)) {
 </ul>
 
 <h2>See Also</h2>
-<ul class="linklist">
+<ul class="no-style linklist">
   <li>
     <a href="https://www.exploratorium.edu/faultline/great/loma1.html">
       <h3>Faultline: Remembering Loma Prieta</h3>
