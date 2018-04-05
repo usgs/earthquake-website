@@ -107,8 +107,16 @@
         include 'today/_imbed.inc.php';
        ?>
     </div>
-    <div class="alert" style="margin-bottom:16px">
 
+    <div class="alert" style="margin-bottom:16px; padding-top:0;">
+      <a href="everyone/">
+      <h3>Science for Everyone</h3>
+        <img src="/images-featured/trench-xsect.gif"  width="384" alt="cross-section with layers and a fault outlined"/>
+      </a>
+      <p>Science briefs about new earthquake research written for non-scientists.</p>
+    </div>
+
+    <div class="alert" style="margin-bottom:16px">
       <h3>Multimedia</h3>
       <a href="photos.php"><img src="images/hectormine.jpg" alt="two people walking on top of a fault scarp"/></a>
       <ul>
