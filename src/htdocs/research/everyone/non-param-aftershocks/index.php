@@ -48,6 +48,7 @@
   <li>
     <a href="https://www.usgs.gov/faqs/foreshocks-aftershocks-whats-difference?qt-news_science_products=7#qt-news_science_products">FAQ: Foreshocks, aftershocks - what's the difference?</a>
   </li>
+
   <li>
     Nicholas J. van der Elst, Morgan T. Page; <a href="https://pubs.geoscienceworld.org/ssa/srl/article-abstract/89/1/145/525408/nonparametric-aftershock-forecasts-based-on?redirectedFrom=fulltext">Nonparametric Aftershock Forecasts Based on Similar Sequences in the Past</a>. Seismological Research Letters ; 89 (1): 145–152. doi: https://doi.org/10.1785/0220170155
   </li>
@@ -55,9 +56,24 @@
 
 <h2>The Scientists Behind the Science</h2>
 
-<p>
-  Nicholas van der Elst has been a geophysicist with the USGS since 2015, where he works on earthquake physics and aftershock forecasting. When not in the office, he can be found enjoying the less destructive side of California geology through mountaineering, caving, and rock climbing.
-</p>
-<p>
-  Morgan Page...
-</p>
+<div class='row'>
+  <div class='column one-of-two'>
+    <p>
+      <strong>Nicholas van der Elst</strong> has been a geophysicist with the USGS since 2015, where he works on earthquake physics and aftershock forecasting. When not in the office, he can be found enjoying the less destructive side of California geology through mountaineering, caving, and rock climbing.
+    </p>
+
+  </div>
+  <div class='column one-of-two'>
+    <figure class='left morganpage'>
+    <img src="images/MorganPage.jpg" alt=""/>
+    <figcaption>
+      Morgan and her daughter Emmy at Santa Monica Pier.
+    </figcaption>
+    </figure>
+
+    <p>
+      <strong>Morgan Page</strong> has worked at the USGS for ten years researching in areas where statistics and seismology intersect.  She loves solving puzzles of all kinds, not just science-related.
+    </p>
+
+  </div>
+</div>

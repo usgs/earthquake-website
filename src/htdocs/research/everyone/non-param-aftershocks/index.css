@@ -12,3 +12,7 @@
   width: 450px;
   margin-left: 20px;
 }
+
+figure.morganpage {
+  max-width: 200px;
+}
