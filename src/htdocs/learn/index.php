@@ -109,7 +109,7 @@
     </div>
 
     <div class="alert" style="margin-bottom:16px; padding-top:0;">
-      <a href="everyone/">
+      <a href="/research/everyone/">
       <h3>Science for Everyone</h3>
         <img src="/images-featured/trench-xsect.gif"  width="384" alt="cross-section with layers and a fault outlined"/>
       </a>
