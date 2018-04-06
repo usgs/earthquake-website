@@ -42,6 +42,12 @@ if (!isset($TEMPLATE)) {
     <p>Jones, J., Kalkan, E. and Stephens, C. (2017). <a href="https://pubs.er.usgs.gov/publication/ofr20171008">Processing and Review Interface for Strong Motion Data (PRISM)—Methodology and Automated Processing</a>, Version 1.0.0: U.S. Geological Survey Open-File Report, 2017–1008, 81 p.</p>
   </li>
   <li>
+    <a href="prism-ref.pdf">
+      <img src="prism-ref.png" width="100" alt="Cover page of publication">
+    </a>
+    <p>Jones, J., Kalkan, E., Stephens, C. and Ng, P. (2018). <a href="prism-ref.pdf">PRISM: Processing and Review Interface for Strong-Motion Data Software</a>, Proc. of the 11th National Earthquake Engineering Conference, Los Angeles, CA.</p>
+  </li>
+  <li>
     <a href="https://pubs.geoscienceworld.org/srl/article-lookup/88/3/851">
       <img src="0220160200.png" width="100" alt="Cover page of publication" />
     </a>
