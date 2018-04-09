@@ -11,7 +11,8 @@
     navItem("${section}/glossary/", "Earthquake Glossary") .
     navItem("${section}/preparedness.php", "Prepare") .
     navItem("${section}/kml.php", "Google Earth/KML Files") .
-    navItem("${section}/posters.php", "Earthquake Summary Posters") ,
+    navItem("${section}/posters.php", "Earthquake Summary Posters") .
+    navItem("${section}/today/", "Today in Earthquake History") ,
 
   "</section>"
   ;
