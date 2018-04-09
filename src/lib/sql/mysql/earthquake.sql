@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-03-20 22:51:32 +0000
+# Generation Time: 2018-04-09 20:01:56 +0000
 # ************************************************************
 
 
@@ -3132,7 +3132,7 @@ VALUES
 	(374,'Citizen Corps - Community Emergency Response Teams (CERT)','Citizen Corps','http%3A%2F%2Fwww.fema.gov%2Fcommunity-emergency-response-teams','Educates people about disaster preparedness for hazards that may impact their area and trains them in basic disaster response skills, such as fire safety, light search and rescue, team organization, and disaster medical operations. '),
 	(376,'Central U.S. Earthquake Consortium','Central U.S. Earthquake Consortium (CUSEC)','http%3A%2F%2Fwww.cusec.org%2F','Information about earthquakes in the central U.S.'),
 	(379,'Earthquake Country Alliance','Earthquake Country Alliance','http://www.earthquakecountry.org/','Earthquake preparedness for California'),
-	(381,'Are You Ready?','FEMA','http%3A%2F%2Fwww.ready.gov%2Fare-you-ready-guide','Includes resources and best practices'),
+	(381,'ready.gov - Plan Ahead for Disasters','FEMA','https://www.ready.gov/','Includes resources and best practices'),
 	(382,'FEMA Earthquake Information','FEMA','http%3A%2F%2Fwww.fema.gov%2Fearthquake','Includes resources and best practices'),
 	(386,'Natural Hazards Center','University of Colorado','http%3A%2F%2Fwww.colorado.edu%2Fhazards%2F','resources concerning hazards mitigation and disaster preparedness'),
 	(388,'Building Safety and Preparedness','Institute for Business & Home Safety','https%3A%2F%2Fwww.disastersafety.org%2Fearthquake%2F','Disaster planning toolkit for the home and small business.'),
@@ -3188,7 +3188,6 @@ VALUES
 	(486,'Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012','USGS','/research/everyone/maine2012/','Old-fashioned interviews are compared to Did You Feel It? responses for this earthquake.'),
 	(487,'Paleoseismology, Introduction to','USGS','/learn/topics/paleo-intro/','What is paleoseismology? How does it work?'),
 	(488,'Earthquake Footage','American Geophysical Union','http://blogs.agu.org/tremblingearth/earthquake-footage/','Videos from webcams, security cameras, and newsreels during the shaking from various earthquakes.'),
-	(489,'QuakeSmart','Fed. Alliance for Safe Homes','http://www.flash.org/quakesmartcommunity/index.html','Information to help you identify your risk, develop a plan, and take action.'),
 	(490,'Geoscience Education Resources Network','American Geosciences Institute','https://www.americangeosciences.org/center-for-geo/ern','A plethora a resources, including lesson plans, classroom science activities, curriculum materials, image collections, presentations, videos and animations, virtual field trips, etc.'),
 	(491,'seismicsoundlab','seismicsoundlab.org','http://www.seismicsoundlab.org/','Creative visualizations of seismicity, seismic waves, ground motion.  Learning units are also being added.'),
 	(494,'Digging Into the Past on the Teton Fault','USGS','/learn/topics/teton-paleo/','Follow the daily activities of a team of geologists and paleoseismologists as they dig a trench and collect data on the Teton Fault. (from a fieldwork blog September 15-21, 2017)'),
