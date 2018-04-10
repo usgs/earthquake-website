@@ -58,6 +58,13 @@
 
 <div class='row'>
   <div class='column one-of-two'>
+    <figure class='left vander'>
+    <img src="images/vanderElst.jpg" alt=""/>
+    <figcaption>
+      Nick van der Elst at the beach.
+    </figcaption>
+    </figure>
+
     <p>
       <strong>Nicholas van der Elst</strong> has been a geophysicist with the USGS since 2015, where he works on earthquake physics and aftershock forecasting. When not in the office, he can be found enjoying the less destructive side of California geology through mountaineering, caving, and rock climbing.
     </p>
