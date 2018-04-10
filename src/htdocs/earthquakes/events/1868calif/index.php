@@ -97,7 +97,7 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="http://seismo.berkeley.edu/~burgmann/RESEARCH/research_Hayward_calaveras_EC.html">
+    <a href="https://seismo.berkeley.edu/~burgmann/RESEARCH/research_Hayward_calaveras_EC.html">
       <h3>Direct Connection Between the Hayward and Calaveras Faults Uncovered</h3>
       <img src="images/hayward-calaveras.jpg" alt="map of hayward and calveras faults"/>
     </a>
@@ -135,7 +135,7 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="http://pubs.usgs.gov/sim/3045/">
+    <a href="https://pubs.usgs.gov/sim/3045/">
       <h3>Three-Dimensional Geologic Map of the Hayward Fault Zone</h3>
       <img src="images/3dmap.gif" alt="Photo of the Three-Dimensional Geologic Map of the Hayward Fault Zone"/>
     </a>
@@ -144,7 +144,7 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="http://pubs.usgs.gov/of/2008/1121/"/a>
+    <a href="https://pubs.usgs.gov/of/2008/1121/"/a>
       <h3>Intensity Maps for the 1868 Hayward Earthquake</h3>
       <img src="images/1868intensity.jpg" alt="Photo of the Intensity Maps for the 1868 Hayward Earthquake"/>
     </a>
@@ -153,7 +153,7 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="http://geomaps.wr.usgs.gov/gump/people/ponce/hayward_fault/hf.html">
+    <a href="https://geomaps.wr.usgs.gov/gump/people/ponce/hayward_fault/hf.html">
       <h3>Geometry and Evolution of the Hayward Fault</h3>
       <img src="images/geometry.jpg" alt="Image of the Geometry and Evolution of the Hayward Fault"/>
     </a>
@@ -167,7 +167,7 @@ if (!isset($TEMPLATE)){
 
 <ul class="no-style linklist">
   <li>
-    <a href="http://pubs.usgs.gov/of/2008/1135/">
+    <a href="https://pubs.usgs.gov/of/2008/1135/">
       <h3>Where&rsquo;s the Hayward Fault? A Green Guide to the Fault</h3>
       <img src="images/greenguide.jpg" alt="Photo of the Hayward Fault"/>
     </a>
@@ -178,7 +178,7 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="http://seismo.berkeley.edu/hayward/hayward_tours.html">
+    <a href="https://seismo.berkeley.edu/hayward/hayward_tours.html">
       <h3>The Hayward Fault: Maps &amp; Tours</h3>
       <img src="images/hwfault-curb.jpg" alt="Photo of an offset curb"></a>
     <p>You can see the footprints of the Hayward Fault all over the place once
@@ -200,7 +200,7 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="http://pubs.usgs.gov/bul/b2188/b2188ch2.pdf"/>
+    <a href="https://pubs.usgs.gov/bul/b2188/b2188ch2.pdf"/>
       <h3>Field Guide to the Hayward Fault (29 MB pdf)</h3>
       <img src="images/slide.jpg" alt="Photo of debris flows on the Hayward Fault"/>
     </a>
@@ -243,13 +243,24 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
-    <a href="http://seismo.berkeley.edu/~burgmann/RESEARCH/research_HF.html">
+    <a href="https://seismo.berkeley.edu/~burgmann/RESEARCH/research_HF.html">
       <h3>The Accumulation of Interseismic Strain Along the Hayward Fault</h3>
       <img src="images/insar.jpg" alt="InSAR image of the Hayward Fault"/>
     </a>
     <p>Interseismic surface deformation along the Hayward Fault monitored with
     Interferometric Synthetic Aperture Radar (InSAR) and the Global
     Positioning System (GPS).</p>
+  </li>
+
+  <li>
+    <a href="/learn/topics/hayward_paleo/">
+      <h3>Paleoseismology and the Hayward Fault</h3>
+      <img src="images/recurrence.png" alt="plot showing earthquake recurrence" /></a>
+    <p>A large, widely damaging earthquake will occur on the Hayward fault in
+      the future, but we don&rsquo;t know when. Using the tools of paleoseismology,
+      earthquake geologists have determined that large earthquakes occur roughly
+      every 100 to 200 years on the Hayward fault, and it&rsquo;s been 150 years since
+      the last event.</p>
   </li>
 
   <li>
