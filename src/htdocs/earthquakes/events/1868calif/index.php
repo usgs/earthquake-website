@@ -51,15 +51,6 @@ if (!isset($TEMPLATE)){
       Are you, your family, and your business prepared to outsmart disaster?</p>
   </li>
 
-  <li>
-    <a href="http://mynspr.org/post/blue-dot-93-hayward-fault">
-      <h3>Blue Dot Podcast: The Hayward Fault</h3>
-      <img src="images/bluedot.png" alt="Blue Dot Podcast logo"></a>
-    <p>Host Dave Schlom is joined by USGS Geophysicist Ken Hudnut as they
-      interview two leading experts on the Hayward Fault: USGS scientists
-      David Schwartz and Tom Brocher. It&rsquo;s a fascinating and frightening
-      discussion of the &ldquo;ticking seismic time bomb&rdquo; beneath the East Bay.</p>
-  </li>
 </ul>
 
 <h2>New Science and Products</h2>
@@ -76,12 +67,31 @@ if (!isset($TEMPLATE)){
   </li>
 
   <li>
+    <a href="https://wim.usgs.gov/geonarrative/safrr/haywired_vol1/">
+      <h3>The HayWired Scenario: An Urban Earthquake in a Connected World</h3>
+      <img src="images/storymap.jpg" alt="image depicting bay area eq hazards"></a>
+    <p>This &ldquo;geonarrative&rdquo;, which includes interactive maps, videos, and other
+      media, examines the earthquake hazards in the HayWired scenario&rsquo;s 11-county
+      study area.</p>
+  </li>
+
+  <li>
     <a href="/learn/topics/shakingsimulations/hayward/">
       <h3>Hayward Fault Scenario Earthquake Animations</h3>
       <img src="images/hayward.jpg" alt="Photo of the Hayward Fault"/>
     </a>
     <p>Computer simulations of earthquake shaking on the Hayward
       and Rodgers Creek faults.</p>
+  </li>
+
+  <li>
+    <a href="http://mynspr.org/post/blue-dot-93-hayward-fault">
+      <h3>Blue Dot Podcast: The Hayward Fault</h3>
+      <img src="images/bluedot.png" alt="Blue Dot Podcast logo"></a>
+    <p>Host Dave Schlom is joined by USGS Geophysicist Ken Hudnut as they
+      interview two leading experts on the Hayward Fault: USGS scientists
+      David Schwartz and Tom Brocher. It&rsquo;s a fascinating and frightening
+      discussion of the &ldquo;ticking seismic time bomb&rdquo; beneath the East Bay.</p>
   </li>
 
   <li>
