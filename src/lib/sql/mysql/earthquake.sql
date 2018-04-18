@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-04-09 20:01:56 +0000
+# Generation Time: 2018-04-18 16:36:19 +0000
 # ************************************************************
 
 
@@ -5329,7 +5329,13 @@ VALUES
 	(470,4,11,'UCERF3: A New Earthquake Forecast for California\'s Complex Fault System','https://pubs.er.usgs.gov/publication/fs20153009','(FS-2015-3009)'),
 	(475,4,10,'Helping safeguard Veterans Affairs\' hospital buildings by advanced earthquake monitoring','https://pubs.er.usgs.gov/publication/fs20123094','(FS-2012-3094)'),
 	(476,4,12,'Reducing Risk Where Tectonic Plates Collide','https://pubs.er.usgs.gov/publication/fs20173024','(FS-2017-3024)'),
-	(477,8,36,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/cir1428','(Circular 1428)');
+	(477,8,36,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/cir1428','(Circular 1428)'),
+	(478,3,11,'The HayWired Earthquake Scenario - We Can Outsmart Disaster','https://pubs.er.usgs.gov/publication/fs20183016','(FS-2018-3016)'),
+	(479,4,11,'The HayWired Earthquake Scenario','https://pubs.er.usgs.gov/publication/sir20175013','(SIR-2017-5013)'),
+	(480,3,12,'A Magnitude 7.1 Earthquake in the Tacoma Fault Zone-A Plausible Scenario for the Southern Puget Sound Region, Washington','https://pubs.er.usgs.gov/publication/fs20103023','(FS-2010-3023)'),
+	(481,3,10,'Real-time seismic monitoring of instrumented hospital buildings','https://pubs.er.usgs.gov/publication/fs20123028','(FS-2012-3028)'),
+	(482,3,11,'UNLV?s environmentally friendly Science and Engineering Building is monitored for earthquake shaking','https://pubs.er.usgs.gov/publication/fs20133022','(FS-2013-3022)'),
+	(483,3,10,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/fs20173024','(FS-2017-3024)');
 
 /*!40000 ALTER TABLE `products` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -5355,7 +5361,7 @@ VALUES
 	(1,'Maps','Earthquake maps, fault maps, siesmic hazard maps, and site response maps, both online and print.'),
 	(2,'General Information','Earthquake bibliographies, General Interest publications, plate tectonics, and tsunami publications.'),
 	(4,'Fact Sheets','2-page and 4-page short summaries of a variety of earthquake-related topics and current research, most downloadable.'),
-	(8,'Open-File Reports/Bulletins/Circulars','Longer and more detailed publications about a variety of earthquake topics, specific earthquakes, and current research.');
+	(8,'Open-File Reports/Bulletins/Circulars/Scientific Investigation Reports','Longer and more detailed publications about a variety of earthquake topics, specific earthquakes, and current research.');
 
 /*!40000 ALTER TABLE `productsCategory` ENABLE KEYS */;
 UNLOCK TABLES;
