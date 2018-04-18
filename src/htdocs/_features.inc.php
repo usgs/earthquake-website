@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-04-18',
+  'title' => 'USGS Rolls Out Groundbreaking Earthquake Study: The HayWired Earthquake Scenario',
+  'content' => 'USGS collaborates with key academic, state, local, and industry partners to provide a new look at what could happen during a major earthquake in the San Francisco Bay Area.',
+  'link' => 'https://www.usgs.gov/news/usgs-rolls-out-groundbreaking-earthquake-study-haywired-earthquake-scenario?qt-news_science_products=1#qt-news_science_products',
+  'modified' => strtotime('2018-04-18'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/HayWired.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/HayWired.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-04-04',
   'title' => 'USGS Seeks Earthquake Hazards Research Proposals',
   'content' => 'The USGS is currently soliciting project proposals for Fiscal Year 2019 grants on earthquake hazards science with an authorization to award up to $7 million.',
