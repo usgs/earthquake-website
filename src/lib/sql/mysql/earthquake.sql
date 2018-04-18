@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-04-18 16:36:19 +0000
+# Generation Time: 2018-04-18 19:13:07 +0000
 # ************************************************************
 
 
@@ -1379,7 +1379,13 @@ VALUES
 	(499,6),
 	(500,9),
 	(501,9),
-	(501,6);
+	(501,6),
+	(502,8),
+	(502,9),
+	(502,7),
+	(503,8),
+	(503,9),
+	(503,7);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1968,7 +1974,16 @@ VALUES
 	(501,8),
 	(501,13),
 	(501,10),
-	(501,9);
+	(501,9),
+	(503,9),
+	(502,9),
+	(502,10),
+	(502,13),
+	(502,11),
+	(503,10),
+	(503,13),
+	(503,8),
+	(503,11);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2120,7 +2135,11 @@ VALUES
 	(499,45),
 	(499,30),
 	(499,44),
-	(499,42);
+	(499,42),
+	(503,42),
+	(503,44),
+	(503,30),
+	(503,45);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2936,7 +2955,30 @@ VALUES
 	(501,79),
 	(501,30),
 	(501,25),
-	(501,63);
+	(501,63),
+	(503,82),
+	(503,37),
+	(503,63),
+	(503,25),
+	(503,51),
+	(503,44),
+	(503,68),
+	(503,77),
+	(502,82),
+	(502,37),
+	(502,25),
+	(502,77),
+	(502,79),
+	(502,52),
+	(502,50),
+	(502,57),
+	(503,66),
+	(503,79),
+	(503,62),
+	(503,67),
+	(503,50),
+	(503,57),
+	(503,72);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3196,7 +3238,9 @@ VALUES
 	(497,'Recovering From a Natural Disaster in College: A Student?s Guide for What to do on Campus','AffordableCollegesOnline.org','https://www.affordablecollegesonline.org/college-resource-center/natural-disasters/','What college students can do to prepare for a natural disaster, and what to do if one happens.'),
 	(498,'Interactive 3D Earthquake Viewer','Interactive Earth','https://www.interactive-earth.com/earthquakes','Uses the USGS Earthquake Catalog API. Search for earthquakes, and then interact with the 3-D earthquake location viewer. There is a <a href=\"https://www.interactive-earth.com/downloads/lets-look-inside-the-earth.pdf\">classroom activity</a> for 5-8th grades to accompany this.'),
 	(500,'TsunamiZone.org','SCEC','https://www.tsunamizone.org/','Resources and information about tsunami education and preparedness.'),
-	(501,'ParsQuake','ParsQuake.org','http://parsquake.org/','Earthquake education in the global Persian community.');
+	(501,'ParsQuake','ParsQuake.org','http://parsquake.org/','Earthquake education in the global Persian community.'),
+	(502,'What to Expect in a Big Urban Earthquake','USGS','https://wim.usgs.gov/geonarrative/safrr/WTE_earthquake/','An ArcGIS geo-narrative storymap that describes what can be expected if there is a large earthquake in a populated urban area.'),
+	(503,'The HayWired Scenario: An Urban Earthquake in a Connected World','USGS','http://usgs.maps.arcgis.com/apps/MapSeries/index.html?appid=364fa6f34520464ba081cb0785671193','An ArcGIS geo-narrative storymap with compelling images showing the effects and consequences possible in the next large earthquake on the Hayward Fault in the San Francisco Bay Area.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
