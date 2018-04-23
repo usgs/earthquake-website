@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-04-18 19:13:07 +0000
+# Generation Time: 2018-04-23 15:20:45 +0000
 # ************************************************************
 
 
@@ -1385,7 +1385,9 @@ VALUES
 	(502,7),
 	(503,8),
 	(503,9),
-	(503,7);
+	(503,7),
+	(504,9),
+	(505,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1983,7 +1985,9 @@ VALUES
 	(503,10),
 	(503,13),
 	(503,8),
-	(503,11);
+	(503,11),
+	(504,13),
+	(505,13);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2139,7 +2143,10 @@ VALUES
 	(503,42),
 	(503,44),
 	(503,30),
-	(503,45);
+	(503,45),
+	(504,45),
+	(504,32),
+	(505,25);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2978,7 +2985,14 @@ VALUES
 	(503,67),
 	(503,50),
 	(503,57),
-	(503,72);
+	(503,72),
+	(504,57),
+	(504,50),
+	(504,52),
+	(504,85),
+	(504,37),
+	(505,52),
+	(505,85);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3240,7 +3254,9 @@ VALUES
 	(500,'TsunamiZone.org','SCEC','https://www.tsunamizone.org/','Resources and information about tsunami education and preparedness.'),
 	(501,'ParsQuake','ParsQuake.org','http://parsquake.org/','Earthquake education in the global Persian community.'),
 	(502,'What to Expect in a Big Urban Earthquake','USGS','https://wim.usgs.gov/geonarrative/safrr/WTE_earthquake/','An ArcGIS geo-narrative storymap that describes what can be expected if there is a large earthquake in a populated urban area.'),
-	(503,'The HayWired Scenario: An Urban Earthquake in a Connected World','USGS','http://usgs.maps.arcgis.com/apps/MapSeries/index.html?appid=364fa6f34520464ba081cb0785671193','An ArcGIS geo-narrative storymap with compelling images showing the effects and consequences possible in the next large earthquake on the Hayward Fault in the San Francisco Bay Area.');
+	(503,'The HayWired Scenario: An Urban Earthquake in a Connected World','USGS','http://usgs.maps.arcgis.com/apps/MapSeries/index.html?appid=364fa6f34520464ba081cb0785671193','An ArcGIS geo-narrative storymap with compelling images showing the effects and consequences possible in the next large earthquake on the Hayward Fault in the San Francisco Bay Area.'),
+	(504,'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes','USGS','/research/everyone/dcshake/','Science for Everyone article'),
+	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
