@@ -38,8 +38,8 @@
       <td><p>Incorporated Research Institutions for Seismology</p></td>
     </tr>
     <tr>
-      <td><p>Deierlein, Greg<br />(EERI &ndash; Structures)</p></td>
-      <td><p>Stanford University</p></td>
+      <td><p>Mehrain, Michael<br />(EERI &ndash; Structures)</p></td>
+      <td><p>Mehrain Naeim International Structural Engineers</p></td>
     </tr>
     <tr>
       <td><p>Hardebeck, Jeanne<br />(USGS Earthquake Hazards Science Center)</p></td>
