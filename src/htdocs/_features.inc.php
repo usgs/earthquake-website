@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-04-24',
+  'title' => 'East vs West Coast Earthquakes',
+  'content' => 'Why was an earthquake in Virginia felt at more than twice the distance than a similar-sized earthquake in California? The answer is one that many people may not realize.',
+  'link' => 'https://www.usgs.gov/news/east-vs-west-coast-earthquakes',
+  'modified' => strtotime('2018-04-24'),
+  'thumbnail' => '/images-featured/DYFI-Dover.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/DYFI-Dover.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-04-18',
   'title' => 'USGS Rolls Out Groundbreaking Earthquake Study: The HayWired Earthquake Scenario',
   'content' => 'USGS collaborates with key academic, state, local, and industry partners to provide a new look at what could happen during a major earthquake in the San Francisco Bay Area.',
