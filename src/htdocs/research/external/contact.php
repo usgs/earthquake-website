@@ -114,7 +114,7 @@ if (!isset($TEMPLATE)) {
     <br />
   </li>
   <li>
-    <strong>Earthquake Effects Research Topical Coordinator</strong><br />
+    <strong>Engineering Seismology and Impacts (ESI)</strong><br />
     Dr. David Wald<br />
     US Geological Survey<br />
     physical location:1711 Illinois St., Golden, CO  80401<br />
@@ -211,14 +211,13 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     <strong>Southern California Regional Coordinator</strong><br />
-    Dr. Rob Graves<br />
+    Dr. Kate Scharer<br />
     US Geological Survey<br />
     525 S Wilson Ave<br />
     Pasadena, CA 91106-3212<br />
     <br />
-    Phone 626-583-7239<br />
-    Fax 626-583-7827<br />
-    Email <a href="mailto:rwgraves@usgs.gov">Rob Graves</a><br />
+    Phone 626-583-7240<br />
+    Email <a href="mailto:kscharer@usgs.gov">Kate Scharer</a><br />
     <br />
   </li>
 </ul>
