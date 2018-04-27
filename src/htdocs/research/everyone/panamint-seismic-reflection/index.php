@@ -78,15 +78,15 @@
 <h2>The Scientist Behind the Science</h2>
 
 <figure class='left'>
-<img src="images/Ryan_logging.jpg" alt=""/>
+<img src="images/Bill-Stephenson.jpg" alt=""/>
 <figcaption>
-  Ryan Gold logging paleoseismology data in the Buffalo Bowl trench site near Teton National Park, WY.
+  Bill Stephenson.
 </figcaption>
 </figure>
 
 <p>
-  <strong><a href="https://www.usgs.gov/staff-profiles/ryan-gold?qt-staff_profile_science_products=3#qt-staff_profile_science_products">Ryan Gold</a></strong> (the crew leader) is a Research Geologist with the USGS. His research focuses on documentation of the timing and magnitude of past (prehistoric) earthquakes using clues from the modern landscape, trench exposures of the shallow subsurface, and geophysical imaging. When he’s not working, he can usually be found trail running or skiing in the Colorado Rocky Mountains.
+  <strong>Bill Stephenson</strong> (the crew leader)...
 </p>
 <p>
-  Other crew members include USGS scientists Rich Briggs, Bill Stephenson, Chris DuRoss, and Jaime Delano, and cooperators Eric Kirby (Oregon State University), and Ed Woolery (University of Kentucky).
+  Other crew members include USGS scientists Ryan Gold, Rich Briggs, Chris DuRoss, and Jaime Delano, and cooperators Eric Kirby (Oregon State University), and Ed Woolery (University of Kentucky).
 </p>
