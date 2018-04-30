@@ -11,6 +11,45 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-04-30',
+  'title' => 'Untangling Faults at Depth &ndash; What Lies Beneath Panamint Valley, California?',
+  'content' => 'The eastern edge of Panamint Valley,CA has two types of faults that can be seen in the near-surface geology. 150 geophones and a seismic source will help reveal the subsurface picture.',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/panamint-seismic-reflection/',
+  'modified' => strtotime('2018-04-30'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/panamint.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/panamint.png'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-04-24',
+  'title' => 'East vs West Coast Earthquakes',
+  'content' => 'Why was an earthquake in Virginia felt at more than twice the distance than a similar-sized earthquake in California? The answer is one that many people may not realize.',
+  'link' => 'https://www.usgs.gov/news/east-vs-west-coast-earthquakes',
+  'modified' => strtotime('2018-04-24'),
+  'thumbnail' => '/images-featured/DYFI-Dover.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/DYFI-Dover.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-04-18',
+  'title' => 'USGS Rolls Out Groundbreaking Earthquake Study: The HayWired Earthquake Scenario',
+  'content' => 'USGS collaborates with key academic, state, local, and industry partners to provide a new look at what could happen during a major earthquake in the San Francisco Bay Area.',
+  'link' => 'https://www.usgs.gov/news/usgs-rolls-out-groundbreaking-earthquake-study-haywired-earthquake-scenario?qt-news_science_products=1#qt-news_science_products',
+  'modified' => strtotime('2018-04-18'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/HayWired.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/HayWired.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-04-04',
+  'title' => 'USGS Seeks Earthquake Hazards Research Proposals',
+  'content' => 'The USGS is currently soliciting project proposals for Fiscal Year 2019 grants on earthquake hazards science with an authorization to award up to $7 million.',
+  'link' => 'https://www.usgs.gov/news/usgs-seeks-earthquake-hazards-research-proposals-0',
+  'modified' => strtotime('2018-04-04'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/2018grants.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/2018grants.jpg'
+);
 
 $EQ_FEATURES->items[] = array(
   'id' => '2018-03-28',

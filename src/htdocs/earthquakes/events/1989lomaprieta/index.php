@@ -16,7 +16,7 @@ if (!isset($TEMPLATE)) {
 
 <ul class="no-style linklist">
   <li>
-    <a href = "http://pubs.usgs.gov/fs/2014/3092/">
+    <a href="https://pubs.usgs.gov/fs/2014/3092/">
       <h3>Progress Towards a Safer Future Since the 1989 Loma Prieta Earthquake</h3>
       <img src="img/baybridge.jpg" alt="Image of the Bay Bridge"/>
     </a>
@@ -24,7 +24,7 @@ if (!isset($TEMPLATE)) {
   </li>
 
   <li>
-    <a href = "/learn/topics/shakingsimulations/1989/">
+    <a href="/learn/topics/shakingsimulations/1989/">
       <h3>Ground Shaking Animations</h3>
       <img src="img/simulations.jpg" alt="Image of Ground Shaking Simulations"/>
     </a>
@@ -32,7 +32,7 @@ if (!isset($TEMPLATE)) {
   </li>
 
   <li>
-    <a href = "/earthquakes/eventpage/usp00040t8#shakemap">
+    <a href="/earthquakes/eventpage/usp00040t8#shakemap">
       <h3>Shakemap</h3>
       <img src="img/shakemap.jpg" alt="Image of a map showing ground motion and shaking intensity"/>
     </a>
@@ -42,7 +42,7 @@ if (!isset($TEMPLATE)) {
   </li>
 
   <li>
-    <a href = "/earthquakes/eventpage/usp00040t8#dyfi">
+    <a href="/earthquakes/eventpage/usp00040t8#dyfi">
       <h3>Did You Feel It?</h3>
       <img src="img/dyfi.jpg" alt="Image of a map showing where people throughout California felth the earthquake"/>
     </a>
@@ -51,7 +51,7 @@ if (!isset($TEMPLATE)) {
   </li>
 
   <li>
-    <a href = "http://pubs.usgs.gov/dds/dds-29/">
+    <a href="https://pubs.usgs.gov/dds/dds-29/">
       <h3>USGS Photos of Loma Prieta Earthquake Damage</h3>
       <img src="img/damage.jpg" alt="Photo showing damage resulting from the Loma Prieta Earthquake"/>
     </a>
@@ -60,8 +60,8 @@ if (!isset($TEMPLATE)) {
   </li>
 
   <li>
-    <a href = "papers.php">
-      <h3>USGS Photos of Loma Prieta Earthquake Damage</h3>
+    <a href="papers.php">
+      <h3>USGS Professional Papers on Loma Prieta</h3>
       <img src="img/radiotower.jpg" alt="Image of a destroyed Radio Tower"/>
     </a>
     <p>Four Loma Prieta Earthquake Professional Papers, each containing multiple
@@ -79,13 +79,17 @@ if (!isset($TEMPLATE)) {
 </ul>
 
 <h2>See Also</h2>
-<ul>
+<ul class="no-style linklist">
   <li>
-    <a href="http://www.exploratorium.edu/faultline/great/loma1.html">Faultline: Remembering Loma Prieta</a>
+    <a href="https://www.exploratorium.edu/faultline/great/loma1.html">
+      <h3>Faultline: Remembering Loma Prieta</h3>
+    </a>
     <p>A personal account of the events unfolding, by Mary K. Miller of the Exploratorium.</p>
   </li>
   <li>
-    <a href="http://www.sfmuseum.org/1906/89.html">1989 Earthquake Reports and Photographs</a>
+    <a href="http://www.sfmuseum.org/1906/89.html">
+      <h3>1989 Earthquake Reports and Photographs</h3>
+    </a>
     <p>From the Virtual Museum of the City of San Francisco.</p>
   </li>
 </ul>

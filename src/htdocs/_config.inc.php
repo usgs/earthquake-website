@@ -40,7 +40,7 @@ $HEAD =
     '"/>' .
 // universal analytics (should be last in $HEAD)
   '<script id="_fed_an_ua_tag" async="async" src="' .
-      '/lib/Universal-Federated-Analytics-Min.1.0.js' .
+      'https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js' .
       '?agency=DOI&amp;subagency=USGS&amp;pua=UA-7320779-1' .
       '"></script>';
 

@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-03-20 22:51:32 +0000
+# Generation Time: 2018-04-23 15:20:45 +0000
 # ************************************************************
 
 
@@ -1379,7 +1379,15 @@ VALUES
 	(499,6),
 	(500,9),
 	(501,9),
-	(501,6);
+	(501,6),
+	(502,8),
+	(502,9),
+	(502,7),
+	(503,8),
+	(503,9),
+	(503,7),
+	(504,9),
+	(505,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1968,7 +1976,18 @@ VALUES
 	(501,8),
 	(501,13),
 	(501,10),
-	(501,9);
+	(501,9),
+	(503,9),
+	(502,9),
+	(502,10),
+	(502,13),
+	(502,11),
+	(503,10),
+	(503,13),
+	(503,8),
+	(503,11),
+	(504,13),
+	(505,13);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2120,7 +2139,14 @@ VALUES
 	(499,45),
 	(499,30),
 	(499,44),
-	(499,42);
+	(499,42),
+	(503,42),
+	(503,44),
+	(503,30),
+	(503,45),
+	(504,45),
+	(504,32),
+	(505,25);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2936,7 +2962,37 @@ VALUES
 	(501,79),
 	(501,30),
 	(501,25),
-	(501,63);
+	(501,63),
+	(503,82),
+	(503,37),
+	(503,63),
+	(503,25),
+	(503,51),
+	(503,44),
+	(503,68),
+	(503,77),
+	(502,82),
+	(502,37),
+	(502,25),
+	(502,77),
+	(502,79),
+	(502,52),
+	(502,50),
+	(502,57),
+	(503,66),
+	(503,79),
+	(503,62),
+	(503,67),
+	(503,50),
+	(503,57),
+	(503,72),
+	(504,57),
+	(504,50),
+	(504,52),
+	(504,85),
+	(504,37),
+	(505,52),
+	(505,85);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3132,7 +3188,7 @@ VALUES
 	(374,'Citizen Corps - Community Emergency Response Teams (CERT)','Citizen Corps','http%3A%2F%2Fwww.fema.gov%2Fcommunity-emergency-response-teams','Educates people about disaster preparedness for hazards that may impact their area and trains them in basic disaster response skills, such as fire safety, light search and rescue, team organization, and disaster medical operations. '),
 	(376,'Central U.S. Earthquake Consortium','Central U.S. Earthquake Consortium (CUSEC)','http%3A%2F%2Fwww.cusec.org%2F','Information about earthquakes in the central U.S.'),
 	(379,'Earthquake Country Alliance','Earthquake Country Alliance','http://www.earthquakecountry.org/','Earthquake preparedness for California'),
-	(381,'Are You Ready?','FEMA','http%3A%2F%2Fwww.ready.gov%2Fare-you-ready-guide','Includes resources and best practices'),
+	(381,'ready.gov - Plan Ahead for Disasters','FEMA','https://www.ready.gov/','Includes resources and best practices'),
 	(382,'FEMA Earthquake Information','FEMA','http%3A%2F%2Fwww.fema.gov%2Fearthquake','Includes resources and best practices'),
 	(386,'Natural Hazards Center','University of Colorado','http%3A%2F%2Fwww.colorado.edu%2Fhazards%2F','resources concerning hazards mitigation and disaster preparedness'),
 	(388,'Building Safety and Preparedness','Institute for Business & Home Safety','https%3A%2F%2Fwww.disastersafety.org%2Fearthquake%2F','Disaster planning toolkit for the home and small business.'),
@@ -3188,7 +3244,6 @@ VALUES
 	(486,'Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012','USGS','/research/everyone/maine2012/','Old-fashioned interviews are compared to Did You Feel It? responses for this earthquake.'),
 	(487,'Paleoseismology, Introduction to','USGS','/learn/topics/paleo-intro/','What is paleoseismology? How does it work?'),
 	(488,'Earthquake Footage','American Geophysical Union','http://blogs.agu.org/tremblingearth/earthquake-footage/','Videos from webcams, security cameras, and newsreels during the shaking from various earthquakes.'),
-	(489,'QuakeSmart','Fed. Alliance for Safe Homes','http://www.flash.org/quakesmartcommunity/index.html','Information to help you identify your risk, develop a plan, and take action.'),
 	(490,'Geoscience Education Resources Network','American Geosciences Institute','https://www.americangeosciences.org/center-for-geo/ern','A plethora a resources, including lesson plans, classroom science activities, curriculum materials, image collections, presentations, videos and animations, virtual field trips, etc.'),
 	(491,'seismicsoundlab','seismicsoundlab.org','http://www.seismicsoundlab.org/','Creative visualizations of seismicity, seismic waves, ground motion.  Learning units are also being added.'),
 	(494,'Digging Into the Past on the Teton Fault','USGS','/learn/topics/teton-paleo/','Follow the daily activities of a team of geologists and paleoseismologists as they dig a trench and collect data on the Teton Fault. (from a fieldwork blog September 15-21, 2017)'),
@@ -3197,7 +3252,11 @@ VALUES
 	(497,'Recovering From a Natural Disaster in College: A Student?s Guide for What to do on Campus','AffordableCollegesOnline.org','https://www.affordablecollegesonline.org/college-resource-center/natural-disasters/','What college students can do to prepare for a natural disaster, and what to do if one happens.'),
 	(498,'Interactive 3D Earthquake Viewer','Interactive Earth','https://www.interactive-earth.com/earthquakes','Uses the USGS Earthquake Catalog API. Search for earthquakes, and then interact with the 3-D earthquake location viewer. There is a <a href=\"https://www.interactive-earth.com/downloads/lets-look-inside-the-earth.pdf\">classroom activity</a> for 5-8th grades to accompany this.'),
 	(500,'TsunamiZone.org','SCEC','https://www.tsunamizone.org/','Resources and information about tsunami education and preparedness.'),
-	(501,'ParsQuake','ParsQuake.org','http://parsquake.org/','Earthquake education in the global Persian community.');
+	(501,'ParsQuake','ParsQuake.org','http://parsquake.org/','Earthquake education in the global Persian community.'),
+	(502,'What to Expect in a Big Urban Earthquake','USGS','https://wim.usgs.gov/geonarrative/safrr/WTE_earthquake/','An ArcGIS geo-narrative storymap that describes what can be expected if there is a large earthquake in a populated urban area.'),
+	(503,'The HayWired Scenario: An Urban Earthquake in a Connected World','USGS','http://usgs.maps.arcgis.com/apps/MapSeries/index.html?appid=364fa6f34520464ba081cb0785671193','An ArcGIS geo-narrative storymap with compelling images showing the effects and consequences possible in the next large earthquake on the Hayward Fault in the San Francisco Bay Area.'),
+	(504,'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes','USGS','/research/everyone/dcshake/','Science for Everyone article'),
+	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -5330,7 +5389,13 @@ VALUES
 	(470,4,11,'UCERF3: A New Earthquake Forecast for California\'s Complex Fault System','https://pubs.er.usgs.gov/publication/fs20153009','(FS-2015-3009)'),
 	(475,4,10,'Helping safeguard Veterans Affairs\' hospital buildings by advanced earthquake monitoring','https://pubs.er.usgs.gov/publication/fs20123094','(FS-2012-3094)'),
 	(476,4,12,'Reducing Risk Where Tectonic Plates Collide','https://pubs.er.usgs.gov/publication/fs20173024','(FS-2017-3024)'),
-	(477,8,36,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/cir1428','(Circular 1428)');
+	(477,8,36,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/cir1428','(Circular 1428)'),
+	(478,3,11,'The HayWired Earthquake Scenario - We Can Outsmart Disaster','https://pubs.er.usgs.gov/publication/fs20183016','(FS-2018-3016)'),
+	(479,4,11,'The HayWired Earthquake Scenario','https://pubs.er.usgs.gov/publication/sir20175013','(SIR-2017-5013)'),
+	(480,3,12,'A Magnitude 7.1 Earthquake in the Tacoma Fault Zone-A Plausible Scenario for the Southern Puget Sound Region, Washington','https://pubs.er.usgs.gov/publication/fs20103023','(FS-2010-3023)'),
+	(481,3,10,'Real-time seismic monitoring of instrumented hospital buildings','https://pubs.er.usgs.gov/publication/fs20123028','(FS-2012-3028)'),
+	(482,3,11,'UNLV?s environmentally friendly Science and Engineering Building is monitored for earthquake shaking','https://pubs.er.usgs.gov/publication/fs20133022','(FS-2013-3022)'),
+	(483,3,10,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/fs20173024','(FS-2017-3024)');
 
 /*!40000 ALTER TABLE `products` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -5356,7 +5421,7 @@ VALUES
 	(1,'Maps','Earthquake maps, fault maps, siesmic hazard maps, and site response maps, both online and print.'),
 	(2,'General Information','Earthquake bibliographies, General Interest publications, plate tectonics, and tsunami publications.'),
 	(4,'Fact Sheets','2-page and 4-page short summaries of a variety of earthquake-related topics and current research, most downloadable.'),
-	(8,'Open-File Reports/Bulletins/Circulars','Longer and more detailed publications about a variety of earthquake topics, specific earthquakes, and current research.');
+	(8,'Open-File Reports/Bulletins/Circulars/Scientific Investigation Reports','Longer and more detailed publications about a variety of earthquake topics, specific earthquakes, and current research.');
 
 /*!40000 ALTER TABLE `productsCategory` ENABLE KEYS */;
 UNLOCK TABLES;

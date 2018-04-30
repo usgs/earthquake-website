@@ -75,5 +75,5 @@
 </figcaption>
 </figure>
 <p>
-  Mehmet &Ccedil;elebi has been a USGS earthquake engineer for 34 years. He got interested in earthquakes when as a child his hometown was shaken by an earthquake, and the whole family slept in tents for a couple of weeks.  He taught earthquake engineering and structural dynamics at METU (Middle East Technical University) in Ankara from 1969 to 1977, and also was a co-founder of the METU EERC (Earthquake Engineering Research Center). He enjoys spending time with his 5 grandchildren!
+  <strong><a href="https://www.usgs.gov/staff-profiles/mehmet-celebi?qt-staff_profile_science_products=3#qt-staff_profile_science_products">Mehmet &Ccedil;elebi</a></strong> has been a USGS earthquake engineer for 34 years. He got interested in earthquakes when as a child his hometown was shaken by an earthquake, and the whole family slept in tents for a couple of weeks.  He taught earthquake engineering and structural dynamics at METU (Middle East Technical University) in Ankara from 1969 to 1977, and also was a co-founder of the METU EERC (Earthquake Engineering Research Center). He enjoys spending time with his 5 grandchildren!
 </p>
