@@ -11,6 +11,15 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-04-30',
+  'title' => 'Untangling Faults at Depth &ndash; What Lies Beneath Panamint Valley, California?',
+  'content' => 'The eastern edge of Panamint Valley,CA has two types of faults that can be seen in the near-surface geology. 150 geophones and a seismic source will help reveal the subsurface picture.',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/panamint-seismic-reflection/',
+  'modified' => strtotime('2018-04-30'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/panamint.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/panamint.png'
+);
 
 $EQ_FEATURES->items[] = array(
   'id' => '2018-04-04',
