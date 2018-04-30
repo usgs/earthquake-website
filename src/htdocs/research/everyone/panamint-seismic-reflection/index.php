@@ -78,14 +78,14 @@
 <h2>The Scientist Behind the Science</h2>
 
 <figure class='left'>
-<img src="images/Bill-Stephenson.jpg" alt=""/>
+<img src="images/Bill-Stephenson.jpg" style="width: 300px; alt=""/>
 <figcaption>
   Bill Stephenson.
 </figcaption>
 </figure>
 
 <p>
-  <strong>Bill Stephenson</strong> (the crew leader)...
+  <strong>Bill Stephenson</strong> (the crew leader) has been a research geophysicist with the USGS for 27 years. His research focuses on characterizing earthquake hazards and understanding ground motion amplification in urbanized regions through high-resolution seismic imaging. He spends as much time as he can in the outdoors hiking, biking, skiing, fishing, and hunting.
 </p>
 <p>
   Other crew members include USGS scientists Ryan Gold, Rich Briggs, Chris DuRoss, and Jaime Delano, and cooperators Eric Kirby (Oregon State University), and Ed Woolery (University of Kentucky).
