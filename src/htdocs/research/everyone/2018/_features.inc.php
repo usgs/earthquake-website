@@ -11,6 +11,17 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/research/everyone/';
 $EQ_FEATURES->baseUrl = '';
 
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-05-07',
+  'title' => '',
+  'content' => '',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/non-param-aftershocks/',
+  'modified' => strtotime('2018-05-07'),
+  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/non-param-aftershocks/images/non-para-cartoon.gif',
+  'image' => 'https://earthquake.usgs.gov/research/everyone/non-param-aftershocks/images/non-para-cartoon.gif'
+);
+
 $EQ_FEATURES->items[] = array(
   'id' => '2018-03-26',
   'title' => '55-Story Tall Building – Before and After Earthquake Retrofit',
