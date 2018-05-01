@@ -8,9 +8,21 @@
     }
 ?>
 
+<h2>2018</h2>
+
+<p>
+  March 5-6, 2018, CalTech Campus, Pasadena, California. <a href="docs/SESAC_Agenda2018-0305.pdf">Agenda</a> | Federal Register Notice<br/>
+  The Committee reviewed and considered FY18 implementation and FY19 budget planning, the implementation and public rollout of earthquake early warning, changes to seismic monitoring the in central and eastern U.S., The Committee was updated on Earthquake Hazards Program Strategic Planning.
+</p>
+
 <h2>2017</h2>
 
 <p>
+  October 10-11, 2017.  Golden, Colorado.  <a href="docs/SESAC_Agenda2017-1010.pdf">Agenda</a> | Federal Register Notice<br/>
+  The Committee reviewed and considered the current activities and strategic planning of the USGS Earthquake Hazards Program and discussed future priorities.  Specific topics included a new plan for subduction zone science and the update of seismic hazard maps for Alaska and Hawaii.
+</p>
+<p>
+  January 5, 2017.  <a href="docs/SESAC_Agenda2017-0105.pdf">Teleconference</a>.<br/>
   The Scientific Earthquake Studies Advisory Committee (SESAC) held a conference call to discuss the recent report “Analysis of the Benefits and Costs for the Adoption of EarthScope Stations in Alaska”, August 31, 2016, written by the Alaska Earthquake Monitoring Working Group.
 </p>
 

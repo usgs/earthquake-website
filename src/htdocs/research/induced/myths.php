@@ -62,11 +62,8 @@ if (!isset($TEMPLATE)) {
 
 <ul>
   <li>
-    <a href="https://www.usgs.gov/faq/natural-hazards">FAQ: Induced Earthquakes</a> - select topic Induced Earthquakes
+    <a href="https://www.usgs.gov/science-explorer-results?es=hydraulic+fracturing&classification=faq">FAQ: Induced Earthquakes</a>
  </li>
-  <li>
-    <a href="https://www.usgs.gov/faq/taxonomy/term/10416">FAQ: Hydraulic Fracturing (Fracking)</a>
-  </li>
   <li>
     <a href="https://profile.usgs.gov/myscience/upload_folder/ci2015Jun1012005755600Induced_EQs_Review.pdf">
     Myths and Facts on Wastewater Injection, Hydraulic Fracturing, Enhanced Oil Recovery, and Induced Seismicity</a> - by Rubinstein and Mahani
