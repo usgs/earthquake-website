@@ -28,8 +28,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'The eastern edge of Panamint Valley,CA has two types of faults that can be seen in the near-surface geology. 150 geophones and a seismic source will help reveal the subsurface picture.',
   'link' => 'https://earthquake.usgs.gov/research/everyone/panamint-seismic-reflection/',
   'modified' => strtotime('2018-04-30'),
-  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/panamint-seismic-reflection/Figure1_ScientificQuestion.png',
-  'image' => 'https://earthquake.usgs.gov/research/everyone/panamint-seismic-reflection/Figure1_ScientificQuestion.png'
+  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/panamint-seismic-reflection/images/Figure1_ScientificQuestion.png',
+  'image' => 'https://earthquake.usgs.gov/research/everyone/panamint-seismic-reflection/images/Figure1_ScientificQuestion.png'
 );
 
 $EQ_FEATURES->items[] = array(
