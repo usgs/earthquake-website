@@ -11,6 +11,24 @@
 <div class="row">
   <div class="column two-of-three">
 
+    <h2>South America</h2>
+    <img class='right' src="images/southamerica.jpg" alt="South America" />
+    <ul>
+      <li><a href="https://pubs.geoscienceworld.org/ssa/bssa/article/108/2/781/525972/seismic-hazard-risk-and-design-for-south">Seismic Hazard, Risk, and Design for South America</a></li> (BSSA, 2018)
+      <li><a href="images/SAmer-Proceedings2010.pdf">2010 Conference Proceedings</a></li>
+    </ul>
+    <p>
+      The USGS has developed a preliminary seismic hazard model using available seismic catalogs, fault databases, and hazard methodologies to help
+      facilitate discussions and to ascertain data requirements and
+      availability. This preliminary seismic hazard model follows the
+      methodology that was developed by the USGS for the United States (Petersen
+      et al., 2008). The SASHA source model includes a smoothed seismicity
+      component applied across the entire continent that accounts for
+      earthquakes M 5-7, subduction zone sources M 7-9.5, and crustal faults M7-8. The primary tectonics for this region involve subduction of the Nazca
+      plate beneath the west portion of the South American plate with related
+      interface and intra-slab earthquakes and shallow crustal earthquakes.
+    </p>
+
     <h2>Afghanistan</h2>
     <img class="right" src="images/afghanistan.gif" alt="Afghanistan"/>
     <ul>
@@ -70,24 +88,6 @@
     </p>
     <p>
       Reference:<br/><i>Petersen, M. D., Rastogi, B. K., Schweig, E. S., Harmsen, S. C., & Gomberg, J. S. (2004). Sensitivity analysis of seismic hazard for the northwestern portion of the state of Gujarat, India. Tectonophysics, 390(1), 105-115.</i>
-    </p>
-
-    <h2>South America</h2>
-    <img class='right' src="images/southamerica.jpg" alt="South America" />
-    <ul>
-      <li><a href="https://pubs.geoscienceworld.org/ssa/bssa/article/108/2/781/525972/seismic-hazard-risk-and-design-for-south">Seismic Hazard, Risk, and Design for South America</a></li> (BSSA, 2018)
-      <li><a href="images/SAmer-Proceedings2010.pdf">2010 Conference Proceedings</a></li>
-    </ul>
-    <p>
-      The USGS has developed a preliminary seismic hazard model using available seismic catalogs, fault databases, and hazard methodologies to help
-      facilitate discussions and to ascertain data requirements and
-      availability. This preliminary seismic hazard model follows the
-      methodology that was developed by the USGS for the United States (Petersen
-      et al., 2008). The SASHA source model includes a smoothed seismicity
-      component applied across the entire continent that accounts for
-      earthquakes M 5-7, subduction zone sources M 7-9.5, and crustal faults M7-8. The primary tectonics for this region involve subduction of the Nazca
-      plate beneath the west portion of the South American plate with related
-      interface and intra-slab earthquakes and shallow crustal earthquakes.
     </p>
 
   </div>

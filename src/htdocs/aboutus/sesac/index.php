@@ -12,7 +12,7 @@
   The Scientific Earthquake Studies Advisory Committee (SESAC) was created in 2002 by legislation reauthorizing the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>. The SESAC meets several times each year, and provides advice and direction to the USGS  Earthquake Hazards Program. The committee's membership and procedures are compliant weith the <a href="http://www.epic.org/open_gov/faca.html">Federal Advisory Committee Act (FACA)</a>.
 </p>
 <ul>
-  <li><strong><a href="docs/SESAC-Charter-2016.pdf">SESAC Charter</a> (PDF)</strong></li>
+  <li><strong><a href="docs/SESAC-Charter-2018.pdf">SESAC Charter</a> (PDF)</strong></li>
   <li><strong><a href="meetings.php">SESAC Meetings</a></strong></li>
   <li><strong><a href="reports.php">Annual SESAC Reports</a></strong></li>
 </ul>

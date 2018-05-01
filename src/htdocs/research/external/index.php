@@ -176,14 +176,5 @@ if (!isset($TEMPLATE)) {
 </p>
 
 <p>
-  Specific objectives and research tasks identified as measures of progress
-  towards the goals of these program elements are described in greater detail in
-  the past or current Research Priorities section of the <a
-  href="https://www.usgs.gov/contracts/nehrp/">Announcement of Funding
-  Opportunities</a>. The application period for grants is generally open from
-  mid-February until mid-May each year.
-</p>
-
-<p>
   Unsolicited Proposals may be submitted out of cycle only in cases where there is a compelling circumstance or emergency that must be acted on before the next competitive grant cycle.&nbsp; Proposers should contact the appropriate Regional or Topical Coordinator prior to submitting out-of-cycle proposals. See <a href="https://www.usgs.gov/contracts/unsolbk.html">Guidance for submitting unsolicited proposals</a>.
 </p>
