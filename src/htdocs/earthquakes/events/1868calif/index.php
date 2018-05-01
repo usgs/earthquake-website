@@ -46,7 +46,8 @@
   <li>
     <a href="https://outsmartdisaster.com/">
       <h3>HayWired: Outsmart Disaster</h3>
-      <img src="images/outsmart.png" alt="Outsmart Disaster logo"></a>
+      <img src="images/outsmart.png" alt="Outsmart Disaster logo">
+    </a>
     <p>What if&hellip;<br />A 7.0 earthquake hit the San Francisco Bay Area?
       Are you, your family, and your business prepared to outsmart disaster?</p>
   </li>
@@ -68,10 +69,19 @@
   <li>
     <a href="https://wim.usgs.gov/geonarrative/safrr/haywired_vol1/">
       <h3>The HayWired Scenario: An Urban Earthquake in a Connected World</h3>
-      <img src="images/storymap.jpg" alt="image depicting bay area eq hazards"></a>
+      <img src="images/storymap.jpg" alt="image depicting bay area eq hazards">
+    </a>
     <p>This &ldquo;geonarrative&rdquo;, which includes interactive maps, videos, and other
       media, examines the earthquake hazards in the HayWired scenario&rsquo;s 11-county
       study area.</p>
+  </li>
+
+  <li>
+    <a href="pdf/HayWiredSigningMap.pdf">
+      <h3>HayWired Scenario ShakeMap</h3>
+      <img src="images/haywired-map.jpg" alt="HayWired Scenario ShakeMap">
+    </a>
+    <p>High quality HayWired Scenario ShakeMap for printing and distribution.</p>
   </li>
 
   <li>
@@ -86,7 +96,8 @@
   <li>
     <a href="http://mynspr.org/post/blue-dot-93-hayward-fault">
       <h3>Blue Dot Podcast: The Hayward Fault</h3>
-      <img src="images/bluedot.png" alt="Blue Dot Podcast logo"></a>
+      <img src="images/bluedot.png" alt="Blue Dot Podcast logo">
+    </a>
     <p>Host Dave Schlom is joined by USGS Geophysicist Ken Hudnut as they
       interview two leading experts on the Hayward Fault: USGS scientists
       David Schwartz and Tom Brocher. It&rsquo;s a fascinating and frightening
@@ -118,7 +129,8 @@
   <li>
     <a href="https://bayquakealliance.org/howclose/">
       <h3>How Close to a Fault do You Live?</h3>
-      <img src="images/howclose.jpg" alt="Screen capture of web site"></a>
+      <img src="images/howclose.jpg" alt="Screen capture of web site">
+    </a>
     <p>Use our map to find out how close you and your family live to active
       faults in California.</p>
   </li>
@@ -152,7 +164,8 @@
   <li>
     <a href="https://seismo.berkeley.edu/hayward/hayward_tours.html">
       <h3>The Hayward Fault: Maps &amp; Tours</h3>
-      <img src="images/hwfault-curb.jpg" alt="Photo of an offset curb"></a>
+      <img src="images/hwfault-curb.jpg" alt="Photo of an offset curb">
+    </a>
     <p>You can see the footprints of the Hayward Fault all over the place once
       you know where and how to look. This tour covers The Hayward Fault at the
       Campus of the University of California, Berkeley.</p>
@@ -187,7 +200,8 @@
   <li>
     <a href="/learn/topics/hayward_paleo/">
       <h3>Paleoseismology and the Hayward Fault</h3>
-      <img src="images/recurrence.png" alt="plot showing earthquake recurrence" /></a>
+      <img src="images/recurrence.png" alt="plot showing earthquake recurrence" />
+    </a>
     <p>A large, widely damaging earthquake will occur on the Hayward fault in
       the future, but we don&rsquo;t know when. Using the tools of paleoseismology,
       earthquake geologists have determined that large earthquakes occur roughly
