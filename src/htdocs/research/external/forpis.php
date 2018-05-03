@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Jill Franks, jfranks@usgs.gov
-// Last modified: Lisa Wald, 2016/08/22
 if (!isset($TEMPLATE)) {
   $TITLE = 'External Grants';
   $NAVIGATION = true;
@@ -31,6 +30,32 @@ if (!isset($TEMPLATE)) {
 </p>
 <p>
   Data generated as a part of work funded by the Earthquake Hazards Program is not subject to a proprietary period of exclusive data access. Any data generated must be made available to the USGS as soon as it is available. The USGS reserves a royalty-free, nonexclusive and irrevocable license to reproduce, publish, or otherwise use, and to authorize others to use, data for government purposes. The USGS Contracting Officer is the sole person to decide which data fall in this category should any questions arise.
+</p>
+
+<p>
+  <strong>All Publications and Final Technical Reports must include an Acknowledgement of Support and Disclaimer.</strong>
+</p>
+<p>Guidelines are as follows:</p>
+<p>
+  <strong>(a) Acknowledgment of Support:</strong> Recipient is responsible for assuring that an acknowledgment of USGS support:
+</p>
+  <p>
+    1. is made in any publication (including World Wide Web pages) of any material based on or developed under this Agreement, in the following terms:
+  </p>
+  <p>
+    <blockquote>
+      &ldquo;This material is based upon work supported by the U.S. Geological Survey under Grant No. (<i>insert award number</i>).&CloseCurlyDoubleQuote;
+    </blockquote>
+  </p>
+  <p>2. is orally acknowledged during all news media interviews, including popular media such as radio, television and news magazines.
+  </p>
+<p>
+  <strong>(b) Disclaimer:</strong> Recipient is responsible for assuring that every publication of material (including World Wide Web pages) based on or developed under this Agreement, contains the following disclaimer:
+</p>
+<p>
+  <blockquote>
+    &ldquo;The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the opinions or policies of the U.S. Geological Survey.  Mention of trade names or commercial products does not constitute their endorsement by the U.S. Geological Survey.&CloseCurlyDoubleQuote;
+  </blockquote>
 </p>
 
 <h4>Final Technical Report</h4>
