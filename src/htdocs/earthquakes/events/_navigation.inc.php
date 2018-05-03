@@ -5,6 +5,7 @@
 
   "<section>",
 
+    navItem("${section}/2018danville/", "February 2018 Danville, California Sequence") .
     navItem("${section}/2017sodasprgs/", "M5.3 2017 Soda Springs, Idaho, Sequence") .
     navItem("${section}/2014napa/", "M6.0 August 24, 2014 South Napa, California") .
     navItem("${section}/2011virginia/", "M5.8 August 23, 2011 Mineral, Virginia") .

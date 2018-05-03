@@ -28,13 +28,19 @@ if (!isset($TEMPLATE)) {
         </p>
       </li>
       <li>
-        <!-- <a href="browse/"> -->
         <a href="browse/">
           <h4>Earthquake Lists, Maps and Statistics</h4>
-          <img src="images/lists-300for150.gif" width="150" alt="screenshot of EQ search form"/>
+          <img src="images/lists-300for150.gif" width="150" alt="graph icon"/>
         </a>
         <p>Largest earthquakes, significant events, lists and maps by magnitude, by year, or by location.</p>
       </li>
+      <li>
+      <a href="events/">
+        <h4>Special Earthquakes, Earthquake Sequences, and Fault Zones</h4>
+        <img src="images/special-300for150.jpg" width="150" alt="black and white photo of Alaska EQ damage"/>
+      </a>
+      <p>Compilations of information about significant earthquakes, swarms or sequences, and fault zones of interest.</p>
+    </li>
       <li>
         <a href="search/">
           <h4>Search Earthquake Catalog</h4>
