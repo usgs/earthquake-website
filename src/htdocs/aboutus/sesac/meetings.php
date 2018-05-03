@@ -11,18 +11,18 @@
 <h2>2018</h2>
 
 <p>
-  March 5-6, 2018, CalTech Campus, Pasadena, California. <a href="docs/SESAC_Agenda2018-0305.pdf">Agenda</a> | Federal Register Notice<br/>
+  March 5-6, 2018, CalTech Campus, Pasadena, California. <a href="docs/SESAC_Agenda2018-0305.pdf">Agenda</a> | <a href="https://www.federalregister.gov/documents/2018/02/20/2018-03286/notice-of-public-meeting-of-scientific-earthquake-studies-advisory-committee">Federal Register Notice</a><br/>
   The Committee reviewed and considered FY18 implementation and FY19 budget planning, the implementation and public rollout of earthquake early warning, changes to seismic monitoring the in central and eastern U.S., The Committee was updated on Earthquake Hazards Program Strategic Planning.
 </p>
 
 <h2>2017</h2>
 
 <p>
-  October 10-11, 2017.  Golden, Colorado.  <a href="docs/SESAC_Agenda2017-1010.pdf">Agenda</a> | Federal Register Notice<br/>
+  October 10-11, 2017.  Golden, Colorado.  <a href="docs/SESAC_Agenda2017-1010.pdf">Agenda</a> | <a href="https://www.federalregister.gov/documents/2017/09/26/2017-20546/notice-of-public-meeting-of-scientific-earthquake-studies-advisory-committee">Federal Register Notice</a><br/>
   The Committee reviewed and considered the current activities and strategic planning of the USGS Earthquake Hazards Program and discussed future priorities.  Specific topics included a new plan for subduction zone science and the update of seismic hazard maps for Alaska and Hawaii.
 </p>
 <p>
-  January 5, 2017.  <a href="docs/SESAC_Agenda2017-0105.pdf">Teleconference</a>.<br/>
+  January 5, 2017.  <a href="docs/SESAC_Agenda2017-0105.pdf">Teleconference</a> | <a href="https://www.federalregister.gov/documents/2016/12/09/2016-29556/announcement-of-scientific-earthquake-studies-advisory-committee-meeting">Federal Register Notice</a><br/>
   The Scientific Earthquake Studies Advisory Committee (SESAC) held a conference call to discuss the recent report “Analysis of the Benefits and Costs for the Adoption of EarthScope Stations in Alaska”, August 31, 2016, written by the Alaska Earthquake Monitoring Working Group.
 </p>
 

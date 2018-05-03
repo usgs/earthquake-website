@@ -1,13 +1,11 @@
 <?php
-
-if (!isset($TEMPLATE)) {
-  $TITLE = 'February 2018 Danville, California Sequence';
-  $HEAD = '';
-  $FOOT = '';
-
-  include 'template.inc.php';
-}
-
+// Author: Scott Haefner
+// Contact:
+  if (!isset($TEMPLATE)) {
+    $TITLE = 'February 2018 Danville, California Sequence';
+    $NAVIGATION = true;
+    include 'template.inc.php';
+  }
 ?>
 
 <h2>Mon Mar 5, 7:30pm PT</h2>

@@ -81,7 +81,11 @@
       <h3>HayWired Scenario ShakeMap</h3>
       <img src="images/haywired-map.jpg" alt="HayWired Scenario ShakeMap">
     </a>
-    <p>High quality HayWired Scenario ShakeMap for printing and distribution.</p>
+    <p>This scenario ShakeMap shows ground shaking caused by a hypothetical M7.0
+      earthquake on the Hayward Fault. The mainshock (star) is beneath the City of
+      Oakland and causes the Hayward Fault to rupture along about 52 miles
+      of its length (thick black line). White lines depict other major faults in 
+      the region.</p>
   </li>
 
   <li>
