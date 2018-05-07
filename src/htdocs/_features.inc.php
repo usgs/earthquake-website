@@ -13,10 +13,20 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-05-07',
+  'title' => 'The Past Holds the Key to the Future of Aftershock Forecasting',
+  'content' => 'The outcomes of past aftershock sequences can be used to describe the range of possibilities for a current sequence.',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/2018/non-param-aftershocks/',
+  'modified' => strtotime('2018-05-07'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/non-para-cartoon.gif',
+  'image' => 'https://earthquake.usgs.gov/images-featured/non-para-cartoon.gif'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-04-30',
   'title' => 'Untangling Faults at Depth &ndash; What Lies Beneath Panamint Valley, California?',
   'content' => 'The eastern edge of Panamint Valley,CA has two types of faults that can be seen in the near-surface geology. 150 geophones and a seismic source will help reveal the subsurface picture.',
-  'link' => 'https://earthquake.usgs.gov/research/everyone/panamint-seismic-reflection/',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/2018/panamint-seismic-reflection/',
   'modified' => strtotime('2018-04-30'),
   'thumbnail' => 'https://earthquake.usgs.gov/images-featured/panamint.png',
   'image' => 'https://earthquake.usgs.gov/images-featured/panamint.png'
@@ -66,7 +76,7 @@ $EQ_FEATURES->items[] = array(
   'id' => '2018-03-26',
   'title' => '55-Story Tall Building – Before and After Earthquake Retrofit',
   'content' => 'A building in Japan was analyzed before and after a seismic retrofit to make it more resilient to shaking.',
-  'link' => 'https://earthquake.usgs.gov/research/everyone/55story-retrofit/',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/2018/55story-retrofit/',
   'modified' => strtotime('2018-03-26'),
   'thumbnail' => 'https://earthquake.usgs.gov/images-featured/55story-braces.jpg',
   'image' => 'https://earthquake.usgs.gov/images-featured/s-amer-haz.png'
@@ -176,10 +186,10 @@ $EQ_FEATURES->items[] = array(
   'id' => '2018-01-02',
   'title' => 'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes',
   'content' => 'New study shows that DC geologic conditions strongly affect earthquake shaking.',
-  'link' => 'https://earthquake.usgs.gov/research/everyone/dcshake/',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/2018/dcshake/',
   'modified' => strtotime('2018-01-02'),
-  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/dcshake/images/wa-monument.jpg',
-  'image' => 'https://earthquake.usgs.gov/research/everyone/dcshake/images/wa-monument.jpg'
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/wa-monument.jpg',
+  'image' => 'https://earthquake.usgs.gov/research/everyone/2018/dcshake/images/wa-monument.jpg'
 );
 
 $EQ_FEATURES->items[] = array(
