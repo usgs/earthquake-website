@@ -1,0 +1,22 @@
+.sidebar {
+  float: right;
+  width: 200px;
+  font-size: 0.85em;
+  padding: 10px;
+  margin: 20px;
+  background-color: #f4f4f4;
+}
+
+.cartoon {
+  float: right;
+  width: 450px;
+  margin-left: 20px;
+}
+
+figure.morganpage {
+  max-width: 200px;
+}
+
+figure.vander {
+  max-width: 200px;
+}
