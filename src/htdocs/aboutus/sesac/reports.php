@@ -9,6 +9,9 @@
 ?>
 
 <ul>
+  <li>
+    <a href="docs/sesac_18report.pdf">2018 Annual Report</a>
+  </li>
 <li>
   <a href="docs/SESAC_Report_AEMWG.January2017.pdf">2017 Special Letter</a>
 </li>
