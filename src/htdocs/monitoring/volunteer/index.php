@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact:
-      //	Last	modified:	11/3/2016
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Volunteer Monitoring';
       $NAVIGATION	= true;
@@ -26,7 +25,7 @@
 	<li>
 		<a href="/research/eqproc/volunteer.php">
 			<h4>Volunteer Monitoring - Walnut Creek/Pleasant Hill/Concord, CA, Area Seismograph Array</h4>
-			<img src="/research/sfbayeffects_waves/images/Picture1_thumb.gif" alt="Bay Area Waves"/>
+			<img src="/monitoring/images/sfbayeffects.gif" alt="Bay Area Waves"/>
 		</a>
 		<p>
 			The USGS is requesting volunteers in the greater Walnut Creek/Pleasant Hill/Concord area to consider hosting a temporary seismic station for a period of two to three years for the purpose of studying site response in this part of the Bay area. All participation is strictly voluntary.

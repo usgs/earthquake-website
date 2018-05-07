@@ -78,7 +78,7 @@
 <h2>The Scientist Behind the Science</h2>
 
 <figure class='left'>
-<img src="images/Bill-Stephenson.jpg" style="width: 300px; alt=""/>
+<img src="images/Bill-Stephenson.jpg" style="width: 300px;" alt=""/>
 <figcaption>
   Bill Stephenson.
 </figcaption>
