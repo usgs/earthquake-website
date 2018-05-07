@@ -14,8 +14,8 @@ $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
   'id' => '2018-05-07',
-  'title' => '',
-  'content' => '',
+  'title' => 'The Past Holds the Key to the Future of Aftershock Forecasting',
+  'content' => 'The outcomes of past aftershock sequences can be used to describe the range of possibilities for a current sequence.',
   'link' => 'https://earthquake.usgs.gov/research/everyone/non-param-aftershocks/',
   'modified' => strtotime('2018-05-07'),
   'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/non-param-aftershocks/images/non-para-cartoon.gif',
