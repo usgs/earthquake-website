@@ -45,6 +45,8 @@
   Japan is in a dynamic tectonic setting, and as such, experiences frequent earthquakes. On April 24, 2016 the M7.3 Kumamoto earthquake (478 km/297 mi away) shook the building, and again the shaking was recorded on the seismic instruments inside.  The good news was that indeed the severity of the shaking was lessened by the retrofit, however there are indications that the building can still experience significant shaking. This knowledge can be used for the engineering and retrofits of similar tall buildings in the future. Currently, in the United States, we are not aware of any buildings taller than 35 stories that have been retrofitted.
 </p>
 
+<p>-written by Lisa Wald, U.S. Geological Survey</p>
+
 <figure>
 <img src="images/braces.jpg" alt=""/>
 <figcaption>
@@ -58,8 +60,6 @@
   Two of the dampers as seen from inside the building. (Photo by Mehmet &Ccedil;elebi, USGS)
 </figcaption>
 </figure>
-
-<p>-written by Lisa Wald, U.S. Geological Survey</p>
 
 <h2>For More Information</h2>
 <ul>
