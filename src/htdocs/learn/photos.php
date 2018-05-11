@@ -133,6 +133,11 @@ if  (!isset($TEMPLATE))  {
 -->
 
   <div class="column three-of-five">
+    <h2>USGS Collections</h2>
+    <ul>
+      <li><a href="https://pubs.usgs.gov/dds/dds-29/">The October 17, 1989, Loma Prieta, California, Earthquake—Selected Photographs</a> (Digital Data Series DDS-29)</li>
+    </ul>
+
     <h2>Non-USGS Collections</h2>
     <ul id="nonusgs">
       <li><a href="https://www.americangeosciences.org/center-for-geo/ern/image-collections/earth-science-world-image-bank" target="_blank">American Geological Institute (AGI) Earth Science World ImageBank</a></li>
