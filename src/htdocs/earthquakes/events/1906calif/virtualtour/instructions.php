@@ -11,7 +11,7 @@
 
 <h3>Instructions</h3>
 <ol>
-  <li>Download and install <a href="http://earth.google.com">Google Earth</a>. We recommend using the latest version.</li>
+  <li>Download and install <a href="https://earth.google.com">Google Earth</a>. We recommend using the latest version.</li>
   <li>Uncheck (turn off) any layers that may be active within the left panel, <em>Places</em> and <em>Layers</em>. To provide a 3D perspective, turn on the Terrain layer under <em>Layers</em> or on the <em>Navigation Panel</em>.</li>
   <li>Begin the 1906 Earthquake Virtual Tour by stepping through the chapters beginning with <a href="global.php">Global Geologic Setting of the 1906 Earthquake</a>. Within each chapter you will find layers (in KMZ format) to load into Google Earth. After clicking the download link, open the file in Google Earth.</li>
 </ol>
