@@ -11,6 +11,25 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-05-21',
+  'title' => 'How Often Do Cascadia&CloseCurlyQuote;s Megaquakes Occur?',
+  'content' => 'Devastating magnitude 8.0 to 9.0 megathrust earthquakes and accompanying tsunamis appear to have hit the U.S. Pacific Northwest and Northwest Canada about every 500 years on average. But some USGS scientists think the recurrence interval between some of these large earthquakes may be shorter. (SSA News Release)',
+  'link' => 'https://www.seismosoc.org/annual-meeting/how-often-do-cascadias-megaquakes-occur/',
+  'modified' => strtotime('2018-05-21'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/Cascadia-subduction.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/Cascadia-subduction.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-05-21',
+  'title' => 'Seismic Hazards Put One-Third of South American Population at Risk',
+  'content' => 'New seismic hazard and risk models developed by USGS for South America suggest that more than 160 million people—about one-third of the continent’s total population—live in areas with significantly elevated seismic hazard. (SSA News Release)',
+  'link' => 'https://www.seismosoc.org/annual-meeting/seismic-hazards-put-one-third-of-south-american-population-at-risk/',
+  'modified' => strtotime('2018-05-21'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/ssa-samer.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/ssa-samer.png'
+);
 
 $EQ_FEATURES->items[] = array(
   'id' => '2018-05-07',
