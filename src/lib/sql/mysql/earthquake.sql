@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-04-23 15:20:45 +0000
+# Generation Time: 2018-05-22 21:07:52 +0000
 # ************************************************************
 
 
@@ -797,7 +797,7 @@ VALUES
 	(68,'fault creep','See <a href=\"/learn/glossary/?term=creep\">creep</a>.','','','',''),
 	(69,'fault gouge','Fault gouge is crushed and ground-up rock produced by friction between the two sides when a fault moves.','GOUGE.JPG','Photo of fault gouge.',NULL,''),
 	(70,'fault plane','The fault plane is the planar (flat) surface along which there is slip during an earthquake.','fault_plane.jpg','Fault plane diagram.  (Image courtesy of Kian H. Chong, Univ. of California, Davis)',NULL,''),
-	(71,'fault-plane solution','A fault plane solution is a way of showing the fault and the direction of slip on it from an earthquake, using circles with two intersecting curves that look like beach balls. Also called a <strong>focal-mechanism solution</strong>.','focal_mechanism.gif','Focal mechanism examples. (Image courtesy of Charles Ammon, Penn State)',NULL,''),
+	(71,'fault-plane solution','A fault plane solution is a way of showing the fault and the direction of slip on it from an earthquake, using circles with two intersecting curves that look like beach balls. Also called a <strong>focal-mechanism solution</strong>.\n\nSee also <a href=\"/learn/glossary/?term=moment%20tensor\">moment tensor</a>.','focal_mechanism.gif','Focal mechanism examples. (Image courtesy of Charles Ammon, Penn State)',NULL,''),
 	(72,'fault scarp','The fault scarp is the feature on the surface of the earth that looks like a step caused by slip on the fault.','SCARP.JPG','Fault scarp produced by the M7.1 Hector Mine, Calfornia earthquake. (Photo by Ken Hudnut, U.S. Geological Survey)',NULL,''),
 	(73,'fault trace','The fault trace is the intersection of a fault with the ground surface; also, the line commonly plotted on geologic maps to represent a fault.','TRACE.JPG','Fault surface trace of the Hector Mine fault after the October 16, 1999 M7.1 rupture. (Photo by Katherine Kendrick, U.S. Geological Survey)',NULL,''),
 	(74,'first motion','On a seismogram, the first motion is the direction of ground motion as the <a href=\"/learn/glossary/?term=P%20wave\">P wave</a> arrives at the <a href=\"/learn/glossary/?term=seismometer\">seismometer</a>. Upward ground motion indicates an expansion in the source region; downward motion indicates a contraction.','firstmotion.gif','First motion mechanism.  (Modified from UC Davis)','',''),
@@ -944,7 +944,7 @@ VALUES
 	(215,'wavelength','The wavelength is the distance between successive points of equal <a href=\"/learn/glossary/?term=amplitude\">amplitude</a> and phase on a wave (for example, crest to crest or trough to trough).','PERIOD.GIF','(Image courtesy of ThinkQuest)','',''),
 	(216,'YBP','YBP is an abbreviation for <strong>\"years before present\"</strong>.','YBP.GIF','(Image courtesy of Charles F. Jackals, Univ. of Washington)',NULL,''),
 	(218,'Modified Mercalli Intensity Scale','See <a href=\"/learn/glossary/?term=intensity\">intensity</a>.','','','',''),
-	(219,'moment tensor','A mathematical representation of the movement on a fault during an earthquake, comprising of nine generalized couples, or nine sets of two vectors. The tensor depends of the source strength and fault orientation.  See also <a href=\"/learn/glossary/?term=seismic%20moment\">seismic moment</a>.','moment_tensor.gif','The nine generalized couples of the seismic moment tensor. Modified after Aki and Richards (1980).','',''),
+	(219,'moment tensor','A mathematical representation of the movement on a fault during an earthquake, comprising of nine generalized couples, or nine sets of two vectors. The tensor depends of the source strength and fault orientation. It is often represented with \"beach balls\" just like the focal mechanism (or fault plane solution).\n\nSee also <a href=\"/learn/glossary/?term=seismic%20moment\">seismic moment</a> and <a href=\"/learn/glossary/?term=fault%20plane%20solution\">fault plane solution</a>.','moment_tensor.gif','The nine generalized couples of the seismic moment tensor. Modified after Aki and Richards (1980).','',''),
 	(225,'geologic time scale','a chronological sequence of geologic events usually represented in the form of a chart showing names of various rock layers and indicating the estimated duration of each geologic unit. \n\n<p>\nSee also:\n <ul>\n   <li><a href=\"http://pubs.usgs.gov/gip/geotime/contents.html\"> Geologic Time</a> (<span>Fact Sheet 2007-3015)</span></li>\n   <li><a href=\"http://pubs.usgs.gov/fs/2007/3015/\">Divisions of Geologic Time?Major Chronostratigraphic and Geochronologic Units</a></li>\n</ul>\n</p>','timescale270-4.jpg','','','');
 
 /*!40000 ALTER TABLE `glossary` ENABLE KEYS */;
