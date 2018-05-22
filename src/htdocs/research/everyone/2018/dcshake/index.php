@@ -14,6 +14,12 @@ if (!isset($TEMPLATE)) {
   New study shows that DC geologic conditions strongly affect earthquake shaking.
 </i></p>
 
+<p>
+  <a href="DCshake.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <figure class='right wa-mon'>
   <img src="images/wa-monument.jpg" alt=""/>
   <figcaption>

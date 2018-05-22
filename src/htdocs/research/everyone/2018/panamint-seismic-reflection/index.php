@@ -8,6 +8,12 @@
   }
 ?>
 
+<p>
+  <a href="Panamint.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <div class='row'>
   <div class='column one-of-two'>
     <p>

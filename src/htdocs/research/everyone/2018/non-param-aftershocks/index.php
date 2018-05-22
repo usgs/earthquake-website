@@ -9,6 +9,12 @@
   }
 ?>
 
+<p>
+  <a href="Aftershocks.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <figure class='left'>
 <img src="images/m7.8-oaxaca.png" alt=""/>
 <figcaption>

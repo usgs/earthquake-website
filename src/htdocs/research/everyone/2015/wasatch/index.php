@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Scott Bennett, Ryan Gold
-  // Last modified: 07/15/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
       $TITLE = 'How Big and How Frequent Are Earthquakes on the Wasatch Fault?';
       $NAVIGATION = true;
@@ -12,6 +11,12 @@
       include 'template.inc.php';
     }
 ?>
+
+<p>
+  <a href="Wasatch.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
 
 <h2>Where is the Wasatch Fault?</h2>
 
