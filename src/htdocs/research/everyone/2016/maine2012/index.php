@@ -12,6 +12,12 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
+<p>
+  <a href="Maine.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <figure class='right map'>
 	<img src='images/seis.gif' alt=''/></a>
 	<figcaption>
