@@ -8,6 +8,12 @@
   }
 ?>
 
+<p>
+  <a href="55story.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <figure class='right'>
 <img src="images/photo-map.jpg" alt=""/>
 <figcaption>

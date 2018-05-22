@@ -2,7 +2,6 @@
   // Author: Lisa Wald
   // Contact: Bill Stephenson, wstephens@usgs.gov
   // Created: April 2015
-  // Last modified: 07/11/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
       $TITLE = 'Seismology in the City';
       $HEAD = '
@@ -12,6 +11,12 @@
       include 'template.inc.php';
     }
 ?>
+
+<p>
+  <a href="Seis-in-city.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
 
 <figure class="right map">
 	<img src="images/1-NYC.gif" alt="Temporary seismometer array in New York City"/>

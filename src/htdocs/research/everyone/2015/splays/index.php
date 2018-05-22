@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Peter Haeussler,
-// Last modified: Lisa Wald, 07/13/2016
 if (!isset($TEMPLATE)) {
   $TITLE = 'The &quot;Snow Plow Theory&quot;* of Early-Arriving Tsunamis';
   $NAVIGATION = true;
@@ -13,6 +12,12 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <p>* completely contrived term by this author, not a scientific term or theory</p>
+
+<p>
+  <a href="Splays.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
 
 <h2>What is a Tsunami?</h2>
 

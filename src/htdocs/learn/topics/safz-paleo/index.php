@@ -11,6 +11,12 @@
 
 <h2><i>Investigating Past Earthquakes to Inform the Future</i></h2>
 
+<p>
+  <a href="SAFZ-paleo.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <figure class='trench right'>
   <img src='images/trench-xsect.gif' alt='trench cross-section'/>
   <figcaption>

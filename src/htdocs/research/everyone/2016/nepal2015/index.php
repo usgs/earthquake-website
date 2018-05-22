@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Sue Hough, hough@usgs.gov
-// Last modified: 07/12/2016, Lisa Wald
 if (!isset($TEMPLATE)) {
   $TITLE = 'The M7.8 Nepal Earthquake, 2015 &ndash; A Small Push to Mt. Everest';
   $NAVIGATION = true;
@@ -11,6 +10,12 @@ if (!isset($TEMPLATE)) {
   include 'template.inc.php';
 }
 ?>
+
+<p>
+  <a href="Nepal.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
 
 <figure class="right bricks">
 	<img src="images/bricks.jpg" alt="collapsed brick homes"/></a>
