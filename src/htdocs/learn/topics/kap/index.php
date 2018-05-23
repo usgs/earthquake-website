@@ -42,12 +42,11 @@ if (!isset($TEMPLATE)) {
   <a href="img/boat-fullres.jpg">
     <img src="img/boat.jpg" alt="photo of Malcom's boat in the SF Bay" />
   </a>
-  <figcaption>The new photo was taken using a kite-lofted camera, from the bow
-    of Malcolm&rsquo;s boat in San Francisco Bay. Photo by Scott Haefner,
-    USGS.</figcaption>
+  <figcaption>Photo by Scott Haefner, USGS.</figcaption>
 </figure>
 
-<p>The new photo was taken from the bow of a boat in San Francisco Bay near Treasure Island.</p>
+<p>The new photo was taken using a kite-lofted camera, from the bow
+  of Malcolm&rsquo;s boat in San Francisco Bay near Treasure Island.</p>
 
 <ul>
   <li><a href="http://scotthaefner.com/beyond/san-francisco-100-years-later/">View the new photo</a></li>
