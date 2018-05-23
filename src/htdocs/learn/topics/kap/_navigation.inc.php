@@ -7,7 +7,7 @@
 
     "<header>Kite Aerial Photography</header>",
 
-    navItem("${section}/index.php", "Repeat Photography: George Lawrence&rsquo;s &ldquo;San Francisco in Ruins&rdquo;") .
+    navItem("${section}/", "Repeat Photography: George Lawrence&rsquo;s &ldquo;San Francisco in Ruins&rdquo;") .
     navItem("${section}/carrizo.php", "San Andreas Fault at Wallace Creek") .
     navItem("/research/parkfield/shake/", "Parkfield Shake Table Exhibit") .
 
