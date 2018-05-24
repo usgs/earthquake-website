@@ -1,0 +1,31 @@
+/* hide this widget (and display it via js since this features req. js) */
+.hide {
+  display: none !important;
+}
+
+.topics {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 1.5em 0;
+  padding: 0;
+}
+.topics li {
+  margin: 6px 3px;
+  white-space: nowrap;
+}
+.topics a {
+	background: #eee;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	color: #000;
+	padding: 3px 8px;
+	text-decoration: none;
+}
+.topics a:hover {
+	color: #000;
+}
+.topics .selected {
+  background: #d5eacf;
+  cursor: text;
+}
