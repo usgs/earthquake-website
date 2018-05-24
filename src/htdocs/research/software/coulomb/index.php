@@ -24,6 +24,12 @@
   <img src="images/indexcover.jpg" alt="example of Coulomb output">
 </figure>
 
+<div class="alert warning">
+  <p>Please note: This legacy software is still available for download, but no
+    support is available. Please refer to the online documentation and examples
+    provided.</p>
+</div>
+
 <ul>
   <li>
     <a href="/static/lfs/software/coulomb34.zip">Download software</a> (23.8 MB)
