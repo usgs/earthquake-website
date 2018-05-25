@@ -64,6 +64,8 @@
     <p>The USGS and its partners developed the HayWired scenario as a tool to
       enable further actions such as seismic upgrades and retrofits that can
       change the outcome when the next major earthquake strikes.</p>
+    <p>See a summary of this report, &ldquo;<a href="https://pubs.usgs.gov/fs/2018/3016/fs20183016.pdf">The
+      HayWired Earthquake Scenario&mdash;We Can Outsmart Disaster</a>&rdquo;.</p>
   </li>
 
   <li>
@@ -84,7 +86,7 @@
     <p>This scenario ShakeMap shows ground shaking caused by a hypothetical M7.0
       earthquake on the Hayward Fault. The mainshock (star) is beneath the City of
       Oakland and causes the Hayward Fault to rupture along about 52 miles
-      of its length (thick black line). White lines depict other major faults in 
+      of its length (thick black line). White lines depict other major faults in
       the region.</p>
   </li>
 
