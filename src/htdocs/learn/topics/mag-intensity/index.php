@@ -12,6 +12,7 @@
   <a href="magnitude">Magnitude</a>
   <a href="energy">Energy Release</a>
   <a href="intensity">Intensity</a>
+  <a href="examples">Examples</a>
 </nav>
 
 <p>
@@ -126,6 +127,15 @@
 <!-- *************************INTENSITY***************************** -->
 <h2 id="intensity">Intensity</h2>
 
+<figure class="right">
+  <a href="images/Napa-dyfi.gif">
+    <img src="images/Napa-dyfi.gif" alt=""/>
+  </a>
+  <figcaption>
+    Did You Feel It? map for the M6.0 Napa, California earthquake on August 24, 2014. The earthquake epicenter is shown as a star, and the geocoded intensities are shown as small colored squares. The associated MMI value for each color is shown in the key at the bottom. <strong><a href="images/Napa-dyfi.gif"> Click on image to view larger version.</a></strong>
+  </figcaption>
+</figure>
+
 <p>
   Whereas the magnitude of an earthquake is one value that describes the size, there are many intensity values for each earthquake that are distributed across the geographic area around the earthquake epicenter.  The intensity is the measure of shaking at each location, and this varies from place to place, <strong>depending mostly on the distance from the fault rupture area</strong>.  However, there are many more aspects of the earthquake and the ground it shakes that affect the intensity at each location, such as what direction the earthquake ruptured, and what type of surface geology is directly beneath you. Intensities are expressed in Roman numerals, for example, VI, X, etc.
 </p>
@@ -154,3 +164,9 @@
     <a href="/learn/topics/topics.php?topicID=77">Intensity Educational Resources</a>
   </li>
 </ul>
+
+<h2 id="examples">Examples</h2>
+
+<p>
+  These examples illustrate how locations (and depth), magnitudes, intensity, and faults (and rupture) characteristics are dependent and related.
+</p>
