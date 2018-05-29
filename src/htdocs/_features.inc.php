@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-05-29',
+  'title' => 'New Database Covers Geometry of Majority of World’s Subduction Zones',
+  'content' => 'This spring, researchers will release an expanded database that covers the geometry of most of the world’s subducting slabs, the massive pieces of the Earth’s crust that sink into the mantle at tectonic plate boundaries. Called Slab2, the updated database will help researchers determine the impact of 3-D slab shape on megathrust earthquakes. (SSA News Release)',
+  'link' => 'https://www.seismosoc.org/annual-meeting/new-database-covers-geometry-of-majority-of-worlds-subduction-zones/',
+  'modified' => strtotime('2018-05-29'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/slab2.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/slab2.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-05-21',
   'title' => 'How Often Do Cascadia&CloseCurlyQuote;s Megaquakes Occur?',
   'content' => 'Devastating magnitude 8.0 to 9.0 megathrust earthquakes and accompanying tsunamis appear to have hit the U.S. Pacific Northwest and Northwest Canada about every 500 years on average. But some USGS scientists think the recurrence interval between some of these large earthquakes may be shorter. (SSA News Release)',
