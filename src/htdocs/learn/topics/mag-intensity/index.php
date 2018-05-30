@@ -9,10 +9,10 @@
 ?>
 
 <nav class="jumplist">
-  <a href="magnitude">Magnitude</a>
-  <a href="energy">Energy Release</a>
-  <a href="intensity">Intensity</a>
-  <a href="examples">Examples</a>
+  <a href="#magnitude">Magnitude</a>
+  <a href="#energy">Energy Release</a>
+  <a href="#intensity">Intensity</a>
+  <a href="#examples">Examples</a>
 </nav>
 
 <p>
@@ -170,3 +170,74 @@
 <p>
   These examples illustrate how locations (and depth), magnitudes, intensity, and faults (and rupture) characteristics are dependent and related.
 </p>
+
+<h3>Intensity of Shaking Depends on the Local Geology</h3>
+
+<figure>
+  <img src="images/LomaPrietasiteresp.gif" alt=""/>
+  <figcaption>
+    This shows the shaking amplitude recorded on 3 different seismometers from the M6.9 Loma Prieta, CA earthquake in 1989. All 3 stations are about the same distance from the earthquake to the south, but the type of local geology beneath the instrument influences the amount of shaking at that location. Bedrock shakes the least, and soft mud the most.
+  </figcaption>
+</figure>
+
+<h3>Intensity of Shaking Depends on Depth of the Earthquake</h3>
+
+<figure>
+  <img src="images/intensity-Nisq.vs.Northridge.jpg" alt=""/>
+  <figcaption>
+  </figcaption>
+</figure>
+<p>
+  The two maps above show the shaking intensity from two different earthquakes with about the same magnitude. The shaking from the M6.7 Northridge, CA earthquake was more intense and covered a wider area than the slightly larger M6.8 Nisqually, WA earthquake.
+</p>
+<p>
+  The reason is shown by the two cartoon cross-sections below.  There was more shaking in the Northridge earthquake because the earthquake occurred closer to the surface (3-11 miles), as opposed to the Nisqually earthquake's deeper hypocenter (30-36 miles).
+</p>
+<figure>
+  <img src="images/EQdepth-Nisq.vs.Northridge.jpg" alt=""/>
+  <figcaption>
+  </figcaption>
+</figure>
+
+<h3>Moment Release (Energy) of Many Small Earthquakes vs. One Large Earthquake</h3>
+
+<p>
+  This graph demonstrates the logarithmic nature of earthquake magnitudes and energy release. The small- and moderate-size earthquakes that occur frequently around the world release far less energy that a single great earthquake.
+</p>
+<figure>
+  <img src="images/Cumul_moment.png" alt="graph of cumulative moment release of all earthquakes from 1900 to 2017"/>
+  <figcaption>
+  </figcaption>
+</figure>
+
+<h3>What Would it Take to Make a Magnitude N Earthquake?</h3>
+<p>
+  If we sum all of the energy release from all of the earthquakes over the past ~110 years, the equivalent magnitude ~ Mw9.95.
+</p>
+<p>
+  If the San Andreas Fault were to rupture end-to-end (~1400km), with ~10m of average slip, it would produce an earthquake of Mw 8.47.
+</p>
+<p>
+  If the South American subduction zone were to rupture end-to-end (~6400km), with ~40m of average slip, it would produce an earthquake of Mw 9.86.
+</p>
+<p>
+  You would need ~14,000km fault length, with a seismogenic thickness averaging 40km (width of 100km), to slip and average of 30m to produce an Mw 10.
+</p>
+<p>
+  <figure>
+    <img src="images/fault-Aleutian-to-Chile.jpg" alt=""/>
+    <figcaption>
+
+    </figcaption>
+  </figure>
+
+<p>
+  You would need ~80,000km of fault length with an average seismogenic width of 100km to produce an Mw10.5.  All of the subduction zones in the World, plus some adjoining structures amount to ~40,000km, and the circumference of the Earth is ~40,000km, so an Mw 10.5 is not possible.
+</p>
+<p>
+  <figure>
+    <img src="images/fault-most-of-world.jpg" alt=""/>
+    <figcaption>
+
+    </figcaption>
+  </figure>
