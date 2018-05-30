@@ -13,7 +13,7 @@
 </p>
 
 <video width="800" controls>
-  <source src="https://earthquake.usgs.gov/sitedata/learn/animations/greatcircle.mp4" type="video/mp4">
+  <source src="/static/lfs/learn/greatcircle.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
