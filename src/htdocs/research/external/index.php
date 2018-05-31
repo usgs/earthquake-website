@@ -19,13 +19,14 @@ if (!isset($TEMPLATE)) {
 
     <h2>Annual Competitive Grants</h2>
 
+<!--
     <p>
       <strong>The FY19 External Grants Application Period is now open though May 22, 2018. The <a href="https://www.grants.gov/">grants.gov</a> Opportunity Number is G18AS00021.</strong>
     </p>
     <p>
       <a href="https://www.grants.gov/web/grants/search-grants.html?keywords=G18AS00021">FY19 External Grants Program Announcement</a>
     </p>
-
+-->
     <p>
       External Grants issues an annual Program announcement for competitive proposals for grants and cooperative agreements to support research in earthquake hazards, the physics of earthquakes, earthquake occurrence, and earthquake safety policy. To find out when the next application period will be, you can enroll on the <a href="http://grants.gov/">grants.gov</a> website to receive an email notification regarding "CFDA number 15.807 application period openings" : <a href="https://www.grants.gov/web/grants/manage-subscriptions.html">Manage Subscriptions</a>.
     </p>
@@ -176,5 +177,5 @@ if (!isset($TEMPLATE)) {
 </p>
 
 <p>
-  Unsolicited Proposals may be submitted out of cycle only in cases where there is a compelling circumstance or emergency that must be acted on before the next competitive grant cycle.&nbsp; Proposers should contact the appropriate Regional or Topical Coordinator prior to submitting out-of-cycle proposals. See <a href="https://www.usgs.gov/contracts/unsolbk.html">Guidance for submitting unsolicited proposals</a>.
+  Unsolicited Proposals may be submitted out of cycle only in cases where there is a compelling circumstance or emergency that must be acted on before the next competitive grant cycle.&nbsp; Proposers should contact the appropriate Regional or Topical Coordinator prior to submitting out-of-cycle proposals. See <a href="https://www2.usgs.gov/contracts/unsolbk.html">Guidance for submitting unsolicited proposals</a>.
 </p>
