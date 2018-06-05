@@ -11,6 +11,17 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-06-04',
+  'title' => 'Oklahoma Study Reveals Possible, Previously Unknown Sources of Earthquakes',
+  'content' => 'Magnetic measurements made during low-altitude airplane flights conducted for the U.S. Geological Survey and the Oklahoma Geological Survey reveal possible deep faults that may contribute to increased seismic activity in response to wastewater injection in certain portions of Oklahoma.',
+  'link' => 'https://www.usgs.gov/news/oklahoma-study-reveals-possible-previously-unknown-sources-earthquakes',
+  'modified' => strtotime('2018-06-04'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/Airplane_Altus_magsensor.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/Airplane_Altus_magsensor.jpg'
+);
+
 $EQ_FEATURES->items[] = array(
   'id' => '2018-05-29',
   'title' => 'New Database Covers Geometry of Majority of World’s Subduction Zones',
