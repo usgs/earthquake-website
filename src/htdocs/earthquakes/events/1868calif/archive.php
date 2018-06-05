@@ -47,17 +47,6 @@
 
 <ul class="no-style linklist">
   <li>
-    <a href="https://pubs.usgs.gov/of/2008/1135/">
-      <h3>Where&rsquo;s the Hayward Fault? A Green Guide to the Fault</h3>
-      <img src="images/greenguide.jpg" alt="Photo of the Hayward Fault"/>
-    </a>
-    <p>Self-guided field trips to one of North America&rsquo;s most dangerous
-    earthquake faults, the Hayward Fault. Locations were chosen because of
-    their easy access using mass transit and/or their significance relating to
-    the natural and cultural history of the East Bay landscape.</p>
-  </li>
-
-  <li>
     <a href="pdf/fld007_17e.pdf">
       <h3>2006 Field Guide to the Hayward Fault (13 MB pdf)</h3>
       <img src="images/fieldguide.jpg" alt="Cover of the 2006 Field Guide to the Hayward Fault"/>
