@@ -40,7 +40,16 @@
     Levandowski, W., R.B. Herrmann, R. Briggs, O. Boyd, and R. Gold (2018) <a href="https://www.nature.com/articles/s41561-018-0120-x">An updated stress map of the continental United States reveals heterogeneous intraplate stress</a>, Nature Geoscience, 11, pages 433–437.
   </li>
   <li>
+    <a href="/learn/topics/nmsz">The New Madrid Seismic Zone</a>
+  </li>
+  <li>
+    <a href="http://www.ceus-ssc.com/">Central Eastern United States - Seismic Source Characterization for Nuclear Facilities</a>
+  </li>
+  <li>
     <a href="/hazards/hazmaps/">USGS National Seismic Hazard Map</a>
+  </li>
+  <li>
+    <a href="/research/induced/hazards.php">Induced Seismicity Research</a>
   </li>
 </ul>
 
