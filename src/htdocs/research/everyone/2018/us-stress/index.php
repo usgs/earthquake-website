@@ -17,16 +17,16 @@
   -->
 
 <p>
-  Earthquakes near tectonic plate boundaries are understandably caused by the stress of plate motions.  But less obvious is why earthquakes occur in the middle of continents, far away from plate boundaries. The simplest explanation is that these earthquakes, too, are controlled by the distant plate boundaries; but a new U.S. map of stress in the Earth’s crust challenges that idea.
+  Earthquakes near tectonic plate boundaries are caused by the stress of plate motions. It is less obvious why there are earthquakes in the middle of the plates, far away from plate boundaries. The simplest explanation is that these earthquakes, too, are controlled by the distant plate boundaries; but a new U.S. map of stress in the Earth’s crust challenges that idea.
 </p>
 <p>
-  Researchers took advantage of a large new dataset that they used to analyze earthquakes in the middle part of the continental U.S., which also happens to be the deep interior of the North American plate. The new data is available because of the increase in human-induced earthquakes in parts of the Central U.S. and additional (and better) seismic instruments to record induced and natural seismicity.  The nation-wide dataset they used included 3,848 earthquakes; 1,966 in the Central U.S.  This is 7 times more data than were used in the most recent stress map database.
+  Researchers took advantage of a large new dataset that they used to analyze earthquakes in the middle part of the U.S., in the deep interior of the North American plate. The new data is available because of both the increase in human-induced earthquakes in parts of the Central U.S. and additional (and better) seismic instruments to record induced and natural seismicity.  The nationwide dataset they used included 3,848 earthquakes; 1,966 in the Central U.S.  This is 7 times more data than were used in the most recent stress map database.
 </p>
 <p>
-  The scientists determined the direction of slip from each earthquake, and thus the prevailing crustal stress in that location. Then they created a map of the U.S. showing the direction of stress in all the earthquake locations.  Their map shows that the plate interior stress is variable, with contributions from plate boundary stress, crustal collapse due to gravity, and more local and subtle changes to style, orientation, and earthquake rate. These variations appear to reflect persistent stress conditions, existing for millions of years, possibly caused by differences in the crust inherited from long-dead tectonic events including mountain-building and continental rifting.
+  The scientists determined the direction of slip from each earthquake, and by combining many earthquakes, calculated the prevailing crustal stress in that location. The new map of crustal stress across the U.S. shows that the plate interior stress is variable, with contributions from plate boundary stress, crustal collapse due to gravity, and more local and subtle changes to style, orientation, and earthquake rate. These variations appear to reflect persistent stress conditions, existing for millions of years, possibly caused by differences in the crust inherited from long-dead tectonic events including mountain-building and continental rifting.
 </p>
 <p>
-  Earthquakes in the central and eastern U.S. tend to cluster in seismic zones rather than being evenly distributed. Most of these highest-hazard zones occur where the local stress patterns differ from the broad, plate-boundary-driven stress. This observation that local stress variations may be the main reason for intracontinental earthquakes helps to explain the zones of higher central and eastern U.S. seismic hazard. However, work remains to define the exact relationship between the local stress and the probability of future earthquakes.
+  Earthquakes in the central and eastern U.S. tend to cluster in seismic zones rather than being evenly distributed. Most of these highest-hazard zones occur where the local stress patterns differ from the broad, plate-boundary-driven stress. This observation that local stress variations may be the main reason for intracontinental earthquakes helps to explain the zones of higher central and eastern U.S. seismic hazard. However, work remains to define the exact relationship between the local stress and the observed number of annual earthquakes.
 </p>
 <p>
   These new findings, and increasingly precise stress maps and their relationship with crustal deformation and earthquake rates, will improve our understanding of earthquake hazard and risk by enabling scientists to better map where future earthquakes are more likely to occur.
@@ -54,5 +54,6 @@
 </ul>
 
 <h2>The Scientists Behind the Science</h2>
-
-Will Levandowski, Rich Briggs
+<p>
+  <strong>Will Levandowski</strong> (the lead author) was a Mendenhall Postdoctoral Fellow at the USGS Geologic Hazards Science Center in Golden from 2014-2017, where his work focused on seismicity in the Central and Eastern U.S. He likes to climb.
+</p>
