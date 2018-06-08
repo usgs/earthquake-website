@@ -81,9 +81,9 @@
 <h2>The Scientists Behind the Science</h2>
 
 <figure class='left'>
-<img src="images/boy-climbing.png" alt=""/>
+<img src="images/levandowski.jpg" alt=""/>
 <figcaption>
-  Image courtesy of pngtree.
+  Will Levandowski breaking ground on a soil pit to evaluate the record of faulting along the Reelfoot fault scarp in the New Madrid Seismic Zone.
 </figcaption>
 </figure>
 <p>
