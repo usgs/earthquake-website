@@ -142,8 +142,6 @@
 </table>
 
 <h3>Preferred Liquefaction Model</h3>
-
-<h3>Zhu and others (2017)</h3>
 <p>
   Zhu and others (2017) is the preferred model for liquefaction hazard. The model was developed by relating 27 inventories of liquefaction triggered by past earthquakes to globally-available geospatial proxies (summarized below) using logistic regression. We have implemented the global version of the model and have added additional modifications proposed by Baise and Rashidian (2017),  including a PGA threshold of 0.1 g and linear interpolation of the input layers. We linearly interpolate the original input layers of ~1 km resolution to 500 m resolution. The model inputs are described below. More details about the model can be found in the  <a href="???">original publication</a>.
 </p>
@@ -191,7 +189,7 @@
   </tr>
 </table>
 
-<h3>Alternative Models</a>
+<h3>Alternative Models</h3>
 <p>
   We currently run two alternative landslide models and one alternative liquefaction model, described in Table 1. These models are not currently rendered on the interactive map or used to determine alert levels, but are available for <a href="#download">download</a>.
 </p>
@@ -275,7 +273,7 @@
 <!-- INSERT FIG.8: ALERT STATISTICS -->
 
 <h2>References</h2>
-<ul>
+<ul class="referencelist">
   <li>
     Allstadt, K.E., Jibson, R. W., Thompson, E.M., Massey, C.I., Wald, D.J., Godt, J.W., Rengers, F.K., 2018, <a href="https://doi.org/10.1785/0120170297">Improving Near-Real-Time Coseismic Landslide Models: Lessons Learned from the 2016 Kaikoura, New Zealand, Earthquake</a>: Bulletin of the Seismological Society of America, (in press).
   </li>
