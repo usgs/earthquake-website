@@ -68,7 +68,7 @@
 </p>
 <ul>
   <li><a href="2014/images/HazardMap2014_lg.jpg"/>Simplified 2014 Hazard Map (PGA, 2% in 50 years)</a></li>
-  <li>Maps: Conterminous US
+  <li>Maps: Conterminous U.S.
     <ul>
           <li><a href="/static/lfs/nshm/conterminous/2014/2014pga2pct.pdf">PGA 2% in 50 yrs</a>(1.3MB PDF)</li>
           <li><a href="/static/lfs/nshm/conterminous/2014/2014pga10pct.pdf">PGA 10% in 50 yrs</a>(1.1MB PDF)</li>
@@ -79,10 +79,27 @@
     </ul>
   </li>
 
-  <li><a href="/static/lfs/nshm/conterminous/2014/data/">Data</a>
+  <li>Data: Conterminous U.S.
+    <ul>Map Data
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_pga2pct50yrs.dat.zip">PGA 2% in 50 yrs</a>(3.9MB PDF)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_pga10pct50yrs.dat.zip">PGA 10% in 50 yrs</a>(3.7MB PDF)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_5hz2pct50yrs.dat.zip">5 Hz 2% in 50 yrs</a>(4MB PDF)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_5hz10pct50yrs.dat.zip">5 Hz 10% in 50 yrs</a>(3.9MB PDF)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_1hz2pct50yrs.dat.zip">1 Hz 2% in 50 yrs</a>(3.9MB PDF)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_1hz10pct50yrs.dat.zip">1 Hz 10% in 50 yrs</a>(3.9MB PDF)</li>
+    </ul>
+    <ul>Hazard Curves Data
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/us_hazardCurves.pga.txt.zip">PGA</a>(34.5MB Zip)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/us_hazardCurves.5hz.txt.zip">0.2 Second (5Hz)</a>(32.9MB Zip)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/us_hazardCurves.1hz.txt.zip">1.0 Second (1Hz)</a>(34.5MB Zip)</li>
+    </ul>
   </li>
 
-  <li><a href="/static/lfs/nshm/conterminous/2014/USpga250.zip">GIS Shapefiles</a> (PGA, 2% in 50yrs) (5MB Zip)</a>
+  <li>GIS Shapefiles:
+    <ul>
+      <li><a href="/static/lfs/nshm/conterminous/2014/USpga250.zip">PGA, 2% in 50yrs</a>(5MB Zip)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/hazfaults2014.zip">Fault Sources</a>(MB Zip)</li>
+    </ul>
   </li>
 
   <li><a href="https://github.com/usgs/nshmp-haz-fortran">Source code</a>

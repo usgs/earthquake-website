@@ -83,7 +83,7 @@
 <figure class='left'>
 <img src="images/levandowski.jpg" alt=""/>
 <figcaption>
-  Will Levandowski breaking ground on a soil pit to evaluate the record of faulting along the Reelfoot fault scarp in the New Madrid Seismic Zone.
+  Will Levandowski.
 </figcaption>
 </figure>
 <p>
