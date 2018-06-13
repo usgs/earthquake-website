@@ -81,12 +81,12 @@
 
   <li>Data: Conterminous U.S.
     <ul>Map Data
-      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_pga2pct50yrs.dat.zip">PGA 2% in 50 yrs</a>(3.9MB PDF)</li>
-      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_pga10pct50yrs.dat.zip">PGA 10% in 50 yrs</a>(3.7MB PDF)</li>
-      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_5hz2pct50yrs.dat.zip">5 Hz 2% in 50 yrs</a>(4MB PDF)</li>
-      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_5hz10pct50yrs.dat.zip">5 Hz 10% in 50 yrs</a>(3.9MB PDF)</li>
-      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_1hz2pct50yrs.dat.zip">1 Hz 2% in 50 yrs</a>(3.9MB PDF)</li>
-      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_1hz10pct50yrs.dat.zip">1 Hz 10% in 50 yrs</a>(3.9MB PDF)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_pga2pct50yrs.dat.zip">PGA 2% in 50 yrs</a>(3.9MB Zip)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_pga10pct50yrs.dat.zip">PGA 10% in 50 yrs</a>(3.7MB Zip)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_5hz2pct50yrs.dat.zip">5 Hz 2% in 50 yrs</a>(4MB Zip)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_5hz10pct50yrs.dat.zip">5 Hz 10% in 50 yrs</a>(3.9MB Zip)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_1hz2pct50yrs.dat.zip">1 Hz 2% in 50 yrs</a>(3.9MB Zip)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/2014_1hz10pct50yrs.dat.zip">1 Hz 10% in 50 yrs</a>(3.9MB Zip)</li>
     </ul>
     <ul>Hazard Curves Data
       <li><a href="/static/lfs/nshm/conterminous/2014/data/us_hazardCurves.pga.txt.zip">PGA</a>(34.5MB Zip)</li>
