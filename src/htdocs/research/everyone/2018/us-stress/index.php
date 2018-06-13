@@ -9,13 +9,11 @@
   }
 ?>
 
-<!--
 <p>
   <a href="us-stress.pdf">
     <i class="material-icons">save_alt</i> Download PDF
   </a>
 </p>
-  -->
 
   <figure class='right globe'>
   <img src="images/globe.gif" alt=""/>
