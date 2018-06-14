@@ -55,7 +55,7 @@
   These new findings, and increasingly precise stress maps and their relationship with crustal deformation and earthquake rates, will improve our understanding of earthquake hazard and risk by enabling scientists to better map where future earthquakes are more likely to occur.
 </p>
 
-<p>- written by Lisa Wald and Rich Briggs, U.S. Geological Survey</p>
+<p>- written by Lisa Wald, U.S. Geological Survey</p>
 
 <h2>For More Information</h2>
 <ul>
