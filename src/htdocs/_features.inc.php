@@ -18,7 +18,7 @@ $EQ_FEATURES->items[] = array(
   'content' => 'A new map of crustal stress across the U.S. shows that the plate interior stress is variable, with contributions from plate boundary stress, crustal collapse due to gravity, and more local and subtle changes to style, orientation, and earthquake rate.',
   'link' => 'https://earthquake.usgs.gov/research/everyone/2018/us-stress/',
   'modified' => strtotime('2018-06-18'),
-  'thumbnail' => 'https://earthquake.usgs.gov/images-features/us-stressmap.jpg',
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/us-stressmap.jpg',
   'image' => 'https://earthquake.usgs.gov/images-featured/us-stressmap.jpg'
 );
 
