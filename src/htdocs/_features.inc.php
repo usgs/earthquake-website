@@ -12,7 +12,7 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 
-EQ_FEATURES->items[] = array(
+$EQ_FEATURES->items[] = array(
   'id' => '2018-06-18',
   'title' => 'A Possible Cause of Earthquakes in the Continental Interior',
   'content' => 'A new map of crustal stress across the U.S. shows that the plate interior stress is variable, with contributions from plate boundary stress, crustal collapse due to gravity, and more local and subtle changes to style, orientation, and earthquake rate.',
