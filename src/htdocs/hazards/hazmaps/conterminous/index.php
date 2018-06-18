@@ -97,7 +97,7 @@
 
   <li>GIS Shapefiles:
     <ul>
-      <li><a href="/static/lfs/nshm/conterminous/2014/USpga250.zip">PGA, 2% in 50yrs</a>(5MB Zip)</li>
+      <li><a href="/static/lfs/nshm/conterminous/2014/data/USpga250.zip">PGA, 2% in 50yrs</a>(5MB Zip)</li>
       <li><a href="/static/lfs/nshm/conterminous/2014/hazfaults2014.zip">Fault Sources</a>(MB Zip)</li>
     </ul>
   </li>
