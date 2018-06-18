@@ -65,44 +65,43 @@ include 'template.inc.php';
       </li>
 
 <!-- Central US Education -->
-			<li>
-				<a href="/hazards/workshops/">
-					<h4>National Seismic Hazard Mapping Workshops</h4>
-					<img src="images/ghsc-easternus-seis-2x.gif"/ alt="seismicity map of Central and Eastern U.S." width="150">
-				</a>
-				<p>Workshops for user input and feedback to inform the next version of the national seismic hazard maps.</p>
-			</li>
+  <li>
+  <a href="/hazards/workshops/">
+  <h4>National Seismic Hazard Mapping Workshops</h4>
+  <img src="images/ghsc-easternus-seis-2x.gif"/ alt="seismicity map of Central and Eastern U.S." width="150">
+  </a>
+  <p>Workshops for user input and feedback to inform the next version of the national seismic hazard maps.</p>
+  </li>
 
 <!-- Oklahoma Seismicity Animation -->
-			<li>
-				<a href="/earthquakes/byregion/oklahoma/OKeqanimation.php">
-					<h4>Animation of Oklahoma Seismicity</h4>
-					<img src="images/ghsc-okanim-2x.jpg" alt="screenshot of animation frame" width="150"/>
-				</a>
-				<p>The rate of earthquakes in Oklahoma has increased remarkably since October 2013–by about 50 percent –significantly increasing the chance for a damaging magnitude 5.5 or greater quake in central Oklahoma.</p>
-			</li>
+  <li>
+  <a href="/earthquakes/byregion/oklahoma/OKeqanimation.php">
+  <h4>Animation of Oklahoma Seismicity</h4>
+  <img src="images/ghsc-okanim-2x.jpg" alt="screenshot of animation frame" width="150"/>
+  </a>
+  <p>The rate of earthquakes in Oklahoma has increased remarkably since October 2013–by about 50 percent –significantly increasing the chance for a damaging magnitude 5.5 or greater quake in central Oklahoma.</p>
+  </li>
 
 <!-- Eastern US Education -->
-			<li>
-				<a href="/learn/topics/search.php?sendTopicID=&sendContentID=&sendLevelID=&sendRegionID=32">
-					<h4>Eastern US Earthquake Science</h4>
-					<img src="images/ghsc-easternus-sci-2x.jpg" alt="map of Eastern U.S. showing earthquakes as white circles" width="150"/>
-				</a>
-				<p>In nearly all parts of the northeastern US, we do not yet know how to tell which fault caused an individual earthquake.</p>
-			</li>
+  <li>
+  <a href="/learn/topics/search.php?sendTopicID=&sendContentID=&sendLevelID=&sendRegionID=32">
+  <h4>Eastern US Earthquake Science</h4>
+  <img src="images/ghsc-easternus-sci-2x.jpg" alt="map of Eastern U.S. showing earthquakes as white circles" width="150"/>
+  </a>
+  <p>In nearly all parts of the northeastern US, we do not yet know how to tell which fault caused an individual earthquake.</p>
+  </li>
 
-		</ul>
-	</div>
+  </ul>
+  </div>
 
-	<div class="column one-of-three">
-		<h2>Regional Interest</h2>
+  <div class="column one-of-three">
+  <h2>Regional Interest</h2>
 
-		  <ul>
-		    <li><a href="http://www.pnsn.org/">Pacific Northwest Seismic Network (PNSN)</a></li>
-		    <li><a href="http://www.ceri.memphis.edu/">Center for Earthquake Research &amp; Information (CERI)</li>
-		    <li><a href="http://www.ceri.memphis.edu/products_usgs/pubs_db3.html">CERI Publications Database</a></li>
-		    <li><a href="https://pubs.usgs.gov/gip/119/">Putting Down Roots</a> - EQ preparedness for Central US</li>
-		    <li><a href="https://ussc.utah.gov/pages/search.php?search=!collection17">Putting Down Roots - EQ preparedness for Utah</a></li>
-		  </ul>
-	</div>
+    <ul>
+      <li><a href="https://www.pnsn.org/">Pacific Northwest Seismic Network (PNSN)</a></li>
+      <li><a href="http://www.memphis.edu/ceri/">Center for Earthquake Research &amp; Information (CERI)</li>
+      <li><a href="https://pubs.usgs.gov/gip/119/">Putting Down Roots</a> - EQ preparedness for Central US</li>
+      <li><a href="https://ussc.utah.gov/pages/search.php?search=!collection17">Putting Down Roots - EQ preparedness for Utah</a></li>
+    </ul>
+  </div>
 </div>
