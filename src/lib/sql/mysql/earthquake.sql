@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-05-22 21:07:52 +0000
+# Generation Time: 2018-06-18 19:41:41 +0000
 # ************************************************************
 
 
@@ -757,7 +757,7 @@ LOCK TABLES `glossary` WRITE;
 INSERT INTO `glossary` (`id`, `term`, `definition`, `img1`, `img1Desc`, `img2`, `img2Desc`)
 VALUES
 	(5,'amplification','Shaking levels at a site may be increased, or amplified, by focusing of seismic energy caused by the geometry of the sediment velocity structure, such as basin subsurface topography, or by surface topography.\r\n\r\n<video width=\"800\" controls=\"\">\n  <source src=\"mp4/amplification.mp4\" type=\"video/mp4\">\nYour browser does not support the video tag.\n</video>','amplification.jpg','Two important local geologic factors that affect the level of shaking experienced in earthquakes are (1) the softness of the surface rocks and (2) the thickness of surface sediments. This image of the Los Angeles region combines this information to predict the total amplification expected in future earthquakes from local geologic conditions or site effects.','',''),
-	(221,'great circle','The shortest path between two points on the surface of a sphere lies along a great circle.\r\n\r\n<video width=\"800\" controls=\"\">\n  <source src=\"https://earthquake.usgs.gov/static/lfs/learn/greatcircle.mp4\" type=\"video/mp4\">\nYour browser does not support the video tag.\n</video>','greatcircle_thumb.gif','',NULL,''),
+	(221,'great circle','The shortest path between two points on the surface of a sphere lies along a great circle.\r\n\r\n<video width=\"800\" controls=\"\">\n  <source src=\"https://earthquake.usgs.gov/sitedata/learn/animations/greatcircle.mp4\" type=\"video/mp4\">\nYour browser does not support the video tag.\n</video>','greatcircle_thumb.gif','',NULL,''),
 	(32,'acceleration','When you push on the gas pedal in the car or put on the brakes, the car goes faster or slower. When it is changing from one speed to another, it is accelerating (faster) or decelerating (slower). This change from one speed, or velocity, to another is called acceleration. Technically, then, acceleration is how much the velocity changes in a unit time.\r\n\r\nDuring an earthquake when the ground is shaking, it also experiences acceleration. The <strong>peak acceleration</strong> is the largest increase in velocity recorded by a particular station during an earthquake.','','','',''),
 	(44,'attenuation','<p>When you throw a pebble in a pond, it makes waves on the surface that move out from the place where the pebble entered the water. The waves are largest where they are formed and gradually get smaller as they move away. This decrease in size, or <a href=\"/learn/glossary/?term=amplitude\">amplitude</a>, of the waves is called attenuation. Seismic waves also become attenuated as they move away from the earthquake source.</p>\r\n\n<video width=\"800\" controls=\"\">\n  <source src=\"mp4/attenuation.mp4\" type=\"video/mp4\">\nYour browser does not support the video tag.\n</video>','attenuation.jpg',' Ripples on a pond are attenuated as they move away from the source. (Photo by Beth Conant)','',''),
 	(33,'accelerogram','The recording of the acceleration of the ground during an earthquake.','ACCEL.GIF','Acceleration, Velocity, Displacement (Image courtesy of Charles Ammon, Penn State)',NULL,''),
@@ -1387,7 +1387,8 @@ VALUES
 	(503,9),
 	(503,7),
 	(504,9),
-	(505,9);
+	(505,9),
+	(506,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1987,7 +1988,8 @@ VALUES
 	(503,8),
 	(503,11),
 	(504,13),
-	(505,13);
+	(505,13),
+	(506,13);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2146,7 +2148,8 @@ VALUES
 	(503,45),
 	(504,45),
 	(504,32),
-	(505,25);
+	(505,25),
+	(506,45);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2992,7 +2995,12 @@ VALUES
 	(504,85),
 	(504,37),
 	(505,52),
-	(505,85);
+	(505,85),
+	(506,43),
+	(506,79),
+	(506,68),
+	(506,30),
+	(506,85);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3256,7 +3264,8 @@ VALUES
 	(502,'What to Expect in a Big Urban Earthquake','USGS','https://wim.usgs.gov/geonarrative/safrr/WTE_earthquake/','An ArcGIS geo-narrative storymap that describes what can be expected if there is a large earthquake in a populated urban area.'),
 	(503,'The HayWired Scenario: An Urban Earthquake in a Connected World','USGS','http://usgs.maps.arcgis.com/apps/MapSeries/index.html?appid=364fa6f34520464ba081cb0785671193','An ArcGIS geo-narrative storymap with compelling images showing the effects and consequences possible in the next large earthquake on the Hayward Fault in the San Francisco Bay Area.'),
 	(504,'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes','USGS','/research/everyone/dcshake/','Science for Everyone article'),
-	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article');
+	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article'),
+	(506,'A Possible Cause of Earthquakes in the Continental Interior','USGS','/research/everyone/2018/us-stress/','Plain-language summary of a 2018 research paper.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
