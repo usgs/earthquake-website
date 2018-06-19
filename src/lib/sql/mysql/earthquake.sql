@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-06-18 19:41:41 +0000
+# Generation Time: 2018-06-19 16:37:49 +0000
 # ************************************************************
 
 
@@ -2052,10 +2052,10 @@ VALUES
 	(331,41),
 	(313,44),
 	(5,45),
-	(435,36),
+	(435,22),
 	(205,23),
-	(435,27),
-	(435,44),
+	(435,41),
+	(435,26),
 	(358,30),
 	(358,42),
 	(361,30),
@@ -2087,9 +2087,9 @@ VALUES
 	(423,22),
 	(426,37),
 	(426,40),
-	(435,30),
-	(435,39),
-	(435,45),
+	(435,36),
+	(435,27),
+	(435,43),
 	(426,48),
 	(438,25),
 	(450,42),
@@ -2104,8 +2104,8 @@ VALUES
 	(313,42),
 	(464,36),
 	(361,45),
-	(435,43),
 	(435,42),
+	(435,44),
 	(450,30),
 	(450,43),
 	(450,36),
@@ -2127,9 +2127,9 @@ VALUES
 	(486,35),
 	(492,45),
 	(492,30),
-	(435,26),
-	(435,41),
-	(435,22),
+	(435,30),
+	(435,39),
+	(435,45),
 	(493,27),
 	(493,43),
 	(493,42),
@@ -3115,7 +3115,7 @@ VALUES
 	(349,'Evidence for Plate Tectonics-Teaching Box','DLESE','http%3A%2F%2Fwww.teachingboxes.org%2Fjsp%2Fteachingboxes%2FplateTectonics%2Findex.jsp','Collection of interrelated learn concepts that focuses on finding the evidence for plate tectonics using digital resources, education standards, and comprehensive lesson plans.'),
 	(169,'Become an Earthquake Scientist','USGS','%2Flearn%2Fkids%2Fbecome.php','What does a geophysicist do? What do you need to study in school to become a geophysicist? What are the opportunities?'),
 	(170,'Cool Earthquake Facts','USGS','%2Flearn%2Ffacts.php','fascinating earthquake facts'),
-	(435,'Putting Down Roots in Earthquake Country - Central US edition','USGS','https://www.earthquakecountry.org/booklets/','Earthquakes and preparedeness for everyone in the California (regional booklets available), Utah, Central U.S., Nevada, Oregon, and Alaska'),
+	(435,'Putting Down Roots in Earthquake Country','USGS','https://www.earthquakecountry.org/booklets/','Earthquakes and preparedeness for everyone in California (regional booklets available), Utah, Central U.S., Nevada, Oregon, and Alaska'),
 	(172,'Earthquake 101 \"Slideshow\" (PDF)','USGS','/learn/publications/EQ101.pdf','PDF format of a complete PowerPoint show for the basics'),
 	(174,'Jules Verne Voyager and Jules Verne Voyager, Jr.','UNAVCO','http%3A%2F%2Fjules.unavco.org%2FVoyager%2FEarth','an interactive map tool that enables students and scientists to better understand the relationships between geophysical and geological processes, structures, and measurements with high-precision GPS data. These are Javascript based tools.'),
 	(175,'Global Earthquake Explorer, The','Univ. of South Carolina, IRIS','http%3A%2F%2Fwww.seis.sc.edu%2Fgee%2Fabout.html','easy tool for non-seismologists to retrieve, display and analyze seismic data'),
@@ -3264,7 +3264,7 @@ VALUES
 	(502,'What to Expect in a Big Urban Earthquake','USGS','https://wim.usgs.gov/geonarrative/safrr/WTE_earthquake/','An ArcGIS geo-narrative storymap that describes what can be expected if there is a large earthquake in a populated urban area.'),
 	(503,'The HayWired Scenario: An Urban Earthquake in a Connected World','USGS','http://usgs.maps.arcgis.com/apps/MapSeries/index.html?appid=364fa6f34520464ba081cb0785671193','An ArcGIS geo-narrative storymap with compelling images showing the effects and consequences possible in the next large earthquake on the Hayward Fault in the San Francisco Bay Area.'),
 	(504,'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes','USGS','/research/everyone/dcshake/','Science for Everyone article'),
-	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article'),
+	(505,'55-Story Tall Building – Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article'),
 	(506,'A Possible Cause of Earthquakes in the Continental Interior','USGS','/research/everyone/2018/us-stress/','Plain-language summary of a 2018 research paper.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
