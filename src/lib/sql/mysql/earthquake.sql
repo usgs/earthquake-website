@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-06-19 16:37:49 +0000
+# Generation Time: 2018-06-19 16:45:49 +0000
 # ************************************************************
 
 
@@ -2073,7 +2073,6 @@ VALUES
 	(379,27),
 	(381,45),
 	(382,45),
-	(386,26),
 	(465,27),
 	(459,23),
 	(452,30),
@@ -2768,8 +2767,8 @@ VALUES
 	(379,25),
 	(381,25),
 	(382,25),
-	(386,79),
 	(386,25),
+	(386,79),
 	(458,55),
 	(388,25),
 	(390,25),
@@ -3000,7 +2999,8 @@ VALUES
 	(506,79),
 	(506,68),
 	(506,30),
-	(506,85);
+	(506,85),
+	(386,82);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3198,7 +3198,7 @@ VALUES
 	(379,'Earthquake Country Alliance','Earthquake Country Alliance','http://www.earthquakecountry.org/','Earthquake preparedness for California'),
 	(381,'ready.gov - Plan Ahead for Disasters','FEMA','https://www.ready.gov/','Includes resources and best practices'),
 	(382,'FEMA Earthquake Information','FEMA','http%3A%2F%2Fwww.fema.gov%2Fearthquake','Includes resources and best practices'),
-	(386,'Natural Hazards Center','University of Colorado','http%3A%2F%2Fwww.colorado.edu%2Fhazards%2F','resources concerning hazards mitigation and disaster preparedness'),
+	(386,'Natural Hazards Center','University of Colorado','https://hazards.colorado.edu/','resources concerning hazards mitigation and disaster preparedness'),
 	(388,'Building Safety and Preparedness','Institute for Business & Home Safety','https%3A%2F%2Fwww.disastersafety.org%2Fearthquake%2F','Disaster planning toolkit for the home and small business.'),
 	(390,'Quakeinfo.org','QuakeInfo.org','http%3A%2F%2FQuakeinfo.org%2F','Things you can do around your house to prepare for an earthquake '),
 	(396,'American Red Cross Earthquake Safety','American Red Cross','http://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/earthquake#Before','Emergency response organization that provides disaster relief'),
