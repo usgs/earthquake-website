@@ -43,19 +43,20 @@ if (!isset($TEMPLATE)) {
 
 <div class='row'>
   <div class='column one-of-two'>
-    <h2>Yes, Humans Are Causing Earthquakes</h2>
-    <a href="http://online.wr.usgs.gov/calendar/2015/aug15.html">
+    <h2>Yes, Humans Really Are Causing Earthquakes!</h2>
+    <a href="https://online.wr.usgs.gov/calendar/2018/may18.html">
       <img src="images/public-lecture.jpg" alt="Justin Rubinstein video"/>
     </a>
     <p>
-      USGS scientist Justin Rubinstein gives an overview on human-caused earthquakes.
+      USGS scientist Justin Rubinstein gives an overview on how energy
+      industry practices are causing earthquakes in America&rsquo;s Heartland.
     </p>
   </div>
 
   <div class='column one-of-two'>
     <h2>Injection-Induced Seismicity</h2>
   	<a href="/contactus/menlo/seminars/896">
-      <img src="images/escvideo.jpg"alt="Bill Ellsworth video" />
+      <img src="images/escvideo.jpg" alt="Bill Ellsworth video" />
     </a>
   	<p>
       USGS scientist Bill Ellsworth discusses the science behind induced earthquakes.
@@ -67,7 +68,7 @@ if (!isset($TEMPLATE)) {
 
 <figure class='left'>
   <a href="edge.php">
-  <img src="images/leading-edge.jpg"  width="150" alt="June 2015 cover of The Leading Edge"/>
+  <img src="images/leading-edge.jpg" width="150" alt="June 2015 cover of The Leading Edge"/>
 </a>
 </figure>
 <a href="edge.php"><h4>The Leading Edge</h4></a>
