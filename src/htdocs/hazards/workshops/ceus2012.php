@@ -20,7 +20,7 @@
 
 <h2>February 22-23, 2012</h2>
 <p>Fogelman Center, University of Memphis</p>
-<p><a href="attendee%20list.pdf">Attendee List</a></p>
+<p><a href="attendee-list.pdf">Attendee List</a></p>
 
 <h3>Introduction & Overview</h3>
 <ul>
