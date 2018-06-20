@@ -77,7 +77,7 @@
 </figure>
 
 <p>
-  The alert levels are determined using two statistical parameters for each model type: Estimated Area Exposed to Hazard (Htot) and Estimated Population Exposure (popexp). Htot is equivalent to the model’s estimate of the total area exposed to hazard in km2, and popexp is the approximate number of people who live in the areas exposed to hazard. See the <a href="#stats">Statistics</a> section for details about how these are computed.
+  The alert levels are determined using two statistical parameters for each model type: Estimated Area Exposed to Hazard (H<sub>tot</sub>) and Estimated Population Exposure (pop<sub>exp</sub>). Htot is equivalent to the model’s estimate of the total area exposed to hazard in km<sup>2</sup>, and popexp is the approximate number of people who live in the areas exposed to hazard. See the <a href="#stats">Statistics</a> section for details about how these are computed.
 </p>
 <p>
   The alert level bins are each defined by a qualitative order-of-magnitude range for each statistic, which were chosen based on historic earthquakes with known consequences. See the <a href="#alert-level-defs">Alert Level Definitions</a> section for details.
@@ -106,7 +106,7 @@
   A footer appears at the bottom of all Ground Failure product pages with basic disclaimers about the product and a link to a static webpage that provides detailed technical information for advanced users (this webpage).
 </p>
 
-<h4>Downloads</h4>
+<h4 id='#downloads'>Downloads</h4>
 <p>
   The Downloads expansion panel allows advanced users to download GIS files of all ground failure model results, including the <a href="#alt-model">alternative model</a> results, which are not currently shown on the interactive map.
 </p>
@@ -119,7 +119,7 @@
   Although the models differ in detail, in general, they indicate that landsliding is more likely where shaking is strong and slopes are steep, and that liquefaction is more likely where shaking is strong and the land is flat and wet. The quality of the model outputs also depend, in part, on the quality of the ShakeMap estimates of ground motion. Model calibration was done using final ShakeMaps for about two dozen earthquakes. Thus, our estimates generally improve with time as observed shaking data and estimates of rupture extent are incorporated (Figure 6).
 </p>
 <p>
-  We currently use one <a href="#pref-ls-model">preferred landslide model</a> and one <a href="#pref-liq-model">preferred liquefaction model</a> for the product summary and interactive maps, but we also run several <a href="#alt-model">alternative models</a> that are available for users to download. All implemented models are summarized below; details can be found in the original publications. For more detailed information on our implementation of these models, see the <a href="http://usgs.github.io/groundfailure/">ground failure manual</a> and <a href="https://github.com/usgs/groundfailure">github page</a>.
+  We currently use one <a href="#pref-ls-model">preferred landslide model</a> and one <a href="#pref-liq-model">preferred liquefaction model</a> for the product summary and interactive maps, but we also run several <a href="#alt-model">alternative models</a> that are available for users to download. All implemented models are summarized below; details can be found in the <a href="#refs">original publications</a>. For more detailed information on our implementation of these models, see the <a href="http://usgs.github.io/groundfailure/">ground failure manual</a> and <a href="https://github.com/usgs/groundfailure">github page</a>.
 </p>
 
 <figure>
@@ -132,7 +132,7 @@
 
 <h3 id='pref-ls-model'>Preferred Landslide Model</h3>
 <p>
-  Nowicki Jessee and others (2018) is the preferred model for earthquake-triggered landslide hazard. Our primary landslide model is the empirical model of Nowicki Jessee and others (2018). The model was developed by relating 23 inventories of landslides triggered by past earthquakes with different combinations of predictor variables (summarized below) using logistic regression. The output resolution is ~250 m. The model inputs are described below. More details about the model can be found in the <a href="???">original publication</a>.
+  Nowicki Jessee and others (2018) is the preferred model for earthquake-triggered landslide hazard. Our primary landslide model is the empirical model of Nowicki Jessee and others (2018). The model was developed by relating 23 inventories of landslides triggered by past earthquakes with different combinations of predictor variables (summarized below) using logistic regression. The output resolution is ~250 m. The model inputs are described below. More details about the model can be found in the <a href="#refs">original publication</a>.
 </p>
 
 <table>
@@ -174,7 +174,7 @@
 
 <h3 id='pref-liq-model'>Preferred Liquefaction Model</h3>
 <p>
-  Zhu and others (2017) is the preferred model for liquefaction hazard. The model was developed by relating 27 inventories of liquefaction triggered by past earthquakes to globally-available geospatial proxies (summarized below) using logistic regression. We have implemented the global version of the model and have added additional modifications proposed by Baise and Rashidian (2017),  including a PGA threshold of 0.1 g and linear interpolation of the input layers. We linearly interpolate the original input layers of ~1 km resolution to 500 m resolution. The model inputs are described below. More details about the model can be found in the  <a href="???">original publication</a>.
+  Zhu and others (2017) is the preferred model for liquefaction hazard. The model was developed by relating 27 inventories of liquefaction triggered by past earthquakes to globally-available geospatial proxies (summarized below) using logistic regression. We have implemented the global version of the model and have added additional modifications proposed by Baise and Rashidian (2017),  including a PGA threshold of 0.1 g and linear interpolation of the input layers. We linearly interpolate the original input layers of ~1 km resolution to 500 m resolution. The model inputs are described below. More details about the model can be found in the  <a href="https://doi.org/10.1785/0120160198">original publication</a>.
 </p>
 
 <table>
@@ -222,7 +222,7 @@
 
 <h3 id='alt-model'>Alternative Models</h3>
 <p>
-  We currently run two alternative landslide models and one alternative liquefaction model, described in Table 1. These models are not currently rendered on the interactive map or used to determine alert levels, but are available for <a href="#download">download</a>.
+  We currently run two alternative landslide models and one alternative liquefaction model, described in Table 1. These models are not currently rendered on the interactive map or used to determine alert levels, but are available for <a href="#downloads">download</a>.
 </p>
 
 <table>

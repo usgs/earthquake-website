@@ -31,7 +31,7 @@
   <li>Paleoseismic: <a href="/static/lfs/nshm/workshops/CEUS2006/NM-Tuttle.2.pdf">Tish Tuttle</a></li>
   <li>GPS:
     <ul>
-      <li>Recent Observations: <a href="/static/lfs/nshm/workshops/CEUS2006/smalley gama usgs boston.pdf">Bob Smalley</a></li>
+      <li>Recent Observations: <a href="/static/lfs/nshm/workshops/CEUS2006/smalley.pdf">Bob Smalley</a></li>
       <li>CEUS Perspective: <a href="/static/lfs/nshm/workshops/CEUS2006/calais_ceus_2006.pdf">Eric Calais</a></li>
     </ul>
   </li>
@@ -47,7 +47,7 @@
   <li>Charleston Source Models:
     <ul>
       <li><a href="/static/lfs/nshm/workshops/CEUS2006/Wong-GM-Liquefaction Charleston SC.pdf">Ivan Wong</a></li>
-      <li><a href="/static/lfs/nshm/workshops/CEUS2006/Lindvall CEUS Workshop Charleston_v2.pdf">Scott Lindvall</a></li>
+      <li><a href="/static/lfs/nshm/workshops/CEUS2006/Lindvall.pdf">Scott Lindvall</a></li>
       <li><a href="/static/lfs/nshm/workshops/CEUS2006/Talwani-Boston_TALK_5-9-05.pdf">Pradeep Talwani</a></li>
     </ul>
   </li>
