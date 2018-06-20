@@ -30,14 +30,24 @@
   Ground Failure is considered a new earthquake information product, one of the suite of USGS Earthquake Program information systems that provide situational awareness and scientific content pertaining to each significant earthquake around the globe. The user will typically navigate to the Ground Failure page for a specific earthquake by starting at the overview of the earthquake-specific webpage (Figure 1) and selecting the card titled “Ground Failure.” This card will only appear if GF was triggered (see above). The card summarizes the landslide and liquefaction hazard for this event qualitatively (e.g., significant area affected, extensive population exposed). The color of the icon next to each ground failure type corresponds to the maximum of the two <a href="#alert-levels">alert levels</a>.
 </p>
 
-<!-- INSERT FIG.1: SCREENSHOT OF EVENTPAGE with CARDS -->
+<figure>
+  <img src="images/fig1.gif" alt=""/>
+   <figcaption>
+     Figure 1. Screenshot of Overview webpage for the 1989 M6.9 Loma Prieta earthquake. The “Ground Failure” product card is at lower left.
+   </figcaption>
+</figure>
 
 <h3>Summary Page</h3>
 <p>
   Selecting the Ground Failure card takes the user to the Summary page for Ground Failure. This page gives the user an overview of the hazard and population exposure for the two different types of ground failure and allows the user to navigate to interactive maps and other features, as described in the following sections and labeled in Figure 2.
 </p>
 
-<!-- INSERT FIG.2: GROUND FAILURE SUMMARY PAGE -->
+<figure>
+  <img src="images/fig2.gif" alt=""/>
+   <figcaption>
+     Figure 2. Screenshot of the Ground Failure summary webpage for the 1989 Loma Prieta earthquake. Labeled elements are described in corresponding subsections.
+   </figcaption>
+</figure>
 
 <h4>A) Earthquake Summary</h4>
 <p>
@@ -54,12 +64,17 @@
   The left column of the summary webpage summarizes the landslide hazard and exposure alert levels for this earthquake based on our <a href="#pref-ls-model">preferred landslide model</a>, and the right column corresponds to the same for <a href="#pref-liq-model">liquefaction</a>. On mobile devices, these columns will be stacked on top of each other.
 </p>
 
-<h4>E) Alert Levels</h4>
+<h4 id='alert-levels'>E) Alert Levels</h4>
 <p>
   The focal points of our summary webpage are the four alert level bars that give a quick overview of the expected hazard and population exposure for each ground failure type (Figure 3).
 </p>
 
-<!-- INSERT FIG.3: ALERT LEVELS -->
+<figure>
+  <img src="images/fig3.gif" alt=""/>
+   <figcaption>
+     Figure 3. Close-up of alert level bars for landslides (left) and liquefaction for the Loma Prieta earthquake.
+   </figcaption>
+</figure>
 
 <p>
   The alert levels are determined using two statistical parameters for each model type: Estimated Area Exposed to Hazard (Htot) and Estimated Population Exposure (popexp). Htot is equivalent to the model’s estimate of the total area exposed to hazard in km2, and popexp is the approximate number of people who live in the areas exposed to hazard. See the <a href="#stats">Statistics</a> section for details about how these are computed.
@@ -73,8 +88,18 @@
   Selecting the &ldquo;View Landslide Map&CloseCurlyDoubleQuote; button takes the user to the interactive map with the preferred landslide model shown by default. The same applies to the “View Liquefaction Map” button. The interactive map includes numerous alternative basemap layers and earthquake layers that can be superimposed on the landslide or liquefaction hazard maps (Figure 4). The colorbars for both landslides and liquefaction (Figure 5) show the areal coverage probability type (see <a href="#interp-maps">Interpretation of Maps</a>) using logarithmic bins to better visualize the range of typical values. The colorbar saturates at 0.2, which for areal coverage, equates to severe ground failure. Neither model reaches values much higher than 0.2 for areal coverage.
 </p>
 
-<!-- INSERT FIG.4: INTERACTIVE MAPS -->
-<!-- INSERT FIG.5: COLORBARS -->
+<figure>
+  <img src="images/fig4.jpg" alt=""/>
+   <figcaption>
+     Figure 4. Screenshots of interactive map for the Loma Prieta earthquake for landslide hazard (left) and liquefaction hazard (right). Insets show zoom in on area indicated.
+   </figcaption>
+</figure>
+<figure>
+  <img src="images/fig5.gif" alt=""/>
+   <figcaption>
+     Figure 5. Colorbars used for each map type for all events. Note that the bin edges are approximately logarithmically spaced and that the colorbar is the same for both ground failure types. The term probability here refers to the proportion of the area, see <a href="#interp-maps">Interpretation of Maps</a> for details.
+   </figcaption>
+</figure>
 
 <h4>H) Ground Failure Background Page</h4>
 <p>
@@ -86,7 +111,7 @@
   The Downloads expansion panel allows advanced users to download GIS files of all ground failure model results, including the <a href="#alt-model">alternative model</a> results, which are not currently shown on the interactive map.
 </p>
 
-<h2>Models</h2>
+<h2 id='models'>Models</h2>
 <p>
   The GF models are designed to be rapidly and consistently applicable in any region of the world, requiring that they be relatively simple and depend on globally-available input datasets. There are many factors that contribute to a given occurrence of ground failure that are unknowable at the global scale; thus the models are not able to account for local characteristics of topography or geology nor to predict specific occurrences.
 </p>
@@ -97,9 +122,15 @@
   We currently use one <a href="#pref-ls-model">preferred landslide model</a> and one <a href="#pref-liq-model">preferred liquefaction model</a> for the product summary and interactive maps, but we also run several <a href="#alt-model">alternative models</a> that are available for users to download. All implemented models are summarized below; details can be found in the original publications. For more detailed information on our implementation of these models, see the <a href="http://usgs.github.io/groundfailure/">ground failure manual</a> and <a href="https://github.com/usgs/groundfailure">github page</a>.
 </p>
 
-<!-- INSERT FIG.6: RESULTS for SHAKEMAP -->
+<figure>
+  <img src="images/fig6.jpg" alt=""/>
+   <figcaption>
+     Figure 6. Results of Nowicki and others (2014) landslide hazard model (a-d) for four different versions of the USGS ShakeMap (e-h), showing how the landslide hazard estimates evolves over time as the shaking estimates become better constrained. The star shows the epicenter, triangles indicate seismic stations used in the ShakeMap, circles represent macroseismic observations used in the ShakeMap, and the rectangles show the fault geometry used for each ShakeMap, if applicable. The solid gray line outlines the main area affected by landslides; the dashed line contains all of the area affected, defined by Massey and others (2018). Figure from Allstadt and others (2018).
+   </figcaption>
+</figure>
 
-<h3>Preferred Landslide Model</h3>
+
+<h3 id='pref-ls-model'>Preferred Landslide Model</h3>
 <p>
   Nowicki Jessee and others (2018) is the preferred model for earthquake-triggered landslide hazard. Our primary landslide model is the empirical model of Nowicki Jessee and others (2018). The model was developed by relating 23 inventories of landslides triggered by past earthquakes with different combinations of predictor variables (summarized below) using logistic regression. The output resolution is ~250 m. The model inputs are described below. More details about the model can be found in the <a href="???">original publication</a>.
 </p>
@@ -141,7 +172,7 @@
   </tr>
 </table>
 
-<h3>Preferred Liquefaction Model</h3>
+<h3 id='pref-liq-model'>Preferred Liquefaction Model</h3>
 <p>
   Zhu and others (2017) is the preferred model for liquefaction hazard. The model was developed by relating 27 inventories of liquefaction triggered by past earthquakes to globally-available geospatial proxies (summarized below) using logistic regression. We have implemented the global version of the model and have added additional modifications proposed by Baise and Rashidian (2017),  including a PGA threshold of 0.1 g and linear interpolation of the input layers. We linearly interpolate the original input layers of ~1 km resolution to 500 m resolution. The model inputs are described below. More details about the model can be found in the  <a href="???">original publication</a>.
 </p>
@@ -189,7 +220,7 @@
   </tr>
 </table>
 
-<h3>Alternative Models</h3>
+<h3 id='alt-model'>Alternative Models</h3>
 <p>
   We currently run two alternative landslide models and one alternative liquefaction model, described in Table 1. These models are not currently rendered on the interactive map or used to determine alert levels, but are available for <a href="#download">download</a>.
 </p>
@@ -221,18 +252,23 @@
   </tr>
 </table>
 
-<h2>Interpretation of Maps</h2>
+<h2 id='interp-maps'>Interpretation of Maps</h2>
 <p>
   Both of our preferred models are logistic models. Logistic models estimate probability, but the meaning of that probability depends on how the model was developed. The methods of our preferred models (Nowicki Jessee and others 2018 and Zhu and others 2017) result in a native output of relative hazard. This does not have a physical meaning. Therefore, both authors calibrated their models against completely mapped inventories to develop a relation to convert relative hazard to a different type of probability that does have a physical meaning: areal coverage (Ac). The meaning of Ac is illustrated in Figure 7.
 </p>
 
-<!-- INSERT FIG.7: AERIAL COVERAGE VALUES -->
+<figure>
+  <img src="images/fig7.gif" alt=""/>
+   <figcaption>
+     Figure 7. This figure shows three 1 km2 grid cells selected from the Northridge earthquake-triggered landslide inventory (Harp and Jibson, 1995) and corresponding areal coverage values (Ac) for each cell. Landslide maps, including this case, typically include both landslide source areas and landslide runout zones. Note that many small landslides or one large landslide may result in the same areal coverage value, so the models do not explicitly provide any information about expected ground failure size. Also note that a probability of 0.21 equates to severe landsliding. Neither of the models ever reaches a probability of 1; the maximum probabilities are usually less than 0.3.
+   </figcaption>
+</figure>
 
 <p>
   The Godt and others (2008) and Zhu and others (2015) models both estimate areal coverage natively without requiring a conversion. The Nowicki and others (2014) model is distinct from the others in that it estimates the probability of any landslide occurring within a given grid cell.
 </p>
 
-<h2>Statistics</h2>
+<h2 id='stats'>Statistics</h2>
 <p>
   Statistical parameters used to summarize the model results and to assign hazard and population exposure alert levels are Estimated Area Exposed to Hazard (H<sub>tot</sub>), and population exposure (pop<sub>exp</sub>). We use a ground motion threshold of 0.1g to compute these statistics in order to control for differences in the ShakeMap areas between events. The ShakeMap extent can vary substantially from event to event and even for subsequent versions of the same event, and this can have an artificial impact on the statistics if not controlled for. Using a ground motion threshold also helps mitigate the inflation of these statistics due to small probabilities over large areas by only considering areas of relatively strong shaking.
 </p>
@@ -245,7 +281,7 @@
   H<sub>tot</sub> is calculated by:
 </p>
 
-<!-- INSERT EQUATION: Htot -->
+<img src="images/htot.png" alt="equation for estimated area exposed to hazard">
 
 <p>
   where P<sub>i,j</sub> is the ground failure probability (areal coverage) at grid cell i, j, A<sub>i,j</sub> is the area of cell i, j (in km<sup>2</sup>), m is the number of rows, n is the number of columns, gm<sub>i,j</sub> is the ground motion parameter (peak ground acceleration or peak ground velocity) at grid cell i, j and gm<sub>thresh</sub> is the ground motion threshold.
@@ -256,13 +292,13 @@
   The estimated population exposure, popexp, represents the population of each grid cell multiplied by the areal coverage:
 </p>
 
-<!-- INSERT EQUATION: POPexp -->
+<img src="images/popexp.png" alt="equation for estimated population exposure">
 
 <p>
   where L<sub>i,j</sub> is the population of grid cell i, j, m is the number of rows, n is the number of columns, P<sub>i,j</sub> is the ground failure probability (areal coverage) at cell i,j, gm<sub>i,j</sub> is the ground motion parameter (peak ground acceleration or peak ground velocity) at grid cell i, j and gm<sub>thresh</sub> is the ground motion threshold. The population grid we use is LandScan 2016&trade; (Bright and others, 2017). Since population is reported in whole numbers, resampling is problematic. Therefore, to compute this statistic we resample the probability grid to the Landscan grid using a block mean before multiplying. Pop<sub>exp</sub> is not an estimate of fatalities, but instead represents the number of people estimated to be living near areas prone to ground failure hazard triggered by the earthquake.
 </p>
 
-<h2>Alert Level Definitions</h2>
+<h2 id='alert-level-defs'>Alert Level Definitions</h2>
 <p>
   The alert level bins are each defined by an order-of-magnitude range of the relevant statistic (H<sub>tot</sub> or pop<sub>exp</sub>), a qualitative descriptor (little to no, limited, significant, extensive), and a corresponding color (green to red). The alert bin edges were determined by computing these statistics for historic earthquakes and using knowledge about what actually occurred to select bin edges that grouped them most appropriately for each qualitative descriptor (see Figure 8 for examples). We do not have quantified measures of fatalities or economic losses specific to each type of ground failure for many historic events, so we use the model statistics and expert opinion to select the bin edges that best qualitatively captured the character of the historic events.
 </p>
@@ -270,7 +306,13 @@
   In general, alerts qualitatively capture the hazard and population exposure, with some exceptions. Low probabilities in a highly populated area (e.g., Chino Hills) can inflate the population alert. For some events, most of the losses were due to exceptional site-specific circumstances that these simple ground failure models cannot capture (e.g., large deep-seated slide impacting a remote village). In addition, the model results for historic events can be inconsistent because ShakeMap quality varies between historic events so some model results are more accurate than others. Furthermore, population exposure is currently our only proxy for potential impacts, but it does not account well for indirect remote effects (e.g., landslide dam hazards, blocked or damaged roads).
 </p>
 
-<!-- INSERT FIG.8: ALERT STATISTICS -->
+<figure>
+  <img src="images/fig8.gif" alt=""/>
+   <figcaption>
+     Figure 8. Alert statistics computed for a selection of historic events (for which ShakeMaps are available) comparing the estimated area exposed to hazard (H<sub>tot</sub>) to the estimated population exposure (pop<sub>exp</sub>). The colored bars on the edges of each plot correspond to the four alert level bins.
+   </figcaption>
+</figure>
+
 
 <h2>References</h2>
 <ul class="referencelist">
