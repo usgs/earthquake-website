@@ -20,19 +20,19 @@
 <h2>Membership:</h2>
 
 <ul class='no-style separator'>
-  <li>Dr. Ralph Archuleta (Chair)<br />
-  University of California, Santa Barbara</li>
+  <li>Dr. Greg Beroza (Chair)<br />
+  Stanford University</li>
 
   <li>Dr. William Leith,  Designated Federal Official (DFO)<br />
   Senior Science Advisor for Earthquake and Geologic Hazards<br />
   and Coordinator, Earthquake Hazards Program<br />
   USGS, Reston, Virginia</li>
 
+  <li>Dr. Rick Aster (nominated)<br/>
+  Colorado State University</li>
+
   <li>Dr. John Anderson<br/>
   University of Nevada, Reno</li>
-
-  <li>Dr. Gregory Beroza<br/>
-  Stanford University</li>
 
   <li> Dr. Goran Ekstrom<br/>
   Lamont-Doherty Earth Observatory</li>
