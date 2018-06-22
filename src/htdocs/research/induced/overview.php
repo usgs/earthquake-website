@@ -13,8 +13,19 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <div class="alert info no-icon callout">
-  <h3><a href="myths.php">Myths and Misconceptions on Induced Seismicity</a></h3>
-  <p>Non-technical overview of the science and current understanding of human-caused earthquakes, by Rubinstein and Mahani.</p>
+  <ul class="no-style linklist">
+    <li>
+      <a href="myths.php">
+        <h4>Myths and Misconceptions on Induced Seismicity</h4>
+        <img src="images/callout.png" alt="cartoon depicting oil production and wastewater disposal"></a>
+      <p>Evidence is mounting that seismicity in many locations in the central U.S. is induced by the deep injection of fluids from nearby oil and gas operations. Learn more about our current understanding of human-caused earthquakes.</p>
+    </li>
+  </ul>
+  <p>
+    <a href="https://profile.usgs.gov/myscience/upload_folder/ci2015Jun1012005755600Induced_EQs_Review.pdf">Myths and Facts on Wastewater Injection, Hydraulic Fracturing, Enhanced Oil Recovery, and Induced Seismicity</a> (.pdf)<br />
+    There remains confusion in the popular press about our understanding of induced earthquakes. In this article, Justin Rubinstein and Alireza Babaie Mahani attempt to dispel the confusion for a non-specialist audience.</p>
+  </p>
+
 </div>
 
 <h2>Overview</h2>
