@@ -12,17 +12,15 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<figure class='right'>
-	<img src="images/oiltankers.jpg" alt="photo of tanker trucks"/>
-	<figcaption>
-    Oilfield waste arrives by tanker truck at a wastewater disposal facility near Platteville, Colo. After removal of solids and oil, the wastewater is injected into a deep well for permanent storage underground. Photo by Bill Ellsworth, USGS.
-  </figcaption>
-</figure>
+<div class="alert info no-icon callout">
+  <h3><a href="myths.php">Myths and Misconceptions on Induced Seismicity</a></h3>
+  <p>Non-technical overview of the science and current understanding of human-caused earthquakes, by Rubinstein and Mahani.</p>
+</div>
 
 <h2>Overview</h2>
 
 <p>
-  Within the central and eastern United States, the number of earthquakes has increased dramatically over the past few years. Between the years 1973&ndash;2008, there was an average of 21 earthquakes of magnitude three and larger in the central and eastern United States. This rate jumped to an average of 99 M3+ earthquakes per year in 2009&ndash;2013, and the rate continues to rise. In 2014, alone, there were 659 M3 and larger earthquakes. Most of these earthquakes are in the magnitude 3&ndash;4 range, large enough to have been felt by many people, yet small enough to rarely cause damage. There were reports of damage from some of the larger events, including the M5.6 Prague, Oklahoma earthquake and the M5.3 Trinidad, Colorado earthquake.
+  Within the central and eastern United States, the number of earthquakes has increased dramatically over the past few years. Between the years 1973&ndash;2008, there was an average of 21 earthquakes of magnitude three and larger in the central and eastern United States. This rate jumped to an average of 99 M3+ earthquakes per year in 2009&ndash;2013, and the rate continues to rise. In 2014, alone, there were 659 M3 and larger earthquakes. Most of these earthquakes are in the magnitude 3&ndash;4 range&mdash;large enough to have been felt by many people&mdash;yet small enough to rarely cause damage. There were reports of damage from some of the larger events, including the M5.6 Prague, Oklahoma earthquake and the M5.3 Trinidad, Colorado earthquake.
 </p>
 
 <p>This increase in earthquakes prompts two important questions:</p>
@@ -32,7 +30,7 @@ if (!isset($TEMPLATE)) {
 	<li>What should be done in the future as we address the causes and consequences of these events to reduce associated risks?</li>
 </ul>
 
-<h3>Increasing Rate of Earthquakes Beginning in 2009</h3>
+<h3 style="clear: both">Increasing Rate of Earthquakes Beginning in 2009</h3>
 
 <figure class='hockeystick'>
   <img src="images/hockey-stick.png" alt="graph showing the increased rate of earthquakes since 2009"/>
@@ -54,33 +52,11 @@ if (!isset($TEMPLATE)) {
   </div>
 
   <div class='column one-of-two'>
-    <h2>Injection-Induced Seismicity</h2>
-  	<a href="/contactus/menlo/seminars/896">
-      <img src="images/escvideo.jpg" alt="Bill Ellsworth video" />
-    </a>
-  	<p>
-      USGS scientist Bill Ellsworth discusses the science behind induced earthquakes.
-    </p>
+    <h2>See Also</h2>
+    <ul class="no-style">
+      <li>
+        USGS Energy Program: <a href="http://energy.usgs.gov/EnvironmentalAspects/EnvironmentalAspectsofEnergyProductionandUse/GeologicCO2Sequestration.aspx">Geologic Carbon Sequestration</a>
+      </li>
+    </ul>
   </div>
 </div>
-
-<h3>Special Issues on Induced Seismicity</h3>
-
-<figure class='left'>
-  <a href="edge.php">
-  <img src="images/leading-edge.jpg" width="150" alt="June 2015 cover of The Leading Edge"/>
-</a>
-</figure>
-<a href="edge.php"><h4>The Leading Edge</h4></a>
-<p>
-  The June issue of The Leading Edge features a special section on Injection-induced seismicity. Four USGS studies were included as part of this issue.
-</p>
-
-<br style="clear:left;"/>
-
-<h3>See also:</h3>
-<ul>
-  <li>
-    USGS Energy Program: <a href="http://energy.usgs.gov/EnvironmentalAspects/EnvironmentalAspectsofEnergyProductionandUse/GeologicCO2Sequestration.aspx">Geologic Carbon Sequestration</a>
-  </li>
-</ul>
