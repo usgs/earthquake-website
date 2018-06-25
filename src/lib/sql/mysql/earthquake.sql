@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-06-19 16:45:49 +0000
+# Generation Time: 2018-06-25 20:59:26 +0000
 # ************************************************************
 
 
@@ -1221,7 +1221,7 @@ VALUES
 	(255,9),
 	(473,9),
 	(260,9),
-	(273,9),
+	(273,7),
 	(450,7),
 	(263,9),
 	(439,9),
@@ -1388,7 +1388,8 @@ VALUES
 	(503,7),
 	(504,9),
 	(505,9),
-	(506,9);
+	(506,9),
+	(273,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1763,7 +1764,7 @@ VALUES
 	(255,13),
 	(475,13),
 	(260,13),
-	(273,13),
+	(273,11),
 	(450,13),
 	(263,13),
 	(439,11),
@@ -1989,7 +1990,8 @@ VALUES
 	(503,11),
 	(504,13),
 	(505,13),
-	(506,13);
+	(506,13),
+	(273,13);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2549,7 +2551,7 @@ VALUES
 	(466,37),
 	(466,51),
 	(466,43),
-	(273,24),
+	(273,37),
 	(58,56),
 	(58,82),
 	(98,70),
@@ -2566,7 +2568,7 @@ VALUES
 	(447,63),
 	(446,25),
 	(446,72),
-	(273,64),
+	(273,24),
 	(161,64),
 	(161,55),
 	(203,72),
@@ -3147,7 +3149,7 @@ VALUES
 	(254,'This Dynamic Planet','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fimap%2F2800%2F','World Map of Volcanoes, Earthquakes, Impact Craters, and Plate Tectonics '),
 	(255,'Continents on the Move','PBS-Nova','http%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fnova%2Fice%2Fcontinents%2F','How do we know that continents are still moving?'),
 	(466,'Watch Buildings Move During Earthquakes','American Geophysical Union (AGU)','http%3A%2F%2Fblogs.agu.org%2Ftremblingearth%2F2014%2F06%2F16%2Fbuildings-shaking-in-earthquakes%2F','Real videos of buildings shaking during real earthquakes, and some re-creations.'),
-	(273,'Measuring the Size of an Earthquake','USGS','%2Flearn%2Ftopics%2Fmeasure.php','How  the size of an earthquake is measured.'),
+	(273,'Earthquake Magnitude, Energy Release, and Shaking Intensity','USGS','/learn/topics/mag-intensity/magnitude-types.php','How the size of an earthquake is measured. The differences and relationships between magnitude, energy, and fault size is discussed and shown with images.'),
 	(260,'Tsunami! ','University of Washington by the Department of Earth and Space Sciences','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2Findex.html','Site provides general information about tsunamis, their causes and history as well as what to do in case of a tsunami.'),
 	(275,'Modified Mercalli Intensity Scale, The','USGS','%2Flearn%2Ftopics%2Fmercalli.php','A description of the  Modified Mercalli Intensity Scale.'),
 	(263,'Hilo Tsunami Museum','Pacific Tsunami Museum','http%3A%2F%2Fwww.tsunami.org%2F','The goal of the Pacific Tsunami Museum is to promote public tsunami education for the people of Hawaii and the Pacific Region. The museum will also preserve the social and cultural history of Hawaii and promote economic development on the island of Hawaii as well as statewide. The museum will serve as a living memorial to those who lost their lives in past tsunami events. '),
@@ -3264,7 +3266,7 @@ VALUES
 	(502,'What to Expect in a Big Urban Earthquake','USGS','https://wim.usgs.gov/geonarrative/safrr/WTE_earthquake/','An ArcGIS geo-narrative storymap that describes what can be expected if there is a large earthquake in a populated urban area.'),
 	(503,'The HayWired Scenario: An Urban Earthquake in a Connected World','USGS','http://usgs.maps.arcgis.com/apps/MapSeries/index.html?appid=364fa6f34520464ba081cb0785671193','An ArcGIS geo-narrative storymap with compelling images showing the effects and consequences possible in the next large earthquake on the Hayward Fault in the San Francisco Bay Area.'),
 	(504,'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes','USGS','/research/everyone/dcshake/','Science for Everyone article'),
-	(505,'55-Story Tall Building – Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article'),
+	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article'),
 	(506,'A Possible Cause of Earthquakes in the Continental Interior','USGS','/research/everyone/2018/us-stress/','Plain-language summary of a 2018 research paper.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
