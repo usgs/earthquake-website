@@ -77,7 +77,11 @@
 </p>
 <p>
   where <strong>rigidity</strong> is the strength of the rock along the fault, <strong>area</strong> is the area of the fault that slipped, and <strong>slip</strong> is the distance the fault moved. Thus, <strong>stronger rock material, or a larger area, or more movement in an earthquake</strong> will all contribute to produce a larger magnitude.
+<p>
+  Then,
 </p>
+<p>
+  <blockquote><strong>Moment Magnitude (M<sub>W</sub>) = 2/3 log<sub>10</sub>(M<sub>O</sub>) - 10.7</strong></blockquote></p>
 
 <p>
   See the <strong>Magnitude Types Table</strong> (below)for a summary of types, magnitude ranges, distance ranges, equations, and a brief description of each.
@@ -109,15 +113,18 @@
     <img src="images/Mag-Energy-Freq-sm.gif" alt=""/>
   </a>
   <figcaption>
-    Earthquake magnitudes and energy release, and comparison with other natural and man-made events.<strong><a href="images/Mag-Energy-Freq-lg.gif"> Click on image to view larger version.</a></strong>
+    Earthquake magnitudes and energy release, and comparison with other natural and man-made events. (Gavin Hayes)<strong><a href="images/Mag-Energy-Freq-lg.gif"> Click on image to view larger version.</a></strong>
   </figcaption>
 </figure>
 
 <p>
-  Another way to measure the size of an earthquake is to compute how much energy it released. The amount of energy radiated by an earthquake is a measure of the potential for damage to man-made structures. An earthquake releases energy at many frequencies, and in order to compute an accurate value, you have to include all frequencies of shaking for the entire event. The energy can be converted into yet another magnitude type called the <strong>Energy Magnitude (M<sub>e</sub>)</strong>. However, since the Energy Magnitude and Moment Magnitude measure two different properties of the earthquake, their values are not the same.
+  Another way to measure the size of an earthquake is to compute how much energy it released. The amount of energy radiated by an earthquake is a measure of the potential for damage to man-made structures. An earthquake releases energy at many frequencies, and in order to compute an accurate value, you have to include all frequencies of shaking for the entire event.
 </p>
 <p>
   While each whole number increase in magnitude represents a tenfold increase in the measured amplitude, it represents an <strong>32 times more energy release</strong>.
+</p>
+<p>
+  The energy can be converted into yet another magnitude type called the <strong>Energy Magnitude (M<sub>e</sub>)</strong>. However, since the Energy Magnitude and Moment Magnitude measure two different properties of the earthquake, their values are not the same.
 </p>
 <p>
   The energy release can also be roughly estimated by converting the moment magnitude to energy using the equation log E = 5.24 + 1.44M, where M is the magnitude.
@@ -232,7 +239,7 @@
   </figure>
 
 <p>
-  You would need ~80,000km of fault length with an average seismogenic width of 100km to produce an Mw10.5.  All of the subduction zones in the World, plus some adjoining structures amount to ~40,000km, and the circumference of the Earth is ~40,000km, so an Mw 10.5 is not possible.
+  You would need ~80,000km of fault length with an average seismogenic width of 100km to produce an Mw10.5.  All of the subduction zones in the World, plus some adjoining structures amount to ~40,000km, and the circumference of the Earth is ~40,000km, so an Mw 10.5 is highly unlikely.
 </p>
 <p>
   <figure>
@@ -241,3 +248,5 @@
 
     </figcaption>
   </figure>
+
+  <p>Thanks to Gavin Hayes and David Wald for much of the material for this page.</p>
