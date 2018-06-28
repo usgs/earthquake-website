@@ -30,7 +30,8 @@
           M<sub>W</sub> = 2/3 * (log<sub>10</sub>(M<sub>O</sub>) - 16.1),
         </p>
         <p>
-          where M<sub>O</sub> is the seismic moment.
+          where M<sub>O</sub> is the seismic moment. <br />
+          Note this is also unit-dependent; the formula above is for moment in dyne-cm. If using metric units (N.m), the constant is 9.1.
         </p>
       </td>
       <td>
