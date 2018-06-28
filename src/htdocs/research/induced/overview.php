@@ -31,7 +31,18 @@ if (!isset($TEMPLATE)) {
 <h2>Overview</h2>
 
 <p>
-  Within the central and eastern United States, the number of earthquakes has increased dramatically over the past few years. Between the years 1973&ndash;2008, there was an average of 21 earthquakes of magnitude three and larger in the central and eastern United States. This rate jumped to an average of 99 M3+ earthquakes per year in 2009&ndash;2013, and the rate continues to rise. In 2014, alone, there were 659 M3 and larger earthquakes. Most of these earthquakes are in the magnitude 3&ndash;4 range&mdash;large enough to have been felt by many people&mdash;yet small enough to rarely cause damage. There were reports of damage from some of the larger events, including the M5.6 Prague, Oklahoma earthquake and the M5.3 Trinidad, Colorado earthquake.
+  The number of earthquakes in the central United has increased dramatically over
+  the past decade. Between the years 1973&ndash;2008, there was an average of 25
+  earthquakes of magnitude three and larger in the central and eastern United
+  States. Since 2009, the average number of M3 earthquakes has jumped to 362 per
+  year. The rate peaked in 2015 with 1010 M3+ earthquakes. Since 2015 the
+  earthquake rate has declined, with 690 and 364 M3+ earthquakes in 2016 and 2017,
+  respectively. Nonetheless, this rate is far higher than the average of 25
+  earthquakes per year. Most of these earthquakes are in the magnitude 3&ndash;4
+  range&mdash;large enough to have been felt by many people&mdash;yet small
+  enough to rarely cause damage. Damage has been caused by some of the larger
+  events, including the M5.8 Pawnee and M5.0 Cushing Oklahoma earthquakes that
+  occurred in 2016.
 </p>
 
 <p>This increase in earthquakes prompts two important questions:</p>
