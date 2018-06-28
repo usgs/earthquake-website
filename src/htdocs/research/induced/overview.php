@@ -12,17 +12,37 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<figure class='right'>
-	<img src="images/oiltankers.jpg" alt="photo of tanker trucks"/>
-	<figcaption>
-    Oilfield waste arrives by tanker truck at a wastewater disposal facility near Platteville, Colo. After removal of solids and oil, the wastewater is injected into a deep well for permanent storage underground. Photo by Bill Ellsworth, USGS.
-  </figcaption>
-</figure>
+<div class="alert info no-icon callout">
+  <ul class="no-style linklist">
+    <li>
+      <a href="myths.php">
+        <h4>Myths and Misconceptions on Induced Seismicity</h4>
+        <img src="images/callout.png" alt="cartoon depicting oil production and wastewater disposal"></a>
+      <p>Evidence is mounting that seismicity in many locations in the central U.S. is induced by the deep injection of fluids from nearby oil and gas operations. Learn more about our current understanding of human-caused earthquakes.</p>
+    </li>
+  </ul>
+  <p>
+    <a href="https://profile.usgs.gov/myscience/upload_folder/ci2015Jun1012005755600Induced_EQs_Review.pdf">Myths and Facts on Wastewater Injection, Hydraulic Fracturing, Enhanced Oil Recovery, and Induced Seismicity</a> (.pdf)<br />
+    There remains confusion in the popular press about our understanding of induced earthquakes. In this article, Justin Rubinstein and Alireza Babaie Mahani attempt to dispel the confusion for a non-specialist audience.</p>
+  </p>
+
+</div>
 
 <h2>Overview</h2>
 
 <p>
-  Within the central and eastern United States, the number of earthquakes has increased dramatically over the past few years. Between the years 1973&ndash;2008, there was an average of 21 earthquakes of magnitude three and larger in the central and eastern United States. This rate jumped to an average of 99 M3+ earthquakes per year in 2009&ndash;2013, and the rate continues to rise. In 2014, alone, there were 659 M3 and larger earthquakes. Most of these earthquakes are in the magnitude 3&ndash;4 range, large enough to have been felt by many people, yet small enough to rarely cause damage. There were reports of damage from some of the larger events, including the M5.6 Prague, Oklahoma earthquake and the M5.3 Trinidad, Colorado earthquake.
+  The number of earthquakes in the central United has increased dramatically over
+  the past decade. Between the years 1973&ndash;2008, there was an average of 25
+  earthquakes of magnitude three and larger in the central and eastern United
+  States. Since 2009, the average number of M3 earthquakes has jumped to 362 per
+  year. The rate peaked in 2015 with 1010 M3+ earthquakes. Since 2015 the
+  earthquake rate has declined, with 690 and 364 M3+ earthquakes in 2016 and 2017,
+  respectively. Nonetheless, this rate is far higher than the average of 25
+  earthquakes per year. Most of these earthquakes are in the magnitude 3&ndash;4
+  range&mdash;large enough to have been felt by many people&mdash;yet small
+  enough to rarely cause damage. Damage has been caused by some of the larger
+  events, including the M5.8 Pawnee and M5.0 Cushing Oklahoma earthquakes that
+  occurred in 2016.
 </p>
 
 <p>This increase in earthquakes prompts two important questions:</p>
@@ -32,7 +52,7 @@ if (!isset($TEMPLATE)) {
 	<li>What should be done in the future as we address the causes and consequences of these events to reduce associated risks?</li>
 </ul>
 
-<h3>Increasing Rate of Earthquakes Beginning in 2009</h3>
+<h3 style="clear: both">Increasing Rate of Earthquakes Beginning in 2009</h3>
 
 <figure class='hockeystick'>
   <img src="images/hockey-stick.png" alt="graph showing the increased rate of earthquakes since 2009"/>
@@ -43,43 +63,22 @@ if (!isset($TEMPLATE)) {
 
 <div class='row'>
   <div class='column one-of-two'>
-    <h2>Yes, Humans Are Causing Earthquakes</h2>
-    <a href="http://online.wr.usgs.gov/calendar/2015/aug15.html">
+    <h2>Yes, Humans Really Are Causing Earthquakes!</h2>
+    <a href="https://online.wr.usgs.gov/calendar/2018/may18.html">
       <img src="images/public-lecture.jpg" alt="Justin Rubinstein video"/>
     </a>
     <p>
-      USGS scientist Justin Rubinstein gives an overview on human-caused earthquakes.
+      USGS scientist Justin Rubinstein gives an overview on how energy
+      industry practices are causing earthquakes in America&rsquo;s Heartland.
     </p>
   </div>
 
   <div class='column one-of-two'>
-    <h2>Injection-Induced Seismicity</h2>
-  	<a href="/contactus/menlo/seminars/896">
-      <img src="images/escvideo.jpg"alt="Bill Ellsworth video" />
-    </a>
-  	<p>
-      USGS scientist Bill Ellsworth discusses the science behind induced earthquakes.
-    </p>
+    <h2>See Also</h2>
+    <ul class="no-style">
+      <li>
+        USGS Energy Program: <a href="http://energy.usgs.gov/EnvironmentalAspects/EnvironmentalAspectsofEnergyProductionandUse/GeologicCO2Sequestration.aspx">Geologic Carbon Sequestration</a>
+      </li>
+    </ul>
   </div>
 </div>
-
-<h3>Special Issues on Induced Seismicity</h3>
-
-<figure class='left'>
-  <a href="edge.php">
-  <img src="images/leading-edge.jpg"  width="150" alt="June 2015 cover of The Leading Edge"/>
-</a>
-</figure>
-<a href="edge.php"><h4>The Leading Edge</h4></a>
-<p>
-  The June issue of The Leading Edge features a special section on Injection-induced seismicity. Four USGS studies were included as part of this issue.
-</p>
-
-<br style="clear:left;"/>
-
-<h3>See also:</h3>
-<ul>
-  <li>
-    USGS Energy Program: <a href="http://energy.usgs.gov/EnvironmentalAspects/EnvironmentalAspectsofEnergyProductionandUse/GeologicCO2Sequestration.aspx">Geologic Carbon Sequestration</a>
-  </li>
-</ul>
