@@ -1,122 +1,150 @@
 <?php
 // Author: Lisa Wald
 // Contact: Joan Gomberg
-	if (!isset($TEMPLATE)) {
-	$TITLE = 'Seattle Field Office, Seattle, WA';
-	$NAVIGATION = true;
-	include 'template.inc.php';
-	}
+  if (!isset($TEMPLATE)) {
+  $TITLE = 'Seattle Field Office, Seattle, WA';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+  }
 ?>
 
 <!-- Intro, Photo, Directions and Contacts -->
 <div class="row">
-	<div class="column two-of-three">
-		<p>
-			The spectacular scenery of the Pacific Northwest results directly from the
-			active geological processes associated with being part of a subduction
-			zone. The Pacific Northwest includes Washington, Oregon, northern
-			California, and southwestern British Columbia, and geologically shares many
-			similarities with the subduction zones of Japan and Chile. Instrumental,
-			written, and geological records from the region tell of earthquakes from
-			three generalized sources. Earthquakes as large as magnitude 7 originate in
-			the subducted Juan de Fuca plate, mainly beneath the Puget Sound region.
-			Moderate and large earthquakes occur also on faults within the overriding
-			North America plate, on both sides of the Cascades. Great earthquakes, as
-			large as magnitude 9, happen on the boundary between these plates.
-			Earthquakes from any of these sources may set off landslides, liquefaction,
-			and tsunamis.
-		</p>
-		<p>
-			USGS earthquake studies of this region are intended to help reduce the losses
-			earthquakes may cause. Activities include collaboration with the University of
-			Washington in contributing to the Advanced National Seismic System through
-			operation of the Pacific Northwest Seismic Network.
-		</p>
-	</div>
+  <div class="column two-of-three">
+    <p>
+      The Pacific Northwest of the continental United States (Washington and Oregon) faces hazards from three sources of potentially damaging earthquakes. The region is known geologically as the Cascadia subduction zone (CSZ),  with earthquake sources on the 1) interface between the down-going, or ‘subducting’, and over-riding plates (‘megathrust’ events with magnitudes up to M~9, pink area on the map below),  2) shallow faults in the over-riding North American plate (up to M~7.5 earthquakes, yellow ovals), and 3) on faults in the subducting  plate (called ‘intraplate’ events, up to M~7.5, green ovals).  East of the Cascade Mountains and volcanoes (cones on map), urban centers and infrastructure are susceptible to long-duration shaking from Cascadia megathrust earthquakes and strong shaking from local shallow crustal earthquakes.
+    </p>
+    <figure class='left'>
+      <img src="images/cascadiamap_sm.jpg" alt=""/>
+       <figcaption>
+         Map and cross-sectional views of the northern end of the Cascadia subduction zone.  Earthquake sources shown are schematic only.
+       </figcaption>
+    </figure>
 
-	<div class="column one-of-three">
-		<figure>
-			<img src="images/seattle-sketch-2x.jpg" alt="old sketch of Seattle" width="315"/>
-			<figcaption>
-				Old sketch of Seattle. (Courtesy of University of Washington Libraries, Special Collections, UW347.)
-			</figcaption>
-		</figure>
+    <p>
+      The CSZ megathrust has not produced a great earthquake (Mw>8) since monitoring began in 1970, but ample evidence for such events about every 500 years exists in the geologic record. Tsunamis from a Cascadia megathrust earthquake, and from earthquakes on other trans-Pacific subduction zones, also pose a threat along the Pacific coast in Washington, Oregon, and northern California.  In addition to the earthquake sources mentioned above, the PNW plate-interface slips slowly and generates low-level seismic ‘chatter’ (tremor) on a regular basis.
+    </p>
+    <p>
+      Members of Seattle USGS office, with their partners,  seek to characterize hazards posed by earthquakes and to learn from other geological processes, to help the PNW region develop effective mitigation strategies.
+    </p>
+  </div>
 
-		<p>
-			<a href="directions.php">Contacts and Directions</a><br/>
-			<a href="partners.php">Partners</a>
-		</p>
+  <div class="column one-of-three">
+    <figure>
+      <img src="images/seattle-pnsn-sign-2x.jpg" alt="sign for PNSN" width="315"/>
+      <figcaption>
+      </figcaption>
+    </figure>
 
-	</div>
+    <p>
+      <a href="directions.php">Contacts and Directions</a><br/>
+      <a href="partners.php">Partners</a>
+    </p>
+
+  </div>
 </div>
 
 <hr/>
 
 <div class="row">
-	<div class="column two-of-three">
-		<ul class="linklist">
+  <div class="column two-of-three">
+    <ul class="linklist">
 
 <!-- Preparedness -->
-			<li>
-				<a href="/learn/preparedness.php">
-					<h4>Preparedness</h4>
-					<img src="images/seattle-subduction-2x.gif" alt="cartoon of subduction zone" width="150"/>
-				</a>
-					<p>
-						In Cascadia strain arises from the interaction of three tectonic
-						plates. The North America, Juan de Fuca, and (indirectly) the Pacific
-						Plate all are moving with different trajectories.
-					</p>
-			</li>
+      <li>
+        <a href="/learn/preparedness.php">
+          <h4>Preparedness</h4>
+          <img src="images/seattle-subduction-2x.gif" alt="cartoon of subduction zone" width="150"/>
+        </a>
+          <p>
+            In Cascadia strain arises from the interaction of three tectonic plates. The North America, Juan de Fuca, and (indirectly) the Pacific Plate all are moving with different trajectories.
+          </p>
+      </li>
 
-<!-- Pacific Northwest Education -->
-			<li>
-				<a href="http://www.pnsn.org/">
-					<h4>Additional Information About Pacific Northwest Earthquake Science</h4>
-					<img src="images/seattle-pnsn-sign-2x.jpg" alt="PNSN sign" width="150"/>
-				</a>
-					<p>
-						The Pacific Northwest Seismic Network (PNSN) in Seattle is home to USGS and
-						University of Washington scientist who monitor and study earthquakes in the
-						Pacific Northwest.
-					</p>
-			</li>
+      <li>
+        <a href="http://www.pnsn.org">
+          <h4>Monitoring</h4>
+          <img src="images/monitoring_thumb.jpg" alt="USGS field engineer Lynn Simmons installs new equipment at an earthquake monitoring station in Marblemount, Washington, which is part of the Pacific Northwest Seismic Network. Photograph by Maia ten Brink, IRIS." width="150"/>
+        </a>
+          <p>
+            The Pacific Northwest Seismic Network, operated by the Universities of Washington (UW) and Oregon (UO) in partnership with the USGS,  monitors for earthquakes that threaten the PNW and in particular the urban corridor from Vancouver, British Columbia to Eugene, Oregon.
+          </p>
+      </li>
 
-			<li>
-				<a href="/hazards/urban/#pacnw">
-					<h4>Seattle Hazard Maps</h4>
-					<img src="images/seattle-haz-2x.jpg" alt="Seattle hazard map" width="150"/>
-				</a>
-				<p>
-					A high resolution view of the potential for strong earthquake shaking in
-					the Seattle area.</p>
-			</li>
+      <li>
+        <a href="">
+          <h4>Paleoseismology</h4>
+          <img src="images/paleo_thumb.jpg" alt="The Puget Sound region’s active faults and principal geographic features." width="150"/>
+        </a>
+          <p>
+            The Cascadia subduction thrust last produced a great earthquake in the year 1700. The most recent large earthquake on the Seattle Fault occurred close to the year 900. For these and other faults, the earthquake histories must be read from geological evidence, through ‘paleoseismic’ studies. USGS staff and its partners are addressing questions about great, megathrust earthquake recurrence, possible segment boundaries, and associated effects of ground shaking and fault rupture.  They are examining paleo liquefaction, landslides, and land-level changes along the coastline associated with past great earthquakes. Further inland, scientists continue to characterize major active upper plate faults, including 13  faults in the Puget Lowlands of Washington that produced 27 prehistoric earthquakes in the last 15,000 years. On-going work east of the Cascade Mountians continues to advance knowledge of timing and rates of fault deformation events.
+          </p>
+      </li>
 
-		</ul>
-	</div>
+      <li>
+        <a href="/hazards/urban/#pacnw">
+          <h4>Earthquake Hazard Investigations</h4>
+          <img src="images/seattle-haz-2x.jpg" alt="Seattle hazard map" width="150"/>
+        </a>
+        <p>
+          Significant gaps exist in our knowledge of basic fault characteristics and the modes in which faults accommodate plate motions in the Pacific Northwest region. These gaps limit the accuracy of needed seismic hazard and risk assessments, particularly for the region’s urban centers and major infrastructure (cities of Portland, Olympia, Tacoma, Seattle and Everett; major dams, bridges and other facilities throughout). The USGS and its partners employ analyses of remote sensing data such as LiDAR and InSAR, seismic reflection and refraction profiles, temporary and permanent seismic and geodetic network data, historic accounts of past earthquakes, and geological field mapping. Studies address faulting on time scales ranging from millennia (geological) to seconds (seismological).
+        </p>
+        <strong>PNW Earthquake Hazards East of the Cascade Mountains</strong>
+        <p>
+          Earthquake hazard assessments of eastern Washington are based on scant data, yet the region is home to a large amount of federal, state, and local/private infrastructure, and has experienced some of the largest historical earthquakes in the PNW in 1872 and 1936. Current work is evaluating regional tectonic models and deformation rates and leading to revised thinking on how the this region interacts with the rest of the Cascadia margin.
+        </p>
+        <strong>Urban Seismic Hazard Mapping and Ground-Motion Studies</strong>
+        <p>
+          USGS staff works with engineers and other users of USGS products to ensure that they  are successfully applied to mitigate earthquake risk. Ground motion maps USGS provides are crucial for emergency management exercises, loss estimation, and improving community resilience. Example products include detailed seismic hazard maps of urban areas of the Pacific Northwest, simulated ground motions for expected large earthquakes, and various scenarios ground-motion maps requested by emergency management and other agencies.
+        </p>
+        <figure class='left'>
+          <img src="images/cascadia-wells.jpg" alt="" width="315"/>
+          <figcaption>
+            Cascadia map from Wells et al. (2017) showing correlations between tremor activity (colors, purple to blue showing highest to lowest rates) on the plate interface and crustal faults (white); the latter are inferred to provide fluid conduits from the interface, with fluids affecting where tremor may occur. Offshore ovals outline greatest slip in the A.D. 1700 earthquake determined from variations in coastal subsidence (Wang et al., 2013). Fault names: LR—Leech River; SDF—Strait of Juan de Fuca; DO—Doty; CR—Columbia River GC—Gales Creek; TY—Tillamook-Yamhill; CO—Corvallis; WS—Wildlife Safari; CV—Canyonville; KR—Klamath River; PH–Portland Hills; BC—Battle Creek.
+          </figcaption>
+        </figure>
+        <figure class='left'>
+          <img src="images/seattle-haz.jpg" alt="" width="315"/>
+          <figcaption>
+            State-of-the-art earthquake hazard map conveying the earthquake shaking expected in Seattle, Washington having a 10 percent likelihood of being exceeded (shown in red and yellow shades) within a 50-year time period. The map may be used to prioritize retrofitting of Seattle’s oldest and most vulnerable structures, like unreinforced masonry buildings, which are circled on the map.  Shaking strengths are displayed in terms useful for structural engineers, as a percentage of gravity (where 100 percent equals the downward gravitational pull of the Earth), from seismic waves with 1-second period.
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a href="">
+          <h4>Cascadia Recurrence</h4>
+          <img src="images/drownedforest.jpg" alt="Trees and other organisms at Willapa Bay, Washington killed by submergence from the M9 1700 Cascadia earthquake (from Atwater and others, 2015). Knowledge of the tidal range in which coastal organisms live and the abundance of dateable carbon they contain are used to measure when and by how much the elevation changed." width="150"/>
+        </a>
+        <p>
+          The USGS and its partners are evaluating recurrence intervals of Cascadia subduction zone earthquakes from multiple proxies for paleoearthquakes, including coastal subsidence and uplift, tsunami deposits, turbidites, and landslides. Studies are underway to provide contextual constraints on Cascadia-specific plate-interference properties from geodesy, source models and shaking from ground-motion modeling and seismic data, and potential linkages with crustal deformation. Findings will ultimately help refine and focus recurrence intervals on the CSZ that will in turn lead to an increase in the accuracy of earthquake hazard assessments in the Pacific Northwest.
+        </p>
+      </li>
 
-	<div class="column one-of-three">
+    </ul>
+  </div>
 
-	<h2>Regional Interest:</h2>
-		<ul>
-			<li><a href="http://www.pnsn.org/">Pacific Northwest Seismic Network (PNSN)</a></li>
-			<li><a href="https://volcanoes.usgs.gov/observatories/cvo/">Cascades Volcano Observatory</a></li>
-			<li><a href="http://www.ess.washington.edu/">University of Washington Department of Earth &amp; Space Sciences</a></li>
-			<li><a href="http://www.geodesy.cwu.edu/">Pacific Northwest Geodetic Array-Central Washington University</a></li>
-			<li><a href="http://www.earthquakescanada.nrcan.gc.ca/index-eng.php">Canada Pacific Geoscience Center</a></li>
-			<li><a href="http://www.crew.org">CREW - Cascadia Region Earthquake Workgroup</a></li>
-			<li><a href="https://www.eeri.org/projects/earthquake-scenarios/seattle-fault-scenario/">Seattle Fault Scenario - EERI</a></li>
-			<li><a href="https://pubs.usgs.gov/fs/2010/3023/">Tacoma Fault Scenario - USGS pub</a></li>
-			<li>State &amp; Provincial Emergency Management Agencies:
-			<ul>
-				<li><a href="http://mil.wa.gov/">Washington Military Department</a></li>
-				<li><a href="http://www.oregon.gov/OMD/OEM/">Oregon Emergency Management</a></li>
-				<li><a href="http://www.pep.bc.ca/Emerg_Mgmt_BC/Emerg_Mgmt_BC.html">BC Emergency Management</a></li>
-			</ul>
-		</li>
-		<li><a href="http://www.fema.gov/region-x">FEMA Region X</a></li>
-		<li><a href="http://www.seattle.gov/emergency/prepare/personal/home.htm">Protecting Your Home - Seattle Office of Emergency Management</a></li>
-		</ul>
+  <div class="column one-of-three">
 
-	</div>
+  <h2>Regional Interest:</h2>
+    <ul>
+      <li><a href="http://www.pnsn.org/">Pacific Northwest Seismic Network (PNSN)</a></li>
+      <li><a href="https://volcanoes.usgs.gov/observatories/cvo/">Cascades Volcano Observatory</a></li>
+      <li><a href="http://www.ess.washington.edu/">University of Washington Department of Earth &amp; Space Sciences</a></li>
+      <li><a href="http://www.geodesy.cwu.edu/">Pacific Northwest Geodetic Array-Central Washington University</a></li>
+      <li><a href="http://www.earthquakescanada.nrcan.gc.ca/index-eng.php">Canada Pacific Geoscience Center</a></li>
+      <li><a href="http://www.crew.org">CREW - Cascadia Region Earthquake Workgroup</a></li>
+      <li><a href="https://www.eeri.org/projects/earthquake-scenarios/seattle-fault-scenario/">Seattle Fault Scenario - EERI</a></li>
+      <li><a href="https://pubs.usgs.gov/fs/2010/3023/">Tacoma Fault Scenario - USGS pub</a></li>
+      <li>State &amp; Provincial Emergency Management Agencies:
+      <ul>
+        <li><a href="http://mil.wa.gov/">Washington Military Department</a></li>
+        <li><a href="http://www.oregon.gov/OMD/OEM/">Oregon Emergency Management</a></li>
+        <li><a href="http://www.pep.bc.ca/Emerg_Mgmt_BC/Emerg_Mgmt_BC.html">BC Emergency Management</a></li>
+      </ul>
+    </li>
+    <li><a href="http://www.fema.gov/region-x">FEMA Region X</a></li>
+    <li><a href="http://www.seattle.gov/emergency/prepare/personal/home.htm">Protecting Your Home - Seattle Office of Emergency Management</a></li>
+    </ul>
+
+  </div>
 </div>
