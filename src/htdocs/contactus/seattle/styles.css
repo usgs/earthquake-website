@@ -1,0 +1,9 @@
+.staff {
+  float:left;
+  width: 200px;
+  padding-right: 10px;
+}
+
+.staff-desc {
+  margin-top:-0.3em;
+}
