@@ -9,7 +9,6 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <h2>Myths and Misconceptions</h2>
-<h3>What you do and don’t know about induced seismicity</h3>
 
 <figure class='right'>
   <img src="images/myths.png" alt="Image depicting hydraulic fracturing and waste water disposal"/>
