@@ -3,6 +3,7 @@
 // Contact: Joan Gomberg
   if (!isset($TEMPLATE)) {
   $TITLE = 'Seattle Field Office, Seattle, WA';
+  $HEAD = '<link rel="stylesheet" href="styles.css"/>';
   $NAVIGATION = true;
   include 'template.inc.php';
   }
@@ -12,27 +13,33 @@
 <div class="row">
   <div class="column two-of-three">
     <p>
-      The Pacific Northwest of the continental United States (Washington and Oregon) faces hazards from three sources of potentially damaging earthquakes. The region is known geologically as the Cascadia subduction zone (CSZ),  with earthquake sources on the 1) interface between the down-going, or ‘subducting’, and over-riding plates (‘megathrust’ events with magnitudes up to M~9, pink area on the map below),  2) shallow faults in the over-riding North American plate (up to M~7.5 earthquakes, yellow ovals), and 3) on faults in the subducting  plate (called ‘intraplate’ events, up to M~7.5, green ovals).  East of the Cascade Mountains and volcanoes (cones on map), urban centers and infrastructure are susceptible to long-duration shaking from Cascadia megathrust earthquakes and strong shaking from local shallow crustal earthquakes.
+      The spectacular scenery of the Pacific Northwest results directly from the
+      active geological processes associated with being part of a subduction
+      zone. The Pacific Northwest includes Washington, Oregon, northern
+      California, and southwestern British Columbia, and geologically shares many
+      similarities with the subduction zones of Japan and Chile. Instrumental,
+      written, and geological records from the region tell of earthquakes from
+      three generalized sources. Earthquakes as large as magnitude 7 originate in
+      the subducted Juan de Fuca plate, mainly beneath the Puget Sound region.
+      Moderate and large earthquakes occur also on faults within the overriding
+      North America plate, on both sides of the Cascades. Great earthquakes, as
+      large as magnitude 9, happen on the boundary between these plates.
+      Earthquakes from any of these sources may set off landslides, liquefaction,
+      and tsunamis.
     </p>
-    <figure class='left'>
-      <img src="images/cascadiamap_sm.jpg" alt=""/>
-       <figcaption>
-         Map and cross-sectional views of the northern end of the Cascadia subduction zone.  Earthquake sources shown are schematic only.
-       </figcaption>
-    </figure>
-
     <p>
-      The CSZ megathrust has not produced a great earthquake (Mw>8) since monitoring began in 1970, but ample evidence for such events about every 500 years exists in the geologic record. Tsunamis from a Cascadia megathrust earthquake, and from earthquakes on other trans-Pacific subduction zones, also pose a threat along the Pacific coast in Washington, Oregon, and northern California.  In addition to the earthquake sources mentioned above, the PNW plate-interface slips slowly and generates low-level seismic ‘chatter’ (tremor) on a regular basis.
-    </p>
-    <p>
-      Members of Seattle USGS office, with their partners,  seek to characterize hazards posed by earthquakes and to learn from other geological processes, to help the PNW region develop effective mitigation strategies.
+      USGS earthquake studies of this region are intended to help reduce the losses
+      earthquakes may cause. Activities include collaboration with the University of
+      Washington in contributing to the Advanced National Seismic System through
+      operation of the Pacific Northwest Seismic Network.
     </p>
   </div>
 
   <div class="column one-of-three">
     <figure>
-      <img src="images/seattle-pnsn-sign-2x.jpg" alt="sign for PNSN" width="315"/>
+      <img src="images/seattle-ranier.jpg" alt="" width="315"/>
       <figcaption>
+        University of Washington campus with Mt. Ranier in the background. (Courtesy of Joe Becker.)
       </figcaption>
     </figure>
 
@@ -82,10 +89,8 @@
       </li>
 
       <li>
-        <a href="/hazards/urban/#pacnw">
           <h4>Earthquake Hazard Investigations</h4>
-          <img src="images/seattle-haz-2x.jpg" alt="Seattle hazard map" width="150"/>
-        </a>
+          <img class="nolink" src="images/seattle-haz-2x.jpg" alt="Seattle hazard map" width="150"/>
         <p>
           Significant gaps exist in our knowledge of basic fault characteristics and the modes in which faults accommodate plate motions in the Pacific Northwest region. These gaps limit the accuracy of needed seismic hazard and risk assessments, particularly for the region’s urban centers and major infrastructure (cities of Portland, Olympia, Tacoma, Seattle and Everett; major dams, bridges and other facilities throughout). The USGS and its partners employ analyses of remote sensing data such as LiDAR and InSAR, seismic reflection and refraction profiles, temporary and permanent seismic and geodetic network data, historic accounts of past earthquakes, and geological field mapping. Studies address faulting on time scales ranging from millennia (geological) to seconds (seismological).
         </p>
@@ -111,10 +116,8 @@
         </figure>
       </li>
       <li>
-        <a href="">
           <h4>Cascadia Recurrence</h4>
-          <img src="images/drownedforest.jpg" alt="Trees and other organisms at Willapa Bay, Washington killed by submergence from the M9 1700 Cascadia earthquake (from Atwater and others, 2015). Knowledge of the tidal range in which coastal organisms live and the abundance of dateable carbon they contain are used to measure when and by how much the elevation changed." width="150"/>
-        </a>
+          <img class="nolink" src="images/drownedforest.jpg" alt="Trees and other organisms at Willapa Bay, Washington killed by submergence from the M9 1700 Cascadia earthquake (from Atwater and others, 2015). Knowledge of the tidal range in which coastal organisms live and the abundance of dateable carbon they contain are used to measure when and by how much the elevation changed." width="150"/>
         <p>
           The USGS and its partners are evaluating recurrence intervals of Cascadia subduction zone earthquakes from multiple proxies for paleoearthquakes, including coastal subsidence and uplift, tsunami deposits, turbidites, and landslides. Studies are underway to provide contextual constraints on Cascadia-specific plate-interference properties from geodesy, source models and shaking from ground-motion modeling and seismic data, and potential linkages with crustal deformation. Findings will ultimately help refine and focus recurrence intervals on the CSZ that will in turn lead to an increase in the accuracy of earthquake hazard assessments in the Pacific Northwest.
         </p>
