@@ -1,9 +1,11 @@
 'use strict';
 
-var ShakeMapList = require('listwidget/ShakeMapList'),
-    EqList = require('listwidget/EqList');
+var EqList = require('listwidget/EqList');
 
-ShakeMapList({
+EqList({
   container: document.querySelector('.recent-products'),
-  feed: EqList.ALL_URL_WEEK
+  feed: EqList.M25_URL_WEEK,
+  includeEvent: function (e) {
+    return (e.properties.types.indexOf('ground-failure') !== -1);
+  }
 });
