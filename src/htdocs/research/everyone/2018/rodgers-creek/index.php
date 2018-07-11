@@ -8,15 +8,21 @@
   }
 ?>
 
+<p>
+  <a href="rodgers-creek.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <figure class='right'>
 <img src="images/trace.jpg" alt=""/>
 <figcaption>
-  A Google Earth&#8482; image of the principal zone of faulting where it crosses the town Healdsburg (along the newly mapped north end of the fault), showing the 2007 lidar swath (one of two LiDAR datasets that were used).
+  A Google Earth&#8482; image showing the principal zone of faulting (in red) near the the town of Healdsburg, overlain on a hillshade image from a LiDAR survey along the fault.
 </figcaption>
 </figure>
 
 <p>
-  A new map of the Rodgers Creek Fault in Sonoma County, California, has been produced using aerial photography and hillshade imagery derived from LiDAR data (see <a href="/research/everyone/2015/wasatch/collect.php">Down in the Trenches…</a>). “Bare-earth” imagery from LiDAR data allows mapping of faulting-related landform features hidden beneath trees and vegetation, as well as the identification of finer-scale features than were previously known.
+  A new map of the Rodgers Creek Fault in Sonoma County, California, has been produced using aerial photography and hillshade imagery derived from LiDAR data (see <a href="/research/everyone/2015/wasatch/collect.php">Down in the Trenches…</a>). “Bare-earth” imagery from LiDAR data allows mapping of faulting-related landform features hidden beneath trees and vegetation, as well as the identification of finer-scale features than had been identified previously.
 </p>
 <p>
   The Rodgers Creek Fault, which lies east of the San Andreas Fault, is a main strand of the North American-Pacific Plate boundary north of San Francisco Bay. The plate motion along the Rodgers Creek fault is 6-10 mm/yr, and it has been estimated there is a 33% chance of a M>=6.7 earthquake on this fault combined with the Hayward Fault to the south in the next 30 years. The last large earthquake to occur along this fault was likely between 1715 and 1776.
@@ -54,7 +60,7 @@
     <figure>
     <img src="images/street-creep.jpg" alt=""/>
     <figcaption>
-      A creeping trace of the fault crosses an old road in the Healdsburg Ridge Open Space Preserve.
+      A creeping (slowly slipping) trace of the fault where it crosses an old road in the Healdsburg Ridge Open Space Preserve.
     </figcaption>
     </figure>
 
