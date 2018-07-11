@@ -8,6 +8,12 @@
   }
 ?>
 
+<p>
+  <a href="rodgers-creek.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <figure class='right'>
 <img src="images/trace.jpg" alt=""/>
 <figcaption>
