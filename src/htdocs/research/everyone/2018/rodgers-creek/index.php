@@ -22,7 +22,7 @@
 </figure>
 
 <p>
-  A new more detailed and higher resolution map of the Rodgers Creek Fault in Sonoma County, California, has been produced using aerial photography and hillshade imagery derived from LiDAR data (see <a href="/research/everyone/2015/wasatch/collect.php">Down in the Trenches…</a>). “Bare-earth” imagery from LiDAR data allows mapping of faulting-related landform features hidden beneath trees and vegetation, as well as the identification of finer-scale features than had been identified previously.
+  A new more detailed and higher resolution map of the Rodgers Creek Fault in Sonoma County, California, has been produced using aerial photography and hillshade imagery derived from LiDAR data (see <a href="/research/everyone/2015/wasatch/collect.php">Down in the Trenches…</a>). “Bare-earth” imagery from LiDAR data allowed mapping of faulting-related landform, as well as finer-scale, features hidden beneath trees and vegetation, than had not been identified previously.
 </p>
 <p>
   The Rodgers Creek Fault, which lies east of the San Andreas Fault, is a main strand of the North American-Pacific Plate boundary north of San Francisco Bay. The two sides of the fault slip past each other at a rate of 6-10 mm/yr, and it has been estimated that there is a 33% chance of a M>=6.7 earthquake on the combined Rodgers Creek-Hayward fault system over the 30-year period 2014-2043.
