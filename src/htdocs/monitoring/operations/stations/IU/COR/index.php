@@ -46,12 +46,7 @@
   <ul>
     <li>
       <a href="http://www.iris.edu/mda/IU/COR">
-        IRIS MetaData Aggregator 
-      </a>
-    </li>
-    <li>
-      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=37">
-        Oregon Earthquake Information
+        IRIS MetaData Aggregator
       </a>
     </li>
   </ul>
