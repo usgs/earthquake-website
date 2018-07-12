@@ -10,8 +10,8 @@
 <h2>National Steering Committe</h2>
   <table>
     <tr>
-      <td><p>Beroza, Greg <br />(<strong>Chair</strong>)</p></td>
-      <td><p>Stanford University</p></td>
+      <td><p>Aster, Rick <br />(<strong>Chair</strong>)</p></td>
+      <td><p>Colorado State University</p></td>
     </tr>
     <tr>
       <td><p>Maximilian Dixon<br />(National Emergency Management Assoc.)</p></td>
