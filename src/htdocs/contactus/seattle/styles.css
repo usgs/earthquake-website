@@ -1,0 +1,15 @@
+.staff {
+  float:left;
+  width: 200px;
+  padding-right: 10px;
+}
+
+.staff-desc {
+  margin-top:-0.3em;
+}
+
+img.nolink {
+  padding-top: 1.3em;
+  float: left;
+  margin: 0 1.0em 1.0em 0;
+}
