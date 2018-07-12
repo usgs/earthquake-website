@@ -89,32 +89,29 @@
       </li>
 
       <li>
-          <h4>Earthquake Hazard Investigations</h4>
+        <h4>Earthquake Hazard Investigations</h4>
           <img class="nolink" src="images/seattle-haz-2x.jpg" alt="Seattle hazard map" width="150"/>
         <p>
           Significant gaps exist in our knowledge of basic fault characteristics and the modes in which faults accommodate plate motions in the Pacific Northwest region. These gaps limit the accuracy of needed seismic hazard and risk assessments, particularly for the region’s urban centers and major infrastructure (cities of Portland, Olympia, Tacoma, Seattle and Everett; major dams, bridges and other facilities throughout). The USGS and its partners employ analyses of remote sensing data such as LiDAR and InSAR, seismic reflection and refraction profiles, temporary and permanent seismic and geodetic network data, historic accounts of past earthquakes, and geological field mapping. Studies address faulting on time scales ranging from millennia (geological) to seconds (seismological).
         </p>
-        <strong>PNW Earthquake Hazards East of the Cascade Mountains</strong>
+      </li>
+      <li>
+        <h4>PNW Earthquake Hazards East of the Cascade Mountains</h4>
+        <img class="nolink" src="images/cascadia-wells.jpg" alt="Cascadia map from Wells et al. (2017) showing correlations between tremor activity (colors, purple to blue showing highest to lowest rates) on the plate interface and crustal faults (white); the latter are inferred to provide fluid conduits from the interface, with fluids affecting where tremor may occur. Offshore ovals outline greatest slip in the A.D. 1700 earthquake determined from variations in coastal subsidence (Wang et al., 2013). Fault names: LR—Leech River; SDF—Strait of Juan de Fuca; DO—Doty; CR—Columbia River GC—Gales Creek; TY—Tillamook-Yamhill; CO—Corvallis; WS—Wildlife Safari; CV—Canyonville; KR—Klamath River; PH–Portland Hills; BC—Battle Creek." width="150"/>
         <p>
+          <strong>PNW Earthquake Hazards East of the Cascade Mountains</strong>
+          <br />
           Earthquake hazard assessments of eastern Washington are based on scant data, yet the region is home to a large amount of federal, state, and local/private infrastructure, and has experienced some of the largest historical earthquakes in the PNW in 1872 and 1936. Current work is evaluating regional tectonic models and deformation rates and leading to revised thinking on how the this region interacts with the rest of the Cascadia margin.
         </p>
-        <strong>Urban Seismic Hazard Mapping and Ground-Motion Studies</strong>
+      </li>
+      <li>
+        <h4>Urban Seismic Hazard Mapping and Ground-Motion Studies</h4>
+        <img class="nolink" src="images/seattle-haz.jpg" alt="State-of-the-art earthquake hazard map conveying the earthquake shaking expected in Seattle, Washington having a 10 percent likelihood of being exceeded (shown in red and yellow shades) within a 50-year time period. The map may be used to prioritize retrofitting of Seattle’s oldest and most vulnerable structures, like unreinforced masonry buildings, which are circled on the map.  Shaking strengths are displayed in terms useful for structural engineers, as a percentage of gravity (where 100 percent equals the downward gravitational pull of the Earth), from seismic waves with 1-second period." width="150"/>
         <p>
           USGS staff works with engineers and other users of USGS products to ensure that they  are successfully applied to mitigate earthquake risk. Ground motion maps USGS provides are crucial for emergency management exercises, loss estimation, and improving community resilience. Example products include detailed seismic hazard maps of urban areas of the Pacific Northwest, simulated ground motions for expected large earthquakes, and various scenarios ground-motion maps requested by emergency management and other agencies.
         </p>
-        <figure class='left'>
-          <img src="images/cascadia-wells.jpg" alt="" width="315"/>
-          <figcaption>
-            Cascadia map from Wells et al. (2017) showing correlations between tremor activity (colors, purple to blue showing highest to lowest rates) on the plate interface and crustal faults (white); the latter are inferred to provide fluid conduits from the interface, with fluids affecting where tremor may occur. Offshore ovals outline greatest slip in the A.D. 1700 earthquake determined from variations in coastal subsidence (Wang et al., 2013). Fault names: LR—Leech River; SDF—Strait of Juan de Fuca; DO—Doty; CR—Columbia River GC—Gales Creek; TY—Tillamook-Yamhill; CO—Corvallis; WS—Wildlife Safari; CV—Canyonville; KR—Klamath River; PH–Portland Hills; BC—Battle Creek.
-          </figcaption>
-        </figure>
-        <figure class='left'>
-          <img src="images/seattle-haz.jpg" alt="" width="315"/>
-          <figcaption>
-            State-of-the-art earthquake hazard map conveying the earthquake shaking expected in Seattle, Washington having a 10 percent likelihood of being exceeded (shown in red and yellow shades) within a 50-year time period. The map may be used to prioritize retrofitting of Seattle’s oldest and most vulnerable structures, like unreinforced masonry buildings, which are circled on the map.  Shaking strengths are displayed in terms useful for structural engineers, as a percentage of gravity (where 100 percent equals the downward gravitational pull of the Earth), from seismic waves with 1-second period.
-          </figcaption>
-        </figure>
       </li>
+
       <li>
           <h4>Cascadia Recurrence</h4>
           <img class="nolink" src="images/drownedforest.jpg" alt="Trees and other organisms at Willapa Bay, Washington killed by submergence from the M9 1700 Cascadia earthquake (from Atwater and others, 2015). Knowledge of the tidal range in which coastal organisms live and the abundance of dateable carbon they contain are used to measure when and by how much the elevation changed." width="150"/>
