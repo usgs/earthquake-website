@@ -89,6 +89,7 @@ if (!isset($TEMPLATE)) {
     </p>
 
     <h3><a href="/data/comcat/">ANSS Comprehensive Earthquake Catalog (ComCat) Documentation</a></h3>
+    <img src="/monitoring/anss/images/ANSS_logo.gif" alt="logo"/>
     <p>Data availability, formats, API, feeds, access, contributors.</p>
 
     <h3><a href="errata.php">Errata for Latest Earthquakes</a></h3>

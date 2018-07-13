@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-06-25 20:59:26 +0000
+# Generation Time: 2018-07-13 15:42:10 +0000
 # ************************************************************
 
 
@@ -5406,7 +5406,8 @@ VALUES
 	(480,3,12,'A Magnitude 7.1 Earthquake in the Tacoma Fault Zone-A Plausible Scenario for the Southern Puget Sound Region, Washington','https://pubs.er.usgs.gov/publication/fs20103023','(FS-2010-3023)'),
 	(481,3,10,'Real-time seismic monitoring of instrumented hospital buildings','https://pubs.er.usgs.gov/publication/fs20123028','(FS-2012-3028)'),
 	(482,3,11,'UNLV?s environmentally friendly Science and Engineering Building is monitored for earthquake shaking','https://pubs.er.usgs.gov/publication/fs20133022','(FS-2013-3022)'),
-	(483,3,10,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/fs20173024','(FS-2017-3024)');
+	(483,3,10,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/fs20173024','(FS-2017-3024)'),
+	(484,4,4,'Earthquakes-Rattling the Earth\'s Plumbing System','https://pubs.usgs.gov/fs/fs-096-03/','(FS-2003-096)');
 
 /*!40000 ALTER TABLE `products` ENABLE KEYS */;
 UNLOCK TABLES;

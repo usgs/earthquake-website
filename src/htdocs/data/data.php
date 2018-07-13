@@ -51,6 +51,7 @@
         <li><a href="russia_seismicity/">Seismicity of Russia and the Former Soviet Union</a></li>
         <li><a href="iss_summ.php">International Seismological Summary (ISS) Earthquake Catalog (1918-1963)</a></li>
         <li><a href="scr_catalog.php">Earthquake Catalog for Stable Continental Regions - Intraplate Earthquakes (495-2002)</a></li>
+        <li><a href="http://ds.iris.edu/ds/products/esec/">Exotic Seismic Events Catalog</a> - IRIS</li>
       </ul>
     </div>
 
