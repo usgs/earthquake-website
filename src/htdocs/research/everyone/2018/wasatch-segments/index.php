@@ -8,13 +8,11 @@
   }
 ?>
 
-<!--
 <p>
   <a href="wasatch-segments.pdf">
     <i class="material-icons">save_alt</i> Download PDF
   </a>
 </p>
--->
 
 <figure>
   <img src="images/Bennett_Fig4a.jpg" alt=""/>
@@ -95,15 +93,25 @@ This approach and is applicable to any geologic environment that yields data tha
 <h2>The Scientists Behind the Science</h2>
 
 <figure class='left'>
+<img src="images/DuRoss.jpg" style="width: 300px;" alt=""/>
+<figcaption>
+  Chris DuRoss.
+</figcaption>
+</figure>
+
+<p>
+  <strong>Chris DuRoss</strong> is a Research Geologist with the USGS in Golden, Colorado. As a paleoseismologist, he studies geologic evidence of large, prehistoric earthquakes in areas of active faulting such as the Wasatch Front. When not working, he can be found (or not) with his family in the remote parts of the West.
+</p>
+
+<br style="clear:left;"/>
+
+<figure class='left'>
 <img src="images/Bennett.jpg" style="width: 300px;" alt=""/>
 <figcaption>
   Scott Bennett.
 </figcaption>
 </figure>
 
-<p>
-  <strong>Chris DuRoss</strong>...
-</p>
 <p>
   <strong>Scott Bennett</strong> is a geologist with the USGS who studies the deformation and evolving landscape of continents, collecting data that allows him to reconstruct tectonic movements over a large range of temporal and spatial scales, from earthquakes to orogenies and from faults to plate boundaries. When not conducting research, he enjoys hiking or biking up mountains, hanging out at the beach with his family, and a spirited game of cribbage.
 </p>
