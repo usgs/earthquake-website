@@ -16,22 +16,20 @@
       The spectacular scenery of the Pacific Northwest results directly from the
       active geological processes associated with being part of a subduction
       zone. The Pacific Northwest includes Washington, Oregon, northern
-      California, and southwestern British Columbia, and geologically shares many
-      similarities with the subduction zones of Japan and Chile. Instrumental,
-      written, and geological records from the region tell of earthquakes from
-      three generalized sources. Earthquakes as large as magnitude 7 originate in
-      the subducted Juan de Fuca plate, mainly beneath the Puget Sound region.
-      Moderate and large earthquakes occur also on faults within the overriding
-      North America plate, on both sides of the Cascades. Great earthquakes, as
-      large as magnitude 9, happen on the boundary between these plates.
-      Earthquakes from any of these sources may set off landslides, liquefaction,
-      and tsunamis.
+      California, and southwestern British Columbia, and geologically shares
+      many similarities with the subduction zones of Japan and Chile.
+      Instrumental, written, and geological records from the region tell of
+      earthquakes from three generalized sources. Earthquakes as large as
+      magnitude 7 originate in the subducted Juan de Fuca plate, mainly beneath
+      the Puget Sound region. Moderate and large earthquakes occur also on
+      faults within the overriding North America plate, on both sides of the
+      Cascades. Great earthquakes, as large as magnitude 9, happen on the
+      boundary between these plates. Earthquakes from any of these sources may
+      set off landslides, liquefaction, and tsunamis.
     </p>
     <p>
-      USGS earthquake studies of this region are intended to help reduce the losses
-      earthquakes may cause. Activities include collaboration with the University of
-      Washington in contributing to the Advanced National Seismic System through
-      operation of the Pacific Northwest Seismic Network.
+      USGS earthquake studies of this region are intended to help reduce the
+      losses earthquakes may cause.
     </p>
   </div>
 
@@ -64,7 +62,7 @@
           <img src="images/seattle-subduction-2x.gif" alt="cartoon of subduction zone" width="150"/>
         </a>
           <p>
-            In Cascadia strain arises from the interaction of three tectonic plates. The North America, Juan de Fuca, and (indirectly) the Pacific Plate all are moving with different trajectories.
+            In Cascadia strain arises from the interaction of three tectonic plates. The North America, Juan de Fuca, Gorda, Explorer, and (indirectly) the Pacific Plate all are moving with different trajectories.
           </p>
       </li>
 
@@ -79,10 +77,8 @@
       </li>
 
       <li>
-        <a href="">
           <h4>Paleoseismology</h4>
-          <img src="images/paleo_thumb.jpg" alt="The Puget Sound region’s active faults and principal geographic features." width="150"/>
-        </a>
+          <img class="nolink" src="images/paleo_thumb.jpg" alt="The Puget Sound region’s active faults and principal geographic features." width="150"/>
           <p>
             The Cascadia subduction thrust last produced a great earthquake in the year 1700. The most recent large earthquake on the Seattle Fault occurred close to the year 900. For these and other faults, the earthquake histories must be read from geological evidence, through ‘paleoseismic’ studies. USGS staff and its partners are addressing questions about great, megathrust earthquake recurrence, possible segment boundaries, and associated effects of ground shaking and fault rupture.  They are examining paleo liquefaction, landslides, and land-level changes along the coastline associated with past great earthquakes. Further inland, scientists continue to characterize major active upper plate faults, including 13  faults in the Puget Lowlands of Washington that produced 27 prehistoric earthquakes in the last 15,000 years. On-going work east of the Cascade Mountians continues to advance knowledge of timing and rates of fault deformation events.
           </p>
@@ -90,17 +86,11 @@
 
       <li>
         <h4>Earthquake Hazard Investigations</h4>
-          <img class="nolink" src="images/seattle-haz-2x.jpg" alt="Seattle hazard map" width="150"/>
+        <img class="nolink" src="images/cascadia-wells.jpg" alt="Cascadia map from Wells et al. (2017) showing correlations between tremor activity (colors, purple to blue showing highest to lowest rates) on the plate interface and crustal faults (white); the latter are inferred to provide fluid conduits from the interface, with fluids affecting where tremor may occur. Offshore ovals outline greatest slip in the A.D. 1700 earthquake determined from variations in coastal subsidence (Wang et al., 2013). Fault names: LR—Leech River; SDF—Strait of Juan de Fuca; DO—Doty; CR—Columbia River GC—Gales Creek; TY—Tillamook-Yamhill; CO—Corvallis; WS—Wildlife Safari; CV—Canyonville; KR—Klamath River; PH–Portland Hills; BC—Battle Creek." width="150"/>
         <p>
           Significant gaps exist in our knowledge of basic fault characteristics and the modes in which faults accommodate plate motions in the Pacific Northwest region. These gaps limit the accuracy of needed seismic hazard and risk assessments, particularly for the region’s urban centers and major infrastructure (cities of Portland, Olympia, Tacoma, Seattle and Everett; major dams, bridges and other facilities throughout). The USGS and its partners employ analyses of remote sensing data such as LiDAR and InSAR, seismic reflection and refraction profiles, temporary and permanent seismic and geodetic network data, historic accounts of past earthquakes, and geological field mapping. Studies address faulting on time scales ranging from millennia (geological) to seconds (seismological).
         </p>
-      </li>
-      <li>
-        <h4>PNW Earthquake Hazards East of the Cascade Mountains</h4>
-        <img class="nolink" src="images/cascadia-wells.jpg" alt="Cascadia map from Wells et al. (2017) showing correlations between tremor activity (colors, purple to blue showing highest to lowest rates) on the plate interface and crustal faults (white); the latter are inferred to provide fluid conduits from the interface, with fluids affecting where tremor may occur. Offshore ovals outline greatest slip in the A.D. 1700 earthquake determined from variations in coastal subsidence (Wang et al., 2013). Fault names: LR—Leech River; SDF—Strait of Juan de Fuca; DO—Doty; CR—Columbia River GC—Gales Creek; TY—Tillamook-Yamhill; CO—Corvallis; WS—Wildlife Safari; CV—Canyonville; KR—Klamath River; PH–Portland Hills; BC—Battle Creek." width="150"/>
         <p>
-          <strong>PNW Earthquake Hazards East of the Cascade Mountains</strong>
-          <br />
           Earthquake hazard assessments of eastern Washington are based on scant data, yet the region is home to a large amount of federal, state, and local/private infrastructure, and has experienced some of the largest historical earthquakes in the PNW in 1872 and 1936. Current work is evaluating regional tectonic models and deformation rates and leading to revised thinking on how the this region interacts with the rest of the Cascadia margin.
         </p>
       </li>
