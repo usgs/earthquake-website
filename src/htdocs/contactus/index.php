@@ -39,7 +39,7 @@ if (!isset($TEMPLATE)) {
     <h3>For General Public and Media</h3>
     <ul>
       <li><a href="media.php">Media Contacts and Information</a></li>
-      <li>Earthquake Questions or Website Comments - Use the <a href="mailto:lisa%2Behpweb@usgs.gov?cc=lkpratt%2Behpweb@usgs.gov">Questions or comments?</a> link at the bottom of every webpage.</li>
+      <li>Earthquake Questions or Website Comments - Use the <a href="mailto:lisa%2Behpweb@usgs.gov">Questions or comments?</a> link at the bottom of every webpage.</li>
     </ul>
 
     <h3>Looking for Something Else?</h3>
