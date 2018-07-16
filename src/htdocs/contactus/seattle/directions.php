@@ -15,8 +15,9 @@
   253-653-8358 (BS, cell), 206-616-5581 (o) or 206-941-7498 (c, JG)
 </p>
 <p>
-  USGS at Dept. of Earth and Space Sciences<br />
-  Box 351310, Univ of Washington<br />
+  USGS<br />
+  Univ of Washington, Dept. of Earth and Space Sciences<br />
+  Box 351310<br />
   Seattle, WA 98195
 </p>
 
