@@ -12,7 +12,7 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
 
-EQ_FEATURES->items[] = array(
+$EQ_FEATURES->items[] = array(
   'id' => '2018-07-16',
   'title' => 'A New Map of Rodgers Creek Fault in Sonoma County, California',
   'content' => 'A new more detailed and higher resolution map of the Rodgers Creek Fault in Sonoma County, California, has been produced using aerial photography and hillshade imagery derived from LiDAR data.',
