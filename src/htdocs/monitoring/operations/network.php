@@ -41,7 +41,7 @@ if (!isset($TEMPLATE)) {
   }
 
   $TITLE = (($virtualNetwork != null) ?
-      $virtualNetwork . ' ' : 'GSN and ANSS ') . 'Stations';
+      htmlentities($virtualNetwork) . ' ' : 'GSN and ANSS ') . 'Stations';
   $NAVIGATION = true;
 
   $HEAD = '
