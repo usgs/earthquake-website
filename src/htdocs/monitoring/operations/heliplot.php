@@ -51,7 +51,7 @@ if (!isset($TEMPLATE)) {
   }
 
   $TITLE = (($virtualNetwork != null) ?
-      $virtualNetwork . ' ': '') . 'Heliplots';
+      htmlentities($virtualNetwork) . ' ': '') . 'Heliplots';
   $NAVIGATION = true;
 
   $HEAD = '
