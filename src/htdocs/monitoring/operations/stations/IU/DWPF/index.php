@@ -46,12 +46,7 @@
   <ul>
     <li>
       <a href="http://www.iris.edu/mda/IU/DWPF">
-        IRIS MetaData Aggregator 
-      </a>
-    </li>
-    <li>
-      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=9">
-        Florida Earthquake Information
+        IRIS MetaData Aggregator
       </a>
     </li>
   </ul>

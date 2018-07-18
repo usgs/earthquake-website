@@ -36,12 +36,7 @@
   <ul>
     <li>
       <a href="http://www.iris.edu/mda/IU/RSSD">
-        IRIS MetaData Aggregator 
-      </a>
-    </li>
-    <li>
-      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=41">
-        South Dakota Earthquake Information
+        IRIS MetaData Aggregator
       </a>
     </li>
   </ul>

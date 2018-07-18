@@ -46,12 +46,7 @@
   <ul>
     <li>
       <a href="http://www.iris.edu/mda/IU/HKT">
-        IRIS MetaData Aggregator 
-      </a>
-    </li>
-    <li>
-      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=43">
-        Texas Earthquake Information
+        IRIS MetaData Aggregator
       </a>
     </li>
   </ul>

@@ -36,12 +36,7 @@
     </li>
     <li>
       <a href="http://www.iris.edu/mda/BK/CMB">
-        IRIS MetaData Aggregator 
-      </a>
-    </li>
-    <li>
-      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=5">
-        California Earthquake Information
+        IRIS MetaData Aggregator
       </a>
     </li>
   </ul>

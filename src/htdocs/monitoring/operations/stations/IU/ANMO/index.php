@@ -41,12 +41,7 @@
   <ul>
     <li>
       <a href="http://www.iris.edu/mda/IU/ANMO">
-        IRIS MetaData Aggregator 
-      </a>
-    </li>
-    <li>
-      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=31">
-        New Mexico Earthquake Information
+        IRIS MetaData Aggregator
       </a>
     </li>
   </ul>
