@@ -83,7 +83,7 @@
       <td>Northeast Coordinator</td>
     </tr>
     <tr>
-      <td>Vidale, John</td>
+      <td>Tobin, Harold</td>
       <td>Pacific Northwest Coordinator</td>
     </tr>
     <tr>
