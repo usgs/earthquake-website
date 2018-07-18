@@ -86,7 +86,7 @@
 
       <li>
         <h4>Earthquake Hazard Investigations</h4>
-        <img class="nolink" src="images/cascadia-wells.jpg" alt="Cascadia map from Wells et al. (2017) showing correlations between tremor activity (colors, purple to blue showing highest to lowest rates) on the plate interface and crustal faults (white); the latter are inferred to provide fluid conduits from the interface, with fluids affecting where tremor may occur. Offshore ovals outline greatest slip in the A.D. 1700 earthquake determined from variations in coastal subsidence (Wang et al., 2013). Fault names: LR—Leech River; SDF—Strait of Juan de Fuca; DO—Doty; CR—Columbia River GC—Gales Creek; TY—Tillamook-Yamhill; CO—Corvallis; WS—Wildlife Safari; CV—Canyonville; KR—Klamath River; PH–Portland Hills; BC—Battle Creek." width="150"/>
+        <img class="nolink" src="images/hazards_thumb.jpg" alt="2014 Pacific NW hazard map for PGA 10 percent in 50 years" width="150"/>
         <p>
           Significant gaps exist in our knowledge of basic fault characteristics and the modes in which faults accommodate plate motions in the Pacific Northwest region. These gaps limit the accuracy of needed seismic hazard and risk assessments, particularly for the region’s urban centers and major infrastructure (cities of Portland, Olympia, Tacoma, Seattle and Everett; major dams, bridges and other facilities throughout). The USGS and its partners employ analyses of remote sensing data such as LiDAR and InSAR, seismic reflection and refraction profiles, temporary and permanent seismic and geodetic network data, historic accounts of past earthquakes, and geological field mapping. Studies address faulting on time scales ranging from millennia (geological) to seconds (seismological).
         </p>
