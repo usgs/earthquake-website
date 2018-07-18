@@ -41,12 +41,7 @@
   <ul>
     <li>
       <a href="http://www.iris.edu/mda/IU/WVT">
-        IRIS MetaData Aggregator 
-      </a>
-    </li>
-    <li>
-      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=42">
-        Tennessee Earthquake Information
+        IRIS MetaData Aggregator
       </a>
     </li>
   </ul>
