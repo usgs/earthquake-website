@@ -41,12 +41,7 @@
   <ul>
     <li>
       <a href="http://www.iris.edu/mda/IU/WCI">
-        IRIS MetaData Aggregator 
-      </a>
-    </li>
-    <li>
-      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=14">
-        Indiana Earthquake Information
+        IRIS MetaData Aggregator
       </a>
     </li>
   </ul>

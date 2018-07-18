@@ -51,12 +51,7 @@
   <ul>
     <li>
       <a href="http://www.iris.edu/mda/IU/TUC">
-        IRIS MetaData Aggregator 
-      </a>
-    </li>
-    <li>
-      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=4">
-        Arizona Earthquake Information
+        IRIS MetaData Aggregator
       </a>
     </li>
   </ul>

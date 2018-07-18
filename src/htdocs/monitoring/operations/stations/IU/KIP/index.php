@@ -46,12 +46,7 @@
   <ul>
     <li>
       <a href="http://www.iris.edu/mda/IU/KIP">
-        IRIS MetaData Aggregator 
-      </a>
-    </li>
-    <li>
-      <a href="https://earthquake.usgs.gov/regional/states/index.php?regionID=11">
-        Hawaii Earthquake Information
+        IRIS MetaData Aggregator
       </a>
     </li>
   </ul>
