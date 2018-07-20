@@ -2,8 +2,9 @@
       //  Author:  Tiffany Kalin
       //  Contact: Lisa Wald
       if  (!isset($TEMPLATE))  {
-      $TITLE  =  'ANSS - Advanced National Seismic System <img src="images/ANSS_logo.gif" alt="logo"/>';
+      $TITLE  =  'ANSS - Advanced National Seismic System <img class="anss-logo" src="images/ANSS_logo.gif" alt="logo"/>';
       $NAVIGATION  = true;
+      $HEAD = '<link rel="stylesheet" href="index.css"/>';
       include  'template.inc.php';
       }
 ?>
