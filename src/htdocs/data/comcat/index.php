@@ -1,8 +1,8 @@
 <?php
   if (!isset($TEMPLATE)) {
-    $TITLE = 'ANSS Comprehensive Earthquake Catalog (ComCat) Documentation';
+    $TITLE = 'ANSS Comprehensive Earthquake Catalog (ComCat) Documentation <img class="anss-logo" src="/earthquakes/images/ANSS_logo.gif" alt="logo"/>';
     $NAVIGATION = true;
-
+    $HEAD = '<link rel="stylesheet" href="index.css"/>';
     include 'template.inc.php';
   }
 ?>

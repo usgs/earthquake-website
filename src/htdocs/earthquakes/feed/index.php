@@ -3,9 +3,7 @@
 // Contact: Web Development Team
   if (!isset($TEMPLATE)) {
   $TITLE = 'Real-time Notifications, Feeds, and Web Services';
-  $HEAD = '
-    <link rel="stylesheet" href="index.css"/>
-  ';
+  $HEAD = '<link rel="stylesheet" href="index.css"/>';
 // Use Earthquake level nav file
   include_once 'functions.inc.php';
   ob_start();
@@ -60,7 +58,7 @@
   </section>
 </div>
 
-<h2>Real-time Feeds</h2>
+<h2>Real-time Feeds <img class="anss-logo" src="/earthquakes/images/ANSS_logo.gif" alt="logo"/></h2>
 <div class="row">
   <section class="three-of-three column">
       <p class="alert info">
