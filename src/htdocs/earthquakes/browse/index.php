@@ -3,9 +3,10 @@
   // Contact: lisa@usgs.gov
   if (!isset($TEMPLATE)) {
   $current_year = intval(date('Y'));
-  $TITLE = 'Earthquake Lists, Maps, and Statistics';
+  $TITLE = 'Earthquake Lists, Maps, and Statistics <img class="anss-logo" src="/earthquakes/images/ANSS_logo.gif" alt="logo"/>';
   $NAVIGATION = true;
   $HEAD = '
+    <link rel="stylesheet" href="index.css"/>
     <link rel="stylesheet" href="/theme/css/alert.css"/>
   ';
   include 'template.inc.php';
