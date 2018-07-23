@@ -10,20 +10,8 @@
   "email-name": "Jennifer Andrews",
   "tel": [
     {
-      "type": "Earthquake Information",
-      "value": "+1-626-395-6977"
-    },
-    {
-      "type": "Voice",
-      "value": "+1-626-583-7823"
-    },
-    {
       "type": "Voice",
       "value": "+1-626-395-6919"
-    },
-    {
-      "type": "Fax",
-      "value": "+1-626-583-7827"
     }
   ]
 }
