@@ -1,6 +1,6 @@
 <?php
 // Author: Lisa Wald
-// Contact: Kathy Haller
+// Contact: Mark Peterson
   if (!isset($TEMPLATE)) {
     $TITLE = 'Quaternary Fault and Fold Database of the United States';
     $NAVIGATION = true;
@@ -40,5 +40,5 @@
 </p>
 
 <cite><i>
-  U.S. Geological Survey and New Mexico Bureau of Mines and Mineral Resources, 2006, Quaternary fault and fold database for the United States, accessed Jan 9, 2006, from USGS web site: https://earthquake.usgs.gov/hazards/qfaults/.
+  U.S. Geological Survey (and supporting agency if appropriate-see list below),​ ​YEAR, Quaternary fault and fold database for the United States, accessed DATE, from USGS web site: https://earthquake.usgs.gov/hazards/qfaults/.
 </i></cite>

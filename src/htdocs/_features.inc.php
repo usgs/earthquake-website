@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-07-25',
+  'title' => 'Researchers Develop Model for Predicting Landslides Caused by Earthquakes',
+  'content' => 'A model developed by researchers at Indiana University and the USGS can help experts address such risks by estimating the likelihood of landslides that will be caused by earthquakes anywhere in the world within minutes.',
+  'link' => 'https://www.eurekalert.org/pub_releases/2018-07/iu-ird072418.php',
+  'modified' => strtotime('2018-07-25'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/ElSalvador-landslide.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/ElSalvador-landslide.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-07-16',
   'title' => 'A New Map of Rodgers Creek Fault in Sonoma County, California',
   'content' => 'A new more detailed and higher resolution map of the Rodgers Creek Fault in Sonoma County, California, has been produced using aerial photography and hillshade imagery derived from LiDAR data.',
