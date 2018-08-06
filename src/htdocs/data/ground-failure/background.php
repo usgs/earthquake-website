@@ -233,7 +233,7 @@ if (!isset($TEMPLATE)) {
 </p>
 <p>$$\text{SF} = \frac{1}{1 + \exp(-2[M - 6])}$$</p>
 <p>
-  where $\text{M}$ is the earthquake magnitude. We multiply PGV by SF before it is evaluated in the Zhu and others (2017) model. This is analogous to how the Youd and others (2001) magnitude scaling factor works for PGA, except that it is applied to PGV, and we compare the two in Figure 7. Note that we are showing
+  where M is the earthquake magnitude. We multiply PGV by SF before it is evaluated in the Zhu and others (2017) model. This is analogous to how the Youd and others (2001) magnitude scaling factor works for PGA, except that it is applied to PGV, and we compare the two in Figure 7. Note that we are showing
 </p>
 <figure>
   <img src="images/fig7.gif" alt=""/>
