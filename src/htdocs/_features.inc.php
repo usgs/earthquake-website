@@ -13,6 +13,26 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-08-06',
+  'title' => 'Better Performance and New Features on Earthquake Website',
+  'content' => 'Better performance and new features: landslides and liquefaction estimates, population map layer, Spanish Did You Feel It?, and aftershock forecasts.',
+  'link' => 'https://www.usgs.gov/center-news/better-performance-and-new-features-earthquake-website',
+  'modified' => strtotime('2018-08-06'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/ground-failure-card.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/ground-failure-card.png'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-08-06',
+  'title' => 'Seismic Sensors Record a Hurricane’s Roar',
+  'content' => 'Newly installed infrasound sensors at a Global Seismographic Network station on Puerto Rico recorded the sounds of Hurricane Maria passing overhead. (EOS article)',
+  'link' => 'https://eos.org/project-updates/seismic-sensors-record-a-hurricanes-roar',
+  'modified' => strtotime('2018-08-06'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/global-seismic-network-infrasound-sensor-hurricane-maria-puerto-rico.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/global-seismic-network-infrasound-sensor-hurricane-maria-puerto-rico.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-07-25',
   'title' => 'Researchers Develop Model for Predicting Landslides Caused by Earthquakes',
   'content' => 'A model developed by researchers at Indiana University and the USGS can help experts address such risks by estimating the likelihood of landslides that will be caused by earthquakes anywhere in the world within minutes.',
