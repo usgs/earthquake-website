@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td><p>Crouse, C. B.<br />(COSMOS)</p></td>
-      <td><p>URS Corporation</p></td>
+      <td><p>AECOM</p></td>
     </tr>
     <tr>
       <td><p>McCarthy, Jill <br />(USGS Geologic Hazards Science Center)</p></td>
@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td><p>Wong, Ivan<br />(EERI Geotechnical)</p></td>
-      <td><p>URS Corporation</p></td>
+      <td><p>Lettis Consultants International</p></td>
     </tr>
     <tr>
       <td><p>Chapman, Martin<br />(SSA)</p></td>
