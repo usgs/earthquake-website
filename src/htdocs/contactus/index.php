@@ -3,7 +3,6 @@
 // Contact: Lisa Wald, lisa@usgs.gov
 if (!isset($TEMPLATE)) {
   $TITLE = 'Contacts and Regional Science Activities';
-  $CONTACT = 'lisa%2Behpweb@usgs.gov';
   $HEAD = '<link rel="stylesheet" href="/lib/hazdev-svgimagemap.css"></script>' .
   $FOOT = '<script src="/lib/hazdev-svgimagemap.js"></script>' .
       '<script src="index.js"></script>';
