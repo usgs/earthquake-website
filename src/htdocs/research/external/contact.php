@@ -76,14 +76,14 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     <strong>Geodesy Coordinator</strong><br />
-    Dr. Jessica Murray<br />
+    Dr. Benjamin Brooks<br />
     US Geological Survey<br />
     345 Middlefield Rd., MS 977<br />
     Menlo Park, CA 94025<br />
     <br />
-    Phone 650-329-4864<br />
+    Phone 650-329-5436<br />
     Fax 650-329-5163<br />
-    Email <a href="mailto:jrmurray@usgs.gov">Jessica Murray</a><br />
+    Email <a href="mailto:bbrooks@usgs.gov">Benjamin Brooks</a><br />
     <br />
   </li>
 </ul>
