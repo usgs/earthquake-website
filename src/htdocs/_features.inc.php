@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-08-13',
+  'title' => 'Scientists Map Fast-moving Fault off Alaska',
+  'content' => 'Researchers from NOAA, U.S. Geological Survey and their partners have completed the first high-resolution, comprehensive mapping of one of the fastest moving underwater tectonic faults in the world, located in southeastern Alaska.',
+  'link' => 'https://www.usgs.gov/news/scientists-complete-mission-map-fast-moving-fault-alaska-data-will-help-coastal-communities',
+  'modified' => strtotime('2018-08-13'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/Hauessler-NOAA.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/Hauessler-NOAA.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-08-06',
   'title' => 'Better Performance and New Features on Earthquake Website',
   'content' => 'Better performance and new features: landslides and liquefaction estimates, population map layer, Spanish Did You Feel It?, and aftershock forecasts.',
