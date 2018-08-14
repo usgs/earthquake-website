@@ -46,7 +46,7 @@
   <li>
     <a href="https://outsmartdisaster.com/">
       <h3>HayWired: Outsmart Disaster</h3>
-      <img src="images/outsmart.png" alt="Outsmart Disaster logo">
+      <img src="images/outsmart.png" alt="Outsmart Disaster logo"/>
     </a>
     <p>What if&hellip;<br />A 7.0 earthquake hit the San Francisco Bay Area?
       Are you, your family, and your business prepared to outsmart disaster?</p>
@@ -71,7 +71,7 @@
   <li>
     <a href="https://wim.usgs.gov/geonarrative/safrr/haywired_vol1/">
       <h3>The HayWired Scenario: An Urban Earthquake in a Connected World</h3>
-      <img src="images/storymap.jpg" alt="image depicting bay area eq hazards">
+      <img src="images/storymap.jpg" alt="image depicting bay area eq hazards"/>
     </a>
     <p>This &ldquo;geonarrative&rdquo;, which includes interactive maps, videos, and other
       media, examines the earthquake hazards in the HayWired scenario&rsquo;s 11-county
@@ -81,7 +81,7 @@
   <li>
     <a href="pdf/HayWiredSigningMap.pdf">
       <h3>HayWired Scenario ShakeMap</h3>
-      <img src="images/haywired-map.jpg" alt="HayWired Scenario ShakeMap">
+      <img src="images/haywired-map.jpg" alt="HayWired Scenario ShakeMap"/>
     </a>
     <p>This scenario ShakeMap shows ground shaking caused by a hypothetical M7.0
       earthquake on the Hayward Fault. The mainshock (star) is beneath the City of
@@ -100,9 +100,18 @@
   </li>
 
   <li>
+    <a href="https://wim.usgs.gov/geonarrative/safrr/WTE_earthquake/">
+      <h3>What to Expect in a Big Urban Earthquake</h3>
+      <img src="images/what-to-expect.jpg" alt="screen capture of web page"/>
+    </a>
+    <p>Learn what you can do before, during, and after a
+      large quake in a populated area.</p>
+  </li>
+
+  <li>
     <a href="http://mynspr.org/post/blue-dot-93-hayward-fault">
       <h3>Blue Dot Podcast: The Hayward Fault</h3>
-      <img src="images/bluedot.png" alt="Blue Dot Podcast logo">
+      <img src="images/bluedot.png" alt="Blue Dot Podcast logo"/>
     </a>
     <p>Host Dave Schlom is joined by USGS Geophysicist Ken Hudnut as they
       interview two leading experts on the Hayward Fault: USGS scientists
@@ -135,7 +144,7 @@
   <li>
     <a href="https://bayquakealliance.org/howclose/">
       <h3>How Close to a Fault do You Live?</h3>
-      <img src="images/howclose.jpg" alt="Screen capture of web site">
+      <img src="images/howclose.jpg" alt="Screen capture of web site"/>
     </a>
     <p>Use our map to find out how close you and your family live to active
       faults in California.</p>
@@ -170,7 +179,7 @@
   <li>
     <a href="https://seismo.berkeley.edu/hayward/hayward_tours.html">
       <h3>The Hayward Fault: Maps &amp; Tours</h3>
-      <img src="images/hwfault-curb.jpg" alt="Photo of an offset curb">
+      <img src="images/hwfault-curb.jpg" alt="Photo of an offset curb"/>
     </a>
     <p>You can see the footprints of the Hayward Fault all over the place once
       you know where and how to look. This tour covers The Hayward Fault at the
