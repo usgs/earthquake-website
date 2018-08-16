@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-08-16',
+  'title' => 'USGS announces awards for 2018 earthquake monitoring and research',
+  'content' => 'The U.S Geological Survey announces that the agency has awarded more than $20 million in 2018 for earthquake monitoring and applied research. ',
+  'link' => 'https://www.usgs.gov/news/usgs-announces-awards-2018-earthquake-monitoring-and-research-united-states',
+  'modified' => strtotime('2018-08-16'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/HI-EQs-2018aug.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/HI-EQs-2018aug.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-08-13',
   'title' => 'Scientists Map Fast-moving Fault off Alaska',
   'content' => 'Researchers from NOAA, U.S. Geological Survey and their partners have completed the first high-resolution, comprehensive mapping of one of the fastest moving underwater tectonic faults in the world, located in southeastern Alaska.',
