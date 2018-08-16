@@ -9,13 +9,11 @@
   }
 ?>
 
-<!--
 <p>
   <a href="wasatch-segments.pdf">
     <i class="material-icons">save_alt</i> Download PDF
   </a>
 </p>
--->
 
 <figure>
   <img src="images/Bennett_Fig4a.jpg" alt=""/>
@@ -74,7 +72,7 @@ This approach and is applicable to any geologic environment that yields data tha
 </figure>
 
 <p>
-  Collectively, the science-based results from these two fault-trench studies demonstrate the history of large earthquakes on either side of the boundary between the Salt Lake City and Provo segments. These data will help fill in the complex puzzle of what is going on along the Wasatch fault zone and what we might expect to happen during the next large earthquake along the Wasatch Front.  The scientists plan to continue analyzing these data, as well as all previous paleoseismic data for this part of the Wasatch fault zone, to evaluate whether this boundary has broken during recent earthquakes. Results anticipated from this study will help scientists to better understand the history of strong shaking along this part of the Wasatch Front and the probability of a future large earthquake in the region.
+  Collectively, the results from these two scientific studies demonstrate the history of large earthquakes on either side of the boundary between the Salt Lake City and Provo segments. These data will help fill in the complex puzzle of what is going on along the Wasatch fault zone and what we might expect to happen during the next large earthquake along the Wasatch Front.  The scientists plan to continue analyzing these data, as well as all previous paleoseismic data for this part of the Wasatch fault zone, to evaluate whether this boundary has broken during recent earthquakes. Results anticipated from this study will help scientists to better understand the history of strong shaking along this part of the Wasatch Front and the probability of a future large earthquake in the region.
 </p>
 <p>- written by Lisa Wald, U.S. Geological Survey, July 11, 2018</p>
 
