@@ -19,7 +19,7 @@ $EQ_FEATURES->items[] = array(
   'link' => 'https://eos.org/project-updates/hunting-for-landslides-from-cascadias-great-earthquakes?utm_source=rss&utm_medium=rss&utm_content=hunting-for-landslides-from-cascadias-great-earthquakes',
   'modified' => strtotime('2018-08-21'),
   'thumbnail' => 'https://earthquake.usgs.gov/images-featured/drowned-trees.jpg',
-  'image' => 'https://earthquake.usgs.gov/images-featured/drowned-trees.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/drowned-trees.jpg'
 );
 
 $EQ_FEATURES->items[] = array(
