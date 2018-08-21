@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-08-21',
+  'title' => 'Hunting for Landslides from Cascadia’s Great Earthquakes',
+  'content' => 'Researchers examine the rings of drowned trees in landslide-dammed lakes for clues to today’s earthquake hazards in the Pacific Northwest (image credit:Brian Atwater).(EOS article)',
+  'link' => 'https://eos.org/project-updates/hunting-for-landslides-from-cascadias-great-earthquakes?utm_source=rss&utm_medium=rss&utm_content=hunting-for-landslides-from-cascadias-great-earthquakes',
+  'modified' => strtotime('2018-08-21'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/drowned-trees.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/drowned-trees.jpg','
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-08-16',
   'title' => 'USGS announces awards for 2018 earthquake monitoring and research',
   'content' => 'The U.S Geological Survey announces that the agency has awarded more than $20 million in 2018 for earthquake monitoring and applied research. ',
