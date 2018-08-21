@@ -48,10 +48,9 @@
     </p>
 </ul>
 
-<h3>Legacy networks</h3>
+<h3>Legacy Networks</h3>
 
 <ul class="linklist">
-
 
   <!--edm-->
   <li>
@@ -64,18 +63,16 @@
     </p>
   </li>
 
-  <!--data-->
-  <!--  *****RE-INSTATE this CONTENT when SCOTT moves it to new WEBSTACK*****
-
   <li>
     <a href="/monitoring/deformation/geodolite/">
       <h4>Geodolite Data</h4>
     </a>
     <p>
-      Results from measuring changes in distances using a single-color EDM. Measurements made throughout California from 1970 to 1994.
+      Measurements of the distance between pairs of benchmarks in surveying
+      networks located in the central and western U.S. and Alaska.
+      Data were collected between 1959 and 1993.
     </p>
   </li>
--->
 
 </ul>
 
