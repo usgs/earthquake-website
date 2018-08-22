@@ -103,14 +103,14 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     <strong>Central &amp; Eastern US Regional Coordinator</strong><br />
-    Dr. Tom Pratt<br />
+    Dr. Thomas Pratt<br />
     US Geological Survey<br />
     905 National Center<br />
     12201 Sunrise Valley Drive<br />
     Reston, VA  20192<br />
     <br />
     Phone 703-648-6709<br />
-    Email <a href="mailto:tpratt@usgs.gov">Tom Pratt</a><br />
+    Email <a href="mailto:tpratt@usgs.gov">Thomas Pratt</a><br />
     <br />
   </li>
   <li>
