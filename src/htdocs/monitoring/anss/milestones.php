@@ -1,13 +1,22 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	11/10/2016
+      //	Contact: Cecily Wolfe
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'ANSS Accomplishments';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
 ?>
+
+<h3>2018</h3>
+<ul>
+  <li>
+    USGS allocates $5 million in Congressionally appropriated funding provided for ANSS deferred maintenance needs.
+  </li>
+  <li>
+    Following the damaging fall 2017 hurricane season, in 2018 the Congressional 3rd supplemental funding for disasters provides USGS with $8 million for seismic and geomagnetism network restoration and hardening in the regions of Puerto Rico and the Turks and Caicos.
+  </li>
+</ul>
 
 <h3>2017</h3>
 <ul>
