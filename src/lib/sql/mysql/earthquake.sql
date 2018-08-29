@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-08-20 20:12:23 +0000
+# Generation Time: 2018-08-29 15:57:18 +0000
 # ************************************************************
 
 
@@ -5367,7 +5367,7 @@ VALUES
 	(264,8,6,'The San Andreas Fault in the San Francisco Bay area, California: a geology fieldtrip guidebook to selected stops on public lands','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2005%2F1127%2F','(OFR-2005-1127)'),
 	(265,2,6,'Where\'s the San Andreas fault? A guidebook to tracing the fault on public lands in the San Francisco Bay region','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2006%2F16%2F','(GIP-16)'),
 	(266,8,6,'Where\'s the Hayward Fault? A Green Guide to the Fault','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2008%2F1135%2F','(OFR-2008-1135)'),
-	(267,4,11,'The Hayward Fault - Is It Due for a Repeat of the Powerful 1868 Earthquake?','https://pubs.er.usgs.gov/publication/fs20083019','(FS-2008-3019)'),
+	(267,4,11,'The Hayward Fault - Is It Due for a Repeat of the Powerful 1868 Earthquake?','https://pubs.er.usgs.gov/publication/fs20183052','(FS-2018-3052)'),
 	(474,4,13,'Understanding earthquake hazards in urban areas - Evansville Area Earthquake Hazards Mapping Project','https://pubs.er.usgs.gov/publication/fs20123014','(FS-2012-3014)'),
 	(269,4,10,'Monitoring earthquake shaking in federal buildings','https://pubs.er.usgs.gov/publication/fs20053052','(FS-2005-3052)'),
 	(270,4,11,'Steam Explosions, Earthquakes, and Volcanic Eruptions-What\'s in Yellowstone\'s Future?','https://pubs.er.usgs.gov/publication/fs20053024','(FS-2005-3024)'),
