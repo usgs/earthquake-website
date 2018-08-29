@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-08-29 15:57:18 +0000
+# Generation Time: 2018-08-29 22:45:11 +0000
 # ************************************************************
 
 
@@ -3150,7 +3150,7 @@ VALUES
 	(254,'This Dynamic Planet','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fimap%2F2800%2F','World Map of Volcanoes, Earthquakes, Impact Craters, and Plate Tectonics '),
 	(255,'Continents on the Move','PBS-Nova','http%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fnova%2Fice%2Fcontinents%2F','How do we know that continents are still moving?'),
 	(466,'Watch Buildings Move During Earthquakes','American Geophysical Union (AGU)','http%3A%2F%2Fblogs.agu.org%2Ftremblingearth%2F2014%2F06%2F16%2Fbuildings-shaking-in-earthquakes%2F','Real videos of buildings shaking during real earthquakes, and some re-creations.'),
-	(273,'Earthquake Magnitude, Energy Release, and Shaking Intensity','USGS','/learn/topics/mag-intensity/magnitude-types.php','How the size of an earthquake is measured. The differences and relationships between magnitude, energy, and fault size is discussed and shown with images.'),
+	(273,'Earthquake Magnitude, Energy Release, and Shaking Intensity','USGS','/learn/topics/mag-intensity/','How the size of an earthquake is measured. The differences and relationships between magnitude, energy, and fault size is discussed and shown with images.'),
 	(260,'Tsunami! ','University of Washington by the Department of Earth and Space Sciences','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2Findex.html','Site provides general information about tsunamis, their causes and history as well as what to do in case of a tsunami.'),
 	(275,'Modified Mercalli Intensity Scale, The','USGS','%2Flearn%2Ftopics%2Fmercalli.php','A description of the  Modified Mercalli Intensity Scale.'),
 	(263,'Hilo Tsunami Museum','Pacific Tsunami Museum','http%3A%2F%2Fwww.tsunami.org%2F','The goal of the Pacific Tsunami Museum is to promote public tsunami education for the people of Hawaii and the Pacific Region. The museum will also preserve the social and cultural history of Hawaii and promote economic development on the island of Hawaii as well as statewide. The museum will serve as a living memorial to those who lost their lives in past tsunami events. '),
