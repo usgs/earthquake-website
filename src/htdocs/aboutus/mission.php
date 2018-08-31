@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Bill Leith
-  // Last modified: 07/08/2016, Lisa Wald
   if (!isset($TEMPLATE)) {
   $TITLE = 'Mission Statement';
   $NAVIGATION = true;
@@ -32,5 +31,5 @@
 </ol>
 
 <p>
-  The USGS Earthquake Hazards Program also provides <a href="/research/external/">Research Grants </a>, which fund external cooperators through a competitive, peer-reviewed proposal process. Participants include State and local governments, the academic community, and the private sector. Priorities for both the internal and external programs are guided by the Earthquake Hazards Program's annual science planning. Program Announcements are posted through the <a href="http://www/grants.gov/">Grant.gov</a> website.
+  The USGS Earthquake Hazards Program also provides <a href="/research/external/">Research Grants </a>, which fund external cooperators through a competitive, peer-reviewed proposal process. Participants include State and local governments, the academic community, and the private sector. Priorities for both the internal and external programs are guided by the Earthquake Hazards Program's annual science planning. Program Announcements are posted through the <a href="https://www.grants.gov/">Grant.gov</a> website.
 </p>
