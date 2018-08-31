@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Jill McCarthy
-// Last modified: 07/21/2015
 if (!isset($TEMPLATE)) {
 $TITLE = 'Geologic Hazards Science Center, Golden, CO';
 $NAVIGATION = true;
@@ -43,7 +42,6 @@ include 'template.inc.php';
     303-273-8450
     </p>
     <p>
-    <a href="/contactus/"> Send Email to NEIC</a>
     </p>
 
     <p>
