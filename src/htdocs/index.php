@@ -25,7 +25,8 @@ if (!isset($TEMPLATE)) {
       <a href="earthquakes/map/">
         <img class='nehrp' src="images-home/latesteqs-300.jpg" width="150" alt=""/>
       </a>
-      <img class="anss-logo" src="/earthquakes/images/ANSS_logo.gif" alt="logo"/><br />
+      <img class="anss-logo left" src="/earthquakes/images/ANSS_logo.gif" alt="logo"/><br />
+      <strong>Advanced National Seismic System</strong><br />
       Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
       <br/><br/>
       <strong><a href="/data/dyfi/">Did You Feel It? Report it Here!</a></strong>
@@ -36,7 +37,7 @@ if (!isset($TEMPLATE)) {
     <a href="learn/faq.php">
       <img class="faq" src="learn/images/main-faq.gif" width="150"/>
     </a>
-    <p><a href="learn/faq.php">FAQ - Frequently Asked Questions</a>.<br/>
+    <p><strong><a href="learn/faq.php">FAQ - Frequently Asked Questions</a></strong><br/>
        Seriously, check here first.</p>
 
 
@@ -69,11 +70,6 @@ if (!isset($TEMPLATE)) {
       </noscript>
     </div>
 -->
-
-<p class='alert'>
-  <img class="nehrp" src="images-home/nehrp.png">
-  The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977. We monitor and report earthquakes, assess earthquake impacts and hazards, and research the causes and effects of earthquakes.
-</p>
 
   </div>
 
@@ -168,5 +164,11 @@ if (!isset($TEMPLATE)) {
             </li>
           </ul>
     </div>
+
+    <p class='alert'>
+      <img class="nehrp" src="images-home/nehrp.png">
+      The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977, and the USGS <a href="/monitoring/anss/">Advanced National Seismic System (ANSS)</a> was established by Congress as a NEHRP facility.  The USGS and its partners monitor and report earthquakes, assess earthquake impacts and hazards, and perform research into the causes and effects of earthquakes.
+    </p>
+
   </div>
 </div>
