@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-08-29 22:45:11 +0000
+# Generation Time: 2018-09-17 18:59:17 +0000
 # ************************************************************
 
 
@@ -728,7 +728,7 @@ VALUES
 	(838,'2016-09-03','<a href=\"/earthquakes/eventpage/us10006jxs\">Pawnee, Oklahoma</a>','United States:Oklahoma','5.8','This is the largest earthquake up to this time in Oklahoma, and it was an induced event from waste-water injection following fracking operations.',2016,9,3,NULL),
 	(839,'2016-11-13','<a href=\"/earthquakes/eventpage/us1000778i\">Near Christchurch, New Zealand</a>','New Zealand','7.8','This earthquake was actually a sequence of at least 7 different earthquakes that ruptured in sequence on 7 different faults.  Surface rupture was observed in many differnt areas, and parts of the coast were uplifted, revealing the ocean bottom.  The shaking produced many landslides on the steep slopes.',2016,11,13,NULL),
 	(844,'2017-09-08','<a href=\"/earthquakes/eventpage/us2000ahv0\">Tres Picos, Mexico</a>','Mexico','8.2','This M 8.2 earthquake offshore of Chiapas, Mexico, occurred as the result of normal faulting at an intermediate depth. Focal mechanism solutions for the earthquake indicate slip occurred on either a fault dipping very shallowly towards the southwest, or on steeply dipping fault striking NW-SE. At the location of this event, the Cocos plate converges with North America at a rate of approximately 76 mm/yr, in a northeast direction. The Cocos plate begins its subduction beneath Central America at the Middle America Trench, just over 100 km to the southwest of this earthquake. The location, depth, and normal-faulting mechanism of this earthquake indicate that it is likely an intraplate event, within the subducting Cocos slab, rather than on the shallower megathrust plate boundary interface.  Although the earthquake was offshore, it was widely felt throughout the area on the continent.',2017,9,8,NULL),
-	(845,'2018-08-19','<a href=\"/earthquake/eventpage/us1000gcii\">Near Ndoi Island, Fiji</a>','Fiji','8.2','This deep-focus earthquake was 563 km deep, occurring in the subducting slab. Since it was so deep and also 280km from Ndoi Island, there was no known damage or fatalities.',2018,8,19,NULL);
+	(845,'2018-08-19','<a href=\"/earthquakes/eventpage/us1000gcii\">Near Ndoi Island, Fiji</a>','Fiji','8.2','This deep-focus earthquake was 563 km deep, occurring in the subducting slab. Since it was so deep and also 280km from Ndoi Island, there was no known damage or fatalities.',2018,8,19,NULL);
 
 /*!40000 ALTER TABLE `eq_history` ENABLE KEYS */;
 UNLOCK TABLES;
