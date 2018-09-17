@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-09-17 18:59:17 +0000
+# Generation Time: 2018-09-17 19:18:31 +0000
 # ************************************************************
 
 
@@ -1390,7 +1390,8 @@ VALUES
 	(504,9),
 	(505,9),
 	(506,9),
-	(273,9);
+	(273,9),
+	(507,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1992,7 +1993,8 @@ VALUES
 	(504,13),
 	(505,13),
 	(506,13),
-	(273,13);
+	(273,13),
+	(507,13);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3003,7 +3005,8 @@ VALUES
 	(506,68),
 	(506,30),
 	(506,85),
-	(386,82);
+	(386,82),
+	(507,25);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3268,7 +3271,8 @@ VALUES
 	(503,'The HayWired Scenario: An Urban Earthquake in a Connected World','USGS','http://usgs.maps.arcgis.com/apps/MapSeries/index.html?appid=364fa6f34520464ba081cb0785671193','An ArcGIS geo-narrative storymap with compelling images showing the effects and consequences possible in the next large earthquake on the Hayward Fault in the San Francisco Bay Area.'),
 	(504,'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes','USGS','/research/everyone/dcshake/','Science for Everyone article'),
 	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article'),
-	(506,'A Possible Cause of Earthquakes in the Continental Interior','USGS','/research/everyone/2018/us-stress/','Plain-language summary of a 2018 research paper.');
+	(506,'A Possible Cause of Earthquakes in the Continental Interior','USGS','/research/everyone/2018/us-stress/','Plain-language summary of a 2018 research paper.'),
+	(507,'Emergency Preparedness in Schools','Community for Accredited Online Schools','https://www.accreditedschoolsonline.org/resources/emergency-preparedness-in-school/','General information about disaster preparedness for schools with links to resources.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
