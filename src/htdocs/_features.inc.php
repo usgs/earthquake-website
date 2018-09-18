@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-09-18',
+  'title' => 'Lessons from Mexico’s Earthquake Early Warning System',
+  'content' => 'The devastating 2017 Puebla quake provides an opportunity to assess how citizens perceive and use the Mexico City earthquake early warning system.(EOS article)',
+  'link' => 'https://eos.org/features/lessons-from-mexicos-earthquake-early-warning-system?utm_source=rss&utm_medium=rss&utm_content=lessons-from-mexicos-earthquake-early-warning-system',
+  'modified' => strtotime('2018-09-18'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/mexico-early-warning.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/mexico-early-warning.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-08-21',
   'title' => 'Hunting for Landslides from Cascadia’s Great Earthquakes',
   'content' => 'Researchers examine the rings of drowned trees in landslide-dammed lakes for clues to today’s earthquake hazards in the Pacific Northwest (image credit:Brian Atwater).(EOS article)',
