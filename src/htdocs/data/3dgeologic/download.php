@@ -54,9 +54,5 @@ if (!isset($TEMPLATE)) {
   <li><a href="ftp://ehzftp.wr.usgs.gov/baagaard/cencalvm/database/MD5SUMS">Unompressed files</a></li>
   </ul>
 <li>Model query software
-  <p>This software library is required to query the seismic velocity model for physical properties. The software is distributed as source code and requires Unix tools (a Unix shell, make, and C++, C, and Fortran 77 compilers) to build.</p>
-  <ul>
-  <li><a href="ftp://ehzftp.wr.usgs.gov/baagaard/cencalvm/software/cencalvm-0.8.0.tgz">Version 0.8.0 tarball</a> (614 kB)</li>
-  <li><a href="ftp://ehzftp.wr.usgs.gov/baagaard/cencalvm/software/">All releases</a></li>
-</ul>
+  <p>This software library is required to query the seismic velocity model for physical properties. The software and its documentation are available at <a href="https://https://github.com/baagaard-usgs/cencalvm">github.com/baagaard-usgs/cencalvm</a>.</p>
 </ul>
