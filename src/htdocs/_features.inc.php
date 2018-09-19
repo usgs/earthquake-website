@@ -11,6 +11,17 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-09-19',
+  'title' => 'Science for a Risky World',
+  'content' => 'USGS explores opportunities to advance its capabilities in risk assessment, mitigation, and communication in new strategic plan.',
+  'link' => 'https://www.usgs.gov/news/science-a-risky-world-a-usgs-plan-risk-research-and-applications-usgs-publishes-strategic-plan',
+  'modified' => strtotime('2018-09-19'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/Figure_02_hazard_and_society-venn-diagram.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/Figure_02_hazard_and_society-venn-diagram.jpg'
+);
+
 $EQ_FEATURES->items[] = array(
   'id' => '2018-09-18',
   'title' => 'Lessons from Mexico’s Earthquake Early Warning System',
