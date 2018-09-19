@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-09-17 19:33:48 +0000
+# Generation Time: 2018-09-19 15:05:04 +0000
 # ************************************************************
 
 
@@ -5368,9 +5368,9 @@ VALUES
 	(260,8,36,'Historical Seismicity in the South San Francisco Bay Region','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2008%2F1151%2F',''),
 	(262,8,36,'Creating a Global Building Inventory for Earthquake Loss Assessment and Risk Management','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2008%2F1160%2F',''),
 	(263,1,3,'Earthquakes in Ohio and Vicinity 1776-2007','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2008%2F1221%2F','(OFR-2008-1221) map and report'),
-	(264,8,6,'The San Andreas Fault in the San Francisco Bay area, California: a geology fieldtrip guidebook to selected stops on public lands','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2005%2F1127%2F','(OFR-2005-1127)'),
+	(264,8,36,'The San Andreas Fault in the San Francisco Bay area, California: a geology fieldtrip guidebook to selected stops on public lands','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2005%2F1127%2F','(OFR-2005-1127)'),
 	(265,2,6,'Where\'s the San Andreas fault? A guidebook to tracing the fault on public lands in the San Francisco Bay region','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2006%2F16%2F','(GIP-16)'),
-	(266,8,6,'Where\'s the Hayward Fault? A Green Guide to the Fault','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2008%2F1135%2F','(OFR-2008-1135)'),
+	(266,8,36,'Where\'s the Hayward Fault? A Green Guide to the Fault','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2008%2F1135%2F','(OFR-2008-1135)'),
 	(267,4,11,'The Hayward Fault - Is It Due for a Repeat of the Powerful 1868 Earthquake?','https://pubs.er.usgs.gov/publication/fs20183052','(FS-2018-3052)'),
 	(474,4,13,'Understanding earthquake hazards in urban areas - Evansville Area Earthquake Hazards Mapping Project','https://pubs.er.usgs.gov/publication/fs20123014','(FS-2012-3014)'),
 	(269,4,10,'Monitoring earthquake shaking in federal buildings','https://pubs.er.usgs.gov/publication/fs20053052','(FS-2005-3052)'),
@@ -5388,7 +5388,7 @@ VALUES
 	(472,4,11,'Earthquake Outlook for the San Francisco Bay Region 2014-2043','https://pubs.er.usgs.gov/publication/fs20163020','(FS-2016-3020)'),
 	(452,2,6,'Putting Down Roots in Earthquake Country - ??Your Handbook for the San Francisco Bay Region','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2F2005%2F15%2F','(GIP 15)'),
 	(471,4,11,'Earthquake Forecast for the Wasatch Front Region of the Intermountain West','https://pubs.er.usgs.gov/publication/fs20163019','(FS-2016-3019)'),
-	(473,8,10,'Tectonic Summaries of Magnitude 7 and Greater Earthquakes from 2000 to 2015','https://pubs.er.usgs.gov/publication/ofr20161192','(OFR-2016-1192)'),
+	(473,8,36,'Tectonic Summaries of Magnitude 7 and Greater Earthquakes from 2000 to 2015','https://pubs.er.usgs.gov/publication/ofr20161192','(OFR-2016-1192)'),
 	(453,2,6,'Putting Down Roots in Earthquake Country - Your Handbook for Southern California','http://www.earthquakecountry.org/booklets/',''),
 	(455,4,10,'The Global Seismographic Network','https://pubs.er.usgs.gov/publication/fs20113021','(FS-2011-3021)'),
 	(456,1,3,'Earthquakes in South Carolina and Vicinity 1698-2009','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2010%2F1059%2F','(OFR-2010-1059)'),
@@ -5412,7 +5412,8 @@ VALUES
 	(481,3,10,'Real-time seismic monitoring of instrumented hospital buildings','https://pubs.er.usgs.gov/publication/fs20123028','(FS-2012-3028)'),
 	(482,3,11,'UNLV?s environmentally friendly Science and Engineering Building is monitored for earthquake shaking','https://pubs.er.usgs.gov/publication/fs20133022','(FS-2013-3022)'),
 	(483,3,10,'Reducing risk where tectonic plates collide','https://pubs.er.usgs.gov/publication/fs20173024','(FS-2017-3024)'),
-	(484,4,4,'Earthquakes-Rattling the Earth\'s Plumbing System','https://pubs.usgs.gov/fs/fs-096-03/','(FS-2003-096)');
+	(484,4,4,'Earthquakes-Rattling the Earth\'s Plumbing System','https://pubs.usgs.gov/fs/fs-096-03/','(FS-2003-096)'),
+	(1,8,36,'Science for a Risky World - A U.S. Geological Survey Plan for Risk Research and Applications','https://pubs.er.usgs.gov/publication/cir1444','(Circular 1444)');
 
 /*!40000 ALTER TABLE `products` ENABLE KEYS */;
 UNLOCK TABLES;
