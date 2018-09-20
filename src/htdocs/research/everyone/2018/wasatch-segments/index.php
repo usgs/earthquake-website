@@ -2,7 +2,7 @@
 // Author: Lisa Wald
 // Contact: Chris DuRoss
   if (!isset($TEMPLATE)) {
-    $TITLE = 'Segments of the Wasatch Fault Zone: Do They Act Alone or Together?';
+    $TITLE = 'New Methods for Dating and Sequencing Paleo-Earthquakes';
     $NAVIGATION = true;
     $HEAD = '<link rel="stylesheet" href="index.css"/>';
     include 'template.inc.php';
