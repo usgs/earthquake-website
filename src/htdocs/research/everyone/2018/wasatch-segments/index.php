@@ -9,11 +9,13 @@
   }
 ?>
 
+<!--
 <p>
   <a href="wasatch-segments.pdf">
     <i class="material-icons">save_alt</i> Download PDF
   </a>
 </p>
+-->
 
 <figure>
   <img src="images/Bennett_Fig4a.jpg" alt=""/>
@@ -23,10 +25,11 @@
 </figure>
 
 <p>
-  The Wasatch fault zone in Utah follows the western edge of the Wasatch Range for about 350 km (218 mi), posing a significant earthquake hazard to the Wasatch Front urban corridor.  The fault zone consists of at least 10 fault segments, each thought to be individually capable of generating large (M~7) ground-rupturing earthquakes. Although there have been past studies on the individual segments, whether or not the segments rupture together in large earthquakes is not well understood.  An earthquake that ruptures several fault segments simultaneously will be much larger than one involving rupture of only one segment.
+  The Wasatch fault zone in Utah follows the western edge of the Wasatch Range for about 350 km (218 mi), posing a significant earthquake hazard to the Wasatch Front urban corridor.  Two recent paleoseismic (ancient earthquake) studies of the Wasatch fault zone were conducted to investigate the history of past fault ruptures within Salt Lake and Utah valleys.  These studies each investigated geologic evidence of large (ground-rupturing) Wasatch fault earthquakes near a part of the fault previously thought to be a barrier, or boundary, between earthquake ruptures along the fault. That is, the Wasatch fault near Salt Lake City and Sandy (the Salt Lake City segment) has long been considered as a separate source of large earthquakes from the part of the fault near Spanish Fork, Provo, and Orem (the Provo segment). At each paleoseismic site, the scientists determined the age and sequence of past earthquakes, and developed new methods to evaluate the earthquake data. These data highlight the history of large earthquakes along this densely populated part of the Wasatch Front, and will be used in a future study of whether or not past earthquakes have ruptured through the boundary between the Salt Lake City and Provo segments.
 </p>
 <p>
-  Two recent paleoseismic (ancient earthquake) studies of the Wasatch fault zone set out to investigate past fault ruptures near a boundary between two prominent segments––the Provo and Salt Lake City segments. In these investigations, geologists studied exposures of geologic units faulted by large earthquakes in two trenches dug across the Wasatch fault zone. The trench locations were on the southernmost part of the Salt Lake City segment near Draper, Utah (the Corner Canyon site) and the northernmost part of the Provo segment near Alpine, Utah (the Alpine site). The joint goal of these studies was to determine whether or not any prehistoric earthquakes have involved both fault segments.
+  In these investigations, geologists studied exposures of geologic units faulted by large earthquakes in two trenches.  At the Alpine trench site, the scientists documented six earthquakes on the Provo segment during the past 6000 years. Soil and sediment from the fault zone were dated to determine the approximate sequence and timing of the six earthquakes. The scientists in this study refined a new method that uses the amount of sediment that collapses off of a fault scarp to estimate the fault offset at that location. One or two of the paleoearthquakes appear to have ruptured across the boundary between the Provo and Salt Lake City segments, but further studies are needed to confirm.
+
 </p>
 
 <figure class="sitemap">
@@ -37,8 +40,7 @@
 </figure>
 
 <p>
-  At the Corner Canyon site, the scientists found geologic evidence of six ground-rupturing earthquakes on the Salt Lake City segment in the last 4800 years. The time between earthquakes ranges from 300 to 1600 years, and individual fault offsets vary from 0.7 to 1.2 m (about 3 ft). For this study, the scientists developed a multiple-method approach to evaluate and model the timing of individual earthquakes at the site. Paleoseismologists typically analyze collected data using Bayesian (probabilistic) statistical analysis, which works well in a geological environment where earthquakes occur among a continuous and uninterrupted sedimentary record.  The Bayesian approach does not work as well when the sedimentary record is sporadic and/or affected by processes such as weathering and bioturbation (mixing from plants and burrowing animals). The new method developed in this study uses a multiple-method approach to more accurately assess earthquake timing. In this approach, all of the geologic data are evaluated in multiple models; earthquake timing data from these models are then combined to determine the history of earthquakes at the site. The result is more likely to be the actual sequence that took place, but the uncertainty around the exact earthquake dates is larger.
-This approach and is applicable to any geologic environment that yields data that are complex or difficult to interpret.
+  At the Corner Canyon site, the scientists also found geologic evidence of six ground-rupturing earthquakes on the Salt Lake City segment in the past 4800 years. For this study, the scientists developed a multiple-method approach to evaluate and model the timing of individual earthquakes at the site. Paleoseismologists typically analyze collected data using statistical analysis, which works well in a geological environment where earthquakes occur among a continuous and uninterrupted sedimentary record.  The approach doesn’t work as well when the sedimentary record is sporadic and/or complex. The new multi-method approach developed in this study more accurately assesses earthquake timing in a complex geological environment.
 </p>
 
  <div class="row">
@@ -61,7 +63,7 @@ This approach and is applicable to any geologic environment that yields data tha
 </div>
 
 <p>
-  At the Alpine trench site, the scientists documented six earthquakes on the Provo segment during the last 6000 years. Soil and sediment from the fault zone was dated to determine the approximate sequence and timing of the six earthquakes. The time between individual earthquakes ranges from 200 to 1800 years, and the fault displacement in each earthquake, or the measure of how much the ground surface was vertically displaced by fault movement, varies from 0.8 to 1.2 m (about 3 ft). The earthquakes had approximate surface-rupture lengths of 25 to 52 km (16-32 mi), which roughly translates into magnitude estimates of 6.9 to 7.0. The scientists in this study also refined a method that uses the amount of sediment that collapses off of a fault scarp to estimate the fault offset at that location. This method also helps to understand the length of the ruptured fault and the magnitude of past earthquakes.
+  Collectively, the results from these two fault-trench studies demonstrate the history of large earthquakes on either side of the boundary between the Salt Lake City and Provo segments. The results also refined and confirmed two new data analyzation methods for complex geologic environments. These data will help fill in the complex puzzle of what is going on along the Wasatch fault zone and what we might expect to happen during the next large earthquake along the Wasatch Front.  The newly developed methods will be used to reanalyze all previous paleoseismic data for this part of the Wasatch fault zone, to evaluate whether past earthquakes have ruptured more than one fault segment at the same time.
 </p>
 
 <figure class="alpine">
@@ -71,10 +73,7 @@ This approach and is applicable to any geologic environment that yields data tha
   </figcaption>
 </figure>
 
-<p>
-  Collectively, the results from these two scientific studies demonstrate the history of large earthquakes on either side of the boundary between the Salt Lake City and Provo segments. These data will help fill in the complex puzzle of what is going on along the Wasatch fault zone and what we might expect to happen during the next large earthquake along the Wasatch Front.  The scientists plan to continue analyzing these data, as well as all previous paleoseismic data for this part of the Wasatch fault zone, to evaluate whether this boundary has broken during recent earthquakes. Results anticipated from this study will help scientists to better understand the history of strong shaking along this part of the Wasatch Front and the probability of a future large earthquake in the region.
-</p>
-<p>- written by Lisa Wald, U.S. Geological Survey, July 11, 2018</p>
+<p>- written by Lisa Wald, USGS, September 2018</p>
 
 <figure class="alpine">
   <img src="images/Bennett_Fig4d.jpg" alt=""/>
