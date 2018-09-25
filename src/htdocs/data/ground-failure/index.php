@@ -6,7 +6,7 @@
     $NAVIGATION = true;
     $HEAD = '
       <link rel="stylesheet" href="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.css"/>
-      <link rel="stylesheet" href="index.css"/>"
+      <link rel="stylesheet" href="index.css"/>
     ';
     $FOOT = '
       <script src="/lib/earthquake-list-widget-0.1.2/earthquake-list-widget.js"></script>
@@ -19,7 +19,7 @@
   Earthquake-triggered landslides and liquefaction, collectively referred to as ground failure, can be a significant contributor to earthquake losses. The USGS Ground Failure (GF) earthquake product provides near-real-time spatial estimates of earthquake-triggered landslide and liquefaction hazard following significant earthquakes worldwide.
 </p>
 
-<div class="row right-to-left" >
+<div class="row right-to-left">
 
   <div class="column two-of-five">
       <h3>Ground Failure, Past 7 Days</h3>
