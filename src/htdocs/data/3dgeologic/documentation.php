@@ -117,7 +117,7 @@ The velocity model is stored in <a href="http://www-2.cs.cmu.edu/~euclid/">Etree
 <h3>Documentation</h3>
 
 <ul>
-  <li><a href="https://github.com/baagaard-usgs/cencalvm">Query software</a></li>
+  <li><a href="https://github.com/usgs/earthquake-cencalvm">Query software</a></li>
   <li>Version <a href="velocitymodel_history.php">history</a></li>
 </li>
 
