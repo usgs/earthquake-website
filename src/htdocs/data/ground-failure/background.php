@@ -28,7 +28,7 @@ if (!isset($TEMPLATE)) {
 
 <h3>Triggering</h3>
 <p>
-  The GF product is generally triggered when a USGS ShakeMap is created for earthquakes greater than M4 within the United States and greater than M5.5 worldwide. It can also be triggered manually. The triggering is the same as that used to trigger the USGS <a href="/data/pager/">PAGER</a> product. Results are always shown if it is run, even for events for which little to no ground failure is estimated.
+  The GF product is generally triggered when a USGS ShakeMap is created for earthquakes greater than M5 within the United States and greater than M6 worldwide. It can also be triggered manually. Results are always shown if it is run, even for events for which little to no ground failure is estimated. However, a pending status may sometimes be reported for significant events undergoing manual ShakeMap review. This means no GF alert levels will be reported until that review is done. Although the maps will still be available, the preliminary nature of the shaking inputs should be considered when interpreting the ground failure results.
 </p>
 
 <h3>Product Card</h3>
@@ -91,7 +91,8 @@ if (!isset($TEMPLATE)) {
 
 <h4>F, G) Interactive Map</h4>
 <p>
-  Selecting the &ldquo;View Landslide Map&CloseCurlyDoubleQuote; button takes the user to the interactive map with the preferred landslide model shown by default. The same applies to the “View Liquefaction Map” button. The interactive map includes numerous alternative basemap layers and earthquake layers that can be superimposed on the landslide or liquefaction hazard maps (Figure 4). The colorbars for both landslides and liquefaction (Figure 5) show the areal coverage probability type (see <a href="#interp-maps">Interpretation of Maps</a>) using logarithmic bins to better visualize the range of typical values. The colorbar saturates at 0.2, which for areal coverage, equates to severe ground failure. Neither model reaches values much higher than 0.2 for areal coverage.
+  Selecting the &ldquo;View Landslide Map&CloseCurlyDoubleQuote; button takes the user to the interactive map with the preferred landslide model shown by default. The same applies to the “View Liquefaction Map” button. The interactive map includes numerous alternative basemap layers and earthquake layers that can be superimposed on the landslide or liquefaction hazard maps (Figure 4). The colorbars for both landslides and liquefaction (Figure 5) show the areal coverage probability type (see <a href="#interp-maps">Interpretation of Maps</a>) using logarithmic bins to better visualize the range of typical values. The colorbar saturates at 0.2, which for areal coverage, equates to severe ground failure. Neither model reaches values much higher than 0.2 for areal coverage. Probabilities are never exactly zero for logistic models, but we mask areas with insignificant probabilities on the interactive maps, as indicated by the lower bound of the color bars (Figure 5).
+
 </p>
 
 <figure>
@@ -101,9 +102,11 @@ if (!isset($TEMPLATE)) {
    </figcaption>
 </figure>
 <figure>
-  <img src="images/fig5.gif" alt=""/>
+  <img src="images/fig5-legend-liq.gif" alt=""/>
+  <img src="images/fig5-legend-ls.gif" alt=""/>
+
    <figcaption>
-     <strong>Figure 5.</strong> Colorbars used for each map type for all events. Note that the bin edges are approximately logarithmically spaced and that the colorbar is the same for both ground failure types. The term probability here refers to the proportion of the area, see <a href="#interp-maps">Interpretation of Maps</a> for details.
+     <strong>Figure 5.</strong> Colorbars used for each map type for all events. Note that the bin edges are approximately logarithmically spaced and that the colorbar is the same for both ground failure types with the exception of the lowest bin division (masking limit). The term probability here refers to the proportion of the area, see <a href="#interp-maps">Interpretation of Maps</a> for details.
    </figcaption>
 </figure>
 
@@ -138,7 +141,7 @@ if (!isset($TEMPLATE)) {
 
 <h3 id='pref-ls-model'>Preferred Landslide Model</h3>
 <p>
-  Nowicki Jessee and others (2018) is the preferred model for earthquake-triggered landslide hazard. Our primary landslide model is the empirical model of Nowicki Jessee and others (2018). The model was developed by relating 23 inventories of landslides triggered by past earthquakes with different combinations of predictor variables (summarized below) using logistic regression. The output resolution is ~250 m. The model inputs are described below. More details about the model can be found in the <a href="#refs">original publication</a>. To exclude areas of insignificantly small probabilities in the computation of aggregate statistics for this model, we use a probability threshold of 0.002.
+  Nowicki Jessee and others (2018) is the preferred model for earthquake-triggered landslide hazard. Our primary landslide model is the empirical model of Nowicki Jessee and others (2018). The model was developed by relating 23 inventories of landslides triggered by past earthquakes with different combinations of predictor variables (summarized below) using logistic regression. The output resolution is ~250 m. The model inputs are described below. More details about the model can be found in the <a href="#refs">original publication</a>. We modify the published model by excluding areas with slopes &lt;5&deg; and changing the coefficient for the lithology layer "unconsolidated sediments" from -3.22 to -1.36, the coefficient for "mixed sedimentary rocks" to better reflect that this unit is expected to be weak (more negative coefficient indicates stronger rock).To exclude areas of insignificantly small probabilities in the computation of aggregate statistics for this model, we use a probability threshold of 0.002.
 </p>
 
 <h4>Table 1: Summary of Nowicki Jessee and others (2018) model inputs</h4>
@@ -181,7 +184,7 @@ if (!isset($TEMPLATE)) {
 
 <h3 id='pref-liq-model'>Preferred Liquefaction Model</h3>
 <p>
-  Zhu and others (2017) is the preferred model for liquefaction hazard. The model was developed by relating 27 inventories of liquefaction triggered by past earthquakes to globally-available geospatial proxies (summarized below) using logistic regression. We have implemented the global version of the model and have added additional modifications proposed by Baise and Rashidian (2017), including a peak ground acceleration (PGA) threshold of 0.1 g and linear interpolation of the input layers. We linearly interpolate the original input layers of ~1 km resolution to 500 m resolution. The model inputs are described below. More details about the model can be found in the  <a href="https://doi.org/10.1785/0120160198">original publication</a>.
+  Zhu and others (2017) is the preferred model for liquefaction hazard. The model was developed by relating 27 inventories of liquefaction triggered by past earthquakes to globally-available geospatial proxies (summarized below) using logistic regression. We have implemented the global version of the model and have added additional modifications proposed by Baise and Rashidian (2017),  including a peak ground acceleration (PGA) threshold of 0.1 g and linear interpolation of the input layers. We also exclude areas with slopes &gt;5&deg;. We linearly interpolate the original input layers of ~1 km resolution to 500 m resolution. The model inputs are described below. More details about the model can be found in the  <a href="https://doi.org/10.1785/0120160198">original publication</a>.
 </p>
 
 <h4>Table 2: Summary of Zhu and others (2017) model inputs</h4>
@@ -358,7 +361,7 @@ if (!isset($TEMPLATE)) {
       <td>Green</td>
       <td>&lt; 1 km<sup>2</sup></td>
       <td>
-        Little to no landslides are expected, but could still have occurred in highly susceptible areas.
+        Little or no landsliding is expected, but some landslides could have occurred in highly susceptible areas.
       </td>
       <td>&lt; 100</td>
       <td>
@@ -373,7 +376,7 @@ if (!isset($TEMPLATE)) {
       </td>
       <td>100 - 1,000</td>
       <td>
-        The number of people living near areas prone to landslides triggered by this earthquake is limited.
+        The number of people living near areas that could have produced landslides in this earthquake is limited. This is not a direct estimate of landslide fatalities or losses.
       </td>
     </tr>
     <tr>
@@ -384,7 +387,7 @@ if (!isset($TEMPLATE)) {
       </td>
       <td>1,000 - 10,000</td>
       <td>
-        The number of people living near areas prone to landslides triggered by this earthquake is significant.
+        The number of people living near areas that could have produced landslides in this earthquake is significant. This is not a direct estimate of landslide fatalities or losses.
       </td>
     </tr>
     <tr>
@@ -395,7 +398,7 @@ if (!isset($TEMPLATE)) {
       </td>
       <td>&gt; 10,000</td>
       <td>
-        The number of people living near areas prone to landslides triggered by this earthquake is extensive.
+        The number of people living near areas that could have produced landslides in this earthquake is extensive. This is not a direct estimate of landslide fatalities or losses.
       </td>
     </tr>
 
@@ -404,44 +407,44 @@ if (!isset($TEMPLATE)) {
       <td>Green</td>
       <td>&lt; 10 km<sup>2</sup></td>
       <td>
-        Little to no liquefaction is expected, but could still have occurred in highly susceptible areas.
+        Little or no liquefaction is expected, but some liquefaction could have occurred in highly susceptible areas.
       </td>
       <td>&lt; 100o</td>
       <td>
-        The number of people living near areas prone to liquefaction triggered by this earthquake is low, but liquefaction damage or fatalities are still possible in highly susceptible areas.
+        The number of people living near areas that could have produced liquefaction in this earthquake is low, but liquefaction damage or fatalities are still possible in highly susceptible areas. This is not a direct estimate of liquefaction fatalities or losses.
       </td>
     </tr>
     <tr>
       <td>Yellow</td>
       <td>10 - 100 km<sup>2</sup></td>
       <td>
-        Liquefaction triggered by this earthquake is estimated to be limited in number and (or) spatial extent.
+        Liquefaction triggered by this earthquake is estimated to be limited in severity and (or) spatial extent.
       </td>
       <td>1,000 - 10,000</td>
       <td>
-        The number of people living near areas prone to liquefaction triggered by this earthquake is limited.
+        The number of people living near areas that could have produced liquefaction in this earthquake is limited. This is not a direct estimate of liquefaction fatalities or losses.
       </td>
     </tr>
     <tr>
       <td>Orange</td>
       <td>100 - 1,000 km<sup>2</sup></td>
       <td>
-        Liquefaction triggered by this earthquake is estimated to be significant in number and (or) spatial extent.
+        Liquefaction triggered by this earthquake is estimated to be significant in severity and (or) spatial extent.
       </td>
       <td>10,000 - 100,000</td>
       <td>
-        The number of people living near areas prone to liquefaction triggered by this earthquake is significant.
+        The number of people living near areas that could have produced liquefaction in this earthquake is significant. This is not a direct estimate of liquefaction fatalities or losses.
       </td>
     </tr>
     <tr>
       <td>Red</td>
       <td>&gt; 1,000 km<sup>2</sup></td>
       <td>
-        Liquefaction triggered by this earthquake is estimated to be extremely large in number and (or) spatially extensive.
+        Liquefaction triggered by this earthquake is estimated to be extensive in severity and (or) spatial extent.
       </td>
       <td>&gt; 100,000</td>
       <td>
-        The number of people living near areas prone to liquefaction triggered by this earthquake is extensive.
+        The number of people living near areas that could have produced liquefaction in this earthquake is extensive. This is not a direct estimate of liquefaction fatalities or losses.
       </td>
     </tr>
 
