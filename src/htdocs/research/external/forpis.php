@@ -73,8 +73,10 @@ if (!isset($TEMPLATE)) {
   <li>Title of award (For Collaborative projects the title should be in the form &ldquo;Title Collaborative Research with First Institution name, and Second Institution name. etc.)</li>
   <li>Author(s) and Affiliation(s) with Address and zip code. Author&rsquo;s telephone numbers, fax numbers and E-mail address.</li>
   <li>Term covered by the award (start and end dates)</li>
+  <li>Acknowledgement of Support and Disclaimer</li>
   <li>Abstract</li>
   <li>Report: the main body of the report and all illustrations and figures shall be single-spaced on 8 &frac12;&quot; x 11&quot; paper.</li>
+  <li>Project data: Describe how the data will be made publicly available</li>
   <li>Bibliography of all publications resulting from the work performed under the award. One copy of each publication is required if the Recipient has not previously submitted them to the USGS.</li>
 </ul>
 
