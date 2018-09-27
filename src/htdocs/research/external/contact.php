@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Jill Franks, jfranks@usgs.gov
-// Last modified: Lisa Wald, 2016/08/22
 if (!isset($TEMPLATE)) {
   $TITLE = 'External Grants';
   $NAVIGATION = true;
@@ -177,15 +176,25 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     <strong>Northern California Regional Coordinator</strong><br />
-    Dr. Jack Boatwright<br />
+    Dr. Keith Knudsen (acting)<br />
     US Geological Survey<br />
     345 Middlefield Road, MS977<br />
     Menlo Park, CA 94025<br />
     <br />
-    Phone 650-329-5609<br />
-    Fax 650-329-5163<br />
-    Email <a href="mailto:boat@usgs.gov">Jack Boatwright</a><br />
+    Phone 650-329-5154<br />
+    Fax 650-329-5617<br />
+    Email <a href="mailto:kknudsen@usgs.gov">Keith Knudsen</a><br />
     <br />
+  </li>
+  <li>
+    <strong>ShakeAlert Chief Scientist </strong>
+    Dr. Jeffrey McGuire<br />
+    US Geological Survey<br />
+    345 Middlefield Rd., MS 977<br />
+    Menlo Park, CA 94025<br />
+    <br />
+    Phone 650-329-5153<br />
+    Email <a href="mailto:jmcguire@usgs.gov">Jeff McGuire</a>
   </li>
   <li>
     <strong>Pacific Northwest Regional Co-Coordinators</strong><br />
