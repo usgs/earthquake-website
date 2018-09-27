@@ -26,7 +26,7 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     <strong>Contracting Officer, Office of Acquisition &amp; Grants</strong><br/>
-    Ms. Maggie Eastman <br />
+    Ms. Margaret Eastman <br />
     US Geological Survey<br />
     205 National Center<br />
     12201 Sunrise Valley Drive<br />
@@ -34,7 +34,7 @@ if (!isset($TEMPLATE)) {
     <br />
     Phone 703-648-7366<br />
     Fax 703-648-7901<br />
-    Email <a href="mailto:mrussell@usgs.gov">Maggie Eastman</a><br />
+    Email <a href="mailto:mrussell@usgs.gov">Margaret Eastman</a><br />
     <br />
   </li>
   <li>
@@ -73,6 +73,18 @@ if (!isset($TEMPLATE)) {
     Email <a href="mailto:doug@usgs.gov">Doug Given</a><br />
     <br />
   </li>
+  <li>
+    <strong>ShakeAlert Chief Scientist</strong><br />
+    Dr. Jeffrey McGuire<br />
+    US Geological Survey<br />
+    345 Middlefield Rd., MS 977<br />
+    Menlo Park, CA 94025<br />
+    <br />
+    Phone 650-329-5153<br />
+    Email <a href="mailto:jmcguire@usgs.gov">Jeff McGuire</a><br />
+    <br />
+  </li>
+
   <li>
     <strong>Geodesy Coordinator</strong><br />
     Dr. Benjamin Brooks<br />
@@ -185,16 +197,6 @@ if (!isset($TEMPLATE)) {
     Fax 650-329-5617<br />
     Email <a href="mailto:kknudsen@usgs.gov">Keith Knudsen</a><br />
     <br />
-  </li>
-  <li>
-    <strong>ShakeAlert Chief Scientist </strong>
-    Dr. Jeffrey McGuire<br />
-    US Geological Survey<br />
-    345 Middlefield Rd., MS 977<br />
-    Menlo Park, CA 94025<br />
-    <br />
-    Phone 650-329-5153<br />
-    Email <a href="mailto:jmcguire@usgs.gov">Jeff McGuire</a>
   </li>
   <li>
     <strong>Pacific Northwest Regional Co-Coordinators</strong><br />
