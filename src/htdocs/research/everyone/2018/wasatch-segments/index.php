@@ -9,13 +9,11 @@
   }
 ?>
 
-<!--
 <p>
-  <a href="wasatch-segments.pdf">
+  <a href="wasatch-sequencing.pdf">
     <i class="material-icons">save_alt</i> Download PDF
   </a>
 </p>
--->
 
 <figure>
   <img src="images/Bennett_Fig4a.jpg" alt=""/>
