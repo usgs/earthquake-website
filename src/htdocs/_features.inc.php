@@ -22,6 +22,16 @@ $EQ_FEATURES->items[] = array(
 );
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-10-12',
+  'title' => 'National Earthquake Information Center (NEIC) Leads Meeting on the Future of Earthquake Research and Monitoring',
+  'content' => 'During the week of 9/24, the USGS National Earthquake Information Center (NEIC) led a USGS Powell Center meeting on the future of earthquake research and monitoring.',
+  'link' => 'https://www.usgs.gov/center-news/national-earthquake-information-center-neic-leads-meeting-future-earthquake-research-and',
+  'modified' => strtotime('2018-10-12'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/neic-powellcenter.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/neic-powellcenter.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-09-19',
   'title' => 'Science for a Risky World',
   'content' => 'USGS explores opportunities to advance its capabilities in risk assessment, mitigation, and communication in new strategic plan.',
