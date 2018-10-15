@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-09-19 15:05:04 +0000
+# Generation Time: 2018-10-15 16:15:30 +0000
 # ************************************************************
 
 
@@ -1391,7 +1391,8 @@ VALUES
 	(505,9),
 	(506,9),
 	(273,9),
-	(507,9);
+	(507,9),
+	(508,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1994,7 +1995,10 @@ VALUES
 	(505,13),
 	(506,13),
 	(273,13),
-	(507,13);
+	(507,13),
+	(508,11),
+	(508,13),
+	(508,10);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2078,6 +2082,7 @@ VALUES
 	(379,27),
 	(381,45),
 	(382,45),
+	(508,45),
 	(465,27),
 	(459,23),
 	(452,30),
@@ -2153,7 +2158,8 @@ VALUES
 	(504,45),
 	(504,32),
 	(505,25),
-	(506,45);
+	(506,45),
+	(508,26);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3006,7 +3012,8 @@ VALUES
 	(506,30),
 	(506,85),
 	(386,82),
-	(507,25);
+	(507,25),
+	(508,32);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3272,7 +3279,8 @@ VALUES
 	(504,'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes','USGS','/research/everyone/dcshake/','Science for Everyone article'),
 	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article'),
 	(506,'A Possible Cause of Earthquakes in the Continental Interior','USGS','/research/everyone/2018/us-stress/','Plain-language summary of a 2018 research paper.'),
-	(507,'Emergency Preparedness in Schools','Community for Accredited Online Schools','https://www.accreditedschoolsonline.org/resources/emergency-preparedness-in-school/','General information about disaster preparedness for schools with links to resources.');
+	(507,'Emergency Preparedness in Schools','Community for Accredited Online Schools','https://www.accreditedschoolsonline.org/resources/emergency-preparedness-in-school/','General information about disaster preparedness for schools with links to resources.'),
+	(508,'New Methods for Dating and Sequencing Ancient Earthquakes','USGS','https://earthquake.usgs.gov/research/everyone/2018/wasatch-sequencing/','A plain-language summary of new paleoseismology methods for studying and dating past earthquakes from trench data.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
