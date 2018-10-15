@@ -18,7 +18,7 @@
 
 <ul class="no-style linklist">
   <li>
-    <a href="https://pubs.usgs.gov/fs/2008/3019/">
+    <a href="https://pubs.er.usgs.gov/publication/fs20183052">
       <h3>The Hayward Fault&mdash;Is It Due for a Repeat of the Powerful 1868 Earthquake?</h3>
       <img src="images/factsheet.jpg" alt="The Hayward Fault&mdash;Is It Due for a Repeat of the Powerful 1868 Earthquake?"/>
     </a>
