@@ -13,7 +13,7 @@ $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
   'id' => '2018-10-12',
-  'title' => 'New Methods for Dating and Sequencing Ancient Earthquakes',
+  'title' => 'New Methods for Dating and Sequencing Ancient Earthquakes Along the Wasatch Fault Zone',
   'content' => 'Complex geologic sites, like those between the fault segments along the Wasatch fault zone in Utah, make the dating and ordering past earthquakes a difficult task. Two new methods were used to make this task easier and to get better results.',
   'link' => 'https://earthquake.usgs.gov/research/everyone/2018/wasatch-sequencing/',
   'modified' => strtotime('2018-10-12'),
