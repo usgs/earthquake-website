@@ -11,6 +11,17 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-10-17',
+  'title' => 'The Great ShakeOut!--2018 Edition',
+  'content' => 'Do you know what to do the moment the ground starts shaking?',
+  'link' => 'https://www.usgs.gov/news/great-shakeout-2018-edition',
+  'modified' => strtotime('2018-10-17'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/ShakeOut_Global_GetReady_300x250.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/ShakeOut_Global_GetReady_300x250.png'
+);
+
 $EQ_FEATURES->items[] = array(
   'id' => '2018-10-12',
   'title' => 'New Methods for Dating and Sequencing Ancient Earthquakes Along the Wasatch Fault Zone',
