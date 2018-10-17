@@ -18,8 +18,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'Do you know what to do the moment the ground starts shaking?',
   'link' => 'https://www.usgs.gov/news/great-shakeout-2018-edition',
   'modified' => strtotime('2018-10-17'),
-  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/ShakeOut_Global_GetReady_300x250.png',
-  'image' => 'https://earthquake.usgs.gov/images-featured/ShakeOut_Global_GetReady_300x250.png'
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/shakeout-2018.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/shakeout-2018.png'
 );
 
 $EQ_FEATURES->items[] = array(
