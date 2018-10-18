@@ -11,6 +11,15 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-10-18',
+  'title' => 'The Hayward Fault—Is It Due for a Repeat of the Powerful 1868 Earthquake?',
+  'content' => 'USGS studies show that similar Hayward Fault quakes have repeatedly jolted the region in the past and that the fault may be ready to produce another magnitude 6.8 to 7.0 earthquake.',
+  'link' => 'https://www.usgs.gov/news/hayward-fault-it-due-a-repeat-powerful-1868-earthquake',
+  'modified' => strtotime('2018-10-18'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/fault-map-1868.gif',
+  'image' => 'https://earthquake.usgs.gov/images-featured/fault-map-1868.gif'
+);
 
 $EQ_FEATURES->items[] = array(
   'id' => '2018-10-17',
