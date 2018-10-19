@@ -100,6 +100,18 @@
   </li>
 
   <li>
+    <a href="https://pubs.er.usgs.gov/publication/ofr20181168">
+      <h3>Almost $80 Billion Invested in Earthquake Mitigation in Bay Area Since
+        1989 Loma Prieta Quake</h3>
+      <img src="images/ofr2018-1168.jpg" alt="Report cover">
+    </a>
+    <p>This report is a compilation of structural retrofits and replacements of
+      older buildings and infrastructure in the San Francisco Bay Area that
+      have either been completed since 1989 or that are in progress as of
+      October 2018.</p>
+  </li>
+
+  <li>
     <a href="https://wim.usgs.gov/geonarrative/safrr/WTE_earthquake/">
       <h3>What to Expect in a Big Urban Earthquake</h3>
       <img src="images/what-to-expect.jpg" alt="screen capture of web page"/>
