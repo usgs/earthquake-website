@@ -33,49 +33,49 @@
 					<td>Ground Motion</td>
 					<td>0.2 Second (5Hz)</td>
 					<td>10% in 50 Years</td>
-					<td>[ <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p2s_10p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p2s_10p50.bin" title="1 Mb">BINARY</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p2s_10p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p2s_10p50.bin" title="1 Mb">BINARY</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>0.3 Second (3.33Hz)</td>
 					<td>10% in 50 Years</td>
-					<td>[ <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p3s_10p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p3s_10p50.bin" title="1 Mb">BINARY</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p3s_10p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p3s_10p50.bin" title="1 Mb">BINARY</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>1.0 Second (1Hz)</td>
 					<td>10% in 50 Years</td>
-					<td>[ <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_1p0s_10p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_1p0s_10p50.bin" title="1 Mb">BINARY</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/data/ak_gm_1p0s_10p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/ak_gm_1p0s_10p50.bin" title="1 Mb">BINARY</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>Peak Ground Acceleration</td>
 					<td>10% in 50 Years</td>
-					<td>[ <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p0s_10p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p0s_10p50.bin" title="1 Mb">BINARY</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p0s_10p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p0s_10p50.bin" title="1 Mb">BINARY</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>0.2 Second (5Hz)</td>
 					<td>2% in 50 Years</td>
-					<td>[ <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p2s_2p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p2s_2p50.bin" title="1 Mb">BINARY</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p2s_2p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p2s_2p50.bin" title="1 Mb">BINARY</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>0.3 Second (3.33Hz)</td>
 					<td>2% in 50 Years</td>
-					<td>[ <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p3s_2p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p3s_2p50.bin" title="1 Mb">BINARY</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p3s_2p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p3s_2p50.bin" title="1 Mb">BINARY</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>1.0 Second (1Hz)</td>
 					<td>2% in 50 Years</td>
-					<td>[ <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_1p0s_2p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_1p0s_2p50.bin" title="1 Mb">BINARY</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/data/ak_gm_1p0s_2p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/ak_gm_1p0s_2p50.bin" title="1 Mb">BINARY</a> ]</td>
 				</tr>
 				<tr>
 					<td>Ground Motion</td>
 					<td>Peak Ground Acceleration</td>
 					<td>2% in 50 Years</td>
-					<td>[ <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p0s_2p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/index.phpak_gm_0p0s_2p50.bin" title="1 Mb">BINARY</a> ]</td>
+					<td>[ <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p0s_2p50.txt" title="7 Mb">TEXT</a> | <a href="/static/lfs/nshm/ak/1999/data/ak_gm_0p0s_2p50.bin" title="1 Mb">BINARY</a> ]</td>
 				</tr>
 			</tbody>
 		</tbody>
