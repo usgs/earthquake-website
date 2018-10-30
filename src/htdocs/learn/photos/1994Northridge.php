@@ -402,4 +402,8 @@ if  (!isset($TEMPLATE))  {
     <a href="https://www.usgs.gov/media/images/northridge-ca-earthquake-damage">Northridge, CA Earthquake Damage
     </a>
   </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/damage-1994-northridge-ca-earthquake">Damage from the 1994 Northridge, CA earthquake
+    </a>
+  </li>
 </ul>
