@@ -4,6 +4,7 @@
 if  (!isset($TEMPLATE))  {
   $TITLE  =  'Earthquake Photo Collections';
   $NAVIGATION  = true;
+  $HEAD = '<link rel="stylesheet" href="index.css"/>';
   include  'template.inc.php';
 }
 ?>
@@ -12,125 +13,100 @@ if  (!isset($TEMPLATE))  {
   The USGS Earthquake Photos in the Multimedia Gallery have been moved into a new database, and all the URLs changed. We'll restore all the links to the earthquake photos as soon as we can determine all the new URLs.
 </p>
 
-<!-- These links are all broken.
 <div class="row">
   <div class="column three-of-five">
     <h2>Specific Earthquakes</h2>
     <ul class="no-style linklist">
       <li>
         <a>
-          <h4><font color="black">1906 San Francisco</font></h4>
-          <img src="images/1906SanFran.jpg" alt="1906 san fran earthquake"/>
+          <img class="thumb" src="images/1906SanFrancisco.gif" alt="1906 san fran earthquake"/>
+          <a href="1906sanfrancisco.php">1906 San Francisco</a>
         </a>
         <p>
-          <a href="/regional/nca/1906/18april/photos.php">US Geological Survey</a><br />
           <a href="http://www.sfmuseum.org/">San Francisco Museum</a>
         </p>
       </li>
       <li>
         <a>
-          <h4><font color="black">1933 Long Beach</font></h4>
-          <img src="images/1933LongBeach.jpg" alt="1933 long beach earthquake"/>
+          <img class="thumb"src="images/1933LongBeach.jpg" alt="1933 long beach earthquake"/>
+          <a href="1933longbeach.php">1933 Long Beach</a>
+        </a>
+      </li>
+      <li>
+        <a>
+          <img class="thumb"src="images/1989LomaPrieta.jpg" alt="1989 loma prieta earthquake"/>
+          <a href="1989LomaPrieta.php">1989 Loma Prieta</a>
+        </a>
+      </li>
+      <li>
+        <a>
+          <img class="thumb"src="images/1994NorthridgeCA.jpg" alt="1994 northridge earthquake"/>
+            <a href="1994Northridge.php">1994 Northridge</a>
         </a>
         <p>
-          <a href="http://gallery.usgs.gov/sets/1933_Long_Beach_Earthquake">U.S. Geological Survey</a>
+          <a href="http://www.data.scec.org/significant/northridge1994.html">Southern California Earthquake Data Center</a>
         </p>
       </li>
       <li>
         <a>
-          <h4><font color="black">1989 Loma Prieta</font></h4>
-          <img src="images/1989LomaPrieta.jpg" alt="1989 loma prieta earthquake"/>
+          <img class="thumb"src="images/1999HectorMine.jpg" alt="1999 hector mine earthquake"/>
+          <a href="1999hectormine.php">1999 Hector Mine</a>
+        </a>
+      </li>
+      <li>
+        <a>
+          <img class="thumb"src="images/1999Izmitturkey.jpg" alt="1999 izmit earthquake"/>
+        </a>
+        <a href="1999izmitturkey.php">1999 Izmit Turkey</a>
+      </li>
+      <li>
+        <a>
+          <img class="thumb"src="images/2002Denalifault.jpg" alt="2002 denali earthquake"/>
+          <a href="2002denali.php">2002 Denali</a>
         </a>
         <p>
-          <a href="http://gallery.usgs.gov/sets/1989_Loma_Prieta,_California_Earthquake">U.S. Geological Survey</a>
+          <br />
+            <a href="http://www.dggs.alaska.gov/?menu_link=engineering&link=denali_fault">Alaska Division of Geological &amp; Geophysical Surveys</a><br />
+            <a href="http://www.aeic.alaska.edu/Denali_Fault_2002/#Photos">AK Earthquake Information Center &amp; Univ. of Alaska</a>
         </p>
       </li>
       <li>
         <a>
-          <h4><font color="black">1994 Northridge</font></h4>
-          <img src="images/1994Northridge.gif" alt="1994 northridge earthquake"/>
+          <img class="thumb"src="images/2008Sichuanchina.jpeg" alt="2008 sichuan earthquake"/>
+          <a href="2008SichuanChina.php">2008 Sichuan China</a>
         </a>
-        <p>
-          <a href="http://gallery.usgs.gov/sets/1994_Northridge_CA_Earthquake">US Geological Survey</a><br /><a href="http://www.data.scec.org/significant/northridge1994.html">Southern California Earthquake Data Center</a>
-        </p>
       </li>
       <li>
         <a>
-          <h4><font color="black">1999 Hector Mine</font></h4>
-          <img src="images/1999HectorMine.jpg" alt="1999 hector mine earthquake"/>
+          <img class="thumb"src="images/2010Haiti.jpeg" alt="2010 haiti earthquake"/>
+          <a href="2010Haiti.php">2010 Haiti</a>
         </a>
-        <p>
-          <a href="http://gallery.usgs.gov/sets/1999_Hector_Mine_Earthquake">USGS Gallery</a>
-        </p>
       </li>
       <li>
         <a>
-          <h4><font color="black">1999 Izmit Turkey</font></h4>
-          <img src="images/1999Izmit.jpg" alt="1999 izmit earthquake"/>
+          <img class="thumb"src="images/2011Virginia.jpeg" alt="2011 virginia earthquake"/>
+          <a href="2011Virginia.php">2011 Virginia</a>
         </a>
-        <p>
-          <a href="http://gallery.usgs.gov/sets/1999_Izmit,_Turkey_Earthquake">USGS Gallery</a>
-        </p>
       </li>
       <li>
         <a>
-          <h4><font color="black">2002 Denali</font></h4>
-          <img src="images/2002Denali.jpg" alt="2002 denali earthquake"/>
+          <img class="thumb"src="images/2013Lushanchina.jpg" alt="2013 lushan earthquake"/>
+          <a href="2013LushanChina.php">2013 Lushan China</a>
         </a>
-        <p>
-          <a href="http://gallery.usgs.gov/sets/2002_Denali_Fault_Earthquake">USGS Gallery</a><br />
-          <a href="http://www.dggs.alaska.gov/?menu_link=engineering&link=denali_fault">Alaska Division of Geological &amp; Geophysical Surveys</a><br />
-          <a href="http://www.aeic.alaska.edu/Denali_Fault_2002/#Photos">AK Earthquake Information Center &amp; Univ. of Alaska</a>
-        </p>
       </li>
       <li>
         <a>
-          <h4><font color="black">2008 Sichuan China</font></h4>
-          <img src="images/2008Sichuan.jpg" alt="2008 sichuan earthquake"/>
+          <img class="thumb"src="images/2014SouthNapa.jpeg" alt="2014 napa earthquake"/>
+          <a href="2014SouthNapa.php">2014 South Napa</a>
         </a>
-        <p>
-          <a href="http://gallery.usgs.gov/sets/2008_Sichuan_China_Earthquake">USGS Gallery</a>
-        </p>
       </li>
       <li>
         <a>
-          <h4><font color="black">2010 Haiti</font></h4>
-          <img src="images/2010Haiti.jpg" alt="2010 haiti earthquake"/>
+          <img class="thumb"src="images/2016NewZealand.jpg" alt="2014 napa earthquake"/>
+          <a href="2016newzealand.php">2016 New Zealand</a>
         </a>
-        <p>
-          <a href="http://gallery.usgs.gov/sets/2010_Haiti_Earthquake">USGS Gallery</a>
-        </p>
-      </li>
-      <li>
-        <a>
-          <h4><font color="black">2011 Virginia</font></h4>
-          <img src="images/2011Virginia.jpg" alt="2011 virginia earthquake"/>
-        </a>
-        <p>
-          <a href="http://gallery.usgs.gov/sets/2011_Virginia_Earthquake">USGS Gallery</a>
-        </p>
-      </li>
-      <li>
-        <a>
-          <h4><font color="black">2013 Lushan China</font></h4>
-          <img src="images/2013Lushan.jpg" alt="2013 lushan earthquake"/>
-        </a>
-        <p>
-          <a href="http://gallery.usgs.gov/sets/2013_Lushan_China_Earthquake">USGS Gallery</a>
-        </p>
-      </li>
-      <li>
-        <a>
-          <h4><font color="black">2014 South Napa</font></h4>
-          <img src="images/2014Napa.jpg" alt="2014 napa earthquake"/>
-        </a>
-        <p>
-          <a href="http://gallery.usgs.gov/sets/2014_South_Napa_CA">USGS Gallery</a>
-        </p>
-      </li>
     </ul>
   </div>
--->
 
   <div class="column three-of-five">
     <h2>USGS Collections</h2>

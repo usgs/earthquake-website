@@ -120,7 +120,7 @@
       <h3>Multimedia</h3>
       <a href="photos.php"><img src="images/hectormine.jpg" alt="two people walking on top of a fault scarp"/></a>
       <ul>
-        <li><a href="photos.php">Earthquake Photos</a> - earthquake effects and damage.</li>
+        <li><a href="photos/">Earthquake Photos</a> - earthquake effects and damage.</li>
       </ul>
       <p>Educational videos and audio interviews on a variety of earthquake topics.</p>
       <ul>
