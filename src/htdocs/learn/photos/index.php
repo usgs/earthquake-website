@@ -56,7 +56,7 @@ if  (!isset($TEMPLATE))  {
       </li>
       <li>
         <a>
-          <img class="thumb"src="images/2002Denalifault.jpg" alt="2002 denali earthquake"/>
+          <img class="thumb"src="images/2002DenaliFault.jpg" alt="2002 denali earthquake"/>
           <a href="2002denali.php">2002 Denali</a>
         </a>
         <p>
