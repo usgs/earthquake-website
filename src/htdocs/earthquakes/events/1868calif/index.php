@@ -121,6 +121,18 @@
   </li>
 
   <li>
+    <a href="https://www.youtube.com/watch?v=D6bmBq-mUUA&t=1623s">
+      <h3>The 150th Anniversary of the Damaging 1868 Hayward Earthquake: Why It
+        Matters and How We Can Prepare for Its Repeat</h3>
+      <img src="images/brocher.jpg" alt="screen capture of Tom Brocher's lecture"/>
+    </a>
+    <p>
+      Watch Tom Brocher, USGS Research Geophysicist, deliver the USGS Evening Public
+      Lecture. This talk was recorded on September 27, 2018.
+    </p>
+  </li>
+
+  <li>
     <a href="http://mynspr.org/post/blue-dot-93-hayward-fault">
       <h3>Blue Dot Podcast: The Hayward Fault</h3>
       <img src="images/bluedot.png" alt="Blue Dot Podcast logo"/>
