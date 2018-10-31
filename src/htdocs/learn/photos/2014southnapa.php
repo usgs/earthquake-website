@@ -55,4 +55,8 @@ if  (!isset($TEMPLATE))  {
     <a href="https://www.usgs.gov/media/images/rock-riffle-and-water-flow-sonoma-creek">Rock Riffle and Water Flow in Sonoma Creek
     </a>
   </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/damage-south-napa-earthquake">Damage from South Napa Earthquake
+    </a>
+  </li>
 </ul>

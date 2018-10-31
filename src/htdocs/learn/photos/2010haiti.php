@@ -127,4 +127,28 @@ if  (!isset($TEMPLATE))  {
     <a href="https://www.usgs.gov/media/images/coastal-landslide-caused-2010-haiti-earthquake">Coastal Landslide Caused by the 2010 Haiti Earthquake
     </a>
   </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/lateral-spread-caused-haiti-earthquake">Lateral Spread Caused by the Haiti Earthquake
+    </a>
+  </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/landslide-dam-due-haiti-earthquake-triggered-landslides">Landslide Dam Due to the Haiti Earthquake-triggered Landslides
+    </a>
+  </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/landslides-limestone">Landslides in Limestone
+    </a>
+  </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/landslides-limestone-haiti">Landslides in Limestone, Haiti
+    </a>
+  </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/lakes-formed-landslide-dams-due-haiti-earthquake">Lakes Formed by Landslide Dams, Due to the Haiti Earthquake
+    </a>
+  </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/haiti-earthquake-epicenter">Haiti Earthquake Epicenter
+    </a>
+  </li>
 </ul>

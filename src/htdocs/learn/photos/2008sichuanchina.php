@@ -503,4 +503,12 @@ if  (!isset($TEMPLATE))  {
     <a href="https://www.usgs.gov/media/images/damaged-staircase">Damaged Staircase
     </a>
   </li>
+  <li>
+    <a href="https://www.usgs.gov/media/videos/wenchuan-sichuan-china-earthquake-filmed-yingying-huang">Wenchuan (Sichuan) China Earthquake filmed by Yingying Huang
+    </a>
+  </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/2008-donghekou-landslide">2008 Donghekou Landslide
+    </a>
+  </li>
 </cl>

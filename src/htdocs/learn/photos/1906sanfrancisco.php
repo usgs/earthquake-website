@@ -20,4 +20,8 @@ if  (!isset($TEMPLATE))  {
     <a href="https://www.usgs.gov/media/images/1906-san-francisco-photo">1906 San Francisco photo
     </a>
   </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/earthquake-damage-family-foreground">Earthquake damage with family in foreground
+    </a>
+  </li>
 </ul>

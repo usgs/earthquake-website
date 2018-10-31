@@ -32,7 +32,27 @@ if  (!isset($TEMPLATE))  {
     </a>
   </li>
   <li>
+    <a href="https://www.usgs.gov/media/images/denali-fault-chistochina-river-valley">Denali Fault: Chistochina River Valley
+    </a>
+  </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/denali-fault-canwellchistochina-glaciers">Denali Fault: Canwell/Chistochina Glaciers
+    </a>
+  </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/denali-fault-chistochina-glacier-0">Denali Fault: Chistochina Glacier
+    </a>
+  </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/denali-fault-chistochina-glacier">Denali Fault: Chistochina Glacier
+    </a>
+  </li>
+  <li>
     <a href="https://www.usgs.gov/media/images/denali-fault-gillette-pass-0">Denali Fault: Gillette Pass
+    </a>
+  </li>
+  <li>
+    <a href="https://www.usgs.gov/media/images/denali-fault-gillette-pass">Denali Fault: Gillette Pass
     </a>
   </li>
   <li>
@@ -56,10 +76,6 @@ if  (!isset($TEMPLATE))  {
     </a>
   </li>
   <li>
-    <a href="https://www.usgs.gov/media/images/denali-fault-canwellchistochina-glaciers">Denali Fault: Canwell/Chistochina Glaciers
-    </a>
-  </li>
-  <li>
     <a href="https://www.usgs.gov/media/images/denali-fault-susitna-glacier-2">Denali Fault: Susitna Glacier
     </a>
   </li>
@@ -73,26 +89,6 @@ if  (!isset($TEMPLATE))  {
   </li>
   <li>
     <a href="https://www.usgs.gov/media/images/denali-fault-susitna-glacier">Denali Fault: Susitna Glacier
-    </a>
-  </li>
-  <li>
-    <a href="https://www.usgs.gov/media/images/denali-fault-sustina-glacier">Denali Fault: Susitna Glacier
-    </a>
-  </li>
-  <li>
-    <a href="https://www.usgs.gov/media/images/denali-fault-chistochina-glacier-0">Denali Fault: Chistochina Glacier
-    </a>
-  </li>
-  <li>
-    <a href="https://www.usgs.gov/media/images/denali-fault-gillette-pass">Denali Fault: Chistochina Glacier
-    </a>
-  </li>
-  <li>
-    <a href="https://www.usgs.gov/media/images/denali-fault-chistochina-glacier">Denali Fault: Chistochina Glacier
-    </a>
-  </li>
-  <li>
-    <a href="https://www.usgs.gov/media/images/denali-fault-chistochina-river-valley">Denali Fault: Chistochina River Valley
     </a>
   </li>
   <li>
