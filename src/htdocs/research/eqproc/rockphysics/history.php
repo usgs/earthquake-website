@@ -31,7 +31,7 @@
   </figcaption>
 </figure>
 
-<p>As part of the Earthquake Science Center, the Rock Physics Laboratories have been world leaders in studying the physical processes that control earthquakes for more than 45 years. In the early years of the NCER program, it was recognized that basic research into the physics of earthquakes would be necessary.  By the late 1960&rsquo;s and early 1970&rsquo;s, several geophysicists had been recruited to establish research laboratories at the USGS campus in Menlo Park, California, including James Byerlee, James Dietrich, Stephen Kirby, Lou Paselnik and others. Each developed innovative laboratory apparatus and research programs to investigate different aspects of earthquake behavior.</p>
+<p>As part of the Earthquake Science Center, the Rock Physics Laboratories have been world leaders in studying the physical processes that control earthquakes for more than 45 years. In the early years of the NCER program, it was recognized that basic research into the physics of earthquakes would be necessary.  By the late 1960&rsquo;s and early 1970&rsquo;s, several geophysicists had been recruited to establish research laboratories at the USGS campus in Menlo Park, California, including James Byerlee, James Dieterich, Stephen Kirby, Lou Paselnik and others. Each developed innovative laboratory apparatus and research programs to investigate different aspects of earthquake behavior.</p>
 
 <p>James Byerlee designed and built several triaxial rock deformation machines to study brittle rock behavior at high pressure and temperatures, simulating the conditions where earthquakes are generated in the earth&rsquo;s crust.  His research focused on the strength and frictional behavior of rocks, and in particular the &ldquo;stick-slip&rdquo; phenomenon of sliding rocks surfaces, where the building up and sudden release of energy is analogous to the earthquake process. His legacy includes the well known Byerlee&rsquo;s Law, describing the coefficient of friction of most geologic materials as a function of stress.</p>
 
@@ -87,7 +87,7 @@
 </p>
 
 <p>
-  From their inception in the late 1960&rsquo;s, these laboratories have evolved as new people contribute to the study of earthquakes, including numerous students, post-doctoral researchers and visiting scientists.  Presently the laboratory started by James Byerlee contains <a href="machines.php">five triaxial machines</a> for high-temperature, high-pressure experiments, and a rotary&ndash;shear machine, on which large-displacement, high-speed experiments can be conducted.  Besides the study of earthquakes, the experimental techniques developed in this laboratory have also been applied to problems of petroleum reservoir engineering, nuclear waste disposal, and geothermal energy extraction. The lab currently includes researchers David Lockner (head), Diane Moore, Carolyn Morrow and Nick Beeler with technical expertise from Lee-Gray Boze.  The 2-meter press and double-direct shearing machine developed by James Dietrich are operated today by Brian Kilgore and Nick Beeler and continue to be used to study earthquake nucleation and rupture. Steve Kirby&rsquo;s interest in Earth materials extended to planetary ices and gas hydrates, resulting in much of the original lab being restructured for low-temperature experimental studies. The laboratory is now run by Laura Stern.
+  From their inception in the late 1960&rsquo;s, these laboratories have evolved as new people contribute to the study of earthquakes, including numerous students, post-doctoral researchers and visiting scientists.  Presently the laboratory started by James Byerlee contains <a href="machines.php">five triaxial machines</a> for high-temperature, high-pressure experiments, and a rotary&ndash;shear machine, on which large-displacement, high-speed experiments can be conducted.  Besides the study of earthquakes, the experimental techniques developed in this laboratory have also been applied to problems of petroleum reservoir engineering, nuclear waste disposal, and geothermal energy extraction. The lab currently includes researchers David Lockner (head), Diane Moore, Carolyn Morrow and Nick Beeler.  The 2-meter press and double-direct shearing machine developed by James Dieterich are operated today by Brian Kilgore and Nick Beeler and continue to be used to study earthquake nucleation and rupture. Steve Kirby&rsquo;s interest in Earth materials extended to planetary ices and gas hydrates, resulting in much of the original lab being restructured for low-temperature experimental studies. The laboratory is now run by Laura Stern.
 </p>
 
 <h2>Gas Hydrates Lab</h2>
@@ -103,8 +103,8 @@
 <h2>Current Research Staff</h2>
 
 <figure>
-  <img src="images/group.jpg" alt="photo of Diane Moore, Lee-Gray Boze, Brian Kilgore, Carolyn Morrow and David Lockner in the laboratory today"/>
+  <img src="images/group.jpg" alt="photo of Brian Kilgore, Diane Moore, Nick Beeler, Carolyn Morrow and David Lockner in the laboratory today"/>
   <figcaption>
-    Diane Moore, Lee-Gray Boze, Brian Kilgore, Carolyn Morrow and David Lockner in the laboratory today. Not shown: Nick Beeler.
+    Brian Kilgore, Diane Moore, Nick Beeler, Carolyn Morrow and David Lockner in the laboratory today. Not shown: Laura Stern.
   </figcaption>
 </figure>
