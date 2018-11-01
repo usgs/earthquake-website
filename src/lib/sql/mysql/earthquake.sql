@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-10-15 16:15:30 +0000
+# Generation Time: 2018-11-01 16:21:57 +0000
 # ************************************************************
 
 
@@ -3109,7 +3109,6 @@ VALUES
 	(137,'UPSeis Seismology Questions Answered','UPSeis, Univ. of Michigan','http%3A%2F%2Fwww.geo.mtu.edu%2FUPSeis%2F','magnitudes, research, locations, seismic waves, and all the basics explained, as well as preparedness and hazards'),
 	(452,'Creep Evidence of Active Faulting','USGS','/learn/topics/creep.php','Information about creep on faults, and specifically the Hayward fault.'),
 	(142,'Geology Central','Geology Central','http%3A%2F%2Fhomepage.smc.edu%2Frobinson_richard%2Fgeologycentral.htm','links to resources for Geology and Geophysics'),
-	(365,'Earthquake Visualizations','Carleton College/NAGT materials','http%3A%2F%2Fserc.carleton.edu%2FNAGTWorkshops%2Fgeophysics%2F','Visualizations and supporting material that can be used effectively to teach students about various geophysics topics. Visualizations include simple animations, GIS-based animated maps, paleogeographic maps and globes, as well as numerous illustrations and photos.'),
 	(144,'Virtual Earthquake Engineering','S. Illinois Univ.','http%3A%2F%2Fwww.ce.siue.edu%2Fearthquake%2F','interactive demonstration of the effects of earthquake retrofitting'),
 	(145,'Geology Animations, Interactive Exercises, and now... Songs!','Univ. of Kentucky','http%3A%2F%2Fwww.as.uky.edu%2Feducational-materials','Animations of geological processes.'),
 	(470,'Coquimbo, Chile M8.3 Educational Slides','USGS','/static/lfs/learn/Coquimbo_Eduational_Slides.pdf','Educational slides for the M8.3 Coquimbo, Chile M8.3 earthquake.'),
@@ -3225,7 +3224,6 @@ VALUES
 	(406,'Disaster Preparedness for Pets','Humane Society of the United States','http%3A%2F%2Fwww.humanesociety.org%2Fissues%2Fanimal_rescue%2Ftips%2Fpets-disaster.html','Steps and checklists to help care for pets during emergencies.'),
 	(409,'Animations Illustrating Simple Wave Propagation Concepts','SUNY Binghamton','http%3A%2F%2Fbingweb.binghamton.edu%2F%7Ejbarker%2Fanimations.html','propagation, reflection, refraction, standing waves'),
 	(410,'Downloadable Animations','UC Santa Barbara','http%3A%2F%2Femvc.geol.ucsb.edu%2F1_DownloadPage%2FDownload_Page.html','Animation clips and other geo-educational items'),
-	(411,'MARGINS Mini-Lesson Collection','MARGINS - Lamont-Doherty','http%3A%2F%2Fserc.carleton.edu%2Fmargins%2Fcollection.html','Mini-lessons, powerpoint presentations, research nuggets and more, focussed on continental margins and plate tectonics.'),
 	(475,'Shaking of Frontier Building - Anchorage, Alaska, During Mw7.1 Earthquake, January 24, 2016','USGS','https%3A%2F%2Fwww.usgs.gov%2Fmedia%2Fvideos%2Fshaking-frontier-building-anchorage-alaska-during-mw71-earthquake-january-24-2016','This video presents a visualization of shaking that was recorded in the Frontier Building in Anchorage, Alaska, during the Mw7.1 earthquake, January 24, 2016, Iniskin, Alaska.'),
 	(415,'Tsunamis','California Geological Survey','http%3A%2F%2Fwww.consrv.ca.gov%2Fcgs%2Fgeologic_hazards%2FTsunami%2FPages%2FAbout_Tsunamis.aspx','Basic science of tsunamis, preparedness, and focus on California and historical information.'),
 	(416,'Coastal and Marine Geology Program','USGS','http%3A%2F%2Fmarine.usgs.gov%2Fresearch%2Fhazards.php','Coastal geologic hazards and catastrophic events research including tsunami information.'),
