@@ -9,13 +9,11 @@
   }
 ?>
 
-<!--
 <p>
-  <a href="us-stress.pdf">
+  <a href="slab2.pdf">
     <i class="material-icons">save_alt</i> Download PDF
   </a>
 </p>
--->
 
   <figure class='right'>
   <img src="images/fig1.jpg" alt=""/>
@@ -36,10 +34,10 @@
 </figure>
 
 <p>
-  Knowledge of the geometry of subducting slabs is a critical requirement for many types of seismic analyses, and is used as input into many types of seismological analyses. A previous model of worldwide subduction zones called Slab1.0 has been heavily used by seismology researchers. Slab1.0, was ripe for updates because of new information about subduction zone structure and the need for an improved approach to the modeling procedure that would create a better picture of the most important shallowest portion of the slab. The new model, Slab2, includes more data, additional types of data, and a new approach that allowed the researchers to create a 3D picture of all known active subduction zones globally, creating a complete collection of subduction zone geometry models, built routinely and via a uniform modeling procedure. Slab2, is a world-wide picture of all active subduction zones that includes the detailed geometry of over 24 million square kilometers of subducted slabs from the near-surface to the deepest part in the earth’s upper mantle layer.
+  Knowledge of the geometry of subducting slabs is a critical requirement for many types of seismic analyses, and is used as input into many types of seismological analyses. A previous model of worldwide subduction zones called Slab1.0 has been heavily used by seismology researchers. Slab1.0 was ripe for updates because of new information about subduction zone structure and the need for an improved approach to the modeling procedure that would create a better picture of the most important shallowest portion of the slab. The new model, Slab 2.0, includes more and different types of data that constrain slab geometry, including data for subduction zones not covered in the initial release.  The new model also employs an improved modeling approach applied consistently for all subduction zones.  The result is a 3D picture of all known active subduction zones globally from the near surface to the deepest part of the Earth’s upper mantle, covering over 24 million square kilometers of the Earth.
 </p>
 <p>
-  This comprehensive analysis revealed that the deep limit of the seismogenic zone (the area where the slab is brittle and can produce earthquakes) varies from a depth of about 37 km to 54 km. The width (measured along the fault surface in the direction of subduction) varies from about 70 km (Manila slab) to 195 km (Alaska slab), with an average of about 115 km. The subsequent estimates of the seismogenic portion of the subduction zone are approximately 30% larger than the older estimates, which results in an increase in the estimated associated hazard.  Yet, some of the largest earthquakes have occurred on subduction zones with relatively narrow width, indicating that the width of the fault is not the primary influential factor in the potential earthquake size.
+  This comprehensive analysis revealed that the down-dip limit of the seismogenic zone (where the slab is brittle and can produce earthquakes) varies from a depth of about 37 km to 54 km.  The width (measured along the fault surface in the direction of subduction) varies from about 70 km (Manila slab) to 195 km (Alaska slab), averaging about 115 km.  Taken together, these length and width estimates combine to yield an area estimate for the seismogenic portion of subduction zones that is approximately 30% larger than the older estimate. This has important implications for seismic hazard around the world: the greater the area capable of generating large earthquakes, the greater the overall hazard.
 </p>
 
 <figure class="xsect" >

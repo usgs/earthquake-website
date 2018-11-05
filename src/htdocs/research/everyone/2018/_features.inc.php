@@ -12,6 +12,16 @@ $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/research/everyone/';
 $EQ_FEATURES->baseUrl = '';
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2018-11-12',
+  'title' => 'Collection of 3D Geometries for Global Subduction Zones',
+  'content' => 'A new picture of the geometry of subducting slabs around the world, the locations of the world’s largest earthquakes.',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/2018/slab2/',
+  'modified' => strtotime('2018-11-12'),
+  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/2018/slab2/images/fig1.jpg',
+  'image' => 'https://earthquake.usgs.gov/research/everyone/2018/slab2/images/fig1.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2018-10-12',
   'title' => 'New Methods for Dating and Sequencing Ancient Earthquakes Along the Wasatch Fault Zone',
   'content' => 'Complex geologic sites, like those between the fault segments along the Wasatch fault zone in Utah, make the dating and ordering past earthquakes a difficult task. Two new methods were used to make this task easier and to get better results.',

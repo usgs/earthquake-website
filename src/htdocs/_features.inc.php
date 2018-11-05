@@ -11,6 +11,17 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-11-12',
+  'title' => 'Collection of 3D Geometries for Global Subduction Zones',
+  'content' => 'A new picture of the geometry of subducting slabs around the world, the locations of the world’s largest earthquakes.',
+  'link' => 'https://earthquake.usgs.gov/research/everyone/2018/slab2/',
+  'modified' => strtotime('2018-11-12'),
+  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/2018/slab2/images/fig1.jpg',
+  'image' => 'https://earthquake.usgs.gov/research/everyone/2018/slab2/images/fig1.jpg'
+);
+
 $EQ_FEATURES->items[] = array(
   'id' => '2018-10-18',
   'title' => 'The Hayward Fault—Is It Due for a Repeat of the Powerful 1868 Earthquake?',
