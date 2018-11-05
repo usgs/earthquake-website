@@ -169,13 +169,12 @@
 
       <p>The data obtained from active source studies are archived at <a href="http://ds.iris.edu/ds/nodes/dmc/data/types/waveform-data/">IRIS</a> and/or at the <a href="https://www.ngdc.noaa.gov/">National Geophysical Data Center</a>.  USGS also provides access to certain data sets.</p>
       <ul>
-        <li><a href="/learn/photos.php">Photographs Showing Ground Failure and Earthquake Damage</a></li>
+        <li><a href="/learn/photos/">Photographs Showing Ground Failure and Earthquake Damage</a></li>
         <li>Landslide hazard maps:
         <ul>
           <li><a href="https://landslides.usgs.gov/hazards/nationalmap/">Landslide Overview Map of the Conterminous United States</a></li>
-          <li><a href="http://www.conservation.ca.gov/cgs/rghm/landslides/">California Geological Survey - Caltrans Corridor Landslides Maps </a></li>
-          <li><a href="http://gis.abag.ca.gov/website/Hazards/?hlyr=cgsLndsldZones">California Geological Survey Study Zones: Earthquake-Induced Landslides</a></li>
-        </ul>
+          <li><a href="https://maps.conservation.ca.gov/geologichazards/">California Dept. of Conservation Interactive Geologic Hazards Map</a></li>
+      </ul>
         </li>
         <li><a href="https://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">GEOS earthquake and aftershock data</a></li>
       </ul>
