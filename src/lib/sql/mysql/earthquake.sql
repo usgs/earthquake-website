@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-11-01 16:21:57 +0000
+# Generation Time: 2018-11-05 20:49:44 +0000
 # ************************************************************
 
 
@@ -3058,7 +3058,6 @@ VALUES
 	(441,'Recommended Reading about Earthquakes for Kids and Adults','USGS','%2Flearn%2Ftopics%2Freading.php','list of books'),
 	(41,'Historical Earthquake Theories','Univ. of Vienna','http%3A%2F%2Fwww.univie.ac.at%2Fwissenschaftstheorie%2Fheat%2Fheat.htm','collection of historical earthquake theories and myths'),
 	(468,'BSL Outreach','Berkeley Seismology Lab','http%3A%2F%2Fearthquakes.berkeley.edu%2Foutreach%2F','Wonderful diverse collection of videos and animations, as well as links to lesson plans and educational resources.'),
-	(499,'Comparing Shaking Intensity from Two Bay Area Earthquakes','USGS','/learn/topics/intensity/compare_intensity.php','Maps of the shaking intensity for the 1989 Loma Prieta and 1906 San Francisco earthquakes are shown, as well as the fault rupture length in order to compare the impact of each earthquake.'),
 	(429,'Focal Mechanisms','USGS','%2Flearn%2Ftopics%2Fbeachball.php','Basic explanation for what a focal mechanism is, and how to interpret them.'),
 	(58,'Remote-Sensing Seismic Activities','Montgomery Cty Public Schools','http%3A%2F%2Fwww.ebsinstitute.com%2FEBS.EOS.EQ.html','you are the planner, and you have to consider the earthquake hazards and risks'),
 	(59,'Ray Tracing Animations','Washington Univ.','http%3A%2F%2Fepsc.wustl.edu%2F%7Esaadia%2Fpage2.html','animations for various earth models and types of seismic reflections and refractions'),
@@ -3095,7 +3094,6 @@ VALUES
 	(323,'1906 San Francisco Earthquake and Fire','Bancroft Library, UC Berkeley','http%3A%2F%2Fbancroft.berkeley.edu%2Fcollections%2Fearthquakeandfire%2F','An interactive online exhibit of information, maps, images, and personal accounts from the 1906 earthquake and fire.'),
 	(115,'Earth Science Explorer','NASA','http%3A%2F%2Fwww.cotf.edu%2Fete%2Fmodules%2Fmsese%2Fexplorer.html','virtual museum'),
 	(121,'Understanding Quakes','The Why Files','http%3A%2F%2Fwhyfiles.org%2F094quake%2F','description, photos, and graphics of earthquake basics and effects of earthquakes in Turkey'),
-	(122,'Learn About Quakes & Get Prepared','Assoc. of Bay Area Govts.(ABAG)','http%3A%2F%2Fresilience.abag.ca.gov%2Fstudents%2F','Information, activities, interactive games, and puzzles'),
 	(123,'Mountain Maker, Earth Shaker','PBS','http%3A%2F%2Fwww.pbs.org%2Fwgbh%2Faso%2Ftryit%2Ftectonics%2F','Push your mouse around to move continents and change the landscape'),
 	(124,'Tsunamis','The Why Files','http%3A%2F%2Fwhyfiles.org%2F2011%2Ftsunami-the-killer-wave%2F','short news piece with images'),
 	(125,'Understanding Earthquakes','UC Santa Barbara','http%3A%2F%2Fprojects.crustal.ucsb.edu%2Funderstanding%2F','Brief history of seismology to 1910, earthquake and plate tectonic quizzes, earthquake accounts by famous people, elastic rebound animation, and links to addition resources.'),
@@ -3111,7 +3109,7 @@ VALUES
 	(142,'Geology Central','Geology Central','http%3A%2F%2Fhomepage.smc.edu%2Frobinson_richard%2Fgeologycentral.htm','links to resources for Geology and Geophysics'),
 	(144,'Virtual Earthquake Engineering','S. Illinois Univ.','http%3A%2F%2Fwww.ce.siue.edu%2Fearthquake%2F','interactive demonstration of the effects of earthquake retrofitting'),
 	(145,'Geology Animations, Interactive Exercises, and now... Songs!','Univ. of Kentucky','http%3A%2F%2Fwww.as.uky.edu%2Feducational-materials','Animations of geological processes.'),
-	(470,'Coquimbo, Chile M8.3 Educational Slides','USGS','/static/lfs/learn/Coquimbo_Eduational_Slides.pdf','Educational slides for the M8.3 Coquimbo, Chile M8.3 earthquake.'),
+	(470,'Coquimbo, Chile M8.3 Educational Slides','USGS','/static/lfs/learn/Coquimbo_Educational_Slides.pdf','Educational slides for the M8.3 Coquimbo, Chile M8.3 earthquake.'),
 	(147,'Birth of the Himalayas','NOVA','http%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fnova%2Feverest%2Fearth%2Fbirth.html','brief description of the origin of the Himalaya Mountains'),
 	(148,'Faults','Univ. of Leeds','http%3A%2F%2Fwww.see.leeds.ac.uk%2Fstructure%2Ffaults%2F','Photos and graphics of fault types'),
 	(151,'Science Fair Project Ideas','USGS','%2Flearn%2Fkids%2Fsciencefair.php','specific projects with directions and ideas'),
@@ -3144,7 +3142,6 @@ VALUES
 	(203,'Seismology, Earthquakes, and Earth Structure, An Introduction to','Blackwell Publishing','http://levee.wustl.edu/seismology/book/','online companion to the textbook by Seth Stein and Michael Wysession with electronic versions of all images and access to homework problems and solutions; also includes errata'),
 	(204,'Geophysics Course Resources on the Internet','Univ. of Houston','http%3A%2F%2Fwww.uh.edu%2F%7Ejbutler%2Fanon%2Fanoncoursegeoph.html','list of online course resources for undergraduate and graduate levels'),
 	(205,'Earthquakes: Seismic Destruction','National Geographic','http%3A%2F%2Fenvironment.nationalgeographic.com%2Fenvironment%2Fnatural-disasters%2Fearthquake-profile%2F','links to photos of earthquake effects and tsunami effects'),
-	(207,'The Richter Scale','Scripps Institution of Oceanography','http%3A%2F%2Fsiovizcenter.ucsd.edu%2Flibrary%2FTLTC%2FTLTCmag.htm','An interactive demonstration of calculating the magnitude of an earthquake based on amplitude and S and P wave locations'),
 	(209,'GSA Free Teacher Resources','Geological Society of America','http%3A%2F%2Fwww.geosociety.org%2Feducate%2F','A good resource for educators that includes lesson plans, info on state standards, awards, and reading suggestions'),
 	(212,'Seismology Teaching Resources','Arizona State University','http%3A%2F%2Fgarnero.asu.edu%2Fresearch_images%2F','Educational page with seismo links, diagrams, animations, and other teaching resources.'),
 	(213,'Tectonic Geomorphology: Figures','Institute for Crustal Studies','http%3A%2F%2Fprojects.crustal.ucsb.edu%2Ftectgeomorphfigs%2F','Figures from the book \"Tectonic Geomorphology\" by Douglas W. Burbank and Robert S. Anderson'),
@@ -3166,7 +3163,6 @@ VALUES
 	(439,'Theory of the Earth, The New','Caltech','http%3A%2F%2Fauthors.library.caltech.edu%2F25038%2F','This is the only book on the whole landscape of deep Earth processes that ties together all the strands of the subdisciplines. \r\n This book is a complete update of Andersonâ??s Theory of the Earth (1989).'),
 	(267,'Seismic seiches from the March 1964 Alaska earthquake','Alaska Department of Natural Resources,  Division of Geological & Geophysical Surveys','http%3A%2F%2Fdggs.alaska.gov%2Fpubs%2Fpubs%3Freqtype%3Dcitation%26ID%3D3907%26quadID%3D155%26quadname%3DAlaska','Seismic Seiches from the March 1964 Alaska Earthquake'),
 	(268,'Seismic Seiches ','USGS','%2Flearn%2Ftopics%2Fseiche.php','Description and history of seismic seiches.'),
-	(280,'Transforming California: Landforms of the San Andreas Fault','Paleontological Research Institution','http%3A%2F%2Fwww.priweb.org%2Fed%2Fearthtrips%2Ftransforming_ca_home.htm','PowerPoint presentation of digital images (60.7 Mb) exploring the landforms found along the San Andreas Fault. Designed for classroom use with a complementing narrative for each slide. One of the many Earthtrip Virtual Field Trips to explore.'),
 	(289,'The Physics of Tsunamis','Univ. of Washington','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2Fgeneral%2Fphysics%2Fphysics.html','Explains the mechanisms of tsunami generation and propagation.'),
 	(447,'Travel Time Curves','USGS','%2Flearn%2Ftopics%2Fttgraph.php','travel time graph for seismic waves'),
 	(469,'SF72','San Francisco Department of Emergency Management','http%3A%2F%2Fwww.sf72.org%2Fhome','Preparedness information targeted at the San Francisco area.'),
@@ -3201,7 +3197,7 @@ VALUES
 	(472,'Earthquakes in Oklahoma','The Office of the Oklahoma Secretary of Energy and Environment','http%3A%2F%2Fearthquakes.ok.gov%2Fearthquake-preparedness%2F','Research, regulations, updates and news items related to Oklahomaâ??s recent earthquakes, and earthquake preparedness information'),
 	(473,'Faces of the Earth','AGI - American Geosciences Institute','https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLTBBygdCOWWeziXMugDA-Ej_kWggrBwjh','4 videos: Building the Planet, Shaping the Planet, Assembling America, A Human World'),
 	(492,'Back to the Future on the San Andreas Fault','USGS','/learn/topics/safz-paleo/','What does the science say? Where does the information come from? And what does it mean? Investigating past earthquakes to inform the future.'),
-	(368,'ABAG Earthquake Maps and Information ','Assoc. of Bay Area Govts. (ABAG)','http%3A%2F%2Fresilience.abag.ca.gov%2Fearthquakes%2F','Information and maps about liquefaction, faults, and landslides in the San Francisco Bay Area.'),
+	(368,'ABAG Earthquake Maps and Information ','Assoc. of Bay Area Govts. (ABAG)','http://resilience.abag.ca.gov/earthquakes/','Information and maps about liquefaction, faults, and landslides in the San Francisco Bay Area.'),
 	(371,'Earthquake Preparedness - San Andreas - The Movie, California Reality or Hollywood Fiction?','California Emergency Management Agency','http%3A%2F%2Fwww.caloes.ca.gov%2FFor-Schools-Educators%2FPlan-Prepare%2FEarthquake-Preparedness','Focus on California Earthquake Preparedness for Teachers and Students'),
 	(372,'California Seismic Safety Commission','California Seismic Safety Commission','http%3A%2F%2Fwww.seismic.ca.gov%2F','Focus on the California'),
 	(373,'CDC (Center for Disease Control) Emergency Preparedness &amp; Response','Center for Disease Control (CDC)','https://www.cdc.gov/disasters/earthquakes/','Earthquakes and other emergencies'),
@@ -3256,11 +3252,11 @@ VALUES
 	(6,'Earthquake Myths Debunked','Caltech','https://www.facebook.com/californiainstituteoftechnology/videos/10154025296072965/','Do you know what\'s fact and fiction when it comes to earthquakes? Is there really such a thing as \"earthquake weather\"? Do you know what to do to stay safe when the ground starts shaking? Caltech scientists debunk some of the most common myths surrounding seismic events on this video.'),
 	(10,'Ground Shaking Simulations','USGS','/learn/topics/shakingsimulations/','Simulations (videos) from computer models of earthquakes showing the resulting ground shaking. '),
 	(7,'Earthquake Engineering Online Archive','NISEE, Univ. of Berkeley','https://nisee.berkeley.edu/elibrary/','The Earthquake Engineering Online Archive is a database of significant, publicly-funded research and development literature, photographs, data, and software in earthquake, structural, and geotechnical engineering. It includes full text for EERC, SEMM, and PEER reports published at UC Berkeley, the NISEE software library, and images from EQIIS.'),
-	(482,'How Big and How Frequent Are Earthquakes on the Wasatch Fault?','USGS','/research/everyone/wasatch/','Paleoseismology along the Wasatch Fault in Utah is helping to estimate the shaking risk to nearby towns.'),
-	(483,'Seismology in the City','USGS','/research/everyone/seismology-in-the-city/','How seismologists can use noise to see under the ground.'),
-	(484,'The \"Snow Plow Theory\" of Early-Arriving Tsunamis','USGS','/research/everyone/splays/','What is a splay fault, and how can they affect tsunamis?'),
-	(485,'The M7.8 Nepal Earthquake, 2015 ? A Small Push to Mt. Everest','USGS','/research/everyone/nepal2015/','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
-	(486,'Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012','USGS','/research/everyone/maine2012/','Old-fashioned interviews are compared to Did You Feel It? responses for this earthquake.'),
+	(482,'How Big and How Frequent Are Earthquakes on the Wasatch Fault?','USGS','/research/everyone/2015/wasatch/','Paleoseismology along the Wasatch Fault in Utah is helping to estimate the shaking risk to nearby towns.'),
+	(483,'Seismology in the City','USGS','/research/everyone/2015/seismology-in-the-city/','How seismologists can use noise to see under the ground.'),
+	(484,'The \"Snow Plow Theory\" of Early-Arriving Tsunamis','USGS','/research/everyone/2015/splays/','What is a splay fault, and how can they affect tsunamis?'),
+	(485,'The M7.8 Nepal Earthquake, 2015 ? A Small Push to Mt. Everest','USGS','/research/everyone/2016/nepal2015/','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
+	(486,'Ground-Truthing After the M4.0 Earthquake in Southern Maine, October 16, 2012','USGS','/research/everyone/2016/maine2012/','Old-fashioned interviews are compared to Did You Feel It? responses for this earthquake.'),
 	(487,'Paleoseismology, Introduction to','USGS','/learn/topics/paleo-intro/','What is paleoseismology? How does it work?'),
 	(488,'Earthquake Footage','American Geophysical Union','http://blogs.agu.org/tremblingearth/earthquake-footage/','Videos from webcams, security cameras, and newsreels during the shaking from various earthquakes.'),
 	(490,'Geoscience Education Resources Network','American Geosciences Institute','https://www.americangeosciences.org/center-for-geo/ern','A plethora a resources, including lesson plans, classroom science activities, curriculum materials, image collections, presentations, videos and animations, virtual field trips, etc.'),
@@ -3274,8 +3270,8 @@ VALUES
 	(501,'ParsQuake','ParsQuake.org','http://parsquake.org/','Earthquake education in the global Persian community.'),
 	(502,'What to Expect in a Big Urban Earthquake','USGS','https://wim.usgs.gov/geonarrative/safrr/WTE_earthquake/','An ArcGIS geo-narrative storymap that describes what can be expected if there is a large earthquake in a populated urban area.'),
 	(503,'The HayWired Scenario: An Urban Earthquake in a Connected World','USGS','http://usgs.maps.arcgis.com/apps/MapSeries/index.html?appid=364fa6f34520464ba081cb0785671193','An ArcGIS geo-narrative storymap with compelling images showing the effects and consequences possible in the next large earthquake on the Hayward Fault in the San Francisco Bay Area.'),
-	(504,'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes','USGS','/research/everyone/dcshake/','Science for Everyone article'),
-	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/55story-retrofit/','Science for Everyone article'),
+	(504,'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes','USGS','/research/everyone/2018/dcshake/','Science for Everyone article'),
+	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/2018/55story-retrofit/','Science for Everyone article'),
 	(506,'A Possible Cause of Earthquakes in the Continental Interior','USGS','/research/everyone/2018/us-stress/','Plain-language summary of a 2018 research paper.'),
 	(507,'Emergency Preparedness in Schools','Community for Accredited Online Schools','https://www.accreditedschoolsonline.org/resources/emergency-preparedness-in-school/','General information about disaster preparedness for schools with links to resources.'),
 	(508,'New Methods for Dating and Sequencing Ancient Earthquakes','USGS','https://earthquake.usgs.gov/research/everyone/2018/wasatch-sequencing/','A plain-language summary of new paleoseismology methods for studying and dating past earthquakes from trench data.');
