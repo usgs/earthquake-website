@@ -24,3 +24,7 @@ if (!isset($TEMPLATE)) {
     <a href="2018_NSHM_Overview_Figures_public_v1_opt.pdf">Draft Maps</a>
   </li>
 </ul>
+
+<p>
+  To provide feedback, please email <a href="mailto:shoover@usgs.gov">Susan Hoover</a> or <a href="mailto:ashumway@usgs.gov">Allison Shumway</a>.
+</p>
