@@ -8,7 +8,10 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <div class="alert info">
-  <h3><a href="foreign.php">South America Seismic Hazard</a> - NEW</h3>
+  <h3><a href="hazmaps/2018prelim.php">Preliminary 2018 Update of the U.S. National Seismic Hazard Model: Overview of Model, Changes, and Implications</a> - NEW</h3>
+  <p>
+    The NSHMP has completed the 2018 NSHM Update and has posted a draft manuscript to our website. We would like to invite the public to review the manuscript and provide feedback. The manuscript will be available for review and public comment from Wednesday, November 7 through Friday, December 7.
+  </p>
 </div>
 
 <div class="alert info">
