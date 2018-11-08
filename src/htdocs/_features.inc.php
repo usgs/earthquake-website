@@ -11,6 +11,18 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-11-08',
+  'title' => 'Punctuated Earthquakes for New Madrid Area: New
+  Research Uncovers Cluster of Past Events',
+  'content' => 'Depressions called sackungen (German word meaning "to sag") near the fault are cracks in the ground caused by strong shaking from large earthquakes. (GSA press release)',
+  'link' => 'https://phys.org/news/2018-11-punctuated-earthquakes-madrid-area-uncovers.html',
+  'modified' => strtotime('2018-08'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/punctuatedea.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/punctuatedea.jpg'
+);
+
 $EQ_FEATURES->items[] = array(
   'id' => '2018-10-18',
   'title' => 'The Hayward Fault—Is It Due for a Repeat of the Powerful 1868 Earthquake?',
