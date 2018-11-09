@@ -22,13 +22,4 @@
 			Instruments installed in private homes, businesses, public buildings and schools in locations around the US and World.
     </p>
   </li>
-	<li>
-		<a href="/research/eqproc/volunteer.php">
-			<h4>Volunteer Monitoring - Walnut Creek/Pleasant Hill/Concord, CA, Area Seismograph Array</h4>
-			<img src="/monitoring/images/sfbayeffects.gif" alt="Bay Area Waves"/>
-		</a>
-		<p>
-			The USGS is requesting volunteers in the greater Walnut Creek/Pleasant Hill/Concord area to consider hosting a temporary seismic station for a period of two to three years for the purpose of studying site response in this part of the Bay area. All participation is strictly voluntary.
-		</p>
-	</li>
 </ul>
