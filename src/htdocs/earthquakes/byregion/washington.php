@@ -26,5 +26,8 @@
 <ul>
   <li><a href="/contactus/seattle/">USGS Seattle Field Office, Seattle, WA</a></li>
   <li><a href="http://www.pnsn.org/">Pacific Northwest Seismic Network (PNSN)</a></li>
+  <li><a href="https://volcanoes.usgs.gov/observatories/cvo/">USGS Cascades Volcano Observatory</a></li>
+  <li><a href="https://crew.org/">Cascadia Region Earthquake Group</li>
+  <li><a href="https://www.dnr.wa.gov/programs-and-services/geology/geologic-hazards/earthquakes-and-faults">Washington State Department of Natural Resources</li>
   <li><a href="http://mil.wa.gov/emergency-management-division">Washington Emergency Management Division</a></li>
 </ul>
