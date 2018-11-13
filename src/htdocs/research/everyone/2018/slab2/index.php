@@ -71,7 +71,7 @@
   <li>
     <a href="https://pubs.usgs.gov/gip/dynamic/dynamic.html">This Dynamic Earth: The Story of Plate Tectonics</a>
   <li>
-    <a href="http://science.sciencemag.org/content/early/2018/08/08/science.aat4723">Slab2, a comprehensive subduction zone geometry model</a> - replace with citation and final link
+    Gavin P. Hayes, Ginevra L. Moore, Daniel E. Portner, Mike Hearne, Hanna Flamme, Maria Furtney, Gregory M. Smoczyk, 2018, <a href="http://science.sciencemag.org/content/early/2018/08/08/science.aat4723">Slab2, a comprehensive subduction zone geometry model</a>, DOI: 10.1126/science.aat4723
   </li>
   <li>
     <a href="https://doi.org/10.5066/F7PV6JNV">Hayes, G., 2018, Slab2 - A Comprehensive Subduction Zone Geometry Model: U.S. Geological Survey data release</a>.
