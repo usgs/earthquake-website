@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-11-05 20:49:44 +0000
+# Generation Time: 2018-11-13 19:02:59 +0000
 # ************************************************************
 
 
@@ -1392,7 +1392,8 @@ VALUES
 	(506,9),
 	(273,9),
 	(507,9),
-	(508,9);
+	(508,9),
+	(509,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -1998,7 +1999,10 @@ VALUES
 	(507,13),
 	(508,11),
 	(508,13),
-	(508,10);
+	(508,10),
+	(509,11),
+	(509,13),
+	(509,10);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3013,7 +3017,9 @@ VALUES
 	(506,85),
 	(386,82),
 	(507,25),
-	(508,32);
+	(508,32),
+	(509,30),
+	(509,85);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3163,6 +3169,7 @@ VALUES
 	(439,'Theory of the Earth, The New','Caltech','http%3A%2F%2Fauthors.library.caltech.edu%2F25038%2F','This is the only book on the whole landscape of deep Earth processes that ties together all the strands of the subdisciplines. \r\n This book is a complete update of Andersonâ??s Theory of the Earth (1989).'),
 	(267,'Seismic seiches from the March 1964 Alaska earthquake','Alaska Department of Natural Resources,  Division of Geological & Geophysical Surveys','http%3A%2F%2Fdggs.alaska.gov%2Fpubs%2Fpubs%3Freqtype%3Dcitation%26ID%3D3907%26quadID%3D155%26quadname%3DAlaska','Seismic Seiches from the March 1964 Alaska Earthquake'),
 	(268,'Seismic Seiches ','USGS','%2Flearn%2Ftopics%2Fseiche.php','Description and history of seismic seiches.'),
+	(509,'Collection of 3D Geometries for Global Subduction Zones','USGS','https://earthquake.usgs.gov/research/everyone/2018/slab2/','A plain language article about subduction zone models and how they help us understand large earthquakes.'),
 	(289,'The Physics of Tsunamis','Univ. of Washington','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2Fgeneral%2Fphysics%2Fphysics.html','Explains the mechanisms of tsunami generation and propagation.'),
 	(447,'Travel Time Curves','USGS','%2Flearn%2Ftopics%2Fttgraph.php','travel time graph for seismic waves'),
 	(469,'SF72','San Francisco Department of Emergency Management','http%3A%2F%2Fwww.sf72.org%2Fhome','Preparedness information targeted at the San Francisco area.'),
