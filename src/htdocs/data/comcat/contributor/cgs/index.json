@@ -1,0 +1,12 @@
+{
+  "id": "cgs",
+  "title": "California Geological Survey",
+  "url": "https://www.conservation.ca.gov/cgs",
+  "email": "cgssmip@conservation.ca.gov",
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-916-322-3105"
+    }
+  ]
+}
