@@ -188,7 +188,7 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     <strong>Northern California Regional Coordinator</strong><br />
-    Dr. Keith Knudsen (acting)<br />
+    Dr. Keith Knudsen<br />
     US Geological Survey<br />
     345 Middlefield Road, MS977<br />
     Menlo Park, CA 94025<br />
