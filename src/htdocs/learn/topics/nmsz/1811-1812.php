@@ -96,7 +96,7 @@ if	(!isset($TEMPLATE))	{
 <figure class="left" style="max-width:400px">
   <img src="images/artifacts.jpg" alt="">
   <figcaption>
-  Photograph of some diagnostic artifact types in New Madrid region: 1, Campbell Appliqu&eacute;; 2, Bell Plain; 3, Nodena Elliptical point; 4, Nodena Banks variety point; 5, Parkin Punctate; 6, Madison point; 7, Varney Red Filmed; 8, Barnes Cord Marked; 9, daub with wattle impression.
+  Photograph of some diagnostic artifact types in New Madrid region: 1, Campbell Appliqu&eacute;; 2, Bell Plain; 3, Nodena Elliptical point; 4, Nodena Banks variety point; 5, Parkin Punctate; 6, Madison point; 7, Varney Red Filmed; 8, Barnes Cord Marked; 9, daub with wattle impression. (Photo by Martitia Tuttle, NEHRP-funded research)
   </p>
 </figure>
 
