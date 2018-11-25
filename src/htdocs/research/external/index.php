@@ -52,7 +52,7 @@ if (!isset($TEMPLATE)) {
   </div>
 
   <div class='column one-of-two'>
-    <h2>Funded External Grants</h2>
+    <h2>Funded External Grants/Cooperative Agreements and Final Technical Reports</h2>
     <ul>
       <li><a href="/cfusion/external_grants/research.cfm">Funded Research</a></li>
       <li><a href="/cfusion/external_grants/networks.cfm">Funded Network Operations</a></li>
