@@ -83,6 +83,11 @@ if (!isset($TEMPLATE)) {
     'required' => true,
     'value' => 'no'
   ]);
+  $workshop = new Input([
+    'name' => 'workshop',
+    'type' => 'hidden',
+    'value' => 'shakealert'
+  ]);
 
   $form = new Form([
     adminEmail => 'jmcguire@usgs.gov, shaefner@usgs.gov',
@@ -108,6 +113,7 @@ if (!isset($TEMPLATE)) {
     ],
     'label' => 'Do you need Travel Support?'
   ]);
+  $form->addControl($workshop);
 
   include 'template.inc.php';
 }

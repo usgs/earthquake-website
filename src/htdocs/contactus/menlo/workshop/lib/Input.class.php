@@ -281,6 +281,11 @@ class Input {
       $label
     );
 
+    // Only include input tag for hidden fields
+    if ($this->type === 'hidden') {
+      $html = $input;
+    }
+
     return $html;
   }
 
