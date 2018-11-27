@@ -63,8 +63,8 @@ if (!isset($TEMPLATE)) {
     'rows' => 3,
     'required' => true
   ]);
-  $research = new Textarea([
-    'name' => 'research',
+  $focus = new Textarea([
+    'name' => 'focus',
     'label' => 'EEW Research Focus',
     'description' => 'Statement of what you would be willing to present in a short talk (~200 words)',
     'rows' => 6
@@ -100,7 +100,7 @@ if (!isset($TEMPLATE)) {
   $form->addControl($phone);
   $form->addControl($position);
   $form->addControl($role);
-  $form->addControl($research);
+  $form->addControl($focus);
   $form->addGroup([
     'controls' => [
       $yes,
