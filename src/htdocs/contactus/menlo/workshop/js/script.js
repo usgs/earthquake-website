@@ -1,13 +1,9 @@
-document.addEventListener('DOMContentLoaded', function() {
-  Validator({
-    form: document.querySelector('section.form form')
-  });
-});
+'use strict';
 
 
 var Validator = function (options) {
   var _this,
-      _intialize,
+      _initialize,
 
       _allControls,
       _form,
@@ -37,9 +33,7 @@ var Validator = function (options) {
    * Add event listeners to form controls for validating user input
    */
   _addEventHandlers = function () {
-    var el,
-        i,
-        type;
+    var type;
 
     _inputs.forEach(function(input) {
       type = input.getAttribute('type');
@@ -97,7 +91,7 @@ var Validator = function (options) {
    */
   _handleSubmit = function () {
     var errorMsg,
-        isFormValid,
+        isFormInvalid,
         section,
         submitButton;
 
@@ -117,8 +111,10 @@ var Validator = function (options) {
       }
       section.scrollIntoView();
     } else {
-      // Remove error message
-      section.removeChild(errorMsg);
+      // Remove error message if it exists
+      if (errorMsg) {
+        section.removeChild(errorMsg);
+      }
 
       // Submit button is not set when form is submitted via js; set it here
       submitButton = document.createElement('input');
@@ -129,7 +125,7 @@ var Validator = function (options) {
       _form.appendChild(submitButton);
       _form.submit();
     }
-  }
+  };
 
   /**
    * Validate user input on a given element
@@ -137,10 +133,10 @@ var Validator = function (options) {
    * @param el {Element}
    */
   _validate = function (el) {
-    var name,
+    var controls,
+        name,
         parent,
         pattern,
-        required,
         state,
         type,
         value;
@@ -179,7 +175,7 @@ var Validator = function (options) {
     }
     parent.classList.remove('invalid', 'valid');
     parent.classList.add(state);
-  }
+  };
 
   /**
    * Validate all form controls (useful when user submits the form)
@@ -196,3 +192,10 @@ var Validator = function (options) {
   options = null;
   return _this;
 };
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  Validator({
+    form: document.querySelector('section.form form')
+  });
+});

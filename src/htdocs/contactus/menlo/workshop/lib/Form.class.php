@@ -32,7 +32,7 @@ class Form {
     }
 
     // Get db connection / table info from config
-    include '../conf/config.inc.php';
+    include  __DIR__ . '/../conf/config.inc.php';
     $this->_db = $db;
     $this->_dbTable = $dbTable;
   }
@@ -172,8 +172,10 @@ class Form {
       }
       $sqlValues[$key] = $sqlValue;
 
-      $this->_results .= '<dt>' . ucfirst($item['label']) . '</dt>';
-      $this->_results .= '<dd>' . htmlentities(stripslashes($prettyValue)) . '</dd>';
+      if ($control->type !== 'hidden') {
+        $this->_results .= '<dt>' . ucfirst($item['label']) . '</dt>';
+        $this->_results .= '<dd>' . htmlentities(stripslashes($prettyValue)) . '</dd>';
+      }
     }
     $this->_results .= '</dl>';
 
