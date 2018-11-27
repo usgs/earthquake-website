@@ -23,14 +23,14 @@ try {
 */
 
 // Option 2: External database connector
-// include_once '/etc/puppet/EHPServer.class.php';
-// $db = EHPServer::getDatabase(
-//   // the dynamic_earthquake database is replicated between nodes
-//   'dynamic_earthquake',
-//   // false = not a read only connection (true is the default)
-//   false,
-//   // mysql database ('mysql' is the default, so this is optional)
-//   'mysql'
-// );
+include_once '/etc/puppet/EHPServer.class.php';
+$db = EHPServer::getDatabase(
+  // the dynamic_earthquake database is replicated between nodes
+  'dynamic_earthquake',
+  // false = not a read only connection (true is the default)
+  false,
+  // mysql database ('mysql' is the default, so this is optional)
+  'mysql'
+);
 
 ?>
