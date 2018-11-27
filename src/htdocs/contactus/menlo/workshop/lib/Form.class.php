@@ -32,7 +32,7 @@ class Form {
     }
 
     // Get db connection / table info from config
-    include 'conf/config.inc.php';
+    include '../conf/config.inc.php';
     $this->_db = $db;
     $this->_dbTable = $dbTable;
   }
