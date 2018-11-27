@@ -53,13 +53,15 @@ if (!isset($TEMPLATE)) {
   ]);
   $position = new Input([
     'name' => 'position',
-    'description' => 'Enter student, post-doc, staff scientist, faculty, etc.'
+    'description' => 'Enter student, post-doc, staff scientist, faculty, etc.',
+    'required' => true
   ]);
   $role = new Textarea([
     'name' => 'role',
     'label' => 'Role in ShakeAlert',
     'description' => '~50 words',
-    'rows' => 3
+    'rows' => 3,
+    'required' => true
   ]);
   $research = new Textarea([
     'name' => 'research',
