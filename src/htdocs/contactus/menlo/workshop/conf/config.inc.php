@@ -4,7 +4,7 @@
 date_default_timezone_set('America/Los_Angeles');
 
 // Database table for form submission results
-$dbTable = 'sa-workshop';
+$dbTable = 'mp-workshops';
 
 // Option 1: Inline database connector
 
