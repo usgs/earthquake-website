@@ -2,7 +2,7 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = '2019 ShakeAlert Research Workshop';
-  $HEAD = '<link rel="stylesheet" href="css/styles.css" />';
+  $HEAD = '<link rel="stylesheet" href="../css/styles.css" />';
   $HEAD .= '<style>
       .form {
         float: left;
@@ -13,10 +13,10 @@ if (!isset($TEMPLATE)) {
         padding-top: 1.75em;
       }
     </style>';
-  $FOOT = '<script src="js/script.js"></script>';
+  $FOOT = '<script src="../js/script.js"></script>';
 
-  include 'lib/dependencies.php';
-  include 'conf/config.inc.php';
+  include '../lib/dependencies.php';
+  include '../conf/config.inc.php';
 
   $name = new Input([
     'name' => 'name',
@@ -29,6 +29,23 @@ if (!isset($TEMPLATE)) {
   ]);
   $affiliation = new Input([
     'name' => 'affiliation'
+  ]);
+  $address1 = new Input([
+    'name' => 'address1',
+    'label' => 'Address 1'
+  ]);
+  $address2 = new Input([
+    'name' => 'address2',
+    'label' => 'Address 2'
+  ]);
+  $city = new Input([
+    'name' => 'city'
+  ]);
+  $state = new Input([
+    'name' => 'state'
+  ]);
+  $zip = new Input([
+    'name' => 'zip'
   ]);
   $phone = new Input([
     'name' => 'phone',
@@ -73,6 +90,11 @@ if (!isset($TEMPLATE)) {
   $form->addControl($name);
   $form->addControl($email);
   $form->addControl($affiliation);
+  $form->addControl($address1);
+  $form->addControl($address2);
+  $form->addControl($city);
+  $form->addControl($state);
+  $form->addControl($zip);
   $form->addControl($phone);
   $form->addControl($position);
   $form->addControl($role);
