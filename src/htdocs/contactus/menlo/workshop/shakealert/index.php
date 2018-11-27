@@ -145,10 +145,10 @@ Wednesday: 8AM &ndash; 1PM
   research as well as for targeted discussions of key issues facing ShakeAlert.</p>
 
   <p>This is an open workshop for active researchers in EEW. We request a
-  few pieces of information below to help the steering committee arrange the agenda. USGS will
-  be able to provide travel support for a modest number of participants at the Staff Scientist,
-  Faculty, or Post-doc level, and preference will be given to those that currently (or recently)
-  worked directly on ShakeAlert. Per USGS rules, travel support is limited to those located more
+  few pieces of information to help the steering committee arrange the agenda. USGS will
+  provide travel support for a modest number of participants at the Staff Scientist,
+  Faculty, or Post-doc level, and preference will be given to those who work (or used to work) 
+  directly on ShakeAlert. Per USGS rules, travel support is limited to those located more
   than 50 miles from Menlo Park. Travel Support requests will be answered by December 15th.</p>
 
   <p>Please contact <a href="mailto:jmcguire@usgs.gov">Jeff McGuire</a> with any questions.</p>
