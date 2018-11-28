@@ -661,7 +661,7 @@
 <p>For instructions on use, see <a href="SlabInstructions.php">these directions</a>.</p>
 <ul class="nobullet">
 	<li>[1] grd format. For use with GMT grdimage.</li>
-	<li>[2] ascii format. Listed as xyz (lat, lon, depth).</li>
+	<li>[2] ascii format. Listed as xyz (lon, lat, depth).</li>
 	<li>[3] ascii format, multi-segment file, contours in 20 km intervals.</li>
 	<li>[4] ascii format. Clipping mask for grid (region of grid applicability). For use with GMT grdclip.</li>
 	<li>[5] ascii format. Top and base of model region.</li>
