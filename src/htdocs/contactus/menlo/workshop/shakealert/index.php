@@ -4,7 +4,7 @@ if (!isset($TEMPLATE)) {
   $TITLE = '2019 ShakeAlert Research Workshop';
   $HEAD = '<link rel="stylesheet" href="../css/styles.css" />';
   $HEAD .= '<style>
-      .form {
+      .form, .results {
         float: left;
         margin-right: 1em;
       }
@@ -15,7 +15,8 @@ if (!isset($TEMPLATE)) {
     </style>';
   $FOOT = '<script src="../js/script.js"></script>';
 
-  include '../lib/dependencies.php';
+  include '../lib/functions.inc.php';
+  include '../lib/classes.inc.php';
   include '../conf/config.inc.php';
 
   $name = new Input([
@@ -86,7 +87,7 @@ if (!isset($TEMPLATE)) {
   $workshop = new Input([
     'name' => 'workshop',
     'type' => 'hidden',
-    'value' => 'shakealert'
+    'value' => 'shakealert-2018'
   ]);
 
   $form = new Form([
@@ -147,7 +148,7 @@ Wednesday: 8AM &ndash; 1PM
   <p>This is an open workshop for active researchers in EEW. We request a
   few pieces of information to help the steering committee arrange the agenda. USGS will
   provide travel support for a modest number of participants at the Staff Scientist,
-  Faculty, or Post-doc level, and preference will be given to those who work (or used to work) 
+  Faculty, or Post-doc level, and preference will be given to those who work (or used to work)
   directly on ShakeAlert. Per USGS rules, travel support is limited to those located more
   than 50 miles from Menlo Park. Travel Support requests will be answered by December 15th.</p>
 

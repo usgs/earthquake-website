@@ -1,6 +1,5 @@
 <?php
 
-include_once 'functions.inc.php';
 include_once 'Database.class.php';
 include_once 'Form.class.php';
 include_once 'Input.class.php';
