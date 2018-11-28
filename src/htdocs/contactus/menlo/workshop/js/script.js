@@ -44,7 +44,7 @@ var Validator = function (options) {
             _validate(input);
           });
         } else {
-          ['blur', 'input'].forEach(function(evt) { // blur evt caputres autocompleted fields
+          ['blur', 'input'].forEach(function(evt) { // blur: capture autocompleted fields
             input.addEventListener(evt, function() {
               _validate(input);
             });
@@ -68,8 +68,10 @@ var Validator = function (options) {
 
     _textareas.forEach(function(textarea) {
       if (textarea.hasAttribute('pattern') || textarea.hasAttribute('required')) {
-        textarea.addEventListener('input', function() {
-          _validate(textarea);
+        ['blur', 'input'].forEach(function(evt) { // blur: consistent with input
+          textarea.addEventListener(evt, function() {
+            _validate(textarea);
+          });
         });
       }
     });
