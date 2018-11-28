@@ -4,7 +4,7 @@
 date_default_timezone_set('America/Los_Angeles');
 
 // Database table for form submission results
-$dbTable = 'mp-workshops';
+$dbTable = 'mp_workshops';
 
 // Option 1: Inline database connector
 
@@ -23,7 +23,7 @@ try {
 */
 
 // Option 2: External database connector
-include_once '/etc/puppet/EHPServer.class.php';
+include '/etc/puppet/EHPServer.class.php';
 $db = EHPServer::getDatabase(
   // the dynamic_earthquake database is replicated between nodes
   'dynamic_earthquake',
