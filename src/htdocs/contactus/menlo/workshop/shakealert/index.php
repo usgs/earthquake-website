@@ -91,9 +91,9 @@ if (!isset($TEMPLATE)) {
   ]);
 
   $form = new Form([
-    adminEmail => 'jmcguire@usgs.gov, shaefner@usgs.gov',
-    emailSubject => 'Workshop form submitted by {{name}}',
-    successMsg => 'Thank you for registering. We will see you at the workshop!'
+    'adminEmail' => 'jmcguire@usgs.gov, shaefner@usgs.gov',
+    'emailSubject' => 'Workshop form submitted by {{name}}',
+    'successMsg' => 'Thank you for registering. We will see you at the workshop!'
   ]);
   $form->addControl($name);
   $form->addControl($email);
