@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-11-13 19:02:59 +0000
+# Generation Time: 2018-12-04 22:33:21 +0000
 # ************************************************************
 
 
@@ -2391,9 +2391,9 @@ VALUES
 	(180,57),
 	(238,63),
 	(470,66),
-	(100,63),
-	(100,64),
-	(100,55),
+	(100,77),
+	(100,79),
+	(100,35),
 	(100,72),
 	(147,30),
 	(112,78),
@@ -3019,7 +3019,11 @@ VALUES
 	(507,25),
 	(508,32),
 	(509,30),
-	(509,85);
+	(509,85),
+	(100,64),
+	(100,24),
+	(100,30),
+	(100,63);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3086,7 +3090,7 @@ VALUES
 	(97,'Be a Hero: Kid\'s - ready.gov','FEMA','http%3A%2F%2Fwww.ready.gov%2Fkids','Activities and materials aimed at making kids more aware of hazard preparedness'),
 	(98,'San Andreas Fault Fly-Over','JPL/NASA','http%3A%2F%2Fwww.jpl.nasa.gov%2Fsrtm%2Fimages%2Fmovies%2Fsan-andreas1.mov','virtual fly-over of the San Andreas Fault'),
 	(99,'Explore Nature - Plate Tectonics','USGS & U.S. National Park Service','http%3A%2F%2Fwww.nature.nps.gov%2Fgeology%2Fusgsnps%2Fpltec%2Fpltec1.html','excellent presentation with vivid graphics'),
-	(100,'Animation of P, S & Surface Waves','San Diego State Univ.','http%3A%2F%2Fwww.geology.sdsu.edu%2Fvisualgeology%2Fgeology101%2Fgeo100%2Fearthquakes2.htm','Seismic wave animations, requires Adobe Shockwave Player'),
+	(100,'Perilous Earth: Understanding Processes Behind Natural Disasters','San Diego State Univ.','http://www.geology.sdsu.edu/visualgeology/naturaldisasters/','The basics including plate tectonics and earthquakes.'),
 	(101,'This Dynamic Earth: The Story of Plate Tectonics','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fpublications%2Ftext%2Fdynamic.html','excellent comprehensive overview of plate tectonics with excellent graphics, online USGS general interest publication'),
 	(102,'Sea-Floor Spreading and Subduction, How to Build a Model Illustrating','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F1999%2Fofr-99-0132%2F','Three-dimensional, cut-and-paste paper model illustrating sea-floor spreading and subduction.'),
 	(103,'Earthquakes','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2Fearthq1%2F','general overview of earthquakes, online USGS general interest publication'),
