@@ -3,7 +3,7 @@
   // Contact: Lisa Wald,
     if (!isset($TEMPLATE)) {
       $TITLE = 'Special Earthquakes, Earthquake Sequences, and Fault Zones';
-      $NAVIGATION = false;
+      $NAVIGATION = true;
       include 'template.inc.php';
     }
 ?>
