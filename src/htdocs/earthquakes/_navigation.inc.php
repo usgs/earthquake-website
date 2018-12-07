@@ -7,6 +7,7 @@
 
     navItem("${section}/map/", "Latest Earthquakes") .
     navItem("${section}/browse/", "Earthquake Lists, Maps &amp; Statistics") .
+    navItem("${section}/events/", "Special Earthquakes, Earthquake Sequences, and Fault Zones") .
     navItem("${section}/search/", "Search Earthquake Catalog") .
     navItem("${section}/feed/", "Real-time Notifications, Feeds &amp; Web Services") .
     navItem("${section}/byregion/", "Information by Region") .
