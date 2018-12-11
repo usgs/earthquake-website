@@ -22,6 +22,9 @@ if (!isset($TEMPLATE)) {
     <!-- Latest EQs and Significant EQs List -->
     <a href="earthquakes/map/"><h2>Latest Earthquakes</h2></a>
     <p class='alert'>
+
+      <strong><a href="earthquakes/eventpage/ak20419010">M7.0 Anchorage, Alaska Earthquake - Nov. 30, 2018</a></strong><br /><br />
+
       <a href="earthquakes/map/">
         <img class='nehrp' src="images-home/latesteqs-300.jpg" width="150" alt=""/>
       </a>
