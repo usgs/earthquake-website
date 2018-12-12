@@ -23,7 +23,9 @@ if (!isset($TEMPLATE)) {
     <a href="earthquakes/map/"><h2>Latest Earthquakes</h2></a>
     <p class='alert'>
 
-      <strong><a href="earthquakes/eventpage/ak20419010">M7.0 Anchorage, Alaska Earthquake - Nov. 30, 2018</a></strong><br /><br />
+      <a href="earthquakes/eventpage/se60247871/">M4.4 near Decatur, Tennessee Earthquake - Dec. 12, 2018</a><br />
+
+      <a href="earthquakes/eventpage/ak20419010">M7.0 Anchorage, Alaska Earthquake - Nov. 30, 2018</a><br /><br />
 
       <a href="earthquakes/map/">
         <img class='nehrp' src="images-home/latesteqs-300.jpg" width="150" alt=""/>
@@ -33,7 +35,7 @@ if (!isset($TEMPLATE)) {
       Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
       <br/><br/>
       <strong><a href="/data/dyfi/">Did You Feel It? Report it Here!</a></strong>
-      <br/><br/>
+      <br/>
       <a href="/ens/">Subscribe to Earthquake Notifications</a>
     </p>
 
