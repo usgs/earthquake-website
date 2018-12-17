@@ -31,7 +31,9 @@
 	seismic design parameters based on USGS hazard values in accordance with 
 	design code procedures. The <i>U.S. Seismic Design Maps Web Services</i> 
 	provide seismic design parameter values from numerous design code editions.
-	
+</p>
+
+<p>
 	These web services replace the former <i>U.S. Seismic Design Maps Web 
 	Applications</i>, which were streamlined due to insufficient resources and 
 	the recent development of similar web tools by third parties. Whereas the 
