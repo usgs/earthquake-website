@@ -30,7 +30,7 @@ if (!isset($TEMPLATE)) {
           <h4>Design Ground Motions</h4>
           <img src="images/design-2x.jpg" width="150"/>
         </a>
-        <p>Ground motion parameter values for building and bridge design.</p>
+        <p>Ground motion parameter values for the design of buildings, bridges, and other structures.</p>
       </li>
       <li>
         <a href="hazmaps/">
