@@ -28,13 +28,12 @@ if (!isset($TEMPLATE)) {
       <a href="earthquakes/eventpage/ak20419010">M7.0 Anchorage, Alaska Earthquake - Nov. 30, 2018</a><br /><br />
 
       <a href="earthquakes/map/">
-        <img class='nehrp' src="images-home/latesteqs-300.jpg" width="150" alt=""/>
+        <img class='nehrp' src="images-home/latesteqs-ANSSlogo-300.gif" width="150" alt=""/>
       </a>
-      <img class="anss-logo left" src="/earthquakes/images/ANSS_logo.gif" alt="logo"/><br />
       <strong>Advanced National Seismic System</strong><br />
       Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
       <br/><br/>
-      <strong><a href="/data/dyfi/">Did You Feel It? Report it Here!</a></strong>
+      <a href="/data/dyfi/">Did You Feel It? Report it Here!</a>
       <br/>
       <a href="/ens/">Subscribe to Earthquake Notifications</a>
     </p>
