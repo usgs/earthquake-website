@@ -11,6 +11,17 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-12-18',
+  'title' => 'Microseismic Events Associated with the Oroville Dam Spillway',
+  'content' => 'On 14 February 2017, two small seismic events occurred in proximity to the Oroville Dam in the Sierra Nevada foothills, California. A new report found 19,000 smaller‐magnitude events near the Oroville spillway that were similar to the events and occurred in clusters that strongly correlate with periods of spillway discharge. (SSA article)',
+  'link' => 'https://pubs.geoscienceworld.org/ssa/bssa/article/567679/microseismic-events-associated-with-the-oroville',
+  'modified' => strtotime('2018-12-18'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/OrovilleDam.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/OrovilleDam.png'
+);
+
 $EQ_FEATURES->items[] = array(
   'id' => '2018-11-12',
   'title' => 'Collection of 3D Geometries for Global Subduction Zones',
