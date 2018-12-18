@@ -140,14 +140,38 @@ class Textarea {
     $attrs = $this->_getAttrs($tabindex);
     $cssClasses = $this->_getCssClasses();
 
-    $description = sprintf('<p class="description" data-message="%s">%s</p>',
-      $this->message,
-      $this->description
-    );
+    // Create note about req'd number of chars. if applicable
+    $maxLength = intval($this->maxlength);
+    $minLength = intval($this->minlength);
+    $msgLength = '';
+    if ($minLength && $maxLength) {
+      $msgLength = "$minLength&ndash;$maxLength characters";
+    } else if ($minLength) { // minlength only set
+      $msgLength = "at least $minLength characters";
+    } else if ($maxLength){ // maxlength only set
+      $msgLength = "no more than $maxLength characters";
+    }
+
+    // If no custom description was set, default to showing min/max-length requirements
+    $description = $this->description;
+    if (!$description && $msgLength) {
+      $description = $msgLength;
+    }
 
     $label = sprintf('<label for="%s">%s</label>',
       $this->id,
       $this->label
+    );
+
+    // If no custom message was set, append min/max-length requirements
+    $message = $this->message;
+    if ($this->message === $this->_defaults['message'] && $msgLength) {
+      $message .= " ($msgLength)";
+    }
+
+    $info = sprintf('<p class="description" data-message="%s">%s</p>',
+      $message,
+      $description
     );
 
     $textarea = sprintf('<textarea id="%s" name="%s" cols="%s" rows="%s"%s>%s</textarea>',
@@ -161,7 +185,7 @@ class Textarea {
 
     $html = sprintf('<div class="%s">%s%s%s</div>',
       implode(' ', $cssClasses),
-      $description,
+      $info,
       $textarea,
       $label
     );

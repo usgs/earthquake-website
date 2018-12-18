@@ -29,3 +29,32 @@ function safeParam ($name, $default=NULL, $filter=FILTER_SANITIZE_STRING) {
 
   return $value;
 }
+
+/**
+ * Recursive (deep) array merge
+ *   similar to PHP's array_merge (and unlike array_merge_recursive),
+ *   matching keys' values in the second array overwrite those in the first array
+ *
+ * Parameters are passed by reference, though only for performance reasons.
+ * They're not altered by this function.
+ *
+ * From: https://gist.github.com/josephj/5028375
+ *
+ * @param $array1 {Array}
+ * @param $array2 {Array}
+ *
+ * @return $merged {Array}
+ */
+function array_merge_recursive_distinct(array &$array1, array &$array2) {
+  $merged = $array1;
+  foreach ($array2 as $key => &$value) {
+    if (is_array($value) && isset($merged[$key]) && is_array($merged[$key])) {
+      $merged[$key] = array_merge_recursive_distinct($merged[$key], $value);
+    }
+    else {
+      $merged[$key] = $value;
+    }
+  }
+
+  return $merged;
+}
