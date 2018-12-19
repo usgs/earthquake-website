@@ -102,8 +102,7 @@ if (!isset($TEMPLATE)) {
   //
 
   $form = new Form([
-    //'adminEmail' => 'sminson@usgs.gov, shane@usgs.gov, shaefner@usgs.gov',
-    'adminEmail' => 'shaefner@usgs.gov',
+    'adminEmail' => 'sminson@usgs.gov, shane@usgs.gov, shaefner@usgs.gov',
     'emailSubject' => 'Workshop form submitted by {{name}}',
     'submitButtonText' => 'Register',
     'successMsg' => 'Thank you for registering. We will see you at the workshop!'
