@@ -7,11 +7,10 @@
  *     Database connector
  */
 class Database {
-  private $_db, $_ip;
+  private $_db;
 
   public function __construct($db) {
     $this->_db = $db;
-    $this->_ip = $_SERVER['REMOTE_ADDR'];
   }
 
   /**
@@ -99,9 +98,6 @@ class Database {
    *     Table name
    */
   public function insertRecord ($params, $table) {
-    $params['datetime'] = date('Y-m-d H:i:s');
-    $params['ip'] = $this->_ip;
-
     $setClause = $this->_getSetClause($params);
     $sql = "INSERT INTO $table $setClause";
 
