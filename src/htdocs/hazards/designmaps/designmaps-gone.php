@@ -1,6 +1,6 @@
 <?php
   if (!isset($TEMPLATE)) {
-    $TITLE = 'Changes to <i>U.S. Seismic Design Maps</i> web tools';
+    $TITLE = 'Changes to U.S. Seismic Design Maps Web Tools';
 
     // Use hazards level nav file
     include_once 'functions.inc.php';
@@ -18,8 +18,8 @@
   Due to insufficient resources and the recent development of similar web tools by third parties, the USGS has replaced its former <it>U.S.
 	Seismic Design Maps</i> web applications with web services that can be used through the third-party tools.
   <br /><br />
-  Whereas the former web applications each interacted with users through a graphical user interface (GUI), the replacement web services receive the inputs (e.g. latitude and longitude) in the form of a web address and return the outputs (e.g. S<sub>DS</sub> and S<sub>D1</sub>) in text form, without supplementary graphics. 
-  <br /><br />	
+  Whereas the former web applications each interacted with users through a graphical user interface (GUI), the replacement web services receive the inputs (e.g. latitude and longitude) in the form of a web address and return the outputs (e.g. S<sub>DS</sub> and S<sub>D1</sub>) in text form, without supplementary graphics.
+  <br /><br />
 	Your options for using the replacement USGS web services are described are described below.
 </p>
 
@@ -33,7 +33,7 @@
   <li><a href="https://hazards.atcouncil.org/">ATC Hazards by Location Tool</a></li>
 </ul>
 
-<h2>USGS <i>U.S. Seismic Design Maps</i> Web Services</h2>
+<h2>USGS U.S. Seismic Design Maps Web Services</h2>
 
 <ul>
   <li>
