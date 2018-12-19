@@ -15,8 +15,8 @@
 
 
 <p class="alert info">
-  Due to insufficient resources and the recent development of similar web tools by third parties, the USGS has retired its <it>U.S.
-	Seismic Design Maps</i> web applications and instead is providing web services.
+  Due to insufficient resources and the recent development of similar web tools by third parties, the USGS has replaced the <it>U.S.
+	Seismic Design Maps</i> web applications with web services.
   <br /><br />
   Whereas the former web applications each interacted with users through a graphical user interface (GUI), the replacement web services receive the inputs (e.g. latitude and longitude) in the form of a web address and return the outputs (e.g. S<sub>DS</sub> and S<sub>D1</sub>) in text form, without supplementary graphics. Your new options are described below.
 </p>
