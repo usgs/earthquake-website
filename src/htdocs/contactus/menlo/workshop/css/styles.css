@@ -1172,7 +1172,10 @@ section.form {
     height: auto;
     padding-right: 30px !important; }
   section.form .mq-input-icon {
-    right: 6px; }
+    right: 6px;
+    background-image: none !important;
+    box-shadow: none;
+    padding: 2px 6px; }
   section.form .pretty input:focus ~ .state.p-primary-o label:before {
     box-shadow: 0 0 3px #007bff; }
   section.form .pretty label:before {
