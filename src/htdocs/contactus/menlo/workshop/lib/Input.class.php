@@ -123,9 +123,6 @@ class Input {
         $this->label = ucfirst($this->value);
       }
     }
-
-    // Substitute label's value in template
-    $this->message = preg_replace('/{{label}}/', strtoupper($this->label), $this->message);
   }
 
   /**
@@ -160,6 +157,9 @@ class Input {
       $attrs .= sprintf(' tabindex="%d"', $tabindex);
     }
 
+    if ($this->type === 'address') {
+      $attrs .= ' data-type="address"';
+    }
     if ($this->type === 'number') {
       $attrs .= sprintf(' max="%s" min="%s"',
         $this->max,
@@ -229,6 +229,9 @@ class Input {
       if ($params['type'] === 'radio') {
         $this->_defaults['message'] = 'Please select an option';
       }
+      if ($params['type'] === 'url') {
+        $this->_defaults['description'] = 'Include &ldquo;http://&rdquo; or &ldquo;https://&rdquo;';
+      }
     }
   }
 
@@ -243,40 +246,71 @@ class Input {
     $attrs = $this->_getAttrs($tabindex);
     $cssClasses = $this->_getCssClasses();
 
+    // Create note about req'd number of chars. if applicable
+    $maxLength = intval($this->maxlength);
+    $minLength = intval($this->minlength);
+    $msgLength = '';
+    if ($minLength && $maxLength) {
+      $msgLength = "$minLength&ndash;$maxLength characters";
+    } else if ($minLength) { // minlength only set
+      $msgLength = "at least $minLength characters";
+    } else if ($maxLength){ // maxlength only set
+      $msgLength = "no more than $maxLength characters";
+    }
+
+    // If no custom description was set, default to showing min/max-length requirements
+    $description = $this->description;
+    if (!$description && $msgLength) {
+      $description = $msgLength;
+    }
+
     $label = sprintf('<label for="%s">%s</label>',
       $this->id,
       $this->label
     );
+
+    // Substitute values in mustache template
+    $message = preg_replace('/{{(label|name)}}/', strtoupper($this->label), $this->message);
+
+    // If no custom message was set, append min/max-length requirements
+    if ($this->message === $this->_defaults['message'] && $msgLength) {
+      $message .= " ($msgLength)";
+    }
 
     $name = $this->name;
     if ($this->type === 'checkbox') {
       $name .= '[]'; // set name to type array for checkbox values
     }
 
-    $description = '';
-    $value = $this->value; // instantiated or user-supplied value depending on form state
+    $type = $this->type;
+    if ($type === 'address') { // set type to 'search' for MapQuest PlaceSearch.js
+      $type = 'search';
+    }
+
     if ($this->_isCheckboxOrRadio) {
+      $info = '';
       // Wrap label in div elem for pretty checkbox library
       $label = sprintf('<div class="state p-primary-o">%s</div>', $label);
-      $value = $this->_instantiatedValue; // always use instantiated value here
+      $value = $this->_instantiatedValue; // always use instantiated value for checkbox/radio
     } else {
-      $description = sprintf('<p class="description" data-message="%s">%s</p>',
-        $this->message,
-        $this->description
+      $info = sprintf('<p class="description" data-message="%s">%s</p>',
+        $message,
+        $description
       );
+      $value = $this->value; // instantiated or user-supplied value depending on form state
     }
 
     $input = sprintf('<input id="%s" name="%s" type="%s" value="%s"%s />',
       $this->id,
       $name,
-      $this->type,
+      $type,
       $value,
       $attrs
     );
 
     $html = sprintf('<div class="%s">%s%s%s</div>',
       implode(' ', $cssClasses),
-      $description,
+      $info,
       $input,
       $label
     );

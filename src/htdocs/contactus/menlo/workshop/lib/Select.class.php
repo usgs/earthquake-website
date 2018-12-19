@@ -139,14 +139,14 @@ class Select {
 
     $options = '';
     foreach ($this->options as $key => $value) {
-      // Set selected option: data entered by user overrides if validation fails
+      // Set selected option: user's selection overrides if validation fails
       $selected = '';
       if (isSet($_POST[$this->name])) {
-        if ($key === $this->value) {
-          $selected = 'selected="selected"';
+        if ($key === $this->value) { // user-selected option
+          $selected = ' selected="selected"';
         }
       } else if ($key === $this->selected) {
-        $selected = 'selected="selected"';
+        $selected = ' selected="selected"';
       }
 
       $options .= sprintf('<option value="%s"%s>%s</option>',

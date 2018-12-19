@@ -25,7 +25,7 @@ if (!isset($TEMPLATE)) {
     <br>
     <p><a href="http://www.earthquakecountry.org/booklets/"><em>Putting Down Roots in Earthquake Country</em></a>, Southern California Edition</p>
   </li>
-  <li>
+  <li style="clear: both;">
     <figure class="left">
       <img src="images/pyf_both_sm.jpg" alt"Putting Down Roots" />
     </figure>
@@ -34,10 +34,11 @@ if (!isset($TEMPLATE)) {
     <p>This handbook is a multilingual, abridged version of <em>Putting Down Roots in Earthquake Country</em>. It is available in two editions: English and Spanish; and English, Chinese, Vietnamese, and Korean. It is provided here because of the importance of preparing for earthquakes before they happen. Experts say it is very likely there will be a damaging San Francisco Bay Area earthquake in the next 30 years and that it will strike without warning. It may be hard to find the supplies and services we need after this earthquake. You will need to provide for your family until help arrives. To keep our loved ones and our community safe, we must prepare now. More information is available online: <a href="http://pubs.usgs.gov/gip/2007/41/">Espa&ntilde;ol and English</a> | <a href="http://pubs.usgs.gov/gip/2007/42/">Asian Languages</a></p>
     <ul>
       <li>Download (PDF, 2.1 MB): <a href="http://pubs.usgs.gov/gip/2007/41/gip41.pdf">Espa&ntilde;ol and English</a> | <a href="http://pubs.usgs.gov/gip/2007/42/gip42.pdf">Asian Languages</a></li>
+      <li>Request a hard copy: Please email <a href="mailto:garcia@usgs.gov">Susan Garcia</a>.
     </ul>
 </li>
 <li>
-  <h3>See Also</h3>
+  <h3 style="clear: both;">See Also</h3>
   <ul>
     <li><a href="/contactus/menlo/prepare/pdrlinks.php">Resource supplement for &quot;Putting Down Roots in Earthquake Country&quot; &amp; &ldquo;Protecting Your Family From Earthquakes&rdquo;</a><p>Additional resources pertinent to our general interest publications about the threat posed by earthquakes in the San Francisco Bay region.</p></li>
     <li><a href="http://pubs.usgs.gov/gip/2006/21/">&ldquo;Earthquake Science Explained&rdquo;</a><p>A Series of ten short articles for students, teachers, and families.</p></li>

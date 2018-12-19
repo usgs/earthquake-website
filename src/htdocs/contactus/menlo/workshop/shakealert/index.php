@@ -3,16 +3,6 @@
 if (!isset($TEMPLATE)) {
   $TITLE = '2019 ShakeAlert Research Workshop';
   $HEAD = '<link rel="stylesheet" href="../css/styles.css" />';
-  $HEAD .= '<style>
-      .form, .results {
-        float: left;
-        margin-right: 1em;
-      }
-      .meta {
-        min-width: 5em;
-        padding-top: 1.75em;
-      }
-    </style>';
   $FOOT = '<script src="../js/script.js"></script>';
 
   include '../lib/functions.inc.php';
@@ -45,8 +35,9 @@ if (!isset($TEMPLATE)) {
   $state = new Input([
     'name' => 'state'
   ]);
-  $zip = new Input([
-    'name' => 'zip'
+  $postalCode = new Input([
+    'name' => 'postalCode',
+    'label' => 'Zip'
   ]);
   $phone = new Input([
     'name' => 'phone',
@@ -87,12 +78,13 @@ if (!isset($TEMPLATE)) {
   $workshop = new Input([
     'name' => 'workshop',
     'type' => 'hidden',
-    'value' => 'shakealert-2018'
+    'value' => 'shakealert-2019'
   ]);
 
   $form = new Form([
     'adminEmail' => 'jmcguire@usgs.gov, shaefner@usgs.gov',
     'emailSubject' => 'Workshop form submitted by {{name}}',
+    'submitButtonText' => 'Register',
     'successMsg' => 'Thank you for registering. We will see you at the workshop!'
   ]);
   $form->addControl($name);
@@ -102,7 +94,7 @@ if (!isset($TEMPLATE)) {
   $form->addControl($address2);
   $form->addControl($city);
   $form->addControl($state);
-  $form->addControl($zip);
+  $form->addControl($postalCode);
   $form->addControl($phone);
   $form->addControl($position);
   $form->addControl($role);
@@ -133,24 +125,29 @@ Wednesday: 8AM &ndash; 1PM
   Rambo Auditorium (Building 3 Conference Room)
 </p>
 
-<?php $form->render(); ?>
+<div class="row">
 
-<div class="meta">
-  <p>ShakeAlert is spatially distributed research community, and thus face-to-face meetings
-  are beneficial for bringing each other up-to-date on the latest results, long-term planning, and
-  informal brainstorming among small groups about specific projects. The 2019 ShakeAlert
-  Research workshop will provide a chance for scientists that are actively involved in ShakeAlert
-  and the USGS-funded external EEW research program to discuss ways they can work together
-  on future research projects aimed at improving the accuracy and timeliness of ShakeAlert. This
-  1.5 day workshop will provide an opportunity for researchers to present updates on their latest
-  research as well as for targeted discussions of key issues facing ShakeAlert.</p>
+  <div class="three-of-five column">
+    <?php $form->render(); ?>
+    <p class="privacy"><a href="https://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>
+  </div>
 
-  <p>This is an open workshop for active researchers in EEW. We request a
-  few pieces of information to help the steering committee arrange the agenda. USGS will
-  provide travel support for a modest number of participants at the Staff Scientist,
-  Faculty, or Post-doc level, and preference will be given to those who work (or used to work)
-  directly on ShakeAlert. Per USGS rules, travel support is limited to those located more
-  than 50 miles from Menlo Park. Travel Support requests will be answered by December 15th.</p>
+  <div class="two-of-five column">
+    <p>ShakeAlert is spatially distributed research community, and thus face-to-face meetings
+      are beneficial for bringing each other up-to-date on the latest results, long-term planning, and
+      informal brainstorming among small groups about specific projects. The 2019 ShakeAlert
+      Research workshop will provide a chance for scientists that are actively involved in ShakeAlert
+      and the USGS-funded external EEW research program to discuss ways they can work together
+      on future research projects aimed at improving the accuracy and timeliness of ShakeAlert. This
+      1.5 day workshop will provide an opportunity for researchers to present updates on their latest
+      research as well as for targeted discussions of key issues facing ShakeAlert.</p>
+    <p>This is an open workshop for active researchers in EEW. We request a
+      few pieces of information to help the steering committee arrange the agenda. USGS will
+      provide travel support for a modest number of participants at the Staff Scientist,
+      Faculty, or Post-doc level, and preference will be given to those who work (or used to work)
+      directly on ShakeAlert. Per USGS rules, travel support is limited to those located more
+      than 50 miles from Menlo Park. Travel Support requests will be answered by December 15th.</p>
+    <p>Please contact <a href="mailto:jmcguire@usgs.gov">Jeff McGuire</a> with any questions.</p>
+  </div>
 
-  <p>Please contact <a href="mailto:jmcguire@usgs.gov">Jeff McGuire</a> with any questions.</p>
 </div>

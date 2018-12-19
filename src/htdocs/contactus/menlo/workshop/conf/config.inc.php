@@ -6,6 +6,9 @@ date_default_timezone_set('UTC');
 // Database table for form submission results
 $dbTable = 'mp_workshops';
 
+// MapQuest key for PlaceSearch.js address field autocomplete (required for address type <input>s)
+$mapQuestApiKey = 'Fmjtd|luur2h0bn1,2g=o5-9wbnhy';
+
 // Option 1: Inline database connector
 
 /*

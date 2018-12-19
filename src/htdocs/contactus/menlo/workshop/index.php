@@ -1,274 +1,185 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Workshop: San Francisco Bay Area Seismic Velocity Models for Seismic Hazard Assessment';
-  $HEAD = '<link rel="stylesheet" href="index.css" />';
-  $FOOT = '<script src="index.js"></script>';
+  $TITLE = '2019 Northern California Hazards Workshop';
+  $HEAD = '<link rel="stylesheet" href="css/styles.css" />';
+  $FOOT = '<script src="js/script.js"></script>';
+
+  include 'lib/functions.inc.php';
+  include 'lib/classes.inc.php';
+  include 'conf/config.inc.php';
+
+  $name = new Input([
+    'name' => 'name',
+    'required' => true
+  ]);
+  $email = new Input([
+    'name' => 'email',
+    'type' => 'email',
+    'required' => true
+  ]);
+  $affiliation = new Input([
+    'name' => 'affiliation'
+  ]);
+  $address1 = new Input([
+    'name' => 'address1',
+    'label' => 'Address',
+    'type' => 'address'
+  ]);
+  $address2 = new Input([
+    'name' => 'address2',
+    'label' => 'Apartment, Suite, etc.'
+  ]);
+  $phone = new Input([
+    'name' => 'phone',
+    'pattern' => '^[0-9-\.\(\)\s]+$'
+  ]);
+  $posterNo = new Input([
+    'name' => 'poster',
+    'type' => 'radio',
+    'required' => true,
+    'id' => 'posterNo',
+    'value' => 'no'
+  ]);
+  $posterYes = new Input([
+    'name' => 'poster',
+    'type' => 'radio',
+    'required' => true,
+    'id' => 'posterYes',
+    'value' => 'yes'
+  ]);
+  $talkNo = new Input([
+    'name' => 'talk',
+    'type' => 'radio',
+    'required' => true,
+    'id' => 'talkNo',
+    'value' => 'no'
+  ]);
+  $talkYes = new Input([
+    'name' => 'talk',
+    'type' => 'radio',
+    'required' => true,
+    'id' => 'talkYes',
+    'value' => 'yes'
+  ]);
+  $daysTues = new Input([
+    'name' => 'days',
+    'type' => 'checkbox',
+    'required' => true,
+    'id' => 'daysTues',
+    'value' => 'tuesday'
+  ]);
+  $daysWeds = new Input([
+    'name' => 'days',
+    'type' => 'checkbox',
+    'required' => true,
+    'id' => 'daysWeds',
+    'value' => 'wednesday'
+  ]);
+  $jackNo = new Input([
+    'name' => 'jack',
+    'type' => 'radio',
+    'required' => true,
+    'id' => 'jackNo',
+    'value' => 'no'
+  ]);
+  $jackYes = new Input([
+    'name' => 'jack',
+    'type' => 'radio',
+    'required' => true,
+    'id' => 'jackYes',
+    'value' => 'yes'
+  ]);
+  $workshop = new Input([
+    'name' => 'workshop',
+    'type' => 'hidden',
+    'value' => 'hazards-2019'
+  ]);
+
+  //
+  //
+  //  (Tuesday and Wednesday)
+  //
+
+  $form = new Form([
+    'adminEmail' => 'sminson@usgs.gov, shane@usgs.gov, shaefner@usgs.gov',
+    'emailSubject' => 'Workshop form submitted by {{name}}',
+    'submitButtonText' => 'Register',
+    'successMsg' => 'Thank you for registering. We will see you at the workshop!'
+  ]);
+  $form->addControl($name);
+  $form->addControl($email);
+  $form->addControl($affiliation);
+  $form->addControl($address1);
+  $form->addControl($address2);
+  $form->addControl($phone);
+  $form->addGroup([
+    'controls' => [
+      $posterYes,
+      $posterNo
+    ],
+    'label' => 'Do you want to present a poster?'
+  ]);
+  $form->addGroup([
+    'controls' => [
+      $talkYes,
+      $talkNo
+    ],
+    'description' => 'Talk is three minutes, one slide, standard 4:3 aspect ratio, no animations.',
+    'label' => 'Do you want to give a lightning talk?'
+  ]);
+  $form->addGroup([
+    'controls' => [
+      $daysTues,
+      $daysWeds
+    ],
+    'arrangement' => 'stacked',
+    'label' => 'Which days are you attending?'
+  ]);
+  $form->addGroup([
+    'controls' => [
+      $jackYes,
+      $jackNo
+    ],
+    'description' => 'Do you plan to join us Tuesday evening for an informal gathering following the commemoration for Jack Boatwright?',
+    'label' => 'Tuesday Evening Gathering'
+  ]);
+  $form->addControl($workshop);
 
   include 'template.inc.php';
 }
 
-// Initialize variables; set defaults
-date_default_timezone_set('America/Los_Angeles');
-$datetime = date('Y-m-d H:i:s');
-$posting = false;
-$workshop = 'svm-2018';
-
-if (isSet($_POST['submit'])) { // user submitted form
-  $posting = true;
-
-  $fields = array(
-    'fname' => $_POST['fname'],
-    'lname' => $_POST['lname'],
-    'email' => $_POST['email'],
-    'affiliation' => $_POST['affiliation'],
-    //'address1' => $_POST['address1'],
-    //'address2' => $_POST['address2'],
-    //'city' => $_POST['city'],
-    //'state' => $_POST['state'],
-    //'zip' => $_POST['zip'],
-    //'phone' => $_POST['phone'],
-    //'poster' => $_POST['poster'],
-    'plan' => $_POST['plan'],
-    'travel' => $_POST['travel'],
-    'datetime' => $datetime,
-    'workshop' => $workshop
-  );
-
-  // Connect to db
-  include_once '/etc/puppet/EHPServer.class.php';
-  $pdo = EHPServer::getDatabase(
-    // the dynamic_earthquake database is replicated between nodes
-    'dynamic_earthquake',
-    // false = not a read only connection (true is the default)
-    false,
-    // mysql database ('mysql' is the default, so this is optional)
-    'mysql'
-  );
-
-  // Insert record
-/*
-  $stmt = $pdo->prepare('INSERT INTO workshops (datetime, fname, lname,
-    email, affiliation, address1, address2, city, state, zip, phone,
-    poster, workshop) VALUES (:datetime, :fname, :lname, :email,
-    :affiliation, :address1, :address2, :city, :state, :zip, :phone, :poster,
-    :workshop)'
-  );
-*/
-  $stmt = $pdo->prepare('INSERT INTO workshops (datetime, fname, lname,
-    email, affiliation, workshop, plan, travel) VALUES (:datetime, :fname, :lname, :email,
-    :affiliation, :workshop, :plan, :travel)'
-  );
-  try {
-    $stmt->execute($fields);
-  } catch (Exception $e) {
-    print "Error: $e->getMessage()";
-  }
-
-  // Create summary html
-  $return_html .= '<ul class="no-style results">
-      <li><h4>First Name</h4> ' . htmlentities(stripslashes($fields['fname'])) . '</li>
-      <li><h4>Last Name</h4> ' . htmlentities(stripslashes($fields['lname'])) . '</li>
-      <li><h4>Email</h4> ' . htmlentities(stripslashes($fields['email'])) . '</li>
-      <li><h4>Affiliation</h4> ' . htmlentities(stripslashes($fields['affiliation'])) . '</li>
-      <li><h4>Five-year Plan</h4> ' . htmlentities(stripslashes($fields['plan'])) . '</li>
-      <li><h4>Travel Support</h4> ' . htmlentities(stripslashes($fields['travel'])) . '</li>' .
-      /*
-      <li><h4>Address 1</h4> ' . htmlentities(stripslashes($fields['address1'])) . '</li>
-      <li><h4>Address 2</h4> ' . htmlentities(stripslashes($fields['address2'])) . '</li>
-      <li><h4>City</h4> ' . htmlentities(stripslashes($fields['city'])) . '</li>
-      <li><h4>State</h4> ' . htmlentities(stripslashes($fields['state'])) . '</li>
-      <li><h4>Zip</h4> ' . htmlentities(stripslashes($fields['zip'])) . '</li>
-      <li><h4>Phone</h4> ' . htmlentities(stripslashes($fields['phone'])) . '</li>
-      <li><h4>Poster</h4> ' . htmlentities(stripslashes($fields['poster'])) . '</li>
-      */
-    '</ul>';
-
-  // Email alert
-  //$admin = 'shane@usgs.gov, garcia@usgs.gov, shaefner@usgs.gov';
-  $admin = 'aagaard@usgs.gov, shaefner@usgs.gov';
-  //$admin = 'shaefner@usgs.gov';
-  $headers = "MIME-Version: 1.0" . "\r\n";
-  $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-  $headers .= "From: shaefner@usgs.gov";
-  $name = htmlentities(stripslashes($fields['fname'])) . ' ' .
-    htmlentities(stripslashes($fields['lname']));
-  mail($admin, "Workshop form submitted: $name", $return_html, $headers);
-}
-
 ?>
 
-<h2>March 21-22, 2018</h2>
+<h2>February 5&ndash;6, 2019</h2>
+
+<p>
+Tuesday: 9AM &ndash; 4:30PM<br />
+Wednesday: 9AM &ndash; 3:45PM
+</p>
 
 <p>
   <a href="/contactus/menlo/menloloc.php">USGS Menlo Park Campus</a><br />
   Rambo Auditorium (Building 3 Conference Room)
 </p>
 
-<?php
-  if ($posting) {
-    print '<p class="alert success">Thank you for filling out the
-    registration form. We&rsquo;ll see you at the workshop.</p>';
-  }
-?>
+<p>The USGS Earthquake Hazards Program annual Northern California Workshop is
+  open to anyone interested in better defining earthquake hazards and risk in
+  Northern California. All researchers are encouraged to present a poster and/or
+  a single-slide lightning talk on their work related to the seismic hazards
+  and risk in Northern California.</p>
 
 <div class="row">
 
   <div class="three-of-five column">
-<?php /*
-    <p>The USGS Earthquake Program is hosting this workshop to encourage
-      communication and align internal and external research efforts to achieve
-      our scientific goals and promote earthquake hazard products in Northern
-      California.</p>
-
-    <p>All researchers are encouraged to present a poster on their work related
-      to the seismic hazards and risk in Northern California. Researchers with
-      NEHRP external grants funded for FY17 and FY18 are especially encouraged
-      to present their results and will have their travel and per diem for the
-      workshop covered if needed (please contact
-      <a href="mailto:boat@usgs.gov">Jack Boatwright</a>). The workshop is open
-      to anyone in the scientific community interested in better defining
-      earthquake hazards and risk in Northern California.</p>
-
-    <h3>Agenda</h3>
-    <p><a href="Earthquake-Hazards-Workshop-Agenda.pdf">Agenda</a> (Adobe .pdf file)</p>
-*/ ?>
-
-    <p>The objective of the workshop is to develop a five-year plan for
-      leveraging community resources to systematically and continually improve
-      one or more 3-D seismic velocity models for the San Francisco Bay Area
-      and the surrounding region for use in seismic hazard assessment. The
-      workshop will include suites of short talks, discussions, and breakout
-      sessions. The results of the workshop will be synthesized in a technical
-      report by a subset of the participants. Please feel free to pass along
-      this invitation to colleagues, especially early career scientists. Travel
-      support will be available for some participants. For additional
-      information, please contact <a href="mailto: baagaard@usgs.gov">Brad
-      Aagaard</a>.</p>
-
-    <?php
-      if ($posting) {
-        print $return_html;
-      } else {
-/*
-
-    <h3>Registration Form</h3>
-
-    <p>Registration will close on <span style="color: red">Wed, March 7, 2018</span>.</p>
-
-    <p><span class="required">*</span> = Required</p>
-
-    <form action="https://earthquake.usgs.gov/contactus/menlo/workshop/"
-      name="workshop" id="workshop" method="post" enctype="application/x-www-form-urlencoded">
-
-      <fieldset form="workshop">
-        <div class="field">
-          <input type="text" id="fname" name="fname" placeholder="Enter first name"
-            required maxlength="255">
-          <label for="fname">First Name</label>
-        </div>
-        <div class="field">
-          <input type="text" id="lname" name="lname" placeholder="Enter last name"
-            required maxlength="255">
-          <label for="lname">Last Name</label>
-        </div>
-        <div class="field">
-          <input type="email" id="email" name="email" placeholder="Enter email address"
-            required pattern="^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A_Za-z]{2,4}$"
-            maxlength="255">
-          <label for="email">Email</label>
-        </div>
-        <div class="field">
-          <input type="text" id="affiliation" name="affiliation"
-            placeholder="Enter affiliation" maxlength="255">
-          <label for="affiliation">Affiliation</label>
-        </div>
-
-        <div class="field">
-          <input type="text" id="address1" name="address1"
-            placeholder="Enter address line 1" required maxlength="255">
-          <label for="address1">Address 1</label>
-        </div>
-        <div class="field">
-          <input type="text" id="address2" name="address2"
-            placeholder="Enter address line 2 " maxlength="255">
-          <label for="address2">Address 2</label>
-        </div>
-        <div class="field">
-          <input type="text" id="city" name="city" placeholder="Enter city"
-            required maxlength="255">
-          <label for="city">City</label>
-        </div>
-        <div class="field">
-          <input type="text" id="state" name="state" placeholder="Enter state"
-            required maxlength="255">
-          <label for="state">State</label>
-        </div>
-        <div class="field">
-          <input type="text" id="zip" name="zip" placeholder="Enter zip" required
-            maxlength="255">
-          <label for="zip">Zip</label>
-        </div>
-        <div class="field">
-          <input type="tel" id="phone" name="phone" placeholder="Enter phone number"
-            maxlength="255">
-          <label for="phone">Phone</label>
-        </div>
-
-      </fieldset>
-
-      <div class="radio" style="display: block;">
-        <!--
-        <div>
-          <p class="required">US Citizen</p>
-          <input type="radio" id="citizen-yes" name="citizen" value="yes" required>
-          <label for="citizen-yes">Yes</label>
-          <input type="radio" id="citizen-no" name="citizen" value="no" required>
-          <label for="citizen-no">No</label>
-        </div>
-        <div>
-          <p class="required">Poster</p>
-          <input type="radio" id="poster-yes" name="poster" value="yes" required>
-          <label for="poster-yes">Yes</label>
-          <input type="radio" id="poster-no" name="poster" value="no" required>
-          <label for="poster-no">No</label>
-        </div>
-        -->
-        <div>
-          <p class="required">Are you interested in helping synthesize the
-            workshop results into a five-year plan and in contributing to the technical report?</p>
-          <p style="font-size: .9em; color: #999; margin-top: -.75em;">(some funding is available)</p>
-          <input type="radio" id="plan-yes" name="plan" value="yes" required>
-          <label for="plan-yes">Yes</label>
-          <input type="radio" id="plan-no" name="plan" value="no" required>
-          <label for="plan-no">No</label>
-        </div>
-        <div>
-          <p class="required">Do you need travel support in order to attend the workshop?</p>
-          <input type="radio" id="travel-yes" name="travel" value="yes" required>
-          <label for="travel-yes">Yes</label>
-          <input type="radio" id="travel-no" name="travel" value="no" required>
-          <label for="travel-no">No</label>
-        </div>
-      </div>
-
-      <button class="blue" type="submit" id="submit" name="submit">Register</button>
-
-    </form>
-
+    <?php $form->render(); ?>
     <p class="privacy"><a href="https://www.usgs.gov/privacy.html">USGS Privacy Policy</a></p>
-
-*/
-      }  ?>
-
-    <p class="alert warning">Registration is closed. Please contact <a href="mailto:baagaard@usgs.gov">Brad
-      Aagaard</a> if you wish to attend.</p>
   </div>
 
   <div class="two-of-five column">
 
     <h3>Agenda</h3>
-    <a href="BayAreaSeismicVelocityModelWorkshop.pdf">
+    <a href="2019-Hazards-Workshop-Agenda.pdf">
       Preliminary Agenda
     </a> (.pdf)
 
