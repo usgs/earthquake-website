@@ -172,7 +172,15 @@ class Form {
       if (count($controls) > 1) { // radio/checkbox group
         $html .= $this->_getControlGroupHtml($item);
       } else { // single control
-        $html .= $controls[0]->getHtml(++ $this->_countTabIndex);
+        $control = $controls[0];
+
+        if ($control->type === 'address') {
+          // Add 5-digit random number to name attr. to disable browser's autocomplete
+          $randomNumber = sprintf("%05d", mt_rand(1, 99999));
+          $control->name = $control->name . $randomNumber;
+        }
+
+        $html .= $control->getHtml(++ $this->_countTabIndex);
       }
 
       if ($controls[0]->required) { // required prop same for all controls in group
@@ -235,7 +243,7 @@ class Form {
   }
 
   /**
-   * Create an array and html description list containing values entered by user
+   * Create an array (for MySQL) and HTML desc. list containing values entered by user
    *
    * If validation passes, insert record into database and email results to admin
    */
@@ -261,7 +269,19 @@ class Form {
         }
         $prettyValue = implode(', ', $prettyValues);
       } else { // single control
-        if ($control->type === 'select') { // select menu
+        if ($control->type === 'address') { // address field
+          // Need to 'fish' for control's value as it has a random 5-digit
+          // string appended to its name attr. and therefore can't be set automatically
+          $pattern = '/^' . $control->name . '\d{5}$/';
+          foreach($_POST as $name => $value) {
+            if (preg_match($pattern, $name)) { // found match
+              // In addition to setting display/SQL values, also set instance's value
+              $prettyValue = $sqlValue = $control->value = $value;
+              // Overwrite existing instance in $_items w/ this new value set
+              $this->_items[$key]['controls'][0] = $control;
+            }
+          }
+        } else if ($control->type === 'select') { // select menu
           $prettyValue = $control->options[$control->value];
           $sqlValue = $control->value;
         } else { // everything else
