@@ -18,9 +18,7 @@
   Due to insufficient resources and the recent development of similar web tools by third parties, the USGS has replaced its former <it>U.S.
 	Seismic Design Maps</i> web applications with web services that can be used through the third-party tools.
   <br /><br />
-  Whereas the former web applications each interacted with users through a graphical user interface (GUI), the replacement web services receive the inputs (e.g. latitude and longitude) in the form of a web address and return the outputs (e.g. S<sub>DS</sub> and S<sub>D1</sub>) in text form, without supplementary graphics.
-  <br /><br />
-	Your options for using the replacement USGS web services are described are described below.
+	Your options for using the replacement USGS web services are described below.
 </p>
 
 <h2>Third-party Graphical User Interfaces (GUIs)</h2>
@@ -34,7 +32,9 @@
 </ul>
 
 <h2>USGS U.S. Seismic Design Maps Web Services</h2>
-
+<p>
+	Whereas the former USGS web applications each interacted with users through a graphical user interface (GUI), the replacement web services receive the inputs (e.g. latitude and longitude) in the form of a web address and return the outputs (e.g. S<sub>DS</sub> and S<sub>D1</sub>) in text form, without supplementary graphics.
+</p>
 <ul>
   <li>
     <a href="/ws/designmaps/">Documentation</a>
