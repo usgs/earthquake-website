@@ -151,12 +151,20 @@ if (!isset($TEMPLATE)) {
 
 ?>
 
-<h2>February 5&ndash;6, 2019</h2>
+<div class="alert warning">
+  <h2>Workshop Postponed</h2>
+  <p><strong>Please note:</strong> We will re-schedule this workshop after Congress approves a federal budget.</p>
+  <p><em>Updated on January 28, 2019.</em></p>
+</div>
+
+<!--
+<h2>February 5–6, 2019</h2>
 
 <p>
-Tuesday: 9AM &ndash; 4:30PM<br />
-Wednesday: 9AM &ndash; 3:45PM
+Tuesday: 9AM – 4:30PM<br>
+Wednesday: 9AM – 3:45PM
 </p>
+-->
 
 <p>
   <a href="/contactus/menlo/menloloc.php">USGS Menlo Park Campus</a><br />
