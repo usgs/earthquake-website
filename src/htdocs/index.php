@@ -23,19 +23,15 @@ if (!isset($TEMPLATE)) {
     <a href="earthquakes/map/"><h2>Latest Earthquakes</h2></a>
     <p class='alert'>
 
-      <a href="earthquakes/eventpage/se60247871/">M4.4 near Decatur, Tennessee Earthquake - Dec. 12, 2018</a><br />
-
-      <a href="earthquakes/eventpage/ak20419010">M7.0 Anchorage, Alaska Earthquake - Nov. 30, 2018</a><br /><br />
-
       <a href="earthquakes/map/">
         <img class='nehrp' src="images-home/latesteqs-ANSSlogo-300.gif" width="150" alt=""/>
       </a>
       <strong>Advanced National Seismic System</strong><br />
       Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
-      <br/><br/>
-      <a href="/data/dyfi/">Did You Feel It? Report it Here!</a>
-      <br/>
-      <a href="/ens/">Subscribe to Earthquake Notifications</a>
+      <ul>
+        <li><a href="/data/dyfi/">Did You Feel It? Report it Here!</a></li>
+      <li><a href="/ens/">Subscribe to Earthquake Notifications</a></li>
+    </ul>
     </p>
 
     <a href="learn/faq.php">
@@ -61,6 +57,11 @@ if (!isset($TEMPLATE)) {
 
     <p>
       <a href="earthquakes/browse/significant.php">Significant Earthquakes Archive</a>
+    </p>
+
+    <p class='alert'>
+      <img class="nehrp" src="images-home/nehrp.png">
+      The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977, and the USGS <a href="/monitoring/anss/">Advanced National Seismic System (ANSS)</a> was established by Congress as a NEHRP facility.  The USGS and its partners monitor and report earthquakes, assess earthquake impacts and hazards, and perform research into the causes and effects of earthquakes.
     </p>
 
 <!-- 1 Day, All Magnitudes List - need to figure out how to do 2 lists
@@ -168,11 +169,6 @@ if (!isset($TEMPLATE)) {
             </li>
           </ul>
     </div>
-
-    <p class='alert'>
-      <img class="nehrp" src="images-home/nehrp.png">
-      The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977, and the USGS <a href="/monitoring/anss/">Advanced National Seismic System (ANSS)</a> was established by Congress as a NEHRP facility.  The USGS and its partners monitor and report earthquakes, assess earthquake impacts and hazards, and perform research into the causes and effects of earthquakes.
-    </p>
 
   </div>
 </div>
