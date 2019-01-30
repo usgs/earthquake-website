@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	11/1/2016
+      //	Contact: Lisa Wald
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Become a Geophysicist... A What?';
       $NAVIGATION	= true;
@@ -36,17 +35,17 @@
 
 <p>
 	Petroleum geophysicists<br />
- 	<a href="http://www.cseg.ca/students/careers/petro.htm" target="_blank">Society of Exploration Geophysics</a>
+ 	<a href="https://www.geolsoc.org.uk/careerprofiles" target="_blank">The Geological Society &amp;University Geoscience UK</a>
 </p>
 
 <p>
 	Mining geophysicists<br />
-  <a href="http://www.cseg.ca/students/careers/mining.htm" target="_blank">Society of Exploration Geophysics</a>
+  <a href="https://www.geolsoc.org.uk/careerprofiles" target="_blank">The Geological Society &amp;University Geoscience UK</a>
 </p>
 
 <p>
 	Environmental geophysicists<br />
-  <a href="http://www.cseg.ca/students/careers/enviro.htm" target="_blank">Society of Exploration Geophysics</a>
+  <a href="https://www.geolsoc.org.uk/careerprofiles" target="_blank">The Geological Society &amp;University Geoscience UK</a>
 </p>
 
 <p>
@@ -60,7 +59,7 @@
 
 <p>
 	Magnetic geophysicist <br />
-  <a href="http://geomag.usgs.gov/learn/introtogeomag.php"> Introduction to Geomagnetism</a>
+  <a href="https://www.usgs.gov/natural-hazards/geomagnetism/science/introduction-geomagnetism"> Introduction to Geomagnetism</a>
 </p>
 
 <p>
@@ -72,7 +71,8 @@
 </p>
 
 <p>
-	Exploration geophysicists
+	Exploration geophysicists<br />
+  <a href="https://www.geolsoc.org.uk/careerprofiles" target="_blank">The Geological Society &amp;University Geoscience UK</a>
 </p>
 
 <p>
