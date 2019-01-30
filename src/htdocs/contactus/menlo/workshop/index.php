@@ -153,8 +153,14 @@ if (!isset($TEMPLATE)) {
 
 <div class="alert warning">
   <h2>Workshop Postponed</h2>
-  <p><strong>Please note:</strong> We will re-schedule this workshop after Congress approves a federal budget.</p>
-  <p><em>Updated on January 28, 2019.</em></p>
+
+  <p>The federal government has reopened, but with funding for only three weeks.
+    Due to the uncertainty during the shutdown, we decided to postpone the
+    Feb. 5&ndash;6 Northern California Seismic Hazards workshop.</p>
+
+    <p>We will announce new dates once we learn what happens when the
+      current funding (called a continuing resolution) expires.</p>
+  <p><em>Updated on January 30, 2019.</em></p>
 </div>
 
 <!--
