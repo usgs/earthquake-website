@@ -93,6 +93,8 @@
   <li><a href="/monitoring/">USGS Earthquake Monitoring</a></li>
   <li><a href="/learn/topics/eqsci-history/eqscience-timeline.php">Earthquake Science Timeline</a></li>
   <li><a href="/learn/topics/eqsci-history/early-seismometry.php">The Early History of Seismometry (to 1900) </a></li>
+  <li>A. C. B. Alejandro, C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C. Wilson; <a href="https://pubs.geoscienceworld.org/ssa/srl/article/90/1/401/567498/the-albuquerque-seismological-lab-wwssn-film-chip">The Albuquerque Seismological Lab WWSSN Film Chip Preservation Project.</a> Seismological Research Letters ; 90 (1): 401–408. doi: https://doi.org/10.1785/0220180275</li>
+  <li>S. V. Moore, C. R. Hutt, R. E. Anthony, A. T. Ringler, A. C. B. Alejandro, D. C. Wilson; <a href="https://pubs.geoscienceworld.org/ssa/srl/article/567935/a-collection-of-historic-seismic-instrumentation">A Collection of Historic Seismic Instrumentation Photographs at the Albuquerque Seismological Laboratory.</a> Seismological Research Letters doi: https://doi.org/10.1785/0220180267></li>
 </ul>
 
 <h2>The Scientists Behind the Science</h2>
