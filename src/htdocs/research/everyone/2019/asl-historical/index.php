@@ -9,14 +9,6 @@
   }
 ?>
 
-<!--
-<p>
-  <a href="asl-historical.pdf">
-    <i class="material-icons">save_alt</i> Download PDF
-  </a>
-</p>
--->
-
 <figure class='right'>
 <img src="images/wwssn.gif" alt=""/>
 <figcaption>
