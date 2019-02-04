@@ -18,6 +18,6 @@ $EQ_FEATURES->items[] = array(
   'content' => '',
   'link' => 'https://earthquake.usgs.gov/research/everyone/2019/asl-historical/',
   'modified' => strtotime('2018-02-04'),
-  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/2019/asl-historical/images/???',
-  'image' => 'https://earthquake.usgs.gov/research/everyone/2019/asl-historical/images/???'
+  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/2019/asl-historical/images/benioff.jpg',
+  'image' => 'https://earthquake.usgs.gov/research/everyone/2019/asl-historical/images/benioff.jpg'
 );
