@@ -115,6 +115,7 @@
 
   <li><strong><a href="https://pubs.usgs.gov/of/2014/1091/">Hazard Model Documentation</a> (USGS OFR 2014-1091)</strong></li>
   <li><strong><a href="https://github.com/usgs/nshmp-haz-fortran/wiki">OFR 2014-1091 Errata and User Q &amp; A</a></strong></li>
+  <li><a href="http://earthquakespectra.org/toc/eqsa/31/S1">Earthquake Spectra Special Issue on the 2014 Seismic Hazard Model Update</a></li>
   <li><a href="https://pubs.er.usgs.gov/publication/ofr20181111">Maps and Data for Additional Periods and Site Classes</a></li>
   <li><a href="https://pubs.usgs.gov/of/2013/1293/
 ">Geodetic and Geologic Slip Model Documentation</a> (USGS OFR 2014-1293)</li>
