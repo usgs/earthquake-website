@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2018-12-04 22:33:21 +0000
+# Generation Time: 2019-02-04 18:01:26 +0000
 # ************************************************************
 
 
@@ -828,7 +828,7 @@ VALUES
 	(98,'hypocenter','The hypocenter is the point within the earth where an earthquake rupture starts. The epicenter is the point directly above it at the surface of the Earth. Also commonly termed the <strong>focus</strong>.  See also <a href=\"/learn/glossary/?term=epicenter\">epicenter</a>.','EpicenterHypocenter.gif','Epicenter & Hypocenter.  (Modified from Charles Ammon, Penn State)','',''),
 	(99,'intensity','The intensity is a number (written as a Roman numeral) describing the severity of an earthquake in terms of its effects on the earth\'s surface and on humans and their structures. Several scales exist, but the ones most commonly used in the United States are the Modified Mercalli scale and the Rossi-Forel scale. There are many intensities for an earthquake, depending on where you are, unlike the magnitude, which is one number for each earthquake.','intensity.gif',' Map showing intensity for the New Madrid earthquake. (Image courtesy of the Central U.S. Earthquake Consortium)','',''),
 	(100,'interplate coupling','Interplate coupling is the ability of a <a href=\"/learn/glossary/?term=fault\">fault</a> between two plates to lock and accumulate stress. Strong interplate coupling means that the fault is locked and capable of accumulating <a href=\"/learn/glossary/?term=stress\">stress</a>, whereas weak coupling means that the fault is unlocked or only capable of accumulating low stress.','intraplate.gif','The earthquakes (colored dots) in the middle of the continent are intraplate events. Thoes near the ocean boundary are at the boundary between two plates (interplate).','',''),
-	(101,'intraplate','Intraplate pertains to processes <strong>within</strong> the plates.','intraplate.gif','The earthquakes (colored dots) in the middle of the continent are intraplate events. Thoes near the ocean boundary are at the boundary between two plates (interplate).',NULL,''),
+	(101,'intraplate','Intraplate pertains to processes <strong>within</strong> the plates.','intraplate.gif','The earthquakes (colored dots) in the middle of the continent are intraplate events. Those near the ocean boundary are at the boundary between two plates (interplate).',NULL,''),
 	(102,'isoseismal (line)','An isoseismal (line) is a contour or line on a map bounding points of equal <a href=\"/learn/glossary/?term=intensity\">intensity</a> for a particular earthquake.','isoseismal.jpg','Isoseismal contours for New Madrid earthquake.','',''),
 	(103,'interplate','Interplate pertains to processes <strong>between</strong> the earth\'s crustal plates.','intraplate.gif','The earthquakes (colored dots) in the middle of the continent are intraplate events. Those near the ocean boundary are at the boundary between two plates (interplate).','',''),
 	(104,'kinematic','Kinematic refers to the general movement patterns and directions of the earth\'s rocks that produce rock deformation.','kinematic.gif','Iceland and plate motions.   (From ',NULL,''),
@@ -3282,7 +3282,7 @@ VALUES
 	(502,'What to Expect in a Big Urban Earthquake','USGS','https://wim.usgs.gov/geonarrative/safrr/WTE_earthquake/','An ArcGIS geo-narrative storymap that describes what can be expected if there is a large earthquake in a populated urban area.'),
 	(503,'The HayWired Scenario: An Urban Earthquake in a Connected World','USGS','http://usgs.maps.arcgis.com/apps/MapSeries/index.html?appid=364fa6f34520464ba081cb0785671193','An ArcGIS geo-narrative storymap with compelling images showing the effects and consequences possible in the next large earthquake on the Hayward Fault in the San Francisco Bay Area.'),
 	(504,'Washington DC Stone and Brick Buildings Vulnerable to Distant Quakes','USGS','/research/everyone/2018/dcshake/','Science for Everyone article'),
-	(505,'55-Story Tall Building  Before and After Earthquake Retrofit','USGS','/research/everyone/2018/55story-retrofit/','Science for Everyone article'),
+	(505,'55-Story Tall Building – Before and After Earthquake Retrofit','USGS','/research/everyone/2018/55story-retrofit/','Science for Everyone article'),
 	(506,'A Possible Cause of Earthquakes in the Continental Interior','USGS','/research/everyone/2018/us-stress/','Plain-language summary of a 2018 research paper.'),
 	(507,'Emergency Preparedness in Schools','Community for Accredited Online Schools','https://www.accreditedschoolsonline.org/resources/emergency-preparedness-in-school/','General information about disaster preparedness for schools with links to resources.'),
 	(508,'New Methods for Dating and Sequencing Ancient Earthquakes','USGS','https://earthquake.usgs.gov/research/everyone/2018/wasatch-sequencing/','A plain-language summary of new paleoseismology methods for studying and dating past earthquakes from trench data.');
