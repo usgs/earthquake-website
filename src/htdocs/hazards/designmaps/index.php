@@ -14,7 +14,7 @@
 
 <p class="alert info">
   Engineers should typically use the tools below for seismic design; the
-	parameter values they provide are not identical to those from hazard tools
+	parameter values they provide are not typically identical to those from hazard tools
 	available elsewhere on the USGS website.
 </p>
 
@@ -48,7 +48,7 @@
 
 <h3>USGS U.S. Seismic Design Maps Web Services</h3>
 <p>
-  It is possible but less convenient to obtain seismic design parameter values directly from the 
+  It is possible, but less convenient, to obtain seismic design parameter values directly from the 
 	USGS web services:
 </p>
 <ul>
@@ -56,8 +56,10 @@
     <a href="/ws/designmaps/">Documentation</a>
   </li>
   <li>
-    <a href="/hazards/designmaps/step-by-step-instructions-for-webservice_v3.pdf">Step-by-step Instructions</a><br />
-      - an example for the recently published <i>ASCE/SEI 7-16 Standard</i>
+    <a href="/hazards/designmaps/step-by-step-instructions-for-webservice_v3.pdf">Step-by-step instructions for <i>ASCE/SEI 7-16 Standard</i></a>
+  </li>
+  <li>
+    <a href="/hazards/designmaps/step-by-step-instructions-for-webservice_v3.pdf">Step-by-step instructions for <i>AASHTO Guide Specifications</i></a>
   </li>
 </ul>
 
