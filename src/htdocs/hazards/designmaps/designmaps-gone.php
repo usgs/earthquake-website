@@ -38,9 +38,9 @@
     <a href="/ws/designmaps/">Documentation for all design code editions</a>
   </li>
   <li>
-    <a href="/hazards/designmaps/Step-by-step-instructions-AASHTO-v4.pdf">Step-by-step Instructionsfor <i>AASHTO Guide Specifications</i></a>
+    <a href="/hazards/designmaps/Step-by-step_instructions_for_AASHTO_v4r.pdf">Step-by-step Instructions for <i>AASHTO Guide Specifications</i></a>
   </li>
   <li>
-    <a href="/hazards/designmaps/Step-by-step-instructions-AASHTO-v4.pdf">Step-by-step instructions for <i>ASCE/SEI 7-16 Standard</i></a>
+    <a href="/hazards/designmaps/Step-by-step_instructions_for_ASCE_7-16_v3r.pdf">Step-by-step instructions for <i>ASCE/SEI 7-16 Standard</i></a>
   </li>
 </ul>
