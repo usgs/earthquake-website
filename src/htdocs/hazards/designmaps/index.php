@@ -53,13 +53,13 @@
 </p>
 <ul>
   <li>
-    <a href="/ws/designmaps/">Documentation</a>
-  </li>
-  <li>
-    <a href="/hazards/designmaps/step-by-step-instructions-for-webservice_v3.pdf">Step-by-step instructions for <i>ASCE/SEI 7-16 Standard</i></a>
+    <a href="/ws/designmaps/">Documentation for all design code editions</a>
   </li>
   <li>
     <a href="/hazards/designmaps/step-by-step-instructions-for-webservice_v3.pdf">Step-by-step instructions for <i>AASHTO Guide Specifications</i></a>
+  </li>
+  <li>
+    <a href="/hazards/designmaps/step-by-step-instructions-for-webservice_v3.pdf">Step-by-step instructions for <i>ASCE/SEI 7-16 Standard</i></a>
   </li>
 </ul>
 
