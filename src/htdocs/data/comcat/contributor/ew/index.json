@@ -1,0 +1,13 @@
+{
+  "id": "ew",
+  "title": "ShakeAlert Earthquake Early Warning System (USGS and university partners)",
+  "url": "http://www.shakealert.org",
+  "email": "rdegroot@usgs.gov",
+  "email-name": "Robert deGroot",
+  "tel": [
+    {
+      "type": "Voice",
+      "value": "+1-626-583-7225"
+    }
+  ]
+}
