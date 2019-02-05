@@ -17,7 +17,7 @@ $EQ_FEATURES->items[] = array(
   'title' => 'Preserving Historic Earthquake Records and Photos of the Instruments that Recorded Them',
   'content' => 'A project to scan a small selection of the film chips of historical earthquake recordings to digital files was started in 1996. In addition to archiving historic data from the early years, the USGS has also worked to archive photos and descriptions of early seismometers.',
   'link' => 'https://earthquake.usgs.gov/research/everyone/2019/asl-historical/',
-  'modified' => strtotime('2018-02-04'),
+  'modified' => strtotime('2019-02-04'),
   'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/2019/asl-historical/images/benioff.jpg',
   'image' => 'https://earthquake.usgs.gov/research/everyone/2019/asl-historical/images/benioff.jpg'
 );
