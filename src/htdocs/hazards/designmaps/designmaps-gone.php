@@ -12,11 +12,9 @@
   }
 ?>
 
-
-
 <p class="alert info">
   Due to insufficient resources and the recent development of similar web tools by third parties, the USGS has replaced its former <it>U.S.
-	Seismic Design Maps</i> web applications with web services that can be used through the third-party tools.
+	Seismic Design Maps</i> web applications with web services that can be used through third-party tools.
   <br /><br />
 	Your options for using the replacement USGS web services are described below.
 </p>
@@ -37,10 +35,12 @@
 </p>
 <ul>
   <li>
-    <a href="/ws/designmaps/">Documentation</a>
+    <a href="/ws/designmaps/">Documentation for all design code editions</a>
   </li>
   <li>
-    <a href="/hazards/designmaps/step-by-step-instructions-for-webservice_v3.pdf">Step-by-step Instructions</a><br />
-      - how to use the web services, e.g. for the recently published <i>ASCE/SEI 7-16 Standard</i>
+    <a href="/hazards/designmaps/Step-by-step-instructions-AASHTO-v4.pdf">Step-by-step Instructionsfor <i>AASHTO Guide Specifications</i></a>
+  </li>
+  <li>
+    <a href="/hazards/designmaps/Step-by-step-instructions-AASHTO-v4.pdf">Step-by-step instructions for <i>ASCE/SEI 7-16 Standard</i></a>
   </li>
 </ul>
