@@ -12,7 +12,9 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <figure class="left">
-  <img src="img/carrizo-map.png" width="300" alt="Map showing the location of the Carrizo Plain NM" />
+  <a href="img/src/carrizo-map.pdf">
+    <img src="img/carrizo-map.png" width="300" alt="Map showing the location of the Carrizo Plain NM" />
+  </a>
 </figure>
 
 <p>The San Andreas fault, which is more than 700 miles (1100 kilometers) in length, is the boundary between the Pacific and North American tectonic plates. The portion of the fault running through the Carrizo Plain National Monument, south of Parkfield (see map) is unique because the surface expression of the fault trace is very well defined. This is because the region is arid and therefore the fault has not been significantly eroded.</p>
