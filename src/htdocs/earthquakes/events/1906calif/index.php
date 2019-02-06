@@ -14,6 +14,13 @@ if (!isset($TEMPLATE)) {
 
 <ul class="no-style linklist">
   <li>
+    <a href="/learn/topics/shakingsimulations/1906/">
+      <h3>1906 Ground Motion Simulations</h3>
+      <img src="img/simulations.jpg" alt="Earthquake simulation">
+    </a>
+    <p>Simulations of ground shaking from the 1906 earthquake, based on 3D geologic and seismic velocity models developed by the USGS in collaboration with <acronym title="Lawrence Livermore National Laboratory">LLNL</acronym>, UC Berkeley, and Stanford University.</p>
+  </li>
+  <li>
     <a href="virtualtour/">
       <h3>Virtual Tour of the 1906 Earthquake in Google Earth&trade;</h3>
       <img src="img/virtualtour.jpg" alt="Google Earth">
@@ -21,11 +28,11 @@ if (!isset($TEMPLATE)) {
     <p>Interactive tour of San Francisco Bay Area faults and earthquake history featuring ground-shaking maps, historic photographs, quotes from earthquake survivors, and more.</p>
   </li>
   <li>
-    <a href="/learn/topics/shakingsimulations/1906/">
-      <h3>1906 Ground Motion Simulations</h3>
-      <img src="img/simulations.jpg" alt="Earthquake simulation">
+    <a href="/learn/topics/kap/">
+      <h3>Repeat photography: George Lawrence&rsquo;s &ldquo;San Francisco in Ruins&rdquo;</h3>
+      <img src="img/kap.jpg" alt="San Francisco in Ruins by George Lawrence">
     </a>
-    <p>Simulations of ground shaking from the 1906 earthquake, based on 3D geologic and seismic velocity models developed by the USGS in collaboration with <acronym title="Lawrence Livermore National Laboratory">LLNL</acronym>, UC Berkeley, and Stanford University.</p>
+    <p>Photographer George Lawrence documented the damage of the 1906 earthquake by lifting a panoramic camera over the city using a series of kites. The <a href="http://www.drachen.org/">Drachen Foundation</a> arranged for <a href="http://scotthaefner.com/beyond/san-francisco-100-years-later/">Scott Haefner</a>, USGS, to re-shoot his photo using modern-day kite aerial photography equipment and techniques.</p>
   </li>
   <li>
     <a href="shakemap/">
@@ -34,13 +41,6 @@ if (!isset($TEMPLATE)) {
     </a>
     <p>Earthquake intensity maps based on original shaking and damage reports.</p>
   </li>
-<!--  <li>
-    <a href="kap/">
-      <h3>Re-photographing George Lawrence&rsquo;s &ldquo;San Francisco in Ruins&rdquo;</h3>
-      <img src="img/kap.jpg" alt="San Francisco in Ruins by George Lawrence">
-    </a>
-    <p>Photographer George Lawrence documented the damage of the 1906 earthquake by lifting a panoramic camera over the city using a series of kites. The <a href="http://www.drachen.org/">Drachen Foundation</a> arranged for <a href="http://scotthaefner.com/beyond/san-francisco-100-years-later/">Scott Haefner</a>, USGS, to re-shoot his photo using modern-day kite aerial photography equipment and techniques.</p>
-  </li>-->
 </ul>
 
 <h2>Publications and Documentaries</h2>
