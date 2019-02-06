@@ -39,7 +39,7 @@ if (!isset($TEMPLATE)) {
 <h2>Modern Day Photo</h2>
 
 <figure class="right">
-  <a href="img/boat-fullres.jpg">
+  <a href="img/src/boat-fullres.jpg">
     <img src="img/boat.jpg" alt="photo of Malcom's boat in the SF Bay" />
   </a>
   <figcaption>The new photo was taken using a kite-lofted camera, from the bow
@@ -49,7 +49,7 @@ if (!isset($TEMPLATE)) {
 
 <ul>
   <li><a href="http://scotthaefner.com/beyond/san-francisco-100-years-later/">View the new photo</a></li>
-  <li><a href="location.php">How we determined the shooting location</a></li>
+  <li><a href="location.php">How we determined the camera&rsquo;s location</a></li>
 </ul>
 
 <h2>The Crew</h2>
