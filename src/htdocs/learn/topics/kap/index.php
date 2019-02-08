@@ -16,11 +16,11 @@ if (!isset($TEMPLATE)) {
   from a 49-pound camera raised 1000 feet above the bay with a train of Conyne
   kites.</p>
 
-<p>To honor George Lawrence's feat, and to celebrate the advancements made
+<p>To honor George Lawrence&rsquo;s feat, and to celebrate the advancements made
   in earthquake research and awareness, the
   <a href="http://www.drachen.org/">Drachen Foundation</a> sponsored Kite Aerial
   Photographer (KAPer) <a href="http://scotthaefner.com/">Scott Haefner</a>,
-  USGS geologist, to re-shoot Lawrence's photo using contemporary kite aerial
+  USGS geologist, to re-shoot Lawrence&rsquo;s photo using contemporary kite aerial
   photography techniques.</p>
 
 <figure>
@@ -42,8 +42,9 @@ if (!isset($TEMPLATE)) {
   <a href="img/src/boat-fullres.jpg">
     <img src="img/boat.jpg" alt="photo of Malcom's boat in the SF Bay" />
   </a>
-  <figcaption>The new photo was taken using a kite-lofted camera, from the bow
-    of Malcolm Johnston&rsquo;s boat in San Francisco Bay near Treasure Island.
+  <figcaption>The <a href="http://scotthaefner.com/beyond/san-francisco-100-years-later/">new
+    photo</a> was taken using a kite-lofted camera, from the bow of Malcolm
+    Johnston&rsquo;s boat in San Francisco Bay near Treasure Island.
     Photo by Scott Haefner, USGS.</figcaption>
 </figure>
 
