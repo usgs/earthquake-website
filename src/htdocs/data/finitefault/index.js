@@ -1,9 +1,11 @@
 'use strict';
 
-var ShakeMapList = require('listwidget/Finite-FaultList'),
-    EqList = require('listwidget/EqList');
+var EqList = require('listwidget/EqList');
 
-ShakeMapList({
+
+var url = '/fdsnws/event/1/query.geojson?producttype=finite-fault&starttime=-1+year';
+
+EqList({
   container: document.querySelector('.recent-products'),
-  feed: EqList.ALL_URL_MONTH
+  feed: url
 });
