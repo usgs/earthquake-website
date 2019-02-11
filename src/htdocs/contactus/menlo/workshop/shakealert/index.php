@@ -113,11 +113,15 @@ if (!isset($TEMPLATE)) {
 
 ?>
 
-<h2>January 15&ndash;16, 2018</h2>
+<div class="alert info">
+  <p>Please note: this workshop has been re-scheduled. The new dates are March 28&ndash;29, 2019.</p>
+</div>
+
+<h2>March 28&ndash;29, 2019</h2>
 
 <p>
-Tuesday: 10AM &ndash; 5PM<br />
-Wednesday: 8AM &ndash; 1PM
+Thursday: 9AM &ndash; 5PM<br />
+Friday: 8AM &ndash; 1PM
 </p>
 
 <p>

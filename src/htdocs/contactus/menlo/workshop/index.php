@@ -159,7 +159,7 @@ if (!isset($TEMPLATE)) {
     Feb. 5&ndash;6 Northern California Seismic Hazards workshop.</p>
 
     <p>We will announce new dates once we learn what happens when the
-      current funding (called a continuing resolution) expires.</p>
+      current funding (called a continuing resolution) expires on February 15.</p>
   <p><em>Updated on January 30, 2019.</em></p>
 </div>
 
