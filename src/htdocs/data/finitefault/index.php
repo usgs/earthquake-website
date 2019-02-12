@@ -46,6 +46,11 @@ if (!isset($TEMPLATE)) {
                     )
                   ),
                   "basemap" => "terrain",
+                  "listFormat" => "shakemap",
+                  "mapposition" => array(
+                    array(-85, 0),
+                    array(85, 360)
+                  ),
                   "timeZone" => "utc",
                   "viewModes" => array(
                     "map" => true,
