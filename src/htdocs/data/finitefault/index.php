@@ -93,12 +93,38 @@ if (!isset($TEMPLATE)) {
             <img src="/data/shakemap/images/search-2x.gif" alt="" width="75"/>
           </a>
           <p>Search for events that include Finite Faults. The Search form link from here is already configured to return only events with Finite Fault products. You enter additional search parameters. The default time window is the past 30 days.</p>
+
+          <h4>Download Formats</h4>
+          <p>
+            For each model, a series of downloadable files are included that describe:
+            <ul>
+              <li>
+                the finite fault itself (in both a static format familiar to users of rapid NEIC fault models, and in the new SRCMOD Finite Source Parameter (FSP) format, Mai et al., 2016);
+              </li>
+              <li>
+                an ASCII source time function for the event;
+              </li>
+              <li>
+                the global Centroid Moment Tensor (gCMT) CMTSOLUTION for each sub-event (http ://globalcmt.org);
+              </li>
+              <li>
+                input files for the Coulomb3 software package (Toda et al., 2005, 2011 and
+              </li>
+              <li>
+                three-components of predicted ground deformation, computed using the Okada(1992) formulation on a grid surrounding the sur-face expression of the model. For more details, see Hayes (2017)
+              </li>
+            </ul>
+          </p>
         </li>
       </ul>
 
   </div>
 
   <div class="column three-of-five">
+
+    <h2>Introduction</h2>
+    <p>When earthquakes occur, they involve slip over a fault area rather than at a point source. How much the fault slips, and over how large an area, are both related to the size of the event – in fact, seismic moment is the product of slip, fault area, and shear modulus, a variable related to the geophysical properties of rock in the earthquake source region. Slip magnitude and extent can be modeled via a “finite fault inversion”, which uses recordings of the earthquake to reconstruct its slip history. The resulting “finite fault models” can be static (if using non-continuous geodetic data, like InSAR, campaign or low sample rate GPS data) or kinematic (using seismic, high-rate GPS or tsunami data). Since the shaking caused by an earthquake – and thus the impact it has on people and infrastructure – are related to the spatial extent of slip on the fault, constraining the slip history of a recent earthquake is a very important step to earthquake response at the NEIC, to improve our real time estimates of earthquake shaking (<a href="shakemap/">ShakeMap</a>) and related fatalities and loses (<a href="pager/">PAGER</a>).
+    </p>
 
     <h2>Data Process and Inversion</h2>
     <p>
