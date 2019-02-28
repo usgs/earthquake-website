@@ -62,19 +62,19 @@ if (!isset($TEMPLATE)) {
     'id' => 'talkYes',
     'value' => 'yes'
   ]);
-  $daysTues = new Input([
-    'name' => 'days',
-    'type' => 'checkbox',
-    'required' => true,
-    'id' => 'daysTues',
-    'value' => 'tuesday'
-  ]);
   $daysWeds = new Input([
     'name' => 'days',
     'type' => 'checkbox',
     'required' => true,
     'id' => 'daysWeds',
     'value' => 'wednesday'
+  ]);
+  $daysThurs = new Input([
+    'name' => 'days',
+    'type' => 'checkbox',
+    'required' => true,
+    'id' => 'daysThurs',
+    'value' => 'thursday'
   ]);
   $jackNo = new Input([
     'name' => 'jack',
@@ -130,8 +130,8 @@ if (!isset($TEMPLATE)) {
   ]);
   $form->addGroup([
     'controls' => [
-      $daysTues,
-      $daysWeds
+      $daysWeds,
+      $daysThurs
     ],
     'arrangement' => 'stacked',
     'label' => 'Which days are you attending?'
@@ -141,8 +141,8 @@ if (!isset($TEMPLATE)) {
       $jackYes,
       $jackNo
     ],
-    'description' => 'Do you plan to join us Tuesday evening for an informal gathering following the commemoration for Jack Boatwright?',
-    'label' => 'Tuesday Evening Gathering'
+    'description' => 'Do you plan to join us Thursday evening for an informal gathering following the commemoration for Jack Boatwright?',
+    'label' => 'Thursday Evening Gathering'
   ]);
   $form->addControl($workshop);
 
@@ -151,26 +151,12 @@ if (!isset($TEMPLATE)) {
 
 ?>
 
-<div class="alert warning">
-  <h2>Workshop Postponed</h2>
-
-  <p>The federal government has reopened, but with funding for only three weeks.
-    Due to the uncertainty during the shutdown, we decided to postpone the
-    Feb. 5&ndash;6 Northern California Seismic Hazards workshop.</p>
-
-    <p>We will announce new dates once we learn what happens when the
-      current funding (called a continuing resolution) expires on February 15.</p>
-  <p><em>Updated on January 30, 2019.</em></p>
-</div>
-
-<!--
-<h2>February 5–6, 2019</h2>
+<h2>May 1&ndash;2, 2019</h2>
 
 <p>
-Tuesday: 9AM – 4:30PM<br>
-Wednesday: 9AM – 3:45PM
+Wednesday: 9AM – 4:30PM<br>
+Thursday: 9AM – 3:45PM
 </p>
--->
 
 <p>
   <a href="/contactus/menlo/menloloc.php">USGS Menlo Park Campus</a><br />
