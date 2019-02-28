@@ -141,8 +141,8 @@ if (!isset($TEMPLATE)) {
       $jackYes,
       $jackNo
     ],
-    'description' => 'Do you plan to join us Thursday evening for an informal gathering following the commemoration for Jack Boatwright?',
-    'label' => 'Thursday Evening Gathering'
+    'description' => 'Do you plan to join us Wednesday evening for an informal gathering following the commemoration for Jack Boatwright?',
+    'label' => 'Wednesday Evening Gathering'
   ]);
   $form->addControl($workshop);
 
