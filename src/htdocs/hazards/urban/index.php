@@ -90,7 +90,7 @@ if	(!isset($TEMPLATE))	{
     </p>
   </li>
   <li>
-    <a href="images/ceus-seis-haz.pdf">
+    <a href="/static/lfs/nshm/urban/ceus-seis-haz.pdf">
       <h4>Central and Eastern U.S. Hazard and Seismicity Map</h4>
       <img src="images/ceus-seis-haz.gif" alt="thumbnail of seismicity of CEUS"/>
     </a>
