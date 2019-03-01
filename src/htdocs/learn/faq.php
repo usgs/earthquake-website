@@ -159,7 +159,6 @@
   <li><a href="https://www.usgs.gov/faqs/when-will-next-large-earthquake-occur-yellowstone">When will the next large earthquake occur in Yellowstone?</a></li>
   <li><a href="https://www.usgs.gov/faqs/are-there-earthquakes-associated-mount-hood">Are there earthquakes associated with Mount Hood?</a></li>
   <li><a href="https://www.usgs.gov/faqs/can-earthquakes-trigger-volcanic-eruptions">Can earthquakes trigger volcanic eruptions?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/there-a-relationship-between-large-earthquakes-m6-occur-along-major-fault-zones-and-nearby">Is there a relationship between large earthquakes (>M6) that occur along major fault zones and nearby volcanic eruptions?</a></li>
 </ul>
 
 <h2>Nuclear Explosions and Seismology</h2>
