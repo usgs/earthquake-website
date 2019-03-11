@@ -143,7 +143,7 @@
 
     <tr>
       <td><strong>mb_Lg, mb_lg, or MLg</strong> <br />
-        (hort-period surface wave)</td>
+        (short-period surface wave)</td>
       <td>~3.5 to ~7.0</td>
       <td>150 – 1110 km (10 degres)</td>
       <td>
