@@ -108,23 +108,59 @@
 <h2>The Scientists Behind the Science</h2>
 
 <figure class="left">
-  <img src="images/???" alt=""/>
+  <img src="images/briggs.jpg" alt=""/>
   <figcaption>
-    ???
+    Rich Briggs.
 </figcaption>
 </figure>
 <p>
-  <strong>Jaime Delano</strong> ...
+  <strong><a href="https://www.usgs.gov/staff-profiles/rich-briggs">Rich Briggs</a></strong> ...
 </p>
 
 <br style="clear:left;"/>
 
 <figure class="left">
-  <img src="images/???" alt=""/>
+  <img src="images/delano.jpg" alt=""/>
   <figcaption>
-    ???
+    Jaime Delano.
 </figcaption>
 </figure>
 <p>
-  <strong>???</strong> ...
+  <strong><a href="https://www.usgs.gov/staff-profiles/jaime-delano">Jaime Delano</a></strong> ...
+</p>
+
+<br style="clear:left;"/>
+
+<figure class="left">
+  <img src="/research/everyone/2018/wasatch-sequencing/images/DuRoss.jpg" alt=""/>
+  <figcaption>
+    Chris DuRoss with samples from a trench in the Tetons near Jackson Hole, Wyoming.
+</figcaption>
+</figure>
+<p>
+  <strong><a href="https://www.usgs.gov/staff-profiles/christopher-duross">Chris DuRoss</a></strong> is a Research Geologist with the USGS in Golden, Colorado. As a paleoseismologist, he studies geologic evidence of large, prehistoric earthquakes in areas of active faulting such as the Wasatch Front. When not working, he can be found (or not) with his family in the remote parts of the West.
+</p>
+
+<br style="clear:left;"/>
+
+<figure class="left">
+  <img src="images/gold.jpg" alt=""/>
+  <figcaption>
+    Ryan Gold mapping the Teton fault in Wyoming in a paleoseismic trench at the Buffalo Bowl site.
+</figcaption>
+</figure>
+<p>
+  <strong><a href="https://www.usgs.gov/staff-profiles/ryan-gold">Ryan Gold</a></strong> is a Research Geologist with the USGS. His work focuses on documenting the timing and magnitude of past (prehistoric) earthquakes using clues from the modern landscape and trench exposures. When he’s not working, he can usually be found trail running or skiing in the Colorado Rocky Mountains.
+</p>
+
+<br style="clear:left;"/>
+
+<figure class="left">
+  <img src="images/jibson.jpg" alt=""/>
+  <figcaption>
+    Randy Jibson investigating the stability of Tsho Rholpa, a glacial lake in the Himalayas, following the 2015 Gorkha, Nepal earthquake.
+</figcaption>
+</figure>
+<p>
+  <strong><a href="https://www.usgs.gov/staff-profiles/randall-w-jibson">Randy Jibson</a></strong> is a Research Geologist with the USGS working in Golden, Colorado.  With backgrounds in both geology and geotechnical engineering, he has studied landslides that have been triggered by earthquakes throughout the world for more than 40 years.  When not chasing earthquakes, he enjoys being with his family for back-road travel, hiking, biking, and all that other outdoor stuff.
 </p>
