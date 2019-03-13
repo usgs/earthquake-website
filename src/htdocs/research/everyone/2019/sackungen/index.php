@@ -107,7 +107,7 @@
 
 <h2>The Scientists Behind the Science</h2>
 
-<figure class="left">
+<figure class="left bio">
   <img src="images/briggs.jpg" alt=""/>
   <figcaption>
     Rich Briggs.
@@ -119,19 +119,19 @@
 
 <br style="clear:left;"/>
 
-<figure class="left">
+<figure class="left bio">
   <img src="images/delano.jpg" alt=""/>
   <figcaption>
     Jaime Delano.
 </figcaption>
 </figure>
 <p>
-  <strong><a href="https://www.usgs.gov/staff-profiles/jaime-delano">Jaime Delano</a></strong> ...
+  <strong><a href="https://www.usgs.gov/staff-profiles/jaime-delano">Jaime Delano</a></strong> is a geologist with the USGS in Golden, CO who studies past earthquakes by looking for evidence in the landscape with high-resolution imagery and digging into the sediment record. She also enjoys podcasts, playing in the mountains, and experimenting with sourdough bread.
 </p>
 
 <br style="clear:left;"/>
 
-<figure class="left">
+<figure class="left bio">
   <img src="/research/everyone/2018/wasatch-sequencing/images/DuRoss.jpg" alt=""/>
   <figcaption>
     Chris DuRoss with samples from a trench in the Tetons near Jackson Hole, Wyoming.
@@ -143,7 +143,7 @@
 
 <br style="clear:left;"/>
 
-<figure class="left">
+<figure class="left bio">
   <img src="images/gold.jpg" alt=""/>
   <figcaption>
     Ryan Gold mapping the Teton fault in Wyoming in a paleoseismic trench at the Buffalo Bowl site.
@@ -155,7 +155,7 @@
 
 <br style="clear:left;"/>
 
-<figure class="left">
+<figure class="left bio">
   <img src="images/jibson.jpg" alt=""/>
   <figcaption>
     Randy Jibson investigating the stability of Tsho Rholpa, a glacial lake in the Himalayas, following the 2015 Gorkha, Nepal earthquake.
