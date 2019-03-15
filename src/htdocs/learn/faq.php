@@ -166,6 +166,5 @@
   <li><a href="https://www.usgs.gov/faqs/can-nuclear-explosions-cause-earthquakes">Can nuclear explosions cause earthquakes?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-are-differences-between-explosions-and-earthquakes">What are the differences between explosions and earthquakes?</a></li>
   <li><a href="https://www.usgs.gov/faqs/can-we-use-a-lot-explosives-cause-small-earthquakes-order-prevent-having-large-ones">Can we use a lot of explosives to cause small earthquakes in order to prevent having large ones?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-comprehensive-test-ban-treaty-ctbt">What is the Comprehensive Test Ban Treaty (CTBT)?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-role-seismology-monitoring-comprehensive-test-ban-treaty">What is the role of seismology in monitoring the Comprehensive Test Ban Treaty?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/what-comprehensive-test-ban-treaty-ctbt">What is the Comprehensive Test Ban Treaty (CTBT), and what is the role of seismology in monitoring it?</a></li>
 </ul>
