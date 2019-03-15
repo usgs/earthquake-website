@@ -114,7 +114,7 @@
 </figcaption>
 </figure>
 <p>
-  <strong><a href="https://www.usgs.gov/staff-profiles/rich-briggs">Rich Briggs</a></strong> ...
+  <strong><a href="https://www.usgs.gov/staff-profiles/rich-briggs">Rich Briggs</a></strong> is a Research Geologist with the USGS in Golden, Colorado. He studies the geology of earthquakes. When not at work, he has a soft spot for vintage hi-fi, the theory and practice of pilsner, and freestyle home improvement. He mostly loves hanging out with his family.
 </p>
 
 <br style="clear:left;"/>
