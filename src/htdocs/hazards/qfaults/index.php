@@ -14,7 +14,7 @@
 <div class='row'>
   <div class='column three-of-five'>
     <h2>Interactive Fault Map</h2>
-    <a href='https://doi.org/10.5066/F7S75FJM'><img class='left' src='images/qfault.png'></a>
+    <a href='https://doi.org/10.5066/F7S75FJM'><img class='left' src='images/qfault-thumb.jpg'></a>
 
     <br style="clear:left;"/>
     <p><a href='https://doi.org/10.5066/F7S75FJM'><strong>View interactive fault map.</strong></a></p>
