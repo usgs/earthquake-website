@@ -19,14 +19,13 @@ if (!isset($TEMPLATE)) {
 
     <h2>Annual Competitive Grants</h2>
 
-<!--
     <p>
-      <strong>The FY19 External Grants Application Period is now open though May 22, 2018. The <a href="https://www.grants.gov/">grants.gov</a> Opportunity Number is G18AS00021.</strong>
+      <strong>The FY20 External Grants Application Period is now open though May 29, 2019. The <a href="https://www.grants.gov/">grants.gov</a> Opportunity Number is G19AS00033.</strong>
     </p>
     <p>
-      <a href="https://www.grants.gov/web/grants/search-grants.html?keywords=G18AS00021">FY19 External Grants Program Announcement</a>
+      <a href="https://www.grants.gov/web/grants/search-grants.html?keywords=G19AS00033">FY20 External Grants Program Announcement</a>
     </p>
--->
+
     <p>
       External Grants issues an annual Program announcement for competitive proposals for grants and cooperative agreements to support research in earthquake hazards, the physics of earthquakes, earthquake occurrence, and earthquake safety policy. To find out when the next application period will be, you can enroll on the <a href="http://grants.gov/">grants.gov</a> website to receive an email notification regarding "CFDA number 15.807 application period openings" : <a href="https://www.grants.gov/web/grants/manage-subscriptions.html">Manage Subscriptions</a>.
     </p>

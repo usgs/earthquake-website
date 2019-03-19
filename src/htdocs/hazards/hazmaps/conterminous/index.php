@@ -111,7 +111,7 @@
   <li><a href="/cfusion/hazfaults_2014_search/query_main.cfm">Faults Database Search</a>
   </li>
 
-  <li><a href="/hazards/qfaults/map/hazfault2014.html">Fault Source Map</a></li>
+  <li><a href="https://doi.org/10.5066/F7S75FJM">Fault Source Map</a> - click on the "layers" icon and check the "hazfaults2014" box</li>
 
   <li><strong><a href="https://pubs.usgs.gov/of/2014/1091/">Hazard Model Documentation</a> (USGS OFR 2014-1091)</strong></li>
   <li><strong><a href="https://github.com/usgs/nshmp-haz-fortran/wiki">OFR 2014-1091 Errata and User Q &amp; A</a></strong></li>
@@ -152,7 +152,7 @@
   <li><a href="https://github.com/usgs/nshmp-haz-fortran/releases/tag/nshm2008r3">Source Code - Revision III</a></li>
   <li><a href="2008/catalogs.php">Catalogs</a></li>
   <li><a href="/cfusion/hazfaults_2008_search/query_main.cfm">Faults Database Search</a></li>
-  <li><a href="/hazards/qfaults/map/hazfault2008.html">Fault Source Map</a></li>
+  <li><a href="https://doi.org/10.5066/F7S75FJM">Fault Source Map</a> - click on the "layers" icon and check the "hazfaults2008" box</li>
   <li><a href="https://pubs.usgs.gov/of/2008/1128/">Documentation for the 2008 Update of the United States National Seismic Hazard Maps</a> (USGS OFR 2008-1128)</li>
 </ul>
 
@@ -186,7 +186,7 @@
   <li><a href="2002/data.php">Data</a></li>
   <li>Source Code is not available.</li>
   <li><a href="/cfusion/hazfaults_2002_search/query_main.cfm">Faults Database Search</a></li>
-  <li><a href="/hazards/qfaults/map/hazfault2002.html">Fault Source Map</a></li>
+  <li><a href="https://doi.org/10.5066/F7S75FJM">Fault Source Map</a> - click on the "layers" icon and check the "hazfaults2002" box</li>
   <li><a href="https://pubs.usgs.gov/of/2002/ofr-02-420/">Documentation for the 2002 Update of the National Seismic Hazard Maps</a> (USGS OFR 02-420)</li>
 </ul>
 

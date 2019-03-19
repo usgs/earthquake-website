@@ -42,7 +42,7 @@
   <li><a href="https://www.usgs.gov/faqs/did-i-feel-earthquake-can-i-report-feeling-earthquake-0">Did I feel an earthquake? Can I report feeling an earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-earthquake-was-reportedrecorded-network-x-or-i-felt-not-maplist">Why is the earthquake that was reported/recorded by network X, or that I felt, not on the map/list?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-do-some-earthquakes-disappear-maplist">Why do some earthquakes disappear from the map/list?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/why-don-t-you-report-earthquakes-local-time-where-earthquake-occurred">Why don’t you report earthquakes in the local time where the earthquake occurred?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/why-don-t-you-report-earthquakes-local-time-where-earthquake-occurred">What is UTC, and why don’t you report earthquakes in the local time where the earthquake occurred?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-isnt-fault-earthquake-occurred-or-distance-nearest-fault-provided">Why isn't the fault the earthquake occurred on or the distance to the nearest fault provided?</a></li>
   <li><a href="https://www.usgs.gov/faqs/can-i-get-a-list-receive-email-message-when-there-earthquake-how-do-i-sign-earthquake">Can I get on a list to receive an email message when there is an earthquake? How do I sign up for earthquake notifications?  Are there any Feeds I can subscribe to?</a></li>
   <li><a href="https://www.usgs.gov/faqs/when-are-tsunami-information-and-links-put-event-page">When are tsunami information and links put on the event page?</a></li>
@@ -61,7 +61,6 @@
   <li><a href="https://www.usgs.gov/faqs/how-do-you-determine-magnitude-earthquake-occurred-prior-creation-magnitude-scale">How do you determine the magnitude for an earthquake that occurred prior to the creation of the magnitude scale?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-do-seismologists-locate-earthquake">How do seismologists locate an earthquake?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-was-duration-earthquake-why-dont-you-report-duration-each-earthquake-how-does-duration">What was the duration of the earthquake? Why don't you report the duration of each earthquake? How does the duration affect the magnitude?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-are-utc-and-gmt-reference-time-earthquake">What are UTC and GMT (in reference to the time of an earthquake)?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-can-earthquake-have-a-negative-magnitude">How can an earthquake have a negative magnitude?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-does-it-mean-earthquake-occurred-a-depth-0-km-how-can-earthquake-have-a-negative-depth">What does it mean that the earthquake occurred at a depth of 0 km?  How can an earthquake have a negative depth; that would mean it’s in the air.  What is the geoid, and what does it have to do with earthquake depth?</a></li>
   <li><a href="https://www.usgs.gov/faqs/seismometers-seismographs-seismograms-whats-difference-how-do-they-work">Seismometers, seismographs, seismograms - what's the difference? How do they work?</a></li>
@@ -164,7 +163,7 @@
 <h2>Nuclear Explosions and Seismology</h2>
 <ul>
   <li><a href="https://www.usgs.gov/faqs/can-nuclear-explosions-cause-earthquakes">Can nuclear explosions cause earthquakes?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/what-are-differences-between-explosions-and-earthquakes">What are the differences between explosions and earthquakes?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/what-are-differences-between-explosions-and-earthquakes">How can yout tell the difference between an explosion and an earthquake on a seismogram?</a></li>
   <li><a href="https://www.usgs.gov/faqs/can-we-use-a-lot-explosives-cause-small-earthquakes-order-prevent-having-large-ones">Can we use a lot of explosives to cause small earthquakes in order to prevent having large ones?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-comprehensive-test-ban-treaty-ctbt">What is the Comprehensive Test Ban Treaty (CTBT), and what is the role of seismology in monitoring it?</a></li>
 </ul>
