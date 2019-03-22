@@ -28,7 +28,7 @@ if (!isset($TEMPLATE)) {
 
     <p>Find the earthquake you felt, and then tell us about it. Not in the list?
       <br/>
-        <a href="/earthquakes/eventpage/unknown#impact_tellus">
+        <a href="/earthquakes/eventpage/tellus">
           <button class="green">
             Report an Unknown Event
           </button>
