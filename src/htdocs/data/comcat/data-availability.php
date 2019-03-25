@@ -75,12 +75,6 @@
   </tbody>
 </table>
 
-<h2>Currently loading (available soon)</h2>
-
-<ul>
-  <li>&ldquo;Official&rdquo; magnitudes</li>
-</ul>
-
 <h2>"Missing" Earthquakes</h2>
 
 <ul>
