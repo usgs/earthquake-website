@@ -58,6 +58,9 @@ if (!isset($TEMPLATE)) {
     <p>
       <a href="earthquakes/browse/significant.php">Significant Earthquakes Archive</a>
     </p>
+    <p>
+      <a href="earthquakes/search/">Search Earthquake Catalog</a>
+    </p>
 
     <p class='alert'>
       <img class="nehrp" src="images-home/nehrp.png">
