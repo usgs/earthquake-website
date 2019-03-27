@@ -28,8 +28,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'The Alaska Amphibious Community Seismic Experiment is taking a close look at seismic activity along the Alaska Peninsula to understand earthquakes in this little-studied region. (EOS article)',
   'link' => 'https://eos.org/project-updates/examining-alaskas-earthquakes-on-land-and-sea?utm_source=rss&utm_medium=rss&utm_content=examining-alaskas-earthquakes-on-land-and-sea',
   'modified' => strtotime('2019-03-27'),
-  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/AK-amphib.jpg',
-  'image' => 'https://earthquake.usgs.gov/images-featured/AK-amphib.jpg'
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/AK-amphib-sm.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/AK-amphib-sm.jpg'
 );
 
 $EQ_FEATURES->items[] = array(
