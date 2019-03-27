@@ -13,6 +13,26 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2019-03-27',
+  'title' => 'USGS Seeks Earthquake Hazards Research Proposals',
+  'content' => 'The U.S. Geological Survey (USGS) is currently soliciting project proposals for Fiscal Year (FY) 2020 grants on earthquake hazards science and is authorized to award up to $7 million total.',
+  'link' => 'https://www.usgs.gov/news/usgs-seeks-earthquake-hazards-research-proposals-1',
+  'modified' => strtotime('2019-03-27'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/news-sep14.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/news-sep14.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2019-03-27',
+  'title' => 'Examining Alaska’s Earthquakes on Land and Sea',
+  'content' => 'The Alaska Amphibious Community Seismic Experiment is taking a close look at seismic activity along the Alaska Peninsula to understand earthquakes in this little-studied region. (EOS article)',
+  'link' => 'https://eos.org/project-updates/examining-alaskas-earthquakes-on-land-and-sea?utm_source=rss&utm_medium=rss&utm_content=examining-alaskas-earthquakes-on-land-and-sea',
+  'modified' => strtotime('2019-03-27'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/AK-amphib.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/AK-amphib.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2019-03-06',
   'title' => 'New tsunami evidence along one of Earth’s largest faults, the Alaska-Aleutian megathrust',
   'content' => 'Recent geological studies of a key section of the Aleutian Island chain of Alaska suggest Aleutian tsunamis may occur more frequently than previously understood.',
