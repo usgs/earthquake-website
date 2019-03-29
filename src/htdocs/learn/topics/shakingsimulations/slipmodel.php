@@ -1,8 +1,9 @@
-<?
+<?php
 if (!isset($TEMPLATE)){
   $TITLE='1906 Slip Model';
   $HEAD='';
   $FOOT='';
+  $NAVIGATION = true;
 
   include 'template.inc.php';
 }
