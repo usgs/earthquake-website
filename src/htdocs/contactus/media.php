@@ -26,8 +26,7 @@ include 'template.inc.php';
 
   <li><a href="menlo/">
     Western U.S. Earthquakes - USGS Earthquake Science Center</a><br/>
-    345 Middlefield Rd. MS-977, Menlo Park, CA 94025, 800-329-4085 or
-    650-329-4668
+    345 Middlefield Rd. MS-977, Menlo Park, CA 94025, 650-329-4668
   </li>
 </ul>
 
