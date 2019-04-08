@@ -1,8 +1,17 @@
 {
   "id": "ok",
-  "title": "Oklahoma Geological Survey, Norman, USA",
-  "url": null,
+  "title": "Oklahoma Geological Survey Statewide Network, Norman, USA",
+  "url": "http://www.ou.edu/ogs/research/earthquakes/recentearthquakes",
   "aliases": [
-    "tul"
+    "tul","ogs"
+  ],
+  "citation": "https://doi.org/10.7914/SN/OK",
+  "email": "jwalter@ou.edu",
+  "email-name": "Jake Walter",
+  "tel": [
+  {
+    "type": "Voice",
+    "value": "+1-405-325-8497"
+  }
   ]
 }
