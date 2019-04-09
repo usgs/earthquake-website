@@ -98,6 +98,9 @@
 
 <ul>
   <li>
+    Crowell, R. (2019), <a href="https://eos.org/articles/secrets-from-the-new-madrid-seismic-zones-quaking-past?utm_source=rss&utm_medium=rss&utm_content=secrets-from-the-new-madrid-seismic-zones-quaking-past">Secrets from the New Madrid Seismic Zone’s quaking past</a>, Eos, 100, https://doi.org/10.1029/2019EO120349. Published on 09 April 2019.
+  </li>
+  <li>
     Delano, Jaime E., Ryan D. Gold, Richard W. Briggs, Randall W. Jibson, 2018, <a href="https://doi.org/10.1029/2018GL080493">Coseismic Sackungen in the New Madrid Seismic Zone, USA</a>, Geophys. Res. Lett. v45, iss24.
   </li>
   <li>
