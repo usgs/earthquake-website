@@ -103,4 +103,8 @@ in the world.
 	<li><a href="/monitoring/institutions.php">Geophysics Institutions Throughout the World</a></li>
 </ul>
 
-<p>Also see: <a href="/learn/faq.php">FAQs about Latest Earthquake Information and Other Topics</a></p>
+<p>See also:</p>
+<ul>
+  <li><a href="/contactus/golden/neic.php#resp">National Earthquake Information Center</li> "Response Events"
+  <li><a href="/learn/faq.php">FAQs about Latest Earthquake Information and Other Topics</a></li>
+</ul>
