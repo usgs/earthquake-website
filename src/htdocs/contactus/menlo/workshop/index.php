@@ -154,8 +154,8 @@ if (!isset($TEMPLATE)) {
 <h2>May 1&ndash;2, 2019</h2>
 
 <p>
-Wednesday: 9AM – 4:30PM<br>
-Thursday: 9AM – 3:45PM
+Wednesday: 9AM &ndash; 4:30PM<br>
+Thursday: 9AM &ndash; 3:45PM
 </p>
 
 <p>
