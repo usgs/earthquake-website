@@ -2,7 +2,7 @@
 // Author: Lisa Wald
 // Contact: Ryan Gold
   if (!isset($TEMPLATE)) {
-    $TITLE = 'Geologic Cracks Support Evidence of Earthquakes on the Reelfoot Fault in Central U.S.';
+    $TITLE = 'Geologic Cracks Record Earthquakes on the Reelfoot Fault in Central U.S.';
     $HEAD = '<link rel="stylesheet" href="index.css"/>';
     $NAVIGATION = true;
     include 'template.inc.php';
