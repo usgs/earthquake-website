@@ -1,6 +1,6 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Bill Leith
+  // Contact: Jonathan Godt
   if (!isset($TEMPLATE)) {
   $TITLE = 'National Earthquake Prediction Evaluation Council (NEPEC)';
   $NAVIGATION = true;
@@ -25,9 +25,9 @@
 <ul class='no-style separator'>
   <li>Dr. Roland Burgmann, Chair<br />
     University of California, Berkeley</li>
-  <li>Dr. Bill Leith, Co-chair, <em>ex officio</em> <br />
-    Senior Science Advisor for Earthquake and Geologic Hazards<br />
-and Coordinator, Earthquake Hazards Program<br />
+  <li>Dr. Jonathan Godt, Co-chair, <em>ex officio</em> <br />
+    Acting Senior Science Advisor for Earthquake and Geologic Hazards<br />
+and Acting Coordinator, Earthquake Hazards Program<br />
     USGS, Reston, Virginia</li>
   <li>Dr. Michael Blanpied, Designated Federal Official (DFO)<br />
     Associate Coordinator, Earthquake Hazards Program<br />
@@ -40,8 +40,8 @@ and Coordinator, Earthquake Hazards Program<br />
   USGS, Pasadena, CA</li>
   <li>Dr. Andrew Michael <br />
   USGS, Menlo Park, California</li>
-  <li>Dr. Allan Rubin <br />
-    Princeton University</li>
+  <li>Dr. Katherine Scharer <br />
+    USGS, Pasadena, CA</li>
   <li>Dr. Peter Shearer <br />
     University of California, San Diego</li>
   <li>Dr. John Vidale<br />
