@@ -14,7 +14,7 @@ if (!isset($TEMPLATE)) {
   <img src="images/myths.png" alt="Image depicting hydraulic fracturing and waste water disposal"/>
 </figure>
 
-<h3>Fact 1: Fracking is NOT causing most of the induced earthquakes. Wastewater disposal is the primary cause of the recent increase in earthquakes in the central United States.</h3>
+<h3>Fact 1: Fracking is not directly causing most of the induced earthquakes. Disposal of waste fluids that are a byproduct of oil production is the primary cause of the recent increase in earthquakes in the central United States.</h3>
 
 <p>
   Wastewater disposal wells typically operate for longer durations and inject much more fluid than hydraulic fracturing, making them more likely to induce earthquakes. In Oklahoma, which has the most induced earthquakes in US, only 1-2% of the earthquakes can be linked to hydraulic fracturing operations. The remaining earthquakes are induced by wastewater disposal.
