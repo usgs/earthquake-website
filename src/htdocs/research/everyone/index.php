@@ -21,13 +21,14 @@
 <h3>2018</h3>
 <!-- Featured Items -->
   <?php
-  include_once '2018/_features.inc.php';
+  include_once '2019/_features.inc.php';
   echo $EQ_FEATURES->toHtml(-1);
   ?>
 
 <h3>Science for Everyone Archives</h3>
 
 <ul>
+  <li><a href="2018/">2018</a></li>
   <li><a href="2017/">2017</a></li>
   <li><a href="2016/">2016</a></li>
   <li><a href="2015/">2015</a></li>
