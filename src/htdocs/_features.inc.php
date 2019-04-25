@@ -13,11 +13,21 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
-  'id' => '2019-02-04',
+  'id' => '2019-04-25',
+  'title' => 'Seismologists Share Proposed Revisions to National Seismic Hazard Model',
+  'content' => 'The NSHM draft report concludes that as many as 34 million people in the U.S. (about one in nine people) are expected to experience a strong level of shaking at least once in their lifetimes.',
+  'link' => 'https://www.seismosoc.org/news/seismologists-share-proposed-revisions-to-national-seismic-hazard-model/',
+  'modified' => strtotime('2019-04-25'),
+  'thumbnail' => 'http://earthquake.usgs.gov/images-featured/NSHM2018-prop.jpg',
+  'image' => 'http://earthquake.usgs.gov/images-featured/NSHM2018-prop.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2019-04-04',
   'title' => 'Geologic Cracks Record Earthquakes on the Reelfoot Fault in Central U.S.',
   'content' => 'New high-resolution lidar data reveals cracks produced from strong shaking in past earthquakes iin the New Madrid seismic zone.',
   'link' => 'https://earthquake.usgs.gov/research/everyone/2019/sackungen/',
-  'modified' => strtotime('2019-02-04'),
+  'modified' => strtotime('2019-04-04'),
   'thumbnail' => 'http://earthquake.usgs.gov/research/everyone/2019/sackungen/images/fig2sm.jpg',
   'image' => 'http://earthquake.usgs.gov/research/everyone/2019/sackungen/images/fig2sm.jpg'
 );
