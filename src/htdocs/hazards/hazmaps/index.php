@@ -134,7 +134,7 @@
       <li>
         <p>
           <a href="/hazards/foreign.php">Foreign Hazard Maps</a><br/>
-          Includes Afghanistan, Sumatra, State of Gujarat,India.  See also <a href="http://www.seismo.ethz.ch/static/gshap/">Global Seismic Hazard Assessment Program (GSHAP)</a>.
+          Includes Afghanistan, Sumatra, State of Gujarat,India.  See also <a href="https://www.globalquakemodel.org/">Global Earthquake Model (GEM)</a>.
         </p>
       </li>
     </ul>

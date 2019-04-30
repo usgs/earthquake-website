@@ -97,8 +97,6 @@
     <ul>
       <li><a href="seisrisk.php">SeisRisk III</a> - Pre-1996 US Hazard Maps and outside US hazard maps</li>
       <li><a href="http://www.globalquakemodel.org/">Global Earthquake Model (GEM)</a></li>
-      <li><a href="http://www.seismo.ethz.ch/static/GSHAP/global/">Global Seismic Hazards Assesment Project (GSHAP)</a>
-          </li>
     </ul>
   </div>
 </div>
