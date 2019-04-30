@@ -1,6 +1,6 @@
 <?php
   // Author: Lisa Wald
-  // Contact: Bill Leith, leith@usgs.gov
+  // Contact: 
     if (!isset($TEMPLATE)) {
       $TITLE = 'Scientific Earthquake Studies Advisory Committee (SESAC)';
       $NAVIGATION = true;
@@ -9,7 +9,7 @@
 ?>
 
 <p>
-  The Scientific Earthquake Studies Advisory Committee (SESAC) was created in 2002 by legislation reauthorizing the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>. The SESAC meets several times each year, and provides advice and direction to the USGS  Earthquake Hazards Program. The committee's membership and procedures are compliant weith the <a href="http://www.epic.org/open_gov/faca.html">Federal Advisory Committee Act (FACA)</a>.
+  The Scientific Earthquake Studies Advisory Committee (SESAC) was created in 2002 by legislation reauthorizing the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>. The SESAC meets several times each year, and provides advice and direction to the USGS  Earthquake Hazards Program. The committee's membership and procedures are compliant with the <a href="http://www.epic.org/open_gov/faca.html">Federal Advisory Committee Act (FACA)</a>.
 </p>
 <ul>
   <li><strong><a href="docs/SESAC-Charter-2018.pdf">SESAC Charter</a> (PDF)</strong></li>
@@ -23,10 +23,10 @@
   <li>Dr. Greg Beroza (Chair)<br />
   Stanford University</li>
 
-  <li>Dr. William Leith,  Designated Federal Official (DFO)<br />
-  Senior Science Advisor for Earthquake and Geologic Hazards<br />
+  <li>Dr. Jonathan Godt, Designated Federal Official (DFO)<br />
+  Acting Senior Science Advisor for Earthquake and Geologic Hazards<br />
   and Coordinator, Earthquake Hazards Program<br />
-  USGS, Reston, Virginia</li>
+  USGS, Golden, Colorado</li>
 
   <li>Dr. Rick Aster (nominated)<br/>
   Colorado State University</li>
