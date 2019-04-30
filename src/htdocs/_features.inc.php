@@ -13,6 +13,26 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2019-04-30',
+  'title' => 'How to Explain California’s Recent Earthquake Hiatus?',
+  'content' => 'There have been no major ground rupturing earthquakes along California’s San Andreas, San Jacinto and Hayward faults in the past 100 years. At the 2019 SSA Annual Meeting, researchers discussed why this “hiatus” might exist, and what we might expect for California earthquakes over the next century. (SSA News Release)',
+  'link' => 'https://www.seismosoc.org/news/how-to-explain-californias-recent-earthquake-hiatus/',
+  'modified' => strtotime('2019-04-30'),
+  'thumbnail' => 'http://earthquake.usgs.gov/images-featured/SanJacintofault.jpg',
+  'image' => 'http://earthquake.usgs.gov/images-featured/SanJacintofault.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2019-04-30',
+  'title' => 'Snowmelt Caused 2017 Seismic Swarm Near California’s Long Valley Caldera',
+  'content' => 'A spring surge of meltwater, seeping through vertically tilted layers of rock, caused a seismic swarm near California’s Long Valley Caldera in 2017, according to research presented at the 2019 SSA Annual Meeting. (SSA News Release)',
+  'link' => 'https://www.seismosoc.org/news/snowmelt-causes-seismic-swarm-near-californias-long-valley-caldera/',
+  'modified' => strtotime('2019-04-30'),
+  'thumbnail' => 'http://earthquake.usgs.gov/images-featured/LongValley2017swarm.jpg',
+  'image' => 'http://earthquake.usgs.gov/images-featured/LongValley2017swarm.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2019-04-25',
   'title' => 'Seismologists Share Proposed Revisions to National Seismic Hazard Model',
   'content' => 'The NSHM draft report concludes that as many as 34 million people in the U.S. (about one in nine people) are expected to experience a strong level of shaking at least once in their lifetimes.',
