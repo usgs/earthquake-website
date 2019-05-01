@@ -3,9 +3,43 @@
   // Contact: Paul Earle,
   // Last modified: 03/03/2016
   if (!isset($TEMPLATE)) {
-  $TITLE = 'ComCat Documentation - Data Availability';
-  $NAVIGATION = true;
-  include 'template.inc.php';
+    $TITLE = 'ComCat Documentation - Data Availability';
+    $NAVIGATION = true;
+
+    $catalogUrl = 'https://earthquake.usgs.gov/data/comcat/catalog/index.json.php';
+    $catalogs = json_decode(file_get_contents($catalogUrl), true);
+
+    function getCatalog ($id) {
+      global $catalogs;
+      foreach ($catalogs as $catalog) {
+        if ($catalog['id'] === $id) {
+          return $catalog;
+        }
+      }
+
+      return array(
+        'id' => $id,
+        'title' => $id,
+        'url' => "./catalog/${id}/"
+      );
+    }
+
+    include_once '/etc/puppet/EHPServer.class.php';
+    $pdo = EHPServer::getDatabase('product_index');
+    $statement = $pdo->query('
+    SELECT
+      source,
+      (FROM_UNIXTIME(0) + INTERVAL (MIN(eventTime)/1000) SECOND) AS start,
+      (FROM_UNIXTIME(0) + INTERVAL (MAX(eventTime)/1000) SECOND) AS end
+    FROM
+      event
+    WHERE
+      eventTime IS NOT NULL AND
+      source IS NOT NULL
+    GROUP BY
+      source
+    ');
+    include 'template.inc.php';
   }
 ?>
 
@@ -19,60 +53,21 @@
   </thead>
 
   <tbody>
-    <tr>
-      <td>Realtime Earthquake Data Sources and Contributing Networks</td>
-      <td>2013-02-02 to present</td>
-    </tr>
-
-    <tr>
-      <td><a href="catalog/atlas/">ATLAS</a> - Shakemap Atlas</td>
-      <td>1923 to 2011</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/ci/">CI</a></td>
-      <td>1932 to present</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/duputel/">DUPUTEL</a> - Wphase</td>
-      <td>1990 to 2012</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/gcmt/">GCMT</a> - Global Centroid-Moment-Tensor</td>
-      <td>1976 to present</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/iscgem/">ISCGEM</a></td>
-      <td>1900 to 2012</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/ld/">LD</a></td>
-      <td>1970 to present</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/nm/">NM</a></td>
-      <td>2002 to present</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/se/">SE</a></td>
-      <td>2002 to present</td>
-    </tr>
-    <tr>
-      <td><a href="catalog/us">US</a> - NEIC PDE Preliminary Determination of Epicenters Bulletin</td>
-      <td>
-        <ul>
-          <li>Monthly from 1973-01-01 to 2011-03-31</li>
-          <li>Weekly from 2011-04-01 to 2012-10-13</li>
-          <li>Daily from 2012-10-14 to 2013-02-08</li>
-          <li><a href="/data/mineblast/">Routine United States Mining Seismicity</a> from 1997-May to 2013-July</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="catalog/nm/">UW</a></td>
-      <td>1969 to present</td>
-    </tr>
-
-  </tbody>
+    <?php while ($row = $statement->fetch(PDO::FETCH_ASSOC)) : ?>
+      <tr>
+        <?php $catalog = getCatalog($row['source']); ?>
+        <td style="max-width: 60em;">
+          <?= strtoupper($catalog['id']) ?> -
+          <a href="<?= $catalog['url'] ?>"><?= $catalog['title'] ?></a>
+        </td>
+        <td>
+          <?= $row['start'] ?>
+          to
+          <?= $row['end']; ?>
+        </td>
+      </tr>
+    <?php endwhile; ?>
+   </tbody>
 </table>
 
 <h2>"Missing" Earthquakes</h2>
