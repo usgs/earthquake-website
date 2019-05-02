@@ -6,6 +6,16 @@
     $TITLE = 'ComCat Documentation - Data Availability';
     $NAVIGATION = true;
 
+    date_default_timezone_set('UTC');
+    define('RFC_DATE', 'D, d M Y H:i:s \G\M\T');
+    $time = time();
+    $lastModified = gmdate(RFC_DATE, $time);
+    $MAX_AGE = 86400; // 1 day
+
+    header('Cache-Control: public, max-age=' . $MAX_AGE);
+    header('Expires: ' . gmdate(RFC_DATE, $time + $MAX_AGE));
+    header('Last-Modified: ' . $lastModified);
+
     $catalogUrl = 'https://earthquake.usgs.gov/data/comcat/catalog/index.json.php';
     $catalogs = json_decode(file_get_contents($catalogUrl), true);
 
@@ -43,7 +53,7 @@
   }
 ?>
 
-<h2>Data Availability as of 2016-08-15</h2>
+<h2>Data Availability as of <?= $lastModified ?></h2>
 <table>
   <thead>
     <tr>
