@@ -114,7 +114,7 @@
 
 <h2 id='personnel'>Personnel</h2>
 <p>
-  The database structure was created by Kathy Haller (USGS) and an early version of the web interface and search engines were created by Larry Mayer (formerly of the University of Miami at Oxford, Ohio). The GIS data was engineered by Richard Dart and maintained by Jerry Mayer (USGS). The fault and fold traces were digitized mainly by Richard Dart, with help from Dean Hancock*. Static maps were made by Susan Rhea (USGS), Richard Dart, and Damon Sather*. The graphic web browser and ArcIMS module (still under development) were created by Susan Rhea, Damon Sather*, Karen Morgan*, and John Cox*. Much of the reference database and entry of data into the text database was done with the able assistance of Philly Morrow, Meredith Frey, and Kelli Clark (*, all former student interns or contractors to the USGS).
+  The database structure was created by <a href="#11">Kathy Haller</a>(USGS) and an early version of the web interface and search engines were created by Larry Mayer (formerly of the University of Miami at Oxford, Ohio). The GIS data was engineered by Richard Dart and maintained by Jerry Mayer (USGS). The fault and fold traces were digitized mainly by Richard Dart, with help from Dean Hancock*. Static maps were made by Susan Rhea (USGS), Richard Dart, and Damon Sather*. The graphic web browser and ArcIMS module (still under development) were created by Susan Rhea, Damon Sather*, Karen Morgan*, and John Cox*. Much of the reference database and entry of data into the text database was done with the able assistance of Philly Morrow, Meredith Frey, and Kelli Clark (*, all former student interns or contractors to the USGS).
 </p>
 
 <h2 id='refs'>References</h2>
@@ -124,6 +124,9 @@
   </li>
   <li id="5248">
     Frankel, A.D., Mueller, C.S., Barnhard, T.P., Perkins, D.M., Leyendecker, E.V., Dickman, N., Hanson, S.L., and Hopper, M.G., 1996, National seismic-hazard maps&#8212;Documentation June 1996: U.S. Geological Survey Open-File Report 96-0532, 110 p.
+  </li>
+  <li id="11">
+    Haller, K.M., Machette, M.N., Dart, R.L., 1993, Maps of major active faults, Western Hemisphere, International Lithosphere Program (ILP), Project II-2; guidelines for U.S. database and map, June 1993, U.S. Geological Survey Open-File Report 93-338.
   </li>
   <li id="642">
     Hecker, S., 1993, Quaternary tectonics of Utah with emphasis on earthquake-hazard characterization: Utah Geological Survey Bulletin 127, 157 p., 6 pls., scale 1:500,000.
