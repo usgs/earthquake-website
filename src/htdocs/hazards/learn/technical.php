@@ -22,6 +22,7 @@
   <li><a href="#same">The seismic hazard map is for ground motions having a 2% probability of exceedance in 50 years. Are those values the same as those for 10% in 250?</a></li>
   <li><a href="#soil">I am trying to calculate the ground motion effect for a certain location in California. I obtained the design spectrum acceleration from your site, but I would like to identify the soil type of this location - how can I get that?</a></li>
   <li><a href="#dist">What is a distance metric? Why is the choice of distance metric important in probability assessments? What distance should I use?</a></li>
+  <li><a href="#zones">Where can I find information on seismic zones 0,1,2,3,4?</li>
 </ul>
 
 <hr />
@@ -396,3 +397,41 @@
 <p>
   This distance (in km not miles) is something you can control. If you are interested only in very close earthquakes, you could make this a small number like 10 or 20 km. If you are interested in big events that might be far away, you could make this number large, like 200 or 500 km. The report will tell you rates of small events as well as large, so you should expect a high rate of M5 earthquakes within 200 km or 500 km of your favorite site, for example. Most of these small events would not be felt. If an M8 event is possible within 200 km of your site, it would probably be felt even at this large of a distance.
 </p>
+
+<h3 id='zones'>Where can I find information on seismic zones 0,1,2,3,4?</h3>
+<p>A seismic zone could be one of three things:</p>
+<ol>
+    <li>
+      A region on a map in which a common level of seismic design is required. This concept is obsolete.
+    </li>
+    <li>
+      An area of seismicity probably sharing a common cause. Example: "The New Madrid Seismic Zone."
+    </li>
+    <li>
+      A region on a map for which a common areal rate of seismicity is assumed for the purpose of calculating probabilistic ground motions.
+    </li>
+</ol>
+<p>
+  Building code maps using numbered zones, 0, 1, 2, 3, 4, are practically obsolete. 1969 was the last year such a map was put out by this staff. The 1997 Uniform Building Code (UBC) (published in California) is the only building code that still uses such zones. Generally, over the past two decades, building codes have replaced maps having numbered zones with maps showing contours of design ground motion. These maps in turn have been derived from probabilistic ground motion maps. Probabilistic ground motion maps have been included in the seismic provisions of the most recent U.S. model building codes, such as the new "International Building code," and in national standards such as "Minimum Design Loads for Buildings and Other Structures," prepared by the American Society of Civil Engineers.
+</p>
+<p>
+  Zone maps numbered 0, 1, 2, 3, etc., are no longer used for several reasons:
+</p>
+<ul>
+  <li>
+    A single map cannot properly display hazard for all probabilities or for all types of buildings. Probabilities: For very small probabilities of exceedance, probabilistic ground motion hazard maps show less contrast from one part of the country to another than do maps for large probabilities of exceedance. Buildings: Short stiff buildings are more vulnerable to close moderate-magnitude events than are tall, flexible buildings. The latter, in turn, are more vulnerable to distant large-magnitude events than are short, stiff buildings. Thus, the contrast in hazard for short buildings from one part of the country to another will be different from the contrast in hazard for tall buildings.
+  </li>
+  <li>
+    Building codes adapt zone boundaries in order to accommodate the desire for individual states to provide greater safety, less contrast from one part of the state to another, or to tailor zones more closely to natural tectonic features. Because of these zone boundary changes, the zones do not have a deeper seismological meaning and render the maps meaningless for applications other than building codes. An example of such tailoring is given by the evolution of the UBC since its adaptation of a pair of 1976 contour maps. First, the UBC took one of those two maps and converted it into zones. Then, through the years, the UBC has allowed revision of zone boundaries by petition from various western states, e.g., elimination of zone 2 in central California, removal of zone 1 in eastern Washington and Oregon, addition of a zone 3 in western Washington and Oregon, addition of a zone 2 in southern Arizona, and trimming of a zone in central Idaho.
+  </li>
+</ul>
+<p>
+  Older (1994, 1997) versions of the UBC code may be available at a local or university library. A redrafted version of the UBC 1994 map can be found as one of the illustrations in a paper on the relationship between USGS maps and building code maps.
+</p>
+
+<h3>For more information:</h3>
+<ul>
+  <li>
+    <a href="http://pubs.usgs.gov/of/1995/596/">USGS Spectral Response Maps and Their Relationship With Seismic Design Forces in Building Codes</a>
+  </li>
+</ul>
