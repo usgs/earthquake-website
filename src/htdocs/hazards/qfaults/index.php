@@ -1,6 +1,6 @@
 <?php
 // Author: Lisa Wald
-// Contact: Rob Schmitt,Jerry Mayer
+// Contact: Rob Schmitt
   if (!isset($TEMPLATE)) {
     $TITLE = 'Faults';
     $NAVIGATION = true;
@@ -17,17 +17,10 @@
     <a href='https://doi.org/10.5066/F7S75FJM'><img class='left' src='images/qfault-thumb.jpg'></a>
 
     <br style="clear:left;"/>
-    <p><a href='https://doi.org/10.5066/F7S75FJM'><strong>View interactive fault map.</strong></a></p>
-
-    <p>
-      This database contains information on faults and associated folds in the United States that demonstrate geological evidence of coseismic surface deformation in large earthquakes during <strong>the Quaternary (the past 1.6 million years)</strong>. Links to descriptions and citations are accessible through the <a href="/cfusion/qfault/index.cfm">Database Search</a> or <a href='https://doi.org/10.5066/F7S75FJM'>Interactive Fault Map</a>.
-    </p>
-
-    <p class='alert info'>
-      In order to maintain a current and relevant dataset, effective January 12, 2017, the USGS will maintain a limited number of metadata fields that characterize the Quaternary faults and folds of the United States.  Archived reports are accessible from the abbreviated record.
-    </p>
 
     <ul>
+      <li><a href='https://doi.org/10.5066/F7S75FJM'><strong>Interactive fault map.</strong></a>
+      </li>
       <li><a href="/cfusion/qfault/index.cfm">
         Database Search</a></li>
       <li>Download Data:
@@ -40,6 +33,14 @@
       <li><a href="background.php">Background</a> - history, help, personnel and references</li>
       <li><a href="contributors.php">Contributors</a></li>
     </ul>
+
+    <p>
+      This database contains information on faults and associated folds in the United States that demonstrate geological evidence of coseismic surface deformation in large earthquakes during the past 1.6 million years (Myr). At the time the Quaternary Fault and Fold database was established (1993), the Quaternary time period was defined as &lt;1.6 Myr in the <a href="https://www.geosociety.org/documents/gsa/timescale/timescl-1983.pdf">GSA Geologic Timescale</a>, published in 1983. In 1999, it was updated to 1.8 Myr, and in 2009 it was revised to 2.6 Myr. Most recently, in 2018 it was revised again to 2.58 Myr.
+    </p>
+
+    <p class='alert info'>
+      In order to maintain a current and relevant dataset, effective January 12, 2017, the USGS will maintain a limited number of metadata fields that characterize the Quaternary faults and folds of the United States.  Archived reports are accessible from the abbreviated record.
+    </p>
 
   </div>
 
