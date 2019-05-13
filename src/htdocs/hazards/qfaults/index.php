@@ -35,7 +35,7 @@
     </ul>
 
     <p>
-      This database contains information on faults and associated folds in the United States that demonstrate geological evidence of coseismic surface deformation in large earthquakes during the past 1.6 million years (Myr). At the time the Quaternary Fault and Fold database was established (1993), the Quaternary time period was defined as &lt;1.6 Myr in the <a href="https://www.geosociety.org/documents/gsa/timescale/timescl-1983.pdf">GSA Geologic Timescale</a>, published in 1983. In 1999, it was updated to 1.8 Myr, and in 2009 it was revised to 2.6 Myr. Most recently, in 2018 it was revised again to 2.58 Myr.
+      This database contains information on faults and associated folds in the United States that demonstrate geological evidence of coseismic surface deformation in large earthquakes during the past 1.6 million years (Myr). At the time the Quaternary Fault and Fold database was established (1993), the Quaternary time period was defined as &lt;1.6 Myr in the <a href="https://www.geosociety.org/documents/gsa/timescale/timescl-1983.pdf">1983 Geologic Time Scale</a>, published in 1983. In 1999, it was updated to 1.8 Myr, and in 2009 it was revised to 2.6 Myr. Most recently, in 2018 it was revised again to 2.58 Myr, see <a href="https://www.geosociety.org/GSA/Education_Careers/Geologic_Time_Scale/GSA/timescale/home.aspx">GSA Geologic Time Scale</a>.
     </p>
 
     <p class='alert info'>
