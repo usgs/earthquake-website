@@ -13,6 +13,9 @@
 ?>
 
 <p class="alert info">
+  Due to insufficient resources and the recent development of similar web tools by third parties, the USGS has replaced its former <it>U.S. Seismic Design Maps</i> web applications with web services that can be used through third-party tools.
+  <br /><br />
+  Your options for using the replacement USGS web services are described below.
   Engineers should typically use the tools below for seismic design; the
   parameter values they provide are not typically identical to those from hazard
   tools available elsewhere on the USGS website.
