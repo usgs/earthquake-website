@@ -2,7 +2,7 @@
 // Author: Lisa Wald
 // Contact: Jeanne Hardebeck
   if (!isset($TEMPLATE)) {
-    $TITLE = 'Operational Aftershock Forecast Scientific Background';
+    $TITLE = 'Aftershock Forecast Scientific Background';
     $NAVIGATION = true;
     $HEAD = '<meta charset="utf-8">
             <meta name="viewport" content="width=device-width">
@@ -14,73 +14,14 @@
   }
 ?>
 
-<p>
-  Most large earthquakes are followed by additional earthquakes, called aftershocks, which make up an aftershock sequence. While most aftershocks are smaller than the mainshock, they can still be damaging or deadly. A small fraction of earthquakes are followed by a larger earthquake, in which case the first earthquake is referred to as a foreshock. For example, the 2011 M9.1 Japan earthquake and tsunami was preceded by a M7.3 foreshock two days before. When the M7.3 earthquake first occurred, it was called the mainshock, and then when the M9.1 earthquake occurred, that larger earthquake became the mainshock.
-</p>
-<p>
-  Following a significant earthquake, this aftershock forecast can provide situational awareness of the expected number of aftershocks, as well as the probability of subsequent larger earthquakes. Specifically, we forecast:
-</p>
-<ol>
-  <li>the expected number of smaller aftershocks that may be felt (M3+),</li>
-  <li>the probability of aftershocks large enough to potentially do damage (M5+), and</li>
-  <li>the probability of future moderate (M6+) to large (M7+) earthquakes.
-We use the behavior of past aftershock sequences to forecast the likelihood of future aftershocks.  As an aftershock sequence progresses, our forecast also incorporates information about the behavior of that specific sequence.</li>
-</ol>
-
-<h2>Aftershock Forecast Overview</h2>
-
-<h3>When We Make and Update Forecasts</h3>
-<p>
-  <strong>Forecasts are computed for earthquakes of 5+ in the United States and U.S. territories.</strong> There are higher thresholds of M6 or 6.5 in some remote and poorly-instrumented areas. We also compute forecasts for some smaller earthquakes that are of particular public interest, for example earthquakes in densely-populated areas. We will not usually compute aftershock forecasts for earthquakes that are themselves aftershocks of a prior larger earthquake, or for earthquakes that occur as part of volcanic activity.
-</p>
-<p>
-  <strong>Forecasts are updated regularly.</strong> The rate of aftershocks changes with time, generally decreasing, although sometimes temporarily increasing after a significant aftershock. Therefore, the forecasts are updated to keep current with the changing aftershock rate. We also update the forecasts over time to incorporate more information about the specific behavior of the aftershock sequence. We update at least once within the first day, again within the first week, and again within the first month. The time that the current forecast was released, and the planned time of the next forecast update, are included with the most recent aftershock forecast information.
-</p>
-
-<h3>How to Find the Forecasts</h3>
-<p>
-  People can find the Aftershock Forecast for a specific earthquake by starting at the Overview (default) webpage for that earthquake and selecting the “card” titled “Aftershock Forecast.”  This card will only appear if an aftershock forecast was computed for that event. Clicking on the card will take the user to the Aftershock Forecast.
-</p>
-
-<figure>
-  <img src="fig1" alt=""/>
-   <figcaption>
-     Screenshot of the Overview webpage for an earthquake in Alaska. The &ldquo;Aftershock Forecast&CloseCurlyDoubleQuote; card is at lower center.
-   </figcaption>
-</figure>
-
-<h3>Commentary Tab: A Starting Point for Basic Information</h3>
-<p>
-  The Commentary tab describes the aftershock forecast in simple language, starting with the concept that larger earthquakes could follow and that aftershocks will be continuing for some time; and some safety information is included. The subsequent information is a simple summary of the forecast, followed by what has already happened, and ending with a more quantitative version of the forecast.
-</p>
-
-<figure>
-  <img src="fig2" alt=""/>
-   <figcaption>
-     Screenshot of the Aftershock Forecast for an earthquake in Alaska, with the &ldquo;Commentary&CloseCurlyDoubleQuote; tab selected.
-   </figcaption>
-</figure>
-
-<h3>Forecast Tab: Tables Showing the Detailed Forecast</h3>
-<p>
-  The Forecast tab presents the forecast as tables, covering a range of aftershock magnitudes and time frames. The first table shows the probability of at least one aftershock above a certain magnitude and within a certain time frame. The second table shows the likely number of aftershocks above a certain magnitude and within a certain time frame, given as range of numbers which represents the uncertainty of the forecast. If it is unlikely that there will be any aftershocks of that magnitude during that time frame, the table shows an asterisk, which means that an earthquake is possible but with a low probability.
-</p>
-
-<figure>
-  <img src="fig3" alt=""/>
-   <figcaption>
-     Screenshot of the Aftershock Forecast for an earthquake in Alaska, with the &ldquo;Forecast&CloseCurlyDoubleQuote; tab selected.
-   </figcaption>
-</figure>
-
-<h3>Model Tab: Scientific Details</h3>
+<h2>Model Tab: Scientific Details</h2>
 <p>
   This tab shows what model was used to compute the forecast, as well as the model parameter values.  Forecasts are currently made only with the Reasenberg-Jones (1989, 1994) model.  There are three different types of parameter values:
 </p>
 <ol>
-  &lt;li&gt;&ldquo;generic&CloseCurlyDoubleQuote; parameter values derived from previous sequences in similar tectonic settings,&lt;/li&gt;
-  &lt;li&gt;&ldquo;sequence-specific&CloseCurlyDoubleQuote; parameter values fit to the aftershock sequence as of the time of the forecast, and&lt;/li&gt;
-  &lt;li&gt;&ldquo;Bayesian&CloseCurlyDoubleQuote; parameter values, which combine the generic parameter values with sequence-specific information.</li>
+  <li>li>&ldquo;generic&CloseCurlyDoubleQuote; parameter values derived from previous sequences in similar tectonic settings,</li>
+  <li>&ldquo;sequence-specific&CloseCurlyDoubleQuote; parameter values fit to the aftershock sequence as of the time of the forecast, and&</li>
+  <li>&ldquo;Bayesian&CloseCurlyDoubleQuote; parameter values, which combine the generic parameter values with sequence-specific information.</li>
 </ol>
 </p>
 
@@ -101,7 +42,7 @@ We use the behavior of past aftershock sequences to forecast the likelihood of f
 </ol>
 
 <figure>
-  <img src="fig4" alt=""/>
+  <img src="images/fig4.gif" alt=""/>
    <figcaption>
      Two example aftershock sequences, from southern California, that illustrate the three general properties of aftershocks. A circle shows each aftershock’s time of occurrence (horizontal axis) and magnitude (vertical axis). The larger-magnitude M6.7 Northridge earthquake is followed by many more aftershocks than the smaller M5.1 La Habra earthquake. The rate of aftershocks in both sequences decreases as time passes. The magnitudes of the aftershocks don’t change with time, meaning that large aftershocks are still possible later in the sequence, as happened following Northridge.
    </figcaption>
@@ -119,7 +60,7 @@ We use the behavior of past aftershock sequences to forecast the likelihood of f
   We use the statistical model of aftershock rate developed by Reasenberg and Jones (1989, 1994).  In this model, the rate <i>R</i> of aftershocks of at least magnitude <i>M</i>, at time <i>T</i> after a magnitude Mmain mainshock, is:
 </p>
 <p>
-  Equation 1: $$\text{R} = 10^{\text{a} = \text{b} (\text{Mmain} - \text{M})) (\text{T} = \text{c}) ^ (-\text{p})$$
+  Equation 1: $$\text{R} = 10^{\text{a} + \text{b} (\text{Mmain} - \text{M}))} (\text{T} + \text{c}) ^ (-\text{p})$$
 </p>
 <p>
   where <i>a, b, c,</i> and <i>p</i> are model parameters.  The parameter <i>a</i> represents the regional aftershock productivity, <i>b</i> represents the scaling of aftershock rate with mainshock magnitude, <i>p</i> represents the decay of the rate of aftershocks with time, and <i>c</i> is the time scale of the earliest part of the sequence before it starts to decay.  Reasenberg and Jones (1989) found values of these parameters for California aftershock sequences, and Hardebeck et al. (2018) updated these parameters with more modern data and finer regionalization.
@@ -129,7 +70,7 @@ We use the behavior of past aftershock sequences to forecast the likelihood of f
 </p>
 
 <figure>
-  <img src="fig5" alt=""/>
+  <img src="images/fig5.gif" alt=""/>
    <figcaption>
      Top: The global tectonic regions modified from García et al. (2012), with each region shown in a different color.  Bottom: The productivity parameter (a-value) and temporal decay parameter (p-value) for each global tectonic regime shown as a “+” with uncertainty shown by the line of matching color.  Figures from Page et al. (2016).
    </figcaption>
@@ -164,7 +105,9 @@ We use the behavior of past aftershock sequences to forecast the likelihood of f
 </p>
 <p>
   We determine the <i>a</i>-value (and possibly the <i>p</i>-value) by finding the value that maximizes the likelihood, <i>L</i>, of observing the actual aftershocks given the model and parameter values.  We use the likelihood equation given by Ogata (1983).  We find the likelihood for the discretized values of <i>a</i>, L(<i>a</i>).  The likelihood scales with the probability that the parameter values are correct, so we can use the likelihood to define the sequence-specific probability distribution function for the a-value,
-  $$\text{P}_{seq-spec}(\text{a}) = \frac{L(\text{a})}{(\sum_i\text{L}(\text{a}i))}$$.
+</p>
+<p>
+  Equation 3: $$\text{P}_{seq-spec}(\text{a}) = \frac{L(\text{a})}{(\sum_i\text{L}(\text{a}i))}$$.
   The probability distribution for the number of aftershocks, P(<i>N</i>), and the forecast can then be computed using the same procedures as for the generic model, using P<sub>seq-spec</sub>(<i>a</i>) instead of P<sub>generic</sub>(<i>a</i>).
 </p>
 <p>
@@ -177,7 +120,7 @@ We use the behavior of past aftershock sequences to forecast the likelihood of f
 </p>
 
 <figure>
-  <img src="fig6" alt=""/>
+  <img src="images/fig6.gif" alt=""/>
    <figcaption>
      An example of Bayesian updating of productivity parameter (a-value) for the 2010 Mw 8.8 Maule, Chile, earthquake.  Immediately following the earthquake, the SZ-GENERIC region-specific a-value distribution can be used.  As the aftershock sequence progresses and additional data are collected, this distribution can be treated as a prior distribution and updated using Bayes’ rule. Posterior distributions at subsequent time intervals are shown.  Figure from Page et al. (2016).
    </figcaption>
@@ -186,7 +129,7 @@ We use the behavior of past aftershock sequences to forecast the likelihood of f
 <h2>References</h2>
 <ul class="referencelist">
   <li>
-    García, D., D. J. Wald, and M. G. Hearne (2012). A global earthquake discrimination scheme to optimize ground-motion prediction equation selection, Bulletin of the Seismological Society of America, vol. 102, pp. 185–203.
+    García, D., D. J. Wald, and M. G. Hearne (2012). A global earthquake discrimination scheme to optimize ground-motion prediction equation selection, Bulletin of the Seismological Society of America, vol. 102, pp. 185–203.
   </li>
   <li>
     Hardebeck J.L, A.L. Llenos, A.J. Michael, M.T. Page and N. van der Elst. (2018). Updated California Aftershock Parameters, Seismological Research Letters, vol. 90, pp. 262-270.
@@ -206,4 +149,3 @@ We use the behavior of past aftershock sequences to forecast the likelihood of f
   <li>
     Reasenberg, P. A., and L. M. Jones (1994). Earthquake aftershocks: update, Science, vol. 265, pp. 1251-1253.
   </li>
-  
