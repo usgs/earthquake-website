@@ -28,6 +28,7 @@ echo navGroup(navItem('/data/oaf/', 'Aftershock Forecasts'),
 
 );
 
+/*
   navItem('disclaimer.php',
       'Disclaimers')
  */
