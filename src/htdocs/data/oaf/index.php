@@ -2,7 +2,7 @@
 // Author: Lisa Wald
 // Contact: Jeanne Hardebeck
   if (!isset($TEMPLATE)) {
-    $TITLE = 'Operation Aftershock Forecast';
+    $TITLE = 'Aftershock Forecast';
     $NAVIGATION = true;
     $HEAD = '
       <link rel="stylesheet" href="/lib/earthquake-list-widget-1.0.0/earthquake-list-widget.css"/>
@@ -68,8 +68,8 @@
     </div>
 
     <div class="column three-of-five">
-      <ul>
-        <li>
+      <ul class="no-style linklist">
+        <li >
           <a href="/earthquakes/search/#<?php
 
               $id = "" . time();
@@ -99,10 +99,23 @@
           <p>Search for events that include Aftershock Forecasts. The Search form link from here is already configured to return only events with Aftershock Forecast products. You enter additional search parameters. The default time window is the past 30 days.</p>
         </li>
         <li>
-          Aftershock Forecast Overview
+          <a href="overview.php">
+            <h4>Aftershock Forecast Overview</h4>
+            <img src="images/aftershock-graph.gif" alt="" width="75"/>
+          </a>
+          <p>
+            Explanations for all the aftershock forecast information associated with a particular earthquake.
+          </p>
         </li>
+
         <li>
-          Aftershock Forecast Scientific Background
+          <a href="background.php">
+            <h4>Aftershock Forecast Scientific Background</h4>
+            <img src="/data/shakemap/images/sci-2x.jpg" alt="" width="75"/>
+          </a>
+          <p>
+            Read the technical details about how the forecasts are calculated.
+          </p>
         </li>
       </ul>
     </div>

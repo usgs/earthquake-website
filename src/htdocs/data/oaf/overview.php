@@ -72,8 +72,8 @@
   This tab shows what model was used to compute the forecast, as well as the model parameter values.  Forecasts are currently made only with the Reasenberg-Jones (1989, 1994) model.  There are three different types of parameter values:
 </p>
 <ol>
-  <li>li>&ldquo;generic&CloseCurlyDoubleQuote; parameter values derived from previous sequences in similar tectonic settings,</li>
-  <li>&ldquo;sequence-specific&CloseCurlyDoubleQuote; parameter values fit to the aftershock sequence as of the time of the forecast, and&</li>
+  <li>&ldquo;generic&CloseCurlyDoubleQuote; parameter values derived from previous sequences in similar tectonic settings,</li>
+  <li>&ldquo;sequence-specific&CloseCurlyDoubleQuote; parameter values fit to the aftershock sequence as of the time of the forecast, and</li>
   <li>&ldquo;Bayesian&CloseCurlyDoubleQuote; parameter values, which combine the generic parameter values with sequence-specific information.</li>
 </ol>
 </p>

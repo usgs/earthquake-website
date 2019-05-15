@@ -14,53 +14,11 @@
   }
 ?>
 
-<h2>Model Tab: Scientific Details</h2>
-<p>
-  This tab shows what model was used to compute the forecast, as well as the model parameter values.  Forecasts are currently made only with the Reasenberg-Jones (1989, 1994) model.  There are three different types of parameter values:
-</p>
-<ol>
-  <li>li>&ldquo;generic&CloseCurlyDoubleQuote; parameter values derived from previous sequences in similar tectonic settings,</li>
-  <li>&ldquo;sequence-specific&CloseCurlyDoubleQuote; parameter values fit to the aftershock sequence as of the time of the forecast, and&</li>
-  <li>&ldquo;Bayesian&CloseCurlyDoubleQuote; parameter values, which combine the generic parameter values with sequence-specific information.</li>
-</ol>
-</p>
-
-<h2>How the Aftershock Forecasts Work</h2>
-<p>
-  Our forecast is based on a statistical model of the behavior of past aftershock sequences in similar tectonic settings.  The rate of aftershocks usually follows a few general rules:
-</p>
-<ol>
-  <li>
-    Larger mainshocks trigger more aftershocks than smaller mainshocks, and the aftershock productivity for a given mainshock magnitude also varies between tectonic regions.  For instance, mainshocks along the San Andreas fault in California generally produce fewer aftershocks than mainshocks of the same magnitude where the Pacific plate collides with and subducts under Alaska.
-  </li>
-  <li>
-    The rate of aftershocks decreases with time, such that the earthquake rate is roughly inversely proportional to the time since the mainshock.  E.g., there are about 10 times as many aftershocks on the first day as on the tenth day.
-  </li>
-  <li>
-    The magnitudes of the aftershocks do not get smaller with time, only their rate changes.
-  </li>
-</ol>
-
-<figure>
-  <img src="images/fig4.gif" alt=""/>
-   <figcaption>
-     Two example aftershock sequences, from southern California, that illustrate the three general properties of aftershocks. A circle shows each aftershock’s time of occurrence (horizontal axis) and magnitude (vertical axis). The larger-magnitude M6.7 Northridge earthquake is followed by many more aftershocks than the smaller M5.1 La Habra earthquake. The rate of aftershocks in both sequences decreases as time passes. The magnitudes of the aftershocks don’t change with time, meaning that large aftershocks are still possible later in the sequence, as happened following Northridge.
-   </figcaption>
-</figure>
-
-<p>
-  The initial forecast after an earthquake occurs is calculated using parameters that worked for previous earthquakes in that region or similar regions around the world.  As time goes by and we observe how many aftershocks are happening we use parameters that are a combination of the initial parameters and parameters determined from the current sequence of earthquakes.
-</p>
-<p>
-  The initial forecast uses only the mainshock magnitude, and therefore can be released soon after the mainshock, and before many aftershocks have occurred.  Because the initial forecast depends a lot on the mainshock magnitude, we wait at least 30 minutes after the event occurs before issuing a forecast, to allow the preferred mainshock magnitude to stabilize.  We also update the forecast if the mainshock magnitude significantly changes after the initial forecast.
-</p>
-
-<h3>Scientific Details</h3>
 <p>
   We use the statistical model of aftershock rate developed by Reasenberg and Jones (1989, 1994).  In this model, the rate <i>R</i> of aftershocks of at least magnitude <i>M</i>, at time <i>T</i> after a magnitude Mmain mainshock, is:
 </p>
 <p>
-  Equation 1: $$\text{R} = 10^{\text{a} + \text{b} (\text{Mmain} - \text{M}))} (\text{T} + \text{c}) ^ (-\text{p})$$
+  Equation 1: $$\text{R} = 10^{\text{a} + \text{b} (\text{Mmain} - \text{M}))} (\text{T} + \text{c}) ^ {(-\text{p})}$$
 </p>
 <p>
   where <i>a, b, c,</i> and <i>p</i> are model parameters.  The parameter <i>a</i> represents the regional aftershock productivity, <i>b</i> represents the scaling of aftershock rate with mainshock magnitude, <i>p</i> represents the decay of the rate of aftershocks with time, and <i>c</i> is the time scale of the earliest part of the sequence before it starts to decay.  Reasenberg and Jones (1989) found values of these parameters for California aftershock sequences, and Hardebeck et al. (2018) updated these parameters with more modern data and finer regionalization.
