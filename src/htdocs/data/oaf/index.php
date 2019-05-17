@@ -18,7 +18,7 @@
 <div class="row right-to-left" >
 
   <div class="column two-of-five">
-      <h3>Aftershock Forecasts, Past 1 Year</h3>
+      <h3>Aftershock Forecasts, Past Month</h3>
 
       <div class="recent-products" style="overflow:scroll; height:400px; background:#f4f4f4;">
         <noscript class="error alert">
@@ -41,12 +41,11 @@
                     "name" => "Aftershock Forecasts, Past Year",
                     "isSearch" => true,
                     "params" => array(
-                      "starttime" => "-1 year",
+                      "starttime" => "-1 month",
                       "producttype" => "oaf"
                     )
                   ),
                   "basemap" => "terrain",
-                  "listFormat" => "shakemap",
                   "mapposition" => array(
                     array(-85, 0),
                     array(85, 360)
@@ -59,7 +58,7 @@
                 );
                 echo rawurlencode(json_encode($params));
 
-            ?>">Past Year</a>
+            ?>">Past Month</a>
           </li>
       </ul>
 
