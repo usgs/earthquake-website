@@ -1,9 +1,10 @@
-'use strict';
+"use strict";
 
-var AftershockForecastList = require('listwidget/AftershockForecastList'),
-    EqList = require('listwidget/EqList');
+var EqList = require("listwidget/EqList");
 
-AftershockForecastList({
-  container: document.querySelector('.recent-products'),
-  feed: EqList.ALL_URL_YEAR
+var url = "/fdsnws/event/1/query.geojson?producttype=oaf&starttime=-1+year";
+
+EqList({
+	container: document.querySelector(".recent-products"),
+	feed: url
 });
