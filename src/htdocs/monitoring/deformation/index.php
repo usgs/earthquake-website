@@ -91,7 +91,7 @@
     </p>
   </li>
   <li>
-    <a href="https://escweb.wr.usgs.gov/share/langbein/Web/Hayward/Deform.html">
+    <a href="https://escweb.wr.usgs.gov/share/langbein/Web/Hayward/Deform.php">
       <h4>San Francisco Bay Area</h4>
     </a>
     <p>
