@@ -26,6 +26,7 @@
         <li><a href="/data/dyfi/">Did You Feel It?</a></li>
         <li><a href="/data/shakemap/">ShakeMap</a></li>
         <li><a href="/data/pager/">PAGER</a></li>
+        <li><a href="/data/oaf/">Aftershock Forecasts</a></li>
         <li><a href="/data/ground-failure/">Ground Failure</li>
         <li><a href="/data/finitefault/">Finite Fault</li>
         <li><a href="/learn/posters.php">Earthquake Summary Posters</a></li>
