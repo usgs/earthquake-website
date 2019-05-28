@@ -71,7 +71,7 @@
 
 <h2>Earthquake Hazards <span class='example'>...maps, probabilities, and earthquake engineering</span></h2>
 <ul>
-  <li><a href="https://www.usgs.gov/faqs/what-a-seismic-zone-or-seismic-hazard-zone-where-can-i-find-information-seismic-zones-0-1-2-3">What is a seismic zone, or seismic hazard zone? Where can I find seismic zone maps with 0, 1, 2, 3, 4? What seismic zone is location X in?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/what-a-seismic-zone-or-seismic-hazard-zone">What is a seismic zone, or seismic hazard zone?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-seismic-hazard-what-a-seismic-hazard-map-how-are-they-made-how-are-they-used-why-are-there">What is seismic hazard? What is a seismic hazard map? How are they made? How are they used? Why are there different maps, and which one should I use?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-are-earthquake-hazardsrisks-where-i-live">What are the earthquake hazards/risks where I live?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-will-my-house-hold-earthquake-can-usgs-send-someone-out-evaluate-my-property">How will my house hold up in an earthquake? Can the USGS send someone out to evaluate my property?</a></li>
@@ -132,7 +132,7 @@
   <li><a href="https://www.usgs.gov/faqs/what-relationship-between-faults-and-earthquakes-what-happens-a-fault-when-earthquake-occurs">What is the relationship between faults and earthquakes?  What happens to a fault when an earthquake occurs?</a></li>
   <li><a href="https://www.usgs.gov/faqs/what-a-quaternary-fault">What is a "Quaternary" fault?</a></li>
   <li><a href="https://www.usgs.gov/faqs/where-can-i-find-a-fault-map-us-one-available-gis-format">Where can I find a fault map of the US? Is one available in GIS format?</a></li>
-  <li><a href="https://www.usgs.gov/faqs/i-am-looking-buy-land-near-location-a-large-historical-earthquake-i-am-wondering-where-fault">I am looking to buy land near the location of a large historical earthquake.  I am wondering where the fault line runs.  What is the seismic activity in the area today?  How did the quake change the contours and elevations of the area?</a></li>
+  <li><a href="https://www.usgs.gov/faqs/how-do-i-find-nearest-fault-a-property-or-specific-location">How do I find the nearest fault to a property or specific location?</a></li>
   <li><a href="https://www.usgs.gov/faqs/how-do-i-find-fault-or-hazard-maps-california">How do I find fault or hazard maps for California?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-are-there-no-faults-great-valley-central-california">Why are there no faults in the Great Valley of central California?</a></li>
   <li><a href="https://www.usgs.gov/faqs/why-are-there-so-many-earthquakes-and-faults-western-united-states">Why are there so many earthquakes and faults in the Western United States?</a></li>
