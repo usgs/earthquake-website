@@ -39,11 +39,11 @@ if (!isset($TEMPLATE)) {
   </li>
 
   <li>
-    <a href="http://earthquake.usgs.gov/research/data/google_earth.php">
+    <a href="https://earthquake.usgs.gov/research/data/google_earth.php">
       <h4> Additional USGS Earthquake Data in Google Earth </h4>
       <img src="images/ge.jpg" alt="Image of Google Earth"/>
     </a>
-    <p>The USGS has prepared a number of <a href="http://earthquake.usgs.gov/research/data/google_earth.php">products</a> that display earthquake data in Google Earth.</p>
+    <p>The USGS has prepared a number of <a href="https://earthquake.usgs.gov/research/data/google_earth.php">products</a> that display earthquake data in Google Earth.</p>
   </li>
 
 </ul>

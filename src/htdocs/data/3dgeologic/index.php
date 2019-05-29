@@ -27,7 +27,7 @@ if (!isset($TEMPLATE)) {
 
 <p>The USGS 3-D Geologic and Seismic Velocity Models of the San Francisco Bay region provide a three-dimensional view of the geologic structure and physical properties of the region down to a depth of 45 km (28 miles).
 Construction of this 3D Bay Area model has been a joint effort of the
-<a href="http://earthquake.usgs.gov/">USGS Earthquake Hazards Program</a> and the
+<a href="https://earthquake.usgs.gov/">USGS Earthquake Hazards Program</a> and the
 <a href="http://ncgmp.usgs.gov/">USGS National Cooperative Geologic Mapping Program</a>.</p>
 
 <p>Previous work by the USGS and others has shown that the 3-D structure of the earth has a significant impact on how strongly an earthquake is felt at different locations and on the duration of the shaking.  Because seismic waves propagate through different rock types with differing speeds that depend on the rock properties, the waves can be reflected and refracted as they travel through various rock types. These effects need to be understood in order to predict the shaking in future large earthquakes.</p>
@@ -36,7 +36,7 @@ Construction of this 3D Bay Area model has been a joint effort of the
 
 <p>The geologic model is a fault block model - that is, the upper 45 km (28 miles) of Earth's crust has been broken up into irregular shaped blocks, bounded by faults.  The model also includes the subsurface shape of basins that underlie the Santa Clara Valley, Livermore Valley, and Santa Rosa Plain.  The soft sediments in these basins trap seismic energy and greatly enhance shaking levels relative to surrounding regions.</p>
 
-<p>Seismic velocities of rocks and sediments at shallow depths determine how strongly an area will shake.  By assigning velocities to rock types in the 3-D geologic model, geologists can gain an understanding of the extent of areas of low shear velocity that are most likely to experience localized strong shaking and future earthquake damage. These models have been used in <a href="http://earthquake.usgs.gov/regional/nca/simulations/"> computer simulations of the 1906 San Francisco and 1989 Loma Prieta earthquakes.</a></p>
+<p>Seismic velocities of rocks and sediments at shallow depths determine how strongly an area will shake.  By assigning velocities to rock types in the 3-D geologic model, geologists can gain an understanding of the extent of areas of low shear velocity that are most likely to experience localized strong shaking and future earthquake damage. These models have been used in <a href="https://earthquake.usgs.gov/regional/nca/simulations/"> computer simulations of the 1906 San Francisco and 1989 Loma Prieta earthquakes.</a></p>
 
 <p>Some additional important applications of these new models include:</p>
 <ul>
