@@ -15,7 +15,7 @@ if (!isset($TEMPLATE)) {
   <p>Map showing M&gt;2 aftershocks following the September 28, 2004 M6.0 earthquake in Parkfield, CA. Below the map is a cross-section showing earthquake depth along the fault within the dashed red box.</p>
 </figure>
 <h3>Earthquake Details</h3>
-    <ul><li><a href="http://earthquake.usgs.gov/eqcenter/eqinthenews/2004/nc51147892/">USGS Report</a></li>
+    <ul><li><a href="https://earthquake.usgs.gov/eqcenter/eqinthenews/2004/nc51147892/">USGS Report</a></li>
 <li><a href="http://www.cisn.org/special/evt.04.09.28/">CISN Report</a></li>
     </ul>
   <h3>Earthquake Video</h3>

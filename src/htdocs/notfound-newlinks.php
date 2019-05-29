@@ -18,7 +18,7 @@
 
   <tr>
     <td>Earthquakes in the News</td>
-    <td>http://earthquake.usgs.gov/earthquakes/eqinthenews/</td>
+    <td>https://earthquake.usgs.gov/earthquakes/eqinthenews/</td>
     <td>
       <a href="/earthquakes/browse/">
         https://earthquake.usgs.gov/earthquakes/browse/
@@ -28,7 +28,7 @@
 
   <tr>
     <td>Advanced National Seismic System (ANSS)</td>
-    <td>http://earthquake.usgs.gov/research/monitoring/anss/</td>
+    <td>https://earthquake.usgs.gov/research/monitoring/anss/</td>
     <td>
       <a href="/monitoring/anss/">
         https://earthquake.usgs.gov/monitoring/anss/
@@ -38,7 +38,7 @@
 
   <tr>
     <td>Historic Earthquakes</td>
-    <td>http://earthquake.usgs.gov/earthquakes/eqarchives/</td>
+    <td>https://earthquake.usgs.gov/earthquakes/eqarchives/</td>
     <td>
       <a href="/earthquakes/browse/significant.php">
         https://earthquake.usgs.gov/earthquakes/browse/significant.php
@@ -48,7 +48,7 @@
 
   <tr>
     <td>National Earthquake Information Center (NEIC)</td>
-    <td>http://earthquake.usgs.gov/regional/neic/</td>
+    <td>https://earthquake.usgs.gov/regional/neic/</td>
     <td>
       <a href="/contactus/golden/neic.php">
         https://earthquake.usgs.gov/contactus/golden/neic.php
@@ -58,7 +58,7 @@
 
   <tr>
     <td>Recent Earthquakes</td>
-    <td>http://earthquake.usgs.gov/recenteqs/</td>
+    <td>https://earthquake.usgs.gov/recenteqs/</td>
     <td>
       <a href="/earthquakes/map/">
         https://earthquake.usgs.gov/earthquakes/map/
@@ -68,7 +68,7 @@
 
   <tr>
     <td>Recent Earthquakes in California/Nevada</td>
-    <td>http://earthquake.usgs.gov/earthquakes/recenteqscanv/</td>
+    <td>https://earthquake.usgs.gov/earthquakes/recenteqscanv/</td>
     <td>
       <a href="/earthquakes/map/">
         https://earthquake.usgs.gov/earthquakes/map/
@@ -78,7 +78,7 @@
 
   <tr>
     <td>Recent Earthquakes in the U.S.</td>
-    <td>http://earthquake.usgs.gov/recenteqsus/</td>
+    <td>https://earthquake.usgs.gov/recenteqsus/</td>
     <td>
       <a href="/earthquakes/map/">
         https://earthquake.usgs.gov/earthquakes/map/
@@ -88,7 +88,7 @@
 
   <tr>
     <td>Recent Earthquakes: World-wide, U.S., Maps and Lists</td>
-    <td>http://earthquake.usgs.gov/eqcenter/</td>
+    <td>https://earthquake.usgs.gov/eqcenter/</td>
     <td>
       <a href="/earthquakes/map/">
         https://earthquake.usgs.gov/earthquakes/map/
@@ -98,7 +98,7 @@
 
   <tr>
     <td>Recent Earthquakes World-wide</td>
-    <td>http://earthquake.usgs.gov/earthquake/recenteqsww/</td>
+    <td>https://earthquake.usgs.gov/earthquake/recenteqsww/</td>
     <td>
       <a href="/earthquakes/map/">
         https://earthquake.usgs.gov/earthquakes/map/
@@ -108,7 +108,7 @@
 
   <tr>
     <td>Recent Earthquakes World-wide List</td>
-    <td>http://earthquake.usgs.gov/recenteqsww/quakes/quakes_all.php</td>
+    <td>https://earthquake.usgs.gov/recenteqsww/quakes/quakes_all.php</td>
     <td>
       <a href="/earthquakes/map/">
         https://earthquake.usgs.gov/earthquakes/map/
@@ -118,7 +118,7 @@
 
   <tr>
     <td>ShakeMaps (Northern CA, Southern CA, Alaska, Hawaii, Utah, Nevada)</td>
-    <td>http://earthquake.usgs.gov/data/shakemap/list.php</td>
+    <td>https://earthquake.usgs.gov/data/shakemap/list.php</td>
     <td>
       <a href="/data/shakemap/">
         https://earthquake.usgs.gov/data/shakemap/

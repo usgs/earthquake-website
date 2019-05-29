@@ -14,7 +14,7 @@ if (!isset($TEMPLATE)){
           <figcaption> <p>
     The movies color the landscape in each frame according
     to the maximum (peak) intensity of shaking (amplitude of the ground motion) up to that point in time. The color scale is the same as the one
-    used in <a href="http://earthquake.usgs.gov/eqcenter/shakemap/">ShakeMap</a>. In order to show the intensity of
+    used in <a href="https://earthquake.usgs.gov/eqcenter/shakemap/">ShakeMap</a>. In order to show the intensity of
     the current shaking, the colors darken as the shaking
     intensifies. At some locations, the most intense
     shaking lasts for several seconds, so the colors will
