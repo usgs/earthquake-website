@@ -24,7 +24,7 @@ if (!isset($TEMPLATE)) {
   <h2>Why Should I Prepare?&mdash;Big Quakes Will Affect You</h2>
   <ul>
     <li><a href="http://gis.abag.ca.gov/?geo=Shaking-Maps">What would an earthquake do in my neighborhood?</a> <em>Association of Bay Area Governments</em></li>
-    <li><a href="http://earthquake.usgs.gov/eqcenter/shakemap/list.php?x=1&n=nc&s=1">ShakeMaps scenarios for Bay Area earthquakes</a> <em>U.S. Geological Survey</em></li>
+    <li><a href="https://earthquake.usgs.gov/eqcenter/shakemap/list.php?x=1&n=nc&s=1">ShakeMaps scenarios for Bay Area earthquakes</a> <em>U.S. Geological Survey</em></li>
     <!--
     2009-06-27, sah: Commented out b/c I can't find the new URL of this resource
     <li><a href="http://www.quake06.org/quake06/fact_sheets.html">Non-technical information sheets related to various buildings and infrastructure</a>  <em>Northern California Earthquake Engineering Research Institute</em></li>-->
@@ -48,7 +48,7 @@ if (!isset($TEMPLATE)) {
 
   <h2>What Else Should I Know?</h2>
   <ul>
-    <li><a href="http://earthquake.usgs.gov/earthquakes/">Real-time earthquake information</a> <em>U.S. Geological Survey</em>
+    <li><a href="https://earthquake.usgs.gov/earthquakes/">Real-time earthquake information</a> <em>U.S. Geological Survey</em>
       <p>Maps and seismogram displays, 24-hour forecasts for CA, email notification, etc.</p></li>
     <li> <a href="http://www.earthquakecountry.info/roots/">Putting Down Roots in Earthquake Country&mdash;Southern California</a> <em>Southern California Earthquake Center</em> </li>
     <li><a href="http://www.seismic.ca.gov/earthquakes.html">Various reports and publications</a> (.pdf files)

@@ -18,8 +18,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'There have been no major ground rupturing earthquakes along California’s San Andreas, San Jacinto and Hayward faults in the past 100 years. At the 2019 SSA Annual Meeting, researchers discussed why this “hiatus” might exist, and what we might expect for California earthquakes over the next century. (SSA News Release)',
   'link' => 'https://www.seismosoc.org/news/how-to-explain-californias-recent-earthquake-hiatus/',
   'modified' => strtotime('2019-04-30'),
-  'thumbnail' => 'http://earthquake.usgs.gov/images-featured/SanJacintofault.jpg',
-  'image' => 'http://earthquake.usgs.gov/images-featured/SanJacintofault.jpg'
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/SanJacintofault.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/SanJacintofault.jpg'
 );
 
 $EQ_FEATURES->items[] = array(
@@ -28,8 +28,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'A spring surge of meltwater, seeping through vertically tilted layers of rock, caused a seismic swarm near California’s Long Valley Caldera in 2017, according to research presented at the 2019 SSA Annual Meeting. (SSA News Release)',
   'link' => 'https://www.seismosoc.org/news/snowmelt-causes-seismic-swarm-near-californias-long-valley-caldera/',
   'modified' => strtotime('2019-04-30'),
-  'thumbnail' => 'http://earthquake.usgs.gov/images-featured/LongValley2017swarm.jpg',
-  'image' => 'http://earthquake.usgs.gov/images-featured/LongValley2017swarm.jpg'
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/LongValley2017swarm.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/LongValley2017swarm.jpg'
 );
 
 $EQ_FEATURES->items[] = array(
@@ -38,8 +38,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'The NSHM draft report concludes that as many as 34 million people in the U.S. (about one in nine people) are expected to experience a strong level of shaking at least once in their lifetimes.',
   'link' => 'https://www.seismosoc.org/news/seismologists-share-proposed-revisions-to-national-seismic-hazard-model/',
   'modified' => strtotime('2019-04-25'),
-  'thumbnail' => 'http://earthquake.usgs.gov/images-featured/NSHM2018-prop.jpg',
-  'image' => 'http://earthquake.usgs.gov/images-featured/NSHM2018-prop.jpg'
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/NSHM2018-prop.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/NSHM2018-prop.jpg'
 );
 
 $EQ_FEATURES->items[] = array(
@@ -48,8 +48,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'New high-resolution lidar data reveals cracks produced from strong shaking in past earthquakes iin the New Madrid seismic zone.',
   'link' => 'https://earthquake.usgs.gov/research/everyone/2019/sackungen/',
   'modified' => strtotime('2019-04-04'),
-  'thumbnail' => 'http://earthquake.usgs.gov/research/everyone/2019/sackungen/images/fig2sm.jpg',
-  'image' => 'http://earthquake.usgs.gov/research/everyone/2019/sackungen/images/fig2sm.jpg'
+  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/2019/sackungen/images/fig2sm.jpg',
+  'image' => 'https://earthquake.usgs.gov/research/everyone/2019/sackungen/images/fig2sm.jpg'
 );
 
 $EQ_FEATURES->items[] = array(

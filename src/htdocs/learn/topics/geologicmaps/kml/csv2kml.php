@@ -86,7 +86,7 @@ $xml_header
 <atom:author>
   <atom:name>U.S. Geological Survey</atom:name>
 </atom:author>
-<atom:link href="http://earthquake.usgs.gov" />
+<atom:link href="https://earthquake.usgs.gov" />
 <Folder>
 	<name>Bay Area Geologic Layers</name>
   <description>Access Earthquakes, Faults, Geology, Hillshades, Landslides, Liquefaction by Quad for the SF Bay Area</description>

@@ -17,8 +17,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'New high-resolution lidar data reveals cracks produced from strong shaking in past earthquakes iin the New Madrid seismic zone.',
   'link' => 'https://earthquake.usgs.gov/research/everyone/2019/sackungen/',
   'modified' => strtotime('2019-02-04'),
-  'thumbnail' => 'http://earthquake.usgs.gov/research/everyone/2019/sackungen/images/fig2sm.jpg',
-  'image' => 'http://earthquake.usgs.gov/research/everyone/2019/sackungen/images/fig2sm.jpg'
+  'thumbnail' => 'https://earthquake.usgs.gov/research/everyone/2019/sackungen/images/fig2sm.jpg',
+  'image' => 'https://earthquake.usgs.gov/research/everyone/2019/sackungen/images/fig2sm.jpg'
 );
 
 $EQ_FEATURES->items[] = array(
