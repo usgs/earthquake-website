@@ -23,8 +23,8 @@ $aftershockForecastSearchLink = '/earthquakes/search/#' . rawurlencode(json_enco
 echo navGroup(navItem('/data/oaf/', 'Aftershock Forecasts'),
 
   navItem($aftershockForecastSearchLink, 'Search Archives') .
-  navItem('/overview.php', 'Overview') .
-  navItem('/background.php', 'Scientific Background')
+  navItem('overview.php', 'Overview') .
+  navItem('background.php', 'Scientific Background')
 
 );
 
