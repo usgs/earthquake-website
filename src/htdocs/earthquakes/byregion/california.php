@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Lisa Wald
-  // Last modified: 05/09/2016, Lisa Wald
   if (!isset($TEMPLATE)) {
   $TITLE = 'Information by Region-California';
   $NAVIGATION = true;
@@ -36,20 +35,30 @@
   <li><a href="http://projects.eri.ucsb.edu/sb_eqs/">Santa Barbara Earthquake History</a> - University of California, Santa Barbara</li>
   <li><a href="http://www.sbnature.org/dibblee/index-2.html">Dibblee Foundation Geological Maps</a></li>
   <li><a href="https://pubs.er.usgs.gov/publication/ofr95693">Earthquake Damage in Greater Los Angeles Poster</a></li>
+  <li><a href="https://www.conservation.ca.gov/cgs/california-geotour">The California Geotour: An Index to Online Geologic Field Trip Guides of California</a> - California Department of Conservation</li>
+  <li><a href="https://www.shakeout.org/california/">The Great California ShakeOut</a></li>
   <li><a href="http://www.sfbayquakes.org/">Portfolio of Images of Landscape, Seascape and Faults of the San Francisco Bay area</a> - USGS and PG&E</li>
   <li><a href="http://gmw.consrv.ca.gov/shmp/">California Seismic Hazard Zonation Program</a></li>
   <li><a href="http://www.data.scec.org/significant/fault-index.html">Faults of Southern California - SCEC</a></li>
   <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=70">San Andreas Fault</a></li>
   <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=83">Parkfield</a></li>
   <li><a href="/learn/topics/search.php?sendTopicID=&sendContentID=&sendLevelID=&sendRegionID=30">California Earthquake Topics</a></li>
+  <li><a href="http://ceo.scec.org/wallacecreek/index.html">Wallace Creek Trail Guide</a></li>
+  <li><a href="http://www.wgcep.org/">Working Group on California Earthquake Probabilities</li>
 </ul>
 
 <h2>Organizations</h2>
 <ul>
+  <li><a href="http://eqinfo.ucsd.edu/">Anza Seismic Data Collection Center</a> - University of California, San Diego</li>
+  <li><a href="https://www.cisn.org/">California Integrated Seismic Network</a></li>
+  <li><a href="http://www.seismolab.caltech.edu/">Caltech Seismological Laboratory</a></li>
+  <li><a href="https://www.earthquakecountry.org/">Earthquake Country Alliance</a></li>
   <li><a href="/contactus/menlo/">USGS Earthquake Science Center - Menlo Park</a></li>
   <li><a href="http://geomaps.wr.usgs.gov/sfgeo/">San Francisco Bay Region Geology and Geologic Hazards</a></li><li><a href="http://www.conservation.ca.gov/cgs">California Geological Survey</a></li>
   <li><a href="http://psn.quake.net/">Redwood City Public Seismic Network</a></li>
+  <li><a href="http://www.scec.org/">Southern California Earthquake Center (SCEC)</a> - funded by NSF and USGS</li>
   <li><a href="http://www.data.scec.org/">Southern California Earthquake Data Center</a></li>
+  <li><a href="http://www.scsn.org/">Southern California Seismic Network (SCSN)</a> - USGS and Caltech Seismological Laboratory</li>
   <li><a href="http://www.ncedc.org/">Northern California Earthquake Data Center</a></li>
   <li><a href="http://seismo.berkeley.edu/seismo/Homepage.html">Berkeley Seismological Laboratory</a></li>
   <li><a href="http://www.caloes.ca.gov/">California Office of Emergency Services</a></li>
