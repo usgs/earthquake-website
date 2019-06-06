@@ -20,14 +20,28 @@
 <ul>
   <li><a href="http://www.pnsn.org/outreach">PNSN Outreach</a></li>
   <li><a href="http://www.pnsn.org/outreach/faq">PNSN FAQ - Earthquakes, Faults, and Plate Tectonics</a></li>
+  <li><a href="https://www.eeri.org/projects/earthquake-scenarios/seattle-fault-scenario/">Seattle Fault Scenario - EERI</a></li>
+  <li><a href="https://pubs.usgs.gov/fs/2010/3023/">Tacoma Fault Scenario - USGS pub</a></li>
+  <li><a href="http://www.seattle.gov/emergency/prepare/personal/home.htm">Protecting Your Home - Seattle Office of Emergency Management</a></li>
 </ul>
 
 <h2>Organizations</h2>
 <ul>
   <li><a href="/contactus/seattle/">USGS Seattle Field Office, Seattle, WA</a></li>
   <li><a href="http://www.pnsn.org/">Pacific Northwest Seismic Network (PNSN)</a></li>
+  <li><a href="http://www.geodesy.cwu.edu/">Pacific Northwest Geodetic Array</a> - Central Washington University</li>
   <li><a href="https://volcanoes.usgs.gov/observatories/cvo/">USGS Cascades Volcano Observatory</a></li>
-  <li><a href="https://crew.org/">Cascadia Region Earthquake Group</li>
+  <li><a href="https://crew.org/">Cascadia Region Earthquake Group (CREW)</a></li>
   <li><a href="https://www.dnr.wa.gov/programs-and-services/geology/geologic-hazards/earthquakes-and-faults">Washington State Department of Natural Resources</li>
   <li><a href="http://mil.wa.gov/emergency-management-division">Washington Emergency Management Division</a></li>
+  <li><a href="http://www.ess.washington.edu/">University of Washington Department of Earth &amp; Space Sciences</a></li>
+  <li><a href="http://www.earthquakescanada.nrcan.gc.ca/index-eng.php">Canada Pacific Geoscience Center</a></li>
+  <li>State &amp; Provincial Emergency Management Agencies:
+  <ul>
+    <li><a href="http://mil.wa.gov/">Washington Military Department</a></li>
+    <li><a href="http://www.oregon.gov/OMD/OEM/">Oregon Emergency Management</a></li>
+    <li><a href="http://www.pep.bc.ca/Emerg_Mgmt_BC/Emerg_Mgmt_BC.html">BC Emergency Management</a></li>
+  </ul>
+</li>
+<li><a href="http://www.fema.gov/region-x">FEMA Region X</a></li>
 </ul>
