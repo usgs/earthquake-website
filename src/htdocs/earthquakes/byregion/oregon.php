@@ -18,7 +18,7 @@
 
 <h2>Topics of Interest</h2>
 <ul>
-  <a href="http://www.pnsn.org/outreach">Outreach</a> - Pacific Northwest Seismic Network
+  <li><a href="http://www.pnsn.org/outreach">Outreach</a> - Pacific Northwest Seismic Network</li>
 </ul>
 
 <h2>Organizations</h2>
@@ -26,7 +26,18 @@
   <li><a href="https://earthquake.usgs.gov/contactus/seattle/">USGS Seattle Field Office, Seattle, WA</a></li>
   <li><a href="http://www.pnsn.org/">Pacific Northwest Seismic Network</a></li>
   <li><a href="https://volcanoes.usgs.gov/observatories/cvo/">USGS Cascades Volcano Observatory</a></li>
-  <li><a href="https://crew.org/">Cascadia Region Earthquake Group</li>
+  <li><a href="https://crew.org/">Cascadia Region Earthquake Group (CREW)</a></li>
   <li><a href="http://www.oregongeology.org/sub/default.htm">Oregon Dept. of Geology and Mineral Industries</a></li>
   <li><a href="http://www.oregon.gov/OMD/OEM/">Oregon Office of Emergency Management</a></li>
+  <li><a href="http://www.geodesy.cwu.edu/">Pacific Northwest Geodetic Array</a> - Central Washington University</li>
+  <li><a href="http://www.ess.washington.edu/">University of Washington Department of Earth &amp; Space Sciences</a></li>
+  <li><a href="http://www.earthquakescanada.nrcan.gc.ca/index-eng.php">Canada Pacific Geoscience Center</a></li>
+  <li>State &amp; Provincial Emergency Management Agencies:
+  <ul>
+    <li><a href="http://mil.wa.gov/">Washington Military Department</a></li>
+    <li><a href="http://www.oregon.gov/OMD/OEM/">Oregon Emergency Management</a></li>
+    <li><a href="http://www.pep.bc.ca/Emerg_Mgmt_BC/Emerg_Mgmt_BC.html">BC Emergency Management</a></li>
+  </ul>
+</li>
+<li><a href="http://www.fema.gov/region-x">FEMA Region X</a></li>
 </ul>
