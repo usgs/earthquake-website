@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Lisa Wald
-  // Last modified: 05/09/2016, Lisa Wald
   if (!isset($TEMPLATE)) {
   $TITLE = 'Information by Region-Alaska';
   $NAVIGATION = true;
@@ -21,13 +20,20 @@
 <ul>
   <li><a href="http://www.usc.edu/dept/tsunamis/alaska/">Tsunamis from Alaska</a> - USC Tsunami Research Group</li>
   <li><a href="/earthquakes/events/alaska1964/">The Great Alaska Earthquake and Tsunami of March 27, 1964</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Nt0m5JWa62w">Shaking in the Atwood Building in Anchorage, Alaska</a></li>
+  <li><a href="https://www.usgs.gov/media/videos/shaking-frontier-building-anchorage-alaska-during-mw71-earthquake-january-24-2016">Shaking of Frontier Building&ndash;Anchorage, Alaska, During M7.1 Earthquake, January 24, 2016</a></li>
 </ul>
 
 <h2>Organizations</h2>
 <ul>
+  <li><a href="https://www.usgs.gov/centers/asc/science/hazards"></a>USGS Alaska Science Center - Hazards</a></li>
+  <li><a href="http://www.avo.alaska.edu/">USGS Alaska Volcano Observatory</a></li>
+  <li><a href="http://earthquake.alaska.edu/">Alaska Earthquake Center</a> - Univ. of Alaska, Fairbanks</li>
+  <li><a href="http://alaskaquakealliance.org/">Alaska Earthquake Alliance</a></li>
+  <li><a href="http://seismic.alaska.gov/">Alaska Seismic Hazards Safety Commission</a></li>
+  <li><a href="https://www.gi.alaska.edu/">University of Alaska Geophysical Institute</a></li>
+  <li><a href="https://ntwc.ncep.noaa.gov/">National Tsunami Warning Center</a></li>
   <li><a href="http://www.dnr.state.ak.us/">Alaska Department of Natural Resources</a></li>
   <li><a href="http://www.dggs.dnr.state.ak.us/">Alaska Division of Geological and Geophysical Surveys</a></li>
   <li><a href="http://www.ak-prepared.com/">Alaska Division of Homeland Security and Emergency Management</a></li>
-  <li><a href="http://earthquake.alaska.edu/">Alaska Earthquake Center</a> - Univ. of Alaska, Fairbanks</li>
-  <li><a href="http://www.avo.alaska.edu/">Alaska Volcano Observatory</a></li>
 </ul>
