@@ -13,9 +13,6 @@
 ?>
 
 <p class="alert info">
-  Due to insufficient resources and the recent development of similar web tools by third parties, the USGS has replaced its former <it>U.S. Seismic Design Maps</i> web applications with web services that can be used through third-party tools.
-  <br /><br />
-  Your options for using the replacement USGS web services are described below.
   Engineers should typically use the tools below for seismic design; the
   parameter values they provide are not typically identical to those from hazard
   tools available elsewhere on the USGS website.
@@ -34,8 +31,10 @@
 <h2><a href="/ws/designmaps/">U.S. Seismic Design Maps Web Services</a></h2>
 
 <p>
-  These web services provide seismic design parameter values from numerous design code editions.
-  Your options for using these web services are:
+  Due to insufficient resources and the recent development of similar web tools by third parties, the 
+	USGS has replaced its former <it>U.S. Seismic Design Maps</i> web applications with web services 
+	that can be used through third-party tools. Your options for using the replacement USGS web services,
+	which still provide seismic design paramter values from numerous design code editions, are:
 </p>
 
 <h3>Third-party Graphical User Interfaces (GUIs)</h3>
