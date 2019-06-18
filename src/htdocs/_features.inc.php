@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2019-06-18',
+  'title' => 'Glen Avon Earthquake Swarm 5/25/2019-?',
+  'content' => 'The Pasadena field office along with Caltech has been monitoring and reporting on a swarm of small earthquakes that began in the Glen Avon area, southwest of Fontana on May 25.  As of June 17 the swarm produced over 1000 recorded events, including five magnitude 3.0-3.2 events and 49 earthquakes between M2 and M3. (SCSN)',
+  'link' => 'http://www.scsn.org/index.php/2019/06/03/glen-avon-earthquake-swarm-5-25-2019/',
+  'modified' => strtotime('2019-06-18'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/GlenAvonEQseq-11-June-2019.gif',
+  'image' => 'https://earthquake.usgs.gov/images-featured/GlenAvonEQseq-11-June-2019.gif'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2019-04-30',
   'title' => 'How to Explain California’s Recent Earthquake Hiatus?',
   'content' => 'There have been no major ground rupturing earthquakes along California’s San Andreas, San Jacinto and Hayward faults in the past 100 years. At the 2019 SSA Annual Meeting, researchers discussed why this “hiatus” might exist, and what we might expect for California earthquakes over the next century. (SSA News Release)',
