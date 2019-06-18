@@ -8,6 +8,10 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
+<div class="alert info">
+  <h3><a href="moving.php">The Earthquake Hazards Program website is moving.</a>
+</div>
+
 <div class = "row">
   <div class = "column three-of-five">
 
