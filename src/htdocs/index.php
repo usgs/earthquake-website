@@ -28,7 +28,7 @@ if (!isset($TEMPLATE)) {
     <p class='alert'>
 
       <a href="earthquakes/map/">
-        <img class='nehrp' src="images-home/latesteqs-ANSSlogo-300.gif" width="150" alt=""/>
+        <img class='nehrp' src="images-home/latesteqs-ANSSlogo-300.gif" width="150" alt="ANSS logo"/>
       </a>
       <strong>Advanced National Seismic System</strong><br />
       Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.
@@ -108,7 +108,7 @@ if (!isset($TEMPLATE)) {
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/earthquakes/">
-                <img class="sections-img" src="/images-home/home-earthquakes150x150.gif" alt="" />
+                <img class="sections-img" src="/images-home/home-earthquakes150x150.gif" alt="Earthquakes section thumbnail" />
                 <h2>Earthquakes</h2>
               </a>
                 <p>
@@ -119,7 +119,7 @@ if (!isset($TEMPLATE)) {
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/hazards/">
-                <img class="sections-img" src="/images-home/home-hazards150x150.gif" alt="" />
+                <img class="sections-img" src="/images-home/home-hazards150x150.gif" alt="Hazards section thumbnail" />
                 <h2>Hazards</h2>
               </a>
                 <p>
@@ -131,7 +131,7 @@ if (!isset($TEMPLATE)) {
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/data/">
-                <img class="sections-img" src="/images-home/home-data150x150.jpg" alt="" />
+                <img class="sections-img" src="/images-home/home-data150x150.jpg" alt="Data section thumbnail" />
                 <h2>Data &amp; Products</h2>
               </a>
                 <p>
@@ -143,7 +143,7 @@ if (!isset($TEMPLATE)) {
           <ul class="sections-list">
             <li>
               <a href="/learn/">
-                <img class="sections-img" src="/images-home/home-learn150x150.jpg" alt="" />
+                <img class="sections-img" src="/images-home/home-learn150x150.jpg" alt="Learn section thumbnail" />
                 <h2>Learn</h2>
               </a>
                 <p>
@@ -155,7 +155,7 @@ if (!isset($TEMPLATE)) {
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/monitoring">
-                  <img class="sections-img" src="/images-home/home-monitoring150x150.jpg" alt="" />
+                  <img class="sections-img" src="/images-home/home-monitoring150x150.jpg" alt="Monitoring section thumbnail" />
                   <h2>Monitoring</h2>
                 </a>
                 <p>
@@ -166,7 +166,7 @@ if (!isset($TEMPLATE)) {
           <ul class="sections-list">
             <li class="sections-listitem">
               <a href="/research/">
-                    <img class="sections-img" src="/images-home/home-research150x150.jpg" alt="" />
+                    <img class="sections-img" src="/images-home/home-research150x150.jpg" alt="Research section thumbnail" />
                     <h2>Research</h2>
                   </a>
                 <p>
