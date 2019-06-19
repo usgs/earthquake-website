@@ -14,11 +14,7 @@
   earthquake source parameters (e.g. hypocenters, magnitudes, phase picks and
   amplitudes) and other products (e.g. moment tensor solutions, macroseismic
   information, tectonic summaries, maps) produced by contributing seismic
-  networks. This comprehensive collection of seismic information will eventually
-  replace the <a
-  href="http://www.quake.geo.berkeley.edu/anss/catalog-search.html"> ANSS
-  composite catalog hosted by the Northern California Data Center</a>; however,
-  historic regional seismic network catalogs have not yet been fully loaded.
+  networks.
 </p>
 
 <ul>
