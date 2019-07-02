@@ -22,7 +22,7 @@ if (!isset($TEMPLATE)) {
                   by city.
             </li>
 					  <li>
-              <a href="http://quake.geo.berkeley.edu/">Northern California
+              <a href="http://ncedc.org//">Northern California
                     Earthquake Data Center</a><br />
               Archive and distribution center for seismological and geodetic
                     data for Northern and Central California.
