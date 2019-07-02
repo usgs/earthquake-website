@@ -19,7 +19,7 @@
 ?>
 
 <div class="alert info">
-  <h3><a href="moving.php">The Earthquake Hazards Program website is moving.</a>
+  <h3><a href="/moving.php">The Earthquake Hazards Program website is moving.</a>
 </div>
 
 <div class = "row">
