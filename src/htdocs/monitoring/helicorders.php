@@ -59,7 +59,7 @@
       <li><a href="http://www.seismo.unr.edu/Monitoring" target="_blank">
         Nevada
       </a></li>
-      <li><a href="http://quake.geo.berkeley.edu/bdsn/seismograms.html" target="_blank">
+      <li><a href="http://ncedc.org/bdsn/quicklook.html" target="_blank">
         Northern California-Berkeley
       </a></li>
       <li><a href="https://earthquake.usgs.gov/monitoring/seismograms" target="_blank">
