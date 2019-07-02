@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Lisa Wald,
-  // Last modified: 6/15/2016
   if (!isset($TEMPLATE)) {
   $TITLE = 'Data and Products';
   $NAVIGATION = false;
@@ -13,7 +12,7 @@
 ?>
 
 <div class="alert info">
-  <h3><a href="moving.php">The Earthquake Hazards Program website is moving.</a>
+  <h3><a href="/moving.php">The Earthquake Hazards Program website is moving.</a>
 </div>
 
 <div class="row">
