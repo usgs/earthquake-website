@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2019-07-09',
+  'title' => 'M7.1 Earthquake in Southern California',
+  'content' => 'Get up-to-date information about the July 6th, 2019, 03:19 UTC (July 5th 20:19 locally) Mw 7.1 earthquake in eastern California, southwest of Searles Valley.',
+  'link' => 'https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511/executive',
+  'modified' => strtotime('2019-07-09'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/EQ-7-4-19_hwynrTrona.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/EQ-7-4-19_hwynrTrona.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2019-06-18',
   'title' => 'Glen Avon Earthquake Swarm 5/25/2019-?',
   'content' => 'The Pasadena field office along with Caltech has been monitoring and reporting on a swarm of small earthquakes that began in the Glen Avon area, southwest of Fontana on May 25.  As of June 17 the swarm produced over 1000 recorded events, including five magnitude 3.0-3.2 events and 49 earthquakes between M2 and M3. (SCSN)',
