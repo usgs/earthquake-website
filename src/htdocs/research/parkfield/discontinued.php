@@ -15,7 +15,7 @@ if (!isset($TEMPLATE)) {
 <h2>Tilt</h2>
   <p>A network of four, closely spaced shallow borehole tiltmeters
   were located near Parkfield at Gold Hill. The instruments were located down-hole below the surface. Data were recorded
-  on-site and transmitted every 10 minutes with digital telemetry 
+  on-site and transmitted every 10 minutes with digital telemetry
   via satellite to Menlo Park. Although the observed tilts due
   to solid-earth tides are consistent with other measurements,
   the longer term tilts recorded by these instruments are believed
@@ -77,7 +77,7 @@ if (!isset($TEMPLATE)) {
 <p>One-hundred-sixteen seismometers and accelerators were deployed
   by the University of California, Berkeley and Santa Barbara,
   in a 5,150-foot deep well (the Varian 1-A well near the San
-  Andreas fault). A surface vibrator (<a href="http://quake.geo.berkeley.edu/hrsn/hrsn.overview.html">VIBROSEIS</a>)
+  Andreas fault). A surface vibrator (<a href="https://ncedc.org/hrsn/">VIBROSEIS</a>)
   was used as a source of seismic energy to measure subtle changes
   in seismic velocities in the crustal rocks along the fault
   near Parkfield. The Parkfield network is described by <a href="/research/parkfield/scientific.php#Kara92">Karageorgi
