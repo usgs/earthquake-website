@@ -151,7 +151,7 @@ if (!isset($TEMPLATE)) {
     <td><em>Sylvester</em> [<a href="/research/parkfield/scientific.php#Sylvester91">1991</a>]</td>
   </tr>
   <tr>
-    <td><a href="http://quake.geo.berkeley.edu/hrsn/hrsn.overview.html">HRSN</a> Borehole Seismic Network</td>
+    <td><a href="https://ncedc.org/hrsn/">HRSN</a> Borehole Seismic Network</td>
     <td>These instruments measure strain changes on 3 components in the Earth near active faults. Over short time periods they can detect changes of 10 parts-per-billion (1 inch in 1600 miles)</td>
     <td>10</td>
     <td>M greater than or equal to -1</td>
@@ -159,7 +159,7 @@ if (!isset($TEMPLATE)) {
     <td><em>Michelini et al</em>. [<a href="/research/parkfield/scientific.php#Mich91">1991</a>]</td>
   </tr>
   <tr>
-    <td><a href="http://quake.geo.berkeley.edu/hrsn/hrsn.overview.html">Vibrosis</a> waveform (discontinued)</td>
+    <td><a href="https://ncedc.org/hrsn/">Vibrosis</a> waveform (discontinued)</td>
     <td>Surface vibrator used by UCB is a source of seismic energy for an investigation of subtle changes.</td>
     <td>80 paths</td>
     <td>5 ms</td>

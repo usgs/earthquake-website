@@ -23,7 +23,7 @@ if (!isset($TEMPLATE)) {
  of the San Andreas fault, are telemetered to Menlo Park in real-time. The purpose of these instruments is to allow scientists in Menlo Park to rapidly establish the location and magnitude of <em>M</em>&gt;3.5 potential Parkfield foreshocks. Earthquakes of this size would overdrive the more sensitive NCSN and borehole seismographs.</p>
             <h2>High Resolution Borehole Seismograph Network (HRSN)</h2>
               <p>Nine 3-component seismometers have been installed in boreholes near Parkfield, in cooperation with the University of California, Berkeley and Duke University, to provide high-gain, high-frequency records of magnitude -0.25 and larger shocks. A digital radio telemetry system (500 samples/second, 16-bit resolution) records the data from the borehole seismographs at a central site.</p>
-              <p><a href="http://quake.geo.berkeley.edu/hrsn/hrsn.overview.html">Read more</a> &raquo;</p>
+              <p><a href="https://ncedc.org/hrsn/">Read more</a> &raquo;</p>
             <h2>Parkfield Small Aperture Array (UPSAR)</h2>
               <p>The USGS installed a differential seismograph array consisting of 14 seismometers distributed in the shape of a &quot;T,&quot; with each arm of the T about 1 km long. This specialized array is designed to record data useful for both earthquake prediction and strong ground motion studies. The array will be used as a &quot;seismic antenna&quot; to study the details of the radiation of seismic energy from small shocks in the Parkfield area and the details of rupture along the fault during the anticipated magnitude 6 main shock.</p>
               <p><a href="http://bssa.geoscienceworld.org/cgi/content/abstract/82/2/1041">Read more</a> &raquo;</p>
