@@ -202,6 +202,16 @@
     </tr>
 
     <tr>
+      <td><strong>Mh</strong></td>
+      <td>any</td>
+      <td>any</td>
+      <td>N/A</td>
+      <td>
+        Non-standard magnitude method. Generally used when standard methods will not work. Sometimes use as a temporary designation until the magnitude is finalized.
+      </td>
+    </tr>
+
+    <tr>
       <td><strong>Finite Fault</strong> <br />
       Modeling</td>
       <td>~7.0 and larger</td>
