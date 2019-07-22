@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:
-      //	Last	modified:	12/05/2016
+      //	Contact: Lisa Wald
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Products &amp; Services';
       $NAVIGATION	= true;
@@ -9,15 +8,6 @@
       }
 ?>
 <ul class="no-style linklist">
-  <li>
-		<a href="http://www.cisn.org/software/cisndisplay.html">
-			<h4>CISN Display</h4>
-			<img src="images/CISN150.gif" alt="cisn image" width="75px"/>
-		</a>
-		<p>
-			Graphically alerts users, in near real-time, of seismicity as well as vital earthquake-hazards information following a significant earthquake.
-		</p>
-	</li>
   <li>
     <a href="https://earthquake.usgs.gov/data/comcat/">
       <h4>ComCat Earthquake Catalog</h4>
