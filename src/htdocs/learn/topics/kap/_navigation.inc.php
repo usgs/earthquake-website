@@ -15,7 +15,7 @@
 
     navItem("${section}/", "Repeat Photography: George Lawrence&rsquo;s &ldquo;San Francisco in Ruins&rdquo;", $matchesIndex) .
     navItem("${section}/carrizo.php", "San Andreas Fault at Wallace Creek") .
-    navItem("/research/parkfield/shake/", "Parkfield Shake Table Exhibit") .
+    navItem("/learn/parkfield/shake/", "Parkfield Shake Table Exhibit") .
 
   "</section>"
   ;

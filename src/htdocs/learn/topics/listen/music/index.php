@@ -112,6 +112,6 @@
   </li>
   <li>
     <a href="http://pieqf.allshookup.org/">PIEQF Installation</a>
-     and <a href="/research/parkfield/shake/">Parkfield research</a>
+     and <a href="/learn/parkfield/shake/">Parkfield research</a>
   </li>
 </ul>
