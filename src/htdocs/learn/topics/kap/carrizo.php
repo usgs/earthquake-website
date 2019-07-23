@@ -25,7 +25,7 @@ if (!isset($TEMPLATE)) {
   <a-sky id="bubble" src="img/wallace-creek.jpg" position="-60 60 60" rotation="0 80 0"></a-sky>
 </a-scene>
 
-<p>Interactive 360-degree panorama of the San Andreas Fault at Wallace Creek. On January 9, 1857, the <a href="/research/parkfield/1857.php">M 7.9 Fort Tejon earthquake</a> occurred just north of the Carrizo Plain. Here, at Wallace Creek, the fault moved 30 feet (9m), forming the offset stream channel seen in the photo above. The rupture zone extended nearly 220 mi (350km) from near Parkfield at the northwest end to the vicinity of San Bernardino, east of Los Angeles.</p>
+<p>Interactive 360-degree panorama of the San Andreas Fault at Wallace Creek. On January 9, 1857, the <a href="/learn/parkfield/1857.php">M 7.9 Fort Tejon earthquake</a> occurred just north of the Carrizo Plain. Here, at Wallace Creek, the fault moved 30 feet (9m), forming the offset stream channel seen in the photo above. The rupture zone extended nearly 220 mi (350km) from near Parkfield at the northwest end to the vicinity of San Bernardino, east of Los Angeles.</p>
 
 <a href="img/carrizo-kite.jpg"><img src="img/tn-carrizo-kite.jpg" width="300" alt="Photo of the kite" /></a>
 <a href="img/carrizo1.jpg"><img src="img/tn-carrizo1.jpg" width="300" alt="Photo of the fault" /></a>
