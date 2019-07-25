@@ -2,7 +2,7 @@
 // Author: Lisa Wald
 // Contact: Lisa Wald, lisa@usgs.gov
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Earthquakes';
+  $TITLE = 'The Earthquake Hazards Program Website is Moving';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
