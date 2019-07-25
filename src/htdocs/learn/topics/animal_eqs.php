@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:	Jonathan Godt,
-      //	Last	modified:	9/15/2016
+      //	Contact:	Lisa Wald
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Animals & Earthquake Prediction';
       $NAVIGATION	= true;
@@ -32,9 +31,10 @@
   However, much research still needs to be done on this subject. The author suggests establishing a baseline behavior pattern that can be compared with reactions of various environmental stimuli, and then testing various potential stimuli in the laboratory. Of course, the presence of these stimuli still needs to be researched with regard to precursory phenomena preceding an earthquake, for if these signals aren&rsquo;t present in the environment before an earthquake, a connection is irrelevant.
 </p>
 
-<h2>References</h2>
+<h2>For More Information</h2>
 <ul class="referencelist">
 	<li>Kirschvink, Joseph L. (2000). Earthquake Prediction by Animals: Evolution and Sensory Perception, Bull. Seism. Soc. Am., 90, pp. 312-323.</li>
 	<li>Quammen, D. (1985). Animals and earthquakes: This World, San Francisco Chronicle, April 21, p. 15-16.</li>
 	<li>Schaal, Rand B. (1988). An Evaluation of the Animal Behavior Theory for Earthquake Prediction, California Geology, v41, n2.</li>
+  <li>Yoshiaki Orihara, Masashi Kamogawa, Yoichi Noda, Toshiyasu Nagao; <a href="https://doi.org/10.1785/0120190014">Is Japanese Folklore Concerning Deep‐Sea Fish Appearance a Real Precursor of Earthquakes?</a>. Bulletin of the Seismological Society of America.</li>
 </ul>
