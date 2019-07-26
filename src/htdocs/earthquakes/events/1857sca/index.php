@@ -134,7 +134,6 @@ Isoseismals are based on intensity estimates from data.
 
 <h3>For More Information:</h3>
   <ul>
-    <li><a href="http://www.data.scec.org/significant/forttejon1857.html">Fort Tejon Earthquake Summary</a> (Southern California Earthquake Center)</li>
     <li><a href="http://www.cco.caltech.edu/%7Emeltzner/tejon.html">The Great 1857 "Fort Tejon" Earthquake: Shake, Rattle, and Roll!</a> (<a href="http://www.parks.ca.gov/?page_id=585">Fort Tejon State Historic Park</a> monthly newsletter)</li>
     <li><a href="http://www.johnmartin.com/earthquakes/eqpapers/00000039.htm">Eyewitness Accounts</a> (<i>California Geology</i>)</li>
   </ul>
