@@ -39,7 +39,6 @@
   <li><a href="https://www.shakeout.org/california/">The Great California ShakeOut</a></li>
   <li><a href="http://www.sfbayquakes.org/">Portfolio of Images of Landscape, Seascape and Faults of the San Francisco Bay area</a> - USGS and PG&E</li>
   <li><a href="http://gmw.consrv.ca.gov/shmp/">California Seismic Hazard Zonation Program</a></li>
-  <li><a href="http://www.data.scec.org/significant/fault-index.html">Faults of Southern California - SCEC</a></li>
   <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=70">San Andreas Fault</a></li>
   <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=83">Parkfield</a></li>
   <li><a href="/learn/topics/search.php?sendTopicID=&sendContentID=&sendLevelID=&sendRegionID=30">California Earthquake Topics</a></li>
@@ -57,7 +56,6 @@
   <li><a href="http://geomaps.wr.usgs.gov/sfgeo/">San Francisco Bay Region Geology and Geologic Hazards</a></li><li><a href="http://www.conservation.ca.gov/cgs">California Geological Survey</a></li>
   <li><a href="http://psn.quake.net/">Redwood City Public Seismic Network</a></li>
   <li><a href="http://www.scec.org/">Southern California Earthquake Center (SCEC)</a> - funded by NSF and USGS</li>
-  <li><a href="http://www.data.scec.org/">Southern California Earthquake Data Center</a></li>
   <li><a href="http://www.scsn.org/">Southern California Seismic Network (SCSN)</a> - USGS and Caltech Seismological Laboratory</li>
   <li><a href="http://www.ncedc.org/">Northern California Earthquake Data Center</a></li>
   <li><a href="http://seismo.berkeley.edu/seismo/Homepage.html">Berkeley Seismological Laboratory</a></li>
