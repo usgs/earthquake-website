@@ -3130,7 +3130,7 @@ VALUES
 	(161,'Seismographs: Keeping Track of Earthquakes','USGS','%2Flearn%2Ftopics%2Fkeeping_track.php','brief description on how seismographs work to locate earthquakes'),
 	(162,'Determining the Depth of an Earthquake','USGS','%2Flearn%2Ftopics%2Fdetermining_depth.php','brief discussion on depths of earthquakes'),
 	(459,'Northern Sumatra M9.0 - December 26, 2004 FAQs','USGS','%2Flearn%2Ftopics%2Fsumatra9.php','FAQs about one of the largest earthquakes ever recorded'),
-	(165,'Flinn-Engdahl Regions','USGS','%2Flearn%2Ftopics%2Fflinn_engdahl.php','description of regions used to identify locations of earthquakes world-wide'),
+	(165,'Flinn-Engdahl Regions','USGS','%2Fdata%2Fflinn_engdahl.php','description of regions used to identify locations of earthquakes world-wide'),
 	(242,'Papers from an NAS Colloquium on Earthquake Prediction','National Academy of Sciences','http%3A%2F%2Fwww.pnas.org%2Fcontent%2F93%2F9.toc','Excellent collection of downloadable papers '),
 	(167,'Southern California Earthquakes, Faults, Photos & Rupture Movies','Southern California Earthquake Center (SCEC) & USGS','http%3A%2F%2Fscedc.caltech.edu%2Fsignificant%2F','all things \"earthquake\" in southern California'),
 	(349,'Evidence for Plate Tectonics-Teaching Box','DLESE','http%3A%2F%2Fwww.teachingboxes.org%2Fjsp%2Fteachingboxes%2FplateTectonics%2Findex.jsp','Collection of interrelated learn concepts that focuses on finding the evidence for plate tectonics using digital resources, education standards, and comprehensive lesson plans.'),

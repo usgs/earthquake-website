@@ -574,7 +574,7 @@
           <dd>
             Textual description of named geographic region near to the event.
             This may be a city name, or a <a
-            href="/learn/topics/flinn_engdahl.php"
+            href="/data/flinn_engdahl.php"
             >Flinn-Engdahl Region</a> name.
           </dd>
           <dt>Additional Information</dt>
@@ -605,7 +605,7 @@
             <p>
               If there is no nearby city within 300 kilometers (or if the nearby
               cities database is unavailable for some reason), the <a
-              href="/learn/topics/flinn_engdahl.php">Flinn-Engdahl (F-E)</a>
+              href="/data/flinn_engdahl.php">Flinn-Engdahl (F-E)</a>
               seismic and geographical regionalization scheme is used. The
               boundaries of these regions are defined at one-degree intervals
               and therefore differ from irregular political boundaries. For
