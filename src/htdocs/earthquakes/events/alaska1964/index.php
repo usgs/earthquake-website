@@ -145,7 +145,7 @@
 <ul class="no-style linklist">
 
   <li>
-    <a href="http://alaska.usgs.gov/announcements/news/1964Earthquake/">
+    <a href="https://alaska.usgs.gov/news/1964Earthquake/">
       <h4>1964 Great Alaska Earthquake Photo Tour of Anchorage</h4>
       <img src="img/alaska-tour.jpg" alt="screenshot of page" width="150px"/>
     </a>
