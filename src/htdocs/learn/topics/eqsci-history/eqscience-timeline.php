@@ -36,7 +36,7 @@
 <ul class="days">
   <li class="day">
     <div class="events">
-      <p><a href="early-seismometry.php">First seismoscope</a> in Chang H&#234;ng, China.</p>
+      <p><a href="https://pubs.geoscienceworld.org/ssa/bssa/article/59/1/183/101553/the-early-history-of-seismometry-to-1900">First seismoscope</a> in Chang H&#234;ng, China.</p>
       <div class="date">132 A.D.</div>
     </div>
   </li>
