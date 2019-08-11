@@ -10,7 +10,7 @@ if (!isset($TEMPLATE)) {
 
 <p>July 23, 2019</p>
 <p>
-  The Earthquake Hazards Program (EHP) website is being updated and is moving to a new content management system (CMS) framework under the USGS website.
+  The Earthquake Hazards Program (EHP) website is being updated and is moving to a new content management system (CMS) framework under the USGS website. The new landing page is at the URL <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards">https://www.usgs.gov/natural-hazards/earthquake-hazards</a>.
 </p>
 <p>
   <strong>The URL <i>https://earthquake.usgs.gov/</i> will continue to bring you to the EHP homepage, and near-realtime earthquake information will continue to be available at the same URL as always.</strong>
