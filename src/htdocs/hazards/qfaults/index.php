@@ -27,7 +27,7 @@
         <ul>
           <li><a href="/static/lfs/nshm/qfaults/qfaults.kmz">KML (Google Earth) Files</a> (13 MB KMZ)<br/>
           - includes 5 fault layers: Historic, Holocene to Latest Pleistocene, Late Quaternary, Mid-Late Quaternary, Quaternary</li>
-          <li><a href="/static/lfs/nshm/qfaults/Qfaults_2018_shapefile.zip">GIS Shapefiles</a> (16 MB ZIP file)</li>
+          <li><a href="/static/lfs/nshm/qfaults/Qfaults_GIS.zip">GIS files</a> (16 MB ZIP file)</li>
         </ul>
       </li>
       <li><a href="background.php">Background</a> - history, help, personnel and references</li>
