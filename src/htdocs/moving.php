@@ -34,4 +34,7 @@ if (!isset($TEMPLATE)) {
   <li>
     <strong>Science for Everyone</strong> moved to <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science-everyone?qt-science_support_page_related_con=0#qt-science_support_page_related_con">https://www.usgs.gov/natural-hazards/earthquake-hazards/science-everyone?qt-science_support_page_related_con=0#qt-science_support_page_related_con</a>
   </li>
+  <li>
+    <strong>Research</strong> moved to <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/research">https://www.usgs.gov/natural-hazards/earthquake-hazards/research</a>
+  </li>
 </ul>
