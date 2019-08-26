@@ -20,15 +20,16 @@
   <li>the probability of future moderate (M6+) to large (M7+) earthquakes.</li>
 </ol>
 <p>
-  We use the behavior of past aftershock sequences to forecast the likelihood of future aftershocks.  As an aftershock sequence progresses, our forecast also incorporates information about the behavior of that specific sequence.
+  We forecast aftershock activity over future time intervals of a day,
+a week, a month, and a year. We use the behavior of past aftershock sequences to forecast the likelihood of future aftershocks.  As an aftershock sequence progresses, our forecast also incorporates information about the behavior of that specific sequence.
 </p>
 
 <h2>When We Make and Update Forecasts</h2>
 <p>
-  <strong>Forecasts are computed for earthquakes of 5+ in the United States and U.S. territories.</strong> There are higher thresholds of M6 or 6.5 in some remote and poorly-instrumented areas. We also compute forecasts for some smaller earthquakes that are of particular public interest, for example earthquakes in densely-populated areas. We will not usually compute aftershock forecasts for earthquakes that are themselves aftershocks of a prior larger earthquake, or for earthquakes that occur as part of volcanic activity.
+  <strong>Forecasts are posted for earthquakes of M5+ in the United States and U.S. territories.</strong> There are higher thresholds of M6 or 6.5 in some remote and poorly-instrumented areas. We also compute forecasts for some smaller earthquakes that are of particular public interest, for example earthquakes in densely-populated areas. We will not usually compute aftershock forecasts for earthquakes that are themselves aftershocks of a prior larger earthquake, or for earthquakes that occur as part of volcanic activity.
 </p>
 <p>
-  <strong>Forecasts are updated regularly.</strong> The rate of aftershocks changes with time, generally decreasing, although sometimes temporarily increasing after a significant aftershock. Therefore, the forecasts are updated to keep current with the changing aftershock rate. We also update the forecasts over time to incorporate more information about the specific behavior of the aftershock sequence. We update at least once within the first day, again within the first week, and again within the first month. The time that the current forecast was released, and the planned time of the next forecast update, are included with the most recent aftershock forecast information.
+  <strong>Forecasts are updated regularly.</strong> The rate of aftershocks changes with time, generally decreasing, although sometimes temporarily increasing after a significant aftershock. Therefore, the forecasts are updated to keep current with the changing aftershock rate. We also update the forecasts over time to incorporate more information about the specific behavior of the aftershock sequence. We update at least once within the first day, again within the first week, and again within the first month. The time that the current forecast was released, and the planned time of the next forecast update, are included in each forecast.
 </p>
 
 <h2>How to Find the Forecasts</h2>
