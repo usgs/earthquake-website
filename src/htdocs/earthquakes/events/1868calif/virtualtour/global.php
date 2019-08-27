@@ -18,7 +18,7 @@ include_once ('_functions.inc.php');
       <div class="column four-of-five">
         <h3> Tectonic Plates Boundaries </h3>
         <p>The outermost shell of the Earth is broken into several rigid &ldquo;plates&rdquo; that have been moving relative to one another for hundreds of millions of years. Two of these moving plates, the North American and the Pacific, rub past each other in western California; the boundary between them is a zone of faults, the principal one being the San Andreas Fault. The Pacific Plate (on the west) slides horizontally northwestward relative to the North American Plate (on the east) at about 2 in/yr, causing earthquakes along the San Andreas and associated faults. For more information on plate tectonics see  <a href="http://pubs.usgs.gov/gip/dynamic/dynamic.html">This Dynamic Earth</a>.</p>
-        <p class="kml"><a href="/learn/plate-boundaries.kmz">Tectonic Plate Boundaries</a> <?php print(simpleFileSize("../../../../learn/plate-boundaries.kmz"));  ?></p>
+        <p class="kml"><a href="https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/plate-boundaries.kmz">Tectonic Plate Boundaries</a> (321 kB)</p>
       </div>
     </div>
   </li>
