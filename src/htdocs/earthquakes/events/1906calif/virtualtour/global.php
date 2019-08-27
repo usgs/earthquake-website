@@ -21,7 +21,7 @@ include_once ('_functions.inc.php');
     <figure>
       <h3>Tectonic Plate Boundaries</h3>
       <p>The outermost shell of the Earth consists of a mosaic of rigid &ldquo;plates&rdquo; that have been moving relative to one another for hundreds of millions of years. Two of these moving plates meet in western California; the boundary between them is a zone of faults, the principal one being the San Andreas fault. The Pacific Plate (on the west) slides horizontally northwestward relative to the North American Plate (on the east), causing earthquakes along the San Andreas and associated faults. The San  Andreas fault is a <em>transform </em>plate boundary, accomodating horizontal relative motions. For more information on the story of plate tectonics see <a href="http://pubs.usgs.gov/gip/dynamic/dynamic.html">This Dynamic Earth</a>.</p>
-      <p class="kml"><a href="kml/PlateBoundaries.kmz">Tectonic Plate Boundaries</a><?php print(simpleFileSize("kml/PlateBoundaries.kmz")); ?></p>
+      <p class="kml"><a href="https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/plate-boundaries.kmz">Tectonic Plate Boundaries</a> (321 kB)</p>
     </figure>
   </div>
 </div>
