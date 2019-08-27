@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2019-08-28',
+  'title' => 'Santa Rosa\'s Past and Future Earthquakes',
+  'content' => 'A new USGS factsheet discusses recent scientific research showing that Santa Rosa, CA is underlain by a deep sedimentary basin that has and will increase earthquake shaking. Earthquake scientists were also able to map the surface traces of the Rodgers Creek Fault through the area, and they think that it may connect to the Hayward Fault to the south. If so, the two faults together would be capable of producing a larger earthquake than previously thought.',
+  'link' => 'https://pubs.usgs.gov/fs/2019/3035/fs20193035.pdf',
+  'modified' => strtotime('2019-08-28'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/SantaRosa.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/SantaRosa.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2019-07-09',
   'title' => 'M7.1 Earthquake in Southern California',
   'content' => 'Get up-to-date information about the July 6th, 2019, 03:19 UTC (July 5th 20:19 locally) Mw 7.1 earthquake in eastern California, southwest of Searles Valley. Also read the USGS News Story on the
