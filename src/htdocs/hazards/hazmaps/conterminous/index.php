@@ -98,7 +98,7 @@
   <li>GIS Shapefiles:
     <ul>
       <li><a href="/static/lfs/nshm/conterminous/2014/data/USpga250.zip">PGA, 2% in 50yrs</a>(5MB Zip)</li>
-      <li><a href="/static/lfs/nshm/conterminous/2014/hazfaults2014.zip">Fault Sources</a>(MB Zip)</li>
+      <li><a href="https://earthquake.usgs.gov/static/lfs/nshm/conterminous/2014/data/hazfaults2014.zip">Fault Sources</a>(&lt;1MB Zip)</li>
     </ul>
   </li>
 
@@ -152,7 +152,7 @@
   <li><a href="https://github.com/usgs/nshmp-haz-fortran/releases/tag/nshm2008r3">Source Code - Revision III</a></li>
   <li><a href="2008/catalogs.php">Catalogs</a></li>
   <li><a href="/cfusion/hazfaults_2008_search/query_main.cfm">Faults Database Search</a></li>
-  <li><a href="https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5a6038b3a1684561a9b0aadf88412fcf&extent=-21510150.8426%2C5098074.5675%2C-13771054.6028%2C10410753.7814%2C102100&showLayers=hazfaults2007_8950">Fault Source Map</a></li>
+  <li><a href="https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5a6038b3a1684561a9b0aadf88412fcf&showLayers=hazfaults2008_7028">Fault Source Map</a></li>
   <li><a href="https://pubs.usgs.gov/of/2008/1128/">Documentation for the 2008 Update of the United States National Seismic Hazard Maps</a> (USGS OFR 2008-1128)</li>
 </ul>
 
