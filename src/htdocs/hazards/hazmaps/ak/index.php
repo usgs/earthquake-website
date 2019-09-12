@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact:
-      //	Last	modified:	10/6/2016
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Alaska';
       $NAVIGATION	= true;
@@ -34,6 +33,7 @@
   <li><a href="2007/curves.php">Hazard Curves</a></li>
 	<li><a href="2007/software.php">Software</a></li>
 	<li><a href="https://pubs.usgs.gov/of/2007/1043/">Documentation</a></li>
+  <li><a href="https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5a6038b3a1684561a9b0aadf88412fcf&showLayers=NSHM_Fault_Sources_4251%3BNSHM_Fault_Sources_4251_2">Fault Source Map</a>
 </ul>
 
 <h2 id="1999">1999</h2>

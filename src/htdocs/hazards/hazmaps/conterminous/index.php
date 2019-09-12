@@ -111,7 +111,7 @@
   <li><a href="/cfusion/hazfaults_2014_search/query_main.cfm">Faults Database Search</a>
   </li>
 
-  <li><a href="https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5a6038b3a1684561a9b0aadf88412fcf&showLayers=hazfaults2014_6348">Fault Source Map</a></li>
+  <li><a href="https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5a6038b3a1684561a9b0aadf88412fcf&showLayers=NSHM_Fault_Sources_4251%3BNSHM_Fault_Sources_4251_0">Fault Source Map</a></li>
 
   <li><strong><a href="https://pubs.usgs.gov/of/2014/1091/">Hazard Model Documentation</a> (USGS OFR 2014-1091)</strong></li>
   <li><strong><a href="https://github.com/usgs/nshmp-haz-fortran/wiki">OFR 2014-1091 Errata and User Q &amp; A</a></strong></li>
@@ -152,7 +152,7 @@
   <li><a href="https://github.com/usgs/nshmp-haz-fortran/releases/tag/nshm2008r3">Source Code - Revision III</a></li>
   <li><a href="2008/catalogs.php">Catalogs</a></li>
   <li><a href="/cfusion/hazfaults_2008_search/query_main.cfm">Faults Database Search</a></li>
-  <li><a href="https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5a6038b3a1684561a9b0aadf88412fcf&showLayers=hazfaults2008_7028">Fault Source Map</a></li>
+  <li><a href="https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5a6038b3a1684561a9b0aadf88412fcf&showLayers=NSHM_Fault_Sources_4251%3BNSHM_Fault_Sources_4251_1">Fault Source Map</a></li>
   <li><a href="https://pubs.usgs.gov/of/2008/1128/">Documentation for the 2008 Update of the United States National Seismic Hazard Maps</a> (USGS OFR 2008-1128)</li>
 </ul>
 
@@ -186,7 +186,7 @@
   <li><a href="2002/data.php">Data</a></li>
   <li>Source Code is not available.</li>
   <li><a href="/cfusion/hazfaults_2002_search/query_main.cfm">Faults Database Search</a></li>
-  <li><a href="https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5a6038b3a1684561a9b0aadf88412fcf&showLayers=hazfaults2002_3896">Fault Source Map</a></li>
+  <li><a href="https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5a6038b3a1684561a9b0aadf88412fcf&showLayers=NSHM_Fault_Sources_4251%3BNSHM_Fault_Sources_4251_3">Fault Source Map</a></li>
   <li><a href="https://pubs.usgs.gov/of/2002/ofr-02-420/">Documentation for the 2002 Update of the National Seismic Hazard Maps</a> (USGS OFR 02-420)</li>
 </ul>
 
