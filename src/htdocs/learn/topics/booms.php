@@ -19,7 +19,7 @@
 
 <h3>Eastern U.S.</h3>
 <p>
-  The term “Seneca Guns” is commonly used for booms that residents hear near Lake Seneca in the Catskill Mountains of New York. The name has also been applied to similar sounds along the coasts of North Carolina, South Carolina, and Virginia (<a href="http://www.seismosoc.org/Publications/SRL/SRL_82/srl_82-5_op/hill_op.html">possible origins of this term</a>). The 1886 Charleston, South Carolina earthquake (approximately M6.9) was accompanied by well-documented booming sounds. The observations describe a roaring sound that was heard as the seismic waves rolled across the region. For several weeks after the Charleston Earthquake, there were many aftershocks that were reportedly accompanied by "loud detonations".
+  The term “Seneca Guns” is commonly used for booms that residents hear near Lake Seneca in the Finger Lakes region of New York. The name has also been applied to similar sounds along the coasts of North Carolina, South Carolina, and Virginia (<a href="http://www.seismosoc.org/Publications/SRL/SRL_82/srl_82-5_op/hill_op.html">possible origins of this term</a>). The 1886 Charleston, South Carolina earthquake (approximately M6.9) was accompanied by well-documented booming sounds. The observations describe a roaring sound that was heard as the seismic waves rolled across the region. For several weeks after the Charleston Earthquake, there were many aftershocks that were reportedly accompanied by "loud detonations".
 </p>
 
 <h3>Midwestern U.S.</h3>
