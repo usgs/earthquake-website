@@ -78,6 +78,9 @@ a week, a month, and a year. We use the behavior of past aftershock sequences to
   <li>&ldquo;Bayesian&CloseCurlyDoubleQuote; parameter values, which combine the generic parameter values with sequence-specific information.</li>
 </ol>
 </p>
+<p>
+  Forecasts are currently made only with the Reasenberg-Jones (1989, 1994) model, which models the aftershock rate with a smooth decay with time following the mainshock. At this time we are not calculating spatial forecasts or providing maps to show areas with the highest likelihood of aftershocks. As a rule of thumb, aftershocks are most likely to occur near the mainshock fault plane and in areas already experiencing numerous aftershocks.
+</p>
 
 <h2>How the Aftershock Forecasts Work</h2>
 <p>
