@@ -38,10 +38,10 @@ if (!isset($TEMPLATE)) {
     </ul>
     </p>
 
-    <a href="learn/faq.php">
+    <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">
       <img class="faq" src="learn/images/main-faq.gif" width="150"/>
     </a>
-    <p><strong><a href="learn/faq.php">FAQ - Frequently Asked Questions</a></strong><br/>
+    <p><strong><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">FAQ - Frequently Asked Questions</a></strong><br/>
        Seriously, check here first.</p>
 
 
@@ -68,7 +68,7 @@ if (!isset($TEMPLATE)) {
 
     <p class='alert'>
       <img class="nehrp" src="images-home/nehrp.png">
-      The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977, and the USGS <a href="/monitoring/anss/">Advanced National Seismic System (ANSS)</a> was established by Congress as a NEHRP facility.  The USGS and its partners monitor and report earthquakes, assess earthquake impacts and hazards, and perform research into the causes and effects of earthquakes.
+      The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977, and the USGS <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/anss-advanced-national-seismic-system">Advanced National Seismic System (ANSS)</a> was established by Congress as a NEHRP facility.  The USGS and its partners monitor and report earthquakes, assess earthquake impacts and hazards, and perform research into the causes and effects of earthquakes.
     </p>
 
 <!-- 1 Day, All Magnitudes List - need to figure out how to do 2 lists
@@ -165,7 +165,7 @@ if (!isset($TEMPLATE)) {
           </ul>
           <ul class="sections-list">
             <li class="sections-listitem">
-              <a href="/research/">
+              <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/research">
                     <img class="sections-img" src="/images-home/home-research150x150.jpg" alt="Research section thumbnail" />
                     <h2>Research</h2>
                   </a>

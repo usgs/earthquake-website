@@ -10,14 +10,14 @@ $SITE_SITENAV =
   '<a href="/data/">Data &amp; Products</a>' .
   '<a href="/learn/">Learn</a>' .
   '<a href="/monitoring/">Monitoring</a>' .
-  '<a href="/research/">Research</a>';
+  '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/research">Research</a>';
 
 // at bottom of page
 $SITE_COMMONNAV =
   navItem(($SITE_URL), 'Home') .
-  navItem('/aboutus/', 'About Us') .
-  navItem('/contactus/', 'Contacts') .
-  navItem('/legal.php', 'Legal');
+  navItem('https://www.usgs.gov/natural-hazards/earthquake-hazards/about', 'About Us') .
+  navItem('https://www.usgs.gov/natural-hazards/earthquake-hazards/connect', 'Contacts') .
+  navItem('/https://www.usgs.gov/policies-and-notices', 'Legal');
 
 $HEAD =
 // site theme, should use a site root-relative URL
