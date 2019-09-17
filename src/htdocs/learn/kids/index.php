@@ -11,7 +11,7 @@
 
 <div class="row">
   <div class="text blue">
-    <a href="eqscience.php"><h2>Science of Earthquakes</h2></a>
+    <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes"><h2>Science of Earthquakes</h2></a>
   </div>
 
   <figure class='kidfig'>
@@ -22,7 +22,7 @@
   </figure>
 
   <div class="text green">
-    <a href="../animations/"><h2>Earthquake Animations</h2></a>
+    <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-animations"><h2>Earthquake Animations</h2></a>
   </div>
 
   <div class="text"></div>
@@ -37,7 +37,7 @@
   </figure>
 
   <div class="text orange">
-    <a href="sciencefair.php"><h2>Science Fair Projects</h2></a>
+    <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-fair-project-ideas"><h2>Science Fair Projects</h2></a>
   </div>
 
   <figure class='kidfig'>
@@ -48,13 +48,13 @@
   </figure>
 
   <div class="text red">
-    <a href="become.php"><h2>Become an Earthquake Scientist</h2></a>
+    <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/become-an-earthquake-scientist"><h2>Become an Earthquake Scientist</h2></a>
   </div>
 </div>
 
 <div class="row">
   <div class="text green">
-    <a href="../facts.php"><h2>Cool Earthquake Facts</h2></a>
+    <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/cool-earthquake-facts"><h2>Cool Earthquake Facts</h2></a>
   </div>
 
   <div class="text"></div>
@@ -86,13 +86,13 @@
   </div>
 
   <div class="text lime">
-    <a href="../photos.php"><h2>Earthquake Photos</h2></a>
+    <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-photo-collections"><h2>Earthquake Photos</h2></a>
   </div>
 </div>
 
 <div class="row">
   <div class="text red">
-    <a href="abc/"><h2>Earthquake ABC</h2></a>
+    <a href="https://pubs.usgs.gov/gip/dynamic/dynamic.html"><h2>The Story of Plate Tectonics</h2></a>
   </div>
 
   <div class="text"></div>
