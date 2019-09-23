@@ -11,6 +11,7 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
 $EQ_FEATURES->items[] = array(
   'id' => '2019-09-23',
   'title' => 'Could the M7.1 Ridgecrest, CA Earthquake Sequence Trigger a Large Earthquake Nearby?',
