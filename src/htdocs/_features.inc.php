@@ -11,6 +11,15 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+$EQ_FEATURES->items[] = array(
+  'id' => '2019-09-23',
+  'title' => 'Could the M7.1 Ridgecrest, CA Earthquake Sequence Trigger a Large Earthquake Nearby?',
+  'content' => 'Two of the first questions that come to mind for anyone who just felt an earthquake are, “Will there be another one?” and “Will it be larger?”.',
+  'link' => 'https://www.usgs.gov/natural-hazards/earthquake-hazards/science/could-m71-ridgecrest-ca-earthquake-sequence-trigger-a',
+  'modified' => strtotime('2019-09-23'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/Ridgecrest-faultzones.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/Ridgecrest-faultzones.jpg'
+);
 
 $EQ_FEATURES->items[] = array(
   'id' => '2019-08-28',
