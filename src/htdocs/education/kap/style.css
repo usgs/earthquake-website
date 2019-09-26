@@ -1,0 +1,10 @@
+.crew li {
+  margin: .5em 0;
+}
+
+a-scene {
+  max-width: 1500px;
+  padding: 30%; /* sets height to 60% of width */
+  width: 100%;
+  clear: both;
+}
