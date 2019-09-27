@@ -1,5 +1,5 @@
 <?php
-  $section = "/learn/topics/shakingsimulations";
+  $section = "/education/shakingsimulations";
 
   $url = $_SERVER['REQUEST_URI'];
 
@@ -8,7 +8,7 @@
     $matchesOverview = true;
   }
 
-  echo "<a href='/learn/topics/' class='up-one-level'>Earthquake Topics</a>";
+  echo "<a href='/education/' class='up-one-level'>Earthquake Topics</a>";
 
   echo navGroup('Ground Shaking Simulations',
     navItem("${section}/", "Overview", $matchesOverview) .

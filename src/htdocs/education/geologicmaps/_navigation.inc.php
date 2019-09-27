@@ -1,8 +1,8 @@
 <?php
 
-  $section = "/learn/topics/geologicmaps";
+  $section = "/education/geologicmaps";
 
-  echo "<a href='/learn/topics/' class='up-one-level'>Earthquake Topics</a>";
+  echo "<a href='/education/' class='up-one-level'>Earthquake Topics</a>";
 
   echo "<section>",
     navItem("${section}/index.php","Introduction") .

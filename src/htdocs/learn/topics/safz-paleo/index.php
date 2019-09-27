@@ -28,7 +28,7 @@
   Maybe you’ve heard that the “Big One is overdue” on the San Andreas Fault.  No one can predict earthquakes, so what does the science really say?  Where does the information come from?  And what does it mean?
 </p>
 <p>
-  Earth scientists have been gathering data at key <a href="/learn/topics/paleo-intro/">paleoseismic sites</a> along sections of the San Andreas Fault to figure out the past timeline of earthquakes at each spot. The data show that at many places along the San Andreas Fault, we have gone past the average time between large earthquakes.  Since we have exceeded the average, many people use the term &ldquo;overdue,&CloseCurlyDoubleQuote; but it’s more complicated than that. First, let's zoom out and look at the big picture.
+  Earth scientists have been gathering data at key <a href="/education/paleo-intro/">paleoseismic sites</a> along sections of the San Andreas Fault to figure out the past timeline of earthquakes at each spot. The data show that at many places along the San Andreas Fault, we have gone past the average time between large earthquakes.  Since we have exceeded the average, many people use the term &ldquo;overdue,&CloseCurlyDoubleQuote; but it’s more complicated than that. First, let's zoom out and look at the big picture.
 </p>
 
 <h2>San Andreas Fault Zone – The Big Picture</h2>
@@ -66,7 +66,7 @@
   Along the southernmost San Andreas, from <strong>Palm Springs to the Salton Sea</strong>, earthquakes happen infrequently, about every 200-300 years.  The most recent earthquake occurred during the time of Spanish exploration, about 300 years ago, but there is no historic record of the event. Instead, radiocarbon dating provides the age of the most recent earthquake and six more that occurred since about 800 A.D.
 </p>
 <p>
-  A paleoseismology site in <strong>Wrightwood, CA</strong> has been studied by several scientists, and recently (in 2010) the detailed data from multiple studies were joined together to create a single timeline.  The resulting 3000-year record includes 29 surface-rupturing earthquakes.  Careful analysis of the age of the earthquakes, including the uncertainties in radiocarbon dating (see Determining the Age of a Paleoearthquake in <a href="/learn/topics/paleo-intro/">Introduction to Paleoseismology</a>), showed that the average time between earthquakes is about 100 years.
+  A paleoseismology site in <strong>Wrightwood, CA</strong> has been studied by several scientists, and recently (in 2010) the detailed data from multiple studies were joined together to create a single timeline.  The resulting 3000-year record includes 29 surface-rupturing earthquakes.  Careful analysis of the age of the earthquakes, including the uncertainties in radiocarbon dating (see Determining the Age of a Paleoearthquake in <a href="/education/paleo-intro/">Introduction to Paleoseismology</a>), showed that the average time between earthquakes is about 100 years.
 </p>
 <p>
   The recurrence intervals (times between earthquakes) at Wrightwood are more regular than clustered (determined by a mathematical analysis), and only four times in the past has the interval between two major earthquakes been longer than the current interval (since 1857).  The results of this study indicate that this section of the San Andreas Fault is likely to have a large earthquake in the not-too-distant future.
@@ -127,14 +127,14 @@
   <li>
     <a href="images/camap.gif">Map of active faults and historic ruptures in California</a> - paleoseismic data compiled from Table H3 of <a href="https://pubs.usgs.gov/fs/2015/3009/">UCERF3</a> (below)
   </li>
-  <li><a href="/learn/topics/paleo-intro/">Introduction to Paleoseismology</a></li>
-  <li><a href="/learn/topics/hayward_paleo/">Paleoseismology and the Hayward Fault</a></li>
+  <li><a href="/education/paleo-intro/">Introduction to Paleoseismology</a></li>
+  <li><a href="/education/hayward_paleo/">Paleoseismology and the Hayward Fault</a></li>
   <li><a href="/earthquakes/events/1906calif/18april/paleo.php">New Information About the San Andreas Fault</a>
   </li>
   <li>
     <a href="https://eos.org/research-spotlights/catching-glimpses-of-centuries-old-earthquakes?utm_source=rss&utm_medium=rss&utm_content=catching-glimpses-of-centuries-old-earthquakes">Catching Glimpses of Centuries-Old Earthquakes</a>
   </li>
-  <li><a href="/learn/topics/nmsz/1811-1812.php">Science of the New Madrid Seismic Zone - Paleoseismology</a></li>
+  <li><a href="/education/nmsz/1811-1812.php">Science of the New Madrid Seismic Zone - Paleoseismology</a></li>
   <li><a href="https://pubs.usgs.gov/fs/2015/3009/">UCERF3: A New Earthquake Forecast for California’s Complex Fault System</a></li>
   <li><a href="/learn/preparedness.php">Earthquake Preparedness</a></li>
 </ul>

@@ -18,7 +18,7 @@
 
 <h2>Topics of Interest</h2>
 <ul>
-  <li><a href="/learn/topics/topics.php?topicID=71">New Madrid Seismic Zone</a></li>
+  <li><a href="/education/topics.php?topicID=71">New Madrid Seismic Zone</a></li>
 </ul>
 
 <h2>Organizations</h2>

@@ -1,5 +1,5 @@
 <?php
-  $section = "/learn/topics/history";
+  $section = "/education/history";
 
   echo "<a href='/learn/' class='up-one-level'>Learn</a>";
 

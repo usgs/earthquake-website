@@ -108,7 +108,7 @@
     News Stories about the Earthquake Quartet: <a href="http://archives.cnn.com/2000/SHOWBIZ/Music/02/05/earthquake.music/index.html">CNN</a>, <a href="smtimes.php">Associated Press/San Mateo County Times</a>
   </li>
   <li>
-    <a href="/learn/topics/listen/">Listen to Earthquakes</a>: Learn about seismology by listening to seismograms
+    <a href="/education/listen/">Listen to Earthquakes</a>: Learn about seismology by listening to seismograms
   </li>
   <li>
     <a href="http://pieqf.allshookup.org/">PIEQF Installation</a>

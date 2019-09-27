@@ -41,18 +41,18 @@
   <li id="fm">
     <h2>Focal Mechanisms</h2>
     <p>
-      The focal mechanism image shows a visual representation of the <a href="/learn/topics/beachball.php">style of faulting (focal mechanism)</a> derived from the estimated <a href="/learn/glossary/?term=moment%20tensor">moment tensor</a>. Shaded areas show quadrants of the focal sphere in which the P-wave first-motions are away from the source, and unshaded areas show quadrants in which the P-wave first-motions are toward the source. The dots represent the axis of maximum compressional strain (in black, called the "P-axis") and the axis of maximum extensional strain (in white, called the "T-axis") resulting from the earthquake.
+      The focal mechanism image shows a visual representation of the <a href="/education/beachball.php">style of faulting (focal mechanism)</a> derived from the estimated <a href="/learn/glossary/?term=moment%20tensor">moment tensor</a>. Shaded areas show quadrants of the focal sphere in which the P-wave first-motions are away from the source, and unshaded areas show quadrants in which the P-wave first-motions are toward the source. The dots represent the axis of maximum compressional strain (in black, called the "P-axis") and the axis of maximum extensional strain (in white, called the "T-axis") resulting from the earthquake.
     </p>
   </li>
 
   <li id="mt">
     <h2>Moment Tensors</h2>
     <p>
-      A mathematical representation of the movement on a fault during an earthquake. The tensor depends on the source strength and fault orientation. See also <a href="/learn/topics/beachball.php">Focal Mechanisms</a>.
+      A mathematical representation of the movement on a fault during an earthquake. The tensor depends on the source strength and fault orientation. See also <a href="/education/beachball.php">Focal Mechanisms</a>.
     </p>
 
     <p>
-      The moment tensor image shows a visual representation of the <a href="/learn/topics/beachball.php">style of faulting (focal mechanism)</a> derived from the estimated <a href="/learn/glossary/?term=moment%20tensor">moment tensor</a>. Shaded areas show quadrants of the focal sphere in which the P-wave first-motions are away from the source, and unshaded areas show quadrants in which the P-wave first-motions are toward the source. The dots represent the axis of maximum compressional strain (in black, called the "P-axis") and the axis of maximum extensional strain (in white, called the "T-axis") resulting from the earthquake.
+      The moment tensor image shows a visual representation of the <a href="/education/beachball.php">style of faulting (focal mechanism)</a> derived from the estimated <a href="/learn/glossary/?term=moment%20tensor">moment tensor</a>. Shaded areas show quadrants of the focal sphere in which the P-wave first-motions are away from the source, and unshaded areas show quadrants in which the P-wave first-motions are toward the source. The dots represent the axis of maximum compressional strain (in black, called the "P-axis") and the axis of maximum extensional strain (in white, called the "T-axis") resulting from the earthquake.
     </p>
 
     <dl class="typelist vertical">

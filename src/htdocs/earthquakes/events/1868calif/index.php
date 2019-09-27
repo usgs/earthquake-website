@@ -91,7 +91,7 @@
   </li>
 
   <li>
-    <a href="/learn/topics/shakingsimulations/hayward/">
+    <a href="/education/shakingsimulations/hayward/">
       <h3>Hayward Fault Scenario Earthquake Animations</h3>
       <img src="images/hayward.jpg" alt="Photo of the Hayward Fault"/>
     </a>
@@ -185,7 +185,7 @@
   </li>
 
   <li>
-    <a href="/learn/topics/haywardfault/">
+    <a href="/education/haywardfault/">
       <h3>Active Traces of the Hayward Fault</h3>
       <img src="images/hayward-1.jpg" alt="Photo of the Traces of the Hayward Fault"/>
     </a>
@@ -237,7 +237,7 @@
   </li>
 
   <li>
-    <a href="/learn/topics/hayward_paleo/">
+    <a href="/education/hayward_paleo/">
       <h3>Paleoseismology and the Hayward Fault</h3>
       <img src="images/recurrence.png" alt="plot showing earthquake recurrence" />
     </a>

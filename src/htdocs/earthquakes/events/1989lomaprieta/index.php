@@ -24,7 +24,7 @@ if (!isset($TEMPLATE)) {
   </li>
 
   <li>
-    <a href="/learn/topics/shakingsimulations/1989/">
+    <a href="/education/shakingsimulations/1989/">
       <h3>Ground Shaking Animations</h3>
       <img src="img/simulations.jpg" alt="Image of Ground Shaking Simulations"/>
     </a>
