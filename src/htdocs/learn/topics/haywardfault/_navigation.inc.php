@@ -1,5 +1,5 @@
 <?php
-  $section = "/learn/topics/haywardfault";
+  $section = "/education/haywardfault";
   $url = $_SERVER['REQUEST_URI'];
 
   $matchesIntro = false;
@@ -7,7 +7,7 @@
     $matchesIntro = true;
   }
 
-  echo "<a href='/learn/topics/' class='up-one-level'>Earthquake Topics</a>",
+  echo "<a href='/education/' class='up-one-level'>Earthquake Topics</a>",
 
   "<section>",
     navItem("${section}/index.php", "Introduction", $matchesIntro),

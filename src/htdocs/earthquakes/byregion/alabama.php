@@ -17,7 +17,7 @@
 
 <h2>Topics of Interest</h2>
 <ul>
-  <li><a href="/learn/topics/topics.php?topicID=71">New Madrid Seismic Zone</a></li>
+  <li><a href="/education/topics.php?topicID=71">New Madrid Seismic Zone</a></li>
   <li><a href="https://pubs.usgs.gov/gip/119/">Putting Down Roots in Earthquake Country—Your Handbook for Earthquakes in the Central United States</a></li>
 </ul>
 

@@ -111,5 +111,5 @@ if (!isset($TEMPLATE)){
     highlights the region around Santa Rosa which experienced intense and damaging
     shaking in 1906.  Similarly intense shaking near Santa Rosa is also predicted by the computer model
     as can be seen in <a href="./1906/images/sf1906t0300.jpg">this snapshot</a>
-    or in the <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906santarosa_hires.mp4">close-up movie for Santa Rosa</a>.
+    or in the <a href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/1906/sf1906santarosa_hires.mp4">close-up movie for Santa Rosa</a>.
           </p>

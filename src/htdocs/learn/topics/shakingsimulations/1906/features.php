@@ -92,10 +92,10 @@ if ( ! isset( $TEMPLATE ) ) {
           <p>
             <ul>
              <li>Movie following rupture south:
-               <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906flysouth_hires.mp4">normal resolution</a> (960x540, 37 MB)
+               <a href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/1906/sf1906flysouth_hires.mp4">normal resolution</a> (960x540, 37 MB)
              </li>
              <li>Movie following rupture north:
-               <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906flynorth_hires.mp4">normal resolution</a> (960x540, 21 MB)
+               <a href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/1906/sf1906flynorth_hires.mp4">normal resolution</a> (960x540, 21 MB)
              </li>
             </ul>
           </p>

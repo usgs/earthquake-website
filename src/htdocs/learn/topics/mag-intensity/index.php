@@ -93,13 +93,13 @@
     <a href="magnitude-types.php">Magnitude Types Table</a>
   </li>
   <li>
-    <a href="https://earthquake.usgs.gov/learn/topics/how_much_bigger.php">How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake? Try it yourself calculator</a>
+    <a href="https://earthquake.usgs.gov/education/how_much_bigger.php">How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake? Try it yourself calculator</a>
   </li>
   <li>
     <a href="/learn/publications/BigFaults_BigQuakes.pdf">Bigger Faults Make Bigger Earthquakes</a> - K-5 activity: fault length, rupture duration, magnitude
   </li>
   <li>
-    <a href="/learn/topics/topics.php?topicID=24">Magnitude Educational Resources</a>
+    <a href="/education/topics.php?topicID=24">Magnitude Educational Resources</a>
   </li>
 </ul>
 
@@ -156,7 +156,7 @@
 <h3>For More Information on Intensity</h3>
 <ul>
   <li>
-    <a href="/learn/topics/mercalli.php">The Modified Mercalli Intensity Scale</a>
+    <a href="/education/mercalli.php">The Modified Mercalli Intensity Scale</a>
   </li>
   <li>
     <a href="/static/lfs/learn/Mag_vs_Int_Pkg.pdf">Magnitude vs Intensity</a> - Grades 4-12 activity: magnitude, intensity
@@ -165,10 +165,10 @@
     <a href="https://pubs.usgs.gov/of/1995/0092/report.pdf">Intensity distribution and isoseismal maps for the Northridge, California, earthquake of January 17,1994</a>, USGS Open-File Report 95-92.
   </li>
   <li>
-    <a href="/learn/topics/intensity/compare_intensity.php">Comparing Shaking Intensity from Two Bay Area Earthquakes</a> - fault length, magnitude, intensity (needs magnitude for each on this page)
+    <a href="/education/intensity/compare_intensity.php">Comparing Shaking Intensity from Two Bay Area Earthquakes</a> - fault length, magnitude, intensity (needs magnitude for each on this page)
   </li>
   <li>
-    <a href="/learn/topics/topics.php?topicID=77">Intensity Educational Resources</a>
+    <a href="/education/topics.php?topicID=77">Intensity Educational Resources</a>
   </li>
 </ul>
 

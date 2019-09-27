@@ -1,6 +1,6 @@
 <?php
   function buildMovieHtml($movie, $set, $caption='',$filesize,$hdfilesize) {
-    $path =  "https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/$set";
+    $path =  "https://escweb.wr.usgs.gov/content/education/shakingsimulations/$set";
     #$system_path = $_SERVER['DOCUMENT_ROOT'] . $path;
 
     $html = "<div>";

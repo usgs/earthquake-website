@@ -39,9 +39,9 @@
   <li><a href="https://www.shakeout.org/california/">The Great California ShakeOut</a></li>
   <li><a href="http://www.sfbayquakes.org/">Portfolio of Images of Landscape, Seascape and Faults of the San Francisco Bay area</a> - USGS and PG&E</li>
   <li><a href="http://gmw.consrv.ca.gov/shmp/">California Seismic Hazard Zonation Program</a></li>
-  <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=70">San Andreas Fault</a></li>
-  <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=83">Parkfield</a></li>
-  <li><a href="/learn/topics/search.php?sendTopicID=&sendContentID=&sendLevelID=&sendRegionID=30">California Earthquake Topics</a></li>
+  <li><a href="https://earthquake.usgs.gov/education/topics.php?topicID=70">San Andreas Fault</a></li>
+  <li><a href="https://earthquake.usgs.gov/education/topics.php?topicID=83">Parkfield</a></li>
+  <li><a href="/education/search.php?sendTopicID=&sendContentID=&sendLevelID=&sendRegionID=30">California Earthquake Topics</a></li>
   <li><a href="http://ceo.scec.org/wallacecreek/index.html">Wallace Creek Trail Guide</a></li>
   <li><a href="http://www.wgcep.org/">Working Group on California Earthquake Probabilities</li>
 </ul>

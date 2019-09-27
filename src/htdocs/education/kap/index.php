@@ -24,7 +24,7 @@ if (!isset($TEMPLATE)) {
   photography techniques.</p>
 
 <figure>
-  <a href="/learn/topics/kap/sf-in-ruins/" title="View a high-resolution, zoomable photo">
+  <a href="/education/kap/sf-in-ruins/" title="View a high-resolution, zoomable photo">
     <img src="img/GLawrence-bw-crop.jpg" alt="Aerial photo of San Francisco by George Lawrence" />
   </a>
   <figcaption>&#8220;San Francisco in Ruins,&#8221; by George Lawrence,
