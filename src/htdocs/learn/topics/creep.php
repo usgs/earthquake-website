@@ -9,7 +9,7 @@ if	(!isset($TEMPLATE))	{
 ?>
 
 <figure class="right">
-	<img src="/learn/topics/haywardfault/images/creep_img.gif" alt="offset curb photo" width="214" height="230" />
+	<img src="/education/haywardfault/images/creep_img.gif" alt="offset curb photo" width="214" height="230" />
 </figure>
 <p>
 	Creep is steady fault movement, varying from continuous to episodic with creep events lasting minutes to days. Generally creep occurs without any associated earthquake activity (i.e., aseismic.) Creep has been monitored on the Hayward fault for fifty years (Lienkaemper et al., 2012) and is also observed along some sections of other faults in the San Francisco Bay region, including the San Andreas, Calaveras, Concord-Green Valley and Maacama (<a href="images/Creep_BSSA03.pdf">Galehouse and Lienkaemper, 2003</a>).

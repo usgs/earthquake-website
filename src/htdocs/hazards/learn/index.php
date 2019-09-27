@@ -57,7 +57,7 @@
   <section class="column two-of-five">
     <h3>What does this map show? </h3>
     <p>
-      This map shows how often scientists expect damaging earthquake shaking around the U.S. On this map, a &ldquo;damaging earthquake shaking&CloseCurlyDoubleQuote; is that of Modified Mercalli Intensity (MMI) level VI or higher. See <a href="/learn/topics/mercalli.php">Modified Mercalli Intensity</a> for more information about different MMI levels of earthquake ground shaking and what kind of damage can happen at each level.) <a href="images/2014hazmap-induced-lg.gif">Click/tap map to view larger version.</a>
+      This map shows how often scientists expect damaging earthquake shaking around the U.S. On this map, a &ldquo;damaging earthquake shaking&CloseCurlyDoubleQuote; is that of Modified Mercalli Intensity (MMI) level VI or higher. See <a href="/education/mercalli.php">Modified Mercalli Intensity</a> for more information about different MMI levels of earthquake ground shaking and what kind of damage can happen at each level.) <a href="images/2014hazmap-induced-lg.gif">Click/tap map to view larger version.</a>
     </p>
   </section>
 </div>

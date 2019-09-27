@@ -18,7 +18,7 @@
 <h2>Topics of Interest</h2>
 <ul>
   <li><a href="https://pubs.usgs.gov/imap/i-2812/">Earthquakes in the Central United States: 1699-2002</a></li>
-  <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=71">New Madrid Seismic Zone</a></li>
+  <li><a href="https://earthquake.usgs.gov/education/topics.php?topicID=71">New Madrid Seismic Zone</a></li>
   <li><a href="https://pubs.usgs.gov/gip/119/">Putting Down Roots in Earthquake Country—Your Handbook for Earthquakes in the Central United States</a></li>
 </ul>
 

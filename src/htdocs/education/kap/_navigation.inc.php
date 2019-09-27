@@ -1,5 +1,5 @@
 <?php
-  $section = "/learn/topics/kap";
+  $section = "/education/kap";
 
   $matchesIndex = false;
   $url = $_SERVER['REQUEST_URI'];
@@ -7,7 +7,7 @@
     $matchesIndex = true;
   }
 
-  echo "<a href='/learn/topics' class='up-one-level'>Earthquake Topics</a>",
+  echo "<a href='/education' class='up-one-level'>Earthquake Topics</a>",
 
   "<section>",
 

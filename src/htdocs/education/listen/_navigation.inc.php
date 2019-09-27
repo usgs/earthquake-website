@@ -1,5 +1,5 @@
 <?php
-$section = "/learn/topics/listen";
+$section = "/education/listen";
 
 print navItem("$section/index.php", "Introduction");
 print navGroup("Interactive Listening Quiz",

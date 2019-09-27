@@ -1,5 +1,5 @@
 <?php
-  $section = "/learn/topics/shakingsimulations";
+  $section = "/education/shakingsimulations";
 
   $url = $_SERVER['REQUEST_URI'];
 

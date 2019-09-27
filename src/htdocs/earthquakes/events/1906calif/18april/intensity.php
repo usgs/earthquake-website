@@ -11,7 +11,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 
-<p> Intensity today is measured on the <a href="https://earthquake.usgs.gov/learn/topics/mercalli.php">
+<p> Intensity today is measured on the <a href="https://earthquake.usgs.gov/education/mercalli.php">
                     Modified Mercalli Intensity scale</a>.<em> (Thanks to ABAG
                     - Association of Bay Area Governments - for this table.)</em></p>
 <p> Many intensity values of 8 (Moderate Damage) and 9 (Heavy

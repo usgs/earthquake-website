@@ -64,7 +64,7 @@
         </p>
       </li>
       <li>
-        <a href="/learn/topics/geologicmaps/">
+        <a href="/education/geologicmaps/">
           <h4>San Francisco Bay Area Geologic Maps</h4>
           <img src="images/bayarea.jpg" alt="Bay Area"/>
         </a>
@@ -113,9 +113,9 @@
         </p>
       </li>
       <li>
-        <a href="/learn/topics/haywardfault/">
+        <a href="/education/haywardfault/">
           <h4>Digital Map of the Hayward Fault</h4>
-          <img src="/learn/topics/haywardfault/images/stadium_sm.jpg" alt="Hayward Fault Stadium"/>
+          <img src="/education/haywardfault/images/stadium_sm.jpg" alt="Hayward Fault Stadium"/>
         </a>
         <p>
           Map showing active fault traces within the Hayward Fault Zone,

@@ -33,7 +33,7 @@
 
           $pic = '';
           if (isset($row['pic'])) {
-            $pic = '<img class="topic-image" src="/learn/topics/images-topics/' . $row['pic'] . '" alt=""/>';
+            $pic = '<img class="topic-image" src="/education/images-topics/' . $row['pic'] . '" alt=""/>';
           }
           $TITLE = $pic . $TITLE . $topic;
           echo "$pic";
@@ -56,7 +56,7 @@
 
 //ONE TOPIC
 if ($topicID != 0) {
-  $backLink = '<p><a href="/learn/topics/topics.php">&laquo; Back to Topics</a></p>';
+  $backLink = '<p><a href="/education/topics.php">&laquo; Back to Topics</a></p>';
 
   //print $backLink;
   include_once '/etc/puppet/EHPServer.class.php';

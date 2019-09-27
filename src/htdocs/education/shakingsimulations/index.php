@@ -6,7 +6,7 @@ if (!isset($TEMPLATE)){
   $NAVIGATION=true;
   include 'template.inc.php';
 
-  $section = "/learn/topics/shakingsimulations";
+  $section = "/education/shakingsimulations";
 }
 ?>
 

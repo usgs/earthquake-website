@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2019-09-16 21:28:24 +0000
+# Generation Time: 2019-09-27 15:18:55 +0000
 # ************************************************************
 
 
@@ -1393,7 +1393,8 @@ VALUES
 	(273,9),
 	(507,9),
 	(508,9),
-	(509,9);
+	(509,9),
+	(510,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2002,7 +2003,10 @@ VALUES
 	(508,10),
 	(509,11),
 	(509,13),
-	(509,10);
+	(509,10),
+	(510,10),
+	(510,13),
+	(510,11);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2163,7 +2167,8 @@ VALUES
 	(504,32),
 	(505,25),
 	(506,45),
-	(508,26);
+	(508,26),
+	(510,28);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3024,7 +3029,13 @@ VALUES
 	(100,24),
 	(100,30),
 	(100,63),
-	(446,25);
+	(446,25),
+	(510,85),
+	(510,30),
+	(510,43),
+	(510,67),
+	(510,50),
+	(510,46);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3076,7 +3087,6 @@ VALUES
 	(64,'Shakes &amp; Quakes','Earthquake Engineering Research Institute (EERI)','http%3A%2F%2Fwww.nd.edu%2F%7Eeeriund%2Fshakes.htm','Legos and earthquakes'),
 	(467,'Catalog of Earthquake-Related Sounds','Seismological Society of America (SSA)','http%3A%2F%2Fwww.seismosoc.org%2Fpublications%2FEarthquake_Sounds%2F','This collection of 21 earthquake-related sounds, prepared by Karl V. Steinbrugge, was originally published in BSSA vol. 64, no. 5 in 1974 and updated with eight additional sounds in 1985. You can listen to individual sounds below by clicking the play button in the audio player next to the recording number, or you can download a Zip file containing MP3 audio files of all the sounds. Most of recorded on the inside of different buildings but some are from outside. (Compiled by Karl V. Steinbrugge)'),
 	(69,'Table-Top Earthquakes','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F1998%2Fofr-98-0767%2F','USGS Open-File Report 98-767 (online)'),
-	(71,'Teacher\'s Guide to the San Francisco Bay Area Geophysics Maps','USGS','http%3A%2F%2Fgeomaps.wr.usgs.gov%2Fgump%2Fpeople%2Fzulanger%2Fbayarea%2Ftitle.html','USGS Open File Report 95-479 (online)'),
 	(79,'Understanding Tsunamis','DiscoverySchool.com','http%3A%2F%2Fschool.discoveryeducation.com%2Fteachers%2Ftsunami%2F','learn about tsunamis with a model'),
 	(461,'Plate Tectonics','The Geological Society - UK','http%3A%2F%2Fwww.geolsoc.org.uk%2FPlate-Tectonics','Interactive tutorial with easy-to-understand images and some multi-media.'),
 	(462,'Nepal Earthquake Sequence Educational Slides','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/Nepal_Slides.pdf','(17MB PDF)'),
@@ -3095,7 +3105,7 @@ VALUES
 	(103,'Earthquakes','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2Fearthq1%2F','general overview of earthquakes, online USGS general interest publication'),
 	(104,'Geological Online Exhibits','UC Museum of Paleontology, Berkeley','http%3A%2F%2Fwww.ucmp.berkeley.edu%2Fexhibit%2Fgeology.html','geologic time scale, plate tectonics animation, and more!'),
 	(106,'Faultline:Seismic Science at the Epicenter','Exploratorium','http%3A%2F%2Fwww.exploratorium.edu%2Ffaultline%2F','lots of resources, information, activities and graphics concerning earthquakes in California'),
-	(107,'Listening to Earthquakes','USGS','/learn/topics/listen/','music and earthquakes have something in common!'),
+	(107,'Listening to Earthquakes','USGS','/education/listen/','music and earthquakes have something in common!'),
 	(108,'Seismic Waves','UPSeis, Univ. of Michigan','http%3A%2F%2Fwww.geo.mtu.edu%2FUPSeis%2Fwaves.html','graphics to explain different types of seismic waves'),
 	(109,'San Andreas Fault, The','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fgip%2Fearthq3%2F','overview of the San Andreas Fault, online USGS general interest publication'),
 	(110,'Virtual Earthquake &amp; Other Labs','Calstate LA','http%3A%2F%2Fwww.sciencecourseware.org%2F','you\'re the scientist, and you have to locate the earthquake and determine the magnitude'),
@@ -3127,6 +3137,7 @@ VALUES
 	(159,'Science of Earthquakes, The','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes','brief and basic earthquake science concepts'),
 	(161,'Seismographs: Keeping Track of Earthquakes','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/seismographs-keeping-track-earthquakes','brief description on how seismographs work to locate earthquakes'),
 	(162,'Determining the Depth of an Earthquake','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/determining-depth-earthquake','brief discussion on depths of earthquakes'),
+	(510,'M7.8 Nepal Earthquake, 2015 – A Small Push to Mt. Everest','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/m78-nepal-earthquake-2015-a-small-push-mt-everest','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
 	(242,'Papers from an NAS Colloquium on Earthquake Prediction','National Academy of Sciences','http%3A%2F%2Fwww.pnas.org%2Fcontent%2F93%2F9.toc','Excellent collection of downloadable papers '),
 	(167,'Southern California Earthquakes, Faults, Photos & Rupture Movies','Southern California Earthquake Center (SCEC) & USGS','http%3A%2F%2Fscedc.caltech.edu%2Fsignificant%2F','all things \"earthquake\" in southern California'),
 	(349,'Evidence for Plate Tectonics-Teaching Box','DLESE','http%3A%2F%2Fwww.teachingboxes.org%2Fjsp%2Fteachingboxes%2FplateTectonics%2Findex.jsp','Collection of interrelated learn concepts that focuses on finding the evidence for plate tectonics using digital resources, education standards, and comprehensive lesson plans.'),
@@ -3142,7 +3153,6 @@ VALUES
 	(182,'Magnitude versus Intensity Lesson (PDF)','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/Mag_vs_Int_Pkg.pdf','classroom lesson to teach the difference between earthquake magnitude and earthquake intensities (8.3MB PDF)'),
 	(185,'Large Plate Puzzle (PDF)','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/LargePlatePuzzle.pdf','cut a large world map into puzzle pieces along plate boundaries, students discuss individually land then for the whole map after the class puts pieces together; simple but powerful, discussion Q/A included'),
 	(187,'Who Dunit? and the Law of Superposition (PDF)','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/WhoDunit.pdf','solve a crime, and then use those same skills to understand the Law of Superposition (older layers of the earth on bottom) with a fun WhoDunit? investigation and then use your skills to solve a geological mystery'),
-	(476,'Sands of Time, The','USGS','/learn/publications/SandsTime.pdf','Simple demonstration to show how sediments are deposited, and the Law of Superposition'),
 	(203,'Seismology, Earthquakes, and Earth Structure, An Introduction to','Blackwell Publishing','http://levee.wustl.edu/seismology/book/','online companion to the textbook by Seth Stein and Michael Wysession with electronic versions of all images and access to homework problems and solutions; also includes errata'),
 	(204,'Geophysics Course Resources on the Internet','Univ. of Houston','http%3A%2F%2Fwww.uh.edu%2F%7Ejbutler%2Fanon%2Fanoncoursegeoph.html','list of online course resources for undergraduate and graduate levels'),
 	(205,'Earthquakes: Seismic Destruction','National Geographic','http%3A%2F%2Fenvironment.nationalgeographic.com%2Fenvironment%2Fnatural-disasters%2Fearthquake-profile%2F','links to photos of earthquake effects and tsunami effects'),
@@ -3171,7 +3181,7 @@ VALUES
 	(447,'Travel Time Curves','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-travel-times','travel time graph for seismic waves'),
 	(469,'SF72','San Francisco Department of Emergency Management','http%3A%2F%2Fwww.sf72.org%2Fhome','Preparedness information targeted at the San Francisco area.'),
 	(296,'Schoolyard Geology','USGS','https://www.usgs.gov/science-support/osqi/yes/resources-teachers/school-yard-geology','Online lesson plans with photos and images. Excellent geologic activities you can do anywhere! Education standards info included.'),
-	(297,'Try It Yourself Calculator','USGS','%2Flearn%2Ftopics%2Fhow_much_bigger.php','How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake?'),
+	(297,'Try It Yourself Calculator','USGS','/education/how_much_bigger.php','How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake?'),
 	(444,'Tsunami! - Tsunamis Past and Present','Univ. of Washington','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2F','Basics about tsunamis, information about preparedness, and links to additional resources.'),
 	(304,'100% Chance of an Earthquake','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/100-chance-earthquake','Earthquake statistics.'),
 	(305,'Earthquake \"Top 10\" Lists','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/lists-maps-and-statistics','Deadly earthquakes, damaging EQs, EQ density maps, world and US statistics, historical EQ lists, largest EQ lists, last EQ in..., significant EQ catalogs, seismicity maps of the world and US.'),
@@ -3240,7 +3250,7 @@ VALUES
 	(456,'Digital Library for Earth Science Education','DLESE','http%3A%2F%2Fwww.dlese.org%2Flibrary%2F','Searchable database of educational earth science resources for all grade levels.'),
 	(457,'EarthScope Resources for Students & Teachers','EarthScope','http%3A%2F%2Fwww.earthscope.org%2Fresources%2Fstudents','Animations, online lectures, visualizations and more, mostly from IRIS.'),
 	(458,'IRIS Education Resources','IRIS - Incorporated Research Institutes for Seismology','http%3A%2F%2Fwww.iris.edu%2Fhq%2F','A multitude of educational resources for earthquake science, from visualizations and animations, to lessons and educational software. Awesome!'),
-	(478,'Earthquake Science Timeline','USGS','/learn/topics/eqsci-history/eqscience-timeline.php','A timeline showing the evolution of earthquake science and seismometers through the ages to present.'),
+	(478,'Earthquake Science Timeline','USGS','/education/eqsci-history/eqscience-timeline.php','A timeline showing the evolution of earthquake science and seismometers through the ages to present.'),
 	(479,'How Seismic Waves Affect Different Size Buildings','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/how-seismic-waves-affect-different-size-buildings','Houses and short buildings shake differently than tall buildings.'),
 	(480,'How You Can Strengthen Your Home','Centers for Disease Control','http://mitigation.eeri.org/files/BAS-How-You-Can-Strengthen-Your-Home.pdf','Actions you can take to prepare your home for the shaking from an earthquake.'),
 	(481,'Disaster Preparedness for Your Pet','Centers for Disease Control','https://www.cdc.gov/features/petsanddisasters/','Be prepared: make a plan and prepare a disaster kit for your pet.'),
@@ -3250,7 +3260,7 @@ VALUES
 	(4,'Education Resources','UNAVCO','http://www.unavco.org/education/resources/resources.html','Education resources using geodetic data, GPS and visualization tools.'),
 	(5,'New Madrid Compendium','CERI - Center for Earthquake Research and Information','http://www.memphis.edu/ceri/compendium/','600 references related to the New Mardrid earthquakes of 1811-1812.'),
 	(6,'Earthquake Myths Debunked','Caltech','https://www.facebook.com/californiainstituteoftechnology/videos/10154025296072965/','Do you know what\'s fact and fiction when it comes to earthquakes? Is there really such a thing as \"earthquake weather\"? Do you know what to do to stay safe when the ground starts shaking? Caltech scientists debunk some of the most common myths surrounding seismic events on this video.'),
-	(10,'Ground Shaking Simulations','USGS','/learn/topics/shakingsimulations/','Simulations (videos) from computer models of earthquakes showing the resulting ground shaking. '),
+	(10,'Ground Shaking Simulations','USGS','/education/shakingsimulations/','Simulations (videos) from computer models of earthquakes showing the resulting ground shaking. '),
 	(7,'Earthquake Engineering Online Archive','NISEE, Univ. of Berkeley','https://nisee.berkeley.edu/elibrary/','The Earthquake Engineering Online Archive is a database of significant, publicly-funded research and development literature, photographs, data, and software in earthquake, structural, and geotechnical engineering. It includes full text for EERC, SEMM, and PEER reports published at UC Berkeley, the NISEE software library, and images from EQIIS.'),
 	(482,'How Big and How Frequent Are Earthquakes on the Wasatch Fault?','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/how-big-and-how-frequent-are-earthquakes-wasatch-fault','Paleoseismology along the Wasatch Fault in Utah is helping to estimate the shaking risk to nearby towns.'),
 	(483,'Seismology in the City','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/seismology-city','How seismologists can use noise to see under the ground.'),
@@ -5292,7 +5302,7 @@ VALUES
 	(205,4,13,'Earthquake Hazard in the Heart of the Homeland','https://pubs.er.usgs.gov/publication/fs20063125','(FS-2006-3125)'),
 	(204,4,13,'East Meets West: An Earthquake in India Helps Hazard Assessment in the Central US','https://pubs.er.usgs.gov/publication/fs00702','(FS-007-02)'),
 	(203,4,13,'Earthquakes In and Near the Northeastern United States, 1638-1998','https://pubs.er.usgs.gov/publication/fs00601','(FS-006-01)'),
-	(193,1,5,'Digital Geologic Maps of San Francisco Bay Area','/learn/topics/geologicmaps/',''),
+	(193,1,5,'Digital Geologic Maps of San Francisco Bay Area','/education/geologicmaps/',''),
 	(217,4,11,'Seismic monitoring of the Atwood Building in Anchorage, Alaska','https://pubs.er.usgs.gov/publication/fs20043103','(FS-2004-3103)'),
 	(61,4,14,'Other USGS Hazards Fact Sheets','http%3A%2F%2Fpubs.usgs.gov%2Ffs%2Fhazards.html',''),
 	(63,1,2,'Global Seismic Hazard Maps','http://gmo.gfz-potsdam.de/',''),
@@ -5305,7 +5315,7 @@ VALUES
 	(84,1,3,'Earthquakes in Alaska','http%3A%2F%2Fgeopubs.wr.usgs.gov%2Fopen-file%2Fof95-624%2F','(OFR95-624) downloadable and printable maps in various sizes'),
 	(88,1,5,'United States Quaternary Faults','%2Fhazards%2Fqfaults%2F','(interactive)'),
 	(89,1,4,'Earthquake Ground-Motion Amplification in Southern California','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2001%2Fof01-164%2F',''),
-	(90,1,3,'Posters of Significant Earthquakes: 2002-Present','/learn/posters.php','24x36\" downloadable and printable posters with maps, cross-sections, tectonic summaries and more'),
+	(90,1,3,'Posters of Significant Earthquakes: 2002-Present','/education/posters.php','24x36\" downloadable and printable posters with maps, cross-sections, tectonic summaries and more'),
 	(91,1,4,'Did You Feel It? Maps','%2Fearthquakes%2Fdyfi%2F',''),
 	(92,1,2,'Seismic-Hazard Maps for Alaska and the Aleutian Islands','http%3A%2F%2Fpubs.usgs.gov%2Fimap%2Fi-2679%2F',''),
 	(93,1,4,'Site-Response Maps for the Los Angeles Region Based on Earthquake Ground Motions','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F1996%2Fofr-96-0723%2F',''),

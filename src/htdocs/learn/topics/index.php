@@ -20,11 +20,11 @@ echo '
     <h2>Popular</h2>
     <ul>
       <li>
-        <a href="/learn/kids/eqscience.php">
+        <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes">
         The Science of Earthquakes</a> - the basics in brief.
       </li>
       <li>
-        <a href="/learn/animations/">
+        <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-animations">
         Animations for Earthquake Terms &amp; Concepts</a>
       </li>
       <li>
@@ -36,7 +36,7 @@ echo '
         This Dynamic Planet</a> - World Map of Volcanoes, Earthquakes, Impact Craters, and Plate Tectonics.
       </li>
       <li>
-        <a href="/learn/topics/EQ101.pdf">
+        <a href="https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/EQ101.pdf">
         EQ101 Presentation</a> - the basics with lots of images.
       </li>
       <li>
@@ -89,7 +89,7 @@ echo '
 
     <h2>Search</h2>';
     echo '
-    <form action="/learn/topics/search.php" method="get">
+    <form action="/education/search.php" method="get">
       <fieldset style="border:0">
         <ol class="no-style">
           <li>';
@@ -189,7 +189,7 @@ echo '
     	   $id = $row['id'];
          $topic = $row['topic'];
 
-    		 $content .= '<li><a href="/learn/topics/topics.php?topicID=' . $id . '">' . $topic . '</a></li>';
+    		 $content .= '<li><a href="/education/topics.php?topicID=' . $id . '">' . $topic . '</a></li>';
 
     	}
 

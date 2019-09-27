@@ -14,7 +14,7 @@ if (!isset($TEMPLATE)) {
 
 <ul class="no-style linklist">
   <li>
-    <a href="/learn/topics/shakingsimulations/1906/">
+    <a href="/education/shakingsimulations/1906/">
       <h3>1906 Ground Motion Simulations</h3>
       <img src="img/simulations.jpg" alt="Earthquake simulation">
     </a>
@@ -28,7 +28,7 @@ if (!isset($TEMPLATE)) {
     <p>Interactive tour of San Francisco Bay Area faults and earthquake history featuring ground-shaking maps, historic photographs, quotes from earthquake survivors, and more.</p>
   </li>
   <li>
-    <a href="/learn/topics/kap/">
+    <a href="/education/kap/">
       <h3>Repeat photography: George Lawrence&rsquo;s &ldquo;San Francisco in Ruins&rdquo;</h3>
       <img src="img/kap.jpg" alt="San Francisco in Ruins by George Lawrence">
     </a>

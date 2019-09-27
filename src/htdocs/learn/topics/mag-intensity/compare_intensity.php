@@ -49,8 +49,8 @@
 
 <h2>For More Information</h2>
   <ul>
-    <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=77">Intensity links</a></li>
-    <li><a href="https://earthquake.usgs.gov/learn/topics/topics.php?topicID=24">Magnitude links</a></li>
+    <li><a href="https://earthquake.usgs.gov/education/topics.php?topicID=77">Intensity links</a></li>
+    <li><a href="https://earthquake.usgs.gov/education/topics.php?topicID=24">Magnitude links</a></li>
     <li><a href="http://pubs.usgs.gov/of/2005/1135/">Modified Mercalli Intensity Maps for the 1906 San Francisco Earthquake Plotted in ShakeMap Format</a> (USGS Open-File Report 2005-1135)</li>
     <li><a href="https://earthquake.usgs.gov/earthquakes/events/1989lomaprieta/">Loma Prieta Event page</a></li>
     <li><a href="https://earthquake.usgs.gov/earthquakes/events/1906calif/">1906 San Francisco Event Page</a></li>

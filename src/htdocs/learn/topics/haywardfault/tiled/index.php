@@ -12,7 +12,7 @@ if (!isset($TEMPLATE)) {
 <h2>Tiled Map</h2>
 				<div class="align-center" style="width: 603px">
 				<h3>Click along the fault for a larger view</h3>
-				<img src="/learn/topics/haywardfault/images/index_all.gif" alt="" width="593" height="756" usemap="#index_all_Map"/></a>
+				<img src="/education/haywardfault/images/index_all.gif" alt="" width="593" height="756" usemap="#index_all_Map"/></a>
               <map name="index_all_Map">
                 <area shape="poly" alt="" coords="471,595,321,385,274,420,453,676,504,642" href="index_S.php" />
                 <area shape="poly" alt="" coords="321,383,204,220,155,253,274,418" href="index_C.php" />

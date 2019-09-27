@@ -90,7 +90,7 @@
             roman numeral, for the purposes of this API, intensity is expected
             as the <strong>decimal</strong> equivalent of the roman numeral.
             Learn more about <a
-            href="https://earthquake.usgs.gov/learn/topics/mag_vs_int.php"
+            href="https://earthquake.usgs.gov/education/mag_vs_int.php"
             >magnitude vs. intensity</a>.
           </dd>
         </dl>
@@ -490,7 +490,7 @@
           </dd>
           <dt>Additional Information</dt>
           <dd>
-            See <a href="/learn/topics/mag-intensity/magnitude-types.php">Magnitude Types Table</a>.
+            See <a href="/education/mag-intensity/magnitude-types.php">Magnitude Types Table</a>.
           </dd>
         </dl>
       </dd>
@@ -509,7 +509,7 @@
             While typically reported as a roman numeral, for the purposes of
             this API, intensity is expected as the <strong>decimal</strong>
             equivalent of the roman numeral. Learn more about <a
-            href="https://earthquake.usgs.gov/learn/topics/mag_vs_int.php"
+            href="https://earthquake.usgs.gov/education/mag_vs_int.php"
             >magnitude vs. intensity</a>.
           </dd>
         </dl>
