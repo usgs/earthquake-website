@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2019-09-27 15:18:55 +0000
+# Generation Time: 2019-09-30 17:07:08 +0000
 # ************************************************************
 
 
@@ -1394,7 +1394,9 @@ VALUES
 	(507,9),
 	(508,9),
 	(509,9),
-	(510,9);
+	(510,9),
+	(511,9),
+	(512,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2006,7 +2008,11 @@ VALUES
 	(509,10),
 	(510,10),
 	(510,13),
-	(510,11);
+	(510,11),
+	(511,10),
+	(511,13),
+	(512,13),
+	(512,9);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3035,7 +3041,12 @@ VALUES
 	(510,43),
 	(510,67),
 	(510,50),
-	(510,46);
+	(510,46),
+	(511,53),
+	(511,36),
+	(511,65),
+	(512,65),
+	(512,63);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3087,6 +3098,7 @@ VALUES
 	(64,'Shakes &amp; Quakes','Earthquake Engineering Research Institute (EERI)','http%3A%2F%2Fwww.nd.edu%2F%7Eeeriund%2Fshakes.htm','Legos and earthquakes'),
 	(467,'Catalog of Earthquake-Related Sounds','Seismological Society of America (SSA)','http%3A%2F%2Fwww.seismosoc.org%2Fpublications%2FEarthquake_Sounds%2F','This collection of 21 earthquake-related sounds, prepared by Karl V. Steinbrugge, was originally published in BSSA vol. 64, no. 5 in 1974 and updated with eight additional sounds in 1985. You can listen to individual sounds below by clicking the play button in the audio player next to the recording number, or you can download a Zip file containing MP3 audio files of all the sounds. Most of recorded on the inside of different buildings but some are from outside. (Compiled by Karl V. Steinbrugge)'),
 	(69,'Table-Top Earthquakes','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F1998%2Fofr-98-0767%2F','USGS Open-File Report 98-767 (online)'),
+	(512,'Sonic Booms','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/sonic-booms','How Can You Tell the Difference Between a Sonic Boom and an Earthquake on a Seismogram? Some Interesting Facts About Sonic Booms.'),
 	(79,'Understanding Tsunamis','DiscoverySchool.com','http%3A%2F%2Fschool.discoveryeducation.com%2Fteachers%2Ftsunami%2F','learn about tsunamis with a model'),
 	(461,'Plate Tectonics','The Geological Society - UK','http%3A%2F%2Fwww.geolsoc.org.uk%2FPlate-Tectonics','Interactive tutorial with easy-to-understand images and some multi-media.'),
 	(462,'Nepal Earthquake Sequence Educational Slides','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/Nepal_Slides.pdf','(17MB PDF)'),
@@ -3137,7 +3149,7 @@ VALUES
 	(159,'Science of Earthquakes, The','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes','brief and basic earthquake science concepts'),
 	(161,'Seismographs: Keeping Track of Earthquakes','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/seismographs-keeping-track-earthquakes','brief description on how seismographs work to locate earthquakes'),
 	(162,'Determining the Depth of an Earthquake','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/determining-depth-earthquake','brief discussion on depths of earthquakes'),
-	(510,'M7.8 Nepal Earthquake, 2015 – A Small Push to Mt. Everest','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/m78-nepal-earthquake-2015-a-small-push-mt-everest','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
+	(510,'M7.8 Nepal Earthquake, 2015  A Small Push to Mt. Everest','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/m78-nepal-earthquake-2015-a-small-push-mt-everest','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
 	(242,'Papers from an NAS Colloquium on Earthquake Prediction','National Academy of Sciences','http%3A%2F%2Fwww.pnas.org%2Fcontent%2F93%2F9.toc','Excellent collection of downloadable papers '),
 	(167,'Southern California Earthquakes, Faults, Photos & Rupture Movies','Southern California Earthquake Center (SCEC) & USGS','http%3A%2F%2Fscedc.caltech.edu%2Fsignificant%2F','all things \"earthquake\" in southern California'),
 	(349,'Evidence for Plate Tectonics-Teaching Box','DLESE','http%3A%2F%2Fwww.teachingboxes.org%2Fjsp%2Fteachingboxes%2FplateTectonics%2Findex.jsp','Collection of interrelated learn concepts that focuses on finding the evidence for plate tectonics using digital resources, education standards, and comprehensive lesson plans.'),
@@ -3153,6 +3165,7 @@ VALUES
 	(182,'Magnitude versus Intensity Lesson (PDF)','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/Mag_vs_Int_Pkg.pdf','classroom lesson to teach the difference between earthquake magnitude and earthquake intensities (8.3MB PDF)'),
 	(185,'Large Plate Puzzle (PDF)','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/LargePlatePuzzle.pdf','cut a large world map into puzzle pieces along plate boundaries, students discuss individually land then for the whole map after the class puts pieces together; simple but powerful, discussion Q/A included'),
 	(187,'Who Dunit? and the Law of Superposition (PDF)','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/WhoDunit.pdf','solve a crime, and then use those same skills to understand the Law of Superposition (older layers of the earth on bottom) with a fun WhoDunit? investigation and then use your skills to solve a geological mystery'),
+	(511,'Animals & Earthquake Prediction','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/animals-earthquake-prediction','Can animals predict earthquakes? Can they sense shaking that humans can\'t. What are the facts about animals and earthquakes?'),
 	(203,'Seismology, Earthquakes, and Earth Structure, An Introduction to','Blackwell Publishing','http://levee.wustl.edu/seismology/book/','online companion to the textbook by Seth Stein and Michael Wysession with electronic versions of all images and access to homework problems and solutions; also includes errata'),
 	(204,'Geophysics Course Resources on the Internet','Univ. of Houston','http%3A%2F%2Fwww.uh.edu%2F%7Ejbutler%2Fanon%2Fanoncoursegeoph.html','list of online course resources for undergraduate and graduate levels'),
 	(205,'Earthquakes: Seismic Destruction','National Geographic','http%3A%2F%2Fenvironment.nationalgeographic.com%2Fenvironment%2Fnatural-disasters%2Fearthquake-profile%2F','links to photos of earthquake effects and tsunami effects'),
@@ -3181,7 +3194,7 @@ VALUES
 	(447,'Travel Time Curves','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-travel-times','travel time graph for seismic waves'),
 	(469,'SF72','San Francisco Department of Emergency Management','http%3A%2F%2Fwww.sf72.org%2Fhome','Preparedness information targeted at the San Francisco area.'),
 	(296,'Schoolyard Geology','USGS','https://www.usgs.gov/science-support/osqi/yes/resources-teachers/school-yard-geology','Online lesson plans with photos and images. Excellent geologic activities you can do anywhere! Education standards info included.'),
-	(297,'Try It Yourself Calculator','USGS','/education/how_much_bigger.php','How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake?'),
+	(297,'Try It Yourself Calculator','USGS','/learn/topics/how_much_bigger.php','How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake?'),
 	(444,'Tsunami! - Tsunamis Past and Present','Univ. of Washington','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2F','Basics about tsunamis, information about preparedness, and links to additional resources.'),
 	(304,'100% Chance of an Earthquake','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/100-chance-earthquake','Earthquake statistics.'),
 	(305,'Earthquake \"Top 10\" Lists','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/lists-maps-and-statistics','Deadly earthquakes, damaging EQs, EQ density maps, world and US statistics, historical EQ lists, largest EQ lists, last EQ in..., significant EQ catalogs, seismicity maps of the world and US.'),
@@ -5302,7 +5315,7 @@ VALUES
 	(205,4,13,'Earthquake Hazard in the Heart of the Homeland','https://pubs.er.usgs.gov/publication/fs20063125','(FS-2006-3125)'),
 	(204,4,13,'East Meets West: An Earthquake in India Helps Hazard Assessment in the Central US','https://pubs.er.usgs.gov/publication/fs00702','(FS-007-02)'),
 	(203,4,13,'Earthquakes In and Near the Northeastern United States, 1638-1998','https://pubs.er.usgs.gov/publication/fs00601','(FS-006-01)'),
-	(193,1,5,'Digital Geologic Maps of San Francisco Bay Area','/education/geologicmaps/',''),
+	(193,1,5,'Digital Geologic Maps of San Francisco Bay Area','/learn/topics/geologicmaps/',''),
 	(217,4,11,'Seismic monitoring of the Atwood Building in Anchorage, Alaska','https://pubs.er.usgs.gov/publication/fs20043103','(FS-2004-3103)'),
 	(61,4,14,'Other USGS Hazards Fact Sheets','http%3A%2F%2Fpubs.usgs.gov%2Ffs%2Fhazards.html',''),
 	(63,1,2,'Global Seismic Hazard Maps','http://gmo.gfz-potsdam.de/',''),
@@ -5315,7 +5328,7 @@ VALUES
 	(84,1,3,'Earthquakes in Alaska','http%3A%2F%2Fgeopubs.wr.usgs.gov%2Fopen-file%2Fof95-624%2F','(OFR95-624) downloadable and printable maps in various sizes'),
 	(88,1,5,'United States Quaternary Faults','%2Fhazards%2Fqfaults%2F','(interactive)'),
 	(89,1,4,'Earthquake Ground-Motion Amplification in Southern California','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F2001%2Fof01-164%2F',''),
-	(90,1,3,'Posters of Significant Earthquakes: 2002-Present','/education/posters.php','24x36\" downloadable and printable posters with maps, cross-sections, tectonic summaries and more'),
+	(90,1,3,'Posters of Significant Earthquakes: 2002-Present','/learn/posters.php','24x36\" downloadable and printable posters with maps, cross-sections, tectonic summaries and more'),
 	(91,1,4,'Did You Feel It? Maps','%2Fearthquakes%2Fdyfi%2F',''),
 	(92,1,2,'Seismic-Hazard Maps for Alaska and the Aleutian Islands','http%3A%2F%2Fpubs.usgs.gov%2Fimap%2Fi-2679%2F',''),
 	(93,1,4,'Site-Response Maps for the Los Angeles Region Based on Earthquake Ground Motions','http%3A%2F%2Fpubs.usgs.gov%2Fof%2F1996%2Fofr-96-0723%2F',''),
