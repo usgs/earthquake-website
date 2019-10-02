@@ -10,7 +10,7 @@ include '../_contributor.inc.php';
 	<li><a href="http://www.iris.edu/hq/">IRIS</a></li>
   <li><a href="https://earthquake.usgs.gov/" target="_blank">United States Geological Survey</a></li>
   <li><a href="http://www.geos.vt.edu/" target="_blank">Virginia Tech Geosciences</a></li>
-
+  <li><a href="http://www.ou.edu/ogs">Oklahoma Geological Survey</a></li>
 </ul>
 
 <h2 id="mission">Mission</h2>
