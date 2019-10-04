@@ -15,7 +15,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <div class="alert info">
-  <h3><a href="moving.php">The Earthquake Hazards Program website is moving.</a>
+  <h3><a href="moving.php">The Earthquake Hazards Program website is moving.</a></h3>
 </div>
 
 <div class="row right-to-left">
