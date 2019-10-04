@@ -37,20 +37,20 @@ include_once('../buildMovieHtml.inc.php');
   <div class="map">
     <img src="./images/map_ShakeOut.jpg" alt="region map" usemap="#MapSites" style="max-width:none;" width="600" height="325"/>
     <map name="MapSites" id="MapSites">
-      <area shape="rect" coords="226,177,273,192" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_BuenaPark.mp4" alt="Buena Park" title="Click for normal resolution Buena Park movie" />
-      <area shape="rect" coords="175,112,223,127" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_Burbank.mp4" alt="Burbank" title="Click for normal resolution Burbank movie" />
-      <area shape="rect" coords="287,79,347,94" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_CajonPass.mp4" alt="Cajon Pass" title="Click for normal resolution Cajon Pass movie" />
-      <area shape="rect" coords="277,170,319,185" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_Corona.mp4" alt="Corona" title="Click for normal resolution Corona movie" />
-      <area shape="rect" coords="178,209,277,224" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_HuntingtonBeach.mp4" alt="Huntington Beach" title="Click for normal resolution Huntington Beach movie" />
-      <area shape="rect" coords="182,16,237,31" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_Lancaster.mp4" alt="Lancaster" title="Click for normal resolution Lancaster movie" />
-      <area shape="rect" coords="167,189,231,204" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_LongBeach.mp4" alt="Long Beach" title="Click for normal resolution Long Beach movie" />
-      <area shape="rect" coords="161,135,223,150" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_LosAngeles.mp4" alt="Los Angeles" title="Click for normal resolution Los Angeles movie" />
-      <area shape="rect" coords="119,151,200,166" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_MarinadelRey.mp4" alt="Marina del Rey" title="Click for normal resolution Marina del Rey movie" />
-      <area shape="rect" coords="263,133,306,148" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_Ontario.mp4" alt="Ontario" title="Click for normal resolution Ontario movie" />
-      <area shape="rect" coords="425,180,492,195" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_PalmSprings.mp4" alt="Palm Springs" title="Click for normal resolution Palm Springs movie" />
-      <area shape="rect" coords="3,93,47,108" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_Ventura.mp4" alt="Ventura" title="Click for normal resolution Ventura movie" />
-      <area shape="rect" coords="179,168,213,183" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_Watts.mp4" alt="Watts" title="Click for normal resolution Watts movie" />
-      <area shape="rect" coords="95,115,175,130" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/shakeout/ShakeOut_WoodlandHills.mp4" alt="Woodland Hills" title="Click for normal resolution Woodland Hills movie" />
+      <area shape="rect" coords="226,177,273,192" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_BuenaPark.mp4" alt="Buena Park" title="Click for normal resolution Buena Park movie" />
+      <area shape="rect" coords="175,112,223,127" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_Burbank.mp4" alt="Burbank" title="Click for normal resolution Burbank movie" />
+      <area shape="rect" coords="287,79,347,94" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_CajonPass.mp4" alt="Cajon Pass" title="Click for normal resolution Cajon Pass movie" />
+      <area shape="rect" coords="277,170,319,185" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_Corona.mp4" alt="Corona" title="Click for normal resolution Corona movie" />
+      <area shape="rect" coords="178,209,277,224" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_HuntingtonBeach.mp4" alt="Huntington Beach" title="Click for normal resolution Huntington Beach movie" />
+      <area shape="rect" coords="182,16,237,31" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_Lancaster.mp4" alt="Lancaster" title="Click for normal resolution Lancaster movie" />
+      <area shape="rect" coords="167,189,231,204" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_LongBeach.mp4" alt="Long Beach" title="Click for normal resolution Long Beach movie" />
+      <area shape="rect" coords="161,135,223,150" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_LosAngeles.mp4" alt="Los Angeles" title="Click for normal resolution Los Angeles movie" />
+      <area shape="rect" coords="119,151,200,166" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_MarinadelRey.mp4" alt="Marina del Rey" title="Click for normal resolution Marina del Rey movie" />
+      <area shape="rect" coords="263,133,306,148" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_Ontario.mp4" alt="Ontario" title="Click for normal resolution Ontario movie" />
+      <area shape="rect" coords="425,180,492,195" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_PalmSprings.mp4" alt="Palm Springs" title="Click for normal resolution Palm Springs movie" />
+      <area shape="rect" coords="3,93,47,108" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_Ventura.mp4" alt="Ventura" title="Click for normal resolution Ventura movie" />
+      <area shape="rect" coords="179,168,213,183" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_Watts.mp4" alt="Watts" title="Click for normal resolution Watts movie" />
+      <area shape="rect" coords="95,115,175,130" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/shakeout/ShakeOut_WoodlandHills.mp4" alt="Woodland Hills" title="Click for normal resolution Woodland Hills movie" />
     </map>
   <!--</figure>-->
   <?php include "perspective_description.html" ?>
