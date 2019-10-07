@@ -30,11 +30,11 @@ include_once('../buildMovieHtml.inc.php');
   <div class="map">
     <img src="images/map_HaywardM72_SanPabloBayEp.jpg" alt="region map" usemap="#MapSanPabloBayEp" style="max-width: none" width="372" height="400"/>
     <map name="MapSanPabloBayEp" id="MapSanPabloBayEp">
-      <area shape="rect" coords="195,235,245,249" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/hayward/HaywardM72_SanPabloBayEp_Fremont.mp4" alt="Fremont" title="Click for normal resolution Fremont movie" />
-      <area shape="rect" coords="156,88,189,105" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/hayward/HaywardM72_SanPabloBayEp_Napa.mp4" alt="Napa" title="Click for normal resolution Napa movie" />
-      <area shape="rect" coords="148,186,203,201" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/hayward/HaywardM72_SanPabloBayEp_Oakland.mp4" alt="Oakland" title="Click for normal resolution Oakland movie" />
-      <area shape="rect" coords="208,275,260,293" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/hayward/HaywardM72_SanPabloBayEp_SanJose.mp4" alt="San Jose" title="Click for normal resolution San Jose movie" />
-      <area shape="rect" coords="76,62,139,76" href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/hayward/HaywardM72_SanPabloBayEp_SantaRosa.mp4" alt="Santa Rosa" title="Click for normal resolution Santa Rosa movie" />
+      <area shape="rect" coords="195,235,245,249" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/hayward/HaywardM72_SanPabloBayEp_Fremont.mp4" alt="Fremont" title="Click for normal resolution Fremont movie" />
+      <area shape="rect" coords="156,88,189,105" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/hayward/HaywardM72_SanPabloBayEp_Napa.mp4" alt="Napa" title="Click for normal resolution Napa movie" />
+      <area shape="rect" coords="148,186,203,201" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/hayward/HaywardM72_SanPabloBayEp_Oakland.mp4" alt="Oakland" title="Click for normal resolution Oakland movie" />
+      <area shape="rect" coords="208,275,260,293" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/hayward/HaywardM72_SanPabloBayEp_SanJose.mp4" alt="San Jose" title="Click for normal resolution San Jose movie" />
+      <area shape="rect" coords="76,62,139,76" href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/hayward/HaywardM72_SanPabloBayEp_SantaRosa.mp4" alt="Santa Rosa" title="Click for normal resolution Santa Rosa movie" />
     </map>
     <?php include "perspective_description.html" ?>
     <p>At locations very close to the faults such as Fremont, Oakland, and Santa Rosa, the ground moves up to 2-3 ft. In San Jose the peak displacement is about 1 ft.</p>

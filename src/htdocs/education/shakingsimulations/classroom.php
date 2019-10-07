@@ -106,8 +106,8 @@ to help teach about seismic waves and earthquake hazards.
 </li>
 <li>
     Show the movie of shaking intensity [<a
-    href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/1906/sf1906plan_hires.mp4">normal resolution</a> , <a
-    href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/1906/sf1906plan_hd.mp4">HD resolution</a>
+    href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hires.mp4">normal resolution</a> , <a
+    href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906plan_hd.mp4">HD resolution</a>
     ].  <ol>
 <li>
       Before hitting play, point out the land, water, San
@@ -434,7 +434,7 @@ to help teach about seismic waves and earthquake hazards.
   <figcaption>
     Download movie to see San Andreas fault unzip through Tomales Bay:
     <br />
-    <a href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/1906/sf1906tomalesbay_hires.mp4">normal resolution</a>
+    <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906tomalesbay_hires.mp4">normal resolution</a>
 
   </figcaption>
 </figure>
@@ -460,9 +460,9 @@ to help teach about seismic waves and earthquake hazards.
   <figcaption>
     Download movies to see a basin ringing:
     <br />
-    <a href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/1906/sf1906santarosa_hires.mp4">normal resolution</a>
+    <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906santarosa_hires.mp4">normal resolution</a>
     <br />
-    <a href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/1906/sf1906santarosa_hd.mp4">HD resolution</a>
+    <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906santarosa_hd.mp4">HD resolution</a>
 
   </figcaption>
 </figure>
@@ -503,7 +503,7 @@ to help teach about seismic waves and earthquake hazards.
   <figcaption>
     Download movies to see surface wave motion in Livermore Valley:
     <br />
-    <a href="https://escweb.wr.usgs.gov/content/education/shakingsimulations/1906/sf1906livermore_hires.mp4">normal resolution</a>
+    <a href="https://escweb.wr.usgs.gov/content/learn/topics/shakingsimulations/1906/sf1906livermore_hires.mp4">normal resolution</a>
 
   </figcaption>
 </figure>
