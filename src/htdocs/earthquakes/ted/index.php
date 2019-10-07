@@ -25,7 +25,7 @@ if (!isset($TEMPLATE)) {
       day, however, aftershocks following major earthquakes can greatly increase
       this number. Users interested in custom alerts based on specific
       geographic regions and magnitude thresholds should sign up for e-mail
-      alerts distributed by our <a href="https://sslearthquake.usgs.gov/ens/">
+      alerts distributed by our <a href="/ens/">
       Earthquake Notification Service (ENS)</a>.
     </p>
   </div>
