@@ -29,5 +29,5 @@ include '../_contributor.inc.php';
 
 <h2 id="mission">Mission</h2>
 <p>
-  ShakeAlert&circledR; is an earthquake early warning (EEW) system that detects significant earthquakes so quickly that alerts can reach many people before shaking arrives. The U.S. Geological Survey (USGS) along with a coalition of State and university partners is developing and testing the ShakeAlert&circledR; System for the West Coast of the United States.
+  ShakeAlert&circledR; is an earthquake early warning (EEW) system that detects significant earthquakes so quickly that alerts can reach many people before shaking arrives. The U.S. Geological Survey (USGS) along with a coalition of State and university partners is developing and testing the ShakeAlert System for the West Coast of the United States.
 </p>
