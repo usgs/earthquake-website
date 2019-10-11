@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2019-10-11',
+  'title' => 'Earthquake Early Warning – Fine-Tuning for Best Alerts',
+  'content' => 'The goal of an earthquake early warning (EEW) system is to provide an alert to people and automatic systems after an earthquake begins but before the shaking reaches their location. As the USGS and its partners are developing an EEW system, called ShakeAlert®, for the West Coast, the benefits, costs, capabilities, and limitations are being investigated. Two recent studies explored the timeliness and accuracy of alerts.”.',
+  'link' => 'https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-early-warning-fine-tuning-best-alerts',
+  'modified' => strtotime('2019-10-11'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/eew-8sec.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/eew-8sec.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2019-09-23',
   'title' => 'Could the M7.1 Ridgecrest, CA Earthquake Sequence Trigger a Large Earthquake Nearby?',
   'content' => 'Two of the first questions that come to mind for anyone who just felt an earthquake are, “Will there be another one?” and “Will it be larger?”.',
