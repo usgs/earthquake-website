@@ -13,9 +13,22 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2019-10-15',
+  'title' => 'Remembering Loma Prieta',
+  'content' => 'Leading up to the quake’s 30th anniversary, we will be sharing stories from Loma Prieta, answering questions through our Public Lecture series, sharing products developed since the quake, and more. Check back here for more information.
+  <ul>
+  <li><a href="https://www.usgs.gov/media/videos/october-17-1989-part-1" target="_blank">Video: Where were you the night the Loma Prieta earthquake hit?</a></li>
+  </ul>',
+  'link' => 'https://www.usgs.gov/natural-hazards/earthquake-hazards/science/m-69-october-17-1989-loma-prieta-earthquake',
+  'modified' => strtotime('2019-10-11'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/LomaPrieta.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/LomaPrieta.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2019-10-11',
   'title' => 'Earthquake Early Warning – Fine-Tuning for Best Alerts',
-  'content' => 'The goal of an earthquake early warning (EEW) system is to provide an alert to people and automatic systems after an earthquake begins but before the shaking reaches their location. As the USGS and its partners are developing an EEW system, called ShakeAlert®, for the West Coast, the benefits, costs, capabilities, and limitations are being investigated. Two recent studies explored the timeliness and accuracy of alerts.”.',
+  'content' => 'The goal of an earthquake early warning (EEW) system is to provide an alert to people and automatic systems after an earthquake begins but before the shaking reaches their location. As the USGS and its partners are developing an EEW system, called ShakeAlert®, for the West Coast, the benefits, costs, capabilities, and limitations are being investigated. Two recent studies explored the timeliness and accuracy of alerts.',
   'link' => 'https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-early-warning-fine-tuning-best-alerts',
   'modified' => strtotime('2019-10-11'),
   'thumbnail' => 'https://earthquake.usgs.gov/images-featured/eew-8sec.png',
