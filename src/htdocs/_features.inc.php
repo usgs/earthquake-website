@@ -19,6 +19,7 @@ $EQ_FEATURES->items[] = array(
   <ul>
   <li><a href="https://www.usgs.gov/media/videos/october-17-1989-part-1" target="_blank">Video: Where were you the night the Loma Prieta earthquake hit?</a></li>
   <li><a href="https://www.usgs.gov/media/videos/october-17-1989-part-2" target="_blank">Video: What were you thinking when the Loma Prieta earthquake struck?</a></li>
+  <li><a href="https://www.usgs.gov/media/videos/october-17-1989-part-3" target="_blank">Video: What lessons have we learned since the Loma Prieta earthquake struck?</a></li>
   <li><a href="https://www.usgs.gov/media/videos/october-17-1989-part-4" target="_blank">Video: Are we safer today then we were 30 years ago?</a></li>
   
   </ul>',
