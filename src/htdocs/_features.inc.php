@@ -18,6 +18,9 @@ $EQ_FEATURES->items[] = array(
   'content' => 'Leading up to the quake’s 30th anniversary, we will be sharing stories from Loma Prieta, answering questions through our Public Lecture series, sharing products developed since the quake, and more. Check back here for more information.
   <ul>
   <li><a href="https://www.usgs.gov/media/videos/october-17-1989-part-1" target="_blank">Video: Where were you the night the Loma Prieta earthquake hit?</a></li>
+  <li><a href="https://www.usgs.gov/media/videos/october-17-1989-part-2" target="_blank">Video: What were you thinking when the Loma Prieta earthquake struck?</a></li>
+  <li><a href="https://www.usgs.gov/media/videos/october-17-1989-part-4" target="_blank">Video: Are we safer today then we were 30 years ago?</a></li>
+  
   </ul>',
   'link' => 'https://www.usgs.gov/natural-hazards/earthquake-hazards/science/m-69-october-17-1989-loma-prieta-earthquake',
   'modified' => strtotime('2019-10-11'),
