@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2019-10-17',
+  'title' => 'What if the ShakeAlert&circledR; Earthquake Early Warning System Had Been Operating During the M6.9 1989 Loma Prieta Earthquake?',
+  'content' => 'How will ShakeAlert likely perform now on a large earthquake impacting a major urban area? How much warning will you get? To answer this, let’s do a thought experiment... Also view the USGS News Release <a href="https://www.usgs.gov/news/all-systems-go-first-statewide-testing-shakealert-united-states">All Systems Go for First Statewide Testing of ShakeAlert in the United States</a>.',
+  'link' => 'https://www.usgs.gov/natural-hazards/earthquake-hazards/science/what-if-shakealert-earthquake-early-warning-system-had',
+  'modified' => strtotime('2019-10-17'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/EEWtimeline.gif',
+  'image' => 'https://earthquake.usgs.gov/images-featured/EEWtimeline.gif'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2019-10-15',
   'title' => 'Remembering Loma Prieta',
   'content' => 'Leading up to the quake’s 30th anniversary, we will be sharing stories from Loma Prieta, answering questions through our Public Lecture series, sharing products developed since the quake, and more. Check back here for more information.
