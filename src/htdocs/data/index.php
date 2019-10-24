@@ -20,7 +20,7 @@
 <!-- Data -->
   <section class="column three-of-five">
     <figure class="right">
-      <img src="images/webservices-150.gif" width="150" alt=""/>
+      <img src="images/webservices-150.gif" width="150" alt="web services"/>
     </figure>
 
     <h2>Data</h2>
@@ -38,7 +38,7 @@
 
 <!-- Products -->
     <figure class="right">
-    <img src="/scenarios/images/scenario.jpg" width="150" alt=""/>
+    <img src="/scenarios/images/scenario.jpg" width="150" alt="scenario"/>
   </figure>
 
     <h2>Products</h2>
@@ -56,7 +56,7 @@
   <section class="column two-of-five">
     <div class="alert" style="margin-bottom:16px">
 
-      <p><img src="images/sf1906-2x.jpg" width="384"/></p>
+      <p><img src="images/sf1906-2x.jpg" width="384"/ alt="1906 San Francisco EQ"></p>
       <h3>See Also</h3>
 
     <ul>

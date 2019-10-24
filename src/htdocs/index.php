@@ -39,7 +39,7 @@ if (!isset($TEMPLATE)) {
     </p>
 
     <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">
-      <img class="faq" src="learn/images/main-faq.gif" width="150"/>
+      <img class="faq" src="learn/images/main-faq.gif" width="150" alt="FAQ"/>
     </a>
     <p><strong><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">FAQ - Frequently Asked Questions</a></strong><br/>
        Seriously, check here first.</p>
@@ -67,7 +67,7 @@ if (!isset($TEMPLATE)) {
     </p>
 
     <p class='alert'>
-      <img class="nehrp" src="images-home/nehrp.png">
+      <img class="nehrp" src="images-home/nehrp.png" alt="NEHRP">
       The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977, and the USGS <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/anss-advanced-national-seismic-system">Advanced National Seismic System (ANSS)</a> was established by Congress as a NEHRP facility.  The USGS and its partners monitor and report earthquakes, assess earthquake impacts and hazards, and perform research into the causes and effects of earthquakes.
     </p>
 
