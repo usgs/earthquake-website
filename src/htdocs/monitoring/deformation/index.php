@@ -23,7 +23,7 @@
     <p>Velocities, time series, and maps for stations observed with GPS in the western U.S.</p>
   </li>
   <li>
-    <a href="https://escweb.wr.usgs.gov/share/highrate-gps/">
+    <a href="https://escweb.wr.usgs.gov/highrate-gps/">
       <h4>Real-time GPS Data</h4>
     </a>
     <p>
