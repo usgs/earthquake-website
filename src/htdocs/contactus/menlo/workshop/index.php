@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = '2019 Northern California Hazards Workshop';
+  $TITLE = '2020 Northern California Earthquake Hazards Workshop';
   $HEAD = '<link rel="stylesheet" href="css/styles.css" />';
   $FOOT = '<script src="js/script.js"></script>';
 
@@ -62,6 +62,13 @@ if (!isset($TEMPLATE)) {
     'id' => 'talkYes',
     'value' => 'yes'
   ]);
+  $daysTues = new Input([
+    'name' => 'days',
+    'type' => 'checkbox',
+    'required' => true,
+    'id' => 'daysTues',
+    'value' => 'tuesday'
+  ]);
   $daysWeds = new Input([
     'name' => 'days',
     'type' => 'checkbox',
@@ -69,31 +76,10 @@ if (!isset($TEMPLATE)) {
     'id' => 'daysWeds',
     'value' => 'wednesday'
   ]);
-  $daysThurs = new Input([
-    'name' => 'days',
-    'type' => 'checkbox',
-    'required' => true,
-    'id' => 'daysThurs',
-    'value' => 'thursday'
-  ]);
-  $jackNo = new Input([
-    'name' => 'jack',
-    'type' => 'radio',
-    'required' => true,
-    'id' => 'jackNo',
-    'value' => 'no'
-  ]);
-  $jackYes = new Input([
-    'name' => 'jack',
-    'type' => 'radio',
-    'required' => true,
-    'id' => 'jackYes',
-    'value' => 'yes'
-  ]);
   $workshop = new Input([
     'name' => 'workshop',
     'type' => 'hidden',
-    'value' => 'hazards-2019'
+    'value' => 'hazards-2020'
   ]);
 
   //
@@ -122,27 +108,11 @@ if (!isset($TEMPLATE)) {
   ]);
   $form->addGroup([
     'controls' => [
-      $talkYes,
-      $talkNo
-    ],
-    'description' => 'Talk is three minutes, one slide, standard 4:3 aspect ratio, no animations.',
-    'label' => 'Do you want to give a lightning talk?'
-  ]);
-  $form->addGroup([
-    'controls' => [
-      $daysWeds,
-      $daysThurs
+      $daysTues,
+      $daysWeds
     ],
     'arrangement' => 'stacked',
     'label' => 'Which days are you attending?'
-  ]);
-  $form->addGroup([
-    'controls' => [
-      $jackYes,
-      $jackNo
-    ],
-    'description' => 'Do you plan to join us Wednesday evening for an informal gathering following the commemoration for Jack Boatwright?',
-    'label' => 'Wednesday Evening Gathering'
   ]);
   $form->addControl($workshop);
 
@@ -151,13 +121,13 @@ if (!isset($TEMPLATE)) {
 
 ?>
 
-<h2>May 1&ndash;2, 2019</h2>
-
+<h2>January 28&ndash;29, 2020</h2>
+<!--
 <p>
 Wednesday: 9AM &ndash; 4:30PM<br>
 Thursday: 9AM &ndash; 3:45PM
 </p>
-
+-->
 <p>
   <a href="/contactus/menlo/menloloc.php">USGS Menlo Park Campus</a><br />
   Rambo Auditorium (Building 3 Conference Room)
@@ -169,6 +139,12 @@ Thursday: 9AM &ndash; 3:45PM
   a single-slide lightning talk on their work related to the seismic hazards
   and risk in Northern California.</p>
 
+<p>The <strong>registration deadline</strong> is January 14, 2020.</p>
+
+<p>If you would like to give a lightning talk (three minutes, one slide,
+  standard 4:3 aspect ratio, no animations), please contact
+  <a href="mailto:sminson@usgs.gov">Sarah Minson</a> no later than January 14.</p>
+
 <div class="row">
 
   <div class="three-of-five column">
@@ -179,9 +155,9 @@ Thursday: 9AM &ndash; 3:45PM
   <div class="two-of-five column">
 
     <h3>Agenda</h3>
-    <a href="2019-Hazards-Workshop-Agenda.pdf">
-      Preliminary Agenda
-    </a> (.pdf)
+    <!--<a href="2019-Hazards-Workshop-Agenda.pdf">-->
+      Coming Soon!
+    <!--</a> (.pdf)-->
 
     <h3>USGS Menlo Park Campus Map</h3>
     <figure>
