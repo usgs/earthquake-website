@@ -490,7 +490,7 @@
           </dd>
           <dt>Additional Information</dt>
           <dd>
-            See <a href="/learn/topics/mag-intensity/magnitude-types.php">Magnitude Types Table</a>.
+            See <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/magnitude-types">Magnitude Types Table</a>.
           </dd>
         </dl>
       </dd>
