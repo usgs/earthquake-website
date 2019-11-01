@@ -39,7 +39,7 @@ if (!isset($TEMPLATE)) {
     </p>
 
     <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">
-      <img class="faq" src="learn/images/main-faq.gif" width="150" alt="FAQ"/>
+      <img class="faq" src="images/main-faq.gif" width="150" alt="FAQ"/>
     </a>
     <p><strong><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">FAQ - Frequently Asked Questions</a></strong><br/>
        Seriously, check here first.</p>
