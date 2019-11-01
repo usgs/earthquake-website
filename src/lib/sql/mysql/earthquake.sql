@@ -5315,7 +5315,7 @@ VALUES
 	(205,4,13,'Earthquake Hazard in the Heart of the Homeland','https://pubs.er.usgs.gov/publication/fs20063125','(FS-2006-3125)'),
 	(204,4,13,'East Meets West: An Earthquake in India Helps Hazard Assessment in the Central US','https://pubs.er.usgs.gov/publication/fs00702','(FS-007-02)'),
 	(203,4,13,'Earthquakes In and Near the Northeastern United States, 1638-1998','https://pubs.er.usgs.gov/publication/fs00601','(FS-006-01)'),
-	(193,1,5,'Digital Geologic Maps of San Francisco Bay Area','/learn/topics/geologicmaps/',''),
+	(193,1,5,'Digital Geologic Maps of San Francisco Bay Area','/education/geologicmaps/',''),
 	(217,4,11,'Seismic monitoring of the Atwood Building in Anchorage, Alaska','https://pubs.er.usgs.gov/publication/fs20043103','(FS-2004-3103)'),
 	(61,4,14,'Other USGS Hazards Fact Sheets','http%3A%2F%2Fpubs.usgs.gov%2Ffs%2Fhazards.html',''),
 	(63,1,2,'Global Seismic Hazard Maps','http://gmo.gfz-potsdam.de/',''),
