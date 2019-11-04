@@ -20,11 +20,11 @@ echo '
     <h2>Popular</h2>
     <ul>
       <li>
-        <a href="/learn/kids/eqscience.php">
+        <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes">
         The Science of Earthquakes</a> - the basics in brief.
       </li>
       <li>
-        <a href="/learn/animations/">
+        <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-animations?qt-science_center_objects=7#qt-science_center_objects">
         Animations for Earthquake Terms &amp; Concepts</a>
       </li>
       <li>
@@ -36,7 +36,7 @@ echo '
         This Dynamic Planet</a> - World Map of Volcanoes, Earthquakes, Impact Craters, and Plate Tectonics.
       </li>
       <li>
-        <a href="/education/EQ101.pdf">
+        <a href="https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/EQ101.pdf">
         EQ101 Presentation</a> - the basics with lots of images.
       </li>
       <li>
