@@ -22,7 +22,7 @@
   </figure>
 
   <div class="text green">
-    <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-animations"><h2>Earthquake Animations</h2></a>
+    <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-animations?qt-science_center_objects=7#qt-science_center_objects"><h2>Earthquake Animations</h2></a>
   </div>
 
   <div class="text"></div>
