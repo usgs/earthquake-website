@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2019-09-30 17:07:08 +0000
+# Generation Time: 2019-11-04 17:25:14 +0000
 # ************************************************************
 
 
@@ -3145,11 +3145,11 @@ VALUES
 	(148,'Faults','Univ. of Leeds','http%3A%2F%2Fwww.see.leeds.ac.uk%2Fstructure%2Ffaults%2F','Photos and graphics of fault types'),
 	(151,'Science Fair Project Ideas','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-fair-project-ideas','specific projects with directions and ideas'),
 	(157,'Plate Tectonics Activities','Quia','http%3A%2F%2Fwww.quia.com%2Fjg%2F262313.html','Games, quiz'),
-	(158,'Today in Earthquake History','USGS','%2Flearn%2Ftoday%2F','what happened today in earthquake history'),
+	(158,'Today in Earthquake History','USGS','/learn/today/','what happened today in earthquake history'),
 	(159,'Science of Earthquakes, The','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes','brief and basic earthquake science concepts'),
 	(161,'Seismographs: Keeping Track of Earthquakes','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/seismographs-keeping-track-earthquakes','brief description on how seismographs work to locate earthquakes'),
 	(162,'Determining the Depth of an Earthquake','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/determining-depth-earthquake','brief discussion on depths of earthquakes'),
-	(510,'M7.8 Nepal Earthquake, 2015  A Small Push to Mt. Everest','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/m78-nepal-earthquake-2015-a-small-push-mt-everest','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
+	(510,'M7.8 Nepal Earthquake, 2015 – A Small Push to Mt. Everest','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/m78-nepal-earthquake-2015-a-small-push-mt-everest','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
 	(242,'Papers from an NAS Colloquium on Earthquake Prediction','National Academy of Sciences','http%3A%2F%2Fwww.pnas.org%2Fcontent%2F93%2F9.toc','Excellent collection of downloadable papers '),
 	(167,'Southern California Earthquakes, Faults, Photos & Rupture Movies','Southern California Earthquake Center (SCEC) & USGS','http%3A%2F%2Fscedc.caltech.edu%2Fsignificant%2F','all things \"earthquake\" in southern California'),
 	(349,'Evidence for Plate Tectonics-Teaching Box','DLESE','http%3A%2F%2Fwww.teachingboxes.org%2Fjsp%2Fteachingboxes%2FplateTectonics%2Findex.jsp','Collection of interrelated learn concepts that focuses on finding the evidence for plate tectonics using digital resources, education standards, and comprehensive lesson plans.'),
@@ -3194,7 +3194,7 @@ VALUES
 	(447,'Travel Time Curves','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-travel-times','travel time graph for seismic waves'),
 	(469,'SF72','San Francisco Department of Emergency Management','http%3A%2F%2Fwww.sf72.org%2Fhome','Preparedness information targeted at the San Francisco area.'),
 	(296,'Schoolyard Geology','USGS','https://www.usgs.gov/science-support/osqi/yes/resources-teachers/school-yard-geology','Online lesson plans with photos and images. Excellent geologic activities you can do anywhere! Education standards info included.'),
-	(297,'Try It Yourself Calculator','USGS','/learn/topics/how_much_bigger.php','How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake?'),
+	(297,'Try It Yourself Calculator','USGS','/education/how_much_bigger.php','How much bigger is a magnitude 8.7 earthquake than a magnitude 5.8 earthquake?'),
 	(444,'Tsunami! - Tsunamis Past and Present','Univ. of Washington','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2F','Basics about tsunamis, information about preparedness, and links to additional resources.'),
 	(304,'100% Chance of an Earthquake','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/100-chance-earthquake','Earthquake statistics.'),
 	(305,'Earthquake \"Top 10\" Lists','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/lists-maps-and-statistics','Deadly earthquakes, damaging EQs, EQ density maps, world and US statistics, historical EQ lists, largest EQ lists, last EQ in..., significant EQ catalogs, seismicity maps of the world and US.'),
@@ -3203,7 +3203,6 @@ VALUES
 	(313,'Uncovering the San Andreas Fault (PDF)','National Park Service','http%3A%2F%2Fwww.nps.gov%2Fpore%2Fforteachers%2Fupload%2Fcurriculum_geology.pdf','Earthquake Trail: What Makes the Geology of Point Reyes National Seashore So Special?'),
 	(320,'Tracing earthquakes: seismology in the classroom','Science in School','http%3A%2F%2Fwww.scienceinschool.org%2F2006%2Fissue1%2Fearthquakes%2F','Reconstructing an ancient Chinese seismograph, a simple wave machine, and investigating earthquake-proof buildings.'),
 	(318,'Living in Earthquake Country: A Teaching Box','DLESE','http%3A%2F%2Fwww.teachingboxes.org%2Fearthquakes%2F','7 lessons with the goal of teaching students about how and why earthquakes cause damage. Explores seismic waves, the ability of scientists to predict the likelihood and severity of earthquakes at specific locations, the difference between magnitude and intensity, the occurrence of earthquakes along patches of planar faults, and the potential damage caused by earthquakes such as landslides, liquefaction, or structural failure.'),
-	(319,'Rock\'n on Shakey Ground (4MB PDF)','USGS &amp; Green Frog News','/learn/publications/RockShakeyGround.pdf','The basics of earthquake science written especially for the elementary school level.'),
 	(327,'California Subduction Rocks','About Geology','http%3A%2F%2Fgeology.about.com%2Fod%2Fgeophoto_tours%2Fig%2FCAtransecttrip%2Findex.htm%3Fnl%3D1','A photographic field trip to classic subduction-related rocks across northern California.'),
 	(324,'Hazards 101, Earthquake','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-hazards-101-basics','The basics of how the USGS National Earthquake Hazard Maps are made.'),
 	(329,'The Wave that Shook the World','PBS-NOVA','http%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fnova%2Ftsunami%2F','Online companion to the NOVA broadcast with excellent animations, Q&anmp;A, images, and lesson plans for teachers.'),
@@ -5315,7 +5314,7 @@ VALUES
 	(205,4,13,'Earthquake Hazard in the Heart of the Homeland','https://pubs.er.usgs.gov/publication/fs20063125','(FS-2006-3125)'),
 	(204,4,13,'East Meets West: An Earthquake in India Helps Hazard Assessment in the Central US','https://pubs.er.usgs.gov/publication/fs00702','(FS-007-02)'),
 	(203,4,13,'Earthquakes In and Near the Northeastern United States, 1638-1998','https://pubs.er.usgs.gov/publication/fs00601','(FS-006-01)'),
-	(193,1,5,'Digital Geologic Maps of San Francisco Bay Area','/education/geologicmaps/',''),
+	(193,1,5,'Digital Geologic Maps of San Francisco Bay Area','/learn/topics/geologicmaps/',''),
 	(217,4,11,'Seismic monitoring of the Atwood Building in Anchorage, Alaska','https://pubs.er.usgs.gov/publication/fs20043103','(FS-2004-3103)'),
 	(61,4,14,'Other USGS Hazards Fact Sheets','http%3A%2F%2Fpubs.usgs.gov%2Ffs%2Fhazards.html',''),
 	(63,1,2,'Global Seismic Hazard Maps','http://gmo.gfz-potsdam.de/',''),
