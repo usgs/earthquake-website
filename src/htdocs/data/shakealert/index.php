@@ -1,6 +1,6 @@
 <?php
 // Author: Lisa Wald
-// Contact: Glenn Biasi, gbiasi@usgs.gov
+// Contact: Bob De Groot
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'ShakeAlert';
@@ -125,6 +125,35 @@ if (!isset($TEMPLATE)) {
         </a>
         <p>Search for alerts issued by ShakeAlert.  The search is configured to return only earthquakes for which an alert was issued.</p>
       </li>
+
+      <li>
+        <a href="https://www.usgs.gov/shakealert/">
+          <h4>ShakeAlert Project</h4>
+          <img src="/data/images/eew-project.gif" alt="timeline" width="75"/></a>
+        <p>
+          Current status, news, publications, and everything else ShakeAlert.
+        </p>
+      </li>
+
+      <li>
+        <a href="https://www.shakealert.org/">
+          <h4>ShakeAlert.org</h4>
+          <img src="/data/images/shakealert-org.jpg" alt="flowchart and map" width="75"/></a>
+        <p>
+          Collaborative website for ShakeAlert partners.
+        </p>
+      </li>
+
+      <li>
+        <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/early-warning">
+          <h4>Earthquake Early Warning Research</h4>
+          <img src="/data/images/eew-research.gif" alt="maps with dots" width="75"/></a>
+        <p>
+          The basic research overview for earthquake early warning.
+        </p>
+      </li>
+
+
     </ul>
   </div>
 </div>
@@ -147,14 +176,6 @@ if (!isset($TEMPLATE)) {
       </li>
 
       <li>
-        <a href="faq.php">
-          <h4>FAQ</h4>
-          <img src="/data/dyfi/images/Q&A.gif" alt="" width="75"/>
-        </a>
-        <p>Questions and answers about ShakeAlert.</p>
-      </li>
-
-      <li>
         <a href="background.php">
           <h4>Scientific Background</h4>
           <img src="images/???" alt="" width="75"/>
@@ -163,4 +184,4 @@ if (!isset($TEMPLATE)) {
           How was the ShakeAlert system created?
         </p>
       </li>
- -->   
+ -->
