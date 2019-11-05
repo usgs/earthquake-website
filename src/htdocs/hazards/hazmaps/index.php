@@ -142,7 +142,7 @@
     <h2>See also:</h2>
     <ul>
       <li>
-        <a href="http://www.conservation.ca.gov/cgs/earthquakes/Pages/Index.aspx">California Hazard Maps</a> - California Geological Survey
+        <a href="https://www.conservation.ca.gov/cgs/earthquakes">California Hazard Maps</a> - California Geological Survey
       </li>
       <li>
         <a href="http://www.earthquakescanada.nrcan.gc.ca/hazard-alea/index-en.php">Canadian Hazard Maps</a> - Natural Resources Canada
