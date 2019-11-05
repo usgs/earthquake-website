@@ -1,20 +1,19 @@
 <?php
-  $section = "/learn/kids";
+  $section = "/learn/kids/index.php";
 
-  echo "<a href='/learn/kids' class='up-one-level'>For Kids</a>",
+  echo "<a href='/learn/kids/index.php' class='up-one-level'>For Kids</a>",
 
   "<section>",
 
-    navItem("${section}/eqscience.php", "Science of Earthquakes") .
-    navItem("/learn/animations/", "Earthquake Animations") .
-    navItem("${section}/sciencefair.php", "Science Fair Projects") .
-    navItem("${section}/become.php", "Become an Earthquake Scientist") .
-    navItem("/learn/facts.php", "Cool Earthquake Facts") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes", "Science of Earthquakes") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-animations?qt-science_center_objects=7#qt-science_center_objects", "Earthquake Animations") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-fair-project-ideas", "Science Fair Projects") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/science/become-an-earthquake-scientist", "Become an Earthquake Scientist") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/science/cool-earthquake-facts", "Cool Earthquake Facts") .
     navItem("/learn/today/", "Google Earth/KML Files") .
     navItem("${section}/kidsLearningLinks.php", "Learning Links") .
-    navItem("/learn/photos.php", "Earthquake Photos") .
-    navItem("${section}/abc/", "Earthquake ABC") .
-    navItem("/earthquakes/map/", "Latest Earthquakes") ,
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-photo-collections", "Earthquake Photos") .
+    navItem("https://earthquake.usgs.gov/earthquakes/map/", "Latest Earthquakes") ,
 
   "</section>"
   ;

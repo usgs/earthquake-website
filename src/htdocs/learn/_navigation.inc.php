@@ -5,13 +5,13 @@
 
   "<section>",
 
-    navItem("${section}/faq.php", "FAQ") .
-    navItem("${section}/kids/", "For Kids") .
-    navItem("${section}/topics/", "Earthquake Topics") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category", "FAQ") .
+    navItem("${section}/kids/index.php", "For Kids") .
+    navItem("${section}/education/", "Earthquake Topics") .
     navItem("${section}/glossary/", "Earthquake Glossary") .
-    navItem("${section}/preparedness.php", "Prepare") .
-    navItem("${section}/kml.php", "Google Earth/KML Files") .
-    navItem("${section}/posters.php", "Earthquake Summary Posters") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/science/prepare", "Prepare") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/google-earthkml-files", "Google Earth/KML Files") .
+    navItem("/data/posters.php", "Earthquake Summary Posters") .
     navItem("${section}/today/", "Today in Earthquake History") ,
 
   "</section>"

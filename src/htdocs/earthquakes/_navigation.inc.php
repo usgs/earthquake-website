@@ -6,13 +6,13 @@
   "<section>",
 
     navItem("${section}/map/", "Latest Earthquakes") .
-    navItem("${section}/browse/", "Earthquake Lists, Maps &amp; Statistics") .
-    navItem("${section}/events/", "Special Earthquakes, Earthquake Sequences, and Fault Zones") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/lists-maps-and-statistics", "Earthquake Lists, Maps &amp; Statistics") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/special-earthquakes-earthquake-sequences-and-fault-zones", "Special Earthquakes, Earthquake Sequences, and Fault Zones") .
     navItem("${section}/search/", "Search Earthquake Catalog") .
     navItem("${section}/feed/", "Real-time Notifications, Feeds &amp; Web Services") .
-    navItem("${section}/byregion/", "Information by Region") .
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/information-region", "Information by Region") .
     navItem("/data/comcat/", "ANSS ComCat Documentation") .
-    navItem("${section}/errata.php", "Errata for Latest Earthquakes") ,
+    navItem("https://www.usgs.gov/natural-hazards/earthquake-hazards/errata-latest-earthquakes", "Errata for Latest Earthquakes") ,
 
   "</section>"
   ;
