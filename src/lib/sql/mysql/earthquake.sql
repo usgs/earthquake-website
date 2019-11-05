@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2019-11-04 22:50:19 +0000
+# Generation Time: 2019-11-05 19:56:41 +0000
 # ************************************************************
 
 
@@ -1396,7 +1396,12 @@ VALUES
 	(509,9),
 	(510,9),
 	(511,9),
-	(512,9);
+	(512,9),
+	(513,9),
+	(514,9),
+	(515,9),
+	(516,9),
+	(517,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2012,7 +2017,22 @@ VALUES
 	(511,10),
 	(511,13),
 	(512,13),
-	(512,9);
+	(512,9),
+	(513,11),
+	(513,13),
+	(513,10),
+	(514,11),
+	(514,13),
+	(514,10),
+	(515,11),
+	(515,13),
+	(515,10),
+	(516,11),
+	(516,13),
+	(516,10),
+	(517,11),
+	(517,13),
+	(517,10);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2174,7 +2194,15 @@ VALUES
 	(505,25),
 	(506,45),
 	(508,26),
-	(510,28);
+	(513,30),
+	(513,45),
+	(510,28),
+	(514,45),
+	(515,45),
+	(515,30),
+	(515,27),
+	(516,45),
+	(516,36);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3046,7 +3074,22 @@ VALUES
 	(511,36),
 	(511,65),
 	(512,65),
-	(512,63);
+	(512,63),
+	(513,25),
+	(513,37),
+	(513,82),
+	(514,25),
+	(514,37),
+	(514,82),
+	(515,41),
+	(515,54),
+	(516,71),
+	(516,32),
+	(516,85),
+	(516,49),
+	(517,66),
+	(517,78),
+	(517,51);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3149,7 +3192,7 @@ VALUES
 	(159,'Science of Earthquakes, The','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes','brief and basic earthquake science concepts'),
 	(161,'Seismographs: Keeping Track of Earthquakes','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/seismographs-keeping-track-earthquakes','brief description on how seismographs work to locate earthquakes'),
 	(162,'Determining the Depth of an Earthquake','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/determining-depth-earthquake','brief discussion on depths of earthquakes'),
-	(510,'M7.8 Nepal Earthquake, 2015 – A Small Push to Mt. Everest','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/m78-nepal-earthquake-2015-a-small-push-mt-everest','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
+	(510,'M7.8 Nepal Earthquake, 2015  A Small Push to Mt. Everest','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/m78-nepal-earthquake-2015-a-small-push-mt-everest','A large shallow earthquake moves Mt. Everest 3 cm southwest.'),
 	(242,'Papers from an NAS Colloquium on Earthquake Prediction','National Academy of Sciences','http%3A%2F%2Fwww.pnas.org%2Fcontent%2F93%2F9.toc','Excellent collection of downloadable papers '),
 	(167,'Southern California Earthquakes, Faults, Photos & Rupture Movies','Southern California Earthquake Center (SCEC) & USGS','http%3A%2F%2Fscedc.caltech.edu%2Fsignificant%2F','all things \"earthquake\" in southern California'),
 	(349,'Evidence for Plate Tectonics-Teaching Box','DLESE','http%3A%2F%2Fwww.teachingboxes.org%2Fjsp%2Fteachingboxes%2FplateTectonics%2Findex.jsp','Collection of interrelated learn concepts that focuses on finding the evidence for plate tectonics using digital resources, education standards, and comprehensive lesson plans.'),
@@ -3203,6 +3246,7 @@ VALUES
 	(313,'Uncovering the San Andreas Fault (PDF)','National Park Service','http%3A%2F%2Fwww.nps.gov%2Fpore%2Fforteachers%2Fupload%2Fcurriculum_geology.pdf','Earthquake Trail: What Makes the Geology of Point Reyes National Seashore So Special?'),
 	(320,'Tracing earthquakes: seismology in the classroom','Science in School','http%3A%2F%2Fwww.scienceinschool.org%2F2006%2Fissue1%2Fearthquakes%2F','Reconstructing an ancient Chinese seismograph, a simple wave machine, and investigating earthquake-proof buildings.'),
 	(318,'Living in Earthquake Country: A Teaching Box','DLESE','http%3A%2F%2Fwww.teachingboxes.org%2Fearthquakes%2F','7 lessons with the goal of teaching students about how and why earthquakes cause damage. Explores seismic waves, the ability of scientists to predict the likelihood and severity of earthquakes at specific locations, the difference between magnitude and intensity, the occurrence of earthquakes along patches of planar faults, and the potential damage caused by earthquakes such as landslides, liquefaction, or structural failure.'),
+	(513,'What if the ShakeAlert Earthquake Early Warning System Had Been Operating During the M6.9 1989 Loma Prieta Earthquake?','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/what-if-shakealert-earthquake-early-warning-system-had','How will ShakeAlert® likely perform now on a large earthquake impacting a major urban area? How much warning will you get? To answer this, lets do a thought experiment... '),
 	(327,'California Subduction Rocks','About Geology','http%3A%2F%2Fgeology.about.com%2Fod%2Fgeophoto_tours%2Fig%2FCAtransecttrip%2Findex.htm%3Fnl%3D1','A photographic field trip to classic subduction-related rocks across northern California.'),
 	(324,'Hazards 101, Earthquake','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-hazards-101-basics','The basics of how the USGS National Earthquake Hazard Maps are made.'),
 	(329,'The Wave that Shook the World','PBS-NOVA','http%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fnova%2Ftsunami%2F','Online companion to the NOVA broadcast with excellent animations, Q&anmp;A, images, and lesson plans for teachers.'),
@@ -3296,7 +3340,11 @@ VALUES
 	(505,'55-Story Tall Building Before and After Earthquake Retrofit','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/55-story-tall-building-and-after-earthquake-retrofit','Science for Everyone article'),
 	(506,'A Possible Cause of Earthquakes in the Continental Interior','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/a-possible-cause-earthquakes-continental-interior','Plain-language summary of a 2018 research paper.'),
 	(507,'Emergency Preparedness in Schools','Community for Accredited Online Schools','https://www.accreditedschoolsonline.org/resources/emergency-preparedness-in-school/','General information about disaster preparedness for schools with links to resources.'),
-	(508,'New Methods for Dating and Sequencing Ancient Earthquakes','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/new-methods-dating-and-sequencing-ancient-earthquakes','A plain-language summary of new paleoseismology methods for studying and dating past earthquakes from trench data.');
+	(508,'New Methods for Dating and Sequencing Ancient Earthquakes','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/new-methods-dating-and-sequencing-ancient-earthquakes','A plain-language summary of new paleoseismology methods for studying and dating past earthquakes from trench data.'),
+	(514,'Earthquake Early Warning  Fine-Tuning for Best Alerts','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-early-warning-fine-tuning-best-alerts','The goal of an earthquake early warning (EEW) system is to provide an alert to people and automatic systems after an earthquake begins but before the shaking reaches their location. As the USGS and its partners are developing an EEW system, called ShakeAlert®, for the West Coast, the benefits, costs, capabilities, and limitations are being investigated. Two recent studies explored the timeliness and accuracy of alerts.'),
+	(515,'Could the M7.1 Ridgecrest, CA Earthquake Sequence Trigger a Large Earthquake Nearby?','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/could-m71-ridgecrest-ca-earthquake-sequence-trigger-a','Two of the first questions that come to mind for anyone who just felt an earthquake are, Will there be another one? and Will it be larger?.'),
+	(516,'Geologic Cracks Record Earthquakes on the Reelfoot Fault in Central U.S.','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/geologic-cracks-record-earthquakes-reelfoot-fault-central','New high-resolution lidar data reveals cracks produced from strong shaking in past earthquakes in the New Madrid seismic zone.'),
+	(517,'Preserving Historic Earthquake Records and Photos of the Instruments that Recorded Them','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/preserving-historic-earthquake-records-and-photos','A project to scan a small selection of the film chips of historical earthquake recordings to digital files was started in 1996. In addition to archiving historic data from the early years, the USGS has also worked to archive photos and descriptions of early seismometers.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
