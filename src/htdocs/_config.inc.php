@@ -5,11 +5,11 @@ $SITE_URL = 'https://earthquake.usgs.gov';
 
 // navigation above search, below section navigation
 $SITE_SITENAV =
-  '<a href="/earthquakes/">Earthquakes</a>' .
-  '<a href="/hazards/">Hazards</a>' .
+  '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes>Earthquakes</a>' .
+  '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/hazards">Hazards</a>' .
   '<a href="/data/">Data &amp; Products</a>' .
-  '<a href="/learn/">Learn</a>' .
-  '<a href="/monitoring/">Monitoring</a>' .
+  '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/education">Learn</a>' .
+  '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/monitoring">Monitoring</a>' .
   '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/research">Research</a>';
 
 // at bottom of page
