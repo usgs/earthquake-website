@@ -12,13 +12,6 @@ if (!isset($TEMPLATE)) {
 </div>
 
 <div class="alert info">
-  <h3><a href="hazmaps/2018prelim.php">Preliminary 2018 Update of the U.S. National Seismic Hazard Model: Overview of Model, Changes, and Implications</a></h3>
-  <p>
-    The NSHMP has completed the 2018 NSHM Update and has posted a draft manuscript to our website. We would like to invite the public to review the manuscript and provide feedback. The manuscript will be available for review and public comment from Wednesday, November 7 through Friday, December 7.
-  </p>
-</div>
-
-<div class="alert info">
   <h3><a href="contributions.php">Request for Hazard Modeling Contributions</a></h3>
   <p>
     The USGS requests that the earthquake hazard community bring to our attention new earthquake source and ground motion data or models that could be included in the NSHM updates. In addition, workshops are held for feedback and comments. The National Seismic Hazard Model will be updated twice over the next 6 years since the 2014 update. <a href="images/contrib-sched.png">View NSHM Schedule 2016-2021</a>.
