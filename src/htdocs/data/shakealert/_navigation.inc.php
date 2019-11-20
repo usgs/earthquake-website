@@ -20,28 +20,12 @@ $params = array(
 );
 $shakeAlertSearchLink = '/earthquakes/search/#' . rawurlencode(json_encode($params));
 
-
 echo navGroup(navItem('/data/shakealert/', 'ShakeAlert'),
 
-  navItem($shakeAlertSearchLink, 'Search ShakeAlert Archives')
+  navItem($shakeAlertSearchLink, 'Search ShakeAlert Archives') .
+  navItem('https://www.usgs.gov/shakealert/', 'ShakeAlert Project') .
+  navItem('https://www.shakealert.org/', 'ShakeAlert.org') .
+  navItem('https://www.usgs.gov/natural-hazards/earthquake-hazards/early-warning', 'Earthquake Early Warning Research')
 
 );
-
-/*
-  navItem('performance.php',
-    'About ShakeAlert Performance') .
-
-  navItem('references.php',
-    'Data, Products & References') .
-
-  navItem('faq.php',
-    'FAQ') .
-
-    navItem('/background.php',
-      'Scientific Background') .
-
-  navItem('disclaimer.php',
-      'Disclaimers')
- */
-
 ?>
