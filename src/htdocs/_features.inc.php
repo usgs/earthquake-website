@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2019-11-21',
+  'title' => 'Extending Rupture History in Grand Tetons National Park',
+  'content' => '&quot;19 November 2019–Hand-dug trenches around Leigh Lake in Grand Teton National Park in Wyoming reveal evidence for a previously unknown surface-faulting earthquake in along the Teton Fault—one occurring about 10,000 years ago.&quot; A Seismological Society of America news release covers recent research published by USGS scientists and cooperators.',
+  'link' => 'https://www.seismosoc.org/news/extending-rupture-history-in-grand-tetons-national-park/',
+  'modified' => strtotime('2019-11-21'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/tetonfault.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/tetonfault.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2019-10-17',
   'title' => 'What if the ShakeAlert&circledR; Earthquake Early Warning System Had Been Operating During the M6.9 1989 Loma Prieta Earthquake?',
   'content' => 'How will ShakeAlert likely perform now on a large earthquake impacting a major urban area? How much warning will you get? To answer this, let’s do a thought experiment... Also view the USGS News Release <a href="https://www.usgs.gov/news/all-systems-go-first-statewide-testing-shakealert-united-states">All Systems Go for First Statewide Testing of ShakeAlert in the United States</a>.',
