@@ -90,7 +90,7 @@
             roman numeral, for the purposes of this API, intensity is expected
             as the <strong>decimal</strong> equivalent of the roman numeral.
             Learn more about <a
-            href="https://earthquake.usgs.gov/education/mag_vs_int.php"
+            href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity"
             >magnitude vs. intensity</a>.
           </dd>
         </dl>
@@ -509,7 +509,7 @@
             While typically reported as a roman numeral, for the purposes of
             this API, intensity is expected as the <strong>decimal</strong>
             equivalent of the roman numeral. Learn more about <a
-            href="https://earthquake.usgs.gov/education/mag_vs_int.php"
+            href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-magnitude-energy-release-and-shaking-intensity"
             >magnitude vs. intensity</a>.
           </dd>
         </dl>
