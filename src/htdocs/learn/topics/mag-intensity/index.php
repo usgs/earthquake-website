@@ -159,7 +159,7 @@
     <a href="/education/mercalli.php">The Modified Mercalli Intensity Scale</a>
   </li>
   <li>
-    <a href="/static/lfs/learn/Mag_vs_Int_Pkg.pdf">Magnitude vs Intensity</a> - Grades 4-12 activity: magnitude, intensity
+    <a href="/static/lfs/learn/Mag_vs_Int_Pkg_1.pdf">Magnitude vs Intensity</a> - Grades 4-12 activity: magnitude, intensity
   </li>
   <li>
     <a href="https://pubs.usgs.gov/of/1995/0092/report.pdf">Intensity distribution and isoseismal maps for the Northridge, California, earthquake of January 17,1994</a>, USGS Open-File Report 95-92.
