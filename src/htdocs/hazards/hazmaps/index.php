@@ -27,6 +27,7 @@
     </ul>
     <h4>Long-term Models</h4>
     <ul>
+      <li><a href="conterminous/index.php#2018-long">2018</a></li>
       <li><a href="conterminous/index.php#2014">2014</a></li>
       <li><a href="conterminous/index.php#2008">2008</a></li>
       <li><a href="conterminous/index.php#2002">2002</a></li>

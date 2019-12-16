@@ -8,6 +8,27 @@
     }
 ?>
 
+<h2 id="2018-long">2018 Long-term Model</h2>
+
+<p>
+  <a href="http://doi.org/10.1177/8755293019878199">Documentation</a>: Petersen, M. D., Shumway, A. M., Powers, P. M., Mueller, C. S., Moschetti, M. P., Frankel, A. D., … Zeng, Y. (2019). The 2018 update of the US National Seismic Hazard Model: Overview of model and implications. Earthquake Spectra.
+</p>
+<p>
+  <a href="https://www.usgs.gov/media/images/2018-long-term-national-seismic-hazard-map">Map for Media</a>
+</p>
+<p>
+Scientific Data:
+  <ul>
+    <li><a href="http://doi.org/10.5066/P9WT5OVB">hazard curves and ground motion data, hazard maps, MMI maps, catalogs, basin data</a></li>
+    <li><a href="https://doi.org/10.5066/P9RQMREV">additional period and site class hazard curves and ground motion data</a></li>
+</ul>
+</p>
+<p><a href="https://github.com/usgs/nshmp-haz/releases/tag/v1.2.0">Source Code</a><br/>
+<a href="https://github.com/usgs/nshm-cous-2018/releases/tag/v5.0.0">Source Model</a></p>
+<p>
+  <strong>Note:</strong> The 2018 NSHM data will be available in our online web tool (<a href="https://earthquake.usgs.gov/hazards/interactive/">Unified Hazard Tool</a>) in early 2020.
+</p>
+
 <h2 id="2018">2018 Short-term Induced Seismicity Model</h2>
 <p>
   <p>
