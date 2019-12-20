@@ -155,9 +155,9 @@ Thursday: 9AM &ndash; 3:45PM
   <div class="two-of-five column">
 
     <h3>Agenda</h3>
-    <!--<a href="2019-Hazards-Workshop-Agenda.pdf">-->
-      Coming Soon!
-    <!--</a> (.pdf)-->
+    <a href="2020-Hazards-Workshop-Agenda.pdf">
+      2020 Northern California Earthquake Hazards Workshop
+    </a> (.pdf)
 
     <h3>USGS Menlo Park Campus Map</h3>
     <figure>
