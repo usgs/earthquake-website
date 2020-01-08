@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2020-01-07',
+  'title' => 'USGS News Story: Magnitude 6.4 Earthquake in Puerto Rico',
+  'content' => 'Check here for up-to-date information on the USGS respnse to the recent earthquake in Puerto Rico. <a href="/earthquakes/eventpage/us70006vll/">Or view the earthquake details.</a>',
+  'link' => 'https://www.usgs.gov/news/magnitude-64-earthquake-puerto-rico',
+  'modified' => strtotime('2020-01-07'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/PREQ-jan2020.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/PREQ-jan2020.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2019-11-21',
   'title' => 'Extending Rupture History in Grand Tetons National Park',
   'content' => '&quot;19 November 2019–Hand-dug trenches around Leigh Lake in Grand Teton National Park in Wyoming reveal evidence for a previously unknown surface-faulting earthquake in along the Teton Fault—one occurring about 10,000 years ago.&quot; A Seismological Society of America news release covers recent research published by USGS scientists and cooperators.',
