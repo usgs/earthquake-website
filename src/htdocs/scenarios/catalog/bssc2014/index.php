@@ -22,17 +22,17 @@ include '../_catalog.inc.php';
   For a given rupture, the ground motion shaking intensity parameters are
   computed using a weighted combination of ground motion models for reference
   rock conditions that is consistent with the 2014 version of the USGS national
-  seismic hazard maps. More details are available in the 
+  seismic hazard maps. More details are available in the
   <a href="http://dx.doi.org/10.3133/ofr20141091">
     documentation
   </a> for the 2014 update of the United States national seismic hazard maps.
 </p>
 
 <p>
-  We have employed the OpenQuake hazard library 
+  We have employed the OpenQuake hazard library
   (<a href="http://docs.openquake.org/oq-hazardlib/master/">hazardlib</a>)
   implementation of the ground motion models. OpenQuake hazardlib provides a broad
-  range of well-tested open-source models. 
+  range of well-tested open-source models.
 </p>
 
 <p>
@@ -40,11 +40,11 @@ include '../_catalog.inc.php';
   component, which is given by most ground motion models, to the peak horizontal
   component.
   This is necessary for consistency with real-time ShakeMaps.
-  Additional details are discussed in 
-  <a href="http://usgs.github.io/shakemap/tg_choice_of_parameters.html#use-of-peak-values-rather-than-mean">
+  Additional details are discussed in
+  <a href="http://usgs.github.io/shakemap/manual3_5/tg_choice_of_parameters.html#use-of-peak-values-rather-than-mean">
     this section
   </a>
-  of the ShakeMap manual. 
+  of the ShakeMap manual.
 </p>
 
 <h3 id="site-response">Site Response</h3>
@@ -52,7 +52,7 @@ include '../_catalog.inc.php';
   The 2014 USGS seismic hazard maps do not account for site response directly.
   Site conditions are accounted for in the building code separately. However,
   the scenarios in this catalog include site response in the maps, based on
-  maps of the time-averaged shear-wave velocity in the upper 30 m (Vs30). 
+  maps of the time-averaged shear-wave velocity in the upper 30 m (Vs30).
   The
   <a href="https://github.com/usgs/earthquake-global_vs30">
     input Vs30 grids
@@ -85,7 +85,7 @@ include '../_catalog.inc.php';
   Luco, N., Bachman, R. E., Crouse, C. B., Harris, J. R., Hooper, J. D.,
   Kircher, C. A., Caldwell, P. J., and Rukstales, K. S. (2015). Updates to
   Building-Code Maps for the 2015 NEHRP Recommended Seismic Provisions,
-  Earthquake Spectra, vol. 31, no. s1, pp. S245-S271, 
+  Earthquake Spectra, vol. 31, no. s1, pp. S245-S271,
   <a href="http://dx.doi.org/10.1193/042015EQS058M">
     http://dx.doi.org/10.1193/042015EQS058M
   </a>.
