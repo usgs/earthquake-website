@@ -13,9 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
-  'id' => '2020-01-07',
-  'title' => 'USGS News Story: Magnitude 6.4 Earthquake in Puerto Rico',
-  'content' => 'Check here for up-to-date information on the USGS respnse to the recent earthquake in Puerto Rico. <a href="/earthquakes/eventpage/us70006vll/">Or view the earthquake details.</a>',
+  'id' => '2020-01-11',
+  'title' => 'Magnitude 6.4 Earthquake in Puerto Rico',
+  'content' => '<p>Check here for up-to-date information on the USGS response to the recent earthquakes in Puerto Rico.</p>
+  <p>
+  <ul>
+  <li><a href="/earthquakes/eventpage/us70006vll/">Eventpage with earthquake details</a></li>
+  <li><a href="https://www.usgs.gov/news/magnitude-64-earthquake-puerto-rico">USGS News Story</a> - updated daily</li>
+  <li><a href="https://www.usgs.gov/center-news/escenarios-de-terremotos-en-puerto-rico">Escenarios de terremotos en Puerto Rico</a></li>
+  <li><a href="https://www.usgs.gov/center-news/earthquake-scenarios-puerto-rico">Earthquake Scenarios for Puerto Rico</a></li>
+  </ul>',
   'link' => 'https://www.usgs.gov/news/magnitude-64-earthquake-puerto-rico',
   'modified' => strtotime('2020-01-07'),
   'thumbnail' => 'https://earthquake.usgs.gov/images-featured/PREQ-jan2020.png',
