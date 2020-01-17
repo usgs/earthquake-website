@@ -22,6 +22,7 @@ $EQ_FEATURES->items[] = array(
   <li><a href="https://www.usgs.gov/news/magnitude-64-earthquake-puerto-rico">USGS News Story</a> - updated daily</li>
   <li><a href="https://www.usgs.gov/center-news/escenarios-de-terremotos-en-puerto-rico">Escenarios de terremotos en Puerto Rico</a></li>
   <li><a href="https://www.usgs.gov/center-news/earthquake-scenarios-puerto-rico">Earthquake Scenarios for Puerto Rico</a></li>
+  <li><a href="https://www.usgs.gov/news/aftershocks-continue-puerto-rico-usgs-supports-quake-recovery">USGS News Story</a> - As Aftershocks Continue in Puerto Rico, USGS Supports Quake Recovery</li>
   </ul>',
   'link' => 'https://www.usgs.gov/news/magnitude-64-earthquake-puerto-rico',
   'modified' => strtotime('2020-01-07'),
