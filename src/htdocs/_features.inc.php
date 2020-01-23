@@ -11,6 +11,15 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+$EQ_FEATURES->items[] = array(
+  'id' => '2020-01-23',
+  'title' => 'Catalog Shows Complex Rupturing During 2019 Ridgecrest Sequence',
+  'content' => 'The 2019 Ridgecrest earthquake sequence, which startled nearby California residents over the 4 July holiday with magnitude 6.4 and magnitude 7.1 earthquakes, included 34,091 earthquakes overall, detailed in a high-resolution catalog created for the sequence. (SSA News)',
+  'link' => 'https://www.seismosoc.org/news/catalog-shows-complex-rupturing-during-2019-ridgecrest-sequence/',
+  'modified' => strtotime('2020-01-23'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/ridgecrest_seismicstation.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/ridgecrest_seismicstation.jpg'
+);
 
 $EQ_FEATURES->items[] = array(
   'id' => '2020-01-11',
