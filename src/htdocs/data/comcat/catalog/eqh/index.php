@@ -5,7 +5,7 @@ include '../_catalog.inc.php';
 <h3 id="additional">Additional Information</h3>
 
 <p>
-  <strong>Citation: Coffman, J.L., C.A. von Hake, and C.W. Stover, 1982, Earthquake History of the United States, U.S. Department of Commerce, National Oceanic and Atmospheric Administration and U.S. Department of Interior, Geological Survey, Boulder, Colorado, 1982, 258 pp.
+  <strong>Citation:</strong> Coffman, J.L., C.A. von Hake, and C.W. Stover, 1982, Earthquake History of the United States, U.S. Department of Commerce, National Oceanic and Atmospheric Administration and U.S. Department of Interior, Geological Survey, Boulder, Colorado, 1982, 258 pp.
 </p>
 
 <p>
