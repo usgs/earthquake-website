@@ -107,7 +107,7 @@ if (!isset($TEMPLATE)) {
 
           <ul class="sections-list">
             <li class="sections-listitem">
-              <a href="/earthquakes/">
+              <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes">
                 <img class="sections-img" src="/images-home/home-earthquakes150x150.gif" alt="Earthquakes section thumbnail" />
                 <h2>Earthquakes</h2>
               </a>
@@ -118,7 +118,7 @@ if (!isset($TEMPLATE)) {
           </ul>
           <ul class="sections-list">
             <li class="sections-listitem">
-              <a href="/hazards/">
+              <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/hazards">
                 <img class="sections-img" src="/images-home/home-hazards150x150.gif" alt="Hazards section thumbnail" />
                 <h2>Hazards</h2>
               </a>
@@ -142,7 +142,7 @@ if (!isset($TEMPLATE)) {
           </ul>
           <ul class="sections-list">
             <li>
-              <a href="/learn/">
+              <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/education">
                 <img class="sections-img" src="/images-home/home-learn150x150.jpg" alt="Learn section thumbnail" />
                 <h2>Learn</h2>
               </a>
@@ -154,7 +154,7 @@ if (!isset($TEMPLATE)) {
           </ul>
           <ul class="sections-list">
             <li class="sections-listitem">
-              <a href="/monitoring">
+              <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/monitoring">
                   <img class="sections-img" src="/images-home/home-monitoring150x150.jpg" alt="Monitoring section thumbnail" />
                   <h2>Monitoring</h2>
                 </a>
