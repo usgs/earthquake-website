@@ -8,7 +8,7 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<p>October, 2019</p>
+<p>January, 2020</p>
 <p>
   The Earthquake Hazards Program (EHP) website is being updated and is moving to a new content management system (CMS) framework under the USGS website. The new landing page is at the URL <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards">https://www.usgs.gov/natural-hazards/earthquake-hazards</a>.
 </p>
@@ -23,7 +23,7 @@ if (!isset($TEMPLATE)) {
   This change will be taking place gradually over the next few months, and although we’ll attempt to make the change as seamless as possible, there will no doubt be bumps in the road.  During this transition, please double check that your bookmarks are up to date.  We apologize in advance for the confusion and inconvenience.
 </p>
 
-<h3>Status as of October 31, 2019</h3>
+<h3>Status as of January 29, 2020</h3>
 <ul>
   <li>
     <strong>About Us</strong> moved to <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/about">https://www.usgs.gov/natural-hazards/earthquake-hazards/about</a>
@@ -46,4 +46,11 @@ if (!isset($TEMPLATE)) {
   <li>
     <strong>Earthquakes</strong> moved to <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes">https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes</a>
   </li>
+  <li>
+    <strong>Hazards</strong> moved to <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/hazards">https://www.usgs.gov/natural-hazards/earthquake-hazards/hazards</a>
+  </li>
 </ul>
+
+<p>
+  The <strong>Data & Products</strong> section will move next, and will be the last major section to move.
+</p>
