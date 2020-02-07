@@ -11,6 +11,17 @@ $EQ_FEATURES->author = 'U.S. Geological Survey';
 $EQ_FEATURES->siteUrl = 'https://earthquake.usgs.gov/';
 $EQ_FEATURES->baseUrl = '';
 
+
+$EQ_FEATURES->items[] = array(
+  'id' => '2020-02-07',
+  'title' => 'Large M7.7 Caribbean Quake Felt as Far Away as Florida',
+  'content' => 'On January 28, 2020, a <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us60007idc/executive">magnitude 7.7 earthquake</a> struck in the Caribbean Sea, roughly equidistant from the coasts of Jamaica, Cuba and the Cayman Islands. Seismic instruments immediately detected the earthquake that originated at a depth of about 6.2 miles (10 km). (USGS News)',
+  'link' => 'https://www.usgs.gov/news/large-m77-caribbean-quake-felt-far-away-florida',
+  'modified' => strtotime('2020-02-07'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/M7.7-Jamaica.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/M7.7-Jamaica.png'
+);
+
 $EQ_FEATURES->items[] = array(
   'id' => '2020-01-23',
   'title' => 'Catalog Shows Complex Rupturing During 2019 Ridgecrest Sequence',
