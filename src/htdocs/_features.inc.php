@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2020-02-12',
+  'title' => 'U.S. Geological Survey Earthquake Science Center Fact Sheet',
+  'content' => 'The mission of the Earthquake Science Center is to collect a wide range of data on earthquakes, faults, and crustal deformation; conduct research to increase our understanding of earthquake source processes, occurrence, and effects; and synthesize this knowledge into probabilistic seismic hazard assessments, aftershock forecasts, and ground-shaking scenarios for anticipated major earthquakes.',
+  'link' => 'http://pubs.er.usgs.gov/publication/fs20193067',
+  'modified' => strtotime('2020-02-12'),
+  'thumbnail' => 'https://pubs.usgs.gov/fs/2019/3067/coverthb.jpg',
+  'image' => 'https://pubs.usgs.gov/fs/2019/3067/coverthb.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2020-02-07',
   'title' => 'Large M7.7 Caribbean Quake Felt as Far Away as Florida',
   'content' => 'On January 28, 2020, a <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us60007idc/executive">magnitude 7.7 earthquake</a> struck in the Caribbean Sea, roughly equidistant from the coasts of Jamaica, Cuba and the Cayman Islands. Seismic instruments immediately detected the earthquake that originated at a depth of about 6.2 miles (10 km). (USGS News)',
