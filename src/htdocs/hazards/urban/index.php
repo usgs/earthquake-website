@@ -31,18 +31,6 @@ if	(!isset($TEMPLATE))	{
     </p>
   </li>
   <li>
-    <a href="sfbay/soiltype/">
-      <h4>Soil Type and Shaking Hazard in the San Francisco Bay Area</h4>
-      <img src="images/soiltype.gif" alt="thumbnail of soil type and shaking hazard"/>
-    </a>
-    <p>
-      Soil Type and Shaking Hazard in the S.F. Bay Area. The type of soil at
-      a site affects the intensity of shaking there. Learn about this effect and
-      use interactive maps to look up the soil type at any site in the San
-      Francisco Bay Area.
-    </p>
-  </li>
-  <li>
     <a href="http://geomaps.wr.usgs.gov/sfgeo/liquefaction/">
       <h4>Liquefaction Susceptibility Map for San Francisco Bay Region</h4>
       <img src="images/sfliquifaction.gif" alt="thumbnail of liquefaction poster"/>
