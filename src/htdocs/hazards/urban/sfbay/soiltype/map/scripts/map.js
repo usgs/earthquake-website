@@ -1,7 +1,0 @@
-/*
-HTML Imagemapper 10 AJAX
-alta4 Geoinformatik 2006
-15.12.2006 - 10.0.24
-http://www.alta4.com
-*/
-Y16=new Array();function KO8l(q5551,Re63){if(q5551>=0&&q5551<Y16[0].length&&Re63>=0&&Re63<Y16.length){return Y16[round(Re63)][round(q5551)]}return g_spaceImg}function _042H(R8I){var l816=p4LY9("currMapOff");var Ca4Gy=new Array(l816[0]+R8I[0],l816[1]+R8I[1]);U67("currMapOff",Ca4Gy)}function Cb919(l$45){var f_e=o0Qf();var LL6Q=new Array(Ls7J$[0]*l$45,Ls7J$[1]*l$45);var uQ41=new Array(LL6Q[0]-((f_e[0]/2)*g_tSize[0]),LL6Q[1]-((f_e[1]/2)*g_tSize[1]));var Q5xv=new Array(uQ41[0]/g_tSize[0],uQ41[1]/g_tSize[1]);g_picUL=new Array(round(Q5xv[0]),round(Q5xv[1]));var E68o=new Array(((g_picUL[0]+1)*g_tSize[0])+(g_viewExt[0]/2),((g_picUL[1]+1)*g_tSize[1])+(g_viewExt[1]/2));g_iniPxDelta=new Array(round(E68o[0]-LL6Q[0]),round(E68o[1]-LL6Q[1]))}function t4h(){var R8I=g_iniPxDelta;var r7h=o0Qf();for(var cr14=0;cr14<r7h[1];cr14 ++ ){for(var Ym1=0;Ym1<r7h[0];Ym1 ++ ){var src=KO8l((Ym1+g_picUL[0]),(cr14+g_picUL[1]));if(src!=g_spaceImg)v75(Q723(Ym1,cr14),src)}}var t8sJ5=new Array(-(g_picUL[0]+1)*g_tSize[0]+R8I[0],-(g_picUL[1]+1)*g_tSize[1]+R8I[1]);U67("currMapOff",t8sJ5)}function _9P3h(){Y16=new Array();var xV12Y=1;var n2I=r8s6();var TSs_F=E$4();for(var cr14=0;cr14<((g_baseMapExt[1]*TSs_F)/g_tSize[1]);cr14 ++ ){Y16[Y16.length]=new Array();for(var Ym1=0;Ym1<((g_baseMapExt[0]*TSs_F)/g_tSize[0]);Ym1 ++ ){Y16[cr14][Ym1]=g_maptileimageDir+n2I+"/"+g_maptileimagePraefix+xV12Y+"."+g_maptileimageFormat;xV12Y ++}}}
