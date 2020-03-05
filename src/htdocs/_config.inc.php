@@ -47,7 +47,7 @@ $HEAD =
 // comments and questions default
 if (!isset($CONTACT)) {
   /* $CONTACT_URL = 'https://answers.usgs.gov/cgi-bin/gsanswers';  */
-  $CONTACT_URL = 'mailto:lisa%2Behpweb@usgs.gov';
+  $CONTACT_URL = 'mailto:lisa@usgs.gov';
 }
 else {
   $CONTACT_URL = 'mailto:{CONTACT}?subject=EHP%20Website%20Email%20';
