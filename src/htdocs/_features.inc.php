@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2020-03-05',
+  'title' => 'New Seismicity of the Earth 1900–2018 Map',
+  'content' => 'Updated poster-size map of global seismicity in the context of global plate tectonics and the Earth’s physiography. Primarily designed for use by earth scientists, engineers, and educators.',
+  'link' => 'https://pubs.er.usgs.gov/publication/sim3446',
+  'modified' => strtotime('2020-03-05'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/seis-earth-1900-2018',
+  'image' => 'https://pubs.er.usgs.gov/publication/sim3446'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2020-02-12',
   'title' => 'U.S. Geological Survey Earthquake Science Center Fact Sheet',
   'content' => 'The mission of the Earthquake Science Center is to collect a wide range of data on earthquakes, faults, and crustal deformation; conduct research to increase our understanding of earthquake source processes, occurrence, and effects; and synthesize this knowledge into probabilistic seismic hazard assessments, aftershock forecasts, and ground-shaking scenarios for anticipated major earthquakes.',

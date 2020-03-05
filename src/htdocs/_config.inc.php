@@ -5,7 +5,7 @@ $SITE_URL = 'https://earthquake.usgs.gov';
 
 // navigation above search, below section navigation
 $SITE_SITENAV =
-  '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes>Earthquakes</a>' .
+  '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes">Earthquakes</a>' .
   '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/hazards">Hazards</a>' .
   '<a href="/data/">Data &amp; Products</a>' .
   '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/education">Learn</a>' .
