@@ -32,8 +32,8 @@ echo '
         This Dynamic Earth: The Story of Plate Tectonics</a> - comprehensive overview of plate tectonics with excellent graphics.
       </li>
       <li>
-        <a href="https://pubs.usgs.gov/imap/2800/">
-        This Dynamic Planet</a> - World Map of Volcanoes, Earthquakes, Impact Craters, and Plate Tectonics.
+        <a href="https://pubs.er.usgs.gov/publication/sim3446">
+        Seismicity of the Earth 1900–2018</a> - World Map of Earthquakes and Plate Tectonics.
       </li>
       <li>
         <a href="https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/EQ101.pdf">
