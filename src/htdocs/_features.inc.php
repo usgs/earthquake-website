@@ -18,7 +18,7 @@ $EQ_FEATURES->items[] = array(
   'content' => 'Updated poster-size map of global seismicity in the context of global plate tectonics and the Earth’s physiography. Primarily designed for use by earth scientists, engineers, and educators.',
   'link' => 'https://pubs.er.usgs.gov/publication/sim3446',
   'modified' => strtotime('2020-03-05'),
-  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/seis-earth-1900-2018',
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/seis-earth-1900-2018.png',
   'image' => 'https://pubs.er.usgs.gov/publication/sim3446'
 );
 
