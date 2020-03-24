@@ -34,7 +34,7 @@
   </li>
   <li>
     <p>
-      If you still can't find what you're looking for, <strong><a href="mailto:lisa@usgs.gov?subject=EHP%20Website%20Email:%20&amp;cc=lkpratt@usgs.gov&amp;body=Please add your specific subject after the pre-entered Subject above. Thank you!">Contact Us</a></strong> for assistance. Also, tell us if you clicked on the link from another website.<br/>
+      If you still can't find what you're looking for, <strong><a href="mailto:lisa@usgs.gov">Contact Us</a></strong> for assistance. Also, tell us if you clicked on the link from another website.<br/>
     </p>
   </li>
 </ul>
