@@ -1,5 +1,5 @@
 <?php
-	$section = "/research/parkfield";
+	$section = "/learn/parkfield";
 	$NAVIGATION = true;
 	$url = $_SERVER['REQUEST_URI'];
 	$matchesIntro = false;
@@ -7,7 +7,6 @@
 	if (preg_match("@^{$section}/(index.php)?$@", $url)) {
     $matchesIntro = true;
   }
-echo "<a href='/research' class='up-one-level'>Research</a>";
 
 echo "<section>";
 				echo
@@ -133,7 +132,5 @@ else{
 
 
 echo navItem("https://earthquake.usgs.gov/earthquakes/map/#%7B%22feed%22%3A%227day_all%22%2C%22search%22%3Anull%2C%22listFormat%22%3A%22default%22%2C%22sort%22%3A%22newest%22%2C%22basemap%22%3A%22street%22%2C%22autoUpdate%22%3Atrue%2C%22restrictListToMap%22%3Atrue%2C%22timeZone%22%3A%22utc%22%2C%22mapposition%22%3A%5B%5B35.72421761691415%2C-120.63880920410156%5D%2C%5B36.08045935195454%2C-120.2237319946289%5D%5D%2C%22overlays%22%3A%7B%22plates%22%3Afalse%2C%22faults%22%3Atrue%7D%2C%22viewModes%22%3A%7B%22map%22%3Atrue%2C%22list%22%3Atrue%2C%22settings%22%3Afalse%2C%22help%22%3Afalse%7D%7D", "Current Seismicity at Parkfield") ;
-echo navItem("/learn/glossary", "Earthquake Glossary");
-
 
 ?>
