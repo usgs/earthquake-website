@@ -73,7 +73,7 @@
 <ul>
   <li>List items in bold are magnitude 4.5 and greater.</li>
   <li>
-    List items with a red background have been identified as "significant",
+    List items with red text have been identified as "significant",
     based on a combination of magnitude, PAGER alert level, and the number of
     Did You Feel It? responses.
   </li>
