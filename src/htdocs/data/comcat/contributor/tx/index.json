@@ -1,8 +1,19 @@
 {
   "id": "tx",
   "title": "Texas Seismological Network (TexNet)",
-  "url": null,
-  "aliases": null
+  "url": "http://www.beg.utexas.edu/texnet/catalog",
+  "aliases": [
+		"texnet","beg"
+		],
+	"citation": "https://doi.org/10.7914/SN/TX",
+  "email": "alexandros.savvaidis@beg.utexas.edu",
+  "email-name": "Alexandros Savvaidis",
+  "tel": [
+  {
+    "type": "Voice",
+    "value": "+1-512-475-9549"
+  }
+  ]
 }
 
 
