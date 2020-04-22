@@ -12,7 +12,8 @@ url =
 	[
 		// "endtime=" + endtime.toISOString(),
 		"producttype=deleted-text",
-		"starttime=" + starttime.toISOString()
+		"starttime=" + starttime.toISOString(),
+		"includedeleted=true"
 	].join("&");
 
 EqList({
