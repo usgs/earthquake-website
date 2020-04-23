@@ -19,11 +19,11 @@ if (!isset($TEMPLATE)) {
   $TITLE = ' Errata for Latest Earthquakes - ' . $year;
   $NAVIGATION = true;
   $HEAD = '
-    <link rel="stylesheet" href="/lib/earthquake-list-widget-1.0.0/earthquake-list-widget.css"/>
+    <link rel="stylesheet" href="/lib/earthquake-list-widget-1.0.1/earthquake-list-widget.css"/>
     <link rel="stylesheet" href="significant.css"/>
   ';
   $FOOT = '
-    <script src="/lib/earthquake-list-widget-1.0.0/earthquake-list-widget.js"></script>
+    <script src="/lib/earthquake-list-widget-1.0.1/earthquake-list-widget.js"></script>
     <script>
       var options = ' . json_encode($options) . ';
     </script>
