@@ -1,0 +1,10 @@
+.browse-wrapper {
+  width: 100%;
+  max-width: 768px;
+}
+
+.browse-wrapper > form > .browse-year {
+  width: 100%;
+  max-width: 304px;
+}
+
