@@ -108,7 +108,7 @@
   </li>
 
   <li>
-    <a href="http://online.wr.usgs.gov/calendar/2014/feb14.html">
+    <a href="https://www.usgs.gov/media/videos/pubtalk-22014-1964-great-alaska-earthquake-and-tsunami-50th-anniv">
       <h4>USGS Monthly Evening Lecture Series</h4>
       <img src="img/plafker-lecture.jpg" alt="screenshot of video" width="150px"/>
     </a>
