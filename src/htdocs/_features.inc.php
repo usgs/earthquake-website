@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2020-05-12',
+  'title' => 'Subscribe to Earthquake News',
+  'content' => 'Want to know when there is a new earthquake-related announcement or new content on the website? You can now subscribe to the Earthquake Hazards Program News RSS feed.',
+  'link' => 'https://www.usgs.gov/programs/1774/news/feed',
+  'modified' => strtotime('2020-05-12'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/Ridgecrest-faultzones.jpg',
+  'image' => 'https://pubs.er.usgs.gov/publication/sim3446'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2020-03-05',
   'title' => 'New Seismicity of the Earth 1900–2018 Map',
   'content' => 'Updated poster-size map of global seismicity in the context of global plate tectonics and the Earth’s physiography. Primarily designed for use by earth scientists, engineers, and educators.',
