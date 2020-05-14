@@ -3,7 +3,7 @@
 // Contact: Bob De Groot
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'ShakeAlert';
+  $TITLE = 'ShakeAlert&trade;';
   $NAVIGATION = true;
   $HEAD = '
     <link rel="stylesheet" href="/lib/earthquake-list-widget-1.0.1/earthquake-list-widget.css"/>
@@ -17,7 +17,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <p>
-  The ShakeAlert earthquake early warning system monitors for significant earthquakes and issues alerts to warn that strong shaking is expected imminently.  In the United States, the ShakeAlert system is being developed to cover California, Oregon, and Washington.
+  The ShakeAlert&trade; earthquake early warning system monitors for significant earthquakes and issues alerts to warn that strong shaking is expected imminently.  In the United States, the ShakeAlert system is being developed to cover California, Oregon, and Washington.
 </p>
 
 <div class="row right-to-left" >
