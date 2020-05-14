@@ -3,7 +3,7 @@
 // Contact: Bob De Groot
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'ShakeAlert&trade;';
+  $TITLE = 'ShakeAlert&reg;;';
   $NAVIGATION = true;
   $HEAD = '
     <link rel="stylesheet" href="/lib/earthquake-list-widget-1.0.1/earthquake-list-widget.css"/>
@@ -17,7 +17,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <p>
-  The ShakeAlert&trade; earthquake early warning system monitors for significant earthquakes and issues alerts to warn that strong shaking is expected imminently.  In the United States, the ShakeAlert system is being developed to cover California, Oregon, and Washington.
+  The ShakeAlert&reg; earthquake early warning system monitors for significant earthquakes and issues alerts to warn that strong shaking is expected imminently.  In the United States, the ShakeAlert system is being developed to cover California, Oregon, and Washington.
 </p>
 
 <div class="row right-to-left" >
@@ -33,7 +33,7 @@ if (!isset($TEMPLATE)) {
         </noscript>
       </div>
 
-      <h3>View Map and List of ShakeAlert Events</h3>
+      <h3>View Map and List of ShakeAlert&reg; Events</h3>
       <ul>
         <li>
           <a href="/earthquakes/map/#<?php
@@ -120,10 +120,10 @@ if (!isset($TEMPLATE)) {
           echo rawurlencode(json_encode($params));
 
         ?>">
-          <h4>Search ShakeAlert Archives</h4>
+          <h4>Search ShakeAlert&reg; Archives</h4>
           <img src="/data/shakemap/images/search-2x.gif" alt="" width="75"/>
         </a>
-        <p>Search for alerts issued by ShakeAlert.  The search is configured to return only earthquakes for which an alert was issued.</p>
+        <p>Search for alerts issued by ShakeAlert&reg;.  The search is configured to return only earthquakes for which an alert was issued.</p>
       </li>
 
       <li>
@@ -131,7 +131,7 @@ if (!isset($TEMPLATE)) {
           <h4>ShakeAlert Project</h4>
           <img src="/data/images/eew-project.gif" alt="timeline" width="75"/></a>
         <p>
-          Current status, news, publications, and everything else ShakeAlert.
+          Current status, news, publications, and everything else ShakeAlert&reg;.
         </p>
       </li>
 
@@ -140,7 +140,7 @@ if (!isset($TEMPLATE)) {
           <h4>ShakeAlert.org</h4>
           <img src="/data/images/shakealert-org.jpg" alt="flowchart and map" width="75"/></a>
         <p>
-          Collaborative website for ShakeAlert partners.
+          Collaborative website for ShakeAlert&reg; partners.
         </p>
       </li>
 
