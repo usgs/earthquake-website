@@ -1,0 +1,16 @@
+th {
+  padding: 10px;
+  border-bottom: 1px solid black;
+  font-weight: bold;
+  }
+td {
+  padding: 0 10px 0 10px;
+  border-bottom: 1px solid black;
+  }
+td.avail {
+  background-color: #ccc;
+  }
+td.avail a {
+  display: block;
+  text-decoration: none;
+  }
