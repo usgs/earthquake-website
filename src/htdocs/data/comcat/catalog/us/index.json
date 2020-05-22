@@ -1,7 +1,6 @@
 {
   "id": "us",
   "title": "USGS National Earthquake Information Center, PDE",
-  "url": "https://earthquake.usgs.gov/data/pde.php",
   "address": {
     "org": "U.S. Geological Survey\nNational Earthquake Information Center",
     "street-address": "Box 25046, MS 966",
