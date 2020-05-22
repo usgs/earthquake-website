@@ -8,22 +8,15 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<p>January, 2020</p>
+<p>May, 2020</p>
 <p>
-  The Earthquake Hazards Program (EHP) website is being updated and is moving to a new content management system (CMS) framework under the USGS website. The new landing page is at the URL <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards">https://www.usgs.gov/natural-hazards/earthquake-hazards</a>.
+  Most of the Earthquake Hazards Program (EHP) website has moved to the new content management system (CMS) framework under the USGS website. The new landing page is at the URL <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards">https://www.usgs.gov/natural-hazards/earthquake-hazards</a>.
 </p>
 <p>
   <strong>The URL <i>https://earthquake.usgs.gov/</i> will continue to bring you to the EHP homepage, and near-realtime earthquake information will continue to be available at the same URL as always.</strong>
 </p>
-<p>
-  Most other webpages will be migrated into the new U.S. Geological Survey website at <i>https://www.usgs.gov/</i>. We’ll provide temporary redirects to the new website from all the webpages with new URLs.
-</p>
 
-<p>
-  This change will be taking place gradually over the next few months, and although we’ll attempt to make the change as seamless as possible, there will no doubt be bumps in the road.  During this transition, please double check that your bookmarks are up to date.  We apologize in advance for the confusion and inconvenience.
-</p>
-
-<h3>Status as of January 29, 2020</h3>
+<h3>Status as of May 22, 2020</h3>
 <ul>
   <li>
     <strong>About Us</strong> moved to <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/about">https://www.usgs.gov/natural-hazards/earthquake-hazards/about</a>

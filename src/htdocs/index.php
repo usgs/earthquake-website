@@ -22,7 +22,7 @@ if (!isset($TEMPLATE)) {
 <div class="alert error">
 <h3>Errant Public Alert on 2020-05-21 in Ridgecrest Area</h3>
 <p>
-  An errant earthquake alert was sent by the ShakeAlert earthquake early warning system to the public in the Ridgecrest area on May 21, 2020 at 14:09 UTC (2:09pm PDT). The alert occurred when misconfigured code being tested mistakenly publish a simulated Ridgecrest event to the live alerting servers and the alert was distributed by the Wireless Emergency Alert system.  A cancellation was sent and the test code was corrected.
+  An errant earthquake alert was sent by the ShakeAlert earthquake early warning system to the public in the Ridgecrest area on May 21, 2020 at 14:09 UTC (2:09pm PDT). The alert occurred when misconfigured code being tested mistakenly published a simulated Ridgecrest event to the live alerting servers and the alert was distributed by the Wireless Emergency Alert system.  A cancellation was sent and the test code was corrected.
 </p>
 </div>
 
