@@ -31,8 +31,7 @@ if (!isset($TEMPLATE)) {
         <img class='nehrp' src="images-home/latesteqs-ANSSlogo-300.gif" width="150" alt="ANSS logo"/>
       </a>
       <strong>Advanced National Seismic System</strong><br />
-      Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.<br /><br />
-      <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/errata-latest-earthquakes">Errant Earthquake Notification for M5.5 near Anderson, CA on 2020-03-25</a>
+      Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.<br />
       <ul>
         <li><a href="/data/dyfi/">Did You Feel It? Report it Here!</a></li>
       <li><a href="/ens/">Subscribe to Earthquake Notifications</a></li>
