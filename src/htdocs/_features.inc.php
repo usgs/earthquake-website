@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2020-06-01',
+  'title' => 'The Blind Zone of Earthquake Early Warning',
+  'content' => 'One USGS scientist has sorted through the challenges, the claims, and the data to determine what the possibilities and limitations really are for EEW, and the results may surprise you... a new Science for Everyone article.',
+  'link' => 'https://www.usgs.gov/natural-hazards/earthquake-hazards/science/blind-zone-earthquake-early-warning',
+  'modified' => strtotime('2020-06-01'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/scieve-eewpractical-Northride.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/scieve-eewpractical-Northride.png'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2020-05-12',
   'title' => 'Subscribe to Earthquake News',
   'content' => 'Want to know when there is a new earthquake-related announcement or new content on the website? You can now subscribe to the Earthquake Hazards Program News RSS feed.',
