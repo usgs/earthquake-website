@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2020-03-06 16:58:17 +0000
+# Generation Time: 2020-06-01 18:04:03 +0000
 # ************************************************************
 
 
@@ -1405,7 +1405,8 @@ VALUES
 	(518,7),
 	(518,8),
 	(519,7),
-	(519,9);
+	(519,9),
+	(520,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2041,7 +2042,10 @@ VALUES
 	(519,8),
 	(519,13),
 	(519,10),
-	(519,9);
+	(519,9),
+	(520,10),
+	(520,11),
+	(520,13);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2215,7 +2219,14 @@ VALUES
 	(518,45),
 	(518,30),
 	(518,44),
-	(518,42);
+	(518,42),
+	(520,30),
+	(520,27),
+	(520,22),
+	(520,25),
+	(520,42),
+	(520,44),
+	(520,45);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3106,7 +3117,10 @@ VALUES
 	(518,62),
 	(518,22),
 	(518,70),
-	(519,49);
+	(519,49),
+	(520,25),
+	(520,82),
+	(520,60);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3161,7 +3175,7 @@ VALUES
 	(512,'Sonic Booms','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/sonic-booms','How Can You Tell the Difference Between a Sonic Boom and an Earthquake on a Seismogram? Some Interesting Facts About Sonic Booms.'),
 	(79,'Understanding Tsunamis','DiscoverySchool.com','http%3A%2F%2Fschool.discoveryeducation.com%2Fteachers%2Ftsunami%2F','learn about tsunamis with a model'),
 	(461,'Plate Tectonics','The Geological Society - UK','http%3A%2F%2Fwww.geolsoc.org.uk%2FPlate-Tectonics','Interactive tutorial with easy-to-understand images and some multi-media.'),
-	(462,'Nepal Earthquake Sequence Educational Slides','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/Nepal_Slides.pdf','(17MB PDF)'),
+	(462,'Nepal Earthquake Sequence Educational Slides','USGS','https://www.usgs.gov/media/files/nepal-2015-earthquake-sequence-educational-slides','(17MB PDF)'),
 	(81,'Wallace Creek Interpretive Trail Guide','USGS & Southern California Earthquake Center (SCEC)','http%3A%2F%2Fwww.scec.org%2Fwallacecreek%2F','Interactive online trail guide to Wallace Creek site on the San Andreas Fault'),
 	(88,'Earth Science Course Notes & Graphics','Univ. of Wisconsin','http%3A%2F%2Fwww.uwgb.edu%2Fdutchs%2F','Professor Steve Dutch\'s excellent online resources for earth sciences with great images for teaching; all the goodies are behind the \"Notes\" links'),
 	(89,'Garlock Fault Fly-Over','JPL/NASA','http%3A%2F%2Fwww.jpl.nasa.gov%2Fsrtm%2Fimages%2Fmovies%2Fgarlock1.mov','Virtual fly-over of the Garlock fault. Will download a .mov file.'),
@@ -3200,7 +3214,7 @@ VALUES
 	(142,'Geology Central','Geology Central','http%3A%2F%2Fhomepage.smc.edu%2Frobinson_richard%2Fgeologycentral.htm','links to resources for Geology and Geophysics'),
 	(144,'Virtual Earthquake Engineering','S. Illinois Univ.','http%3A%2F%2Fwww.ce.siue.edu%2Fearthquake%2F','interactive demonstration of the effects of earthquake retrofitting'),
 	(145,'Geology Animations, Interactive Exercises, and now... Songs!','Univ. of Kentucky','http%3A%2F%2Fwww.as.uky.edu%2Feducational-materials','Animations of geological processes.'),
-	(470,'Coquimbo, Chile M8.3 Educational Slides','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/Coquimbo_Educational_Slides.pdf','Educational slides for the M8.3 Coquimbo, Chile M8.3 earthquake.'),
+	(470,'Coquimbo, Chile M8.3 Educational Slides','USGS','https://www.usgs.gov/media/files/coquimbo-chile-m83-educational-slides','Educational slides for the M8.3 Coquimbo, Chile M8.3 earthquake.'),
 	(147,'Birth of the Himalayas','NOVA','http%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fnova%2Feverest%2Fearth%2Fbirth.html','brief description of the origin of the Himalaya Mountains'),
 	(148,'Faults','Univ. of Leeds','http%3A%2F%2Fwww.see.leeds.ac.uk%2Fstructure%2Ffaults%2F','Photos and graphics of fault types'),
 	(151,'Science Fair Project Ideas','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-fair-project-ideas','specific projects with directions and ideas'),
@@ -3216,15 +3230,16 @@ VALUES
 	(169,'Become an Earthquake Scientist','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/become-an-earthquake-scientist','What does a geophysicist do? What do you need to study in school to become a geophysicist? What are the opportunities?'),
 	(170,'Cool Earthquake Facts','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/cool-earthquake-facts','fascinating earthquake facts'),
 	(435,'Putting Down Roots in Earthquake Country','USGS','https://www.earthquakecountry.org/booklets/','Earthquakes and preparedeness for everyone in California (regional booklets available), Utah, Central U.S., Nevada, Oregon, and Alaska'),
-	(172,'Earthquakes 101 \"Slideshow\" (PDF)','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/EQ101.pdf','PDF format of a complete PowerPoint show for the basics'),
+	(172,'Earthquakes 101 \"Slideshow\" (PDF)','USGS','https://www.usgs.gov/media/files/earthquakes-101-eq101','PDF format of a complete PowerPoint show for the basics'),
 	(174,'Jules Verne Voyager and Jules Verne Voyager, Jr.','UNAVCO','http%3A%2F%2Fjules.unavco.org%2FVoyager%2FEarth','an interactive map tool that enables students and scientists to better understand the relationships between geophysical and geological processes, structures, and measurements with high-precision GPS data. These are Javascript based tools.'),
 	(175,'Global Earthquake Explorer, The','Univ. of South Carolina, IRIS','http%3A%2F%2Fwww.seis.sc.edu%2Fgee%2Fabout.html','easy tool for non-seismologists to retrieve, display and analyze seismic data'),
 	(176,'Theory of the Earth','Caltech','http%3A%2F%2Fauthors.library.caltech.edu%2F25018%2F','online book on the science of earthquakes'),
 	(178,'Seismic Waves','Aspire','http%3A%2F%2Faspire.cosmic-ray.org%2FLabs%2FSeismicWaves%2F','demonstration on different types of seismic waves'),
 	(180,'Earthquakes, MegaQuakes, and the Movies','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquakes-megaquakes-and-movies','discussion about facts versus fantasies'),
-	(182,'Magnitude versus Intensity Lesson (PDF)','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/Mag_vs_Int_Pkg.pdf','classroom lesson to teach the difference between earthquake magnitude and earthquake intensities (8.3MB PDF)'),
-	(185,'Large Plate Puzzle (PDF)','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/LargePlatePuzzle.pdf','cut a large world map into puzzle pieces along plate boundaries, students discuss individually land then for the whole map after the class puts pieces together; simple but powerful, discussion Q/A included'),
-	(187,'Who Dunit? and the Law of Superposition (PDF)','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/WhoDunit.pdf','solve a crime, and then use those same skills to understand the Law of Superposition (older layers of the earth on bottom) with a fun WhoDunit? investigation and then use your skills to solve a geological mystery'),
+	(182,'Magnitude versus Intensity Lesson (PDF)','USGS','https://www.usgs.gov/media/files/magnitude-vs-intensity-lesson','classroom lesson to teach the difference between earthquake magnitude and earthquake intensities (8.3MB PDF)'),
+	(185,'Large Plate Puzzle (PDF)','USGS','https://www.usgs.gov/media/files/large-plate-puzzle','cut a large world map into puzzle pieces along plate boundaries, students discuss individually land then for the whole map after the class puts pieces together; simple but powerful, discussion Q/A included'),
+	(187,'Who Dunit? and the Law of Superposition (PDF)','USGS','https://www.usgs.gov/media/files/who-dunit-and-law-superposition','solve a crime, and then use those same skills to understand the Law of Superposition (older layers of the earth on bottom) with a fun WhoDunit? investigation and then use your skills to solve a geological mystery'),
+	(520,'The Blind Zone of Earthquake Early Warning','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/blind-zone-earthquake-early-warning','A Science for Everyone article: One USGS scientist has sorted through the challenges, the claims, and the data to determine what the possibilities and limitations really are for EEW, and the results may surprise you.\n'),
 	(511,'Animals & Earthquake Prediction','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/animals-earthquake-prediction','Can animals predict earthquakes? Can they sense shaking that humans can\'t. What are the facts about animals and earthquakes?'),
 	(203,'Seismology, Earthquakes, and Earth Structure, An Introduction to','Blackwell Publishing','http://levee.wustl.edu/seismology/book/','online companion to the textbook by Seth Stein and Michael Wysession with electronic versions of all images and access to homework problems and solutions; also includes errata'),
 	(204,'Geophysics Course Resources on the Internet','Univ. of Houston','http%3A%2F%2Fwww.uh.edu%2F%7Ejbutler%2Fanon%2Fanoncoursegeoph.html','list of online course resources for undergraduate and graduate levels'),
@@ -3260,7 +3275,7 @@ VALUES
 	(305,'Earthquake \"Top 10\" Lists','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/lists-maps-and-statistics','Deadly earthquakes, damaging EQs, EQ density maps, world and US statistics, historical EQ lists, largest EQ lists, last EQ in..., significant EQ catalogs, seismicity maps of the world and US.'),
 	(307,'Can It Happen Here?','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/can-it-happen-here','Could a large damaging tsunami happen in the United States?'),
 	(311,'Tsunami: The Great Waves','International Tsunami Information Center','http%3A%2F%2Fitic.ioc-unesco.org%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1169%26Itemid%3D2017','Basic information about the basics of tsunamis.'),
-	(313,'Uncovering the San Andreas Fault (PDF)','National Park Service','http%3A%2F%2Fwww.nps.gov%2Fpore%2Fforteachers%2Fupload%2Fcurriculum_geology.pdf','Earthquake Trail: What Makes the Geology of Point Reyes National Seashore So Special?'),
+	(313,'Uncovering the San Andreas Fault (PDF)','National Park Service','https://www.nps.gov/pore/forteachers/upload/curriculum_geology.pdf','Earthquake Trail: What Makes the Geology of Point Reyes National Seashore So Special?'),
 	(320,'Tracing earthquakes: seismology in the classroom','Science in School','http%3A%2F%2Fwww.scienceinschool.org%2F2006%2Fissue1%2Fearthquakes%2F','Reconstructing an ancient Chinese seismograph, a simple wave machine, and investigating earthquake-proof buildings.'),
 	(318,'Living in Earthquake Country: A Teaching Box','DLESE','http%3A%2F%2Fwww.teachingboxes.org%2Fearthquakes%2F','7 lessons with the goal of teaching students about how and why earthquakes cause damage. Explores seismic waves, the ability of scientists to predict the likelihood and severity of earthquakes at specific locations, the difference between magnitude and intensity, the occurrence of earthquakes along patches of planar faults, and the potential damage caused by earthquakes such as landslides, liquefaction, or structural failure.'),
 	(513,'What if the ShakeAlert Earthquake Early Warning System Had Been Operating During the M6.9 1989 Loma Prieta Earthquake?','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/what-if-shakealert-earthquake-early-warning-system-had','How will ShakeAlert® likely perform now on a large earthquake impacting a major urban area? How much warning will you get? To answer this, lets do a thought experiment... '),
@@ -3310,13 +3325,13 @@ VALUES
 	(418,'International Tsunami Information Centre','ITIC','http%3A%2F%2Fitic.ioc-unesco.org%2F','General and technical information, maps, and links to warning centers.'),
 	(420,'Tsunami Education','NOAA','http%3A%2F%2Fwww.tsunami.noaa.gov%2Feducation.html','Links to educational materials, warning centers.'),
 	(423,'Earthquake and Tsunami Preparedness','City of Seaside, Oregon','http%3A%2F%2Fwww.cityofseaside.us%2Femergency-preparedness%2Fearthquake-and-tsunami-preparedness','Focus on Seaside, OR, but useful for anyone within a tsunami risk zone.'),
-	(426,'Chile M7.0 January 12, 2010 and M8.8 February 27, 2010 Educational Slides','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/Haiti-Chile.Slides.pdf','Details on the rupture of the two earthquakes, the shaking distribution, aftershock zone, estimated fatality numbers, and comparisons between the two.'),
+	(426,'Chile M7.0 January 12, 2010 and M8.8 February 27, 2010 Educational Slides','USGS','https://www.usgs.gov/media/files/chile-m88-earthquake','Details on the rupture of the two earthquakes, the shaking distribution, aftershock zone, estimated fatality numbers, and comparisons between the two.'),
 	(433,'Tsunami','Woods Hole','http%3A%2F%2Fwww.whoi.edu%2Fhome%2Finteractive%2Ftsunami%2F','Interactive presentation covering the science of tsunamis, preparedness, research, and historical tsunamis.'),
 	(434,'InsideDisaster - The Haiti Earthquake','PTV Productions','http%3A%2F%2Finsidedisaster.com%2Fhaiti%2F','wholistic view of the effects and response to the Haiti earthquake, both scientific and societal'),
-	(436,'Darfield, New Zealand Earthquake (09/03/2010) and its Aftershocks, Including the 02/21/2011 Christchurch Event Educational Slides','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/NewZealand2011_slides.pdf','Educational slideset for the 09/03/2010 Darfield, New Zealand Earthquake and its Aftershocks, Including the 02/21/2011 Christchurch Event.'),
-	(438,'Tohoku, Japan 2011 M9.0 Educational Slides','USGS','https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/Tohoku2011.pdf','Educational slides for the 2011 Tohoku,Japan M9.0 Earthquake.'),
+	(436,'Darfield, New Zealand Earthquake (09/03/2010) and its Aftershocks, Including the 02/21/2011 Christchurch Event Educational Slides','USGS','https://www.usgs.gov/media/files/darfield-new-zealand-earthquake-and-aftershocks','Educational slideset for the 09/03/2010 Darfield, New Zealand Earthquake and its Aftershocks, Including the 02/21/2011 Christchurch Event.'),
+	(438,'Tohoku, Japan 2011 M9.0 Educational Slides','USGS','https://www.usgs.gov/media/files/tohoku-japan-2011-m90-educational-slides','Educational slides for the 2011 Tohoku,Japan M9.0 Earthquake.'),
 	(464,'New Madrid Seismic Zone','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/new-madrid-seismic-zone','A collection of information about the region, the historical seismicity, and the hazards.'),
-	(449,'Pillowcase Project, The','American Red Cross','http%3A%2F%2Fymiclassroom.com%2Fwp-content%2Fuploads%2F2013%2F09%2Fpp_presentersguide.pdf','The Pillowcase Project is designed for use with 3rd \r\ngraders, age 8-9. The program has been reviewed by \r\n3rd grade teachers and tailored to 3rd grade reading \r\nskills and learning abilities. The program may be \r\nadapted for use with students in 2nd and 4th grade.'),
+	(449,'Pillowcase Project, The (PDF)','American Red Cross','http%3A%2F%2Fymiclassroom.com%2Fwp-content%2Fuploads%2F2013%2F09%2Fpp_presentersguide.pdf','The Pillowcase Project is designed for use with 3rd \r\ngraders, age 8-9. The program has been reviewed by \r\n3rd grade teachers and tailored to 3rd grade reading \r\nskills and learning abilities. The program may be \r\nadapted for use with students in 2nd and 4th grade.'),
 	(453,'Earthquakes','The Geological Society','http%3A%2F%2Fwww.geolsoc.org.uk%2Fen%2FEducation%2520and%2520Careers%2FResources%2FSupporting%2520Materials%2FEarthquakes','PodCasts, presentations and fact sheets on the basics of earthquakes.'),
 	(454,'Earthquakes','British Geological Survey','http%3A%2F%2Fwww.bgs.ac.uk%2FdiscoveringGeology%2Fhazards%2Fearthquakes%2Fhome.html','Information on the basics of earthquakes.'),
 	(455,'Science Education Resource Center (SERC)','Carleton College','http%3A%2F%2Fserc.carleton.edu%2F','Whether you\'re an undergraduate faculty member or a K-12 science teacher our suite of partner projects have materials you can use today. Connect with a community of peers as they share what really works in their classrooms.'),
@@ -3325,7 +3340,7 @@ VALUES
 	(458,'IRIS Education Resources','IRIS - Incorporated Research Institutes for Seismology','http%3A%2F%2Fwww.iris.edu%2Fhq%2F','A multitude of educational resources for earthquake science, from visualizations and animations, to lessons and educational software. Awesome!'),
 	(478,'Earthquake Science Timeline','USGS','/education/eqsci-history/eqscience-timeline.php','A timeline showing the evolution of earthquake science and seismometers through the ages to present.'),
 	(479,'How Seismic Waves Affect Different Size Buildings','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/how-seismic-waves-affect-different-size-buildings','Houses and short buildings shake differently than tall buildings.'),
-	(480,'How You Can Strengthen Your Home','Centers for Disease Control','http://mitigation.eeri.org/files/BAS-How-You-Can-Strengthen-Your-Home.pdf','Actions you can take to prepare your home for the shaking from an earthquake.'),
+	(480,'How You Can Strengthen Your Home (PDF)','Centers for Disease Control','http://mitigation.eeri.org/files/BAS-How-You-Can-Strengthen-Your-Home.pdf','Actions you can take to prepare your home for the shaking from an earthquake.'),
 	(481,'Disaster Preparedness for Your Pet','Centers for Disease Control','https://www.cdc.gov/features/petsanddisasters/','Be prepared: make a plan and prepare a disaster kit for your pet.'),
 	(1,'The Great Kanto Earthquake of 1923','Univ. of Hong Kong','http://www.greatkantoearthquake.com/','An historial perspective from a history professor.'),
 	(2,'National Tsunami Hazard Mitigation Program','National Weather Service','http://nws.weather.gov/nthmp/tsunamisafety.html','Factsheet and brochure on tsunami awareness and safety.'),
