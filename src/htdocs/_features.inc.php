@@ -18,8 +18,8 @@ $EQ_FEATURES->items[] = array(
   'content' => 'One USGS scientist has sorted through the challenges, the claims, and the data to determine what the possibilities and limitations really are for EEW, and the results may surprise you... a new Science for Everyone article.',
   'link' => 'https://www.usgs.gov/natural-hazards/earthquake-hazards/science/blind-zone-earthquake-early-warning',
   'modified' => strtotime('2020-06-01'),
-  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/scieve-eewblind-Northride.png',
-  'image' => 'https://earthquake.usgs.gov/images-featured/scieve-eewblind-Northride.png'
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/scieve-eewblind-Northridge.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/scieve-eewblind-Northridge.png'
 );
 
 $EQ_FEATURES->items[] = array(
