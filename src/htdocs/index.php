@@ -132,11 +132,10 @@ if (!isset($TEMPLATE)) {
             <li class="sections-listitem">
               <a href="/data/">
                 <img class="sections-img" src="/images-home/home-data150x150.jpg" alt="Data section thumbnail" />
-                <h2>Data &amp; Products</h2>
+                <h2>Data</h2>
               </a>
                 <p>
-                  Monitoring, station, and other various seismic data available for
-                  download. Data products to view and download.
+                  Monitoring, station, and other various seismic data available for download.
                 </p>
             </li>
           </ul>
