@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2020-06-01 18:04:03 +0000
+# Generation Time: 2020-06-05 18:57:03 +0000
 # ************************************************************
 
 
@@ -3338,7 +3338,7 @@ VALUES
 	(456,'Digital Library for Earth Science Education','DLESE','http%3A%2F%2Fwww.dlese.org%2Flibrary%2F','Searchable database of educational earth science resources for all grade levels.'),
 	(457,'EarthScope Resources for Students & Teachers','EarthScope','http%3A%2F%2Fwww.earthscope.org%2Fresources%2Fstudents','Animations, online lectures, visualizations and more, mostly from IRIS.'),
 	(458,'IRIS Education Resources','IRIS - Incorporated Research Institutes for Seismology','http%3A%2F%2Fwww.iris.edu%2Fhq%2F','A multitude of educational resources for earthquake science, from visualizations and animations, to lessons and educational software. Awesome!'),
-	(478,'Earthquake Science Timeline','USGS','/education/eqsci-history/eqscience-timeline.php','A timeline showing the evolution of earthquake science and seismometers through the ages to present.'),
+	(478,'Earthquake Science Timeline','USGS','/education/eqscience-timeline.php','A timeline showing the evolution of earthquake science and seismometers through the ages to present.'),
 	(479,'How Seismic Waves Affect Different Size Buildings','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/how-seismic-waves-affect-different-size-buildings','Houses and short buildings shake differently than tall buildings.'),
 	(480,'How You Can Strengthen Your Home (PDF)','Centers for Disease Control','http://mitigation.eeri.org/files/BAS-How-You-Can-Strengthen-Your-Home.pdf','Actions you can take to prepare your home for the shaking from an earthquake.'),
 	(481,'Disaster Preparedness for Your Pet','Centers for Disease Control','https://www.cdc.gov/features/petsanddisasters/','Be prepared: make a plan and prepare a disaster kit for your pet.'),
