@@ -121,7 +121,7 @@
 
   <li class="day">
     <div class="events">
-      <p>Strike-slip offset is observed after <a href="/earthquakes/events/1857sca/">M7.9 Fort Tejon, California earthquake</a> on January 9. After an earthquake on December 16 in the Kingdom of Naples,  Robert Mallet, an Irish engineer, coins the term “seismology” during his field investigation of the earthquake.</p>
+      <p>Strike-slip offset is observed after <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/great-m79-1857-fort-tejon-earthquake">M7.9 Fort Tejon, California earthquake</a> on January 9. After an earthquake on December 16 in the Kingdom of Naples,  Robert Mallet, an Irish engineer, coins the term “seismology” during his field investigation of the earthquake.</p>
       <div class="date">1857</div>
     </div>
   </li>
@@ -320,7 +320,7 @@
 
   <li class="day">
     <div class="events">
-      <p>Henry Fielding Reid proposes the <a href="/learn/animations/elasticrebound.php">elastic rebound</a> hypothesis to explain how earthquakes release accumulated energy when the fault slips, driven by plate tectonics. New instruments are installed at Berkeley.</p>
+      <p>Henry Fielding Reid proposes the <a href="https://www.usgs.gov/media/videos/elastic-rebound">elastic rebound</a> hypothesis to explain how earthquakes release accumulated energy when the fault slips, driven by plate tectonics. New instruments are installed at Berkeley.</p>
       <div class="date">1910</div>
     </div>
   </li>
@@ -642,7 +642,7 @@
 
   <li class="day">
     <div class="events">
-      <p>The <a href="/monitoring/gsn/">Global Seismographic Network (GSN)</a> of broadband seismic stations is initiated with the founding of IRIS (Incorporated Research Institutes for Seismology). This network replaces the older WWSSN stations.</p>
+      <p>The <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/gsn-global-seismographic-network">Global Seismographic Network (GSN)</a> of broadband seismic stations is initiated with the founding of IRIS (Incorporated Research Institutes for Seismology). This network replaces the older WWSSN stations.</p>
       <div class="date">1984</div>
     </div>
   </li>
@@ -656,7 +656,7 @@
 
   <li class="day">
     <div class="events">
-      <p><a href="/earthquakes/events/1989lomaprieta/">M6.9 Loma Prieta, California earthquake</a> on October 17 causes $10.7 billion in losses.</p>
+      <p><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/m-69-october-17-1989-loma-prieta-earthquake">M6.9 Loma Prieta, California earthquake</a> on October 17 causes $10.7 billion in losses.</p>
       <div class="date">1989</div>
     </div>
   </li>
@@ -717,14 +717,14 @@
 
   <li class="day">
     <div class="events">
-      <p>The <a href="/contactus/golden/neic.php">National Earthquake Information Center (NEIC)</a> becomes a 24x7 operation.</p>
+      <p>The <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/national-earthquake-information-center-neic">National Earthquake Information Center (NEIC)</a> becomes a 24x7 operation.</p>
       <div class="date">2005</div>
     </div>
   </li>
 
   <li class="day">
     <div class="events">
-      <p>The <a href="/monitoring/anss/">Advanced National Seismic System (ANSS)</a> network completes installment of 100th station.</p>
+      <p>The <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/anss-advanced-national-seismic-system">Advanced National Seismic System (ANSS)</a> network completes installment of 100th station.</p>
       <div class="date">2006</div>
     </div>
   </li>
