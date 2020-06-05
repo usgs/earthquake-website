@@ -109,29 +109,8 @@
         <img src="images/geodetic.jpg" width="75" alt=""/>
       </figure>
       <h3 id="geod">Geodetic Data</h3>
-
-      <p>
-        Currently to make geodetic observations the USGS uses the Global Positioning System (GPS) and also other techniques.
-        (<a href="/monitoring/deformation/data/instruments.php">creepmeters, tiltmeters, strainmeters, magnetometers, pore pressure monitors</a>).
-      </p>
       <ul>
-        <li><a href="/monitoring/deformation/data/">Crustal Deformation Data</a> </li>
-        <li><a href="/monitoring/deformation/data/plots.php">Crustal Deformation Data Plots</a></li>
-        <li><a href="http://www.ncedc.org/survey-gps/">Unprocessed USGS Campaign GPS data and Bay Area Continuous GPS data (raw and RINEX)</a> at NCEDC</li>
-        <li><a href="http://garner.ucsd.edu/">Unprocessed USGS Southern California Continuous GPS data (raw and RINEX)</a> at SOPAC</li>
-        <li><a href="/monitoring/gps/">USGS GPS Time Series and Station Velocities</a></li>
-        <li>Real-time GPS Positions:
-        <ul>
-          <li><a href="https://escweb.wr.usgs.gov/share/highrate-gps/">San Francisco Bay Area</a></li>
-          <li><a href="http://www.scign.org/realtime/">Southern California</a></li>
-        </ul>
-        </li>
-        <li>USGS once used Electronic Distance Measurement (EDM) with two different instruments:
-        <ul>
-          <li><a href="/monitoring/deformation/geodolite/">Geodolite (1970 to 1992)</a></li>
-          <li><a href="/monitoring/deformation/edm/">Two Color EDM (1984 to 2005)</a></li>
-        </ul>
-        </li>
+        <li><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/crustal-deformation-monitoring">Geodetic Data</a> </li>
       </ul>
     </div>
 
@@ -181,11 +160,10 @@
         <img src="images/hazards.jpg" width="75" alt=""/>
       </figure>
       <h3 id="model">Hazard Assessment Data and Models</h3>
-
       <ul>
-        <li><a href="/hazards/foreign.php">International Hazard Map Data</a></li>
-        <li><a href="/hazards/hazmaps/">National Hazard Map Data</a></li>
-        <li><a href="/hazards/urban/">Urban Hazard Map Data</a></li>
+        <li>
+          <a href="/hazards/">International, National, and Urban Hazard Map Data</a>
+        </li>
       </ul>
       <ul>
         <li><a href="/hazards/urban/sfbay/soiltype/">Soil Type and Shaking Hazard in the San Francisco Bay Area</a></li>
@@ -196,6 +174,7 @@
        <h4>Faults and Folds</h4>
 
       <ul>
+        <li><a href="/hazards/qfaults/">National Quaternary Fault &amp; Fold Interactive Map and Database</a></li>
         <li><a href="NoCal_GeoES_LiDAR_hs.kmz">Northern California LiDAR Hillshades (KMZ)</a></li>
         <li>LiDAR databases:
         <ul>
@@ -211,7 +190,6 @@
         <li><a href="https://pubs.er.usgs.gov/publication/ds541">Recently active traces of the Bartlett Springs Fault, California: a digital database</a></li>
         </ul>
         </li>
-        <li><a href="/hazards/qfaults/">National Quaternary Fault &amp; Fold Database and Maps</a></li>
       </ul>
 
       <h4>Geologic and Seismic Models</h4>
