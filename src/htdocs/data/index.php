@@ -143,16 +143,9 @@
       <ul>
         <li><a href="/hazards/qfaults/">National Quaternary Fault &amp; Fold Interactive Map and Database</a></li>
         <li><a href="NoCal_GeoES_LiDAR_hs.kmz">Northern California LiDAR Hillshades (KMZ)</a></li>
-        <li>Quaternary Fault Maps (publications):
-        <ul>
-        <li><a href="https://pubs.usgs.gov/ds/2006/177/">Digital database of recently active traces of the Hayward Fault, California</a></li>
-        <li><a href="https://pubs.er.usgs.gov/publication/ds541">Recently active traces of the Bartlett Springs Fault, California: a digital database</a></li>
-        </ul>
-        </li>
       </ul>
 
       <h4>Geologic and Seismic Models</h4>
-
       <ul>
         <li><a href="slab/">Slab Models for Subduction Zones</a></li>
         <li><a href="/data/cus_seisvelmodel/">Central US Seismic Velocity Model and M7.7 Simulation</a></li>
