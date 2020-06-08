@@ -105,7 +105,6 @@
       <h3 id="earth">Earth Structure and Site Response</h3>
 
       <ul>
-        <li><a href="crust/database.php">Global Crustal Database</a></li>
         <li><a href="vs30/">Vs30 Data</a></li>
         <li><a href="/research/cpt/">Cone Penetration Testing (CPT) Data</a></li>
         <li><a href="https://www.sciencebase.gov/catalog/item/57c8269fe4b0f2f0cec02347?community=Geologic+Hazards+Science+Center">Vibroseis Seismic Reflection Data</a></li>
@@ -120,11 +119,9 @@
 
       <p>The data obtained from active source studies are archived at <a href="http://ds.iris.edu/ds/nodes/dmc/data/types/waveform-data/">IRIS</a> and/or at the <a href="https://www.ngdc.noaa.gov/">National Geophysical Data Center</a>.  USGS also provides access to certain data sets.</p>
       <ul>
-        <li><a href="/learn/photos/">Photographs Showing Ground Failure and Earthquake Damage</a></li>
         <li>Landslide hazard maps:
         <ul>
           <li><a href="https://landslides.usgs.gov/hazards/nationalmap/">Landslide Overview Map of the Conterminous United States</a></li>
-          <li><a href="https://maps.conservation.ca.gov/geologichazards/">California Dept. of Conservation Interactive Geologic Hazards Map</a></li>
       </ul>
         </li>
         <li><a href="https://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">GEOS earthquake and aftershock data</a></li>
@@ -146,7 +143,6 @@
       <ul>
         <li><a href="/hazards/qfaults/">National Quaternary Fault &amp; Fold Interactive Map and Database</a></li>
         <li><a href="NoCal_GeoES_LiDAR_hs.kmz">Northern California LiDAR Hillshades (KMZ)</a></li>
-        <li><a href="https://geomaps.wr.usgs.gov/sfgeo/geologic/">San Francisco Bay Region Geology and Geological Hazards</a> (maps)</li>
         <li>Quaternary Fault Maps (publications):
         <ul>
         <li><a href="https://pubs.usgs.gov/ds/2006/177/">Digital database of recently active traces of the Hayward Fault, California</a></li>
@@ -190,7 +186,7 @@
         <li><a href="https://www.ngdc.noaa.gov/hazard/earthqk.shtml">NOAA Earthquake Data and Information</a></li>
         <li><a href="http://www.isc.ac.uk/">ISC-International Seismological Centre</a></li>
         <li><a href="http://www.unavco.org/">UNAVCO</a></li>
-        <li><a href="http://www.conservation.ca.gov/cgs/">CGS-California Geological Survey</a></li>
+        <li><a href="https://maps.conservation.ca.gov/geologichazards/">California Dept. of Conservation Interactive Geologic Hazards Map</a></li>
         <li><a href="https://www.globalquakemodel.org/">GEM-Global Earthquake Model</a></li>
         <li><a href="http://www.emdat.be/">EM-DAT: The International Disaster Database</a></li>
         <li><a href="http://equake-rc.info/SRCMOD/">Finite-Source Rupture Model Database</a> - eQuake-RC</li>
