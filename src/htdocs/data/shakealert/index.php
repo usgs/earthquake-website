@@ -1,9 +1,9 @@
 <?php
 // Author: Lisa Wald
-// Contact: Bob De Groot
+// Contact: Bob DeGroot
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'ShakeAlert&reg;;';
+  $TITLE = 'ShakeAlert&reg;';
   $NAVIGATION = true;
   $HEAD = '
     <link rel="stylesheet" href="/lib/earthquake-list-widget-1.0.1/earthquake-list-widget.css"/>
