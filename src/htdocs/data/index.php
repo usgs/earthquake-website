@@ -124,7 +124,6 @@
           <li><a href="https://landslides.usgs.gov/hazards/nationalmap/">Landslide Overview Map of the Conterminous United States</a></li>
       </ul>
         </li>
-        <li><a href="https://escweb.wr.usgs.gov/nsmp-data/GEOS/geos.html">GEOS earthquake and aftershock data</a></li>
       </ul>
     </div>
 
@@ -142,14 +141,12 @@
        <h4>Faults and Folds</h4>
       <ul>
         <li><a href="/hazards/qfaults/">National Quaternary Fault &amp; Fold Interactive Map and Database</a></li>
-        <li><a href="NoCal_GeoES_LiDAR_hs.kmz">Northern California LiDAR Hillshades (KMZ)</a></li>
       </ul>
 
       <h4>Geologic and Seismic Models</h4>
       <ul>
         <li><a href="slab/">Slab Models for Subduction Zones</a></li>
         <li><a href="/data/cus_seisvelmodel/">Central US Seismic Velocity Model and M7.7 Simulation</a></li>
-        <li><a href="3dgeologic/">3D Geologic and Seismic Velocity Models of the San Francisco Bay Region</a></li>
       </ul>
     </div>
 
