@@ -16,7 +16,7 @@ if (!isset($TEMPLATE)) {
   <strong>The URL <i>https://earthquake.usgs.gov/</i> will continue to bring you to the EHP homepage, and near-realtime earthquake information will continue to be available at the same URL as always.</strong>
 </p>
 
-<h3>Status as of May 22, 2020</h3>
+<h3>Status as of June 9, 2020</h3>
 <ul>
   <li>
     <strong>About Us</strong> moved to <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/about">https://www.usgs.gov/natural-hazards/earthquake-hazards/about</a>
@@ -42,8 +42,11 @@ if (!isset($TEMPLATE)) {
   <li>
     <strong>Hazards</strong> moved to <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/hazards">https://www.usgs.gov/natural-hazards/earthquake-hazards/hazards</a>
   </li>
+  <li>
+    <strong>Software</strong> moved to <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/software>">https://www.usgs.gov/natural-hazards/earthquake-hazards/software</a>
+  </li>
 </ul>
 
 <p>
-  The <strong>Data & Products</strong> section will move next, and will be the last major section to move.
+  The <strong>Data</strong> section is almost complete and will be the last major section to move.
 </p>
