@@ -8,7 +8,6 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<p>May, 2020</p>
 <p>
   Most of the Earthquake Hazards Program (EHP) website has moved to the new content management system (CMS) framework under the USGS website. The new landing page is at the URL <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards">https://www.usgs.gov/natural-hazards/earthquake-hazards</a>.
 </p>

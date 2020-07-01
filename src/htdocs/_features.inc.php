@@ -13,6 +13,16 @@ $EQ_FEATURES->baseUrl = '';
 
 
 $EQ_FEATURES->items[] = array(
+  'id' => '2020-07-01',
+  'title' => 'Geomagnetic Storms Could Be Recorded at Alaska Seismic Stations',
+  'content' => 'Adding relatively inexpensive magnetometers to seismic stations across Alaska could help track geomagnetic storms as well as improve the performance of the seismometers. (SSA News Release)',
+  'link' => 'https://www.seismosoc.org/news/geomagnetic-storms-could-be-recorded-at-alaska-seismic-stations/',
+  'modified' => strtotime('2020-07-01'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/COLA.jpg',
+  'image' => 'https://earthquake.usgs.gov/images-featured/COLA.jpg'
+);
+
+$EQ_FEATURES->items[] = array(
   'id' => '2020-06-01',
   'title' => 'The Blind Zone of Earthquake Early Warning',
   'content' => 'One USGS scientist has sorted through the challenges, the claims, and the data to determine what the possibilities and limitations really are for EEW, and the results may surprise you... a new Science for Everyone article.',
