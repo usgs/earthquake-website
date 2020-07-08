@@ -15,7 +15,7 @@ if  (!isset($TEMPLATE))  {
   </figcaption>
 </figure>
 <p>
-  This great earthquake and ensuing tsunami took 131 lives (tsunami 122,
+  This earthquake and ensuing tsunami took 131 lives (tsunami 122,
   earthquake 9), and caused about $2.3 billion in property loss (in 2013 dollars; equivalent to $311 million in 1964).
   Earthquake effects were heavy in many towns,
   including Anchorage, Chitina, Glennallen, Homer,
@@ -84,7 +84,7 @@ if  (!isset($TEMPLATE))  {
   and Puerto Rico.
 </p>
 <p>
-  This great earthquake was felt over a large area of
+  This earthquake was felt over a large area of
   Alaska and in parts of western Yukon Territory and
   British Columbia, Canada.
 </p>
