@@ -105,7 +105,7 @@ if (!isset($TEMPLATE)) {
       </li>
 
       <li>
-        <a href="/research/software/shakecast.php">
+        <a href="https://www.usgs.gov/software/shakecast">
           <h4>ShakeCast</h4>
           <img src="images/shakecast-2x.jpg" alt="" width="75"/></a>
         <p>
