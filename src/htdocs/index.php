@@ -24,7 +24,7 @@ if (!isset($TEMPLATE)) {
   <div class="column one-of-two">
 
     <!-- Latest EQs and Significant EQs List -->
-    <a href="earthquakes/map/"><h2>Latest Earthquakes</h2>-new interface! (7/27/20)</a>
+    <a href="earthquakes/map/"><h2>Latest Earthquakes - new interface!</h2></a>
     <p class='alert'>
       <a href="earthquakes/map/">
         <img class='nehrp' src="images-home/latesteqs-ANSSlogo-300.gif" width="150" alt="ANSS logo"/>
