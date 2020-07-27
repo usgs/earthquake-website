@@ -24,9 +24,8 @@ if (!isset($TEMPLATE)) {
   <div class="column one-of-two">
 
     <!-- Latest EQs and Significant EQs List -->
-    <a href="earthquakes/map/"><h2>Latest Earthquakes</h2></a>
+    <a href="earthquakes/map/"><h2>Latest Earthquakes</h2>-new interface! (7/27/20)</a>
     <p class='alert'>
-      <a href="/beta/map/">Check out our Beta version</a> - Try the desktop notifications for your computer and try installing it on your phone and let us know what you think! <br/><br/>
       <a href="earthquakes/map/">
         <img class='nehrp' src="images-home/latesteqs-ANSSlogo-300.gif" width="150" alt="ANSS logo"/>
       </a>
