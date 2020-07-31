@@ -103,26 +103,6 @@
   </li>
   <li id="2">Data Access
     <ul>
-      <li><a href="latest-eqs.php">Latest Earthquakes</a>
-        <ul>
-          <li><a href="latest-eqs.php#interface">Interface</a></li>
-          <li><a href="latest-eqs.php#list">List</a>
-            <ul>
-              <li><a href="latest-eqs.php#downloads">Downloads</a></li>
-            </ul>
-          </li>
-          <li><a href="latest-eqs.php#map">Map</a></li>
-          <li><a href="latest-eqs.php#map-layers">Map Layers</a></li>
-          <li><a href="latest-eqs.php#settings">Settings</a></li>
-          <li><a href="latest-eqs.php#search">Search Earthquake Archives</a></li>
-          <li><a href="latest-eqs.php#print">How to Print</a></li>
-          <li><a href="latest-eqs.php#browser-support">Browser Support</a></li>
-          <li><a href="latest-eqs.php#bugs">Known Bugs</a></li>
-          <li><a href="latest-eqs.php#disclaimer">Disclaimer</a></li>
-          <li><a href="https://github.com/usgs/earthquake-latest-earthquakes">Web Application for Latest Earthquakes Interface</a> (GitHub)</li>
-          <li><a href="https://github.com/usgs/earthquake-eventpages">Web Application for Displaying Event Pages</a> (GitHub)</li>
-        </ul>
-      </li>
       <li>Real-time Notifications
         <ul>
           <li><a href="/ens/help/">ENS - Earthquake Notification Service</a></li>
