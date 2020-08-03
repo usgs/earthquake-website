@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2020-06-05 18:57:03 +0000
+# Generation Time: 2020-08-03 20:58:35 +0000
 # ************************************************************
 
 
@@ -1406,7 +1406,8 @@ VALUES
 	(518,8),
 	(519,7),
 	(519,9),
-	(520,9);
+	(520,9),
+	(521,9);
 
 /*!40000 ALTER TABLE `learn_LinkContent` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2045,7 +2046,10 @@ VALUES
 	(519,9),
 	(520,10),
 	(520,11),
-	(520,13);
+	(520,13),
+	(521,10),
+	(521,11),
+	(521,13);
 
 /*!40000 ALTER TABLE `learn_LinkLevel` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -2226,7 +2230,9 @@ VALUES
 	(520,25),
 	(520,42),
 	(520,44),
-	(520,45);
+	(520,45),
+	(521,39),
+	(521,45);
 
 /*!40000 ALTER TABLE `learn_LinkRegion` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3120,7 +3126,8 @@ VALUES
 	(519,49),
 	(520,25),
 	(520,82),
-	(520,60);
+	(520,60),
+	(521,55);
 
 /*!40000 ALTER TABLE `learn_LinkTopic` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3378,7 +3385,8 @@ VALUES
 	(516,'Geologic Cracks Record Earthquakes on the Reelfoot Fault in Central U.S.','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/geologic-cracks-record-earthquakes-reelfoot-fault-central','New high-resolution lidar data reveals cracks produced from strong shaking in past earthquakes in the New Madrid seismic zone.'),
 	(517,'Preserving Historic Earthquake Records and Photos of the Instruments that Recorded Them','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/preserving-historic-earthquake-records-and-photos','A project to scan a small selection of the film chips of historical earthquake recordings to digital files was started in 1996. In addition to archiving historic data from the early years, the USGS has also worked to archive photos and descriptions of early seismometers.'),
 	(518,'Streetcar 2 Subduction','AGU (American Geophysical Union)','https://www.agu.org/learn-and-develop/learn/streetcar2subduction/streetcar2subduction','a collection of geological field trips that take users to some of the world-class geological sites of the San Francisco Bay Area. In 1979, Clyde Wahrhaftig created a geology tour of the San Francisco Bay Area, which was updated and published by AGU as A Streetcar to Subduction and Other Plate Tectonic Trips by Public Transport in San Francisco in 1984. Forty years later, as part of AGUs Centennial, the Streetcar tours have been revised, with new trips added, and old exposures that have vanished removed, taking what once was a print book and turning it into a digital experience through Google Earth.'),
-	(519,'Seismicity of the Earth 19002018 Map/Poster','USGS','https://pubs.er.usgs.gov/publication/sim3446','Poster-sized map illustrating 119 years of global seismicity in the context of global plate tectonics and the Earths physiography. Primarily designed for use by earth scientists, engineers, and educators, this map provides a comprehensive overview of strong (magnitude [M] 5.5 and larger) earthquakes since 1900.');
+	(519,'Seismicity of the Earth 19002018 Map/Poster','USGS','https://pubs.er.usgs.gov/publication/sim3446','Poster-sized map illustrating 119 years of global seismicity in the context of global plate tectonics and the Earths physiography. Primarily designed for use by earth scientists, engineers, and educators, this map provides a comprehensive overview of strong (magnitude [M] 5.5 and larger) earthquakes since 1900.'),
+	(521,'Auroras and Earthquakes: Strange Companions','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/auroras-and-earthquakes-strange-companions','A Science for Everyone article: In a win-win situation for both seismologists and space physicists, a cheap magnetometer at a seismic station can result in better seismic data for earthquakes and also more geomagnetic data in real time for monitoring space weather.');
 
 /*!40000 ALTER TABLE `learn_Main` ENABLE KEYS */;
 UNLOCK TABLES;
