@@ -106,7 +106,6 @@
             Explanations for all the aftershock forecast information associated with a particular earthquake.
           </p>
         </li>
-
         <li>
           <a href="background.php">
             <h4>Aftershock Forecast Scientific Background</h4>
@@ -116,5 +115,15 @@
             Read the technical details about how the forecasts are calculated.
           </p>
         </li>
+        <li>
+          <a href="schedule.php">
+            <h4>Automatic Forecast Update Schedule</h4>
+            <img src="images/calendar.png" alt="" width="75"/>
+          </a>
+          <p>
+            View the schedule for automatic forecast updates.
+          </p>
+        </li>
+
       </ul>
     </div>
