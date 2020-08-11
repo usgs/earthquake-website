@@ -15,7 +15,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <div class="alert info">
-  <h3><a href="moving.php">The Earthquake Hazards Program website is moving.</a></h3>
+  <h3><a href="https://www.usgs.gov/center-news/earthquake-forecast-salton-sea-swarm-august-2020">Earthquake Forecast for the Salton Sea Swarm of August 2020</a></h3>
 </div>
 
 <div class="row right-to-left">
