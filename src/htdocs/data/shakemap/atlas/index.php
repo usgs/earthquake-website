@@ -64,7 +64,7 @@ if (!isset($TEMPLATE)) {
       </div>
     </div>
 
-    <p><a href="http://earthquake.usgs.gov/earthquakes/map/#%7B%22feed%22%3A%221581370083650%22%2C%22sort%22%3A%22newest%22%2C%22basemap%22%3A%22grayscale%22%2C%22restrictListToMap%22%3A%5B%22restrictListToMap%22%5D%2C%22timezone%22%3A%22utc%22%2C%22mapposition%22%3A%5B%5B-85%2C0%5D%2C%5B85%2C360%5D%5D%2C%22overlays%22%3A%5B%22plates%22%5D%2C%22viewModes%22%3A%5B%22list%22%2C%22map%22%5D%2C%22listFormat%22%3A%22shakemap%22%2C%22autoUpdate%22%3Afalse%2C%22search%22%3A%7B%22id%22%3A%221581370083650%22%2C%22name%22%3A%22Search%20Results%22%2C%22isSearch%22%3Atrue%2C%22params%22%3A%7B%22starttime%22%3A%222000-01-01%2000%3A00%3A00%22%2C%22endtime%22%3A%222006-01-01%2000%3A00%3A00%22%2C%22minmagnitude%22%3A2.5%2C%22contributor%22%3A%22atlas%22%2C%22orderby%22%3A%22time%22%2C%22producttype%22%3A%22shakemap%22%7D%7D%7D">View Atlas ShakeMaps from 2000-2005</a></p>
+    <p><a href="/earthquakes/map/?extent=-89.80838,-128.67188&extent=89.80838,489.375&range=search&format=shakemap&listOnlyShown=true&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%222000-01-01%2000:00:00%22,%22endtime%22:%222006-01-01%2000:00:00%22,%22minmagnitude%22:2.5,%22contributor%22:%22atlas%22,%22orderby%22:%22time%22,%22producttype%22:%22shakemap%22%7D%7D">View Atlas ShakeMaps from 2000-2005</a></p>
   </div>
 
   <div class="column one-of-two">
@@ -84,7 +84,7 @@ if (!isset($TEMPLATE)) {
     <p>
       To <strong>download a csv file</strong> of all events in the Atlas using the same catalog search tool. To do so, select “Output Options” -> “Format” -> “CSV” on the search page.
     </p>
-    <p>For example, <a href="http://earthquake.usgs.gov/earthquakes/map/#%7B%22feed%22%3A%221581370083650%22%2C%22sort%22%3A%22newest%22%2C%22basemap%22%3A%22grayscale%22%2C%22restrictListToMap%22%3A%5B%22restrictListToMap%22%5D%2C%22timezone%22%3A%22utc%22%2C%22mapposition%22%3A%5B%5B-85%2C0%5D%2C%5B85%2C360%5D%5D%2C%22overlays%22%3A%5B%22plates%22%5D%2C%22viewModes%22%3A%5B%22list%22%2C%22map%22%5D%2C%22listFormat%22%3A%22shakemap%22%2C%22autoUpdate%22%3Afalse%2C%22search%22%3A%7B%22id%22%3A%221581370083650%22%2C%22name%22%3A%22Search%20Results%22%2C%22isSearch%22%3Atrue%2C%22params%22%3A%7B%22starttime%22%3A%222000-01-01%2000%3A00%3A00%22%2C%22endtime%22%3A%222006-01-01%2000%3A00%3A00%22%2C%22minmagnitude%22%3A2.5%2C%22contributor%22%3A%22atlas%22%2C%22orderby%22%3A%22time%22%2C%22producttype%22%3A%22shakemap%22%7D%7D%7D">view Atlas ShakeMaps from 2000-2005.</a></p>
+    <p>For example, <a href="/earthquakes/map/?extent=-89.80838,-128.67188&extent=89.80838,489.375&range=search&format=shakemap&listOnlyShown=true&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%222000-01-01%2000:00:00%22,%22endtime%22:%222006-01-01%2000:00:00%22,%22minmagnitude%22:2.5,%22contributor%22:%22atlas%22,%22orderby%22:%22time%22,%22producttype%22:%22shakemap%22%7D%7D">view Atlas ShakeMaps from 2000-2005.</a></p>
 
     <h3>2. Libcomcat and Getproducts</h3>
     <p>
