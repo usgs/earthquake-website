@@ -17,7 +17,7 @@ $SITE_COMMONNAV =
   navItem(($SITE_URL), 'Home') .
   navItem('https://www.usgs.gov/natural-hazards/earthquake-hazards/about', 'About Us') .
   navItem('https://www.usgs.gov/natural-hazards/earthquake-hazards/connect', 'Contacts') .
-  navItem('/https://www.usgs.gov/policies-and-notices', 'Legal');
+  navItem('https://www.usgs.gov/policies-and-notices', 'Legal');
 
 $HEAD =
 // site theme, should use a site root-relative URL
