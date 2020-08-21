@@ -1,14 +1,5 @@
 <?php
-  $section = "/data";
 
-  echo "<a href='/data' class='up-one-level'>Data &amp; Products</a>",
-
-  "<section>",
-
-    navItem("${section}/data.php", "Data") .
-    navItem("${section}/products.php", "Products") ,
-
-  "</section>"
-  ;
+  echo "<a href='https://www.usgs.gov/natural-hazards/earthquake-hazards/data-tools' class='up-one-level'>Data, Products &amp; Tools</a>";
 
 ?>
