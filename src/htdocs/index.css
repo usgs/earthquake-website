@@ -62,3 +62,7 @@ img.faq {
   float: left;
   margin-right: 10px;
 }
+
+.gobelow {
+ clear: left;
+}

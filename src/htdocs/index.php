@@ -24,26 +24,20 @@ if (!isset($TEMPLATE)) {
   <div class="column one-of-two">
 
     <!-- Latest EQs and Significant EQs List -->
-    <a href="earthquakes/map/"><h2>Latest Earthquakes - new interface!</h2></a>
-    <p class='alert'>
+    <div class='alert'>
       <a href="earthquakes/map/">
+        <h2>Latest Earthquakes - new interface!</h2>
         <img class='nehrp' src="images-home/latesteqs-ANSSlogo-300.gif" width="150" alt="ANSS logo"/>
       </a>
       <strong>Advanced National Seismic System</strong><br />
       Latest earthquakes map and list (past 24 hours, M2.5+). Tap/click on "gear icon" for options and settings.<br />
-      <ul>
+
+      <ul class="gobelow">
         <li><a href="/data/dyfi/">Did You Feel It? Report it Here!</a></li>
         <li><a href="/ens/">Subscribe to Earthquake Notifications</a></li>
         <li><a href="/data/shakealert">ShakeAlert® Earthquake Early Warning</a></li>
     </ul>
-    </p>
-
-    <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">
-      <img class="faq" src="images/main-faq.gif" width="150" alt="FAQ"/>
-    </a>
-    <p><strong><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">FAQ - Frequently Asked Questions</a></strong><br/>
-       Seriously, check here first.</p>
-
+    </div>
 
     <!-- Significant EQs List -->
     <a href="/earthquakes/map/?extent=-85.34533,45.70313&extent=85.28792,354.72656&range=month&magnitude=significant&baseLayer=terrain&timeZone=utc">
@@ -66,40 +60,29 @@ if (!isset($TEMPLATE)) {
       <a href="earthquakes/search/">Search Earthquake Catalog</a>
     </p>
 
-    <p class='alert'>
-      <img class="nehrp" src="images-home/nehrp.png" alt="NEHRP">
-      The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977, and the USGS <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/anss-advanced-national-seismic-system">Advanced National Seismic System (ANSS)</a> was established by Congress as a NEHRP facility.  The USGS and its partners monitor and report earthquakes, assess earthquake impacts and hazards, and perform research into the causes and effects of earthquakes.
-    </p>
-
-<!-- 1 Day, All Magnitudes List - need to figure out how to do 2 lists
-
-    <div id="all-earthquakes" class="height_scroll" style="overflow:scroll; background:#f4f4f4;">
-
-      <noscript class="error alert">
-        Javascript is used to load event data. If you can not enable Javascript,
-        you can <a href="earthquakes/feed/v1.0/summary/all_day.csv">view
-        the raw data here</a>.
-      </noscript>
-    </div>
--->
-
   </div>
 
 <!-- LEFT COLUMN: WEBSITE SECTIONS and HIGHLIGHTS -->
   <div class="column one-of-two">
 
-    <h2>Highlights</h2>
-    <!-- Featured Items -->
-    <div class='alert'>
-      <?php
-      include_once '_features.inc.php';
-      echo $EQ_FEATURES->toHtml();
-      ?>
+      <!-- Featured Items -->
+      <div class='alert'>
+        <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards">
+          <h2>News and Highlights</h2>
+          <img src="images-featured/seis-earth-1900-2018.png" class="nehrp" width="150" alt="seismicity of the earth map"/>
+        </a>
+        <ul class="no-style">
+          <li><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards">View News and Highlights</a></li>
+          <li><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/news">News and Highlights Archives</a></li>
+        </ul>
+          <p><a href="https://www.usgs.gov/programs/1774/news/feed"><img style="padding-right:12px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe</a></p>
+      </div>
 
-      <p><a href="highlight-archives.php">View Highlight Archives</a></p>
-      <a href="atom.php"><img style="padding-right:16px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe to Earthquake Hazards Program Highlights</a>
-    </div>
-
+          <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">
+      <img class="faq" src="images/main-faq.gif" width="150" alt="FAQ"/>
+    </a>
+    <p><strong><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">FAQ - Frequently Asked Questions</a></strong><br/>
+       Seriously, check here first.</p>
 
     <h2>Explore the Website</h2>
     <!-- 6 Sections of Website -->
@@ -130,7 +113,7 @@ if (!isset($TEMPLATE)) {
           </ul>
           <ul class="sections-list">
             <li class="sections-listitem">
-              <a href="/data/">
+              <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/data-tools">
                 <img class="sections-img" src="/images-home/home-data150x150.jpg" alt="Data section thumbnail" />
                 <h2>Data</h2>
               </a>
@@ -174,6 +157,12 @@ if (!isset($TEMPLATE)) {
                 </p>
             </li>
           </ul>
+
+          <p class='alert'>
+            <img class="nehrp" src="images-home/nehrp.png" alt="NEHRP">
+            The USGS Earthquake Hazards Program is part of the <a href="http://www.nehrp.gov/">National Earthquake Hazards Reduction Program (NEHRP)</a>, established by Congress in 1977, and the USGS <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/anss-advanced-national-seismic-system">Advanced National Seismic System (ANSS)</a> was established by Congress as a NEHRP facility.  The USGS and its partners monitor and report earthquakes, assess earthquake impacts and hazards, and perform research into the causes and effects of earthquakes.
+          </p>
+
     </div>
 
   </div>
