@@ -62,29 +62,6 @@ if (!isset($TEMPLATE)) {
   </div>
 </div>
 
-<h2>@USGSBigQuakes</h2>
-<hr />
-<div class="row">
-  <div class="two-of-three column">
-    <p>
-      <a href="https://twitter.com/USGSBigQuakes">@USGSBigQuakes</a> (USGS Big
-      Quakes) is for users who are only interested in seismically derived
-      content. @USGSBigQuakes distributes alerts for earthquakes worldwide with
-      magnitudes of 5.5 and above. The tweets do not include the frequency of
-      tweets containing the word &ldquo;earthquake&rdquo;.
-    </p>
-    <a href="https://twitter.com/USGSBigQuakes" class="twitter-follow-button">
-      Follow @USGSBigQuakes
-    </a>
-  </div>
-  <div class="one-of-three column">
-    <a class="twitter-timeline" href="https://twitter.com/USGSBigQuakes"
-        data-widget-id="379700916972044288">
-      Tweets by @USGSBigQuakes
-    </a>
-  </div>
-</div>
-
 <script>
   (function(d, id){
     var js,
