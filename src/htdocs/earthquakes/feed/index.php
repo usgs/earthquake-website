@@ -34,9 +34,7 @@
               alt="Earthquake Notification Service icon"  width="75"/>
         </a>
         <p>
-          The Earthquake Notification Service (ENS) is a free service that
-          sends you automated notifications to your email or cell phone when
-          earthquakes happen.
+          The Earthquake Notification Service (ENS) is a free service that gruntsends you automated notifications to your email or cell phone when earthquakes happen.
         </p>
       </li>
     </ul>
@@ -45,19 +43,19 @@
     <section class="one-of-three column">
       <ul class="no-style linklist">
       <li>
-        <a href="/earthquakes/ted/">
-          <h4>Tweet Earthquake Dispatch (TED)</h4>
-          <img src="images/ted.png" alt="Tweet Earthquake Dispatch icon"  width="75"/>
+        <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-information-social-media-and-rss-feeds">
+          <h4>Earthquake Information Social Media and RSS Feeds</h4>
+          <img src="images/atom.png" alt="RSS icon"  width="75"/>
         </a>
         <p>
-          Tweet Earthquake Dispatch (TED) offers two Twitter accounts. On
-          average, each account will produce about one tweet per day.
+          A list and description of all the earthquake-related social media accounts and RSS feeds.
         </p>
       </li>
     </ul>
   </section>
 </div>
 
+<hr/>
 <h2>Real-time Feeds <img class="anss-logo" src="/earthquakes/images/ANSS_logo.gif" alt="logo"/></h2>
 <div class="row">
   <section class="three-of-three column">
