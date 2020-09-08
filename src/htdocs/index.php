@@ -71,7 +71,7 @@ if (!isset($TEMPLATE)) {
           <li><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards">View News and Highlights</a></li>
           <li><a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/news">News and Highlights Archives</a></li>
         </ul>
-          <p><a href="https://www.usgs.gov/programs/1774/news/feed"><img style="padding-right:12px;" src="images-home/rssfeed.gif" alt="ATOM feed">Subscribe</a></p>
+          <p><a href="https://www.usgs.gov/programs/1774/news/feed"><img style="padding-right:12px;" src="images-home/rssfeed.png" alt="ATOM feed">Subscribe</a></p>
       </div>
 
           <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/faqs-category">
