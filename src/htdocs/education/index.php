@@ -24,7 +24,7 @@ echo '
         The Science of Earthquakes</a> - the basics in brief.
       </li>
       <li>
-        <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-animations">
+        <a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-animations?qt-science_center_objects=7#qt-science_center_objects">
         Animations for Earthquake Terms &amp; Concepts</a>
       </li>
       <li>
