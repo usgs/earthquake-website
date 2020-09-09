@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.17)
 # Database: earthquake
-# Generation Time: 2020-08-03 20:58:35 +0000
+# Generation Time: 2020-09-09 18:11:51 +0000
 # ************************************************************
 
 
@@ -3260,7 +3260,7 @@ VALUES
 	(288,'Tsunami Hazard Mitigation','Univ. of Washington','http%3A%2F%2Fearthweb.ess.washington.edu%2Ftsunami%2Fgeneral%2Fmitigation%2Fmitigation.html','Information about tsunamis that may save your life. Material excerpted from \"Tsunami! The Great Waves\"'),
 	(342,'Tsunami Preparedness Guidebook','GeoHazards International','http%3A%2F%2Fgeohaz.org%2Fprojects%2Ftsunami_guidebook.html','Downloadable PDF and additional links to tsunami preparedness websites.'),
 	(450,'The Parkfield, California Earthquake Experiment','USGS','/learn/parkfield/','Information about past earthquakes and current monitoring efforts.'),
-	(341,'Animations for Earthquake Terms and Concepts','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-animations','Flash animations illustrating basic earthquake terms and concepts.'),
+	(341,'Animations for Earthquake Terms and Concepts','USGS','https://www.usgs.gov/natural-hazards/earthquake-hazards/science/earthquake-animations?qt-science_center_objects=7#qt-science_center_objects','Flash animations illustrating basic earthquake terms and concepts.'),
 	(254,'This Dynamic Planet','USGS','http%3A%2F%2Fpubs.usgs.gov%2Fimap%2F2800%2F','World Map of Volcanoes, Earthquakes, Impact Craters, and Plate Tectonics '),
 	(255,'Continents on the Move','PBS-Nova','http%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fnova%2Fice%2Fcontinents%2F','How do we know that continents are still moving?'),
 	(466,'Watch Buildings Move During Earthquakes','American Geophysical Union (AGU)','http%3A%2F%2Fblogs.agu.org%2Ftremblingearth%2F2014%2F06%2F16%2Fbuildings-shaking-in-earthquakes%2F','Real videos of buildings shaking during real earthquakes, and some re-creations.'),
