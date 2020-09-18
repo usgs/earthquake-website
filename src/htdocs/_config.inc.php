@@ -8,7 +8,7 @@ $SITE_SITENAV =
   '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes">Earthquakes</a>' .
   '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/hazards">Hazards</a>' .
   '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/data-tools">Data</a>' .
-  '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/education">Learn</a>' .
+  '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/education">Education</a>' .
   '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/monitoring">Monitoring</a>' .
   '<a href="https://www.usgs.gov/natural-hazards/earthquake-hazards/research">Research</a>';
 
