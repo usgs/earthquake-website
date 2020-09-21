@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
 // Contact: David Wald, wald@usgs.gov
-// Last modified: 01/27/2016
+
 if (!isset($TEMPLATE)) {
   $TITLE = 'onePAGER Information';
   $NAVIGATION = true;
@@ -27,7 +27,7 @@ if (!isset($TEMPLATE)) {
   intensity level as well as the likely ranges of fatalities and economic
   losses. PAGER does not consider secondary effects such as landslides,
   liquefaction, and tsunami in loss estimates at this time. For tsunami warnings
-  see <a href="http://tsunami.noaa.gov">http://tsunami.noaa.gov/</a>
+  see <a href="http://tsunami.gov/">http://tsunami.gov/</a>
 </p>
 <p>
 Information on the extent of shaking will be uncertain in the minutes and
